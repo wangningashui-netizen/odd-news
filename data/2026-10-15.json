@@ -1,8 +1,49 @@
 {
   "date": "2026-10-15",
   "timezone": "Asia/Shanghai",
-  "count": 6,
+  "count": 11,
   "items": [
+    {
+      "id": "f303bcc0de2829fb",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/jantar-mantar-chalo-protest-game-viral-10923262/",
+      "title_en": "‘Dodge the police, hold a dharna’: 27-year-old’s Jantar Mantar protest game goes viral",
+      "title_zh": "“躲避警察，举行佛法”：27 岁的 Jantar Mantar 抗议游戏走红",
+      "summary_en": "Called ‘Jantar Mantar Chalo’, the game lets players experience the situation from either side of the barricades, choosing to join the protesters or play as the Delhi Police.",
+      "summary_zh": "这款游戏名为“Jantar Mantar Chalo”，让玩家从路障两侧体验情况，选择加入抗议者或扮演德里警察。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Jantar-Mantar-protest-game.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-15T20:48:03+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9d13b6e582662424",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/law-student-works-for-blinkit-reveals-day-1-earnings-a-boon-for-people-like-me-10922984/",
+      "title_en": "Law student works for Blinkit, reveals Day 1 earnings: ‘A boon for people like me’",
+      "title_zh": "在 Blinkit 工作的法学院学生透露第一天的收入：“对像我这样的人来说是一个福音”",
+      "summary_en": "The law student clarified that his LLB remains his primary focus and that he took up delivery work to manage his expenses while continuing his degree.",
+      "summary_zh": "这位法学院学生澄清说，他的法学学士学位仍然是他的主要关注点，他在继续攻读学位的同时从事送货工作以管理费用。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/law-student-Blinkit-job.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-15T18:10:18+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "a555b4f851887804",
       "url": "https://bbc.com/news/articles/c6073zym7x4mo",
@@ -17,7 +58,72 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-15T15:28:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b4c04cdbd58f3aa4",
+      "url": "https://indianexpress.com/article/trending/trending-globally/mark-zuckerberg-react-viral-guinness-beer-sipping-video-thats-just-my-face-10922661/",
+      "title_en": "Zuckerberg reacts to viral Guinness beer-sipping video: ‘That’s just my face’",
+      "title_zh": "扎克伯格对疯传的吉尼斯啤酒视频做出反应：“这就是我的脸”",
+      "summary_en": "Mark Zuckerberg appeared on Irish billionaire John Collison’s Cheeky Pint show alongside Alexandr Wang, Meta’s chief AI officer, for a conversation over drinks.",
+      "summary_zh": "马克·扎克伯格 (Mark Zuckerberg) 出现在爱尔兰亿万富翁约翰·科里森 (John Collison) 的 Cheeky Pint 秀上，与 Meta 的首席人工智能官亚历山大·王 (Alexandr Wang) 一起喝酒聊天。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Mark-Zuckerberg-Guinness-reaction.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-15T15:03:14+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事",
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "76f3c7962829a8a5",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/koffee-with-karan-ravi-kishan-king-of-virality-10922631/",
+      "title_en": "Ravi Kishan viral memes: Why Karan Johar calls him the ‘king of virality’",
+      "title_zh": "拉维·基尚（Ravi Kishan）病毒式传播模因：为什么卡兰·乔哈尔（Karan Johar）称他为“病毒式传播之王”",
+      "summary_en": "During the show’s popular Rapid Fire round, actor Karisma Kapoor asked Karan Johar about the Instagram account he follows most closely.",
+      "summary_zh": "在节目广受欢迎的Rapid Fire 回合中，演员卡里斯玛·卡普尔 (Karisma Kapoor) 向卡兰·乔哈尔 (Karan Johar) 询问了他最关注的 Instagram 帐户。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Karan-Johar-Ravi-Kishan.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-15T14:43:57+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1cdb2ff3f2f4e288",
+      "url": "https://indianexpress.com/article/trending/trending-globally/prince-william-cricket-with-sourav-ganguly-ajinkya-rahane-brian-lara-video-10922475/",
+      "title_en": "Prince William faces Sourav Ganguly in London cricket match; Brian Lara joins in",
+      "title_zh": "威廉王子在伦敦板球比赛中对阵苏拉夫·甘古利；布莱恩·拉拉加盟",
+      "summary_en": "The Mall, usually associated with royal processions and public celebrations, hosted a game of tennis-ball cricket as Prince William picked up a bat and faced deliveries from Ganguly.",
+      "summary_zh": "该购物中心通常与皇家游行和公众庆祝活动有关，在威廉王子拿起球棒并面对甘古利的交付时，举办了一场网球板球比赛。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Prince-Williams-playing-cricket-with-Indian-cricketers.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-15T12:35:36+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a92acabf5e38951c",
@@ -33,7 +139,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-15T05:45:50+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a30caeb586e82f6b",
@@ -49,7 +159,11 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-10-15T05:42:02+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "97a21c4af80e4a1a",
@@ -65,7 +179,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-15T03:57:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8096493ff1cfc456",
@@ -81,7 +199,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-15T00:09:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "55c3bb509163b7a5",
@@ -97,7 +220,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-15T00:00:18+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-05",
+  "timezone": "Asia/Shanghai",
+  "count": 4,
+  "items": [
+    {
+      "id": "908cdf26dbd6ab52",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/voice-behind-delhi-metro-shammi-narang-takes-grandson-on-first-ride-little-boys-reaction-goes-viral-10907512/",
+      "title_en": "Voice behind Delhi Metro takes grandson on first ride, little boy’s reaction goes viral",
+      "title_zh": "德里地铁背后的声音带孙子第一次乘坐，小男孩的反应疯传",
+      "summary_en": "For his grandson Rushaan, hearing that familiar voice echo through a Metro coach for the first time was a moment of sheer surprise, and one that his grandfather captured on video.",
+      "summary_zh": "对于他的孙子 Rushaan 来说，第一次听到地铁车厢里回响着熟悉的声音是一个完全惊讶的时刻，他的祖父在视频中捕捉到了这一时刻。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Shammi-Narang-Delhi-Metro.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-05T18:04:59+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c6c3d5682ad44a26",
+      "url": "https://indianexpress.com/article/trending/trending-globally/egyptian-shopkeeper-catches-child-falling-from-balcony-video-10907296/",
+      "title_en": "Egyptian shopkeeper catches child falling from balcony: ‘Had no time to think’",
+      "title_zh": "埃及店主抓住从阳台坠落的孩子：“没有时间思考”",
+      "summary_en": "CTV footage from Giza Governorate captured the moment shopkeeper Ahmed Ragab sprang into action to catch a 4-year-old boy who fell from a second-floor balcony after briefly tangling in a washing line.",
+      "summary_zh": "吉萨省的中央电视台镜头捕捉到了店主艾哈迈德·拉加布 (Ahmed Ragab) 立即采取行动去接住一名 4 岁男孩的瞬间，该男孩因短暂地被晾衣绳缠住而从二楼阳台坠落。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Man-saves-kid-falling-from-balcony-video.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-05T16:02:22+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "89fb98feadfc1218",
+      "url": "https://indianexpress.com/article/trending/trending-globally/indian-man-slaps-kick-streamer-inside-vietnam-7-eleven-video-how-incident-unfolded-10907134/",
+      "title_en": "Indian man slaps Kick streamer inside Vietnam 7-Eleven: How the incident unfolded",
+      "title_zh": "印度男子在越南7-11便利店内掌掴Kick彩带：事件是如何展开的",
+      "summary_en": "The Kick streamer pointed his camera at the Indian man in the convenience store and kept recording him.",
+      "summary_zh": "Kick主播将相机对准了便利店里的印度男子，一直在拍摄他的视频。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Kick-streamer-slapped.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-05T13:52:28+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b6440d869f54bf2f",
+      "url": "https://indianexpress.com/article/trending/trending-globally/israeli-singer-itay-benda-shah-rukh-khan-tujh-mein-rab-dikhta-hai-captain-smit-machchhar-tribute-10907009/",
+      "title_en": "Israeli singer learns Shah Rukh Khan song to honour Flydubai pilot Smit Machchhar",
+      "title_zh": "以色列歌手学习沙鲁克·汗的歌曲以纪念迪拜航空飞行员斯密特·马赫查尔",
+      "summary_en": "The musician learned the Hindi song and dedicated his performance to “brave” Captain Machchhar and Indians worldwide.",
+      "summary_zh": "这位音乐家学习了这首印地语歌曲，并将他的表演献给“勇敢的”马赫恰尔船长和全世界的印第安人。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Israeli-singer-Hindi-song-Captain-Smit.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-05T12:19:31+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

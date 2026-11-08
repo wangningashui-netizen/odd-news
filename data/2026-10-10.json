@@ -1,8 +1,28 @@
 {
   "date": "2026-10-10",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 10,
   "items": [
+    {
+      "id": "fc5b34c751a08a2f",
+      "url": "https://indianexpress.com/article/trending/trending-globally/mexican-wrestler-hijo-de-fishman-charged-manslaughter-referee-death-10915864/",
+      "title_en": "Mexican wrestler Hijo de Fishman charged with manslaughter after referee’s death",
+      "title_zh": "墨西哥摔跤手 Hijo de Fishman 在裁判死亡后被控过失杀人罪",
+      "summary_en": "Hijo de Fishman was arrested on Wednesday, October 7, in Hidalgo, Mexico, in connection with the death of veteran referee Gerardo German Pineda, popularly known as 'El Búho'.",
+      "summary_zh": "Hijo de Fishman 于 10 月 7 日星期三在墨西哥伊达尔戈被捕，罪名与资深裁判 Gerardo German Pineda（俗称“El Búho”）的死亡有关。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/MExican-wrestler-charged-with-manslaughter-1.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T21:59:38+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "5da2c512f9af6a51",
       "url": "https://nypost.com/2026/10/10/lifestyle/cvs-shopper-sees-nazi-symbolism-in-barbie-package/",
@@ -17,7 +37,131 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-10T21:41:40+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "64974357e9847699",
+      "url": "https://indianexpress.com/article/trending/trending-globally/happiness-is-sky-high-hungarian-free-diver-zsofia-torocsik-sets-world-record-with-350-foot-dive-10915477/",
+      "title_en": "‘Happiness is sky-high’: Hungarian free diver Zsófia Törőcsik sets world record with 350-foot dive",
+      "title_zh": "“幸福如天高”：匈牙利自由潜水员索菲亚·托尔奇克 (Zsófia Törőcsik) 以 350 英尺潜水创下世界纪录",
+      "summary_en": "The Hungarian athlete also secured the Overall Women’s World Champion title for the second consecutive year at the competition. (1)",
+      "summary_zh": "这位匈牙利运动员还连续第二年在比赛中获得女子全场世界冠军称号。 (1)",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/The-Hungarian-athlete-also-secured-the-Overall-Womens-World-Champion-title-for-the-second-consecutive-year-at-the-competition.-1.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T20:26:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c5f4ffe18d2b3057",
+      "url": "https://indianexpress.com/article/trending/trending-globally/thailand-queen-suthida-gripen-fighter-jet-solo-flight-10915755/",
+      "title_en": "Watch: Thailand’s Queen Suthida’s first solo flight in fighter jet wows social media",
+      "title_zh": "观看：泰国王后苏提达首次单独驾驶战斗机飞行令社交媒体惊叹不已",
+      "summary_en": "Queen Suthida Bajrasudhabimalalakshana’s experience in aviation goes back more than a decade. She became a pilot in May 2010.",
+      "summary_zh": "苏蒂达·巴杰拉苏达比马拉拉克沙纳 (Suthida Bajrasudhabimalalakshana) 王后在航空领域的经验可以追溯到十多年前。她于2010年5月成为一名飞行员。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Thailand-Queen-Suthida-Gripen-fighter-jet.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T20:16:04+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "7f0a6039f3dfed47",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/most-powerful-women-in-asia-2026-dbs-group-ceo-at-no-1-indias-roshni-nadar-malhotra-takes-no-8-spot-10915252/",
+      "title_en": "Most powerful women in Asia 2026: DBS Group CEO at No. 1, India’s Roshni Nadar Malhotra takes No. 8 spot",
+      "title_zh": "2026 年亚洲最具影响力女性：星展集团首席执行官排名第一，印度的 Roshni Nadar Malhotra 排名第八",
+      "summary_en": "Tan Su Shan (DBS Group) and Roshni Nadar Malhotra (HCLTech) are among the top 10 most powerful women in Asia according to Fortune.",
+      "summary_zh": "据《财富》杂志评选，陈苏珊（星展集团）和罗什尼·纳达尔·马尔霍特拉（HCLTech）跻身亚洲十大最具影响力的女性之列。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Tan-Su-Shan-DBS-Group-and-Roshni-Nadar-Malhotra-HCLTech-are-among-the-top-10-most-powerful-women-in-Asia-according-to-Fortune.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T20:05:55+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "af296f961147e508",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/sumeet-raghvan-himachal-pradesh-tattapani-hot-springs-littering-video-10915596/",
+      "title_en": "‘Fault in Indian DNA’: Sarabhai vs Sarabhai actor calls out tourists for littering in Himachal",
+      "title_zh": "“印度 DNA 中的缺陷”：《Sarabhai vs Sarabhai》演员斥责游客在喜马偕尔邦乱扔垃圾",
+      "summary_en": "Actor Sumeet Raghvan expressed disappointment over the lack of civic sense and urged the Himachal Pradesh government to take strict action against those who litter.",
+      "summary_zh": "演员苏米特·拉格万对缺乏公民意识表示失望，并敦促喜马偕尔邦政府对乱扔垃圾的人采取严厉行动。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Sumeet-Raghvan-Tattapani-hot-springs-littering.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T19:15:27+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b7cf117b971db267",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/sridhar-vembu-elon-musk-starlink-india-data-prices-10915414/",
+      "title_en": "‘India has lowest data prices’: Zoho CEO Sridhar Vembu hits back at Elon Musk",
+      "title_zh": "“印度的数据价格最低”：Zoho 首席执行官 Sridhar Vembu 回击埃隆·马斯克",
+      "summary_en": "Amid the debate surrounding Elon Musk’s Starlink, Sridhar Vembu argued that India’s low-cost data plans, affordable medicines and digital payment infrastructure were evidence of a competitive economy.",
+      "summary_zh": "在围绕埃隆·马斯克星链的争论中，斯里达尔·文布认为，印度低成本的数据计划、负担得起的药品和数字支付基础设施是经济竞争的证据。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Sridhar-Vembu-on-Starlink.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T16:11:43+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e92c55e700f35193",
+      "url": "https://indianexpress.com/article/trending/trending-globally/navi-pillay-nobel-peace-prize-2026-donald-trump-joke-10915250/",
+      "title_en": "Nobel Peace Prize winner Navi Pillay jokes about sharing award with Trump: ‘Clap a little bit more’",
+      "title_zh": "诺贝尔和平奖获得者纳维·皮莱开玩笑说与特朗普分享奖项：“多鼓掌一点”",
+      "summary_en": "Navanethem ‘Navi’ Pillay admitted that she initially thought the Nobel award announcement was a joke. ‘Being a lawyer and a judge, I still want to verify this,’ she said.",
+      "summary_zh": "纳瓦尼特姆·“纳维”·皮莱承认，她最初认为诺贝尔奖的宣布是一个笑话。 “作为一名律师和法官，我仍然想验证这一点，”她说。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Navi-Pillay-Nobel-Peace-Prize-2026.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-10T14:21:44+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f659925c4b044228",
@@ -33,7 +177,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-10T05:45:35+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "科学发现",
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3dfa871783754857",
@@ -49,7 +198,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-10T02:00:38+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

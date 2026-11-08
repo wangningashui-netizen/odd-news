@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "Asia/Shanghai",
-  "count": 7,
+  "count": 9,
   "items": [
     {
       "id": "da88956446f9e26a",
@@ -17,7 +17,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-19T22:29:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5cd7a67e29d89adf",
@@ -33,7 +38,51 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-10-19T19:58:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9d1a7a4b48a0e17d",
+      "url": "https://indianexpress.com/article/trending/trending-globally/why-this-uk-graduate-spent-39000-to-study-content-creation-10926576/",
+      "title_en": "Why this UK graduate spent $39,000 to study content creation",
+      "title_zh": "为什么这位英国毕业生花费 39,000 美元来学习内容创作",
+      "summary_en": "Destiny McGowan graduated with a honours in content creation from Nottingham Trent university while content creator Aiesha Beasley emphasises on why a content creation degree is beneficial. (insta",
+      "summary_zh": "Destiny McGowan 以优异的成绩毕业于诺丁汉特伦特大学内容创作专业，而内容创作者 Aiesha Beasley 则强调了为什么内容创作学位是有益的。 （即时",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Destiny-McGowan-graduated-with-a-honours-in-content-creation-from-Nottingham-Trent-university-while-content-creator-Aiesha-Beasley-emphasises-on-why-a-content-creation-degree-is-beneficial.-insta.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-19T17:30:37+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9d7c38c18e4cafc5",
+      "url": "https://indianexpress.com/article/trending/trending-globally/60-year-old-dancing-uncle-of-japan-is-winning-hearts-on-the-internet-10926962/",
+      "title_en": "60-year-old ‘dancing uncle of Japan’ is winning hearts on the internet",
+      "title_zh": "60岁“日本跳舞大叔”在网络上俘获人心",
+      "summary_en": "Dressed in crisp suits by day and streetwear by night, Toru Utsumi, affectionately known as Uncle Tohru across social media has become a global internet sensation. (instagram tohru_dance)",
+      "summary_zh": "内海彻 (Toru Utsumi) 白天穿着挺括的西装，晚上则穿着街头服饰，在社交媒体上被亲切地称为“彻叔叔”，已成为全球网络红人。 （Instagram tohru_dance）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Dressed-in-crisp-suits-by-day-and-streetwear-by-night-Toru-Utsumi-affectionately-known-as-Uncle-Tohru-across-social-media-has-become-a-global-internet-sensation.-instagram-tohru_dance-.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-19T11:45:09+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c526e1c979211141",
@@ -49,7 +98,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-19T08:52:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "5997cd089285e54e",
@@ -65,7 +119,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-10-19T08:37:05+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5f80321c44a8ddd5",
@@ -81,7 +139,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-19T04:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9e8d11d724191833",
@@ -97,7 +159,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-19T02:37:53+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "44315aaace12c84a",
@@ -113,7 +179,11 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-19T02:03:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

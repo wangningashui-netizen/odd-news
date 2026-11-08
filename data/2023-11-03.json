@@ -17,7 +17,12 @@
       "source_id": "toi-viral",
       "region": "印度",
       "published_at": "2023-11-03T18:19:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

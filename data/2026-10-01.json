@@ -1,8 +1,128 @@
 {
   "date": "2026-10-01",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 9,
   "items": [
+    {
+      "id": "6df53ae958d87003",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/norway-vegetable-prices-india-comparison-10902665/",
+      "title_en": "Indian in Norway compares vegetable prices: ‘Are we failing our farmers’",
+      "title_zh": "挪威的印度人比较蔬菜价格：“我们辜负了我们的农民吗”",
+      "summary_en": "According to Vinod, organic lemons were priced at Rs 850 per kg, tomatoes at Rs 680 per kg, while a single cucumber cost Rs 300.",
+      "summary_zh": "据维诺德介绍，有机柠檬的售价为每公斤 850 卢比，西红柿为每公斤 680 卢比，而一根黄瓜的售价为 300 卢比。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Norway-vegetable-prices.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-01T21:12:45+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "291c079ba58356c9",
+      "url": "https://indianexpress.com/article/trending/trending-globally/martin-ott-productivity-lesson-mark-zuckerberg-work-life-balance-10902612/",
+      "title_en": "Ex-Meta exec says Mark Zuckerberg taught him work-life balance: ‘It is a marathon, not a sprint’",
+      "title_zh": "前 Meta 高管表示，马克·扎克伯格教会了他工作与生活的平衡：“这是一场马拉松，而不是短跑”",
+      "summary_en": "Martin Ott said one of his biggest takeaways from working under Zuckerberg was learning how to use limited time effectively rather than trying to fill every available hour with work.",
+      "summary_zh": "马丁·奥特表示，在扎克伯格手下工作的最大收获之一就是学习如何有效利用有限的时间，而不是试图用工作来填满每一个小时。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Mark-Zuckerberg-Martin-Ott.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-01T20:32:23+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4b988e7db7a7c690",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bengaluru-cost-of-living-rs-1-lakh-salary-debate-10902264/",
+      "title_en": "‘Don’t come with under Rs 1 lakh salary’: Techie slams Bengaluru’s ‘overpriced’ lifestyle",
+      "title_zh": "“不要拿着低于10万卢比的薪水”：技术人员抨击班加罗尔“价格过高”的生活方式",
+      "summary_en": "A Bengaluru product manager has sparked an online debate after claiming that the city's commercialisation has made Rs 12 LPA feel like Rs 4 LPA.",
+      "summary_zh": "班加罗尔的一位产品经理声称该城市的商业化让 12 卢比的 LPA 感觉就像 4 卢比的 LPA，这在网上引发了一场争论。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Bengaluru-cost-of-living.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-01T17:00:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5ade141db5f2e515",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/anant-ambani-promises-9-crore-treatment-toddler-sma-type-1-vedansh-singh-10901918/",
+      "title_en": "‘Shivering with happiness’: Anant Ambani offers to fund Rs 9 crore treatment for 23-month-old Vedansh",
+      "title_zh": "“幸福得发抖”：阿南特·安巴尼 (Anant Ambani) 愿意为 23 个月大的维丹什 (Vedansh) 提供 9 千万卢比的治疗资金",
+      "summary_en": "Vedansh Singh, who is battling Spinal Muscular Atrophy Type 1, had become the focus of a fundraising campaign led by Mumbai-based influencer Mayuresh Gujar and his team.",
+      "summary_zh": "正在与 1 型脊髓性肌肉萎缩症作斗争的维丹什·辛格 (Vedansh Singh) 已成为孟买网红 Mayuresh Gujar 及其团队领导的筹款活动的焦点。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Anant-Ambani-Vedansh-Singh.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-01T14:35:49+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5c6f638fe1a53b79",
+      "url": "https://indianexpress.com/article/trending/trending-globally/smit-machchhar-trump-praises-indian-pilot-flydubai-incident-10901800/",
+      "title_en": "‘A hero’: Trump on Indian pilot Smit Machchhar after mid-air cockpit attack",
+      "title_zh": "“英雄”：特朗普在印度飞行员斯密特·马赫恰尔（Smit Macchhar）遭遇空中驾驶舱袭击后将其称为“英雄”",
+      "summary_en": "Flydubai flight FZ1073, travelling from Dubai to Tel Aviv on September 30, was forced to make an emergency landing in Tabuk, Saudi Arabia.",
+      "summary_zh": "9月30日，迪拜航空FZ1073航班从迪拜飞往特拉维夫，被迫紧急降落在沙特阿拉伯塔布克。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Trump-calls-Indian-pilot-a-hero.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-01T13:19:29+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a9a904b062826165",
+      "url": "https://indianexpress.com/article/trending/trending-globally/flydubai-smit-machchhar-old-interview-pilot-aviation-journey-10901720/",
+      "title_en": "‘Aviation wasn’t a childhood dream’: What flydubai pilot Smit Machchhar said in old interview",
+      "title_zh": "“航空不是儿时的梦想”：迪拜航空飞行员 Smit Macchhar 在旧采访中说道",
+      "summary_en": "Smit Machchhar was injured during an incident involving his flyhdubai co-pilot, who allegedly attempted to crash the aircraft.",
+      "summary_zh": "斯密特·马赫恰尔 (Smit Macchhar) 在一次涉及迪拜航空副驾驶的事件中受伤，据称他试图撞毁飞机。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Smit-Machchhar-Indian-pilot.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-01T12:26:27+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "0689812404d67297",
       "url": "https://allthatsinteresting.com/titanic-lifeboats",
@@ -17,7 +137,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-01T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9bdf0fb108bed464",
@@ -33,7 +157,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-01T05:45:23+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "科学发现",
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "56b7239356705fe4",
@@ -49,7 +178,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-10-01T00:53:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 12,
   "items": [
     {
       "id": "2ed96c156fa78ae1",
@@ -17,7 +17,171 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-14T23:58:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "45256373ee6a96f1",
+      "url": "https://indianexpress.com/article/trending/trending-globally/australia-employee-fired-work-from-home-holiday-singapore-company-tracks-laptop-10921687/",
+      "title_en": "‘Working from home’ in Sydney, man caught holidaying in Singapore after company tracks laptop",
+      "title_zh": "悉尼“在家工作”男子在新加坡度假被公司追踪笔记本电脑抓获",
+      "summary_en": "Earlier, Charles Graham told his manager he needed to work from home because a plumber was coming to fix his toilet, but he was actually in Bali.",
+      "summary_zh": "早些时候，查尔斯·格雷厄姆告诉他的经理，他需要在家工作，因为水管工要来修理他的厕所，但他实际上在巴厘岛。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/remote-work-fraud.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T21:28:19+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "卫生环境"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a410062287004663",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/cisco-tops-fortunes-list-of-best-technology-workplaces-for-2026-10921157/",
+      "title_en": "Cisco tops Fortune’s list of best technology workplaces for 2026",
+      "title_zh": "思科荣登《财富》2026 年最佳技术工作场所排行榜榜首",
+      "summary_en": "Cisco topped Fortune's ranking for the best workplaces in information technology.",
+      "summary_zh": "思科在《财富》杂志的信息技术最佳工作场所排名中名列前茅。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Cisco-topped-Fortunes-ranking-for-the-best-workplaces-in-information-technology.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T20:13:45+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "080ddcf41f02fa47",
+      "url": "https://indianexpress.com/article/trending/trending-globally/i-have-no-money-sofia-panwar-forbes-30-under-30-founder-seeks-unemployment-aid-10921567/",
+      "title_en": "‘I have no money’: Forbes 30 Under 30 entrepreneur seeks unemployment aid",
+      "title_zh": "“我没有钱”：福布斯 30 位 30 岁以下企业家寻求失业援助",
+      "summary_en": "Sofia Panwar, founder of lingerie subscription service Unndr, discusses the 'shame' she felt after her UK business collapsed.",
+      "summary_zh": "内衣订阅服务 Unndr 的创始人索菲亚·潘瓦尔 (Sofia Panwar) 讨论了她在英国业务倒闭后感受到的“耻辱”。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Sofia-Panwar.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T19:49:35+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d643934f888f23c9",
+      "url": "https://indianexpress.com/article/trending/trending-globally/meta-officer-alexandr-wang-reveal-mark-zuckerberg-whatsapp-habit-10921277/",
+      "title_en": "Meta officer reveals Mark Zuckerberg’s surprising WhatsApp habit: ‘How does he have time?’",
+      "title_zh": "Meta 官员揭示了马克·扎克伯格令人惊讶的 WhatsApp 习惯：“他怎么有时间？”",
+      "summary_en": "Before joining Meta, Alexandr Wang occasionally sought Zuckerberg’s business advice on WhatsApp, but was surprised by the detailed replies the busy CEO sent him.",
+      "summary_zh": "在加入 Meta 之前，Alexandr Wang 偶尔会在 WhatsApp 上寻求扎克伯格的商业建议，但对这位忙碌的首席执行官发给他的详细回复感到惊讶。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Mark-Zuckerberg-communication-skills.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T17:12:32+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d84bb25eab4b12f9",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/sidhu-moose-walas-thaapi-lives-on-brother-draws-cheers-at-toronto-concert-10920925/",
+      "title_en": "Sidhu Moose Wala’s ‘thaapi’ lives on: Brother draws cheers at Toronto concert",
+      "title_zh": "Sidhu Moose Wala 的“thaapi”继续存在：兄弟在多伦多音乐会上引来欢呼",
+      "summary_en": "Sidhu Moosewala’s younger brother, Shubhdeep, left thousands of fans emotional at a Toronto concert by recreating the singer's iconic Thaapi thigh-slap gesture.",
+      "summary_zh": "Sidhu Moosewala 的弟弟 Shubhdeep 在多伦多的一场音乐会上重现了歌手标志性的 Thaapi 拍大腿动作，让成千上万的歌迷激动不已。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Sidhu-Moosewalas-younger-brother-Shubhdeep-left-thousands-of-fans-emotional-at-a-Toronto-concert-by-recreating-the-singers-iconic-Thaapi-thigh-slap-gesture.-.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T15:27:09+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f00c9c602f7ef243",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bittu-tabahi-ajnar-river-littered-again-rajgarh-madhya-pradesh-viral-video-10920981/",
+      "title_en": "‘8 months of hard work went to waste’: Bittu Tabahi finds Ajnar River littered again",
+      "title_zh": "“8个月的努力付诸东流”：比图·塔巴希发现阿杰纳尔河再次乱七八糟",
+      "summary_en": "Bittu Tabahi's video sparked a discussion about public responsibility and the recurring problem of people dumping waste into water bodies.",
+      "summary_zh": "Bittu Tabahi 的视频引发了关于公共责任和人们向水体倾倒废物这一反复出现的问题的讨论。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Bittu-Tabahi-Ajnar-River-garbage.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T14:12:05+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3a95108a7b5c542a",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/madurai-influencer-fake-cod-orders-veeramani-10920954/",
+      "title_en": "Rs 1.69 lakh TV, phones: Why a Madurai man is flooded with fake COD orders",
+      "title_zh": "价值 16.9 万卢比的电视、电话：为什么一名马杜赖男子会收到大量假货到付款订单",
+      "summary_en": "Madurai influencer Veeramani alleges strangers placed fake COD orders for TVs, refrigerators and smartphones after he shared his address for Diwali sweets.",
+      "summary_zh": "马杜赖网红 Veeramani 声称，在他分享了排灯节糖果的地址后，陌生人给电视、冰箱和智能手机下了虚假的货到付款订单。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Madurai-man-COD-orders.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T13:49:51+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ffa2a7562bec25df",
+      "url": "https://indianexpress.com/article/trending/trending-globally/zohran-mamdanis-festive-message-celebrates-navaratri-many-traditions-garba-sindur-khela-golu-10920883/",
+      "title_en": "Zohran Mamdani’s festive message celebrates Navratri’s many traditions",
+      "title_zh": "Zohran Mamdani 的节日致辞庆祝了九夜节的众多传统",
+      "summary_en": "Mamdani’s mention of regional festive traditions prompted users to share their own celebrations and greetings.",
+      "summary_zh": "马姆达尼提到的地区节日传统促使用户分享他们自己的庆祝活动和问候。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/mamdani-video_20261014050230.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-14T13:05:01+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f14fe37e063f0b60",
@@ -33,7 +197,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-14T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "83167c72ff66b631",
@@ -49,7 +217,11 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-10-14T07:47:04+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c819d5bbf8a64685",
@@ -65,7 +237,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-14T05:45:43+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 10,
   "items": [
     {
       "id": "2d03373f8b4b0087",
@@ -17,7 +17,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-09-26T23:51:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ab83810580337a3c",
@@ -33,7 +37,31 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-26T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e4f4854dc3d86999",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-self-made-women-in-india-2026-jayshree-ullal-retains-her-no-1-position-10894809/",
+      "title_en": "Top 10 Self-Made Women in India 2026: Jayshree Ullal retains her No. 1 position",
+      "title_zh": "2026 年印度十大白手起家女性：Jayshree Ullal 保持第一名的位置",
+      "summary_en": "Top 10 Self-Made Women in the M3M Hurun India Rich List 2026:From tech titan Jayshree Ullal claiming the top spot to beauty and pharma pioneers, the 2026 M3M Hurun India Rich List spotlights the 10 self-made women redefining wealth creation in India.",
+      "summary_zh": "2026 年 M3M 胡润印度富豪榜十大白手起家女性：从夺得榜首的科技巨头 Jayshree Ullal 到美容和制药领域的先驱，2026 年 M3M 胡润印度富豪榜重点关注了 10 位重新定义印度财富创造的白手起家女性。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Jayshree-Ullal-is-still-No.-1-while-Falguni-Nayar-climbs-to-No.2-on-the-list.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-26T21:31:06+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "70a5ff8d61618a7d",
@@ -49,7 +77,91 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-09-26T21:15:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a2d0d4007db7e4e3",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/monkey-enters-ranchi-wine-shop-drinks-liquor-and-falls-asleep-watch-10895158/",
+      "title_en": "Monkey enters Ranchi wine shop, drinks liquor and falls asleep: WATCH",
+      "title_zh": "猴子进入兰契酒店，喝了酒就睡着了：观看",
+      "summary_en": "A man filming the incident can be heard claiming that the monkey is pregnant. He then points towards an empty liquor bottle and says that the monkey consumed all of it.",
+      "summary_zh": "一名拍摄这一事件的男子声称猴子怀孕了。然后他指着一个空酒瓶说猴子把它喝光了。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Ranchi-monkey-wine-shop.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-26T20:07:42+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1fd99205e80485aa",
+      "url": "https://indianexpress.com/article/trending/trending-globally/uk-couple-gets-engaged-underwater-in-shark-tank-skegness-aquarium-10895087/",
+      "title_en": "‘Best day of my life’: UK man surprises ‘shark-lover’ girlfriend with an underwater proposal",
+      "title_zh": "“我一生中最美好的一天”：英国男子在水下求婚，给“鲨鱼爱好者”女友带来惊喜",
+      "summary_en": "Skegness Aquarium congratulated Paige Cook and James Walsh for getting engaged in their shark tank.",
+      "summary_zh": "斯凯格内斯水族馆祝贺佩奇·库克和詹姆斯·沃尔什在他们的鲨鱼缸里订婚。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/shark-diving-proposal.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-26T18:52:27+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "257ebf43eb407603",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/vande-bharat-train-video-harsh-goenka-civic-sense-10894967/",
+      "title_en": "Harsh Goenka shares Vande Bharat video with littered seats: ‘How to teach civic sense?’",
+      "title_zh": "严酷的葛恩卡 (Harsh Goenka) 与乱七八糟的座位分享了范德·巴拉特 (Vande Bharat) 视频：“如何教授公民意识？”",
+      "summary_en": "The video, shared by Harsh Goenka on X, offered a before-and-after look at the passenger experience.",
+      "summary_zh": "该视频由 Harsh Goenka 在 X 上分享，展示了乘客体验前后的对比。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Vande-Bharat-train-video.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-26T16:44:19+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4702b05ab7dad019",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/pm-narendra-modi-bhajan-clubbing-delhi-deendayal-upadhyaya-birth-anniversary-10894733/",
+      "title_en": "PM Modi joins ‘Bhajan Clubbing’ event in Delhi, claps and plays tambourine",
+      "title_zh": "莫迪总理参加在德里举行的“Bhajan Clubbing”活动，击掌并打手鼓",
+      "summary_en": "The event was held at Deen Dayal Upadhyay Park to mark the 110th birth anniversary of Pandit Deendayal Upadhyaya, one of the key leaders of the Bharatiya Jana Sangh.",
+      "summary_zh": "该活动在 Deen Dayal Upadhyay 公园举行，旨在纪念印度人民党 (Bharatiya Jana Sangh) 的主要领导人之一潘迪特·迪恩达亚尔·乌帕迪亚 (Pandit Deendayal Upadhyaya) 诞辰 110 周年。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/PM-Modi-Bhajan-Clubbing.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-26T13:30:51+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d31c3904b480efae",
@@ -65,7 +177,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-26T05:45:13+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ce84a55e07a79c29",
@@ -81,7 +197,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-26T00:00:44+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

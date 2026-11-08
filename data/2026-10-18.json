@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "timezone": "Asia/Shanghai",
-  "count": 8,
+  "count": 10,
   "items": [
     {
       "id": "d9dde07eee8193a6",
@@ -17,7 +17,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-18T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "520e5ecc187e4244",
@@ -33,7 +37,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-18T22:45:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "247e4444cb611d89",
@@ -49,7 +57,32 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-18T21:55:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
+    },
+    {
+      "id": "70300bbb3851071c",
+      "url": "https://indianexpress.com/article/trending/man-speeds-away-to-dodge-traffic-fine-leaves-fallen-wife-behind-husband-of-the-year-10926743/",
+      "title_en": "Man speeds away to dodge traffic fine, leaves fallen wife behind: ‘Husband of the year’",
+      "title_zh": "男子为躲避交通罚款超速行驶，留下倒下的妻子：“年度丈夫”",
+      "summary_en": "In a bid to evade a traffic fine, a man speeds away, leaving his wife behind as she falls on the road.",
+      "summary_zh": "为了逃避交通罚款，一名男子加速逃跑，留下摔倒在路上的妻子。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/The-incident-took-place-in-Uttarakhand.-Photo-Credit-XHateDetectors.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-18T19:31:12+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "718b02a581e7b300",
@@ -65,7 +98,31 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-18T19:20:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "75a4f87e50763dcb",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bittu-tabahis-quest-to-clean-a-river-installs-two-dustbins-one-gets-stolen-10926608/",
+      "title_en": "Bittu Tabahi’s quest to clean a river: installs two dustbins, one gets stolen",
+      "title_zh": "Bittu Tabahi 清理河流的任务：安装了两个垃圾箱，其中一个被偷了",
+      "summary_en": "Bittu Tabahi’s effort to clean a local river highlights India’s civic sense problem when one of his two newly installed dustbins gets stolen instantly.",
+      "summary_zh": "比特图·塔巴希 (Bittu Tabahi) 清理当地河流的努力突显了印度的公民意识问题，因为他新安装的两个垃圾箱中的一个立即被盗。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Bittu-Tabahis-effort-to-clean-a-local-river-highlights-Indias-civic-sense-problem-when-one-of-his-two-newly-installed-dustbins-gets-stolen-instantly.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-18T15:34:10+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "03425fdbbe293fcd",
@@ -81,7 +138,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-18T08:59:48+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ad85ca730853f63f",
@@ -97,7 +158,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-18T05:20:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "763a2cef29dbdd7b",
@@ -113,7 +178,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-18T04:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8d5247f7725ffae8",
@@ -129,7 +198,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-18T01:08:04+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
   "timezone": "Asia/Shanghai",
-  "count": 14,
+  "count": 31,
   "items": [
     {
       "id": "5740524988172b99",
@@ -17,23 +17,33 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-02T23:59:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "db1e398cf6f18d8b",
       "url": "https://www.cheshire-live.co.uk/news/chester-cheshire-news/disabled-woman-extreme-phobia-clowns-30295389",
       "title_en": "Disabled woman with extreme phobia of clowns tries exposure therapy by being chased in wheelchair",
       "title_zh": "患有小丑极度恐惧症的残疾妇女在轮椅上被追赶，尝试暴露疗法",
-      "summary_en": "",
-      "summary_zh": "患有小丑极度恐惧症的残疾妇女在轮椅上被追赶，尝试暴露疗法",
+      "summary_en": "Kerry Greenfield, 41, from Cheshire, has had a 'paralysing phobia' of clowns since she watched the 1990 adaptation of Stephen King's IT on TV while home alone aged 12",
+      "summary_zh": "41 岁的克里·格林菲尔德 (Kerry Greenfield) 来自柴郡，12 岁时独自在家观看了 1990 年改编自史蒂芬·金 (Stephen King) 小说《IT》的电视节目后，她就对小丑产生了“瘫痪恐惧症”",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/hMvCfSrdkop9UqgAsU-GVbO9DdXiBpeJuLY4eRzRB3M.jpeg?width=640&crop=smart&auto=webp&s=2f589ef8f5db24e5e7a7d2b315a310d5a6663fd1",
+      "image": "https://i2-prod.cheshire-live.co.uk/article30295386.ece/ALTERNATES/s1200d/0_knm_clown_phobia_exposure_therapy_15.jpg",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-02T23:38:39+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "c59198447487b03c",
@@ -49,7 +59,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-02T22:05:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6a1b7e4a7f099e9a",
@@ -65,7 +79,51 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-02T21:58:29+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "20e991dcf009c04a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlxok1/revolutionary_freedom_fighter_madan_lal_dhingra/",
+      "title_en": "Revolutionary Freedom Fighter Madan Lal Dhingra",
+      "title_zh": "革命自由斗士马丹·拉尔·丁格拉",
+      "summary_en": "Madan Lal Dhingra was born on September 18, 1883, in Amritsar, Punjab, into a wealthy and influential family. His father, Dr. Sahib Dittamal Dhingra, was a Civil Surgeon who held the British title of Rai Sahib. His brothers also held prominent positions in the civil service and other professions and remained loyal to the British Crown.",
+      "summary_zh": "马丹·拉尔·丁格拉 (Madan Lal Dhingra) 1883 年 9 月 18 日出生于旁遮普邦阿姆利则的一个富有而有影响力的家庭。他的父亲 Sahib Dittamal Dhingra 博士是一名民间外科医生，拥有英国 Rai Sahib 头衔。他的兄弟还在公务员和其他职业中担任要职，并仍然忠于英国王室。",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/726x5wu3f7zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=18d63bd3d87a4b156e4a1668a8429e6cbb83582c",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T21:49:54+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c3318fe465f5fea8",
+      "url": "https://www.indiatoday.in/india/punjab/story/punjab-police-heroin-planting-video-asi-caught-on-camera-planting-drugs-at-shiv-sena-leader-mahant-kashmir-giris-home-row-erupts-3030496-2026-11-02",
+      "title_en": "Punjab Police drugs planting video: ASI caught on camera planting drugs at Shiv Sena leader Mahant Kashmir Giri's home, row erupts - Punjab News",
+      "title_zh": "旁遮普警方种植毒品视频：ASI 被摄像机拍到在 Shiv Sena 领导人马汉特·克什米尔·吉里 (Mahant Kashmir Giri) 的家中种植毒品，引发争吵 - 旁遮普新闻",
+      "summary_en": "A hidden camera allegedly captured Punjab Police ASI Sukhdev Singh planting heroin at a Shiv Sena leader's Khanna home. The footage prompted his suspension, an SIT probe and the leader's discharge from the case.",
+      "summary_zh": "据称，一台隐藏摄像机拍到了旁遮普邦警方 ASI Sukhdev Singh 在 Shiv Sena 领导人 Khanna 的家中种植海洛因。这段视频促使他被停职、接受 SIT 调查以及该领导人被免职。",
+      "translation_status": "fallback",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/punjab-cop-caught-on-cctv-021821910-16x9_0.png?VersionId=w9tS13Lp7crosXcExnoCXZfiewKEErYd",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T21:04:17+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f1dbf8a1442337ac",
@@ -81,7 +139,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-02T21:02:04+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "影视神剧",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "63824798156652ee",
@@ -97,7 +160,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-02T20:33:19+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b662dbd2b5738eed",
@@ -113,7 +180,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-02T20:17:32+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6f932bd3e3c03e78",
@@ -129,7 +200,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-02T19:56:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "195b6d28d9fc95ff",
@@ -145,23 +220,235 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-02T19:11:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c6ce073a381f45bd",
       "url": "https://www.masslive.com/lottery/2026/10/2971m-record-lottery-jackpot-claimed-by-mr-potato-head-trust.html",
       "title_en": "$29.71M record lottery jackpot claimed by Mr. Potato Head Trust",
       "title_zh": "Mr. Potato Head Trust 中得 2,971 万美元创纪录彩票大奖",
-      "summary_en": "",
-      "summary_zh": "Mr. Potato Head Trust 中得 2,971 万美元创纪录彩票大奖",
+      "summary_en": "A massive Megabucks win made history, but the name attached to the prize may be just as memorable.",
+      "summary_zh": "巨额奖金创造了历史，但奖金的名称也同样令人难忘。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/6TXbpVkULxRL2Qb2d4dyGcyPKbSXXkm0BNHunrUEezw.jpeg?width=640&crop=smart&auto=webp&s=254fb516cc5c9b35f7af04edb60415c742636b85",
+      "image": "https://www.masslive.com/resizer/v2/RZUVGULFGVBUNMVQLIZQUSNZQQ.jpg?auth=94488b2bdb6997af6f942add2abc0bf0753370b06aacf0b0b4c2a7f00cf37927&width=1280&smart=true",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-02T18:31:26+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
+    },
+    {
+      "id": "a1d443d7dfd90351",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlthd8/look_at_this_pollution_all_this_is_happening/",
+      "title_en": "“Look at this pollution. All this is happening because these people are doing vote chori”, says LoP Rahul Gandhi as Delhi records lowest avg Jan-Oct AQI in 8 years",
+      "title_zh": "拉胡尔·甘地 (LoP Rahul Gandhi) 表示：“看看这种污染。这一切的发生都是因为这些人在投票”，德里的 1 月至 10 月 AQI 平均空气质量指数创 8 年来最低纪录",
+      "summary_en": "*Excluding year 2020 because of lockdown due to Covid [link] [comments]",
+      "summary_zh": "*不包括 2020 年，因为新冠疫情导致的封锁 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/ODUyNDJlYjBkNnpoMeW2XOFD8o5dMj4VZerDgY1AQKkZgBkLl0igjUWcwE3_.jpeg?width=640&crop=smart&auto=webp&s=1a93ef2675392f2bd7b5fdb522fab1d87d288dff",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T18:16:59+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d48e0b9c3035e2d9",
+      "url": "https://indianexpress.com/article/trending/trending-globally/finland-free-blind-dating-trip-singles-2027-10947226/",
+      "title_en": "Free Finland trip for singles? World’s happiest country is offering an all-expenses-paid blind dating experience",
+      "title_zh": "单身人士免费芬兰之旅？世界上最幸福的国家正在提供免费相亲体验",
+      "summary_en": "The campaign, called the ‘Finnish Dinner Date’, has been launched by Finland’s tourism board.",
+      "summary_zh": "这项名为“芬兰晚餐约会”的活动由芬兰旅游局发起。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Finland-free-trip-for-singles.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-02T17:54:10+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "fdef50283d52abed",
+      "url": "https://www.news18.com/viral/man-reaches-airport-on-time-still-marked-no-show-after-spicejet-prepones-flight-no-explanation-was-provided-ws-l-10408487.html",
+      "title_en": "Man Reaches Airport On Time, Still Marked ‘No-Show’ After SpiceJet Prepones Flight: ‘No Explanation Was Pro",
+      "title_zh": "一名男子准时到达机场，但在香料航空提前航班后仍被标记为“未出现”：“没有任何解释是正确的”",
+      "summary_en": "He shared that he had reached the Mumbai airport at 9 PM for his Delhi SpiceJet flight that was initially scheduled for 11:20 PM, but then the airline suddenly preponed the flight",
+      "summary_zh": "他透露，他于晚上 9 点抵达孟买机场，搭乘德里香料航空 (Delhi SpiceJet) 航班，原定于晚上 11:20 起飞，但随后航空公司突然提前了航班。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-7-2026-11-215fed3763bb0145c29bced5f3312034-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-02T16:23:08+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
+    },
+    {
+      "id": "a6af220e8e98c32d",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlrlha/we_dont_need_lessons_bollywood_actress_dia_mirzas/",
+      "title_en": "'We don’t need lessons': Bollywood actress Dia Mirza's \"No firecrackers\" Diwali video removed from BMC's page after Mumbai BJP chief's objection",
+      "title_zh": "“我们不需要教训”：在孟买人民党主席反对后，宝莱坞女演员迪亚米尔扎的“禁止放鞭炮”排灯节视频从 BMC 页面上删除",
+      "summary_en": "Sourcr link: https://timesofindia.indiatimes.com/city/mumbai/actor-dia-mirzas-diwali-campaign-video-removed-from-bmcs-page-after-mumbai-bjp-chiefs-objection/amp\\_articleshow/135447630.cms [link] [comments]",
+      "summary_zh": "源链接：https://timesofindia.indiatimes.com/city/mumbai/actor-dia-mirzas-diwali-campaign-video-removed-from-bmcs-page-after-mumbai-bjp-chiefs-objection/amp\\_articleshow/135447630.cms [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/ofacko0er5zh1.jpeg?width=640&crop=smart&auto=webp&s=d6da2d60f9e67f1ff2391b5db581ef345a3af3a1",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T16:15:08+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "影视神剧",
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "35883258bcbbfe3c",
+      "url": "https://english.gujaratsamachar.com/news/national/yogi-adityanath-claims-1-27-crore-hindu-voters-missing-from-up-electoral-rolls-urges-bjp-workers-to-act-31719740170",
+      "title_en": "Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing From UP Electoral Rolls, Urges BJP Workers to Act",
+      "title_zh": "Yogi Adityanath 声称 12.7 亿印度教选民从 UP 选民名册中消失，敦促印度人民党工人采取行动",
+      "summary_en": "Uttar Pradesh CM Yogi Adityanath urges BJP workers to verify electoral rolls, citing 1.27 crore \"missing\" Hindu voters. He questions UP's 13 crore electorate,…",
+      "summary_zh": "北方邦首席部长约吉·阿迪蒂亚纳特 (Yogi Adityanath) 敦促印度人民党工作人员核实选民名册，称有 12.7 亿印度教选民“失踪”。他质疑北方邦 1.3 亿选民，……",
+      "translation_status": "fallback",
+      "image": "https://cdn.gujaratsamachar.com/media/post/2026/10/e9468d2344ff040f5c85e381ffe8600d.jpeg?w=1200&amp;h=630&amp;q=80",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T15:23:56+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "84251f1e4e3abed1",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlqr4p/i_pray_for_the_safety_of_hindus_who_will_be/",
+      "title_en": "I pray for the safety of Hindus who will be targeted and exploited in the anarchy like how it happened in 1971 also.",
+      "title_zh": "我为印度教徒的安全祈祷，他们将在无政府状态中成为目标和剥削，就像 1971 年发生的那样。",
+      "summary_en": "If you want to see the harsh difference between a responsible political opposition and funded anarchists, look at the streets of Dhaka today. Bangladesh’s economic engine—the Ready-Made Garments (RMG) sector—is under massive stress. Supply chains are choking, and thousands of desperate workers are protesting for their livelihoods. A competent leadership would be aggressively working to stabilize the economy.",
+      "summary_zh": "如果你想了解负责任的政治反对派和受资助的无政府主义者之间的巨大区别，请看看今天达卡的街道。孟加拉国的经济引擎——成衣 (RMG) 行业——正面临巨大压力。供应链陷入瘫痪，数千名绝望的工人正在为生计进行抗议。有能力的领导层将积极努力稳定经济。",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/ODAwMHM5aGhoNXpoMR-49wHA_24Pv-LY5XA25YvhhAIXwFVQaHG_w8V1DqHi.png?width=640&crop=smart&auto=webp&s=ccad43efc5131877b88f137dd0aad38887243dfd",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T15:20:43+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "390567365f90b6be",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlpxb4/duality_of_cpim_maharashtra_over_ladki_bahin/",
+      "title_en": "Duality of CPIM Maharashtra over Ladki Bahin Yojana Schme of Maharashtra govt - Oppose in the past, carry out marches in support of it at present.",
+      "title_zh": "CPIM 马哈拉施特拉邦对马哈拉施特拉邦政府 Ladki Bahin Yojana Schme 的双重性 - 过去反对，现在进行游行支持它。",
+      "summary_en": "It's funny to see the CPIM stand on Ladki Bahin Yojana which was clearly bought for electoral gains by Eknath Shinde govt. A year back CPIM's state general secretary Ajit Navale pointed that the scheme is detrimental for farmers, now that same Ajit Navale is carrying out marches in It's support and demanding more beneficiaries be added into the scheme. Similarly pro communist organization AIDWA is carrying a march in support of the scheme to be held on 03.11.2026. Personally I oppose scheme like Ladki Bahin…",
+      "summary_zh": "有趣的是看到 CPIM 站在 Ladki Bahin Yojana 上，这显然是 Eknath Shinde 政府为了选举利益而买下的。一年前，CPIM 州秘书长阿吉特·纳瓦莱 (Ajit Navale) 指出，该计划对农民不利，现在阿吉特·纳瓦莱 (Ajit Navale) 正在举行游行以支持该计划，并要求将更多受益人纳入该计划。同样，亲共产主义组织 AIDWA 也将于 2026 年 11 月 3 日举行游行，支持该计划。亲自",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/pjpqxvai85zh1.jpeg?width=140&height=63&auto=webp&s=ab0d918006af573523ac8d786b996fe9195270de",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T14:29:21+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f569b277d0269b29",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/deepinder-goyal-temple-site-crashes-10946894/",
+      "title_en": "‘Rookie mistake’: Deepinder Goyal after Rs 85,000 Temple site crashes",
+      "title_zh": "“菜鸟错误”：Deepinder Goyal 在价值 85,000 卢比的寺庙网站崩溃后",
+      "summary_en": "After bookings opened at 9.30 pm Sunday, several users reported difficulties accessing the Temple website.",
+      "summary_zh": "周日晚上 9 点 30 分开放预订后，一些用户报告访问寺庙网站遇到困难。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Deepinder-Goyal-temple-website.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-02T14:09:50+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "199bb10b0d84fcf9",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlp67y/why_are_some_relatives_so_toxic_and_how_do_you/",
+      "title_en": "Why are some relatives so toxic, and how do you deal with them?",
+      "title_zh": "为什么有些亲戚如此有毒，你该如何应对？",
+      "summary_en": "I don't know why my life is so messed up. On top of that, my relatives are so toxic. They keep coming to our house every other day and brainwash my parents. I just had a fight with one of my aunts.",
+      "summary_zh": "我不知道为什么我的生活如此混乱。最重要的是，我的亲戚太有毒了。他们每隔一天就来我们家给我父母洗脑。我刚刚和我的一位阿姨吵架了。",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T13:44:43+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
+    },
+    {
+      "id": "fd43c150894615c6",
+      "url": "https://indianexpress.com/article/trending/trending-globally/indian-chef-pradeep-khullar-chole-bhature-dubai-10946766/",
+      "title_en": "Why this Indian chef quit a Michelin-recognised kitchen to sell chole bhature in Dubai",
+      "title_zh": "为什么这位印度厨师离开米其林认可的厨房去迪拜销售 chole bhature",
+      "summary_en": "Before launching the takeaway outlet, Pradeep Khullar worked at Nazaara, which was included in the Michelin Guide Dubai’s 2026 Selected restaurants on October 6.",
+      "summary_zh": "在开设外卖店之前，Pradeep Khullar 曾在 Nazaara 工作，该餐厅于 10 月 6 日被列入米其林迪拜指南 2026 年精选餐厅。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Cholay-Bhature-Dubai-eatery.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-02T13:01:06+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3de914c8c9838202",
@@ -177,7 +464,51 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-11-02T12:58:58+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a8a936f9ddb798a7",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlo4rc/the_viral_image_being_shared_as_the_india_blocs/",
+      "title_en": "The viral image being shared as the INDIA bloc’s Delhi rally is actually from a Left Front rally in Kolkata on February 3, 2019.",
+      "title_zh": "印度集团德里集会期间分享的病毒图片实际上来自 2019 年 2 月 3 日在加尔各答举行的左翼阵线集会。",
+      "summary_en": "Source: https://www.indiatoday.in/fact-check/story/aerial-shot-shows-2019-rally-in-kolkata-not-india-bloc-rally-in-delhi-2521769-2024-04-01 https://peoplesdemocracy.in/2019/0210_pd/west-bengal-brigade-turns-red-sea https://x.com/CJP_for_India/status/2116911858833867253 [link] [comments]",
+      "summary_zh": "资料来源：https://www.indiatoday.in/fact-check/story/aerial-shot-shows-2019-rally-in-kolkata-not-india-bloc-rally-in-delhi-2521769-2024-04-01 https://peoplesdemocracy.in/2019/0210_pd/west-bengal-brigade-turns-red-sea https://x.com/CJP_for_India/status/2116911858833867253 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/tv9fmgipp4zh1.png?width=640&crop=smart&auto=webp&s=fcb909b11390beafc4e700b37419fd89c0ad05fe",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T12:46:19+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "85196f8a4861d1c1",
+      "url": "https://indianexpress.com/article/trending/trending-globally/mate-rimac-stolen-bugatti-chiron-porsche-chase-10946700/",
+      "title_en": "Bugatti CEO chases job-seeker who stole his Chiron in a Porsche 911, refuses to press charges",
+      "title_zh": "布加迪首席执行官追捕偷走保时捷 911 Chiron 的求职者，但拒绝提出指控",
+      "summary_en": "A job inquiry turned into a police chase after a man drove off in Mate Rimac's Bugatti Chiron, leading to a multi-agency recovery in Austria.",
+      "summary_zh": "一名男子驾驶 Mate Rimac 的布加迪 Chiron 逃跑后，一次工作调查变成了警方追捕，奥地利多个机构共同展开追捕行动。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Bugatti-CEO-car-stolen.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-02T11:51:15+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "dabedee4b54258cf",
@@ -193,7 +524,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-11-02T10:37:56+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "770ec9e8d5376fdb",
@@ -209,7 +544,32 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-02T04:29:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9c8402955dfae77a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl8i7l/in_a_twist_protesters_who_were_brought_from_bihar/",
+      "title_en": "In a twist, protesters who were brought from Bihar to Delhi by Congress for the Ramlila Ground rally, ended up praising BJP govt after eating 5 RS lunch at Atal Canteen started by Delhi CM Smt Rekha Gupta",
+      "title_zh": "奇怪的是，被国会从比哈尔邦带到德里参加拉姆利拉地面集会的抗议者，在德里首席部长 Smt Rekha Gupta 创办的 Atal Canteen 吃了 5 份 RS 午餐后，最终赞扬了印度人民党政府",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/OXF5dHA3a3k5MXpoMfAa8vxgHKPID-KRVsuHLhiQoU1c2PjMpadShxdVDoey.jpeg?width=640&crop=smart&auto=webp&s=3d435baa6966062570120232c87b60de935173f4",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T01:11:46+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d0a1988906b98e5d",
@@ -225,7 +585,51 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-02T01:00:24+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a21e5839b2165325",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl7b8f/the_bhagavad_gita_at_st_giles_church_and_some/",
+      "title_en": "The Bhagavad Gita at St. Giles Church. And some timeless questions.",
+      "title_zh": "圣吉尔斯教堂的《薄伽梵歌》。还有一些永恒的问题。",
+      "summary_en": "A church in London. The Bhagavad Gita. And a conversation that cuts across boundaries of religion and belief. Acharya Prashant delivered a session on Chapter 3, Verse 32, at St.",
+      "summary_zh": "伦敦的一座教堂。薄伽梵歌。以及跨越宗教和信仰界限的对话。 Acharya Prashant 在圣彼得堡发表了关于第 3 章第 32 节的会议。",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/x04sezwx11zh1.jpeg?width=640&crop=smart&auto=webp&s=3d3c839bef4d461b3a23e1f3998b8d2641649159",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T00:25:23+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "09b943fd1defe081",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl6qvs/arms_race_india_has_been_among_the_largest_arms/",
+      "title_en": "Arms Race - India has been among the largest arms importer in the last decade",
+      "title_zh": "军备竞赛 - 印度在过去十年中一直是最大的武器进口国之一",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/9md5yu5yx0zh1.png?width=320&crop=smart&auto=webp&s=e7b2cba123637ff16f39eb7b9d3d332854821897",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-02T00:02:59+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

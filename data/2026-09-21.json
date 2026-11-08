@@ -17,7 +17,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-09-21T22:12:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8f8f8dc4a21c9335",
@@ -33,7 +37,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-21T20:09:24+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d7ebdfd9cfcb55c2",
@@ -49,7 +57,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-21T09:25:24+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "Asia/Shanghai",
-  "count": 7,
+  "count": 10,
   "items": [
     {
       "id": "3cf0a4fafd771e34",
@@ -17,7 +17,72 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-21T19:29:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物",
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "51ffdfd61760eb64",
+      "url": "https://indianexpress.com/article/trending/trending-globally/viral-flight-video-woman-cries-for-3-hours-after-passenger-refuses-to-swap-seats-10930616/",
+      "title_en": "Viral flight video: Woman cries for 3 hours after passenger refuses to swap seats",
+      "title_zh": "飞行视频被疯传：乘客拒绝换座位 女子哭了3个小时",
+      "summary_en": "Passenger faces backlash and praise after denying seat swap request to married couple on flight. (instagram tomiko.harvey)",
+      "summary_zh": "乘客拒绝机上已婚夫妇的座位交换请求后，遭到强烈反对和赞扬。 （Instagram 富子.哈维）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Passenger-faces-backlash-and-praise-after-denying-seat-swap-request-to-married-couple-on-flight.-instagram-tomiko.harvey-.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-21T18:31:39+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1846dad443114911",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/global-hunger-index-2026-india-ranks-100th-out-of-122-countries-child-stunting-nearly-30-10930399/",
+      "title_en": "Global Hunger Index 2026: India ranks 100th out of 122 countries; child stunting nearly 30%",
+      "title_zh": "2026年全球饥饿指数：印度在122个国家中排名第100位；儿童发育迟缓近30%",
+      "summary_en": "India falls into the 'serious' hunger category, while neighbouring Pakistan ranks 106th in the Global Hunger Index 2026.",
+      "summary_zh": "印度属于“严重”饥饿类别，而邻国巴基斯坦在2026年全球饥饿指数中排名第106位。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/India-ranked-100-with-9.8-per-cent-of-the-population-being-undernourished.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-21T17:42:39+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "86decb4cff9eb5e7",
+      "url": "https://indianexpress.com/article/trending/trending-globally/3-year-old-girl-dangles-from-12th-floor-window-in-china-rescued-10930318/",
+      "title_en": "3-year-old girl dangles from 12th-floor window in China, rescued",
+      "title_zh": "3岁女孩从12楼窗户坠落获救",
+      "summary_en": "Viral video shows toddler dangling from a window in China, sparking safety concerns. (instagram scmpnews)",
+      "summary_zh": "视频在网上疯传，显示一名幼儿在中国的窗户上晃来晃去，引发了安全担忧。 （Instagram 南华早报新闻）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Viral-video-shows-toddler-dangling-from-a-window-in-China-sparking-safety-concerns.-instagram-scmpnews.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-21T15:44:56+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "80cb707015374725",
@@ -33,7 +98,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-21T12:53:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "ea6312c935145301",
@@ -49,7 +119,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-21T07:58:40+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "1859afb8afdc1249",
@@ -65,7 +140,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-21T07:46:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "70a43f512488f9a5",
@@ -81,7 +160,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-21T05:45:21+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "aa4b7fb737cb2939",
@@ -97,7 +180,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-21T00:27:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0a152714fb137312",
@@ -113,7 +200,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-21T00:00:27+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

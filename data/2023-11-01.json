@@ -17,7 +17,11 @@
       "source_id": "toi-viral",
       "region": "印度",
       "published_at": "2023-11-01T19:10:12+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "76c2877563684ddb",
@@ -33,7 +37,11 @@
       "source_id": "toi-viral",
       "region": "印度",
       "published_at": "2023-11-01T18:10:56+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

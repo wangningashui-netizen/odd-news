@@ -1,8 +1,89 @@
 {
   "date": "2026-09-28",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 5,
   "items": [
+    {
+      "id": "509d6302658a1e6d",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/man-quits-indian-food-fitness-journey-canada-10897563/",
+      "title_en": "Indian man in Canada gave up desi food to get into ‘best shape’ of his life",
+      "title_zh": "加拿大的印度男子为了达到一生中“最好的身材”而放弃了印度美食",
+      "summary_en": "In an Instagram video, Singh explained how changing his eating habits helped him manage his meals, protein intake and workout routine.",
+      "summary_zh": "在 Instagram 视频中，辛格解释了改变饮食习惯如何帮助他管理膳食、蛋白质摄入量和日常锻炼。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Indian-food-.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-28T19:16:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "fefea26075bb0552",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-for-travel-and-tourism-japan-knocks-us-off-top-spot-in-wef-tourism-index-10897203/",
+      "title_en": "Top 10 countries for travel and tourism: Japan knocks US off top spot in WEF tourism index",
+      "title_zh": "旅行和旅游排名前十的国家：日本在世界经济论坛旅游指数中取代美国位居榜首",
+      "summary_en": "Japan ranked No. 1 in the Travel and Tourism index released by World Economic Forum",
+      "summary_zh": "日本在世界经济论坛发布的旅行和旅游指数中排名第一",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Japan-ranked-No.-1-in-the-Travel-and-Tourism-index-released-by-World-Economic-Forum.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-28T18:03:11+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "58091f09bcba76af",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/coimbatore-cop-clings-car-roof-40-km-suspected-smugglers-10897065/",
+      "title_en": "‘Promote him’: Internet praises cop who clung to smugglers’ car roof for 40 km",
+      "title_zh": "“提拔他”：网络赞扬抓着走私者车顶40公里的警察",
+      "summary_en": "A viral video shared by Tamil Nadu Police shows Constable M Velmurugan clinging to the roof of a speeding car for 40 km to intercept suspected contraband smugglers in Coimbatore. Following the pursuit, social media users are widely demanding an instant promotion for his bravery.",
+      "summary_zh": "泰米尔纳德邦警方分享的一段病毒视频显示，哥印拜陀警员 M Velmurugan 紧贴一辆超速行驶的汽车车顶行驶 40 公里，拦截涉嫌走私的人。在追捕之后，社交媒体用户普遍要求立即宣传他的勇敢行为。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Tamil-Nadu-cop-clings-to-car-roof.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-28T13:26:36+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2abc388f6ca7525a",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bengaluru-traffic-jam-residential-society-viral-video-10896952/",
+      "title_en": "Bengaluru traffic: Residents wait 30 minutes just to exit their own apartment complex",
+      "title_zh": "班加罗尔交通：居民要等30分钟才能离开自己的公寓大楼",
+      "summary_en": "A viral Bengaluru video shows vehicles queued inside and outside a residential society, with the creator claiming residents waited up to 30 minutes to exit.",
+      "summary_zh": "一段在班加罗尔疯传的视频显示，车辆在住宅小区内外排队，视频制作者声称居民等待长达 30 分钟才能离开。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Bengaluru-traffic-30-minutes-in-society.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-28T11:46:06+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "f3823e3bfac89fca",
       "url": "https://www.unilad.com/news/world-news/man-dressed-as-batman-returns-stolen-purse-on-night-out-249523-20260927",
@@ -17,7 +98,11 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-09-28T06:27:14+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

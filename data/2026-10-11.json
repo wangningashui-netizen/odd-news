@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 8,
   "items": [
     {
       "id": "8bef591b53f488ec",
@@ -17,7 +17,112 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-11T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "bf573cdc73d57e62",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/jpmorgan-clinches-top-spot-again-see-10-banks-leading-ai-race-in-2026-10916519/",
+      "title_en": "JPMorgan clinches top spot again: See 10 banks leading AI race in 2026",
+      "title_zh": "摩根大通再次夺得冠军：2026 年 10 家银行在人工智能竞赛中处于领先地位",
+      "summary_en": "JPMorgan Chase has occupied the top spot in the Evident AI Index since its inception.",
+      "summary_zh": "摩根大通自 Evident AI 指数推出以来一直占据榜首。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/JPMorgan-Chase-has-occupied-the-top-spot-in-the-Evident-AI-Index-since-its-inception.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-11T19:24:32+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a0b18e4a0794d37a",
+      "url": "https://indianexpress.com/article/trending/trending-globally/19-year-old-zach-yadegari-raises-10-mn-for-ai-startup-after-15-universities-reject-him-10916726/",
+      "title_en": "19-year-old raises $10 mn for AI startup after 15 universities reject him",
+      "title_zh": "19 岁青年在 15 所大学拒绝后为人工智能初创公司筹集 1000 万美元",
+      "summary_en": "Zach Yadegari developed an interest in technology early and went on to start several businesses while still in school.",
+      "summary_zh": "扎克·亚德加里 (Zach Yadegari) 很早就对技术产生了兴趣，并在上学时就创办了多家企业。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Zach-Yadegari-AI-startup.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-11T18:58:52+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "aec51402cc09e257",
+      "url": "https://indianexpress.com/article/trending/trending-globally/founder-of-free-run-club-in-new-york-city-makes-640000-in-a-year-10916380/",
+      "title_en": "Founder of free run club in New York City makes $640,000 in a year",
+      "title_zh": "纽约自由跑步俱乐部创始人一年赚 64 万美元",
+      "summary_en": "Akhibi started the fitness group as a way to build community beyond nightlife—for himself and others.",
+      "summary_zh": "阿克比创办健身小组是为了在夜生活之外为自己和他人建立社区。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Akhibi-started-the-fitness-group-as-a-way-to-build-community-beyond-nightlife—for-himself-and-others.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-11T16:23:59+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0f170e9a8727e939",
+      "url": "https://indianexpress.com/article/trending/trending-globally/tiger-mauls-man-to-death-at-uk-yorkshire-wildlife-park-video-10916482/",
+      "title_en": "Tiger mauls man to death at UK wildlife park; disturbing video goes viral",
+      "title_zh": "英国野生动物园老虎咬死男子；令人不安的视频疯传",
+      "summary_en": "It remains unclear how the man entered the enclosure or the circumstances that led to the incident.",
+      "summary_zh": "目前尚不清楚该男子如何进入围栏或导致事件发生的情况。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Tiger-attacks-man-UK.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-11T15:15:55+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b6409a14121c093f",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/imran-khan-detention-cjp-protest-jaane-tu-ya-jaane-ne-moment-in-police-van-10916426/",
+      "title_en": "CJP protest: Imran Khan recreates ‘Jaane Tu… Ya Jaane Na’ moment in police van after being detained",
+      "title_zh": "CJP抗议：伊姆兰·汗被拘留后在警车上重现“Jaane Tu…Ya Jaane Na”时刻",
+      "summary_en": "The actor's cousin Zayn Marie turned the tense situation into a lighthearted moment by sharing a video of the actor inside a police van, referencing a hilarious scene from the cult romantic comedy.",
+      "summary_zh": "这位演员的表弟泽恩·玛丽分享了一段演员在警车内的视频，引用了这部邪教浪漫喜剧中的搞笑场景，将紧张的局势变成了轻松的时刻。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Imran-Khan-detained-.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-11T14:34:03+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a46247aabbc7d33b",
@@ -33,7 +138,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-11T04:44:53+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "267012f67e570cb3",
@@ -49,7 +158,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-10-11T00:14:21+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

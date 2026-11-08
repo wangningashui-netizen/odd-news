@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "Asia/Shanghai",
-  "count": 37,
+  "count": 58,
   "items": [
     {
       "id": "51068b95229aad54",
@@ -17,7 +17,72 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T23:29:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "46eb83c4c2910d2b",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnqz1n/are_warm_rays_from_led_tubelights_harmful_serious/",
+      "title_en": "Are Warm Rays from LED Tubelights harmful ? (SERIOUS)",
+      "title_zh": "LED 灯管发出的暖光有害吗？ （严肃）",
+      "summary_en": "I'm using a 36 watt LED tube light, but it isn't mounted on the wall. Instead, it's placed on a chair directly behind me while I sit on a tool and work on my PC. I can feel warm rays radiating from the led tube light onto my back. Are these rays harmful to the skin?",
+      "summary_zh": "我使用的是 36 瓦 LED 灯管，但它没有安装在墙上。相反，当我坐在工具上并在电脑上工作时，它被放置在我正后方的椅子上。我能感觉到 LED 灯管发出的温暖光线照射到我的背上。这些射线对皮肤有害吗？",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T23:23:28+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
+    },
+    {
+      "id": "fb06502b7ef6d85c",
+      "url": "https://economictimes.indiatimes.com/news/defence/agniveers-to-get-two-year-service-extension-indian-army-cds-announces-new-pathway-for-regular-enrolment/articleshow/135532853.cms?from=mdr",
+      "title_en": "Agniveer extension news: Agniveers' tenure extended by two years; CDS says 75% outgoing Agniveers will also be given option to continue in armed forces",
+      "title_zh": "Agniveer续任消息：Agniveer任期延长两年； CDS 表示 75% 即将离任的阿格尼维尔人也将有权选择继续服役",
+      "summary_en": "Agniveer extension news: The Centre has announced a two-year engagement extension for the remaining 75% of Agniveers following feedback on the Agnipath scheme. CDS General N S Raja Subramani said all would be offered a pathway to regular enrolment after the extended period. He also announced changes to recruitment tests and skill certificates for Agniveers.",
+      "summary_zh": "Agniveer 延期消息：根据 Agnipath 计划的反馈，该中心宣布将剩余 75% 的 Agniveer 的参与延期两年。 CDS 将军 N S Raja Subramani 表示，延长期限后将为所有人提供正常注册的途径。他还宣布对 Agniveers 的招聘测试和技能证书进行更改。",
+      "translation_status": "fallback",
+      "image": "https://img.etimg.com/thumb/msid-135535010,width-1200,height-900,imgsize-137075,overlay-etdefence/articleshow.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T23:03:11+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "429933cfe7b05f57",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnqcns/being_an_aviation_nerd_is_so_good/",
+      "title_en": "Being an aviation nerd is so good...",
+      "title_zh": "当一名航空迷真是太好了……",
+      "summary_en": "Credits: https://x.com/Kuntal\\_\\_biswas/status/2116917850632032260?a=YrFgMJFSC\\_aZyjeHi38&s=19 [link] [comments]",
+      "summary_zh": "学分：https://x.com/Kuntal\\_\\_biswas/status/2116917850632032260?a=YrFgMJFSC\\_aZyjeHi38&s=19 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/bjJ1bGo5dGIxbXpoMf9MUwkkCaWvBCUX4SVN4-l3sE3pQEMp3-WzMnWCXIxh.png?width=640&crop=smart&auto=webp&s=9bb9cd6a632f4857a39faa20b9d7d30aa0ec5f60",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T22:59:23+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a979fbe6f6877372",
@@ -33,7 +98,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-04T22:21:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "fa654fd26f063957",
@@ -49,7 +119,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-04T22:00:38+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c5310f91b5039398",
@@ -65,23 +139,52 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-04T22:00:24+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3377ee3f60c07aa7",
       "url": "https://finance.biggo.com/news/5d8e0404-8125-4d48-b76a-9897f3da2a93",
       "title_en": "OpenAI CEO Altman Renames X Profile to 'Ram Altman' After Memory Remarks Spark Backlash — BigGo Finance",
       "title_zh": "OpenAI 首席执行官 Altman 在记忆言论引发强烈反对后将 X Profile 重命名为“Ram Altman” — BigGo Finance",
-      "summary_en": "",
-      "summary_zh": "OpenAI 首席执行官 Altman 在记忆言论引发强烈反对后将 X Profile 重命名为“Ram Altman” — BigGo Finance",
+      "summary_en": "OpenAI CEO Sam Altman has changed his display name on X to \"Ram Altman.\" The move follows controversy over remarks he made on the October 29 talk show…",
+      "summary_zh": "OpenAI 首席执行官 Sam Altman 已将 X 上的显示名称更改为“Ram Altman”。此前，他在 10 月 29 日的脱口秀节目中发表的言论引发了争议……",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/hSYrp4T85l39vDwbo643vKhfEofImsNzUUkAiBsqcms.jpeg?width=640&crop=smart&auto=webp&s=c43bb539f7f1e4056be1c3a720bdb574b4288057",
+      "image": "https://img.biggo.com/nqRSLJOEDH19fuR_cH4IMvBkpBVtQog5stNLuYoKz1s/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzVkOGUwNDA0LTgxMjUtNGQ0OC1iNzZhLTk4OTdmM2RhMmE5M18xNzkzNzgxMTcyX2RlZmF1bHQuanBn.jpg",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T21:58:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
+    },
+    {
+      "id": "20a0e34db59c4a05",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnoris/abdul_has_won_in_michigan_now_abdul_from_up_must/",
+      "title_en": "'Abdul has won in Michigan, now Abdul from UP must strengthen': Owaisi's statement after victory of Abdul El-Sayed in Michigan during US Midterm Elections",
+      "title_zh": "“阿卜杜勒在密歇根州获胜，现在北方联盟的阿卜杜勒必须加强”：奥瓦西在美国中期选举期间阿卜杜勒·赛义德在密歇根州获胜后的声明",
+      "summary_en": "Source link: https://timesofindia.indiatimes.com/city/lucknow/abdul-has-won-in-michigan-now-abdul-from-up-must-strengthen-owaisi-urges-up-muslims-to-assert-political-identity/amp\\_articleshow/135537790.cms [link] [comments]",
+      "summary_zh": "来源链接：https://timesofindia.indiatimes.com/city/lucknow/abdul-has-won-in-michigan-now-abdul-from-up-must-strengthen-owaisi-urges-up-muslims-to-assert-political-identity/amp\\_articleshow/135537790.cms [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/NDBzaWcxbm9wbHpoMZPhl0ns5a8H78pCOlcV45QFYgONr5pNmNc8h12zmqsp.png?width=320&crop=smart&auto=webp&s=cdf2b6acf2729a0e8cce653569244c443842da48",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T21:54:08+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8c699b91f2cdd842",
@@ -97,7 +200,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T21:05:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "9fdf1252ebee2cfc",
@@ -113,7 +221,12 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-11-04T20:33:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "92cf9c9651306804",
@@ -129,7 +242,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T20:24:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "卫生环境"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "62cff3c86d6a18f6",
@@ -145,7 +262,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T20:00:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2cfe041b90d05696",
@@ -161,7 +282,51 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-04T19:35:15+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "fab68fa1487db376",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnlwls/the_union_cabinet_has_announced_a_major_amendment/",
+      "title_en": "The Union Cabinet has announced a major amendment to the Agnipath scheme, granting a 2-year extension with an enhanced pay package to the remaining 75% of Agniveers",
+      "title_zh": "联合内阁宣布对 Agnipath 计划进行重大修订，向剩余 75% 的 Agniveers 授予 2 年延期并提高薪资待遇",
+      "summary_en": "Source [link] [comments]",
+      "summary_zh": "来源[链接][评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/cW12cnJuYnB5a3poMfrLpDhd5AFzHZyE8rgrbtf2FzIJiyIw_8oX58zaz6Y4.png?width=320&crop=smart&auto=webp&s=a2bc79786cf083bd1e2dc59d98d8c46bf57f1676",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T19:31:47+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "7ea7ee25f5f1e71e",
+      "url": "https://indianexpress.com/article/trending/trending-globally/india-pakistan-2027-world-cup-ticket-demand-8-4-million-10950617/",
+      "title_en": "34,000 seats, 8.4 million applications: India-Pakistan 2027 World Cup clash sparks ticket frenzy",
+      "title_zh": "3.4万个座位，840万申请者：印巴2027年世界杯交锋引发门票狂潮",
+      "summary_en": "The ICC has received more than 120 million ticket requests from fans in 193 countries, with approximately 2.8 million unique applicants registering for the tournament.",
+      "summary_zh": "ICC 已收到来自 193 个国家/地区球迷的超过 1.2 亿份门票申请，其中约有 280 万名独立申请人注册参加比赛。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/India-vs-Pakistan-Johannesburg-.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-04T19:25:22+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "bf0a8aed0a65db35",
@@ -177,7 +342,92 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T19:01:05+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3bedbbe20d22d14a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnkha1/tamil_nadu_cm_vijay_urges_pm_modi_to_establish_a/",
+      "title_en": "Tamil Nadu CM Vijay urges PM Modi to establish a Supreme Court Bench in Chennai",
+      "title_zh": "泰米尔纳德邦首席部长维杰敦促莫迪总理在金奈设立最高法院",
+      "summary_en": "Tamil Nadu Chief Minister Vijay has written to Prime Minister Narendra Modi, urging the establishment of a Supreme Court bench in Chennai. He highlighted how advocates and litigants from South India currently have to travel all the way to Delhi for Supreme Court proceedings. A bench in Chennai would make access to justice easier, reduce travel burdens and improve access to the country's highest court for people across South India. [link] [comments]",
+      "summary_zh": "泰米尔纳德邦首席部长维贾伊已致信总理纳伦德拉·莫迪，敦促在钦奈设立最高法院法官席。他强调了来自印度南部的律师和诉讼当事人目前必须千里迢迢前往德里参加最高法院的诉讼。钦奈的法官席将使印度南部人民更容易诉诸司法，减少旅行负担并改善诉诸印度最高法院的机会。 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/eev6uf0zkkzh1.jpeg?width=140&height=139&auto=webp&s=474b0b3e440d43c62f26a0ab68afdd68f1e63083",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T18:05:54+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ca206f570211897c",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnj9wv/looking_at_the_2026_us_midterm_election_results_a/",
+      "title_en": "Looking at the 2026 US midterm election results, a clear global pattern has emerged",
+      "title_zh": "纵观2026年美国中期选举结果，全球已出现清晰格局",
+      "summary_en": "political parties and leaders that actively antagonize India or work against its strategic interests are repeatedly facing electoral defeat or political exits. In the United States, the Democrats first lost the White House in 2024 after years of straining diplomatic ties with New Delhi over internal matters, and the Republicans have lost control of Congress in the 2026 midterms after spending the last two years targeting India with aggressive tariffs, immigration crackdowns, and strategic deals in Pakistan. This…",
+      "summary_zh": "积极对抗印度或损害其战略利益的政党和领导人一再面临选举失败或政治退出。在美国，民主党在与新德里因内部事务多年紧张的外交关系后于 2024 年首次失去了白宫，而共和党在过去两年对印度采取激进的关税、移民镇压、",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T16:46:26+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
+    },
+    {
+      "id": "6c49f71d23f1e59d",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xniav7/jolt_to_jk_chief_minister_omar_abdullahs_national/",
+      "title_en": "Jolt to J&K Chief Minister Omar Abdullah's National Conference Party as Srinagar MP Ruhullah Mehdi quits after 24-year membership, plans new party",
+      "title_zh": "斯利那加议员鲁胡拉·迈赫迪 (Ruhullah Mehdi) 在担任 24 年党员后辞职，计划组建新政党，这给强生首席部长奥马尔·阿卜杜拉 (Omar Abdullah) 的全国会议党带来震动",
+      "summary_en": "Source link: https://m.rediff.com/amp/news/report/jolt-to-nc-as-srinagar-mp-ruhullah-mehdi-quits-plans-new-party/20261103.htm [link] [comments]",
+      "summary_zh": "来源链接：https://m.rediff.com/amp/news/report/jolt-to-nc-as-srinagar-mp-ruhullah-mehdi-quits-plans-new-party/20261103.htm [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/aHNydTRvc2t2anpoMVEOwiO8g4E6Y5wiO2pnCyds8XIx9IIpkr0mU1yIn08-.png?width=320&crop=smart&auto=webp&s=3734df65d31dc83bee7c86cbb4a785b5d39b0ca9",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T15:43:36+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "274a6a88a54dfd41",
+      "url": "https://indianexpress.com/article/trending/trending-globally/us-midterm-election-results-trump-memes-10950127/",
+      "title_en": "‘Hazardous waste’: Democrats’ midterm wins spark memes targeting Trump, Republicans",
+      "title_zh": "“危险废物”：民主党中期选举胜利引发针对特朗普和共和党的迷因",
+      "summary_en": "Reacting to the US midterm results, Trump said he was “absolutely willing” to accept the results and was prepared to work with Democrats.",
+      "summary_zh": "针对美国中期选举结果，特朗普表示，他“绝对愿意”接受结果，并准备与民主党合作。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/US-mid-term-elections-memes.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-04T15:21:15+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "caf6692b4a7db0a7",
@@ -193,7 +443,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-04T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ca47c1164a308c5d",
@@ -209,7 +463,51 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-11-04T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "25ea01b3c70cbb1b",
+      "url": "https://indianexpress.com/article/trending/trending-globally/formula-1-driver-arvid-lindblad-celebrates-diwali-with-special-helmet-10949903/",
+      "title_en": "Formula 1 driver Arvid Lindblad celebrates Diwali with special helmet",
+      "title_zh": "一级方程式赛车手阿维德·林德布拉德 (Arvid Lindblad) 用特殊头盔庆祝排灯节",
+      "summary_en": "Arvid Lindblad celebrates his Indian roots with a custom Diwali helmet for the Brazilian Grand Prix. (instagram_ arvid.lindblad)",
+      "summary_zh": "阿维德·林德布拉德 (Arvid Lindblad) 为巴西大奖赛定制了排灯节头盔，庆祝他的印度血统。 (instagram_arvid.lindblad)",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Arvid-Lindblad-celebrates-his-Indian-roots-with-a-custom-Diwali-helmet-for-the-Brazilian-Grand-Prix.-instagram_-arvid.lindblad.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-04T14:45:37+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d9e8899528e4c427",
+      "url": "https://indianexpress.com/article/trending/trending-globally/rachel-apa-nyc-marathon-runner-fundraiser-10949871/",
+      "title_en": "Running for her grandfather: Rachel Apa dies after collapsing at NYC Marathon",
+      "title_zh": "为祖父跑步：雷切尔·阿帕在纽约马拉松比赛中晕倒后去世",
+      "summary_en": "Rachel Apa ran on November 1 as part of the Parkinson’s Foundation Champions team.",
+      "summary_zh": "雷切尔·阿帕 (Rachel Apa) 于 11 月 1 日作为帕金森基金会冠军团队的一员参加了比赛。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/NYC-Marathon-runner-Rachel-Apa.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-04T13:15:44+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ae94558f8c73f281",
@@ -225,7 +523,31 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-04T13:00:39+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e32825b4e26fe98c",
+      "url": "https://indianexpress.com/article/trending/trending-globally/indian-boxer-influencer-slaps-pakistani-opponent-at-dubai-video-10949736/",
+      "title_en": "Indian boxer-influencer slaps Pakistani opponent in Dubai; watch video",
+      "title_zh": "印度拳击手影响者在迪拜扇了巴基斯坦对手一巴掌；观看视频",
+      "summary_en": "The incident occurred at a promotional event for Fury by the Sea – MUKA Boxing, where the two fighters came face-to-face before their scheduled clash on Friday at Nikki Beach Dubai.",
+      "summary_zh": "这起事件发生在《Fury by the Sea – MUKA Boxing》的宣传活动中，两名拳手在周五迪拜尼基海滩的比赛之前进行了面对面的交锋。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Indian-boxer-slaps-Pakistani-boxer.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-04T11:23:08+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c13fc16e7283f4f7",
@@ -241,7 +563,32 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-04T11:00:36+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "77158e98dc1b3945",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xncm4d/man_being_a_hindu_is_so_fun/",
+      "title_en": "Man being a Hindu is so fun",
+      "title_zh": "成为印度教徒真是太有趣了",
+      "summary_en": "WE HAVE SO MANY FESTIVALS. They are SO different. I miss childhood and bursting crackers peacefully, then violently, then in a show off way, then throwing them at friends, exploding mail boxes, watching people randomly misfire rockets. Yeah a little dangerous but GOD childhood was fun.",
+      "summary_zh": "我们有很多节日。他们是如此不同。我怀念童年，和平地爆竹，然后猛烈地爆竹，然后以炫耀的方式爆竹，然后把它们扔给朋友，爆炸邮箱，看着人们随机发射火箭。是的，有点危险，但上帝的童年很有趣。",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T10:31:35+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b4f927f38fc7d55e",
@@ -257,7 +604,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-04T10:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "934f7d6404e0b101",
@@ -273,7 +624,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-04T08:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "军事政治",
+        "航空出行"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "19dba2b5dbdc7fd3",
@@ -289,7 +645,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T06:53:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a6b8a1e7942c1e06",
@@ -305,7 +665,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T06:46:25+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a7d53b81655d9d8e",
@@ -321,7 +685,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-04T06:45:19+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c754cdc259abefe5",
@@ -337,7 +705,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T06:11:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8a880f47f07c6292",
@@ -353,7 +725,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T05:47:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3937724e1164163f",
@@ -369,7 +746,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T05:34:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "48e2e7de49a3cde1",
@@ -385,7 +767,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T04:24:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c48b0801a3466ca2",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xn3krc/what_all_crackers_even_existed_in_the_first_place/",
+      "title_en": "What all crackers even existed in the first place at the time of ramayan? And how is not bursting crackers going to affect religious celebration?",
+      "title_zh": "在罗摩衍那时期，到底什么饼干才存在呢？爆竹怎么会不影响宗教庆典呢？",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/1sp24e3yegzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=021b3e0320a04a12cf7886d6036fa1b397b2609f",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T04:05:04+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "55900d10cb7f7bc8",
@@ -401,7 +807,32 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T03:51:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
+    },
+    {
+      "id": "efd55e6302bc54a2",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xn215n/lop_challenging_pm_for_a_debate/",
+      "title_en": "LoP challenging PM for a debate.",
+      "title_zh": "LoP 向 PM 发起辩论。",
+      "summary_en": "How do you guys think would it go if it ever happened? [link] [comments]",
+      "summary_zh": "你们觉得如果真的发生的话会怎么样？ [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/bmc3Nzd0dng0Z3poMZvzDx4idvpKtq2htWkDV8_J4JixhT14zagf69XbMC5m.png?width=320&crop=smart&auto=webp&s=520333e17e1e08ad430b849445e0c44196777e91",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T03:08:55+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ac78808601316c21",
@@ -417,7 +848,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-04T03:06:25+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ec6f928254e8cb1a",
@@ -433,7 +868,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T03:01:24+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e247fd6ad00bb68a",
@@ -449,7 +888,31 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-04T02:53:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5b70db0e9bffe34d",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-to-mandate-display-of-state-flag-at-private-firms-amid-local-jobs-row/articleshow/135426183.cms?from=mdr",
+      "title_en": "Karnataka to mandate display of state flag at private firms amid local jobs row",
+      "title_zh": "卡纳塔克邦将在当地就业纠纷中强制私营企业展示州旗",
+      "summary_en": "Karnataka",
+      "summary_zh": "卡纳塔克邦",
+      "translation_status": "fallback",
+      "image": "https://img.etimg.com/thumb/msid-135426354,width-1200,height-900,imgsize-208598,overlay-economictimes/articleshow.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T02:48:35+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5e175299d571b904",
@@ -465,7 +928,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T02:46:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "990af2847a8605d6",
@@ -481,7 +949,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-04T02:23:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b61b053f692c1abc",
@@ -497,7 +969,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T02:14:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f6930a21dd98351d",
@@ -513,7 +989,31 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-04T02:12:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b2e94996b77b7e14",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmzwqz/if_you_want_to_read_authentic_and_unbiased/",
+      "title_en": "If you want to read authentic and unbiased history of RSS and it's work, this is a great book",
+      "title_zh": "如果您想阅读 RSS 及其工作的真实且公正的历史，那么这是一本很棒的书",
+      "summary_en": "Have seen a lot of propaganda and disinformation campaign around RSS recently, if any one of you genuinely want to know about the organisation then this book isba great start. I'm sure you all know how to find their PDFs online ;) [link] [comments]",
+      "summary_zh": "最近看到了很多围绕 RSS 的宣传和虚假信息活动，如果你们中有人真正想了解该组织，那么这本书就是一个很好的开始。我相信你们都知道如何在线查找 PDF ;) [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/2hyd6mwfrfzh1.jpeg?width=640&crop=smart&auto=webp&s=3fbec77e3b09fa99c987cd64371ae9b397989d8f",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T01:53:17+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6d13dd3c8e8e95bb",
@@ -529,7 +1029,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T01:40:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "87b086dd39e7f65f",
+      "url": "https://www.timesnownews.com/india/rahul-gandhi-challenges-pm-modi-to-open-debate-alleges-foreign-backing-for-his-rise-and-continuance-in-power-article-156452812",
+      "title_en": "'Any Stage, Any Time': Rahul Gandhi's Open Debate Challenge To PM Modi Over 'Foreign Help'",
+      "title_zh": "“任何阶段、任何时间”：拉胡尔·甘地就“外国援助”问题向莫迪总理发起公开辩论挑战",
+      "summary_en": "Rahul Gandhi challenged PM Narendra Modi to an open debate over allegations of foreign interference. , India News, Times Now",
+      "summary_zh": "拉胡尔·甘地向总理纳伦德拉·莫迪发起挑战，要求就外国干涉指控进行公开辩论。 ，印度新闻，时报现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156452954,thumbsize-1246528,width-1280,height-720,resizemode-75/156452954.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T01:13:23+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "07d3af4477ccdc8c",
@@ -545,7 +1069,52 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-04T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "cd10da6705ab59eb",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmyan9/india_set_to_become_worlds_largest_economy_by/",
+      "title_en": "India set to become world's largest economy by 2100: says eminent American economist Jeffrey Sachs at a recent event, says India and China must cooperate as \"the next Asian powers\"",
+      "title_zh": "印度将在 2100 年成为世界最大经济体：著名美国经济学家杰弗里·萨克斯 (Jeffrey Sachs) 在最近的一次活动中表示，印度和中国必须作为“下一个亚洲强国”进行合作",
+      "summary_en": "Source link: https://m.economictimes.com/news/short-videos/india-to-become-worlds-largest-economy-china-must-not-fear-india-jeffrey-sachs/amp\\_videoshow/135481340.cms [link] [comments]",
+      "summary_zh": "来源链接：https://m.economictimes.com/news/short-videos/india-to-become-worlds-largest-economy-china-must-not-fear-india-jeffrey-sachs/amp\\_videoshow/135481340.cms [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/c3R1bWUzajJoZnpoMV_7xrxsMwqOPPn_pcmk80eYw1sj8t6Ej-TjYBt-FGm4.png?width=320&crop=smart&auto=webp&s=dc6cf7865f5e0d694a8f37cad3e82cd5dc0e19cc",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T00:55:08+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "040224c443361c8a",
+      "url": "https://www.reuters.com/business/media-telecom/indias-vast-internet-social-media-apps-market-2026-01-29/",
+      "title_en": "Why doesn’t India have its own social media platform?",
+      "title_zh": "为什么印度没有自己的社交媒体平台？",
+      "summary_en": "",
+      "summary_zh": "为什么印度没有自己的社交媒体平台？",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-04T00:54:14+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c01ffb8c911cb28d",
@@ -561,7 +1130,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-04T00:51:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "153ff6c15164f5ae",
@@ -577,7 +1150,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-04T00:44:12+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "223c179836456858",
@@ -593,7 +1170,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-04T00:21:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

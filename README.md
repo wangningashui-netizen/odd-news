@@ -17,7 +17,9 @@
 
 图片用 `referrerpolicy="no-referrer"` 和懒加载。加载失败或来源没有主图时，换成站内的占位图。点图片可以看大图。
 
-默认打开最新一天。日期可以用下拉框和「上一天 / 下一天」切换。可以按来源、地区筛选，也可以同时搜索中英文标题和概要。条目多的时候往下滚会继续加载。颜色跟随系统的浅色 / 深色。
+打开时默认是「全部日期」：搜索、来源、地区、选题标签都作用在所有日期上，结果按发布时间从新到旧排，往下滚继续加载。日期下拉里选某一天，就只看那一天；「下一天」在最新一天上会回到全部日期。
+
+每条有 1 到 3 个选题标签（给短视频找素材用）。标签条可以多选，数字是当前搜索和来源、地区条件下的条数。点卡片上的标签也会加入筛选。颜色跟随系统的浅色 / 深色。
 
 页脚写明：文章和图片版权属于原发布者，本站只做链接。
 
@@ -34,6 +36,12 @@
 | `.github/workflows/daily-fetch.yml` | 每天自动跑上面的脚本并提交 |
 
 条目按规范化后的原文链接去重（忽略 `utm_*` 之类的跟踪参数，`www` 和协议差异也算同一条）。同一条故事如果先出现在通讯社、后出现在 Reddit，会留下先抓到的那条。
+
+选题标签由 `scripts/topics.py` 里的英文关键词规则打上，规则写在文件里，可以直接改。一条命中就打上对应标签，最多三个；都没命中就是「其他」。每天的抓取会对没有模型标签的条目重算。如果设置了 `MODELS_API_URL` 或 `MODELS_API_KEY`，抓取会再试一次模型打标，成功的条目标成 `tag_source: model`，以后不再被规则覆盖。
+
+没有主图或没有真正摘要的条目（尤其是从 Google News 解出来的 NDTV、News18、Times Now、Republic）会再打开原文页，读取 `og:image` / `twitter:image` 和 `og:description`（没有就用第一段正文），然后把这段英文机译成概要。抓取失败会换一个浏览器标识再试一次，最多两次，避免每天空打同一页。
+
+跨日搜索不逐个下载每天的大文件。抓取脚本会写 `data/search-index.json` 和按月拆开的 `data/search/YYYY-MM.json`。页面先读最近两个月，先画出结果，再在后台补更早的月份。
 
 `translation_status` 有三种：
 
@@ -105,6 +113,13 @@ GitHub Models 已于 2026-07-30 停用：`models.github.ai` 现在对补全请�
 | LADbible Weird | 英国 | `https://www.ladbible.com/weird.rss` | 25 |
 | UNILAD Weird | 英国 | `https://www.unilad.com/weird.rss` | 25 |
 | NDTV Offbeat | 印度 | 见下方说明 | 27 |
+| Indian Express Trending | 印度 | `https://indianexpress.com/section/trending/feed/` | 200 |
+| News18 Viral | 印度 | Google News：`site:news18.com/viral OR site:news18.com/buzz when:2d`，解回 news18.com | 43 |
+| Times Now Viral | 印度 | Google News：`site:timesnownews.com (viral OR bizarre OR offbeat) when:3d` | 100 |
+| Republic World Viral | 印度 | Google News：`site:republicworld.com (viral OR buzz OR offbeat) when:3d`，只保留 republicworld.com | 52（93 条里解开并核对域名的） |
+| Reddit r/india | 印度 | `https://www.reddit.com/r/india/new/.rss?limit=100` | 100 |
+| Reddit r/IndiaSpeaks | 印度 | `https://www.reddit.com/r/IndiaSpeaks/new/.rss?limit=100` | 99 |
+| Reddit r/indiasocial | 印度 | `https://www.reddit.com/r/indiasocial/new/.rss?limit=100` | 99 |
 | Reddit r/nottheonion | 全球 | `https://www.reddit.com/r/nottheonion/new/.rss?limit=100` | 100 |
 | Reddit r/Offbeat | 全球 | `https://www.reddit.com/r/Offbeat/new/.rss?limit=100` | 100 |
 
@@ -123,6 +138,11 @@ Reach 旗下的地方版（WalesOnline、Manchester Evening News 等）大量转
 | The Sun weird | `/news/weird/feed/`、`/news/weird-news/feed/`、`/topic/weird/feed/` | RSS 合法但 0 条。网页是设备验证墙。全站 feed 是普通新闻，不是怪闻栏，所以没有拿全站来凑数。英国怪闻改由 Mirror、Daily Star、Metro、Express、LADbible、UNILAD 补上 |
 | DailyO What The | `/feed`、`/rss.xml`、`/news/what-the/feed` | 都是 404。栏目页还在，最新文章停在 2023-12 |
 | Reddit r/weirdnews | `/r/weirdnews/new/.rss` 和 `hot` | 返回的是 2019–2020 的旧帖，不是在更新的 feed |
+| Zee News viral | 栏目 RSS 403；Google News 搜 viral / offbeat / bizarre 近 7 天是 0 条 | 没加 |
+| Free Press Journal viral | `/rss`、`/viral/rss`、`/feed` 都不是 feed；`site:freepressjournal.in/(viral OR lifestyle)` 是 0 条 | 没拿整站新闻来凑 |
+| Business Today offbeat | `site:businesstoday.in/offbeat` 和 visual stories 是 0 条。首页 RSS 是财经，不是怪闻栏 | 没加 |
+| OpIndia / ThePrint | OpIndia 的 feed 是政治评论，没有 offbeat 栏。ThePrint 被验证页挡住 | 没加 |
+| NDTV trending | `site:ndtv.com/trending when:2d` 是 0 条。Offbeat 仍用原来的 Google News 查询 | 没另加一栏 |
 
 ## 第一次抓取（2026-11-08）
 
@@ -134,6 +154,21 @@ Reach 旗下的地方版（WalesOnline、Manchester Evening News 等）大量转
 - **GitHub Models 没有译成。** 本机没有 `GITHUB_TOKEN`。另外直接请求 `https://models.github.ai/inference/chat/completions` 得到 HTTP 200 和纯文本 `OK`，不是聊天补全。651 条都用机器翻译写成了中文，`translation_status` 为 `fallback`。工作流每天仍会先试 Models；模型恢复后，最近 7 天的「机翻」会被换成模型概要
 
 每天真正的新增取决于来源当天发了多少。上面这几天大约是 50–90 条。Reddit、印度趋势和英国怪闻栏忙的时候会更高。脚本不会为了凑数去抓普通新闻版。
+
+## 印度素材占比（加上新来源之后）
+
+对比的是同一批最近几天、按北京时间归档的条目。加来源之前的数字来自当时 `main` 上的数据。
+
+| 日期 | 之前 | 之后 |
+| --- | --- | --- |
+| 2026-11-08 | 26/53（49%） | 203/231（88%） |
+| 2026-11-07 | 35/76（46%） | 191/232（82%） |
+| 2026-11-06 | 20/86（23%） | 108/174（62%） |
+| 2026-11-05 | 1/56（2%） | 24/79（30%） |
+| 2026-11-04 | 0/37（0%） | 21/58（36%） |
+| 2026-11-03 | 0/33（0%） | 19/52（37%） |
+
+全库 1347 条上的标签数量：街头食物 21，卫生环境 12，交通火车 50，航空出行 40，诈骗骗局 11，影视神剧 38，婚俗宗教 155，商业套路 34，科技发明 21，军事政治 127，动物 60，犯罪法律 145，奇人奇事 70，科学发现 54，历史考古 36，健康医疗 48，其他 583。规则没命中的归到「其他」，其中很多是 Reddit 上的闲聊帖。
 
 ## 本地查看
 

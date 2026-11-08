@@ -17,7 +17,11 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-08-09T21:30:20+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "68ecc4c80ac48781",
@@ -33,7 +37,11 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-08-09T17:19:49+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,91 +1,91 @@
 {
   "site": "奇闻日报",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-08T22:56:14+08:00",
+  "updated_at": "2026-11-08T23:25:53+08:00",
   "dates": [
     {
       "date": "2026-11-08",
-      "count": 53,
+      "count": 233,
       "file": "data/2026-11-08.json"
     },
     {
       "date": "2026-11-07",
-      "count": 76,
+      "count": 232,
       "file": "data/2026-11-07.json"
     },
     {
       "date": "2026-11-06",
-      "count": 86,
+      "count": 174,
       "file": "data/2026-11-06.json"
     },
     {
       "date": "2026-11-05",
-      "count": 56,
+      "count": 79,
       "file": "data/2026-11-05.json"
     },
     {
       "date": "2026-11-04",
-      "count": 37,
+      "count": 58,
       "file": "data/2026-11-04.json"
     },
     {
       "date": "2026-11-03",
-      "count": 33,
+      "count": 52,
       "file": "data/2026-11-03.json"
     },
     {
       "date": "2026-11-02",
-      "count": 14,
+      "count": 31,
       "file": "data/2026-11-02.json"
     },
     {
       "date": "2026-11-01",
-      "count": 4,
+      "count": 17,
       "file": "data/2026-11-01.json"
     },
     {
       "date": "2026-10-31",
-      "count": 10,
+      "count": 13,
       "file": "data/2026-10-31.json"
     },
     {
       "date": "2026-10-30",
-      "count": 12,
+      "count": 16,
       "file": "data/2026-10-30.json"
     },
     {
       "date": "2026-10-29",
-      "count": 8,
+      "count": 12,
       "file": "data/2026-10-29.json"
     },
     {
       "date": "2026-10-28",
-      "count": 11,
+      "count": 14,
       "file": "data/2026-10-28.json"
     },
     {
       "date": "2026-10-27",
-      "count": 11,
+      "count": 14,
       "file": "data/2026-10-27.json"
     },
     {
       "date": "2026-10-26",
-      "count": 6,
+      "count": 8,
       "file": "data/2026-10-26.json"
     },
     {
       "date": "2026-10-25",
-      "count": 9,
+      "count": 11,
       "file": "data/2026-10-25.json"
     },
     {
       "date": "2026-10-24",
-      "count": 7,
+      "count": 10,
       "file": "data/2026-10-24.json"
     },
     {
       "date": "2026-10-23",
-      "count": 9,
+      "count": 12,
       "file": "data/2026-10-23.json"
     },
     {
@@ -95,147 +95,152 @@
     },
     {
       "date": "2026-10-21",
-      "count": 7,
+      "count": 10,
       "file": "data/2026-10-21.json"
     },
     {
       "date": "2026-10-20",
-      "count": 8,
+      "count": 11,
       "file": "data/2026-10-20.json"
     },
     {
       "date": "2026-10-19",
-      "count": 7,
+      "count": 9,
       "file": "data/2026-10-19.json"
     },
     {
       "date": "2026-10-18",
-      "count": 8,
+      "count": 10,
       "file": "data/2026-10-18.json"
     },
     {
       "date": "2026-10-17",
-      "count": 4,
+      "count": 7,
       "file": "data/2026-10-17.json"
     },
     {
       "date": "2026-10-16",
-      "count": 13,
+      "count": 15,
       "file": "data/2026-10-16.json"
     },
     {
       "date": "2026-10-15",
-      "count": 6,
+      "count": 11,
       "file": "data/2026-10-15.json"
     },
     {
       "date": "2026-10-14",
-      "count": 4,
+      "count": 12,
       "file": "data/2026-10-14.json"
     },
     {
       "date": "2026-10-13",
-      "count": 2,
+      "count": 11,
       "file": "data/2026-10-13.json"
     },
     {
       "date": "2026-10-12",
-      "count": 4,
+      "count": 8,
       "file": "data/2026-10-12.json"
     },
     {
       "date": "2026-10-11",
-      "count": 3,
+      "count": 8,
       "file": "data/2026-10-11.json"
     },
     {
       "date": "2026-10-10",
-      "count": 3,
+      "count": 10,
       "file": "data/2026-10-10.json"
     },
     {
       "date": "2026-10-09",
-      "count": 4,
+      "count": 9,
       "file": "data/2026-10-09.json"
     },
     {
       "date": "2026-10-08",
-      "count": 4,
+      "count": 10,
       "file": "data/2026-10-08.json"
     },
     {
       "date": "2026-10-07",
-      "count": 4,
+      "count": 10,
       "file": "data/2026-10-07.json"
     },
     {
       "date": "2026-10-06",
-      "count": 4,
+      "count": 10,
       "file": "data/2026-10-06.json"
     },
     {
+      "date": "2026-10-05",
+      "count": 4,
+      "file": "data/2026-10-05.json"
+    },
+    {
       "date": "2026-10-04",
-      "count": 2,
+      "count": 5,
       "file": "data/2026-10-04.json"
     },
     {
       "date": "2026-10-03",
-      "count": 2,
+      "count": 6,
       "file": "data/2026-10-03.json"
     },
     {
       "date": "2026-10-02",
-      "count": 5,
+      "count": 7,
       "file": "data/2026-10-02.json"
     },
     {
       "date": "2026-10-01",
-      "count": 3,
+      "count": 9,
       "file": "data/2026-10-01.json"
     },
     {
       "date": "2026-09-30",
-      "count": 3,
+      "count": 10,
       "file": "data/2026-09-30.json"
     },
     {
       "date": "2026-09-29",
-      "count": 2,
+      "count": 8,
       "file": "data/2026-09-29.json"
     },
     {
       "date": "2026-09-28",
-      "count": 1,
+      "count": 5,
       "file": "data/2026-09-28.json"
     },
     {
       "date": "2026-09-27",
-      "count": 1,
+      "count": 5,
       "file": "data/2026-09-27.json"
     },
     {
       "date": "2026-09-26",
-      "count": 5,
+      "count": 10,
       "file": "data/2026-09-26.json"
     },
     {
       "date": "2026-09-25",
-      "count": 3,
+      "count": 7,
       "file": "data/2026-09-25.json"
     },
     {
       "date": "2026-09-24",
-      "count": 2,
+      "count": 8,
       "file": "data/2026-09-24.json"
     },
     {
       "date": "2026-09-23",
-      "count": 4,
+      "count": 12,
       "file": "data/2026-09-23.json"
     },
     {
       "date": "2026-09-22",
-      "count": 1,
+      "count": 4,
       "file": "data/2026-09-22.json"
     },
     {
@@ -275,13 +280,18 @@
     },
     {
       "date": "2026-09-10",
-      "count": 2,
+      "count": 3,
       "file": "data/2026-09-10.json"
     },
     {
       "date": "2026-09-08",
       "count": 3,
       "file": "data/2026-09-08.json"
+    },
+    {
+      "date": "2026-09-07",
+      "count": 1,
+      "file": "data/2026-09-07.json"
     },
     {
       "date": "2026-09-03",
@@ -364,6 +374,11 @@
       "file": "data/2026-05-26.json"
     },
     {
+      "date": "2026-05-20",
+      "count": 1,
+      "file": "data/2026-05-20.json"
+    },
+    {
       "date": "2026-05-18",
       "count": 1,
       "file": "data/2026-05-18.json"
@@ -394,6 +409,11 @@
       "file": "data/2026-03-26.json"
     },
     {
+      "date": "2026-03-17",
+      "count": 1,
+      "file": "data/2026-03-17.json"
+    },
+    {
       "date": "2026-02-24",
       "count": 1,
       "file": "data/2026-02-24.json"
@@ -414,6 +434,16 @@
       "file": "data/2026-02-05.json"
     },
     {
+      "date": "2026-01-06",
+      "count": 1,
+      "file": "data/2026-01-06.json"
+    },
+    {
+      "date": "2025-07-24",
+      "count": 1,
+      "file": "data/2025-07-24.json"
+    },
+    {
       "date": "2024-12-04",
       "count": 1,
       "file": "data/2024-12-04.json"
@@ -422,6 +452,11 @@
       "date": "2024-06-26",
       "count": 1,
       "file": "data/2024-06-26.json"
+    },
+    {
+      "date": "2024-05-29",
+      "count": 1,
+      "file": "data/2024-05-29.json"
     },
     {
       "date": "2024-03-27",
@@ -557,6 +592,11 @@
       "date": "2023-03-31",
       "count": 1,
       "file": "data/2023-03-31.json"
+    },
+    {
+      "date": "2023-01-25",
+      "count": 1,
+      "file": "data/2023-01-25.json"
     }
   ]
 }

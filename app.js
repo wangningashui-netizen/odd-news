@@ -10,6 +10,7 @@
   var newerBtn = document.getElementById("newer-day");
   var regionsEl = document.getElementById("regions");
   var sourceEl = document.getElementById("source");
+  var topicsEl = document.getElementById("topics");
   var searchEl = document.getElementById("search");
   var statusEl = document.getElementById("status");
   var headingEl = document.getElementById("day-heading");
@@ -21,13 +22,15 @@
   var lightboxImg = document.getElementById("lightbox-img");
   var lightboxCaption = document.getElementById("lightbox-caption");
 
+  var FALLBACK_TAGS = ["街头食物", "卫生环境", "交通火车", "航空出行", "诈骗骗局", "影视神剧", "婚俗宗教", "商业套路", "科技发明", "军事政治", "动物", "犯罪法律", "奇人奇事", "科学发现", "历史考古", "健康医疗", "其他"];
   var indexDates = [];
-  var currentDate = "";
-  var items = [];
+  var tagOrder = FALLBACK_TAGS.slice();
+  var allItems = [];
+  var scopeDate = "";
   var filtered = [];
   var shown = 0;
   var activeRegion = "";
-  var cache = Object.create(null);
+  var activeTags = [];
 
   function el(tag, className, text) {
     var node = document.createElement(tag);
@@ -71,33 +74,52 @@
       .toLowerCase();
   }
 
-  function applyFilters() {
+  function scopedItems() {
+    if (!scopeDate) return allItems;
+    return allItems.filter(function (item) { return item.date === scopeDate; });
+  }
+
+  function baseFiltered() {
     var query = searchEl.value.trim().toLowerCase();
     var source = sourceEl.value;
-    filtered = items.filter(function (item) {
+    return scopedItems().filter(function (item) {
       if (source && item.source !== source) return false;
       if (activeRegion && item.region !== activeRegion) return false;
       if (query && haystack(item).indexOf(query) === -1) return false;
       return true;
     });
+  }
+
+  function applyFilters() {
+    var base = baseFiltered();
+    filtered = base.filter(function (item) {
+      if (!activeTags.length) return true;
+      var tags = item.tags || [];
+      return activeTags.some(function (tag) { return tags.indexOf(tag) !== -1; });
+    });
     shown = 0;
     gridEl.replaceChildren();
+    renderTags(base);
     appendMore();
   }
 
   function updateStatus() {
-    var total = items.length;
+    var pool = scopedItems().length;
     var matched = filtered.length;
-    if (!currentDate) {
-      statusEl.textContent = "没有可读的日期。";
-      return;
-    }
-    if (!total) {
-      statusEl.textContent = "这一天还没有条目。";
-      return;
-    }
     var visible = Math.min(shown, matched);
-    statusEl.textContent = "这一天 " + total + " 条，当前显示 " + visible + " / " + matched + " 条。";
+    var where = scopeDate ? "这一天 " + pool + " 条" : "全部日期 " + pool + " 条";
+    if (!allItems.length) {
+      statusEl.textContent = "还没有可读的条目。";
+      return;
+    }
+    statusEl.textContent = where + "，当前显示 " + visible + " / " + matched + " 条。";
+  }
+
+  function toggleTag(tag) {
+    var index = activeTags.indexOf(tag);
+    if (index === -1) activeTags.push(tag);
+    else activeTags.splice(index, 1);
+    applyFilters();
   }
 
   function placeholderSrc() {
@@ -169,8 +191,18 @@
     time.textContent = formatTime(item.published_at);
     meta.appendChild(time);
 
+    var tagRow = el("div", "topic-tags");
+    (item.tags || []).forEach(function (tag) {
+      var chip = el("button", "topic", tag);
+      chip.type = "button";
+      chip.setAttribute("aria-pressed", String(activeTags.indexOf(tag) !== -1));
+      chip.addEventListener("click", function () { toggleTag(tag); });
+      tagRow.appendChild(chip);
+    });
+
     var heading = el("h3", null, title);
     body.appendChild(meta);
+    if (tagRow.childNodes.length) body.appendChild(tagRow);
     body.appendChild(heading);
     if (item.title_zh && item.title_en) {
       var en = el("p", "title-en", item.title_en);
@@ -199,7 +231,7 @@
   }
 
   function appendMore() {
-    var unfiltered = !searchEl.value.trim() && !sourceEl.value && !activeRegion;
+    var unfiltered = !searchEl.value.trim() && !sourceEl.value && !activeRegion && !activeTags.length;
     var next = filtered.slice(shown, shown + PAGE);
     next.forEach(function (item, index) {
       var hero = unfiltered && shown === 0 && index === 0;
@@ -217,7 +249,7 @@
     var previous = sourceEl.value;
     var names = [];
     var seen = Object.create(null);
-    items.forEach(function (item) {
+    scopedItems().forEach(function (item) {
       if (item.source && !seen[item.source]) {
         seen[item.source] = true;
         names.push(item.source);
@@ -233,7 +265,7 @@
 
   function renderRegions() {
     var present = Object.create(null);
-    items.forEach(function (item) {
+    scopedItems().forEach(function (item) {
       if (item.region) present[item.region] = true;
     });
     var regions = REGION_ORDER.filter(function (name) {
@@ -263,82 +295,86 @@
     return -1;
   }
 
+  function renderTags(base) {
+    var counts = Object.create(null);
+    base.forEach(function (item) {
+      (item.tags || []).forEach(function (tag) {
+        counts[tag] = (counts[tag] || 0) + 1;
+      });
+    });
+    topicsEl.replaceChildren();
+    tagOrder.forEach(function (tag) {
+      if (!counts[tag]) return;
+      var button = el("button", null, tag + " " + counts[tag]);
+      button.type = "button";
+      button.setAttribute("aria-pressed", String(activeTags.indexOf(tag) !== -1));
+      button.addEventListener("click", function () { toggleTag(tag); });
+      topicsEl.appendChild(button);
+    });
+  }
+
   function renderDates() {
     dateSelect.replaceChildren();
+    dateSelect.appendChild(new Option("全部日期", ""));
     indexDates.forEach(function (entry) {
       dateSelect.appendChild(new Option(formatDay(entry.date) + " · " + entry.count + "条", entry.date));
     });
-    if (currentDate) dateSelect.value = currentDate;
-    var index = dateIndex(currentDate);
-    olderBtn.disabled = index < 0 || index >= indexDates.length - 1;
-    newerBtn.disabled = index <= 0;
+    dateSelect.value = scopeDate;
+    var index = dateIndex(scopeDate);
+    olderBtn.disabled = !!scopeDate && index >= indexDates.length - 1;
+    newerBtn.disabled = !scopeDate;
   }
 
-  function selectDate(date, updateHash) {
-    currentDate = date;
-    if (updateHash) {
-      history.replaceState(null, "", "#" + date);
-    }
-    headingEl.textContent = formatDay(date);
+  function refreshView() {
+    headingEl.textContent = scopeDate ? formatDay(scopeDate) : "全部日期";
     renderDates();
-    statusEl.textContent = "正在加载这一天…";
-    loadDay(date).then(function (dayItems) {
-      if (currentDate !== date) return;
-      items = dayItems;
-      fillSources();
-      if (activeRegion && !items.some(function (item) { return item.region === activeRegion; })) {
-        activeRegion = "";
-      }
-      renderRegions();
-      applyFilters();
-    }).catch(function () {
-      if (currentDate !== date) return;
-      items = [];
-      filtered = [];
-      gridEl.replaceChildren();
-      emptyEl.hidden = false;
-      emptyEl.textContent = "这一天的数据暂时读不出来。";
-      statusEl.textContent = "加载失败。";
-    });
+    fillSources();
+    if (activeRegion && !scopedItems().some(function (item) { return item.region === activeRegion; })) {
+      activeRegion = "";
+    }
+    renderRegions();
+    applyFilters();
   }
 
-  function loadDay(date) {
-    if (cache[date]) return Promise.resolve(cache[date]);
-    return fetch("data/" + date + ".json", { cache: "no-cache" }).then(function (response) {
-      if (!response.ok) throw new Error("day");
-      return response.json();
-    }).then(function (payload) {
-      var list = (payload && payload.items) || [];
-      list.sort(function (a, b) {
-        return String(b.published_at || "").localeCompare(String(a.published_at || ""));
-      });
-      cache[date] = list;
-      return list;
-    });
+  function selectScope(date, updateHash) {
+    scopeDate = date || "";
+    if (updateHash) {
+      history.replaceState(null, "", scopeDate ? "#" + scopeDate : "#");
+    }
+    refreshView();
   }
 
-  function boot(index) {
+  function boot(index, catalog) {
     indexDates = (index && index.dates) || [];
-    if (!indexDates.length) {
+    if (catalog && catalog.tags && catalog.tags.length) tagOrder = catalog.tags;
+    if (!allItems.length) {
       statusEl.textContent = "还没有数据。每日任务跑过之后，这里会列出各天的条目。";
       headingEl.textContent = "尚无日报";
       return;
     }
+    allItems.sort(function (a, b) {
+      return String(b.published_at || "").localeCompare(String(a.published_at || ""));
+    });
     var hash = (location.hash || "").replace(/^#/, "");
     var known = indexDates.some(function (entry) { return entry.date === hash; });
-    selectDate(known ? hash : indexDates[0].date, false);
+    selectScope(known ? hash : "", false);
   }
 
   dateSelect.addEventListener("change", function () {
-    if (dateSelect.value && dateSelect.value !== currentDate) selectDate(dateSelect.value, true);
+    selectScope(dateSelect.value, true);
   });
   olderBtn.addEventListener("click", function () {
-    var index = dateIndex(currentDate);
-    if (index >= 0 && index < indexDates.length - 1) selectDate(indexDates[index + 1].date, true);
+    if (!scopeDate) {
+      if (indexDates.length) selectScope(indexDates[0].date, true);
+      return;
+    }
+    var index = dateIndex(scopeDate);
+    if (index >= 0 && index < indexDates.length - 1) selectScope(indexDates[index + 1].date, true);
   });
   newerBtn.addEventListener("click", function () {
-    var index = dateIndex(currentDate);
-    if (index > 0) selectDate(indexDates[index - 1].date, true);
+    var index = dateIndex(scopeDate);
+    if (index > 0) selectScope(indexDates[index - 1].date, true);
+    else if (index === 0) selectScope("", true);
   });
   searchEl.addEventListener("input", function () {
     window.clearTimeout(searchEl._timer);
@@ -363,18 +399,60 @@
 
   window.addEventListener("hashchange", function () {
     var hash = (location.hash || "").replace(/^#/, "");
-    if (hash && hash !== currentDate && indexDates.some(function (entry) { return entry.date === hash; })) {
-      selectDate(hash, false);
+    if (!hash) {
+      if (scopeDate) selectScope("", false);
+      return;
+    }
+    if (hash !== scopeDate && indexDates.some(function (entry) { return entry.date === hash; })) {
+      selectScope(hash, false);
     }
   });
 
-  fetch("data/index.json", { cache: "no-cache" })
-    .then(function (response) {
-      if (!response.ok) throw new Error("index");
+  function loadJson(url) {
+    return fetch(url, { cache: "no-cache" }).then(function (response) {
+      if (!response.ok) throw new Error(url);
       return response.json();
+    });
+  }
+
+  function loadMonths(months) {
+    var pending = months.slice();
+    var loaded = [];
+    function next() {
+      var slice = pending.splice(0, 4);
+      if (!slice.length) return Promise.resolve(loaded);
+      return Promise.all(slice.map(function (month) {
+        return loadJson(month.file).then(function (payload) {
+          return (payload && payload.items) || [];
+        });
+      })).then(function (groups) {
+        groups.forEach(function (group) { loaded = loaded.concat(group); });
+        return next();
+      });
+    }
+    return next();
+  }
+
+  statusEl.textContent = "正在加载选题库…";
+  Promise.all([loadJson("data/index.json"), loadJson("data/search-index.json")])
+    .then(function (pair) {
+      var index = pair[0];
+      var catalog = pair[1];
+      var months = (catalog && catalog.months) || [];
+      var first = months.slice(0, 2);
+      var rest = months.slice(2);
+      return loadMonths(first).then(function (items) {
+        allItems = items;
+        boot(index, catalog);
+        if (!rest.length) return;
+        statusEl.textContent = statusEl.textContent + " 正在补齐更早的月份…";
+        return loadMonths(rest).then(function (older) {
+          allItems = allItems.concat(older);
+          refreshView();
+        });
+      });
     })
-    .then(boot)
     .catch(function () {
-      statusEl.textContent = "读不到 data/index.json。";
+      statusEl.textContent = "读不到搜索索引。请确认 data/search-index.json 已生成。";
     });
 })();

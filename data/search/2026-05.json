@@ -1,0 +1,57 @@
+{
+  "month": "2026-05",
+  "count": 3,
+  "items": [
+    {
+      "id": "d7ecf4a2c1d01c53",
+      "date": "2026-05-26",
+      "published_at": "2026-05-26T01:51:05+08:00",
+      "title_zh": "世界上最高的温度计正在出售，价格惊人",
+      "title_en": "The world's tallest thermometer is for sale and you can buy it for a staggering amount",
+      "summary_zh": "曾经想成为世界上最高温度计的骄傲拥有者吗？好吧，如果你是百万富翁，现在你就可以了。据多家当地媒体报道，这种温度计本身已成为加利福尼亚州贝克市的一个旅游景点，现在可供购买。该房源是圣贝纳迪诺县一处占地 4.3 英亩的地产的一部分，位于著名的拉斯维加斯大道西南约 90 英里处。",
+      "summary_en": "Ever wanted to be the proud owner of the world's tallest thermometer? Well, now you can if you're a millionaire. The thermometer has become a tourist attraction in its own right in Baker, California and is now available for purchase, according to multiple local media reports. The listing is part of a 4.3-acre property, the San Bernardino County site, which is roughly 90 miles southwest of the famed Las Vegas strip.",
+      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQ3M2EwOWU5Y2IzNTVlYTRjLzZhMTQ4NmNjOTNjMDc5Nzc3ODYyNjdmNi9HZXR0eUltYWdlcy0xMjMzOTM1NzI5LmpwZw.jpg",
+      "source": "UNILAD Weird",
+      "region": "英国",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.unilad.com/news/us-news/worlds-tallest-thermometer-for-sale-691142-20260525",
+      "translation_status": "fallback"
+    },
+    {
+      "id": "dc90537e4f25fd09",
+      "date": "2026-05-20",
+      "published_at": "2026-05-20T21:33:05+08:00",
+      "title_zh": "“Melody Hai Chocolatey”：印度最具标志性的太妃糖广告背后的故事",
+      "title_en": "‘Melody Hai Chocolatey’: The Story Behind India’s Most Iconic Toffee Ad",
+      "summary_zh": "早在社交媒体流行和精美巧克力出现之前，一种焦糖太妃糖就凭借一个简单的问题和令人难忘的答案而成为全印度儿童的最爱。",
+      "summary_en": "Long before social media trends and fancy chocolates, one caramel toffee became a childhood favourite across India with a simple question and an unforgettable answer.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5843402_untitleddesign53_1-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/melody-hai-chocolatey-the-story-behind-indias-most-iconic-toffee-ad-ws-l-10102313.html",
+      "translation_status": "fallback"
+    },
+    {
+      "id": "c08d0dd30af8cac9",
+      "date": "2026-05-18",
+      "published_at": "2026-05-18T18:21:18+08:00",
+      "title_zh": "德克萨斯州数十个有缺陷的存钱罐被冲上岸之谜",
+      "title_en": "Mystery as dozens of defective piggy banks wash ashore in Texas",
+      "summary_zh": "2026 年，德克萨斯州有五打有缺陷的存钱罐被冲上岸，官员们感到有点困惑。海滩上通常会发现什么？当然还有沙子、大海，也许还有一点海藻。但当你泡在水里时，你最不想看到的就是你小时候妈妈会把你的零用钱放进去的存钱罐。",
+      "summary_en": "Officials have been left feeling a bit perplexed after a five dozen defective piggy banks were washed ashore in Texas in 2026. What do you typically find on a beach? Sand, of course, the sea and maybe a bit of seaweed. But the last thing you'd expect to see when having a dip in the water is a piggy bank your mom would put your pocket money in as a child.",
+      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQ2MTkxNjcxZmRiNDFmMDU0LzZhMGFkZWM2ODQxN2M3ODJmYjlhNWY1Yy9TY3JlZW5zaG90XzIwMjYtMDUtMThfYXRfMDkuMjcuMDIucG5n.jpg",
+      "source": "UNILAD Weird",
+      "region": "英国",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.unilad.com/news/us-news/texas-piggy-banks-wash-ashore-260408-20260518",
+      "translation_status": "fallback"
+    }
+  ]
+}

@@ -1,8 +1,48 @@
 {
   "date": "2026-10-02",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 7,
   "items": [
+    {
+      "id": "f64fb8d8eba62490",
+      "url": "https://indianexpress.com/article/trending/trending-globally/how-a-32-year-old-writer-turned-her-substack-into-a-263000-dollar-business-10903785/",
+      "title_en": "How a 32-year-old writer turned her Substack into a $263,000 business: ‘It’s a side hustle’",
+      "title_zh": "一位 32 岁的作家如何将她的 Substack 变成一项价值 263,000 美元的业务：“这是一项副业”",
+      "summary_en": "Amy Suto started out as a television writer in Hollywood before moving into freelance writing and ghostwriting.",
+      "summary_zh": "艾米·苏托 (Amy Suto) 最初是好莱坞的一名电视编剧，后来从事自由写作和代笔创作。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Substack-business.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-02T17:26:43+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "de9f22ca03506ac9",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/rapido-pink-ride-male-driver-woman-safety-controversy-10903479/",
+      "title_en": "‘Madam, I am gay’: Woman books Rapido Pink ride, gets male driver",
+      "title_zh": "“女士，我是同性恋”：女子预订 Rapido Pink 骑行，却找了男司机",
+      "summary_en": "Rapido later said it had terminated the captain’s ID from the Pink ride platform.",
+      "summary_zh": "Rapido 后来表示，它已从 Pink 乘车平台上终止了船长的 ID。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Rapido-Pink-ride-controversy.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-02T13:52:48+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "15ad6b98af73ad24",
       "url": "https://allthatsinteresting.com/cliff-house-san-francisco",
@@ -17,7 +57,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-02T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a502880157ca642b",
@@ -33,7 +77,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-02T05:45:39+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e080d332c9091f3a",
@@ -49,7 +97,12 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-10-02T03:52:00+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "军事政治",
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "64d7c338a2400608",
@@ -65,7 +118,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-02T02:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8d80b89a7fb3841d",
@@ -81,7 +138,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-02T00:00:48+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,8 +1,88 @@
 {
   "date": "2026-09-25",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 7,
   "items": [
+    {
+      "id": "b4130cee6545352f",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/gaurav-taneja-flying-beast-mau-labrador-death-controversy-beastlife-10893997/",
+      "title_en": "‘I don’t want to save the brand’: Gaurav Taneja reacts to boycott calls over Mau’s death",
+      "title_zh": "“我不想拯救这个品牌”：Gaurav Taneja 对抵制 Mau 之死的呼吁做出反应",
+      "summary_en": "Gaurav Taneja said he planned to discuss Mau during his September 29 farm visit but addressed the controversy earlier after allegations about the dog spread online.",
+      "summary_zh": "高拉夫·塔内贾 (Gaurav Taneja) 表示，他计划在 9 月 29 日参观农场期间讨论 Mau，但在有关这只狗的指控在网上传播后，他早些时候解决了这一争议。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Gaurav-Taneja-Mau-controversy.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-25T20:44:21+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a9a3eeff152e7939",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-youngest-billionaires-in-india-2026-zeptos-kaivalya-vohra-remains-indias-youngest-billionaire-at-23-10893420/",
+      "title_en": "Top 10 youngest billionaires in India 2026: Zepto’s Kaivalya Vohra remains India’s youngest billionaire at 23",
+      "title_zh": "2026 年印度最年轻的 10 位亿万富翁：Zepto 的 Kaivalya Vohra 仍是印度最年轻的亿万富翁，年仅 23 岁",
+      "summary_en": "Zepto's co-founder Kaivalya Vohra topped M3M Hurun India Rich list while Cupid's Aditya Kumar Halwasiya is the fastest wealth creator in 2026.",
+      "summary_zh": "Zepto 的联合创始人 Kaivalya Vohra 荣登 M3M 胡润印度富豪榜榜首，而 Cupid 的 Aditya Kumar Halwasiya 则是 2026 年最快的财富创造者。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Zeptos-co-founder-Kaivalya-Vohra-topped-M3M-Hurun-India-Rich-list-while-Cupids-Aditya-Kumar-Halwasiya-is-the-fastest-wealth-creator-in-2026.-.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-25T20:30:55+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "522cc895a5ed6dcf",
+      "url": "https://indianexpress.com/article/trending/trending-globally/26-year-old-turn-travel-passion-into-career-earns-up-to-rs-2-88-lakh-10893914/",
+      "title_en": "26-year-old turns travel passion into career, earns up to Rs 2.88 lakh per trip",
+      "title_zh": "26 岁年轻人将旅行热情变成职业，每次旅行收入高达 28.8 万卢比",
+      "summary_en": "From Instagram partnerships to leading group tours, Rhiannon Wood has built a travel career after years of minimum-wage jobs.",
+      "summary_zh": "从 Instagram 合作伙伴到领导团体旅游，Rhiannon Wood 在从事多年的最低工资工作后建立了旅游职业生涯。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Rhiannon-Wood-travel-influencer.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-25T19:50:58+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "81db9542a414555b",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/fat-dogs-of-delhi-2026-competition-viral-10893437/",
+      "title_en": "Kutta Singh vs Mahakutteshwar: Delhi’s ‘fat dog’ contest sparks online campaign wars",
+      "title_zh": "库塔·辛格 vs 马哈库特什瓦尔：德里的“肥狗”竞赛引发在线竞选大战",
+      "summary_en": "‘Fat Dogs of Delhi’, an Instagram page dedicated to the city’s chubby canines, has launched an online competition featuring 64 dogs.",
+      "summary_zh": "“德里的胖狗”是一个专门针对该市胖乎乎的狗狗的 Instagram 页面，发起了一项由 64 只狗参加的在线比赛。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Fat-Dogs-of-Delhi.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-25T16:20:39+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "1ca975ad2e070b6d",
       "url": "https://allthatsinteresting.com/charles-stanley-gifford",
@@ -17,7 +97,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-25T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1348464a772dfe0e",
@@ -33,7 +117,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-25T05:45:50+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e964116a20ad0e9c",
@@ -49,7 +138,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-09-25T03:02:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

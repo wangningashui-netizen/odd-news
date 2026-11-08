@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 9,
   "items": [
     {
       "id": "6bcee033cee42b42",
@@ -17,7 +17,112 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-10-09T20:54:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "362f4b3f2270107c",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/baghpat-gym-fight-cctv-video-up-police-investigation-10914318/",
+      "title_en": "’32 slaps and nobody stepped in’: Baghpat gym fight caught on CCTV, escalates into street brawl",
+      "title_zh": "“打了32个耳光，却没有人介入”：闭路电视拍摄到巴格帕特健身房打架事件，升级为街头斗殴",
+      "summary_en": "The incident took place at a gym in Agarwal Mandi Tatiri, which falls under the jurisdiction of Baghpat Kotwali police station.",
+      "summary_zh": "事件发生在 Agarwal Mandi Tatiri 的一家健身房，该健身房隶属 Baghpat Kotwali 警察局管辖。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Baghpat-gym-fight-video.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-09T20:29:38+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "080d2190ffdb8284",
+      "url": "https://indianexpress.com/article/trending/trending-globally/susan-dell-mar-a-lago-face-explained-10914254/",
+      "title_en": "Susan Dell’s appearance at Oval Office sparks ‘Mar-a-Lago Face’ debate",
+      "title_zh": "苏珊·戴尔出现在椭圆形办公室引发“海湖庄园脸”争论",
+      "summary_en": "Susan Dell’s Oval Office appearance with husband Michael Dell to discuss their Trump Accounts pledge sparked online debate over her looks, with users invoking ‘Mar-a-Lago face’.",
+      "summary_zh": "苏珊·戴尔 (Susan Dell) 与丈夫迈克尔·戴尔 (Michael Dell) 出现在椭圆形办公室，讨论他们的特朗普账户承诺，引发了网上关于她外表的争论，用户称其为“海湖庄园脸”。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Susan-Dell-Mar-a-Lago-face.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-09T19:48:26+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "02171f9603d2385c",
+      "url": "https://indianexpress.com/article/trending/trending-globally/china-restaurant-owner-gifts-bmws-employees-10914118/",
+      "title_en": "Boss in China sees employee arrive shivering in cold, gifts 2 staffers BMWs",
+      "title_zh": "中国老板看到员工冷得瑟瑟发抖，送了2辆宝马给员工",
+      "summary_en": "The idea took shape last winter when Ma Yanli saw Li Jie, an employee who had been with her restaurant for eight years, arrive at work after riding her electric scooter in the cold.",
+      "summary_zh": "去年冬天，当马艳丽看到在她餐厅工作了八年的员工李杰在寒冷中骑着电动滑板车上班时，这个想法就成形了。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/China-restaurant-owner-gifts-BMWs-to-employees.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-09T18:45:35+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "街头食物",
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "31679a5b0025737f",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/skyscanner-travel-trends-2027-top-destinations-and-what-indians-want-10913640/",
+      "title_en": "Skyscanner travel trends 2027: Top destinations and what Indians want",
+      "title_zh": "Skyscanner 2027 年旅游趋势：热门目的地和印度人的需求",
+      "summary_en": "Rupsi (Assam) ranked No.2 while Malvan (Maharashtra) ranked No. 4 in Skyscanner's top trending destinations for 2027. (Photo Credit wikimedia commons)",
+      "summary_zh": "在 Skyscanner 2027 年热门目的地中，Rupsi（阿萨姆邦）排名第二，而 Malvan（马哈拉施特拉邦）排名第四。（图片来源 wikimedia commons）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Rupsi-Assam-ranked-No.2-while-Malvan-Maharashtra-ranked-No.-4-in-Skyscanners-top-trending-destinations-for-2027.-Photo-Credit-wikimedia-commons.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-09T18:28:51+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "95c04d40f86cb590",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/nana-patekar-dies-75-smriti-irani-anand-mahindra-tribute-10913663/",
+      "title_en": "Smriti Irani remembers Nana Patekar; Anand Mahindra compares him to Marlon Brando",
+      "title_zh": "斯姆里蒂·伊拉尼 (Smriti Israeli) 记得娜娜·帕特卡 (Nana Patekar)；阿南德·马辛德拉将他比作马龙·白兰度",
+      "summary_en": "While Irani shared intimate memories of their relationship, Mahindra described Patekar as an actor whose identity transcended his roles, making him a cultural touchstone.",
+      "summary_zh": "虽然伊拉尼分享了他们关系的亲密回忆，但马辛德拉将帕特卡描述为一名身份超越角色的演员，使他成为文化试金石。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Smriti-Irani-Nana-Patekar-dies-at-75.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-09T14:24:12+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9fae32812dd0cc8b",
@@ -33,7 +138,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-09T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3915fdb7450822fa",
@@ -49,7 +158,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-09T05:45:24+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f048e0c1979ef89a",
@@ -65,7 +178,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-10-09T02:51:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

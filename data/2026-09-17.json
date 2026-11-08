@@ -17,7 +17,12 @@
       "source_id": "oddity-central",
       "region": "全球",
       "published_at": "2026-09-17T16:34:22+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "4e86f2da72aa85f0",
@@ -33,7 +38,11 @@
       "source_id": "oddity-central",
       "region": "全球",
       "published_at": "2026-09-17T13:41:39+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,8 +1,88 @@
 {
   "date": "2026-10-03",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 6,
   "items": [
+    {
+      "id": "7565cf149bf9ec04",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bodhana-sivanandan-youngest-female-wgm-guinness-record-10905463/",
+      "title_en": "Youngest Woman Grandmaster’: 11-year-old British-Indian chess prodigy Bodhana Sivanandan gets Guinness record",
+      "title_zh": "最年轻女特级大师：11岁英印国际象棋神童Bodhana Sivanandan获得吉尼斯纪录",
+      "summary_en": "The 11-year-old from London achieved the feat at the 46th Chess Olympiad in Samarkand, Uzbekistan, last week.",
+      "summary_zh": "这位来自伦敦的 11 岁小将上周在乌兹别克斯坦撒马尔罕举行的第 46 届国际象棋奥林匹克竞赛中取得了这一壮举。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Bodhana-Sivanandan-Guinness-World-Record.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-03T22:07:51+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3147b563533ddf1c",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/manali-traffic-jam-long-weekend-tourist-rush-10905150/",
+      "title_en": "‘Destroying our hills’: Manali traffic jam during long weekend sparks debate online",
+      "title_zh": "“摧毁我们的山丘”：长周末马纳里交通拥堵引发网上争论",
+      "summary_en": "Long queues of vehicles were reported from the entrance of the town towards Mall Road, Solang Nullah and the Atal Tunnel.",
+      "summary_zh": "据报道，从城镇入口前往 Mall Road、Solang Nullah 和 Atal 隧道的车辆排起了长队。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Manali-traffic-jam-long-weekend.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-03T18:11:08+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a2c9c99568d6d7e3",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-innovation-clusters-in-global-innovation-index-2026-bengaluru-delhi-in-the-top-30-10904852/",
+      "title_en": "Top 10 Innovation Clusters in Global Innovation Index 2026: Bengaluru, Delhi in the top 30",
+      "title_zh": "2026年全球创新指数前10名创新集群：班加罗尔、德里跻身前30",
+      "summary_en": "Shenzhen–Hong Kong–Guangzhou topped the Global Innovation Index 2026 as the World's most innovative cluster.",
+      "summary_zh": "深港广位居2026年全球创新指数榜首，成为全球最具创新力的集群。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Shenzhen–Hong-Kong–Guangzhou-topped-the-Global-Innovation-Index-2026-as-the-Worlds-most-innovative-cluster.-.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-03T17:48:12+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "79c2a9ffd4c6bf92",
+      "url": "https://indianexpress.com/article/trending/trending-globally/comando-chihuahua-mexico-national-guard-10904972/",
+      "title_en": "Mexico’s National Guard has a new recruit: An 8-inch Chihuahua",
+      "title_zh": "墨西哥国民警卫队招募新兵：8英寸吉娃娃犬",
+      "summary_en": "The tiny dog recently took part in a training session in Mexico City, where he was seen wearing a miniature tactical vest, goggles and a small camera mounted on his head.",
+      "summary_zh": "这只小狗最近参加了墨西哥城的一次训练，人们看到它穿着微型战术背心，戴着护目镜，头上安装了一个小型相机。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Comando-Chihuahua-Mexico-National-Guard.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-03T15:39:17+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "259fddf32e4fa4ec",
       "url": "https://allthatsinteresting.com/napoleon-cipher-decoded",
@@ -17,7 +97,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-03T05:45:28+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "22758b470ce60925",
@@ -33,7 +117,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-03T02:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

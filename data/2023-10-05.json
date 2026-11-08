@@ -17,7 +17,13 @@
       "source_id": "toi-viral",
       "region": "印度",
       "published_at": "2023-10-05T19:44:34+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "动物",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

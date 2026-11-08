@@ -1,0 +1,28 @@
+{
+  "date": "2023-01-25",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "235f3e1ebb85ed33",
+      "url": "https://www.news18.com/buzz/microsoft-teams-down-memes-take-over-as-office-employees-celebrate-break-6913849.html",
+      "title_en": "Microsoft Teams Down Memes Take Over As Office Employees 'Celebrate' Break",
+      "title_zh": "办公室员工“庆祝”休息，微软团队打乱表情包",
+      "summary_en": "Microsoft Teams and Outlook are down for thousands of users across India and office employees are celebrating the break with memes.",
+      "summary_zh": "印度各地数千名用户的 Microsoft Teams 和 Outlook 无法使用，办公室员工正在用表情包庆祝这一中断。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/microsoft-teams-down-memes-167463622016x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-25T16:49:08+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
+    }
+  ]
+}

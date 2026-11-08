@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "Asia/Shanghai",
-  "count": 9,
+  "count": 12,
   "items": [
     {
       "id": "c2527a59ed9101c7",
@@ -17,7 +17,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-10-23T22:27:13+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "325cb7a6848a4d48",
@@ -33,7 +37,11 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-23T22:13:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "143f1175cfad40ea",
@@ -49,7 +57,71 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-23T22:00:48+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "736dbe17c3170199",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/nvidia-tops-fortunes-fastest-growing-companies-2026-list-10933732/",
+      "title_en": "Nvidia tops Fortune’s fastest-growing companies 2026 list",
+      "title_zh": "Nvidia 荣登《财富》2026 年增长最快公司排行榜榜首",
+      "summary_en": "Nividia topped the list for the fastest growing companies in the world.",
+      "summary_zh": "Nividia 在全球增长最快的公司排行榜上名列前茅。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Nividia-topped-the-list-for-the-fastest-growing-companies-in-the-world.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-23T20:20:13+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "66221d53b7726145",
+      "url": "https://indianexpress.com/article/trending/trending-globally/dive-of-my-dreams-canadian-diver-becomes-first-woman-to-dive-off-an-iceberg-10933274/",
+      "title_en": "‘Dive of my dreams’: Canadian diver becomes first woman to dive off an iceberg",
+      "title_zh": "“我梦想的潜水”：加拿大潜水员成为第一位从冰山跳下的女性",
+      "summary_en": "Inspired by her own mental health struggles, Carlson used the iceberg as a symbol of what so many people experience in silence.",
+      "summary_zh": "受到自己心理健康斗争的启发，卡尔森用冰山作为许多人在沉默中经历的象征。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Canadian-diver-Molly-Carlson-became-the-first-woman-to-dive-off-an-iceberg.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-23T17:30:44+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "26b899ac59977270",
+      "url": "https://indianexpress.com/article/trending/trending-globally/mummy-removed-from-exhibition-over-lack-of-deceased-persons-consent-10933394/",
+      "title_en": "Mummy removed from exhibition over ‘lack of deceased person’s consent’",
+      "title_zh": "木乃伊因“未经死者同意”而被撤出展览",
+      "summary_en": "The mummy’s removal has sparked an online debate over consent, the ethics of displaying human remains, and how history should be presented to the public.",
+      "summary_zh": "木乃伊的移走在网上引发了一场关于同意、展示人类遗骸的道德以及应如何向公众呈现历史的争论。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Ethical-row-erupts-as-museum-pulls-ancient-mummy-display-over-consent-concerns.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-23T16:21:51+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b1931a3ba4617db6",
@@ -65,7 +137,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-23T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e5923a551ec9cbc1",
@@ -81,7 +157,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-23T05:45:59+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f49a70105db0c4b0",
@@ -97,7 +177,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-23T03:51:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "1433261863853094",
@@ -113,7 +198,13 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-23T02:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "动物",
+        "奇人奇事",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "deb175912b9c9ed7",
@@ -129,7 +220,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-23T01:14:20+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6990088530d110e4",
@@ -145,7 +240,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-23T00:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

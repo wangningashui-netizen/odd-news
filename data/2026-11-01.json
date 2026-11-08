@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 17,
   "items": [
     {
       "id": "8456c9a490704f93",
@@ -17,7 +17,52 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-01T22:10:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_fetched": true
+    },
+    {
+      "id": "cd3b0549bba89d4a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl3usg/jogendra_nath_mandal_the_dalit_leader_who_chose/",
+      "title_en": "Jogendra Nath Mandal: The Dalit Leader Who Chose Pakistan",
+      "title_zh": "Jogendra Nath Mandal：选择巴基斯坦的达利特领袖",
+      "summary_en": "Jogendra Nath Mandal, born on 29 January 1904 in Barisal (then Bengal Presidency, now Bangladesh), belonged to the Namasudra community. A brilliant student, he earned First Class honors and completed his law degree in 1934. However, instead of practicing law, he dedicated his life to uplifting the oppressed and challenging the caste-based injustices that marginalized his community. He worked closely with Dr.",
+      "summary_zh": "Jogendra Nath Mandal 于 1904 年 1 月 29 日出生于 Barisal（当时的孟加拉总统府，现孟加拉国），属于 Namasudra 社区。作为一名才华横溢的学生，他获得了一等荣誉，并于 1934 年完成了法律学位。然而，他并没有从事法律工作，而是将一生奉献给了鼓舞受压迫者并挑战使他的社区边缘化的基于种姓的不公正现象。他与博士密切合作。",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/a2tyZ2RsdWpjMHpoMRJmnqXvfGohd8K3Upt98_e7vwpZSvDsg_3eq_zVhryR.png?width=640&crop=smart&auto=webp&s=b861c6de73de8308fca2f68764e76bd79bc2868a",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T22:03:27+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9deea9c828aa7c76",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl2d85/mamata_banarjeethose_who_are_kafirs_they_are/",
+      "title_en": "Mamata Banarjee,\"Those who are 'kafirs' they are scared\"",
+      "title_zh": "Mamata Banarjee，“那些‘异教徒’他们很害怕”",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/eDk5ZnByM2gwMHpoMT_kzJ9Cv2XvKAdw0U0QZyWKABjYlENmBRrt42n-znbQ.png?width=640&crop=smart&auto=webp&s=b03d5e3799f0dda774ebc5198f9469ce0c8ba2f4",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T20:55:25+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0328d5288129b86a",
@@ -33,7 +78,32 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-01T20:28:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "057003005edc56d9",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl1ezt/turn_up_the_volume_bharats_bullet_train_is_taking/",
+      "title_en": "“Turn up the volume! Bharat’s bullet train is taking shape”: Cabinet Minister Ashwini Vaishnaw teases the making of India’s first bullet train",
+      "title_zh": "“把音量调大！巴拉特的子弹头列车正在成形”：内阁部长阿什维尼·维什诺 (Ashwini Vaishnaw) 调侃印度首列子弹头列车的制作过程",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/ZWltZnlxN2tyenloMfDKy-WnClczfIGSEl1AV8stPOsJ5D8xUBj-AXEO83WP.jpeg?width=640&crop=smart&auto=webp&s=756082d3333ef67a8912ac1698d258df0e05efc0",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T20:05:52+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "交通火车",
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "125a224ca8d1e7e5",
@@ -49,7 +119,212 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-01T20:03:39+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "7ff8f74c5655b6ff",
+      "url": "https://indianexpress.com/article/trending/trending-globally/france-protests-demonstrators-wear-halloween-costumes-to-protest-living-costs-10946049/",
+      "title_en": "France protests: Demonstrators wear Halloween costumes to protest living costs",
+      "title_zh": "法国抗议：示威者身穿万圣节服装抗议生活成本",
+      "summary_en": "French protestors trade traditional banners for Halloween costumes in nationwide rallies against rising costs and school reforms. (youtubeAPT)",
+      "summary_zh": "法国抗议者在全国集会上用传统横幅换取万圣节服装，反对成本上涨和学校改革。 （YouTubeAPT）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/French-protestors-trade-traditional-banners-for-Halloween-costumes-in-nationwide-rallies-against-rising-costs-and-school-reforms.-youtubeAPT.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-01T19:55:17+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e3c82e182d85db58",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl12v7/happy_birthday_to_karnataka_punjab_uttarakhand/",
+      "title_en": "Happy birthday to Karnataka, Punjab, Uttarakhand, Haryana, Delhi, Jharkhand, Chhattisgarh, Madhya Pradesh, Andhra Pradesh, Tamil Nadu, Keralam, Lakshadweep, Puducherry, and Andaman and Nicobar!",
+      "title_zh": "祝卡纳塔克邦、旁遮普邦、北阿坎德邦、哈里亚纳邦、德里、贾坎德邦、恰蒂斯加尔邦、中央邦、安得拉邦、泰米尔纳德邦、喀拉拉邦、拉克沙群岛、本地治里、安达曼和尼科巴生日快乐！",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/nyyj1xobozyh1.jpeg?width=640&crop=smart&auto=webp&s=733fdf1e6cb8ead5af79a0bed8430f5d79ad0d42",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T19:47:54+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2bc5b3868804d5d4",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xl06w6/every_citizen_has_voting_right_but_it_does_not/",
+      "title_en": "Every citizen has voting right but it does not mean everyone will or can vote.",
+      "title_zh": "每个公民都有投票权，但并不意味着每个人都会或可以投票。",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/2r8e6py0fzyh1.jpeg?width=640&crop=smart&auto=webp&s=1659862e5dde5233fc5094a91e4e3143a1eaac3f",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T18:55:24+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5bfe56ec37031091",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xkzfrm/why_are_kids_killing_kids/",
+      "title_en": "Why are kids killing kids?",
+      "title_zh": "为什么孩子们要杀害孩子？",
+      "summary_en": "Source: Article [link] [comments]",
+      "summary_zh": "来源：文章[链接][评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/61bvbu8r6zyh1.jpeg?width=640&crop=smart&auto=webp&s=acbad967588159f1920b41930254081cda4e699d",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T18:09:15+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "32d66d3431c2cb1d",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xkyokv/congress_workers_tore_down_posters_commemorating/",
+      "title_en": "Congress workers tore down posters commemorating victims of 1984 anti sikh riots while marching towards Ramlila Ground",
+      "title_zh": "国会工作人员在向拉姆利拉广场游行时撕毁了纪念 1984 年反锡克教骚乱受害者的海报",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/YWp3ZjZ3N3l4eXloMXixwAKnZbL7IOx2LAr04-po8qooIEhp4mh7RPYD9oHX.jpeg?width=640&crop=smart&auto=webp&s=98b3b2f59fd8b331a6e35415fac7f289d06b09d2",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T17:20:39+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a185123373538807",
+      "url": "https://m.economictimes.com/news/new-updates/bihar-museum-ranked-in-top-10-becomes-asias-highest-ranked-museum-ahead-of-new-yorks-metropolitan-museum-of-art-check-top-10/articleshow/135389596.cms",
+      "title_en": "Bihar Museum ranked in top 10, Becomes Asia's highest-ranked museum ahead of New York's Metropolitan Museum",
+      "title_zh": "比哈尔博物馆跻身前十，超越纽约大都会博物馆，成为亚洲排名最高的博物馆",
+      "summary_en": "Bihar Museum has achieved an impressive milestone by being named the ninth best museum worldwide in the 2026 rankings, securing the top spot in Asia. Located in Patna, the museum showcases a rich variety of historical and cultural artifacts. This esteemed recognition shines a light on Bihar",
+      "summary_zh": "比哈尔博物馆取得了令人印象深刻的里程碑，在 2026 年排名中被评为全球最佳博物馆第九名，稳居亚洲第一。该博物馆位于巴特那，展示了丰富多样的历史和文化文物。这一受人尊敬的认可照亮了比哈尔邦",
+      "translation_status": "fallback",
+      "image": "https://img.etimg.com/thumb/msid-135389965,width-1200,height-900,imgsize-47160,overlay-economictimes/articleshow.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T16:22:07+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "398c980124e012cd",
+      "url": "https://indianexpress.com/article/trending/trending-globally/heidi-klum-giant-hand-halloween-costume-2026-10945831/",
+      "title_en": "Heidi Klum’s transformation into ‘severed hand’ leaves fans stunned at Halloween bash",
+      "title_zh": "海蒂·克鲁姆 (Heidi Klum) 变身“断手”让粉丝们在万圣节狂欢中大吃一惊",
+      "summary_en": "Supermodel Heidi Klum made a dramatic entrance in a truck covered with red warning signs, accompanied by people dressed in yellow hazmat suits.",
+      "summary_zh": "超模海蒂·克鲁姆 (Heidi Klum) 驾驶一辆贴满红色警告标志的卡车引人注目地出现，陪同的还有一群穿着黄色防护服的人。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Heidi-Klum-Halloween-hand.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-01T15:54:13+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4dd74067cc6ae12f",
+      "url": "https://www.thehindu.com/news/cities/kolkata/walk-for-books-hundreds-march-in-kolkata-against-attack-on-bookstalls/article71649776.ece",
+      "title_en": "‘Walk for books’: Hundreds march in Kolkata against attack on bookstalls",
+      "title_zh": "“为书籍而行”：加尔各答数百人游行反对书摊袭击",
+      "summary_en": "Masses in Kolkata march for books against attacks on bookstalls during Durga Puja, unbannered protest backed by diverse citizens and leaders.",
+      "summary_zh": "加尔各答群众游行索书，抗议杜尔加礼拜期间书摊遭受的袭击，这种无横幅的抗议活动得到了不同公民和领导人的支持。",
+      "translation_status": "fallback",
+      "image": "https://th-i.thgim.com/public/news/12lmc/article71650142.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-31%20at%207.20.20%20PM.jpeg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-01T15:23:50+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8766ceb73fbeb905",
+      "url": "https://indianexpress.com/article/trending/trending-globally/jd-vance-dumbledore-halloween-costume-viral-10945744/",
+      "title_en": "‘Worst Dumbledore costume ever’: J D Vance’s Harry Potter Halloween look goes viral",
+      "title_zh": "“有史以来最糟糕的邓布利多服装”：J D Vance 的哈利波特万圣节造型走红",
+      "summary_en": "The festive family costumes quickly caught attention on social media after Vance shared a video and a family photograph showcasing their Halloween celebrations.",
+      "summary_zh": "万斯分享了展示万圣节庆祝活动的视频和家庭照片后，节日家庭服装迅速引起了社交媒体的关注。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/JD-Vance-Dumbeldore.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-01T14:56:27+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ee8a6a5dc3f24340",
+      "url": "https://indianexpress.com/article/trending/trending-globally/chinese-entrepreneur-rides-motorcycle-on-water-sets-guinness-world-record-10945717/",
+      "title_en": "Chinese entrepreneur rides motorcycle on water, sets Guinness World Record",
+      "title_zh": "中国企业家水上摩托车创吉尼斯世界纪录",
+      "summary_en": "Zhang Xue glides 40.74 km across a river in Hunan in a remarkable showcase of high-speed physics and engineered control.",
+      "summary_zh": "张雪在湖南的一条河流上滑行 40.74 公里，展示了高速物理和工程控制的非凡表现。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Chinese-rider-travels-40.74-km-on-water-modified-motorcycle.-instagram.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-01T14:43:12+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a071fb16e118677f",
@@ -65,7 +340,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-01T00:15:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "page_attempts": 2
     }
   ]
 }

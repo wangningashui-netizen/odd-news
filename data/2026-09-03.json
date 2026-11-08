@@ -17,7 +17,13 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-09-03T18:16:36+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c238790b9863c0ec",
@@ -33,7 +39,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-03T02:54:48+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

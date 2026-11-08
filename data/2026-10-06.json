@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 10,
   "items": [
     {
       "id": "1671c2d711697cdd",
@@ -17,7 +17,31 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-10-06T22:13:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "76ead6bbcb4428ed",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-for-retirement-report-and-index-2026-how-uruguay-beat-spain-and-portugal-to-top-spot-10908737/",
+      "title_en": "Top 10 countries for retirement report and index 2026: How Uruguay beat Spain and Portugal to top spot",
+      "title_zh": "2026 年退休报告和指数排名前 10 的国家：乌拉圭如何击败西班牙和葡萄牙登上榜首",
+      "summary_en": "Top 10 countries for retirement report and index 2026 list: Know more about the world's 10 best countries for retirees seeking financial security, superior healthcare, and an exceptional lifestyle.",
+      "summary_zh": "2026 年退休报告和指数排名前 10 的国家/地区列表：详细了解世界上最适合寻求财务安全、优质医疗保健和卓越生活方式的退休人员的 10 个国家。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Uruguay-ranked-1-among-the-top-10-countries-for-retirement-around-the-world.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-06T20:42:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a680958a3ecf9442",
@@ -33,7 +57,51 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-06T20:17:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "17779494efea745c",
+      "url": "https://indianexpress.com/article/trending/trending-globally/wins-nobel-prize-makes-school-sandwiches-scientist-karl-deisseroth-shares-moment-with-children-10909231/",
+      "title_en": "Wins Nobel Prize, makes school sandwiches: Scientist Karl Deisseroth shares moment with children",
+      "title_zh": "获得诺贝尔奖，制作学校三明治：科学家卡尔·戴瑟罗斯与孩子们分享时刻",
+      "summary_en": "A viral video released by Stanford University captured the heartwarming moment Professor Karl Deisseroth woke his children to tell them he won the 2026 Nobel Prize in Physiology or Medicine.",
+      "summary_zh": "斯坦福大学发布的一段病毒视频记录了卡尔·戴瑟罗斯教授叫醒孩子们并告诉他们他获得了 2026 年诺贝尔生理学或医学奖的温馨时刻。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Karl-Deisseroth-Nobel-Prize.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-06T19:28:22+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1c48de7a97cd002d",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/rock-star-new-york-times-features-tukaram-mundhe-on-front-page-as-food-safety-celebrity-10909023/",
+      "title_en": "‘Rock Star’: New York Times features Tukaram Mundhe on front page as ‘food safety celebrity’",
+      "title_zh": "“摇滚明星”：《纽约时报》在头版将图卡拉姆·蒙德称为“食品安全名人”",
+      "summary_en": "Maharashtra FDA chief Tukaram Mundhe has been featured by The New York Times for his food safety crackdown and high-profile enforcement drives.",
+      "summary_zh": "马哈拉施特拉邦 FDA 局长图卡拉姆·蒙德 (Tukaram Mundhe) 因其食品安全打击行动和高调的执法行动而受到《纽约时报》的专题报道。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Tukaram-Mundhe-express-photo_20261002220914_20261006095003.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-06T19:08:53+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8ff2b3e0213d9c76",
@@ -49,7 +117,71 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-10-06T16:53:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f98b08e00a204385",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/70s-ai-photo-trend-6-gemini-prompts-to-give-your-photos-a-retro-indian-look-10908746/",
+      "title_en": "70s AI photo trend: 6 Gemini prompts to give your photos a retro Indian look",
+      "title_zh": "70年代AI拍照趋势：6个双子座提示，让你的照片充满印度复古风",
+      "summary_en": "To create a photo, users can upload a photograph to Gemini and describe the period, setting, mood, lighting, and photographic style they want.",
+      "summary_zh": "要创建照片，用户可以将照片上传到 Gemini，并描述他们想要的时期、背景、心情、光线和摄影风格。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/70s-retro-AI-Gemini-trend.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-06T15:32:27+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "584444caa75596b9",
+      "url": "https://indianexpress.com/article/trending/trending-globally/usha-vance-stumbles-while-carrying-baby-son-off-chopper-video-10908568/",
+      "title_en": "Usha Vance stumbles while carrying baby son off chopper; video goes viral",
+      "title_zh": "乌莎·万斯 (Usha Vance) 将小儿子从直升机上抱下来时绊倒了；视频疯传",
+      "summary_en": "The moment was captured on video and has sparked debate on social media over whether anyone nearby should have stepped in to help Usha Vance.",
+      "summary_zh": "这一时刻被视频捕捉到，并在社交媒体上引发了关于附近是否有人应该介入帮助乌莎·万斯的争论。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Usha-Vance-falls-off-helicopter.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-06T13:41:56+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5c899f6bdc4f9f1e",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/noida-mall-theft-video-woman-allegedly-caught-stealing-ghee-refined-oil-10908443/",
+      "title_en": "Noida mall theft video: Woman allegedly caught stealing ghee, refined oil",
+      "title_zh": "诺伊达商场盗窃视频：女子涉嫌偷窃酥油、精炼油被抓",
+      "summary_en": "According to multiple reports, the incident took place Sunday evening when the woman visited Le Marche at DLF Mall of India in Sector 18 with her husband.",
+      "summary_zh": "据多方报道，这起事件发生在周日晚上，当时该女子与丈夫一起前往位于印度 18 区 DLF 购物中心的 Le Marche 购物中心。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Woman-stealing-Noida-mall-1.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-06T12:27:17+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5dab323056a93579",
@@ -65,7 +197,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-06T05:45:02+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "婚俗宗教",
+        "历史考古"
+      ],
+      "tag_source": "rules"
     }
   ]
 }
