@@ -102,7 +102,8 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "ea6312c935145301",
@@ -122,7 +123,8 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "1859afb8afdc1249",

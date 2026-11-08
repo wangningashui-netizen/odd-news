@@ -21,7 +21,8 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "58a6efa5e2d4320e",
@@ -161,7 +162,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "07cf2d5fb6d38813",
@@ -188,10 +190,10 @@
       "url": "https://www.cbsnews.com/baltimore/news/baltimore-county-mother-says-man-living-sewer-harassed-her-children/",
       "title_en": "\"He should not live in the sewer.\" Baltimore County mother says man living underground harasses her children",
       "title_zh": "“他不应该住在下水道里。”巴尔的摩县母亲称居住在地下的男子骚扰她的孩子",
-      "summary_en": "",
-      "summary_zh": "“他不应该住在下水道里。”巴尔的摩县母亲称居住在地下的男子骚扰她的孩子",
+      "summary_en": "A Baltimore County mother says she is concerned for her children",
+      "summary_zh": "巴尔的摩县的一位母亲说她担心她的孩子",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/23/3a6f6699-c8b6-4709-b668-22ee5e3db209/thumbnail/1200x630/876f0cddac28a0faf6c283d1067bc980/sewer-man.png",
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
@@ -201,7 +203,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "19ba4a7e44af1090",

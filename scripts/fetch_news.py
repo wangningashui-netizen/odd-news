@@ -46,13 +46,20 @@ BROWSER_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 )
+# News18 answers 403 to the Chrome UA above and 200 to this one. Article pages
+# are tried with both.
+ARTICLE_UAS = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 "
+    "(KHTML, like Gecko) Version/17.6 Safari/605.1.15",
+    BROWSER_UA,
+)
 
 MODELS_URL = os.environ.get(
     "MODELS_API_URL", "https://models.github.ai/inference/chat/completions"
 )
 MODELS_MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
 RETRY_DAYS = 7
-META_LIMIT = 800
+META_LIMIT = 1500
 TRANSLATE_SEP = "<|/>"
 MEGATHREAD_RE = re.compile(
     r"megathread|weekly discussion|discussion thread|free talk|daily discussion|"
@@ -794,60 +801,114 @@ def known_keys(days: dict[str, list[dict]]) -> set[str]:
     return keys
 
 
+def thin_summary(item: dict) -> bool:
+    """True when there is no real excerpt, only a title restated as the summary."""
+    english = (item.get("summary_en") or "").strip()
+    chinese = (item.get("summary_zh") or "").strip()
+    title_en = (item.get("title_en") or "").strip()
+    title_zh = (item.get("title_zh") or "").strip()
+    if len(english) < 40 or english.lower() == title_en.lower():
+        if not chinese or (title_zh and chinese == title_zh):
+            return True
+    if chinese and title_zh and chinese == title_zh and len(english) < 40:
+        return True
+    return False
+
+
 def needs_meta(item: dict) -> bool:
-    if item.get("image_checked"):
+    if item.get("page_fetched"):
+        return False
+    if int(item.get("page_attempts") or 0) >= 2:
         return False
     if not item.get("image"):
         return True
-    return len(item.get("summary_en") or "") < 80
+    return thin_summary(item)
 
 
 def extract_meta(html: str, page_url: str) -> tuple[str | None, str | None]:
     def grab(prop: str) -> str | None:
         patterns = [
-            rf'<meta[^>]+(?:property|name)=["\']{prop}["\'][^>]+content=["\']([^"\']+)["\']',
-            rf'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']{prop}["\']',
+            rf'<meta[^>]+(?:property|name|itemprop)=["\']{prop}["\'][^>]+content=["\']([^"\']+)["\']',
+            rf'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name|itemprop)=["\']{prop}["\']',
         ]
         for pattern in patterns:
             match = re.search(pattern, html, re.I)
             if match:
-                return match.group(1).strip()
+                return html_lib.unescape(match.group(1).strip())
         return None
 
     image = grab("og:image") or grab("og:image:url") or grab("twitter:image") or grab("twitter:image:src")
     description = grab("og:description") or grab("description")
     if image:
-        image = urllib.parse.urljoin(page_url, image)
+        image = urllib.parse.urljoin(page_url, html_lib.unescape(image))
         if not image.startswith(("http://", "https://")):
             image = None
     if description:
-        import html as html_lib
-
-        description = clip_summary(html_lib.unescape(description))
+        description = clip_summary(description)
+    if not description or len(description) < 40:
+        description = first_paragraph(html) or description
     return image, description
+
+
+def first_paragraph(html: str) -> str | None:
+    for match in re.finditer(r"<p\b[^>]*>(.*?)</p>", html, re.I | re.S):
+        text = TAG_RE.sub(" ", match.group(1))
+        text = clip_summary(html_lib.unescape(text))
+        lowered = text.lower()
+        if len(text) < 80:
+            continue
+        if any(token in lowered for token in ("cookie", "subscribe", "sign up", "advertisement", "newsletter")):
+            continue
+        return text
+    return None
+
+
+def fetch_article(url: str) -> str | None:
+    for agent in ARTICLE_UAS:
+        request = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": agent,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+            },
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=12, context=SSL_CTX) as response:
+                raw = response.read(260_000)
+                if raw[:2] == b"\x1f\x8b":
+                    try:
+                        raw = gzip.decompress(raw)
+                    except gzip.BadGzipFile:
+                        pass
+                text = raw.decode("utf-8", "replace")
+        except Exception:
+            continue
+        if "<html" in text.lower() or "<meta" in text.lower():
+            return text
+    return None
 
 
 def enrich_one(item: dict) -> dict:
     updated = dict(item)
     if not needs_meta(updated):
-        updated["image_checked"] = True
         return updated
-    try:
-        _status, final, html = fetch_url(updated["url"], BROWSER_UA, timeout=8, limit=180_000)
-    except Exception:
-        updated["image_checked"] = True
+    html = fetch_article(updated["url"])
+    if not html:
+        updated["page_attempts"] = int(updated.get("page_attempts") or 0) + 1
         return updated
-    if "<html" not in html.lower() and "<meta" not in html.lower():
-        updated["image_checked"] = True
-        return updated
-    image, description = extract_meta(html, final or updated["url"])
-    # Prefer the article's own image over a social preview thumbnail.
-    if image and (not updated.get("image") or "redd.it" in (updated.get("image") or "") or "reddit.com" in (updated.get("image") or "")):
+    image, description = extract_meta(html, updated["url"])
+    if image and (not updated.get("image") or "redd.it" in (updated.get("image") or "")):
         updated["image"] = image
-    elif image and not updated.get("image"):
-        updated["image"] = image
-    if description and len(updated.get("summary_en") or "") < 80 and len(description) > len(updated.get("summary_en") or ""):
+    if description and thin_summary(updated) and len(description) > len(updated.get("summary_en") or ""):
         updated["summary_en"] = description
+        title_zh = (updated.get("title_zh") or "").strip()
+        summary_zh = (updated.get("summary_zh") or "").strip()
+        if not summary_zh or summary_zh == title_zh:
+            updated["summary_zh"] = None
+            if updated.get("translation_status") != "ok":
+                updated["translation_status"] = "pending"
+    updated["page_fetched"] = True
     updated["image_checked"] = True
     return updated
 
@@ -862,7 +923,7 @@ def enrich_items(items: list[dict]) -> None:
     log(f"enrich meta for {len(pending)} items")
     by_id = {item["id"]: item for item in items}
     done = 0
-    with ThreadPoolExecutor(max_workers=12) as pool:
+    with ThreadPoolExecutor(max_workers=8) as pool:
         futures = [pool.submit(enrich_one, item) for item in pending]
         for future in as_completed(futures):
             result = future.result()
@@ -1125,6 +1186,54 @@ def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> 
         fallback_translate(
             [item for item in items if item.get("translation_status") != "ok" and not item.get("title_zh")]
         )
+        translate_summaries_only(
+            [
+                item
+                for item in items
+                if item.get("title_zh")
+                and item.get("summary_en")
+                and not item.get("summary_zh")
+                and item.get("translation_status") != "ok"
+            ]
+        )
+
+
+def translate_summaries_only(items: list[dict]) -> None:
+    """Fill summary_zh for items that already have a Chinese title and a new English excerpt."""
+    queue = [item for item in items if (item.get("summary_en") or "").strip() and not item.get("summary_zh")]
+    if not queue:
+        return
+    log(f"translate new excerpts for {len(queue)} items")
+    cursor = 0
+    done = 0
+    while cursor < len(queue):
+        batch: list[dict] = []
+        texts: list[str] = []
+        size = 0
+        while cursor < len(queue) and len(batch) < 8:
+            item = queue[cursor]
+            text = (item.get("summary_en") or "").replace(TRANSLATE_SEP, "")[:480]
+            if batch and size + len(text) > 2200:
+                break
+            batch.append(item)
+            texts.append(text)
+            size += len(text)
+            cursor += 1
+        try:
+            translated = gtranslate_many(texts)
+        except Exception as exc:  # noqa: BLE001
+            log(f"  excerpt batch failed ({exc})")
+            continue
+        for item, summary_zh in zip(batch, translated):
+            summary_zh = clean_text(summary_zh)
+            if not has_cjk(summary_zh):
+                continue
+            item["summary_zh"] = summary_zh[:600]
+            if item.get("translation_status") == "pending":
+                item["translation_status"] = "fallback"
+            done += 1
+        time.sleep(0.25)
+    log(f"  excerpts translated {done}")
 
 
 def llm_retag(days: dict[str, list[dict]]) -> set[str]:
@@ -1375,15 +1484,26 @@ def main() -> int:
         days.setdefault(date, []).append(item)
         dirty.add(date)
 
-    if new_items and not args.no_enrich:
-        enrich_items(new_items)
-        # Enrichment edits objects already stored in `days`.
-        for item in new_items:
+    if not args.no_enrich:
+        needing = [
+            item
+            for day_items in days.values()
+            for item in day_items
+            if needs_meta(item)
+        ]
+        enrich_items(needing)
+        for item in needing:
             dirty.add(day_of(item))
 
     targets = []
     seen_ids: set[str] = set()
-    for item in new_items + recent_items(days):
+    pending_anywhere = [
+        item
+        for day_items in days.values()
+        for item in day_items
+        if item.get("translation_status") == "pending" or (item.get("summary_en") and not item.get("summary_zh"))
+    ]
+    for item in new_items + recent_items(days) + pending_anywhere:
         if item["id"] in seen_ids:
             continue
         seen_ids.add(item["id"])

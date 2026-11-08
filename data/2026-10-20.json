@@ -81,7 +81,8 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "860c9bd12199f9ea",
@@ -101,7 +102,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "26e6cff33eda0182",
@@ -202,7 +204,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "fd0677e52d03f91e",

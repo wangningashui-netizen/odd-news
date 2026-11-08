@@ -41,7 +41,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "f32e2b7511a3ac73",
@@ -87,10 +88,10 @@
       "id": "ab177dd8c3ffd233",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmuotz/polish_woman_faces_abusive_comments_and_messages/",
       "title_en": "Polish woman faces abusive comments and messages after she posted a video showing developments in India compared to 10 years back when she first came to India",
-      "title_zh": null,
+      "title_zh": "波兰妇女发布一段视频，展示印度与 10 年前第一次来到印度时相比的发展情况后，她面临着辱骂性评论和信息",
       "summary_en": "[link] [comments]",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
       "image": "https://external-preview.redd.it/cG1hb3VyOHhzZXpoMTVcs3CHj2T4J1HqV6C8EPpnP_hRsp0z8IJaQ5wfEMGX.jpeg?width=640&crop=smart&auto=webp&s=ba2ce9b7af9c21fe81bd9a71ddcda15ae9a8ffac",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
@@ -101,7 +102,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 1
     },
     {
       "id": "4e85cf64040904b8",
@@ -182,7 +184,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "407b4a8e2d47d5e4",
@@ -248,10 +251,10 @@
       "id": "9e3d094a2c0e9e66",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmn8g6/this_proves_indians_are_biggest_enemies_of/",
       "title_en": "This proves Indians are biggest enemies of indians only",
-      "title_zh": null,
+      "title_zh": "这证明印度人只是印度人最大的敌人",
       "summary_en": "This dude made an entire video just based on experiences of some foreign vloggers I couldn't even watch the video it was so bad no proper explanation just random videos of some vloggers comparing the two piled up (most of them looked targeted as well ) if we go by this then there are pakistani italian etc scam videos and there are lot of videos as well unesasary criticism with no valid argument I understand you are not very fond of ruling govt and their policies and things aren't very well here but dosent mean you…",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "这家伙只是根据一些外国视频博主的经验制作了整个视频，我什至无法观看该视频，它太糟糕了，没有适当的解释，只是一些视频博主的随机视频比较这两个视频堆积起来（其中大多数看起来也有针对性）如果我们按照这个进行，那么就会有巴基斯坦意大利等诈骗视频，并且有很多视频以及没有有效论据的不受欢迎的批评我知道你不太喜欢统治政府及其政策和事物",
+      "translation_status": "fallback",
       "image": "https://preview.redd.it/ov0r8x1wuczh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=4d42123296b8f05a139fda7bdf8097325e284a83",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
@@ -268,10 +271,10 @@
       "id": "407b0f1a333ca7d8",
       "url": "https://www.thehindu.com/news/national/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-frees-all-20-crew-members/article71659504.ece",
       "title_en": "Indian Navy rescues hijacked fishing vessel off Somalia, frees all 20 crew members.",
-      "title_zh": null,
+      "title_zh": "印度海军在索马里海域解救了被劫持的渔船，并释放了全部 20 名船员。",
       "summary_en": "Indian Navy rescues hijacked fishing vessel off Somalia, freeing 20 crew after a coordinated, multi-force operation demonstrating maritime security readiness.",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "印度海军在索马里海域实施了多方协调行动，解救了被劫持的渔船，并释放了 20 名船员，展示了海上安全准备状态。",
+      "translation_status": "fallback",
       "image": "https://th-i.thgim.com/public/news/national/eov2mg/article71659516.ece/alternates/LANDSCAPE_1200/IndianNavySomalia.jpg",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
@@ -308,10 +311,10 @@
       "id": "0008b312235a2400",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmmt8d/finally_someone_is_talking_about_the/",
       "title_en": "Finally someone is talking about the disinformation on reddit",
-      "title_zh": null,
+      "title_zh": "终于有人谈论 Reddit 上的虚假信息了",
       "summary_en": "[link] [comments]",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
       "image": "https://external-preview.redd.it/MXJidncwMnZwY3poMfD_CMba5VKk-_DkDgOUkivu8Vxf5kt7fFMoTxnZGg5x.png?width=320&crop=smart&auto=webp&s=a494529e38c11bfc074d7d12b1635fed3c7026f0",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
@@ -322,7 +325,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 1
     },
     {
       "id": "6891b7d12c0d44d4",
@@ -522,7 +526,8 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "35d43d38721b6f26",
@@ -888,7 +893,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "84284fe368b2b04d",
@@ -908,7 +914,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c43b50aa4fdeb1f8",

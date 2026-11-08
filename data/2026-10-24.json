@@ -129,10 +129,10 @@
       "url": "https://www.cbsnews.com/news/kentucky-house-hunter-discovers-deceased-body-in-a-vacant-house/",
       "title_en": "Kentucky house hunter discovers deceased body in a vacant home",
       "title_zh": "肯塔基州房屋猎人在空置房屋中发现尸体",
-      "summary_en": "",
-      "summary_zh": "肯塔基州房屋猎人在空置房屋中发现尸体",
+      "summary_en": "In an exclusive interview, a homebuyer shares vivid details of finding a dead man during a house tour.",
+      "summary_zh": "在一次独家采访中，一位购房者分享了在看房时发现死者的生动细节。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/23/4a7e21c1-34d7-4f04-aa38-edfa0fd1180a/thumbnail/1200x630/e810b4643ea1be4170d09d65682fa57d/harding-kentucky-house.jpg",
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
@@ -142,7 +142,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "266804126ce66f70",

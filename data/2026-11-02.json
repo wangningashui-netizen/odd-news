@@ -21,17 +21,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "db1e398cf6f18d8b",
       "url": "https://www.cheshire-live.co.uk/news/chester-cheshire-news/disabled-woman-extreme-phobia-clowns-30295389",
       "title_en": "Disabled woman with extreme phobia of clowns tries exposure therapy by being chased in wheelchair",
       "title_zh": "患有小丑极度恐惧症的残疾妇女在轮椅上被追赶，尝试暴露疗法",
-      "summary_en": "",
-      "summary_zh": "患有小丑极度恐惧症的残疾妇女在轮椅上被追赶，尝试暴露疗法",
+      "summary_en": "Kerry Greenfield, 41, from Cheshire, has had a 'paralysing phobia' of clowns since she watched the 1990 adaptation of Stephen King's IT on TV while home alone aged 12",
+      "summary_zh": "41 岁的克里·格林菲尔德 (Kerry Greenfield) 来自柴郡，12 岁时独自在家观看了 1990 年改编自史蒂芬·金 (Stephen King) 小说《IT》的电视节目后，她就对小丑产生了“瘫痪恐惧症”",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/hMvCfSrdkop9UqgAsU-GVbO9DdXiBpeJuLY4eRzRB3M.jpeg?width=640&crop=smart&auto=webp&s=2f589ef8f5db24e5e7a7d2b315a310d5a6663fd1",
+      "image": "https://i2-prod.cheshire-live.co.uk/article30295386.ece/ALTERNATES/s1200d/0_knm_clown_phobia_exposure_therapy_15.jpg",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -41,7 +42,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "c59198447487b03c",
@@ -229,10 +231,10 @@
       "url": "https://www.masslive.com/lottery/2026/10/2971m-record-lottery-jackpot-claimed-by-mr-potato-head-trust.html",
       "title_en": "$29.71M record lottery jackpot claimed by Mr. Potato Head Trust",
       "title_zh": "Mr. Potato Head Trust 中得 2,971 万美元创纪录彩票大奖",
-      "summary_en": "",
-      "summary_zh": "Mr. Potato Head Trust 中得 2,971 万美元创纪录彩票大奖",
+      "summary_en": "A massive Megabucks win made history, but the name attached to the prize may be just as memorable.",
+      "summary_zh": "巨额奖金创造了历史，但奖金的名称也同样令人难忘。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/6TXbpVkULxRL2Qb2d4dyGcyPKbSXXkm0BNHunrUEezw.jpeg?width=640&crop=smart&auto=webp&s=254fb516cc5c9b35f7af04edb60415c742636b85",
+      "image": "https://www.masslive.com/resizer/v2/RZUVGULFGVBUNMVQLIZQUSNZQQ.jpg?auth=94488b2bdb6997af6f942add2abc0bf0753370b06aacf0b0b4c2a7f00cf37927&width=1280&smart=true",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -242,7 +244,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a1d443d7dfd90351",
@@ -289,10 +292,10 @@
       "url": "https://www.news18.com/viral/man-reaches-airport-on-time-still-marked-no-show-after-spicejet-prepones-flight-no-explanation-was-provided-ws-l-10408487.html",
       "title_en": "Man Reaches Airport On Time, Still Marked ‘No-Show’ After SpiceJet Prepones Flight: ‘No Explanation Was Pro",
       "title_zh": "一名男子准时到达机场，但在香料航空提前航班后仍被标记为“未出现”：“没有任何解释是正确的”",
-      "summary_en": "",
-      "summary_zh": "一名男子准时到达机场，但在香料航空提前航班后仍被标记为“未出现”：“没有任何解释是正确的”",
+      "summary_en": "He shared that he had reached the Mumbai airport at 9 PM for his Delhi SpiceJet flight that was initially scheduled for 11:20 PM, but then the airline suddenly preponed the flight",
+      "summary_zh": "他透露，他于晚上 9 点抵达孟买机场，搭乘德里香料航空 (Delhi SpiceJet) 航班，原定于晚上 11:20 起飞，但随后航空公司突然提前了航班。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-7-2026-11-215fed3763bb0145c29bced5f3312034-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -302,7 +305,8 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a6af220e8e98c32d",
@@ -423,7 +427,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "fd43c150894615c6",

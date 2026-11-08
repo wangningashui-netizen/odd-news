@@ -39,6 +39,8 @@
 
 选题标签由 `scripts/topics.py` 里的英文关键词规则打上，规则写在文件里，可以直接改。一条命中就打上对应标签，最多三个；都没命中就是「其他」。每天的抓取会对没有模型标签的条目重算。如果设置了 `MODELS_API_URL` 或 `MODELS_API_KEY`，抓取会再试一次模型打标，成功的条目标成 `tag_source: model`，以后不再被规则覆盖。
 
+没有主图或没有真正摘要的条目（尤其是从 Google News 解出来的 NDTV、News18、Times Now、Republic）会再打开原文页，读取 `og:image` / `twitter:image` 和 `og:description`（没有就用第一段正文），然后把这段英文机译成概要。抓取失败会换一个浏览器标识再试一次，最多两次，避免每天空打同一页。
+
 跨日搜索不逐个下载每天的大文件。抓取脚本会写 `data/search-index.json` 和按月拆开的 `data/search/YYYY-MM.json`。页面先读最近两个月，先画出结果，再在后台补更早的月份。
 
 `translation_status` 有三种：

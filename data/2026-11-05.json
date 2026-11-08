@@ -28,10 +28,10 @@
       "url": "https://www.star-telegram.com/news/politics-government/election/article317925276.html",
       "title_en": "This Democrat won Fort Worth House seat after dropping out. Can she take office?",
       "title_zh": "这位民主党人在退出后赢得了沃斯堡众议院席位。她能上任吗？",
-      "summary_en": "",
-      "summary_zh": "这位民主党人在退出后赢得了沃斯堡众议院席位。她能上任吗？",
+      "summary_en": "Democrat Ericka Lomick wins election to replace Rep. Nate Schatzline in the state House after suspending campaign in wake of felony conviction allegation",
+      "summary_zh": "民主党人埃里卡·洛米克 (Ericka Lomick) 在因重罪定罪指控而暂停竞选活动后赢得选举，接替州众议院众议员内特·沙茨林 (Nate Schatzline)",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/FHnsFWifo8daK8BHogxdhc0vvAc06p1KTog0NJ4Qkss.jpeg?width=640&crop=smart&auto=webp&s=33e8de8c5928f6eb23cd2643de3fd01b15fbb0ca",
+      "image": "https://www.star-telegram.com/public/latest-news/t8o2ti/picture315900377/alternates/LANDSCAPE_1200/01-AED_TexasStateCapitol.JPG",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -39,9 +39,10 @@
       "published_at": "2026-11-05T23:49:15+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
-        "其他"
+        "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "1b33cd10ac6c1f9e",
@@ -422,7 +423,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "29c9764095ec625a",
@@ -523,7 +525,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "a66edd1189f25cef",
@@ -672,10 +675,10 @@
       "url": "https://www.itv.com/news/2026-11-03/kelloggs-removes-rice-grains-from-rice-krispies-due-to-changing-weather",
       "title_en": "Kellogg’s removes rice grains from Rice Krispies due to ‘changing weather’",
       "title_zh": "由于“天气变化”，家乐氏从脆米花中去除了米粒",
-      "summary_en": "",
-      "summary_zh": "由于“天气变化”，家乐氏从脆米花中去除了米粒",
+      "summary_en": "The firm has also removed rice grains from its Coco Pops cereal. | ITV National News",
+      "summary_zh": "该公司还从 Coco Pops 麦片中去除了米粒。 |英国独立电视台国家新闻",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/CoSU5enKBXQwdTRc9udrwvBHukpnFXY2eVgG63vLJXk.jpeg?width=640&crop=smart&auto=webp&s=584c88e66ad305380c74c831b95b517f4152e4ee",
+      "image": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-57090981-f1f8-436c-a615-2c654d3c9217/d50f679b50fc20258b477f3f44f02ff4/headerImage-57090981-f1f8-436c-a615-2c654d3c9217.jpg?fm=jpg&fit=fill&f=faces&w=1600&h=900&q=80",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -685,17 +688,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "b03b67205e4f6cc0",
       "url": "https://theprint.in/feature/no-pineapple-no-job-italian-chefs-pizza-rebellion-ends-in-sacking/3091112/",
       "title_en": "No pineapple, no job: Italian chef’s pizza rebellion ends in sacking",
       "title_zh": "没有菠萝，就没有工作：意大利厨师的披萨叛乱以解雇告终",
-      "summary_en": "",
-      "summary_zh": "没有菠萝，就没有工作：意大利厨师的披萨叛乱以解雇告终",
+      "summary_en": "Chef Davide Tamburella called adding pineapple an 'insult to his culture,' marking his third refusal in four years. The incident occurred at La Costa in Brisbane, Australia.",
+      "summary_zh": "主厨 Davide Tamburella 称添加菠萝是“对他的文化的侮辱”，这是他四年来第三次拒绝。事件发生在澳大利亚布里斯班的La Costa。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/H32PIewSqzO6wRU7GQVFxmoqMNZNIblkO2Zqlj7ixnk.png?width=640&crop=smart&auto=webp&s=29c0608f6368a7ac9e87c833a96d6aecd6123386",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Pineapple-pizza.png",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -705,7 +709,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "b6d114435a9a9009",
@@ -725,7 +730,8 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "570fdc6464e20d9b",
@@ -825,7 +831,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "47729b8e88b050ec",
@@ -845,7 +852,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "87dc11d0566fdd17",
@@ -1045,7 +1053,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "05a394e63ff246bd",
@@ -1065,7 +1074,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "548f1fd60e75d63d",
@@ -1185,7 +1195,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "00202c589bba580e",
@@ -1514,10 +1525,10 @@
       "url": "https://www.news18.com/india/sc-stops-bmc-commissioners-salary-over-failure-to-remove-encroachments-imposes-rs-5-lakh-cost-10411449.html",
       "title_en": "SC Stops BMC Commissioner’s Salary Over Failure To Remove Encroachments, Imposes Rs 5 Lakh Cost",
       "title_zh": "SC 因未能消除侵犯行为而停止向 BMC 专员发放工资，并征收 50 万卢比费用",
-      "summary_en": "",
-      "summary_zh": "SC 因未能消除侵犯行为而停止向 BMC 专员发放工资，并征收 50 万卢比费用",
+      "summary_en": "The bench rejected the BMC's application seeking additional time to pass an eviction order against the occupants and imposed a cost of Rs 5 lakh on the civic body.",
+      "summary_zh": "法官驳回了 BMC 寻求更多时间通过针对居住者的驱逐令的申请，并向公民机构征收 50 万卢比的费用。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/pBfoFqV53zHe7SJyaDgZXIU8z7HvaipSP60gYVf64uw.jpeg?width=640&crop=smart&auto=webp&s=b63bb8ff94414f88469bfedadf92cfcfd8d5d508",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/IAS-officer-Ashwini-Bhide-2026-06-8158635862533596459d31c0c4f5b965-1200x675.png",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
       "source_id": "reddit-indiaspeaks",
@@ -1527,7 +1538,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "6a5457768e1af8eb",

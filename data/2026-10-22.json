@@ -21,7 +21,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "dfabbc668c510ea3",
@@ -121,7 +122,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "bc69dc9ef5e2741e",
@@ -242,7 +244,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "a166de6eab7bd868",

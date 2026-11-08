@@ -101,7 +101,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c8c9332ad32915ad",
@@ -161,7 +162,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c3b5b2314173c366",
@@ -181,7 +183,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "9155b73fd402825a",
@@ -201,7 +204,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "1ae6b94136257f34",
@@ -241,7 +245,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "24b276bfa9eed24a",
@@ -281,7 +286,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "f73c756ae3e8ef95",
@@ -321,7 +327,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3d1c65c82f404907",
@@ -341,7 +348,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "3eda69d45660e2a6",
@@ -388,10 +396,10 @@
       "url": "https://www.ndtv.com/offbeat/customer-proposes-limit-after-24-people-turn-up-for-car-delivery-at-showroom-12297603",
       "title_en": "Customer Proposes Limit After 24 People Turn Up For Car Delivery At Showroom",
       "title_zh": "展厅内送车人数达到 24 人后，客户建议限制人数",
-      "summary_en": "",
-      "summary_zh": "展厅内送车人数达到 24 人后，客户建议限制人数",
+      "summary_en": "A customer proposed a limit on the number of people allowed per car delivery after spotting 24 family members for a single car.",
+      "summary_zh": "一位顾客发现一辆汽车有 24 名家庭成员，因此提出限制每辆车的载客人数。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/kbig9iu_as_625x300_07_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -401,7 +409,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "c72145adcd03a15e",
@@ -461,7 +470,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "256997cc393795ba",
@@ -541,7 +551,8 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "ad800038a0a9b246",
@@ -742,17 +753,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "4296f978549ee1f6",
       "url": "https://www.news18.com/viral/i-stopped-answering-emails-after-5-pm-reddit-user-tests-work-boundary-for-two-weeks-heres-what-happened-next-ws-l-10417011.html",
       "title_en": "‘I Stopped Answering Emails After 5 PM’: Reddit User Tests Work Boundary For Two Weeks; Here’s What Happened Next | Viral News",
       "title_zh": "“下午 5 点后我不再回复电子邮件”：Reddit 用户测试工作边界两周；接下来发生了什么 |病毒式新闻",
-      "summary_en": "",
-      "summary_zh": "“下午 5 点后我不再回复电子邮件”：Reddit 用户测试工作边界两周；接下来发生了什么 |病毒式新闻",
+      "summary_en": "A Reddit user stopped checking work emails and messages after 5 pm for two weeks to see what would happen, expecting trouble but finding the results quite different.",
+      "summary_zh": "一名 Reddit 用户在下午 5 点后停止查看工作电子邮件和消息，连续两周观察会发生什么情况，预计会遇到麻烦，但发现结果截然不同。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T180918.585-2026-11-e4d58d1681595729ed5276f72757a90b-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -762,7 +774,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "3f24f9398dacc3af",
@@ -802,17 +815,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "cf9410b1999ee52e",
       "url": "https://www.news18.com/viral/ceo-chooses-train-over-expensive-diwali-flights-regrets-decision-after-8-hour-delay-internet-reacts-ws-l-10417006.html",
       "title_en": "CEO Chooses Train Over Expensive Diwali Flights, Regrets Decision After 8-Hour Delay; Internet Reacts",
       "title_zh": "CEO选择火车而不是昂贵的排灯节航班，延误8小时后后悔决定；互联网反应",
-      "summary_en": "",
-      "summary_zh": "CEO选择火车而不是昂贵的排灯节航班，延误8小时后后悔决定；互联网反应",
+      "summary_en": "A CEO who chose a train journey with his family over expensive Diwali flight tickets was left frustrated after the Mahakal Express ran nearly eight hours late.",
+      "summary_zh": "一位首席执行官选择与家人一起乘坐火车旅行，而不是昂贵的排灯节机票，但在 Mahakal Express 晚点了近八个小时后，他感到很沮丧。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T173326.245-2026-11-e66903919f034cda75c6e09f4fc8bae0-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -821,9 +835,11 @@
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "交通火车",
+        "航空出行",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "d8bb096893e8e9b1",
@@ -1030,10 +1046,10 @@
       "url": "https://www.news18.com/viral/delhi-couple-buys-5-kg-of-live-fish-to-set-them-free-at-dhanushkodi-beach-internet-questions-their-rescue-mission-ws-l-10416961.html",
       "title_en": "Delhi Couple Buys 5 Kg Of Live Fish To Set Them Free At Dhanushkodi Beach; Internet Questions Their 'Rescue",
       "title_zh": "德里夫妇在 Dhanushkodi 海滩买了 5 公斤活鱼放生；互联网质疑他们的“救援”",
-      "summary_en": "",
-      "summary_zh": "德里夫妇在 Dhanushkodi 海滩买了 5 公斤活鱼放生；互联网质疑他们的“救援”",
+      "summary_en": "A Delhi couple's decision to buy and release 5 kg of live fish into the sea at Tamil Nadu's Dhanushkodi beach has sparked a debate over animal welfare and fishing livelihoods",
+      "summary_zh": "一对德里夫妇决定在泰米尔纳德邦的 Dhanushkodi 海滩购买 5 公斤活鱼并将其释放到海里，引发了关于动物福利和渔业生计的争论",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-14-2026-11-8fa35dc349750165c4eb0ddecc1c862a-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1041,9 +1057,10 @@
       "published_at": "2026-11-07T19:51:13+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
-        "其他"
+        "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "6746d6e292b0f02e",
@@ -1103,17 +1120,18 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "cd04c476201bd99a",
       "url": "https://www.news18.com/viral/were-like-a-family-here-reddit-user-asks-about-job-interview-red-flags-users-share-what-to-watch-out-for-ws-l-10416940.html",
       "title_en": "‘We’re Like A Family Here’: Reddit User Asks About Job Interview Red Flags, Users Share What To Watch Out F",
       "title_zh": "“我们在这里就像一家人”：Reddit 用户询问求职面试的危险信号，用户分享了需要注意的事项",
-      "summary_en": "",
-      "summary_zh": "“我们在这里就像一家人”：Reddit 用户询问求职面试的危险信号，用户分享了需要注意的事项",
+      "summary_en": "A Reddit user preparing for job interviews asked people to share warning signs they had noticed during the hiring process, sparking a discussion about workplace culture.",
+      "summary_zh": "一位准备面试的 Reddit 用户要求人们分享他们在招聘过程中注意到的警告信号，引发了关于职场文化的讨论。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T164301.988-2026-11-24e4db7d0a045f8ff0eb8cebf17138b2-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1123,17 +1141,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "edfefb7cfa56f5de",
       "url": "https://www.ndtv.com/offbeat/175-roles-55-interviews-and-zero-job-offers-unemployed-worker-reveals-reality-of-brutal-market-12297034",
       "title_en": "'175 Roles, 55 Interviews And Zero Job Offers': Unemployed Worker Reveals Reality Of Brutal Market",
       "title_zh": "“175个职位、55个面试和零工作机会”：失业工人揭示残酷市场的现实",
-      "summary_en": "",
-      "summary_zh": "“175个职位、55个面试和零工作机会”：失业工人揭示残酷市场的现实",
+      "summary_en": "A job seeker applied to 175 roles, reached 25 final interviews, but received zero offers.",
+      "summary_zh": "一名求职者申请了 175 个职位，进入了 25 次最终面试，但收到的录取通知书为零。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/lbrm54qo_as_625x300_07_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1143,7 +1162,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "b18c418d85d5486e",
@@ -1163,7 +1183,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "a5cb8d018c982f5f",
@@ -1203,7 +1224,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "b2f9ae0ae5da30ba",
@@ -1223,7 +1245,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "62acc29aae926754",
@@ -1331,10 +1354,10 @@
       "url": "https://www.news18.com/viral/im-fed-up-with-bengaluru-indiranagar-resident-considers-leaving-india-over-traffic-pollution-asks-reddit-for-advice-ws-l-10416869.html",
       "title_en": "'I'm Fed Up With Bengaluru': Indiranagar Resident Considers Leaving India Over Traffic, Pollution; Asks Red",
       "title_zh": "“我受够了班加罗尔”：印迪拉那加尔居民因交通、污染考虑离开印度；问红",
-      "summary_en": "",
-      "summary_zh": "“我受够了班加罗尔”：印迪拉那加尔居民因交通、污染考虑离开印度；问红",
+      "summary_en": "A Bengaluru resident fed up with traffic, pollution and rising living costs is considering moving abroad, prompting Reddit users to share their own frustrations and experiences",
+      "summary_zh": "一名班加罗尔居民厌倦了交通、污染和生活成本上涨，正在考虑移居国外，这促使 Reddit 用户分享了自己的挫败感和经历",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-11-2026-11-97df4c69199e688cdf76f666c17d05db-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1344,7 +1367,8 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "6f13be39c0bd5df4",
@@ -1364,7 +1388,8 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "8b08c843a2e6e15c",
@@ -1424,17 +1449,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "d4768e28d2fe7832",
       "url": "https://www.news18.com/viral/received-a-layoff-as-diwali-gift-employee-loses-job-ahead-of-festival-says-thanks-for-ruining-my-day-ws-l-10416839.html",
       "title_en": "'Received A Layoff As Diwali Gift': Employee Loses Job Ahead Of Festival, Says 'Thanks For Ruining My Day'",
       "title_zh": "“收到裁员作为排灯节礼物”：员工在节日前失业，说“谢谢你毁了我的一天”",
-      "summary_en": "",
-      "summary_zh": "“收到裁员作为排灯节礼物”：员工在节日前失业，说“谢谢你毁了我的一天”",
+      "summary_en": "An employee claimed they were laid off just before Diwali, calling it an unexpected festive gift. Their post sparked reactions from users sharing similar experiences",
+      "summary_zh": "一名员工声称他们在排灯节前被解雇，称这是一份意想不到的节日礼物。他们的帖子引发了分享类似经历的用户的反应",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-8-2026-11-1712d5804e6c88061810c3021a7ca847-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1444,7 +1470,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "0fbacaf93fdcbf06",
@@ -1511,10 +1538,10 @@
       "url": "https://www.news18.com/viral/woman-meets-future-husband-on-first-rapido-ride-years-later-she-is-a-bollywood-choreographer-and-he-a-national-athlete-ws-l-10416838.html",
       "title_en": "Woman Meets Future Husband On First Rapido Ride, Years Later She Is A Bollywood Choreographer And He A Nati",
       "title_zh": "女人在第一次快速骑行时遇到了未来的丈夫，多年后她成为宝莱坞编舞家而他是土著人",
-      "summary_en": "",
-      "summary_zh": "女人在第一次快速骑行时遇到了未来的丈夫，多年后她成为宝莱坞编舞家而他是土著人",
+      "summary_en": "What began as a woman’s first-ever Rapido ride turned into an unexpected romance after she discovered her driver was an athlete who had represented India.",
+      "summary_zh": "一位女士第一次乘坐 Rapido 骑行，在她发现她的司机是一位代表印度的运动员后，她开始了一场意想不到的浪漫之旅。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T154130.927-2026-11-d661281d80edf2cdd42488c5b0d66427-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1524,7 +1551,8 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "22c1be5ef352f15f",
@@ -1572,10 +1600,10 @@
       "url": "https://www.news18.com/viral/am-i-wrong-for-refusing-employee-loses-job-after-automating-daily-tasks-now-asked-to-train-their-replacement-ws-l-10416817.html",
       "title_en": "'Am I Wrong For Refusing?': Employee Loses Job After Automating Daily Tasks, Now Asked To Train Their Repla",
       "title_zh": "“我拒绝有错吗？”：员工在自动化日常任务后失业，现在被要求培训他们的替补",
-      "summary_en": "",
-      "summary_zh": "“我拒绝有错吗？”：员工在自动化日常任务后失业，现在被要求培训他们的替补",
+      "summary_en": "An employee claims their job was eliminated after they automated daily tasks. Now, their manager wants them to train their replacement, sparking debate online",
+      "summary_zh": "一名员工声称，在自动化日常任务后，他们的工作被取消了。现在，他们的经理希望他们培训继任者，这在网上引发了争论",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-6-2026-11-dc853bc5bb5029e72503622933eb90ce-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1585,7 +1613,8 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "6a7485ee1423fa3b",
@@ -1647,17 +1676,18 @@
         "交通火车",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b3d347236727791c",
       "url": "https://www.ndtv.com/offbeat/abhinav-bindra-wishes-happy-diwali-shares-message-on-importance-of-silence-and-self-reflection-12296539",
       "title_en": "Abhinav Bindra Wishes Happy Diwali, Shares Message On Importance Of Silence And Self-Reflection",
       "title_zh": "阿比纳夫·宾德拉 (Abhinav Bindra) 祝排灯节快乐，分享关于沉默和自我反省重要性的信息",
-      "summary_en": "",
-      "summary_zh": "阿比纳夫·宾德拉 (Abhinav Bindra) 祝排灯节快乐，分享关于沉默和自我反省重要性的信息",
+      "summary_en": "He explained that sport had taught him an important lesson about silence.",
+      "summary_zh": "他解释说，运动给他上了关于沉默的重要一课。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/geerp6k4_abhinav-bindra-_625x300_07_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1667,7 +1697,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "de269482d05fdf60",
@@ -1714,10 +1745,10 @@
       "url": "https://www.news18.com/viral/airbnb-host-shocked-after-guest-turns-2bhk-flat-into-wedding-venue-starts-cooking-for-guests-my-worst-nightmare-ws-l-10416760.html",
       "title_en": "Airbnb Host Shocked After Guest Turns 2BHK Flat Into Wedding Reception Venue: 'My Worst Nightmare'",
       "title_zh": "客人将 2BHK 公寓变成婚宴场地后，Airbnb 房东感到震惊：“我最糟糕的噩梦”",
-      "summary_en": "",
-      "summary_zh": "客人将 2BHK 公寓变成婚宴场地后，Airbnb 房东感到震惊：“我最糟糕的噩梦”",
+      "summary_en": "An Airbnb host was left stunned after a guest allegedly organised a wedding reception in his 2BHK flat, inviting nearly 50 people and arranging large-scale cooking",
+      "summary_zh": "据称，一名房客在其 2BHK 公寓举办婚宴，邀请近 50 人并安排大型烹饪，令 Airbnb 房东大吃一惊",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-4-2026-11-e8c20f96194d1997656085ad55e81d0c-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1727,7 +1758,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "703607085bde5f1c",
@@ -1794,10 +1826,10 @@
       "url": "https://www.news18.com/viral/diwali-was-different-in-jaipur-bengaluru-employee-questions-lack-of-festival-holidays-internet-reacts-ws-l-10416739.html",
       "title_en": "‘Diwali Was Different In Jaipur’: Bengaluru Employee Questions Lack Of Festival Holidays; Internet Reacts",
       "title_zh": "“斋浦尔的排灯节与众不同”：班加罗尔员工质疑缺乏节日假期；互联网反应",
-      "summary_en": "",
-      "summary_zh": "“斋浦尔的排灯节与众不同”：班加罗尔员工质疑缺乏节日假期；互联网反应",
+      "summary_en": "A woman working in Bengaluru has questioned why companies cannot offer a week-long Diwali break, saying the festival feels very different under the city's start-up work culture.",
+      "summary_zh": "一名在班加罗尔工作的女性质疑为什么公司不能提供为期一周的排灯节假期，她表示，在该市的初创企业工作文化下，这个节日感觉非常不同。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T141635.718-2026-11-e5854a66e250d577d4106bf6b58ad8d2-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1807,7 +1839,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "770ea17bc59588f1",
@@ -2058,10 +2091,10 @@
       "url": "https://www.news18.com/viral/mumbai-woman-spends-60-days-sleeping-wins-rs-9-6-lakh-heres-what-happened-ws-l-10416706.html",
       "title_en": "Mumbai Woman Spends 60 Days Sleeping, Wins Rs 9.6 Lakh. Here’s What Happened",
       "title_zh": "孟买女子睡了 60 天，赢了 96 万卢比这是发生的事情",
-      "summary_en": "",
-      "summary_zh": "孟买女子睡了 60 天，赢了 96 万卢比这是发生的事情",
+      "summary_en": "A Mumbai woman has won Rs 9.6 lakh and a sponsored holiday after taking part in a two-month competition where sleeping well was only part of the challenge.",
+      "summary_zh": "一名孟买妇女在参加为期两个月的比赛后赢得了 96 万卢比和赞助假期，其中睡眠质量只是挑战的一部分。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T133608.168-2026-11-a8b7640f07f240861001fb1ff6ec2f31-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2071,7 +2104,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "abaabeb49315312b",
@@ -2171,17 +2205,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "aca692213cd1b919",
       "url": "https://www.news18.com/viral/jeff-bezos-walked-away-from-a-high-paying-wall-street-job-to-build-amazon-heres-what-made-him-take-the-risk-ws-l-10416635.html",
       "title_en": "Jeff Bezos Walked Away From A High-Paying Wall Street Job To Build Amazon, Here’s What Made Him Take The Ri",
       "title_zh": "杰夫·贝索斯放弃华尔街的高薪工作去创建亚马逊，这就是他选择 Ri 的原因",
-      "summary_en": "",
-      "summary_zh": "杰夫·贝索斯放弃华尔街的高薪工作去创建亚马逊，这就是他选择 Ri 的原因",
+      "summary_en": "Jeff Bezos left a well-paid Wall Street job to pursue an idea that would later become Amazon, but one question about his future self helped him make the risky decision.",
+      "summary_zh": "杰夫·贝索斯辞去了一份高薪的华尔街工作，去追求一个后来成为亚马逊的想法，但一个关于他未来的自我的问题帮助他做出了这个冒险的决定。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T124206.913-2026-11-904f77fff3172770ce2712e12072e5fa-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2191,7 +2226,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "433055a229a5e9d9",
@@ -2211,7 +2247,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "f56c71d89243da78",
@@ -2238,10 +2275,10 @@
       "url": "https://www.news18.com/viral/fact-check-viral-video-of-bullet-train-being-transported-falsely-linked-to-india-heres-the-truth-ws-l-10416603.html",
       "title_en": "Fact Check: Viral Video Of Bullet Train Being Transported Falsely Linked To India, Here's The Truth",
       "title_zh": "事实核查：子弹头列车运输的病毒视频被错误地链接到印度，这是真相",
-      "summary_en": "",
-      "summary_zh": "事实核查：子弹头列车运输的病毒视频被错误地链接到印度，这是真相",
+      "summary_en": "A video showing a bullet train coach being transported on a trailer in Taiwan has gone viral on X, with users mistakenly claiming it is India's first bullet train",
+      "summary_zh": "一段显示台湾高铁车厢被拖车运输的视频在X上疯传，用户误称这是印度第一列高铁",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2-2026-11-8e73e60ce800c5c2fa2ead8322b49197-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2252,7 +2289,8 @@
         "交通火车",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "5f0e08dce0beb6e5",
@@ -2381,10 +2419,10 @@
       "url": "https://www.news18.com/viral/turned-layoff-into-a-promotion-employee-gets-4-months-severance-after-being-fired-lands-higher-paying-job-ws-l-10416561.html",
       "title_en": "'Turned Layoff Into A Promotion': Employee Gets 4 Months' Severance After Being Fired, Lands Higher-Paying",
       "title_zh": "“变裁员为升职”：员工被解雇后获4个月遣散费，薪资更高",
-      "summary_en": "",
-      "summary_zh": "“变裁员为升职”：员工被解雇后获4个月遣散费，薪资更高",
+      "summary_en": "A man who sensed trouble with his manager began interviewing early. After being laid off, he secured four months' severance and landed a better-paying remote job",
+      "summary_zh": "一个感觉到经理有麻烦的人很早就开始面试。被解雇后，他获得了四个月的遣散费，并找到了一份薪水更高的远程工作",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-1-2026-11-0fb7e487d96b6653bd2dc8a78eb1b621-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2394,17 +2432,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "1150e1eca27bed98",
       "url": "https://www.news18.com/viral/natures-very-own-fireworks-shubhanshu-shukla-shares-stunning-view-of-earth-from-space-watch-ws-l-10416549.html",
       "title_en": "‘Nature’s Very Own Fireworks’: Shubhanshu Shukla Shares Stunning View Of Earth From Space | Watch",
       "title_zh": "“大自然自己的烟花”：Shubhanshu Shukla 分享从太空看到地球的壮丽景色 |手表",
-      "summary_en": "",
-      "summary_zh": "“大自然自己的烟花”：Shubhanshu Shukla 分享从太空看到地球的壮丽景色 |手表",
+      "summary_en": "ISRO astronaut Shubhanshu Shukla shared a stunning view of Earth from space, where flashes of lightning reminded him of Diwali fireworks and the joy of the festival.",
+      "summary_zh": "ISRO 宇航员 Shubhanshu Shukla 分享了从太空看到的地球的壮丽景色，那里的闪电让他想起了排灯节烟花和节日的欢乐。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T112511.010-2026-11-dbc3e9c931f93997465750e1df4a6526-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2412,9 +2451,11 @@
       "published_at": "2026-11-07T13:59:44+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
-        "其他"
+        "婚俗宗教",
+        "科技发明"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a06d6098613b1ec0",
@@ -2495,7 +2536,8 @@
         "军事政治",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c26b889b4366db80",
@@ -2582,10 +2624,10 @@
       "url": "https://www.news18.com/viral/what-happens-to-parents-who-have-only-daughters-woman-questions-festival-traditions-after-marriage-internet-divided-ws-l-10416463.html",
       "title_en": "‘What Happens To Parents Who Have Only Daughters?’: Woman Questions Festival Traditions After Marriage, Int",
       "title_zh": "“只有女儿的父母会怎样？”：女人质疑婚后的节日传统，Int",
-      "summary_en": "",
-      "summary_zh": "“只有女儿的父母会怎样？”：女人质疑婚后的节日传统，Int",
+      "summary_en": "A woman has questioned why married daughters are often expected to celebrate festivals at their in-laws' homes, while their parents may be left alone on special occasions.",
+      "summary_zh": "一名妇女质疑，为什么已婚的女儿经常要在婆家庆祝节日，而在特殊场合却可能让父母独自一人。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T095322.627-2026-11-12882c381e753d2492854ee3d18de66b-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2595,7 +2637,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "5504f9edba7d108a",
@@ -2683,10 +2726,10 @@
       "url": "https://www.news18.com/viral/indian-tourists-organise-bhandara-at-vietnam-airport-internet-says-poore-duniya-mai-desh-ko-badnaam-karo-ws-l-10416449.html",
       "title_en": "Indian Tourists Organise 'Bhandara' At Vietnam Airport; Internet Says 'Poore Duniya Mai Desh Ko Badnaam Kar",
       "title_zh": "印度游客在越南机场举办“Bhandara”活动；互联网说“Poore Duniya Mai Desh Ko Badnaam Kar”",
-      "summary_en": "",
-      "summary_zh": "印度游客在越南机场举办“Bhandara”活动；互联网说“Poore Duniya Mai Desh Ko Badnaam Kar”",
+      "summary_en": "A video showing Indian tourists enjoying a community feast at a Vietnam airport has gone viral, triggering mixed reactions online over public behaviour and civic sense",
+      "summary_zh": "一段显示印度游客在越南机场享受社区盛宴的视频在网上疯传，引发了网上对公众行为和公民意识的不同反应",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-13-2026-11-91e7b00d5ed20879dae6927f0ff4f20c-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2696,7 +2739,8 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "0ffa94e4d4a7f398",
@@ -2796,7 +2840,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "b531c2013e530eba",
@@ -2864,10 +2909,10 @@
       "url": "https://www.news18.com/viral/udaipur-startup-gifts-employees-rs-13000-back-massagers-for-diwali-internet-says-mere-founder-ke-pass-ye-reel-bhejdo-ws-l-10416069.html",
       "title_en": "Udaipur Startup Gifts Employees Rs 13,000 Back Massagers For Diwali, Internet Says, ‘Mere Founder Ke Pass Y",
       "title_zh": "乌代浦初创公司为排灯节向员工赠送 13,000 卢比背部按摩器，互联网称“仅仅是创始人 Ke Pass Y”",
-      "summary_en": "",
-      "summary_zh": "乌代浦初创公司为排灯节向员工赠送 13,000 卢比背部按摩器，互联网称“仅仅是创始人 Ke Pass Y”",
+      "summary_en": "A Udaipur-based startup surprised its employees with Diwali gifts that included a nearly Rs 13,000 back massager, baked goodies and a comforter, sparking reactions online.",
+      "summary_zh": "一家总部位于乌代浦的初创公司为员工提供了排灯节礼物，其中包括价值近 13,000 卢比的背部按摩器、烘焙食品和被子，在网上引发了反响。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-06T183843.873-2026-11-956bf923af1e5c3aa898e2344275a4c7-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2878,7 +2923,8 @@
         "婚俗宗教",
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "c0435883766804da",
@@ -3146,10 +3192,10 @@
       "url": "https://www.news18.com/viral/iitians-stunned-after-pani-puri-seller-reveals-rs-1-2-lakh-monthly-profit-from-one-stall-we-are-in-shock-ws-l-10415868.html",
       "title_en": "IITians Stunned After Pani Puri Seller Reveals Rs 1.2 Lakh Monthly Profit From One Stall: ‘We Are In Shock’",
       "title_zh": "Pani Puri 卖家透露一个摊位每月利润达 12 万卢比，印度理工学院人员感到震惊：“我们感到震惊”",
-      "summary_en": "",
-      "summary_zh": "Pani Puri 卖家透露一个摊位每月利润达 12 万卢比，印度理工学院人员感到震惊：“我们感到震惊”",
+      "summary_en": "The group of IITians had causally stuck up a conversation with the pani puri vendor, who told them he earned Rs 1.2 lakh in profit from just a stall by working only in the evening",
+      "summary_zh": "这群印度理工学院员工随意地与帕尼普里摊贩进行了交谈，后者告诉他们，他仅在晚上工作，就从一个摊位赚取了 12 万卢比的利润",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-3-2026-11-c51eaa0478d09a0e1f51780a8aa41952-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -3159,7 +3205,8 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "f71a7b87c3c73301",
@@ -3399,7 +3446,8 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "878c882aed141514",
@@ -3559,7 +3607,8 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "70676a424d7467d2",
@@ -3579,7 +3628,8 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "f3fa7f112e9f05f6",
@@ -3639,7 +3689,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "883a2075d622627f",
@@ -3699,7 +3750,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "e2f67894bf789dcb",
@@ -3799,7 +3851,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "953f8d4c10b94063",
@@ -3859,7 +3912,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "16ecc4f16e60adbb",
@@ -4119,7 +4173,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3f4e40c89d3630c9",
@@ -4159,7 +4214,8 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "0d13d78028c34f94",
@@ -4219,7 +4275,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "14d313fef92af334",
@@ -4320,7 +4377,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "25931b23dd0d4462",
@@ -4361,7 +4419,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c948ed8fee63d7e4",
@@ -4381,7 +4440,8 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "66ff9cc5c7fc539a",
@@ -4562,7 +4622,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3eb0dd9b18c342e4",
@@ -4602,17 +4663,18 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "10ceb85efb3de6ac",
       "url": "https://www.ndtv.com/india-news/no-sir-in-2014-2019-or-2024-you-still-lost-amit-shah-to-rahul-gandhi-12286427?pfrom=top_widget_trending",
       "title_en": "'Come Debate In Parliament': Amit Shah's Challenge On Rahul Gandhi's Dare",
       "title_zh": "“来议会辩论”：阿米特·沙阿对拉胡尔·甘地的挑战",
-      "summary_en": "",
-      "summary_zh": "“来议会辩论”：阿米特·沙阿对拉胡尔·甘地的挑战",
+      "summary_en": "Amit Shah also attacked the Congress over its demands for the resignation of Chief Election Commissioner Gyanesh Kumar.",
+      "summary_zh": "阿米特·沙阿还攻击国大党要求首席选举专员贾内什·库马尔辞职的要求。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/Ktczl2Y2dWWj16n9xtdeuir44v3t7MuLmMdkBj1DUb8.jpeg?width=640&crop=smart&auto=webp&s=5bf33b5feaa9a70ffa7c1593c30651e732e572e9",
+      "image": "https://c.ndtvimg.com/2026-10/d0bijdpg_amit-shah-rahul-gandhi_625x300_13_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "Reddit r/india",
       "source_id": "reddit-india",
@@ -4622,7 +4684,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "69fedc06a3d2c8cf",

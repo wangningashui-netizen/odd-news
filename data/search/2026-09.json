@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "count": 96,
+  "count": 97,
   "items": [
     {
       "id": "2b5839571a333b4e",
@@ -1480,9 +1480,9 @@
       "published_at": "2026-09-10T19:19:59+08:00",
       "title_zh": "那是 iPhone 吗？ 1937 年的绘画让互联网对人类的神秘物体感到困惑",
       "title_en": "Is That An iPhone? 1937 Painting Leaves Internet Puzzled Over Man’s Mysterious Object",
-      "summary_zh": "那是 iPhone 吗？ 1937 年的绘画让互联网对人类的神秘物体感到困惑",
-      "summary_en": "",
-      "image": null,
+      "summary_zh": "一幅 1937 年的画作在网上引发了一场奇怪的争论，因为观众发现一名男子拿着一个长方形的小物体，看起来惊人地像一部现代智能手机。",
+      "summary_en": "A 1937 painting has sparked a strange online debate after viewers spotted a man holding a small rectangular object that looks surprisingly like a modern smartphone.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2026-09-10T163826.970-2026-09-6418427b29176a79b697cd956f2285a2-1200x675.png",
       "source": "News18 Viral",
       "region": "印度",
       "tags": [
@@ -1558,6 +1558,23 @@
         "奇人奇事"
       ],
       "url": "https://www.unilad.com/news/us-news/maine-damariscotta-bigfoot-hunt-074410-20260907",
+      "translation_status": "fallback"
+    },
+    {
+      "id": "69c297c2517d5a51",
+      "date": "2026-09-07",
+      "published_at": "2026-09-07T14:08:05+08:00",
+      "title_zh": "Saurabhi Vanzara 潜伏露面后走红；德里创始人说：“这位女士其实个子不小",
+      "title_en": "Saurabhi Vanzara Goes Viral After Latent Appearance; Delhi Founder Says, ‘This Lady Is Actually Not A Small",
+      "summary_zh": "一位德里创始人在 Saurabhi Vanzara 潜伏露面后为她辩护的帖子迅速走红，用户回忆起她的演艺生涯和电视露面",
+      "summary_en": "A Delhi founder’s post defending Saurabhi Vanzara after her Latent appearance has gone viral, with users recalling her acting career and TV appearances",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2-2026-09-81e32bca063d43b8a44a94389500e204-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/saurabhi-vanzara-goes-viral-after-her-appearance-at-samay-rainas-indias-got-latent-delhi-founder-says-this-lady-is-actually-not-a-small-deal-ws-l-10313735.html",
       "translation_status": "fallback"
     },
     {

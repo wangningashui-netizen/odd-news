@@ -123,7 +123,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "de8a33b6de4e683d",
@@ -244,7 +245,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "894fec9dd3347567",

@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "69c297c2517d5a51",
+      "url": "https://www.news18.com/viral/saurabhi-vanzara-goes-viral-after-her-appearance-at-samay-rainas-indias-got-latent-delhi-founder-says-this-lady-is-actually-not-a-small-deal-ws-l-10313735.html",
+      "title_en": "Saurabhi Vanzara Goes Viral After Latent Appearance; Delhi Founder Says, ‘This Lady Is Actually Not A Small",
+      "title_zh": "Saurabhi Vanzara 潜伏露面后走红；德里创始人说：“这位女士其实个子不小",
+      "summary_en": "A Delhi founder’s post defending Saurabhi Vanzara after her Latent appearance has gone viral, with users recalling her acting career and TV appearances",
+      "summary_zh": "一位德里创始人在 Saurabhi Vanzara 潜伏露面后为她辩护的帖子迅速走红，用户回忆起她的演艺生涯和电视露面",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2-2026-09-81e32bca063d43b8a44a94389500e204-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-07T14:08:05+08:00",
+      "fetched_at": "2026-11-08T23:25:27+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

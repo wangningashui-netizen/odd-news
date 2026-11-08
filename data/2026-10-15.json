@@ -203,7 +203,8 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "55c3bb509163b7a5",

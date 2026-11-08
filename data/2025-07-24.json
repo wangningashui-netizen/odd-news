@@ -8,10 +8,10 @@
       "url": "https://www.news18.com/viral/mumbai-atal-setu-creates-history-as-india-longest-sea-bridge-cost-rs-17840-crore-aa-9461090.html",
       "title_en": "Boon For Mumbai, This ‘Engineering Marvel’ Created History As World’s 12th & India’s Longest...",
       "title_zh": "这个“工程奇迹”创造了世界第 12 个、印度最长的历史，这对孟买来说是福音",
-      "summary_en": "",
-      "summary_zh": "这个“工程奇迹”创造了世界第 12 个、印度最长的历史，这对孟买来说是福音",
+      "summary_en": "Atal Setu is a feat of modern engineering, equipped with cutting-edge safety systems, advanced road technology, and noise barriers to protect sensitive areas.",
+      "summary_zh": "Atal Setu 是现代工程的一项壮举，配备了尖端的安全系统、先进的道路技术和隔音屏障来保护敏感区域。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/news18-13-2025-07-07f9e53e0ae419df6fcbb870a77b65f0-16x9.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -21,7 +21,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     }
   ]
 }

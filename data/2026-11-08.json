@@ -1,8 +1,28 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Shanghai",
-  "count": 231,
+  "count": 233,
   "items": [
+    {
+      "id": "aa2a2c3ec52f2b66",
+      "url": "https://www.reddit.com/r/indiasocial/comments/1xr0uej/what_do_you_call_this_in_your_state/",
+      "title_en": "What do you call this in your state?",
+      "title_zh": "在您所在的州，您将其称为什么？",
+      "summary_en": "I am from Maharashtra and here we call this appe patra or appe pan, which I find a lil funny lol [link] [comments]",
+      "summary_zh": "我来自马哈拉施特拉邦，在这里我们称之为 appe patra 或 appe pan，我觉得这很有趣，哈哈 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/eorhbcqvoe0i1.jpeg?width=640&crop=smart&auto=webp&s=24714153d1cde29ef4be42ff99b5dc87a7b61a15",
+      "image_checked": true,
+      "source": "Reddit r/indiasocial",
+      "source_id": "reddit-indiasocial",
+      "region": "印度",
+      "published_at": "2026-11-08T23:21:15+08:00",
+      "fetched_at": "2026-11-08T23:24:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "292923e148cdff7f",
       "url": "https://www.reddit.com/r/indiasocial/comments/1xr0pts/the_rangoli_my_brother_made_in_2_hours/",
@@ -61,7 +81,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "ba8acc3519756666",
@@ -161,7 +182,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "c6f9c19552dadffe",
@@ -228,10 +250,10 @@
       "url": "https://www.ndtv.com/offbeat/chhath-puja-2026-check-dates-rituals-and-significance-of-the-four-day-festival-12300308",
       "title_en": "Chhath Puja 2026: Check Dates, Rituals And Significance Of The Four-Day Festival",
       "title_zh": "Chhath Puja 2026：检查为期四天的节日的日期、仪式和意义",
-      "summary_en": "",
-      "summary_zh": "Chhath Puja 2026：检查为期四天的节日的日期、仪式和意义",
+      "summary_en": "Chhath Puja 2026: Nahay-Khaay marks the first day of Chhath Puja. On this day, devotees clean their homes and make preparations for the festival.",
+      "summary_zh": "Chhath Puja 2026：Nahay-Khaay 标志着 Chhath Puja 的第一天。这一天，信徒们打扫家园，为节日做准备。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/ub2hk4h4_chhath-puja-2026_625x300_08_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -241,7 +263,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "1e532f693fca192a",
@@ -348,10 +371,10 @@
       "url": "https://www.telegraphindia.com/amp/world/seattle-diwali-event-faces-protest-over-calls-to-deport-indians-us-lawmakers-condemn-act/cid/2188439",
       "title_en": "'Dot heads': Conservative activists storm Seattle Diwali celebrations, demand deportation of 'Hindus'",
       "title_zh": "“点头”：保守派活动人士冲击西雅图排灯节庆祝活动，要求驱逐“印度教徒”",
-      "summary_en": "",
-      "summary_zh": "“点头”：保守派活动人士冲击西雅图排灯节庆祝活动，要求驱逐“印度教徒”",
+      "summary_en": "The man who led the disruption is associated with an organisation ‘White Replacement’ and was among the attackers of the US Capitol on January 6, 2021. He served a four-year jail term and was later pardoned by US President Donald Trump on the first day of his second presidency in 2025",
+      "summary_zh": "领导这场骚乱的男子与“白人替代”组织有联系，是 2021 年 1 月 6 日袭击美国国会大厦的袭击者之一。他被判处四年监禁，后来在 2025 年第二任总统的第一天被美国总统唐纳德·特朗普赦免。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/rvrlHl0eSsd3eGkdAHVuNr4Vh2tuKs1w4LNHUtOuiwQ.jpeg?width=640&crop=smart&auto=webp&s=04dfe9e832b056be45384fbc9734e06e7fd29da0",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/1794132120_us-19.jpg",
       "image_checked": true,
       "source": "Reddit r/india",
       "source_id": "reddit-india",
@@ -359,19 +382,21 @@
       "published_at": "2026-11-08T21:23:20+08:00",
       "fetched_at": "2026-11-08T23:16:42+08:00",
       "tags": [
-        "婚俗宗教"
+        "婚俗宗教",
+        "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "18a8877c8dce799b",
       "url": "https://troopers.ny.gov/news/state-police-arrest-lacona-woman-following-public-lewdness-incident",
       "title_en": "State Police arrest Lacona woman following public lewdness incident",
       "title_zh": "州警察在公共猥亵事件后逮捕了拉科纳妇女",
-      "summary_en": "",
-      "summary_zh": "州警察在公共猥亵事件后逮捕了拉科纳妇女",
+      "summary_en": "Get notified when applications open for the NYS Trooper Entrance Exam! Please visit joinstatepolice.ny.gov to learn more.",
+      "summary_zh": "当纽约州士兵入学考试开放申请时您会收到通知！请访问 joinstatepolice.ny.gov 了解更多信息。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://troopers.ny.gov/sites/g/files/oee1136/files/media/2026/02/img_5999.png",
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
@@ -381,7 +406,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "4c14e95297826ad3",
@@ -421,7 +447,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "083d2f2847a92ae9",
@@ -448,10 +475,10 @@
       "url": "https://www.news18.com/viral/spicejet-passengers-left-fuming-after-last-minute-cancellations-video-shows-heated-exchange-with-staff-watch-ws-l-10417696.html",
       "title_en": "SpiceJet Passengers Left Fuming After Last-Minute Cancellations, Video Shows Heated Exchange With Staff | Watch",
       "title_zh": "香料航空乘客在最后一刻取消航班后感到愤怒，视频显示与工作人员的激烈交流手表",
-      "summary_en": "",
-      "summary_zh": "香料航空乘客在最后一刻取消航班后感到愤怒，视频显示与工作人员的激烈交流手表",
+      "summary_en": "35 passengers were reportedly left stranded at Kempegowda International Airport in Bengaluru after SpiceJet cancelled their flight just half an hour before its departure",
+      "summary_zh": "据报道，香料航空在起飞前半小时取消了航班，导致 35 名乘客滞留在班加罗尔 Kempegowda 国际机场",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2026-11-a192d3251c291ec3367b9e2507c911d9-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -461,7 +488,8 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "64236da63dae5ab5",
@@ -501,7 +529,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "0ce497e51d52d1f5",
@@ -581,7 +610,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b1149a59c61f59b9",
@@ -689,10 +719,10 @@
       "url": "https://www.news18.com/viral/shantanu-deshpande-meets-maths-teacher-21-years-after-iit-results-recalls-his-words-do-your-best-and-ws-l-10417678.html",
       "title_en": "Shantanu Deshpande Meets Maths Teacher 21 Years After IIT Results, Recalls His Words: ‘Do Your Best And…’",
       "title_zh": "Shantanu Deshpande 在 IIT 成绩公布 21 年后见到了数学老师，回忆起他的话：“尽力而为……”",
-      "summary_en": "",
-      "summary_zh": "Shantanu Deshpande 在 IIT 成绩公布 21 年后见到了数学老师，回忆起他的话：“尽力而为……”",
+      "summary_en": "The Bombay Shaving Company founder recalled how a few reassuring words from his teacher helped him navigate through life following his IIT exams results in 2005",
+      "summary_zh": "这位孟买剃须公司创始人回忆起 2005 年 IIT 考试成绩后，老师的几句安慰话如何帮助他度过人生",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-2026-11-491c7f5df70cb5ec55e60e92e22c03ed-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -700,9 +730,10 @@
       "published_at": "2026-11-08T20:00:21+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
-        "其他"
+        "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "392a62e84cc27dc0",
@@ -763,7 +794,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "98d39c89628827b0",
@@ -803,6 +835,28 @@
       "fetched_at": "2026-11-08T23:16:42+08:00",
       "tags": [
         "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f9b9c1e6ed2fdf9b",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/kareena-kapoor-mom-babita-gives-priceless-reaction-to-paps-during-diwali-celebration-with-family-watch-article-156482760",
+      "title_en": "Kareena Kapoor’s Mom Babita Gives Priceless Reaction To Paps During Diwali Celebration With Family – Watch",
+      "title_zh": "卡琳娜·卡普尔 (Kareena Kapoor) 的妈妈巴比塔 (Babita) 在与家人一起庆祝排灯节期间对爸爸做出了无价的反应 – 观看",
+      "summary_en": "Kareena Kapoor Khan and Karisma Kapoor's mother Babita and father Randhir Kapoor greeted paps during Kapoor family's Diwali celebration. The veteran actress grabbed attention with her priceless reaction to paparazzi., Bollywood, Times Now",
+      "summary_zh": "卡琳娜·卡普尔·汗 (Kareena Kapoor Khan) 和卡里斯玛·卡普尔 (Karisma Kapoor) 的母亲巴比塔 (Babita) 和父亲兰迪尔·卡普尔 (Randhir Kapoor) 在卡普尔家族的排灯节庆祝活动期间向爸爸们致意。这位资深女演员以其对狗仔队的无价反应引起了人们的关注。，宝莱坞，时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156482765,thumbsize-799437,width-1280,height-720,resizemode-75/156482765.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T19:40:27+08:00",
+      "fetched_at": "2026-11-08T23:24:34+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧",
+        "婚俗宗教"
       ],
       "tag_source": "rules"
     },
@@ -891,10 +945,10 @@
       "url": "https://www.chroniclelive.co.uk/news/north-east-news/gateshead-woman-alopecia-accused-being-34873020",
       "title_en": "Woman with alopecia accused of being male while using female toilet at a supermarket.",
       "title_zh": "一名脱发女子在超市使用女厕所时被指控为男性。",
-      "summary_en": "",
-      "summary_zh": "一名脱发女子在超市使用女厕所时被指控为男性。",
+      "summary_en": "Helen Rowlands said she was questioned about her gender while visiting Tesco Extra in Trinity Square, Gateshead",
+      "summary_zh": "海伦·罗兰兹 (Helen Rowlands) 表示，她在盖茨黑德三一广场的特易购超市 (Tesco Extra) 时被问及性别",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/ISy_FEdY9mXwdNeIudBMrQhHY7vrP5NGhD9u0clPog4.jpeg?width=640&crop=smart&auto=webp&s=6da27709e1937e9002c59fb328d2eb99a96ea600",
+      "image": "https://i2-prod.chroniclelive.co.uk/article34879246.ece/ALTERNATES/s1200d/0_imagemaker-71.jpg",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -905,7 +959,8 @@
         "卫生环境",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "c49078ff0f75d2b9",
@@ -993,10 +1048,10 @@
       "url": "https://www.news18.com/viral/indian-man-torn-between-rs-45-lpa-india-job-and-e70k-germany-offer-amid-layoffs-whats-the-right-choice-ws-l-10417622.html",
       "title_en": "Indian Man Torn Between Rs 45 LPA India Job And €70K Germany Offer Amid Layoffs: ‘What’s The Right Choice'",
       "title_zh": "印度男子因裁员而在印度 45 卢比 LPA 工作和德国 7 万欧元报价之间左右为难：“什么是正确的选择”",
-      "summary_en": "",
-      "summary_zh": "印度男子因裁员而在印度 45 卢比 LPA 工作和德国 7 万欧元报价之间左右为难：“什么是正确的选择”",
+      "summary_en": "The man shared that the company that he is currently in is paying Rs 45 lakh per annum but the problem is that it is undergoing restructuring and he fears that layoffs could happen",
+      "summary_zh": "该男子透露，他目前所在的公司每年支付 450 万卢比，但问题是该公司正在进行重组，他担心可能会发生裁员",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-1-2026-11-7243e88022e2e0af70e5ed09f73fa7a0-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1004,9 +1059,10 @@
       "published_at": "2026-11-08T19:14:38+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
-        "其他"
+        "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "9df75efe997a26c8",
@@ -1046,7 +1102,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "54bd1b2477dd5225",
@@ -1275,10 +1332,10 @@
       "url": "https://www.ndtv.com/offbeat/womans-surprise-diwali-homecoming-leaves-parents-emotional-video-wins-hearts-online-12300055",
       "title_en": "Woman's Surprise Diwali Homecoming Leaves Parents Emotional, Video Wins Hearts Online",
       "title_zh": "女人排灯节回家的惊喜让父母激动不已，视频在网上赢得了芳心",
-      "summary_en": "",
-      "summary_zh": "女人排灯节回家的惊喜让父母激动不已，视频在网上赢得了芳心",
+      "summary_en": "The emotional reunion and the heartfelt hug between the daughter and her parents have touched viewers online.",
+      "summary_zh": "女儿与父母的情感重逢、真挚的拥抱感动了网上的观众。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/ovb6b288_diwali-viral-video_625x300_08_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1288,17 +1345,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "cbdb98f88d98b78d",
       "url": "https://www.news18.com/viral/is-this-normal-in-india-hr-tells-job-seeker-to-look-elsewhere-if-he-cant-commit-for-a-year-to-company-ws-l-10417592.html",
       "title_en": "‘Is This Normal In India’: HR Tells Job Seeker To Look Elsewhere If They Can't Commit For A Year To Company",
       "title_zh": "“这在印度正常吗”：人力资源部门告诉求职者，如果一年内无法向公司做出承诺，就去别处寻找",
-      "summary_en": "",
-      "summary_zh": "“这在印度正常吗”：人力资源部门告诉求职者，如果一年内无法向公司做出承诺，就去别处寻找",
+      "summary_en": "After seeing a one-year binding clause, the candidate asked the recruiter whether the company provides any flexibility in case they decide to move on before completing a year",
+      "summary_zh": "在看到一年的约束性条款后，候选人询问招聘人员公司是否提供任何灵活性，以防他们在完成一年之前决定继续工作",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2026-11-792afc5180e6f911f1580c926a76d4b1-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1308,17 +1366,18 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "332bbba7e9f3ee89",
       "url": "https://www.ndtv.com/offbeat/sand-artist-sudarsan-pattnaik-marks-diwali-with-25-foot-lord-ram-bow-made-of-sand-and-diyas-12300022",
       "title_en": "Sand Artist Sudarsan Pattnaik Marks Diwali With 25-Foot Lord Ram Bow Made Of Sand And Diyas",
       "title_zh": "沙艺术家 Sudarsan Pattnaik 用由沙和 Diyas 制成的 25 英尺 Lord Ram 弓标记排灯节",
-      "summary_en": "",
-      "summary_zh": "沙艺术家 Sudarsan Pattnaik 用由沙和 Diyas 制成的 25 英尺 Lord Ram 弓标记排灯节",
+      "summary_en": "He also urged people to celebrate a Green Diwali by allowing the light of diyas to shine instead of causing pollution.",
+      "summary_zh": "他还敦促人们通过让迪亚斯之光闪耀而不是造成污染来庆祝绿色排灯节。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/99vnr4fg_sudarsan-pattnaik_625x300_08_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1328,7 +1387,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "f181729431fb77b2",
@@ -1395,10 +1455,10 @@
       "url": "https://www.ndtv.com/india-news/i-am-god-obey-me-woman-accuses-vrindavan-based-preacher-indradev-maharaj-of-sexual-assault-12297582",
       "title_en": "\"I Am God, Obey Me\" . Woman Accuses Vrindavan-Based Preacher Indradev Of Sexual Assault.",
       "title_zh": "“我是神，服从我”。女子指控温达文传教士因德拉德夫性侵犯。",
-      "summary_en": "",
-      "summary_zh": "“我是神，服从我”。女子指控温达文传教士因德拉德夫性侵犯。",
+      "summary_en": "A woman says Indradev Maharaj called her to his room late at night when she was at his ashram in Vrindavan, and forced himself on her. Later, he allegedly made her undress during video calls, performed obscene acts, and recorded them.",
+      "summary_zh": "一名女子称，深夜，当她在温达文的静修所时，因德拉德夫·马哈拉杰将她叫到自己的房间，并强迫她上身。据称，他后来在视频通话中让她脱衣服，做出猥亵行为，并将其记录下来。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/MJwJuRfdxZD1dZLCidjfMCCgFrBuov8SpR6RSf5nIbE.jpeg?width=640&crop=smart&auto=webp&s=4236174f4b699389700e704895426ebde0102d38",
+      "image": "https://c.ndtvimg.com/2026-11/4b112rmc_vrindavan-indradev-maharaj_625x300_07_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "Reddit r/india",
       "source_id": "reddit-india",
@@ -1408,7 +1468,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "7417557f7bdd419d",
@@ -1496,10 +1557,10 @@
       "url": "https://www.news18.com/viral/man-says-india-should-have-7-day-diwali-break-like-christmas-holiday-in-west-were-so-low-in-ws-l-10417582.html",
       "title_en": "Man Says India Should Have 7-Day Diwali Break Like Christmas Holiday In West: ‘We’re So Low In...’",
       "title_zh": "男子称印度应该像西方圣诞节一样放7天排灯节：“我们的收入太低了……”",
-      "summary_en": "",
-      "summary_zh": "男子称印度应该像西方圣诞节一样放7天排灯节：“我们的收入太低了……”",
+      "summary_en": "The individual argued that people who live away from their homes in India should also get a week-long holiday at least for them to celebrate Diwali with their families",
+      "summary_zh": "该人士认为，在印度远离家乡的人也应该享受为期一周的假期，至少让他们能够与家人一起庆祝排灯节",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-5-2026-11-2a0a4bfc5785b130734c1d2efe904edb-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1509,7 +1570,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "46b6395d5883da9d",
@@ -1670,7 +1732,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3e25bc3ad41c6ef0",
@@ -1690,17 +1753,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "063a79dc800776ae",
       "url": "https://www.news18.com/viral/pov-diwali-from-above-pilot-shares-stunning-aerial-view-of-chennai-lit-up-for-festival-of-lights-internet-reacts-ws-l-10417546.html",
       "title_en": "'POV: Diwali From Above': Pilot Shares Stunning Aerial View Of Chennai Lit Up For Festival Of Lights; Inter",
       "title_zh": "“POV：从上空俯瞰排灯节”：飞行员分享金奈灯光节的令人惊叹的鸟瞰图；国际米兰",
-      "summary_en": "",
-      "summary_zh": "“POV：从上空俯瞰排灯节”：飞行员分享金奈灯光节的令人惊叹的鸟瞰图；国际米兰",
+      "summary_en": "The pilot captured how people in Chennai were preparing to celebrate the Festival of Lights by decorating their homes and neighbourhoods with lights, candles and diyas",
+      "summary_zh": "飞行员捕捉到了钦奈的人们如何准备庆祝灯节，用灯光、蜡烛和迪亚装饰他们的房屋和社区",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-4-2026-11-716d4aeff9dc6c3836cb99a5d5da8f8e-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1711,7 +1775,8 @@
         "婚俗宗教",
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "077e63c11e829be1",
@@ -1731,7 +1796,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "ea9e72f0ec71edbc",
@@ -1771,7 +1837,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b5061142de61ea40",
@@ -1859,10 +1926,10 @@
       "url": "https://www.news18.com/viral/british-man-runs-a-mile-while-solving-4-rubiks-cubes-sets-guinness-world-record-absolutely-buzzing-ws-l-10417489.html",
       "title_en": "British Man Runs A Mile While Solving 4 Rubik’s Cubes, Sets Guinness World Record: ‘Absolutely Buzzing’",
       "title_zh": "英国男子跑一英里解决4个魔方，创造吉尼斯世界纪录：“绝对嗡嗡作响”",
-      "summary_en": "",
-      "summary_zh": "英国男子跑一英里解决4个魔方，创造吉尼斯世界纪录：“绝对嗡嗡作响”",
+      "summary_en": "George Scholey set a Guinness World Record for the fastest time to complete a puzzle cube mile on October 12 at Central Tech High School in Toronto, Canada in just five minutes",
+      "summary_zh": "10 月 12 日，乔治·斯科利 (George Scholey) 在加拿大多伦多中央科技高中 (Central Tech High School) 创下了仅用 5 分钟完成一英里拼图的吉尼斯世界纪录",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-3-2026-11-7b819c5ad221aa68947ece5746658e2b-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -1872,7 +1939,8 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "4f305270d83d1435",
@@ -1912,7 +1980,8 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "6460a311bc8d9a2a",
@@ -1959,10 +2028,10 @@
       "url": "https://www.ndtvprofit.com/trending/diwali-2026-lakshmi-puja-muhurat-check-shubh-timings-for-delhi-mumbai-bengaluru-chennai-and-other-cities-12298894",
       "title_en": "Diwali 2026 Lakshmi Puja Muhurat: Check Shubh Timings For Delhi, Mumbai, Bengaluru, Chennai And Other Cities",
       "title_zh": "2026 年排灯节 Lakshmi Puja Muhurat：检查德里、孟买、班加罗尔、金奈和其他城市的 Shubh 时间",
-      "summary_en": "",
+      "summary_en": "Diwali 2026 Lakshmi Puja Muhurat: Check Shubh Timings For Delhi, Mumbai, Bengaluru, Chennai And Other Cities",
       "summary_zh": "2026 年排灯节 Lakshmi Puja Muhurat：检查德里、孟买、班加罗尔、金奈和其他城市的 Shubh 时间",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/j0M_vZFNbAUmWosk5H8RIk7JMuoQJgCyCaCnvW6uTak.jpeg?width=640&crop=smart&auto=webp&s=f8e5f41abc4ec8fae4301fb54c1a921c156129a4",
+      "image": "https://c.ndtvimg.com/2026-11/putvqimk_lakshmi-puja-muhurat-timings-for-diwali-2026-photo-pexels_625x300_08_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "Reddit r/india",
       "source_id": "reddit-india",
@@ -1972,7 +2041,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a3d6a23cb5f3b6db",
@@ -1992,7 +2062,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "bd34f63e8447d006",
@@ -2072,17 +2143,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "eb0ebb72ca8cba3a",
       "url": "https://www.news18.com/viral/delivery-guy-goes-the-extra-mile-to-repair-rangoli-after-accidentally-stepping-on-it-woman-says-meant-a-lot-ws-l-10417481.html",
       "title_en": "Delivery Guy Goes The Extra Mile To Repair Rangoli After Accidentally Stepping On It, Woman Says ‘Meant A L",
       "title_zh": "送货员不小心踩到兰戈里后，加倍努力修理兰戈里，女人说“意思是L”",
-      "summary_en": "",
-      "summary_zh": "送货员不小心踩到兰戈里后，加倍努力修理兰戈里，女人说“意思是L”",
+      "summary_en": "A CCTV captured the entire incident, which showed the delivery executive arriving at the woman’s home and as he was about to leave, he accidentally stepped on the rangoli",
+      "summary_zh": "闭路电视拍摄了整个事件，画面显示送货员到达该女子家中，正要离开时，不小心踩到了兰戈里",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-2026-11-f6f921d48dded41429aa824bb09e3c97-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2092,7 +2164,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "57f7e8ebf7f208c7",
@@ -2159,10 +2232,10 @@
       "url": "https://www.ndtv.com/offbeat/regretting-the-decision-ceo-takes-train-to-save-money-on-flights-during-diwali-rush-12299581",
       "title_en": "\"Regretting The Decision\": CEO Takes Train To Save Money On Flights During Diwali Rush",
       "title_zh": "“后悔这个决定”：首席执行官在排灯节高峰期间乘坐火车以节省飞机费用",
-      "summary_en": "",
-      "summary_zh": "“后悔这个决定”：首席执行官在排灯节高峰期间乘坐火车以节省飞机费用",
+      "summary_en": "Looking at the flight ticket prices, the CEO decided to book a train ticket instead.",
+      "summary_zh": "看了机票价格，CEO决定改订火车票。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/u26665vk_indian-railway_625x300_08_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -2171,9 +2244,11 @@
       "fetched_at": "2026-11-08T21:08:25+08:00",
       "tags": [
         "交通火车",
+        "航空出行",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "46e94bb7c8360571",
@@ -2233,7 +2308,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3050ba112f3235b1",
@@ -2260,10 +2336,10 @@
       "url": "https://www.ndtv.com/india-news/pm-modi-to-celebrate-diwali-in-bastar-where-naxalism-once-held-sway-12299379/amp/1",
       "title_en": "PM Modi To Celebrate Diwali In Bastar, Where \"Naxalism Once Held Sway\"",
       "title_zh": "莫迪总理将在“纳粹主义曾经盛行”的巴斯塔庆祝排灯节",
-      "summary_en": "",
-      "summary_zh": "莫迪总理将在“纳粹主义曾经盛行”的巴斯塔庆祝排灯节",
+      "summary_en": "For decades, Naxalites ruled Bastar's dense forests, blew up roads, schools and police stations and killed innocent tribals.",
+      "summary_zh": "几十年来，纳萨尔派统治着巴斯塔茂密的森林，炸毁了道路、学校和警察局，并杀害了无辜的部落。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/7G01fqthoO5qJWONg6AFzoBlo52x8VSSD090WlZ57HE.jpeg?width=640&crop=smart&auto=webp&s=34915524337f6e970c5b59127bc527d3368a57e5",
+      "image": "https://c.ndtvimg.com/2026-11/f77f6vss_modi-diwali-ians_625x300_08_November_26.jpeg",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
       "source_id": "reddit-indiaspeaks",
@@ -2271,10 +2347,12 @@
       "published_at": "2026-11-08T14:40:22+08:00",
       "fetched_at": "2026-11-08T23:16:42+08:00",
       "tags": [
+        "犯罪法律",
         "婚俗宗教",
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "bd6f631371ceda9c",
@@ -2295,17 +2373,18 @@
         "健康医疗",
         "卫生环境"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "e0b6b9197f52a187",
       "url": "https://time.com/article/2026/11/03/india-global-rise-problem-weak-state-capacity/",
       "title_en": "Why India Cannot Rise With Weak State Capacity",
       "title_zh": "印度为何因国家能力薄弱而无法崛起",
-      "summary_en": "",
-      "summary_zh": "印度为何因国家能力薄弱而无法崛起",
+      "summary_en": "\"India cannot tackle its challenges of education, health, manufacturing and jobs unless it fixes the quality, competence and integrity of the state,\" writes Devesh Kapur.",
+      "summary_zh": "德韦什·卡普尔写道：“印度无法解决教育、卫生、制造业和就业方面的挑战，除非它能改善国家的质量、能力和诚信。”",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/BJCVgr5cxc5Je2izdzMAQqII1OTESx3boQPDOafL-SM.jpeg?width=640&crop=smart&auto=webp&s=e5604e277df0008b1dac9b389d10b6984c5a9e0a",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc513d5b38dc981c5/6ae9fcbb6b75ed60694ef1ea/GettyImages-2283057397.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
       "image_checked": true,
       "source": "Reddit r/india",
       "source_id": "reddit-india",
@@ -2313,9 +2392,11 @@
       "published_at": "2026-11-08T14:36:19+08:00",
       "fetched_at": "2026-11-08T23:16:42+08:00",
       "tags": [
-        "其他"
+        "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 1,
+      "page_fetched": true
     },
     {
       "id": "c28045b24e82457b",
@@ -2395,17 +2476,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "78d81a32f68b34a7",
       "url": "https://www.ndtv.com/offbeat/delivery-agent-wins-hearts-online-after-fixing-rangoli-he-accidentally-ruined-internet-calls-it-sweet-12299466",
       "title_en": "Delivery Agent Wins Hearts Online After Fixing Rangoli He Accidentally Ruined, Internet Calls It \"Sweet\"",
       "title_zh": "送货员修好不小心毁坏的兰戈里后赢得网民芳心，网友称其为“甜蜜”",
-      "summary_en": "",
-      "summary_zh": "送货员修好不小心毁坏的兰戈里后赢得网民芳心，网友称其为“甜蜜”",
+      "summary_en": "After the incident, the delivery agent working for Flipkart has become an online favourite.",
+      "summary_zh": "事件发生后，为 Flipkart 工作的送货员成了网上的热门人选。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/chfe2sj_rangoli_625x300_08_November_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -2415,7 +2497,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "f889b1b0061c8b61",
@@ -2462,10 +2545,10 @@
       "url": "https://www.news18.com/viral/indian-couple-in-canada-take-up-food-delivery-as-fun-challenge-reveal-how-much-they-earn-in-just-a-week-ws-l-10417365.html",
       "title_en": "Indian Couple In Canada Take Up Food Delivery As ‘Fun’ Challenge, Reveal How Much They Earn In Just A Week",
       "title_zh": "加拿大的印度夫妇将送餐视为“有趣”的挑战，透露他们一周赚了多少钱",
-      "summary_en": "",
-      "summary_zh": "加拿大的印度夫妇将送餐视为“有趣”的挑战，透露他们一周赚了多少钱",
+      "summary_en": "They shared that they spent around CAD 35 daily on gas, which is approximately Rs 2,467, and besides that, they had no other significant expenses as they brought home-cooked meals",
+      "summary_zh": "他们透露，他们每天的汽油费约为 35 加元，约合 2,467 卢比，除此之外，他们没有其他大笔开支，因为他们带了家常饭菜",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-1-2026-11-c7ee4b4abc75a7e5ce3ce2cba387e60f-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2475,7 +2558,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "719478a8b024745a",
@@ -2535,7 +2619,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "cd482c19efb5ed1b",
@@ -2662,10 +2747,10 @@
       "url": "https://www.news18.com/viral/i-cant-use-my-pl-employee-claims-boss-denied-dhanteras-leave-despite-unused-paid-leave-reddit-reacts-ws-l-10417381.html",
       "title_en": "'I Can't Use My PL?': Employee Claims Boss Denied Dhanteras Leave Despite Unused Paid Leave; Reddit Reacts",
       "title_zh": "“我不能使用我的 PL？”：员工声称老板拒绝 Dhanteras 休假，尽管带薪休假未使用； Reddit 反应",
-      "summary_en": "",
-      "summary_zh": "“我不能使用我的 PL？”：员工声称老板拒绝 Dhanteras 休假，尽管带薪休假未使用； Reddit 反应",
+      "summary_en": "An employee claimed their boss denied a Dhanteras leave request despite unused paid leave, sparking a debate on workplace culture, employee rights and unreasonable expectations",
+      "summary_zh": "一名员工声称，尽管未使用带薪休假，但老板还是拒绝了 Dhanteras 的休假请求，引发了关于职场文化、员工权利和不合理期望的争论",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-18-2026-11-17543b200798250d20ce554c55cc395b-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2675,7 +2760,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "870ae9a9314fcd23",
@@ -2695,7 +2781,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "cf70ea3653ac06fa",
@@ -2722,10 +2809,10 @@
       "url": "https://www.news18.com/viral/iim-graduate-quits-rs-37-lpa-job-without-another-offer-says-startup-workplace-was-disastrous-internet-reacts-ws-l-10417361.html",
       "title_en": "IIM Graduate Quits Rs 37 LPA Job Without Another Offer, Says Startup Workplace Was ‘Disastrous’; Internet R",
       "title_zh": "IIM 毕业生在没有收到另一份offer的情况下辞掉了 37 卢比的 LPA 工作，称初创公司的工作场所是“灾难性的”；互联网R",
-      "summary_en": "",
-      "summary_zh": "IIM 毕业生在没有收到另一份offer的情况下辞掉了 37 卢比的 LPA 工作，称初创公司的工作场所是“灾难性的”；互联网R",
+      "summary_en": "He shared that he joined the technology startup just six months ago in an internal strategy and business operations role but decided to quit because of upper management",
+      "summary_zh": "他表示，他在六个月前加入这家科技初创公司，担任内部战略和业务运营职务，但由于高层管理人员的原因决定辞职",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2026-11-119e85c3e9ce776986b8b61ab60d9f78-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2735,7 +2822,8 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "e57ece3533b0c9c0",
@@ -2802,10 +2890,10 @@
       "url": "https://www.news18.com/viral/phuljhari-of-phishing-pib-issues-diwali-warning-against-fake-discounts-and-online-shopping-scams-ws-l-10417350.html",
       "title_en": "'Phuljhari Of Phishing': PIB Issues Diwali Warning Against Fake Discounts And Online Shopping Scams",
       "title_zh": "“Phuljhari 网络钓鱼”：PIB 发布排灯节警告，提防虚假折扣和网上购物诈骗",
-      "summary_en": "",
-      "summary_zh": "“Phuljhari 网络钓鱼”：PIB 发布排灯节警告，提防虚假折扣和网上购物诈骗",
+      "summary_en": "PIB Fact Check has cautioned shoppers against fraudulent Diwali deals and phishing links, urging them to verify websites before clicking links or making payments",
+      "summary_zh": "PIB Fact Check 已提醒购物者提防欺诈性排灯节交易和网络钓鱼链接，敦促他们在点击链接或付款之前验证网站",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-17-2026-11-7387f461b86a9aaffabc3b4b0502c84d-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -2816,7 +2904,8 @@
         "诈骗骗局",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "68d504cb21b5b2cf",
@@ -2836,7 +2925,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "70075cb411b4daee",
@@ -2876,7 +2966,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "15baa6022daa6ac9",
@@ -2956,7 +3047,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "f0122ae211b69546",
@@ -2976,7 +3068,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "aaec43946304dd09",
@@ -2996,7 +3089,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "bc74d6034dbb7871",
@@ -3017,7 +3111,8 @@
         "影视神剧",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "8b43aa1e5031de1a",
@@ -3057,7 +3152,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "8397a3034df9d3ab",
@@ -3077,7 +3173,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "4b5c6afaa06eabcb",
@@ -3098,7 +3195,8 @@
         "影视神剧",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "bf9ba877586ce7f2",
@@ -3158,7 +3256,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "dc94e22277d2df95",
@@ -3199,17 +3298,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "081e017c79b3066b",
       "url": "https://www.news18.com/viral/surat-businessman-gifts-1-lakh-diwali-bonus-to-each-of-his-20-employees-video-goes-viral-ws-l-10417291.html",
       "title_en": "Surat Businessman Gifts ₹1 Lakh Diwali Bonus To Each Of His 20 Employees, Video Goes Viral",
       "title_zh": "苏拉特商人向 20 名员工每人赠送 10 万卢比排灯节奖金，视频疯传",
-      "summary_en": "",
-      "summary_zh": "苏拉特商人向 20 名员工每人赠送 10 万卢比排灯节奖金，视频疯传",
+      "summary_en": "A Surat businessman won hearts by gifting over ₹1 lakh to each of his 20 employees as a Diwali bonus, leaving several workers emotional and social media users impressed",
+      "summary_zh": "一位苏拉特商人向他的 20 名员工每人赠送了超过 10 万卢比作为排灯节奖金，赢得了人心，这让几名员工激动不已，社交媒体用户也留下了深刻的印象",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-16-2026-11-927536505553427a7a0a37fa023874a0-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -3221,17 +3321,18 @@
         "婚俗宗教",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "d8c8304406cd2695",
       "url": "https://www.news18.com/viral/175-applications-55-interviews-zero-offers-reddit-user-shares-brutal-seven-month-job-hunt-struggle-ws-l-10417185.html",
       "title_en": "‘175 Applications, 55 Interviews, Zero Offers’: Reddit User Shares Brutal Seven-Month Job Hunt Struggle",
       "title_zh": "“175 份申请，55 份面试，零录用通知”：Reddit 用户分享残酷的 7 个月求职斗争",
-      "summary_en": "",
-      "summary_zh": "“175 份申请，55 份面试，零录用通知”：Reddit 用户分享残酷的 7 个月求职斗争",
+      "summary_en": "After seven months of job hunting, a Reddit user has applied for 175 roles, attended 55 interviews and reached 25 final rounds, but still has no offer.",
+      "summary_zh": "经过七个月的求职，一位 Reddit 用户申请了 175 个职位，参加了 55 次面试，进入了 25 轮最后一轮，但仍然没有收到录用通知。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-2026-11-07T184653.935-2026-11-86a8ba02fe3eee20b6b4aa4c4a58e216-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -3241,7 +3342,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "8aa3a90a5dc1f005",
@@ -3281,17 +3383,18 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "711197569525ea9a",
       "url": "https://www.news18.com/viral/deepinder-goyal-defends-rs-85000-temple-wearable-amid-scam-concerns-says-this-isnt-about-money-ive-enough-ws-l-10415074.html",
       "title_en": "Deepinder Goyal Defends Rs 85,000 Temple Wearable Amid ‘Scam’ Concerns, Says ‘This Isn’t About Money, I’ve",
       "title_zh": "Deepinder Goyal 在“诈骗”担忧中捍卫价值 85,000 卢比的 Temple 可穿戴设备，表示“这不是钱的问题，我已经",
-      "summary_en": "",
-      "summary_zh": "Deepinder Goyal 在“诈骗”担忧中捍卫价值 85,000 卢比的 Temple 可穿戴设备，表示“这不是钱的问题，我已经",
+      "summary_en": "Goyal maintained that he was not doing it for money and revealed that the company had invested $30 million in developing Temple, including $20 million from his personal funds",
+      "summary_zh": "戈亚尔坚称他这样做不是为了钱，并透露公司已投资 3000 万美元用于开发 Temple，其中 2000 万美元来自他的个人资金",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-7-2026-11-27d56576b5a6e35cbca15b1ba3a5cc94-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -3302,7 +3405,8 @@
         "诈骗骗局",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "37bb0ae3c3dcbfd4",
@@ -3404,17 +3508,18 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "eb63156b3e357cb9",
       "url": "https://www.news18.com/viral/fck-right-off-zomato-district-user-unsubscribes-after-ceo-rahul-ganjoos-heated-x-exchange-goes-viral-ws-l-10417265.html",
       "title_en": "'F*ck Right Off': Zomato, District User Unsubscribes After CEO Rahul Ganjoo's Heated X Exchange Goes Viral",
       "title_zh": "“F*ck Right Off”：首席执行官 Rahul Ganjoo 的热门 X Exchange 火爆后，Zomato、地区用户取消订阅",
-      "summary_en": "",
-      "summary_zh": "“F*ck Right Off”：首席执行官 Rahul Ganjoo 的热门 X Exchange 火爆后，Zomato、地区用户取消订阅",
+      "summary_en": "A man claimed he unsubscribed from Zomato and District after screenshots of CEO Rahul Ganjoo's abusive exchange on X surfaced, triggering mixed reactions online",
+      "summary_zh": "首席执行官 Rahul Ganjoo 在 X 上的辱骂性交流截图曝光后，一名男子声称他取消了 Zomato 和 District 的订阅，在网上引发了不同的反应",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-15-2026-11-eccb1a655eae67ce83f19c98585d1360-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -3424,7 +3529,8 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "fcbd7e510a8ee065",
@@ -3465,7 +3571,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "94f27645152079c3",
@@ -3485,7 +3592,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "bdcb0212763236e8",
@@ -3505,7 +3613,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "220cba8108e905b6",
@@ -3645,7 +3754,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b76fda4a16fe9634",
@@ -3967,17 +4077,18 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "2688cf8e9b82ef0e",
       "url": "https://www.news.com.au/technology/motoring/on-the-road/melbourne-hoons-hire-camera-crews-to-film-dangerous-stunts-on-major-freeways/news-story/7389a64f20972a2a780867e088e4b135",
       "title_en": "Melbourne hoons hire camera crews to film dangerous stunts on major freeways.",
       "title_zh": "墨尔本的恶棍雇佣摄制组在主要高速公路上拍摄危险的特技。",
-      "summary_en": "",
-      "summary_zh": "墨尔本的恶棍雇佣摄制组在主要高速公路上拍摄危险的特技。",
+      "summary_en": "Melbourne’s hoon culture has reached a brazen new level, with reckless drivers now hiring dedicated videographers to treat public roads like a private movie set.",
+      "summary_zh": "墨尔本的胡恩文化已经达到了一个大胆的新水平，鲁莽的司机现在雇佣专门的摄像师将公共道路当作私人电影布景。",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/3aDqbcFhf0VQ97KRUAYO0VuZpmMP5TYxEiDJTNwIETI.jpeg?width=640&crop=smart&auto=webp&s=e9f8e71a35a97ad7b0cb53c36b8bbcc75aa5b802",
+      "image": "https://content.api.news/v3/images/bin/bfbc6955860ebdc2cd5b8a27a331113f",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -3987,7 +4098,8 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a3e3a18a1a54c09f",
@@ -4027,7 +4139,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "8ef4473d481aa1d9",
@@ -4047,7 +4160,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "58be9e2e48303bc9",
@@ -4087,7 +4201,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c5dbb1ec8c035b56",
@@ -4127,7 +4242,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "7dece834fae91673",
@@ -4207,7 +4323,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "fe5d2744aa33311e",
@@ -4247,7 +4364,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "a3212e3ca689146d",
@@ -4549,7 +4667,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "2b6fee74dfc24141",
@@ -4589,7 +4708,8 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "17cebfe9d5fdf2e2",
@@ -4609,7 +4729,8 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "5deae01940efe4f5",

@@ -81,7 +81,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "d1111bcd65a7f14c",
@@ -108,10 +109,10 @@
       "url": "https://www.manchestereveningnews.co.uk/news/uk-news/merseyside-man-killed-soulmate-kept-34862920?ICID=ref_fark",
       "title_en": "Merseyside man killed woman and kept body in freezer for almost three years",
       "title_zh": "默西塞德郡男子杀害女子并将尸体放在冰箱里近三年",
-      "summary_en": "",
-      "summary_zh": "默西塞德郡男子杀害女子并将尸体放在冰箱里近三年",
+      "summary_en": "Delia McInerney was murdered in April 2023",
+      "summary_zh": "迪莉娅·麦金纳尼于 2023 年 4 月被谋杀",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article34862932.ece/ALTERNATES/s1200d/0_delia.jpg",
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
@@ -121,7 +122,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "10da823e084934a8",
@@ -221,7 +223,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "43a27c75fa32fd13",
@@ -544,7 +547,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "eca3596780547601",
@@ -604,7 +608,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "d435a32586e59878",
@@ -671,10 +676,10 @@
       "url": "https://www.ndtv.com/offbeat/diwali-2026-step-by-step-guide-to-create-festive-whatsapp-stickers-with-chatgpt-12293435",
       "title_en": "Diwali 2026: Step-By-Step Guide To Create Festive WhatsApp Stickers With ChatGPT",
       "title_zh": "2026 年排灯节：使用 ChatGPT 创建节日 WhatsApp 贴纸的分步指南",
-      "summary_en": "",
-      "summary_zh": "2026 年排灯节：使用 ChatGPT 创建节日 WhatsApp 贴纸的分步指南",
+      "summary_en": "You simply need to upload a photograph, enter a suitable prompt and let the AI tool generate different sticker designs.",
+      "summary_zh": "您只需上传照片，输入合适的提示，然后让人工智能工具生成不同的贴纸设计。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/k3lmut4_diwali-whatsapp-stickers-_625x300_06_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -684,7 +689,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "dd1e9812a8663f3f",
@@ -926,7 +932,8 @@
         "犯罪法律",
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "67f04a1c018b0afb",
@@ -1066,7 +1073,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "1d4ebee72db6ceba",
@@ -1094,10 +1102,10 @@
       "url": "https://www.ndtv.com/offbeat/pilot-spends-8-hours-drawing-gta-6-mural-in-sky-video-viral-12292725",
       "title_en": "Pilot Spends 8 Hours Drawing GTA 6 Mural In Sky, Video Viral",
       "title_zh": "飞行员花费 8 小时在天空绘制 GTA 6 壁画，视频疯传",
-      "summary_en": "",
-      "summary_zh": "飞行员花费 8 小时在天空绘制 GTA 6 壁画，视频疯传",
+      "summary_en": "Pilot Benjamin McDaniel, known by his online moniker, 'ThePilotPicasso,' drew a GTA VI mural in the sky during an eight-hour flight.",
+      "summary_zh": "飞行员本杰明·麦克丹尼尔（Benjamin McDaniel）（网上昵称“ThePilotPicasso”）在八小时的飞行中在天空中绘制了一幅 GTA VI 壁画。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/naj1prsg_as_625x300_06_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1107,7 +1115,8 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "428fcae41d42c44a",
@@ -1194,10 +1203,10 @@
       "url": "https://www.ndtv.com/offbeat/sarvam-ai-ceo-gifts-lifetime-access-of-its-model-to-cancer-survivor-wins-praise-12292529",
       "title_en": "Sarvam AI CEO Gifts Lifetime Access Of Its Model To Cancer Survivor, Wins Praise",
       "title_zh": "Sarvam AI 首席执行官向癌症幸存者赠送其模型的终身使用权，赢得赞誉",
-      "summary_en": "",
-      "summary_zh": "Sarvam AI 首席执行官向癌症幸存者赠送其模型的终身使用权，赢得赞誉",
+      "summary_en": "Sarvam AI founder gifts lifetime AI access to an oral cancer survivor for text-to-speech communication.",
+      "summary_zh": "Sarvam AI 创始人向口腔癌幸存者授予终生人工智能访问权限，以进行文本到语音通信。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/op8gp6rg_sarvam-ai_625x300_06_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1207,7 +1216,8 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a7fe0666467a2eb7",
@@ -1314,10 +1324,10 @@
       "url": "https://www.ndtv.com/offbeat/us-envoy-sergio-gor-shares-glimpse-of-diwali-celebrations-at-embassy-in-new-delhi-12292389",
       "title_en": "US Envoy Sergio Gor Shares Glimpse Of Diwali Celebrations At Embassy In New Delhi",
       "title_zh": "美国特使塞尔吉奥·戈尔在新德里大使馆分享排灯节庆祝活动的一瞥",
-      "summary_en": "",
-      "summary_zh": "美国特使塞尔吉奥·戈尔在新德里大使馆分享排灯节庆祝活动的一瞥",
+      "summary_en": "He also wished everyone celebrating the festival a very Happy Diwali, extending his greetings to all those observing the occasion.",
+      "summary_zh": "他还祝愿所有庆祝这一节日的人们排灯节快乐，并向所有庆祝这一节日的人们致以问候。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/0niookc4_us-envoy-segio-gor-_625x300_06_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1327,7 +1337,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "a231bf4bb49bdf2b",
@@ -1509,7 +1520,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "d9887d9f231e296a",
@@ -1810,7 +1822,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c9945009d6fc43fe",
@@ -1830,7 +1843,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "784527dcb624dc20",
@@ -1897,10 +1911,10 @@
       "url": "https://www.ndtv.com/offbeat/i-have-been-a-good-parent-viral-tweet-comparing-delhis-aqi-with-helsinkis-strikes-a-chord-12291713",
       "title_en": "\"I Have Been A Good Parent\": Viral Tweet Comparing Delhi's AQI With Helsinki's Strikes A Chord",
       "title_zh": "“我一直是一个好父母”：比较德里和赫尔辛基 AQI 的病毒式推文引起共鸣",
-      "summary_en": "",
-      "summary_zh": "“我一直是一个好父母”：比较德里和赫尔辛基 AQI 的病毒式推文引起共鸣",
+      "summary_en": "On Friday, the air quality in Delhi deteriorated sharply and edged closer to the 'severe' category, with the overall Air Quality Index (AQI) settling at 391.",
+      "summary_zh": "周五，德里的空气质量急剧恶化，接近“严重”类别，整体空气质量指数（AQI）为391。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/ng6lol6c_delhi-pollution_625x300_03_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -1910,7 +1924,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "9d0ba322e5c0737b",
@@ -2251,7 +2266,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "52ddda0bb2b4b3be",
@@ -2298,10 +2314,10 @@
       "url": "https://www.ndtv.com/offbeat/man-stopped-from-watching-film-in-meta-glasses-argues-with-security-guard-12290762",
       "title_en": "Man Stopped From Watching Film In Meta Glasses, Argues With Security Guard",
       "title_zh": "男子停止戴超眼镜看电影，与保安发生争执",
-      "summary_en": "",
-      "summary_zh": "男子停止戴超眼镜看电影，与保安发生争执",
+      "summary_en": "The video shared on X has gone viral, sparking a debate on social media about recording, privacy and smart glasses in theatres.",
+      "summary_zh": "X 上分享的视频迅速走红，引发了社交媒体上关于影院录音、隐私和智能眼镜的争论。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/80v4jspg_man-stopped-from-watching-film-in-meta-glasses-argues-with-security-guard_625x300_06_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -2311,7 +2327,8 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "5d408819f209e262",
@@ -2391,7 +2408,8 @@
       "tags": [
         "诈骗骗局"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "310c8b30041a6c01",
@@ -2491,7 +2509,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "d64fc1e773c088b8",
@@ -2871,7 +2890,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "75dc94319603832f",
@@ -2911,7 +2931,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "be87f9ac52911020",
@@ -2931,7 +2952,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "a05c323efa15356b",
@@ -2971,7 +2993,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "ec48abeecbdc8a72",
@@ -3032,7 +3055,8 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b3817539d3248b7c",
@@ -3221,10 +3245,10 @@
       "url": "https://www.ndtv.com/offbeat/female-hawk-diagnosed-too-fat-to-fly-after-overeating-chickens-and-constantly-sleeping-12289687",
       "title_en": "Female Hawk Diagnosed 'Too Fat' To Fly After Overeating Chickens And Constantly Sleeping",
       "title_zh": "雌鹰因吃鸡过量且不断睡觉而被诊断“太胖”而无法飞翔",
-      "summary_en": "",
-      "summary_zh": "雌鹰因吃鸡过量且不断睡觉而被诊断“太胖”而无法飞翔",
+      "summary_en": "A red-shouldered hawk was found unable to fly after overeating chickens near a Virginia wildlife center.",
+      "summary_zh": "弗吉尼亚野生动物中心附近发现一只红肩鹰在吃了过多的鸡后无法飞翔。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://c.ndtvimg.com/2026-11/u3tf7qsg_as_625x300_05_November_26.jpeg",
       "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
@@ -3232,9 +3256,10 @@
       "published_at": "2026-11-06T01:39:51+08:00",
       "fetched_at": "2026-11-08T21:08:25+08:00",
       "tags": [
-        "其他"
+        "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "06088eae2d1dddb2",
@@ -3474,7 +3499,8 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3567a8d0e9f513dd",

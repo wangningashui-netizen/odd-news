@@ -28,10 +28,10 @@
       "url": "https://www.news18.com/viral/is-that-an-iphone-1937-painting-leaves-internet-puzzled-over-mans-mysterious-object-ws-l-10321417.html",
       "title_en": "Is That An iPhone? 1937 Painting Leaves Internet Puzzled Over Man’s Mysterious Object",
       "title_zh": "那是 iPhone 吗？ 1937 年的绘画让互联网对人类的神秘物体感到困惑",
-      "summary_en": "",
-      "summary_zh": "那是 iPhone 吗？ 1937 年的绘画让互联网对人类的神秘物体感到困惑",
+      "summary_en": "A 1937 painting has sparked a strange online debate after viewers spotted a man holding a small rectangular object that looks surprisingly like a modern smartphone.",
+      "summary_zh": "一幅 1937 年的画作在网上引发了一场奇怪的争论，因为观众发现一名男子拿着一个长方形的小物体，看起来惊人地像一部现代智能手机。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2026-09-10T163826.970-2026-09-6418427b29176a79b697cd956f2285a2-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -41,7 +41,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "1f4fa07a070d2cbb",

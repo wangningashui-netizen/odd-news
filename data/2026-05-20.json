@@ -8,10 +8,10 @@
       "url": "https://www.news18.com/viral/melody-hai-chocolatey-the-story-behind-indias-most-iconic-toffee-ad-ws-l-10102313.html",
       "title_en": "‘Melody Hai Chocolatey’: The Story Behind India’s Most Iconic Toffee Ad",
       "title_zh": "“Melody Hai Chocolatey”：印度最具标志性的太妃糖广告背后的故事",
-      "summary_en": "",
-      "summary_zh": "“Melody Hai Chocolatey”：印度最具标志性的太妃糖广告背后的故事",
+      "summary_en": "Long before social media trends and fancy chocolates, one caramel toffee became a childhood favourite across India with a simple question and an unforgettable answer.",
+      "summary_zh": "早在社交媒体流行和精美巧克力出现之前，一种焦糖太妃糖就凭借一个简单的问题和令人难忘的答案而成为全印度儿童的最爱。",
       "translation_status": "fallback",
-      "image": null,
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5843402_untitleddesign53_1-1200x675.png",
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
@@ -21,7 +21,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     }
   ]
 }

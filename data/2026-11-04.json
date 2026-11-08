@@ -41,7 +41,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "fb06502b7ef6d85c",
@@ -101,7 +102,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "fa654fd26f063957",
@@ -148,10 +150,10 @@
       "url": "https://finance.biggo.com/news/5d8e0404-8125-4d48-b76a-9897f3da2a93",
       "title_en": "OpenAI CEO Altman Renames X Profile to 'Ram Altman' After Memory Remarks Spark Backlash — BigGo Finance",
       "title_zh": "OpenAI 首席执行官 Altman 在记忆言论引发强烈反对后将 X Profile 重命名为“Ram Altman” — BigGo Finance",
-      "summary_en": "",
-      "summary_zh": "OpenAI 首席执行官 Altman 在记忆言论引发强烈反对后将 X Profile 重命名为“Ram Altman” — BigGo Finance",
+      "summary_en": "OpenAI CEO Sam Altman has changed his display name on X to \"Ram Altman.\" The move follows controversy over remarks he made on the October 29 talk show…",
+      "summary_zh": "OpenAI 首席执行官 Sam Altman 已将 X 上的显示名称更改为“Ram Altman”。此前，他在 10 月 29 日的脱口秀节目中发表的言论引发了争议……",
       "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/hSYrp4T85l39vDwbo643vKhfEofImsNzUUkAiBsqcms.jpeg?width=640&crop=smart&auto=webp&s=c43bb539f7f1e4056be1c3a720bdb574b4288057",
+      "image": "https://img.biggo.com/nqRSLJOEDH19fuR_cH4IMvBkpBVtQog5stNLuYoKz1s/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzVkOGUwNDA0LTgxMjUtNGQ0OC1iNzZhLTk4OTdmM2RhMmE5M18xNzkzNzgxMTcyX2RlZmF1bHQuanBn.jpg",
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
@@ -161,7 +163,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "20a0e34db59c4a05",
@@ -201,7 +204,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_fetched": true
     },
     {
       "id": "9fdf1252ebee2cfc",
@@ -382,7 +386,8 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "6c49f71d23f1e59d",
@@ -582,7 +587,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "b4f927f38fc7d55e",
@@ -723,7 +729,8 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "3937724e1164163f",
@@ -743,7 +750,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "48e2e7de49a3cde1",
@@ -803,7 +811,8 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "efd55e6302bc54a2",
@@ -923,7 +932,8 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "990af2847a8605d6",
@@ -1069,10 +1079,10 @@
       "id": "cd10da6705ab59eb",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmyan9/india_set_to_become_worlds_largest_economy_by/",
       "title_en": "India set to become world's largest economy by 2100: says eminent American economist Jeffrey Sachs at a recent event, says India and China must cooperate as \"the next Asian powers\"",
-      "title_zh": null,
+      "title_zh": "印度将在 2100 年成为世界最大经济体：著名美国经济学家杰弗里·萨克斯 (Jeffrey Sachs) 在最近的一次活动中表示，印度和中国必须作为“下一个亚洲强国”进行合作",
       "summary_en": "Source link: https://m.economictimes.com/news/short-videos/india-to-become-worlds-largest-economy-china-must-not-fear-india-jeffrey-sachs/amp\\_videoshow/135481340.cms [link] [comments]",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "来源链接：https://m.economictimes.com/news/short-videos/india-to-become-worlds-largest-economy-china-must-not-fear-india-jeffrey-sachs/amp\\_videoshow/135481340.cms [链接] [评论]",
+      "translation_status": "fallback",
       "image": "https://external-preview.redd.it/c3R1bWUzajJoZnpoMV_7xrxsMwqOPPn_pcmk80eYw1sj8t6Ej-TjYBt-FGm4.png?width=320&crop=smart&auto=webp&s=dc6cf7865f5e0d694a8f37cad3e82cd5dc0e19cc",
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
@@ -1089,10 +1099,10 @@
       "id": "040224c443361c8a",
       "url": "https://www.reuters.com/business/media-telecom/indias-vast-internet-social-media-apps-market-2026-01-29/",
       "title_en": "Why doesn’t India have its own social media platform?",
-      "title_zh": null,
+      "title_zh": "为什么印度没有自己的社交媒体平台？",
       "summary_en": "",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "为什么印度没有自己的社交媒体平台？",
+      "translation_status": "fallback",
       "image": null,
       "image_checked": true,
       "source": "Reddit r/IndiaSpeaks",
@@ -1103,7 +1113,8 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "page_attempts": 2
     },
     {
       "id": "c01ffb8c911cb28d",
