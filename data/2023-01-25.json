@@ -1,0 +1,27 @@
+{
+  "date": "2023-01-25",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "235f3e1ebb85ed33",
+      "url": "https://www.news18.com/buzz/microsoft-teams-down-memes-take-over-as-office-employees-celebrate-break-6913849.html",
+      "title_en": "Microsoft Teams Down Memes Take Over As Office Employees 'Celebrate' Break",
+      "title_zh": "办公室员工“庆祝”休息，微软团队打乱表情包",
+      "summary_en": "",
+      "summary_zh": "办公室员工“庆祝”休息，微软团队打乱表情包",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-25T16:49:08+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

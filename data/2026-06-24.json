@@ -17,7 +17,11 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-06-24T17:10:27+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

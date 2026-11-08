@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-20",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "dc90537e4f25fd09",
+      "url": "https://www.news18.com/viral/melody-hai-chocolatey-the-story-behind-indias-most-iconic-toffee-ad-ws-l-10102313.html",
+      "title_en": "‘Melody Hai Chocolatey’: The Story Behind India’s Most Iconic Toffee Ad",
+      "title_zh": "“Melody Hai Chocolatey”：印度最具标志性的太妃糖广告背后的故事",
+      "summary_en": "",
+      "summary_zh": "“Melody Hai Chocolatey”：印度最具标志性的太妃糖广告背后的故事",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-05-20T21:33:05+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

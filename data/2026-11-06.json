@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "count": 86,
+  "count": 174,
   "items": [
     {
       "id": "845296458de0292b",
@@ -17,7 +17,31 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-06T23:59:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "72a66f446ae70b61",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/understanding-the-family-dispute-within-the-tvs-group-video-156475819",
+      "title_en": "Abhishek Manu Singhvi Exclusive: Congress Leader's Reaction On TVS Family Feud | Watch",
+      "title_zh": "阿布舍克·马努·辛格维 (Abhishek Manu Singhvi) 独家报道：国会领袖对 TVS 家族不和的反应手表",
+      "summary_en": "A bitter family and business dispute has engulfed the TVS Group, one of India's leading corporate houses. In an exclusive conversation with Times Now's Zakka Jacob, senior Congress leader and eminent jurist Abhishek Manu Singhvi, counsel for patriarch Venu Srinivasan, explains the dispute involving Venu, his son Sudarshan, wife Mallika and daughter Lakshmi. #timesnow #englishnews #tvsgroup #tvsfamilydispute #venusrinivasan #abhishekmansinghvi #tvs motors #tafe #corporatedispute #zakajacob, Shows, Times Now",
+      "summary_zh": "一场激烈的家庭和商业纠纷席卷了印度领先企业之一的 TVS 集团。在与 Times Now 的 Zakka Jacob 的独家对话中，国大党高级领导人、著名法学家 Abhishek Manu Singhvi、族长 Venu Srinivasan 的律师解释了涉及 Venu、他的儿子 Sudarshan、妻子 Mallika 和女儿 Lakshmi 的纠纷。 #timesnow #englishnews #tvsgroup #tvsfamilydispute #venusrinivasan #abhishekmansinghvi #tvs motor #tafe #corporatedispu",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475819,thumbsize-1466210,width-1280,height-720,resizemode-75/156475819.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T23:56:49+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "24b208af281f9a27",
@@ -33,7 +57,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-06T23:55:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "诈骗骗局"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f2b10cffc158794a",
@@ -49,7 +77,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T23:54:25+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d1111bcd65a7f14c",
+      "url": "https://www.republicworld.com/world-news/confident-of-parliamentary-majority-eisenkot-outlines-four-point-plan-to-form-national-emergency-government-2026-11-06-140569",
+      "title_en": "Confident of Parliamentary Majority, Eisenkot Outlines Four-Point Plan to Form National Emergency Government",
+      "title_zh": "艾森科特对议会多数充满信心，概述了组建国家紧急政府的四点计划",
+      "summary_en": "Gadi Eisenkot claims 67 Knesset endorsements and expects the mandate to form Israel&#39;s next government. He has proposed a four-point national emergency plan.",
+      "summary_zh": "加迪·艾森科特 (Gadi Eisenkot) 获得 67 名以色列议会的支持，并期望获得授权组建以色列下一届政府。他提出了四点国家紧急计划。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/10/israel-election-exit-polls-show-netanyahu-and-opposition-short-of-majority-arab-parties-hold-key-1793152735271-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T23:54:09+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "db06036ed54c5f25",
@@ -65,7 +117,111 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-06T23:50:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "10da823e084934a8",
+      "url": "https://indianexpress.com/article/world/uk-arrests-indian-captain-ajay-pant-russian-oil-sanctions-smyrtos-10843338/",
+      "title_en": "Indian captain arrested in UK over Russian oil: Wife calls him ‘scapegoat’",
+      "title_zh": "印度船长因俄罗斯石油在英国被捕：妻子称他为“替罪羊”",
+      "summary_en": "Ajay Pant was arrested after British forces intercepted his oil tanker in the English Channel.",
+      "summary_zh": "英国军队在英吉利海峡拦截阿贾伊·潘特的油轮后被捕。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/08/pant-ajay.jpg",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T23:18:21+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "45f5dfb985605e5f",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/cristiano-ronaldo-announces-retirement-from-international-football-amid-controversy-video-156475703",
+      "title_en": "Ronaldo's Portugal Farewell: 146 Goals, 23 Years & Bitter Rift With Coach Jorge Jesus: Decoding Now",
+      "title_zh": "C罗的葡萄牙告别：146个进球，23年以及与教练豪尔赫·热苏斯的痛苦裂痕：现在解码",
+      "summary_en": "Cristiano Ronaldo has finally drawn the curtains on his 23-year international career, leaving behind an extraordinary legacy of 146 goals and 234 appearances for Portugal. But the legendary No. 7's farewell comes amid a bitter fallout with head coach Jorge Jesus. From being benched against Norway to walking out of Portugal's training camp, what really happened between CR7 and his former Al Nassr coach?",
+      "summary_zh": "C罗终于结束了他23年的国家队生涯，为葡萄牙队留下了146个进球和234场比赛的非凡遗产。但这位传奇七号球员的告别是在与主教练豪尔赫·热苏斯的激烈争吵中发生的。从对阵挪威的比赛中被坐在替补席到走出葡萄牙的训练营，CR7和他的前阿尔纳斯尔教练之间究竟发生了什么？",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475703,thumbsize-790785,width-1280,height-720,resizemode-75/156475703.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T23:13:20+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "11c5af5bfb4c9a51",
+      "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/delhi-faces-severe-air-pollution-crisis-political-blame-game-escalates-video-156475690",
+      "title_en": "Delhi Chokes As AQI Soars Past 400; BJP-AAP Trade Blame As SC Demands Real Solutions | NWTK",
+      "title_zh": "AQI 飙升至 400 以上，德里陷入窒息； BJP-AAP 贸易指责，SC 需要真正的解决方案国家水务局",
+      "summary_en": "Delhi is gasping as air pollution pushes the AQI beyond 400 at several monitoring stations, prompting GRAP 3 restrictions across the national capital and NCR. During a Supreme Court hearing, the Chief Justice questioned the effectiveness of stricter restrictions and flagged vehicular emissions as a major contributor. Meanwhile, the BJP has blamed stubble burning in Punjab, while the AAP has accused the BJP of manipulating AQI data. As political parties trade charges, environmentalists warn that Delhi needs…",
+      "summary_zh": "空气污染导致多个监测站的 AQI 超过 400，导致首都和国家首都辖区实施 GRAP 3 限制，德里正气喘吁吁。在最高法院的听证会上，首席大法官质疑更严格限制的有效性，并指出车辆排放是一个主要因素。与此同时，印度人民党指责旁遮普邦焚烧秸秆的行为，而澳大利亚AP则指责印度人民党操纵空气质量指数数据。随着政党交易费用，环境",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475690,thumbsize-842371,width-1280,height-720,resizemode-75/156475690.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T23:10:10+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "cec2fc95ac667e16",
+      "url": "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations",
+      "title_en": "‘Every day, someone loses a hand or a leg’: the brutal reality of India’s textile recycling industry",
+      "title_zh": "“每天都有人失去一只手或一条腿”：印度纺织品回收行业的残酷现实",
+      "summary_en": "In Panipat, 1m tons of used clothing a year are turned into products for global brands, but dangerous machinery and few safeguards mean life-changing injuries are common",
+      "summary_zh": "在帕尼帕特，每年有 100 万吨旧衣服被转化为全球品牌的产品，但危险的机械和缺乏保障措施意味着改变生活的伤害很常见",
+      "translation_status": "fallback",
+      "image": "https://i.guim.co.uk/img/media/d05cb680ba8b32eab783ac3ebbb35c6ac8ad27ba/0_0_2918_2335/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=817db64ad886bfb581491d693251deee",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T23:08:57+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a592dcf7f6390164",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xpf175/तमस_म_जयतरगमय_this_diwali_can_we_look_at_the/",
+      "title_en": "तमसो मा ज्योतिर्गमय. This Diwali, can we look at the darkness we usually avoid?",
+      "title_zh": "तमसोमाज्योतिर्गमय。这个排灯节，我们能看看平时回避的黑暗吗？",
+      "summary_en": "Diwali is just two days away. I don’t know about you, but I wait for it all year round. So much fun and frolic! At my home, preparations have begun, and I am sure you all must be in it too… cleaning the house, shopping, sweets, gifts, getting the diyas ready.",
+      "summary_zh": "距离排灯节只有两天了。我不了解你，但我一年四季都在等待。非常有趣和嬉戏！在我家里，准备工作已经开始，我相信你们也一定也在其中......打扫房子，购物，糖果，礼物，准备好迪亚斯。",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T23:05:14+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "43a27c75fa32fd13",
@@ -81,7 +237,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-06T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "fe10af2419c41dbf",
@@ -97,7 +257,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T22:59:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a20798f3d6b0b4d5",
@@ -113,7 +277,92 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T22:54:34+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f8087684dfa06874",
+      "url": "https://www.republicworld.com/viral/kolkata-youth-blindfolded-doused-with-petrol-and-set-ablaze-over-social-media-reel-3-arrested-2-minors-held-2026-11-06-140568",
+      "title_en": "Kolkata Youth Blindfolded, Doused With Petrol And Set Ablaze Over Social Media Reel; 3 Arrested",
+      "title_zh": "加尔各答青年在社交媒体上被蒙住眼睛、浇上汽油并纵火焚烧； 3 被捕",
+      "summary_en": "An 18-year-old Kolkata youth was allegedly set ablaze after being blindfolded and assaulted. Police arrested three adults and apprehended two minors.",
+      "summary_zh": "据称，加尔各答一名 18 岁青年在被蒙住眼睛并遭到袭击后被纵火。警方逮捕了三名成年人并逮捕了两名未成年人。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/kolkata-youth-blindfolded-set-ablaze-over-social-media-reel-3-arrested-1793976788992-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:53:14+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4e86c7154db8cff5",
+      "url": "https://www.timesnownews.com/videos/times-now/blue-print/family-of-hit-and-run-victim-seeks-justice-as-accused-remains-free-video-156475515",
+      "title_en": "Kochi Hit-And-Run Horror: Judge's Son Gets Bail, Victim's Kin Cry Foul, Vows Supreme Court Fight",
+      "title_zh": "高知肇事逃逸恐怖案：法官之子获得保释，受害者亲属哭诉犯规，誓言向最高法院抗争",
+      "summary_en": "Twelve days after the Kochi hit-and-run tragedy, the accused judge's son and his father have secured bail, triggering fresh anguish for the victims' families. The family alleges that the accused are being shielded and vows to challenge the decision in the Supreme Court. Kerala Home Minister has assured support to the grieving family. As questions mount over accountability and justice, can the system answer their desperate call?",
+      "summary_zh": "高知肇事逃逸悲剧发生十二天后，被告法官的儿子和他的父亲获得了保释，这给受害者家属带来了新的痛苦。家人声称被告受到保护，并发誓要向最高法院的裁决提出质疑。喀拉拉邦内政部长已保证为悲伤的家庭提供支持。随着问责制和正义问题越来越多，该系统能否回应他们绝望的呼声？",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475515,thumbsize-1014864,width-1280,height-720,resizemode-75/156475515.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:35:39+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "犯罪法律",
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a80bcf289f8fa845",
+      "url": "https://www.timesnownews.com/world/middle-east/trump-calls-qatars-emir-amid-fears-of-renewed-us-iran-war-discusses-de-escalation-article-156475442",
+      "title_en": "Trump Calls Qatar's Emir Amid Fears Of Renewed US-Iran War, Discusses De-Escalation",
+      "title_zh": "特朗普因担心美伊战争重燃而致电卡塔尔埃米尔，讨论缓和局势",
+      "summary_en": "Donald Trump spoke with Qatar's Emir Sheikh Tamim bin Hamad Al-Thani on diplomatic efforts to de-escalate Middle East tensions and prevent renewed conflict with Iran., Middle East, Times Now",
+      "summary_zh": "唐纳德·特朗普与卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼就缓和中东紧张局势并防止与伊朗再次发生冲突的外交努力进行了交谈。, 中东, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475501,thumbsize-1505073,width-1280,height-720,resizemode-75/156475501.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:33:14+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f10ce3b55cdc2dc2",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/political-tensions-rise-as-digvijay-singh-targets-hindutva-ahead-of-diwali-video-156475493",
+      "title_en": "Hindutva Row, Delhi's Chokes, Rahul's Strategy Meet: Political Storm Intensifies | Breaking Ground",
+      "title_zh": "印度教街、德里的窒息、拉胡尔的战略会议：政治风暴加剧 |破土动工",
+      "summary_en": "Congress leader Digvijay Singh doubles down on his Hindutva remarks, triggering a fresh BJP-Congress confrontation. Meanwhile, the Supreme Court flags Delhi's worsening pollution, highlighting stubble burning and vehicular emissions. Jharkhand Minister Irfan Ansari's controversial remarks intensify the political showdown, while Rahul Gandhi convenes a high-tea strategy meeting with party leaders. Watch Breaking Ground with Swati Joshi for more stories from across the nation.",
+      "summary_zh": "国大党领袖迪格维贾伊·辛格（Digvijay Singh）强化了印度教主义言论，引发了印度人民党与国大党的新对抗。与此同时，最高法院指出德里日益恶化的污染，强调焚烧秸秆和车辆排放。贾坎德邦部长伊尔凡·安萨里的争议性言论加剧了政治摊牌，而拉胡尔·甘地则与政党领导人召开了下午茶战略会议。观看《与斯瓦蒂·乔希一起破土动工》，了解全国各地的更多故事。",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475493,thumbsize-652438,width-1280,height-720,resizemode-75/156475493.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:27:31+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b1aac65977605bbb",
@@ -129,7 +378,52 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-11-06T22:24:13+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "182d3a1ba5b1d2ad",
+      "url": "https://www.republicworld.com/world-news/india-born-saba-haider-wins-illinois-house-seat-becomes-first-south-asian-woman-in-state-s-general-assembly-2026-11-06-140566",
+      "title_en": "India-Born Saba Haider Wins Illinois House Seat, Becomes First South Asian Woman in State's General Assembly",
+      "title_zh": "印度出生的萨巴·海德尔赢得伊利诺伊州众议院席位，成为州议会第一位南亚女性",
+      "summary_en": "Haider secured a decisive victory with 21,996 votes, accounting for 71.19 per cent of the total votes polled, defeating Republican candidate Brian Scopa, who received 8,902 votes (28.81 per cent), NBC reported.",
+      "summary_zh": "据NBC报道，海德尔以21,996票取得决定性胜利，占总票数的71.19%，击败了获得8,902票（28.81%）的共和党候选人布莱恩·斯科帕（Brian Scopa）。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/india-born-saba-haider-wins-illinois-house-seat-becomes-first-south-asian-woman-in-state-s-general-assembly-1793974786459-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:19:52+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ba06e9adc5d5c83f",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xpdv8w/an_elephant_calf_named_maya_is_being_taken_to/",
+      "title_en": "An elephant calf named Maya is being taken to Gujarat for specialised treatment",
+      "title_zh": "一头名叫玛雅的小象被送往古吉拉特邦接受专门治疗",
+      "summary_en": "Maya is just 18 months old. She was found abandoned as a newborn in Kerala and hand raised by caregivers. A fall in July left her unable to stand, and her condition is now critical. She's being airlifted to Vantara in Jamnagar with life support equipment and continuous medical monitoring.",
+      "summary_zh": "玛雅只有 18 个月大。她在喀拉拉邦刚出生时就被发现被遗弃，并由护理人员用手抚养。 7月份的一次跌倒导致她无法站立，目前情况危急。她将被空运到贾姆讷格尔的万塔拉，并配备生命支持设备和持续的医疗监护。",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/qk2wuome300i1.jpeg?width=640&crop=smart&auto=webp&s=6eeda3e9209f52bd5799f3eb830bbe6faf8f9264",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T22:15:56+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "动物",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ad800349d792f184",
@@ -145,7 +439,11 @@
       "source_id": "ht-trending",
       "region": "印度",
       "published_at": "2026-11-06T22:13:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "501762aae6e1b2aa",
@@ -161,7 +459,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T22:03:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f9a72e332afbbf78",
+      "url": "https://www.republicworld.com/world-news/yemen-market-airstrikes-kill-at-least-20-injure-15-houthis-blame-saudi-led-coalition-amid-conflicting-claims-2026-11-06-140565",
+      "title_en": "Yemen Market Airstrikes Kill At Least 20, Injure 15; Houthis Blame Saudi-Led Coalition Amid Conflicting Claims",
+      "title_zh": "也门市场空袭造成至少 20 人死亡、15 人受伤；胡塞武装指责沙特领导的联盟在相互矛盾的主张中",
+      "summary_en": "At least 20 people were killed and 15 injured in airstrikes on a market in Yemen&#39;s Taiz province, according to Houthi officials. The Houthis blamed the Saudi-led coalition, while local authorities accused the rebels and denied that airstrikes had taken place.",
+      "summary_zh": "据胡塞武装官员称，也门塔伊兹省一个市场遭到空袭，造成至少 20 人死亡、15 人受伤。胡塞武装指责沙特领导的联军，而地方当局则指责叛军，并否认发生了空袭。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-20-houthis-1793973713620-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:01:58+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1542eda148a4938e",
@@ -177,7 +499,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T22:00:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "508707fe0d753461",
@@ -193,7 +520,31 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-06T22:00:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2b93c3c358feec22",
+      "url": "https://youtu.be/x4yPETH6D6k?si=1KA1UklhfC7gcXM0",
+      "title_en": "Why Did Indians Send $20 Billion Abroad In Just 8 Months? RBI Is Worried | Indian Express Special",
+      "title_zh": "为什么印度人在短短8个月内向国外汇款200亿美元？印度储备银行感到担忧|印度快递特惠",
+      "summary_en": "",
+      "summary_zh": "为什么印度人在短短8个月内向国外汇款200亿美元？印度储备银行感到担忧|印度快递特惠",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/-lNy1scqZ-Ul-vCJjJibbFRmoHNxzVCT5zn4qcpNVI8.jpeg?width=320&crop=smart&auto=webp&s=aeb2ea7bc9708ff2e89243011fb051671e4c1fa9",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T21:59:32+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "eca3596780547601",
@@ -209,7 +560,111 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T21:54:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2983b5c2e7917f54",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xpd9ro/e30_petrol_being_sold_as_e20_karnataka_govt/",
+      "title_en": "E30 Petrol Being Sold As E20: Karnataka Govt Releases Test Data",
+      "title_zh": "E30 汽油以 E20 名义出售：卡纳塔克邦政府发布测试数据",
+      "summary_en": "Source: - https://www.cartoq.com/car-news/karnataka-ethanol-blending-test-results/ - https://m.economictimes.com/news/new-updates/e30-petrol-being-sold-as-e20-karnataka-minister-claims-oil-companies-are-supplying-petrol-exceeding-the-20-ethanol-limit/amp\\_articleshow/135603284.cms [link] [comments]",
+      "summary_zh": "资料来源： - https://www.cartoq.com/car-news/karnataka-ethanol-blending-test-results/ - https://m.economictimes.com/news/new-updates/e30-petrol-being-sold-as-e20-karnataka-minister-claims-oil-companies-are-supplying-petrol-exceeding-the-20-ethanol-limit/amp\\_articleshow/135603284.cms [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/wk6bm54tyzzh1.png?width=640&crop=smart&auto=webp&s=92f07b79dcdb8554027556bef07236dc6a3b589c",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T21:50:11+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "89dfb4d729e95dc1",
+      "url": "https://www.youtube.com/watch?v=P4V6E2mTZzQ",
+      "title_en": "Inside India's Fake Coin Factory: How A Gang Allegedly Made ₹70 Crore In Fake ₹20 Coins",
+      "title_zh": "印度假币工厂内部：据称一伙人如何用 20 卢比的假硬币制造了 7 亿卢比的钱",
+      "summary_en": "",
+      "summary_zh": "印度假币工厂内部：据称一伙人如何用 20 卢比的假硬币制造了 7 亿卢比的钱",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/__eI8IDPcv0Q0ZAg6F-o_N2PgVviXckIbTxyf12kfFw.jpeg?width=320&crop=smart&auto=webp&s=adf7562b91cc45ce4851dfba3917bb99781e8070",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T21:44:18+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d435a32586e59878",
+      "url": "https://www.timesnownews.com/health/can-air-pollution-make-you-anxious-depressed-article-156475294",
+      "title_en": "Delhi Smog Vs Brain Fog: Can Air Pollution Make You Anxious & Depressed?",
+      "title_zh": "德里烟雾与脑雾：空气污染会让你焦虑和抑郁吗？",
+      "summary_en": "Delhi's worsening air pollution may be affecting more than respiratory health. Prolonged smog exposure could influence brain function, concentration and emotional well-being, raising concerns about anxiety and depression. Here's all you need to know., Health, Times Now",
+      "summary_zh": "德里日益恶化的空气污染可能不仅仅影响呼吸系统健康。长期接触烟雾可能会影响大脑功能、注意力和情绪健康，引发人们对焦虑和抑郁的担忧。这是你需要知道的一切。, 健康, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475351,thumbsize-1741849,width-1280,height-720,resizemode-75/156475351.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T21:44:01+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "aeeed40b0bd2597c",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xpcx3x/swami_vivekananda_on_hindu_regeneration_and/",
+      "title_en": "Swami Vivekananda on Hindu Regeneration and National Awakening",
+      "title_zh": "斯瓦米·维韦卡南达谈印度教复兴和民族觉醒",
+      "summary_en": "Hey everyone, what I'm sharing below are writings and excerpts from Swami Vivekananda’s speeches and teachings, compiled by historian R.C. Majumdar. I came across them in Swapan Dasgupta’s book Awakening Bharat Mata. Swamiji’s National Ideal: Influence on Arabinda, Rabindra and Gandhi It is not difficult to understand why Swamiji, who always dreamt of the rise of a puissant Indian nation and looked upon the uplift of the masses as sine qua non for the purpose, should have put the whole emphasis of his position and…",
+      "summary_zh": "大家好，下面我分享的是历史学家 R.C. 整理的斯瓦米·维韦卡南达 (Swami Vivekananda) 演讲和教义的著作和摘录。马琼达尔。我在斯瓦潘·达斯古普塔 (Swapan Dasgupta) 的书《觉醒巴拉特·玛塔》(Awakening Bharat Mata) 中看到了它们。斯瓦米吉的国家理想：对阿拉宾达、拉宾德拉和甘地的影响 不难理解，为什么斯瓦米吉一直梦想着一个强大的印度民族的崛起，并将人民群众的进步视为实现这一目标的必要条件。",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/kr4zao3xvzzh1.jpeg?width=640&crop=smart&auto=webp&s=794cb3f7e70ac4bed8372bb007a7ffbde1a09379",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T21:34:04+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2dad0a2a61007bf7",
+      "url": "https://www.timesnownews.com/sports/why-is-liv-golf-shutting-down-the-5-billion-pga-tour-gamble-fell-apart-article-156475054",
+      "title_en": "Why is LIV Golf Shutting Down? The $5 Billion PGA Tour Gamble Fell Apart",
+      "title_zh": "LIV Golf 为何关闭？价值 50 亿美元的 PGA 巡回赛赌博失败了",
+      "summary_en": "Backed by billions and built to challenge the PGA Tour, LIV Golf promised a revolution in professional golf. Four years later, financial troubles, the loss of Saudi backing and the prospect of star exits have brought the ambitious project to the brink of liquidation., Sports, Times Now",
+      "summary_zh": "LIV Golf 获得数十亿美元的支持，旨在挑战 PGA 巡回赛，承诺为职业高尔夫带来一场革命。四年后，财务问题、沙特支持的丧失以及明星退出的前景使这个雄心勃勃的项目濒临清算。, 体育, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156475297,thumbsize-151411,width-1280,height-720,resizemode-75/156475297.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T21:33:43+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "56e1b83258a656a0",
@@ -225,7 +680,11 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T21:23:43+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "dd1e9812a8663f3f",
@@ -241,7 +700,31 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T20:46:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d80b216baed861f2",
+      "url": "https://m.thewire.in/article/rights/west-bengal-assembly-election-was-not-legally-valid-says-former-cec-s-y-quraishi",
+      "title_en": "West Bengal Assembly Election Was Not Legally Valid, Says Former CEC S.Y. Quraishi",
+      "title_zh": "前 CEC S.Y. 表示，西孟加拉邦议会选举不具有法律效力库莱什",
+      "summary_en": "Quraishi stopped short of saying the result of the election should be set aside, but said it was now up to the Supreme Court to identify where there is suspicion of wrongful deletion of voters.",
+      "summary_zh": "库莱希没有说选举结果应该被搁置，但表示现在由最高法院来确定哪里涉嫌错误删除选民。",
+      "translation_status": "fallback",
+      "image": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhOTFmMjUwMzAtZDljNC0xMWYxLWI0OGYtMTExYTgwYTI1ZTYxLnBuZw==",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T20:41:35+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8af1a3211956e907",
@@ -257,7 +740,51 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T20:41:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9cd9aa702d6985de",
+      "url": "https://www.republicworld.com/world-news/europe-hit-by-fresh-wave-of-bomb-threats-against-flights-triggering-diversions-and-airport-security-checks-2026-11-06-140562",
+      "title_en": "Europe Hit By Fresh Wave Of Bomb Threats Against Flights, Triggering Diversions And Airport Security Checks",
+      "title_zh": "欧洲遭遇新一波针对航班的炸弹威胁，引发改道和机场安全检查",
+      "summary_en": "Fresh bomb threats targeting flights across Europe triggered diversions and security checks. Authorities reported no explosives or injuries as investigations continued.",
+      "summary_zh": "针对欧洲各地航班的新炸弹威胁引发了改道和安全检查。随着调查的继续，当局报告没有爆炸物或人员受伤。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/09/air-traffic-control-issue-disrupts-flights-at-major-uk-airports-1788925727095-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T20:40:37+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "63b65111ea063fd3",
+      "url": "https://www.republicworld.com/world-news/lakewood-police-officer-killed-three-others-wounded-in-shooting-near-denver-bus-stop-2026-11-06-140561",
+      "title_en": "Lakewood Police Officer Killed, Three Others Wounded in Shooting Near Denver Bus Stop",
+      "title_zh": "丹佛巴士站附近发生枪击事件，莱克伍德警官死亡，三人受伤",
+      "summary_en": "A Lakewood police officer was killed and three colleagues were wounded Thursday evening when a suspect opened fire near a Regional Transportation District bus outside Denver, Fox News reported.",
+      "summary_zh": "据福克斯新闻报道，周四晚上，一名嫌疑人在丹佛郊外的一辆区域交通区公交车附近开枪，导致一名莱克伍德警官死亡，三名同事受伤。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/lakewood-police-officer-killed-three-others-wounded-in-shooting-near-denver-bus-stop-1793968646695-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T20:37:34+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "4b4ca15acb4d9975",
@@ -273,7 +800,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T20:33:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1a24bef0dec9d204",
@@ -289,7 +820,133 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T20:32:05+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "bdf97b2fcfb72dc3",
+      "url": "https://www.republicworld.com/world-news/trump-holds-talks-with-qatar-s-emir-on-middle-east-de-escalation-as-iran-steps-up-diplomatic-outreach-2026-11-06-140559",
+      "title_en": "Trump Holds Talks With Qatar's Emir On Middle East De-Escalation As Iran Steps Up Diplomatic Outreach",
+      "title_zh": "随着伊朗加强外交外展，特朗普与卡塔尔埃米尔就中东局势缓和举行会谈",
+      "summary_en": "Trump discussed Middle East de-escalation with Qatar&#39;s emir as Iran pursued diplomatic talks with Egypt and other regional nations to prevent further escalation.",
+      "summary_zh": "特朗普与卡塔尔埃米尔讨论了中东局势缓和问题，而伊朗正在与埃及和其他地区国家进行外交谈判，以防止局势进一步升级。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/trump-qatar-emir-discuss-middle-east-de-escalation-amid-iran-tensions-1793968100959-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T20:28:26+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "7455b84052afc228",
+      "url": "https://www.timesnownews.com/business-economy/markets/nses-electronic-gold-receipts-segment-records-rs-26-46-crore-turnover-on-dhanteras-article-156474941",
+      "title_en": "NSE's Electronic Gold Receipts Segment Records Rs 26.46 Crore Turnover On Dhanteras",
+      "title_zh": "NSE 的电子黄金收据部门在 Dhanteras 的营业额创下了 264.6 亿卢比的纪录",
+      "summary_en": "NSE's Electronic Gold Receipts cross 1.8 lakh traded units on Dhanteras, highlighting rising interest in regulated digital gold investments., Markets, Times Now",
+      "summary_zh": "NSE 的电子黄金收据在 Dhanteras 上的交易量达到 18 万单位，突显出人们对受监管的数字黄金投资的兴趣日益浓厚。, Markets, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474955,thumbsize-104194,width-1280,height-720,resizemode-75/156474955.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T20:25:44+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "081d4fb055023462",
+      "url": "https://www.republicworld.com/world-news/russian-security-council-says-starlinkoneweb-satellite-services-pose-risk-to-sovereign-countries-ria-reports-2026-11-06-140557",
+      "title_en": "Russian Security Council Says Starlink/Oneweb Satellite Services Pose Risk to Sovereign Countries: RIA Reports",
+      "title_zh": "俄罗斯安全委员会称 Starlink/Oneweb 卫星服务对主权国家构成风险：RIA 报告",
+      "summary_en": "Russia&#39;s Security Council has flagged Starlink and OneWeb as potential risks to sovereign nations, alleging their services could be used to destabilise countries.",
+      "summary_zh": "俄罗斯安理会已将 Starlink 和 OneWeb 标记为对主权国家的潜在风险，声称它们的服务可能被用来破坏国家稳定。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/russia-flags-starlink-oneweb-as-risks-to-sovereign-countries-report-1793967086407-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T20:11:31+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b71053395f9c8b20",
+      "url": "https://www.timesnownews.com/business-economy/markets/muhurat-trading-2026-nse-bse-to-open-on-sunday-november-8-check-details-article-156474808",
+      "title_en": "Muhurat Trading 2026: NSE, BSE To Open On Sunday, November 8; Check Details",
+      "title_zh": "Muhurat Trading 2026：NSE、BSE 将于 11 月 8 日（星期日）开市；查看详情",
+      "summary_en": "NSE and BSE will hold Muhurat trading on November 8, 2026. Check Diwali session timings, trading windows and November stock market holidays., Markets, Times Now",
+      "summary_zh": "NSE 和 BSE 将于 2026 年 11 月 8 日举行 Muhurat 交易。查看排灯节时段时间、交易窗口和 11 月股市假期。, Markets, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474874,thumbsize-1687641,width-1280,height-720,resizemode-75/156474874.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T19:59:20+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "91ba6016275841a9",
+      "url": "https://www.reddit.com/r/india/comments/1xpayc0/if_the_suspect_were_muslim_would_the_media_still/",
+      "title_en": "If the suspect were Muslim, would the media still call it gangster violence instead of terrorism?",
+      "title_zh": "如果嫌疑人是穆斯林，媒体还会称其为黑帮暴力而不是恐怖主义吗？",
+      "summary_en": "I came across a BBC News article published on 22 October 2026: Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past And it got me thinking about something. Why does the language surrounding violent crimes sometimes seem to change depending on who's accused? When violence is linked to organised crime, we hear words like \"gangster\", \"criminal\" and \"underworld\". But when a Muslim suspect is involved, religion can suddenly become the centre of the discussion, with people sometimes jumping…",
+      "summary_zh": "我读到了 2026 年 10 月 22 日发表的 BBC 新闻文章：对演员泰格·史洛夫的攻击是对宝莱坞黑帮过去的黑暗提醒，这让我开始思考一些事情。为什么围绕暴力犯罪的语言有时似乎会根据被告人的不同而变化？当暴力与有组织犯罪联系在一起时，我们会听到“黑帮”、“罪犯”和“黑社会”等词。但当涉及穆斯林嫌疑人时，宗教可能会突然成为讨论的中心",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T19:54:52+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "影视神剧",
+        "犯罪法律",
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "67f04a1c018b0afb",
+      "url": "https://www.timesnownews.com/world/asia/magnitude-6-1-earthquake-hits-off-tokyo-japan-article-156474858",
+      "title_en": "Magnitude-6.1 Earthquake Hits Off Tokyo, Japan",
+      "title_zh": "日本东京发生 6.1 级地震",
+      "summary_en": "A magnitude 6.1 earthquake struck off the coast of Tokyo on Friday., Asia, Times Now",
+      "summary_zh": "周五，东京海岸发生里氏 6.1 级地震。, 亚洲, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474865,thumbsize-45926,width-1280,height-720,resizemode-75/156474865.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T19:51:54+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "463ad5b9a46bf64b",
@@ -305,7 +962,111 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T19:42:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "dfbf71fb99d8f855",
+      "url": "https://x.com/indiatodayne/status/2118621260423041495?a=LDnOiMblbqmRUswuNrQ&s=46",
+      "title_en": "Arunachal activist and engineer Katon Moyong, popularly known as ‘Abor Man’, criticised the heavy deployment of armed forces in the state, calling the government incompetent for failing to pursue democratic dialogue with China. He also termed the Army’s presence on his land illegal.",
+      "title_zh": "阿鲁纳恰尔邦活动家兼工程师卡顿·莫永（Katon Moyong），俗称“阿布尔人”，批评该邦大量部署武装部队，称政府无能，未能与中国进行民主对话。他还术语",
+      "summary_en": "#Arunachal activist and engineer Katon Moyong, popularly known as ‘Abor Man’, criticised the heavy deployment of armed forces in the state, calling the government incompetent for failing to pursue democratic dialogue with #China. He also termed the Army’s presence on his land illegal.",
+      "summary_zh": "#阿鲁纳恰尔邦活动家兼工程师卡顿·莫永（Katon Moyong），俗称“阿布尔人”，批评该邦大量部署武装部队，称政府无能，未能与#中国进行民主对话。他还称军队在他的土地上的存在是非法的。",
+      "translation_status": "fallback",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118620734901944321/img/Hzg10IGeamALxDdv?format=webp&amp;name=large",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T19:36:43+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4887adc2c4624637",
+      "url": "https://www.timesnownews.com/delhi/grap-stage-iii-curbs-kick-in-across-delhi-ncr-as-air-quality-worsens-ahead-of-diwali-article-156474797",
+      "title_en": "GRAP Stage III Curbs Kick In Across Delhi-NCR As Air Quality Worsens Ahead Of Diwali",
+      "title_zh": "由于排灯节前空气质量恶化，GRAP 第三阶段限制措施在德里国家首都区开始实施",
+      "summary_en": "The CAQM has invoked Stage III of GRAP across Delhi-NCR as air quality deteriorates, with the restrictions coming into force two days ahead of Diwali., Delhi News, Times Now",
+      "summary_zh": "由于空气质量恶化，CAQM 在德里国家首都区启动了 GRAP 第三阶段，这些限制在排灯节前两天生效。, 德里新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474801,thumbsize-1557847,width-1280,height-720,resizemode-75/156474801.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T19:29:13+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "62025f7df98adbed",
+      "url": "https://www.timesnownews.com/sports/tennis/jannik-sinner-parts-with-coach-darren-cahill-after-injury-marred-season-article-156474744",
+      "title_en": "Jannik Sinner Parts With Coach Darren Cahill After Injury-Marred Season",
+      "title_zh": "詹尼克·辛纳 (Jannik Sinner) 因伤缺席赛季后与教练达伦·卡希尔 (Darren Cahill) 分道扬镳",
+      "summary_en": "Jannik Sinner ended his long partnership with coach Darren Cahill., Tennis, Times Now",
+      "summary_zh": "詹尼克·辛纳 (Jannik Sinner) 结束了与教练达伦·卡希尔 (Darren Cahill) 的长期合作关系。, 网球, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474751,thumbsize-32522,width-1280,height-720,resizemode-75/156474751.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T19:17:39+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "85abb24cc5923629",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xpabmo/indias_dedicated_freight_corridors_reshaping/",
+      "title_en": "India's dedicated freight corridors reshaping logistics landscape",
+      "title_zh": "印度专用货运走廊重塑物流格局",
+      "summary_en": "₹2-lakh-cr dedicated freight corridors on track Covering the east coast route, the north-south trail and an east-west one, the three corridors cover a total length of 4,300 km, with the estimated project cost being ₹2,00,000 crore https://www.thehindubusinessline.com/economy/logistics/2-lakh-cr-dedicated-freight-corridors-on-track/article68038985.ece [link] [comments]",
+      "summary_zh": "耗资20万卢比的专用货运走廊已上线 三个走廊覆盖东海岸路线、南北路线和东西路线，总长4,300公里，预计项目成本为200,00亿卢比https://www.thehindubusinessline.com/economy/logistics/2-lakh-cr-dedicated-freight-corridors-on-track/article68038985.ece [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/4oyauhrf7zzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=d46f21f0049380aea20b6bcb4bb7bfdfb5809122",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T19:16:45+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "71328416ad549204",
+      "url": "https://www.reddit.com/r/india/comments/1xpabdx/can_i_sue_flipkart_for_late_delivery/",
+      "title_en": "Can I sue flipkart for late delivery?",
+      "title_zh": "我可以起诉 Flipkart 延迟交货吗？",
+      "summary_en": "Okay, so i ordered a pair of shoes on flipkart on 25th October. It was estimated to get delivered by the 31st. They said, there was a delay and pushed the delivery by 2 days and said it'll get delivered on 2nd November and I was okay with it but then apparently it got delayed again for 4th. They didn't give me any update after that until I contacted customer support - which is a stupid AI that repeats the same fricking thing - and then they changed the delivery date to 6th cuz they apparently 'lost' my item.",
+      "summary_zh": "好的，我 10 月 25 日在 Flipkart 上订购了一双鞋。预计31号可以送达。他们说，有延误，并将交货推迟了 2 天，并说将在 11 月 2 日交货，我对此表示同意，但显然又推迟了 4 日。此后他们没有给我任何更新，直到我联系客户支持 - 这是一个愚蠢的人工智能，重复同样的事情 - 然后他们将交货日期更改为第 6 个客户",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T19:16:19+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1d4ebee72db6ceba",
@@ -321,7 +1082,12 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T19:12:07+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教",
+        "商业套路"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "848961efc718098a",
@@ -337,7 +1103,31 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T19:09:15+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "428fcae41d42c44a",
+      "url": "https://www.republicworld.com/world-news/bus-carrying-kids-to-school-crashes-in-france-leaving-2-dead-and-16-injured-2026-11-06-140552",
+      "title_en": "Bus Carrying Kids to School Crashes in France, Leaving 2 Dead and 16 Injured",
+      "title_zh": "法国一辆载着孩子上学的巴士发生翻车事故，造成2人死亡、16人受伤",
+      "summary_en": "Two people, including a minor, were killed and 16 others injured after an intercity bus carrying schoolchildren crashed near Lent in eastern France. Three injured passengers are in serious condition. Emergency services rushed to the scene as authorities began investigating the accident.",
+      "summary_zh": "一辆载有学童的城际巴士在法国东部四旬斋附近坠毁，造成两人死亡，包括一名未成年人，另有 16 人受伤。三名受伤乘客伤势严重。当当局开始调查事故时，紧急服务人员赶到现场。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/france-school-bus-crash-kills-2-including-minor-leaves-16-injured-1793962759759-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T18:59:25+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9ddc8efa8814e2db",
@@ -353,7 +1143,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-06T18:45:09+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ccce2fa0b8e45eea",
@@ -369,7 +1163,31 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T18:38:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "366b06fd36bffa04",
+      "url": "https://www.timesnownews.com/education/mpsc-paper-leak-row-inquiry-commission-invites-affidavits-from-candidates-last-date-november-16-article-156474441",
+      "title_en": "MPSC Paper Leak Row: Inquiry Commission Invites Affidavits From Candidates, Last Date November 16",
+      "title_zh": "MPSC 文件泄露事件：调查委员会邀请候选人提供宣誓书，最后日期为 11 月 16 日",
+      "summary_en": "Candidates, students and organisations with information on alleged irregularities in nine MPSC examinations can submit notarised affidavits in Marathi or English, along with supporting documents., Education, Times Now",
+      "summary_zh": "掌握九项 MPSC 考试涉嫌违规行为的考生、学生和组织可以提交经过公证的马拉地语或英语宣誓书以及支持文件。, Education, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474565,thumbsize-2375268,width-1280,height-720,resizemode-75/156474565.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T18:32:38+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "de7d2171c0827d22",
@@ -385,7 +1203,11 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T18:31:35+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a7fe0666467a2eb7",
@@ -401,7 +1223,51 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T18:31:01+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "51f3432fff514f42",
+      "url": "https://www.timesnownews.com/lifestyle/books/india-is-getting-a-new-bestseller-award-that-could-change-how-literary-success-is-measured-article-156474390",
+      "title_en": "India Is Getting a New Bestseller Award That Could Change How Literary Success Is Measured",
+      "title_zh": "印度获得新的畅销书奖可能会改变衡量文学成功的方式",
+      "summary_en": "NielsenIQ BookData and the Indian Authors Forum launch the Bestseller Awards, India Edition. How sales-led prizes work, and who the charts leave out., Books, Times Now",
+      "summary_zh": "NielsenIQ BookData 和印度作家论坛推出印度版畅销书奖。以销售为主导的奖项如何运作，以及图表遗漏了哪些人。，书籍，Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474499,thumbsize-1348616,width-1280,height-720,resizemode-75/156474499.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T18:24:37+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d5eadc3b1a612da5",
+      "url": "https://www.thenewsminute.com/karnataka/karnataka-finds-ethanol-blending-of-up-to-312-in-petrol-seeks-explanation-from-union-government",
+      "title_en": "Karnataka finds ethanol blending of up to 31.2% in petrol, seeks explanation from Union government",
+      "title_zh": "卡纳塔克邦发现汽油中乙醇含量高达31.2%，寻求联邦政府解释",
+      "summary_en": "The Karnataka government has alleged that petrol sold by major oil marketing companies in the state contains ethanol in excess of the prescribed 20% blend, with",
+      "summary_zh": "卡纳塔克邦政府声称，该州主要石油营销公司销售的汽油中乙醇含量超过了规定的 20% 混合物，其中",
+      "translation_status": "fallback",
+      "image": "https://cf-images.assettype.com/thenewsminute%2F2026-11-06%2Fynj2647u%2FFood-and-Civil-Supplies-Minister-Rizwan-Arshad?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T18:22:34+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b6f1f132938596d8",
@@ -417,7 +1283,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T18:22:24+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "32891c2dd3669b4b",
@@ -433,7 +1303,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T18:12:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "431c3afde5092984",
@@ -449,7 +1323,31 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T18:02:27+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a231bf4bb49bdf2b",
+      "url": "https://www.timesnownews.com/india/punjab-train-fire-flames-engulf-4-coaches-of-karmabhumi-express-passengers-evacuated-article-156474281",
+      "title_en": "Punjab Train Fire: Flames Engulf 4 Coaches Of Karmabhumi Express, Passengers Evacuated",
+      "title_zh": "旁遮普火车火灾：Karmabhumi Express 4 节车厢被火焰吞没，乘客被疏散",
+      "summary_en": "A massive fire broke out on the passenger-packed Karmabhumi Express., India News, Times Now",
+      "summary_zh": "满载乘客的 Karmabhumi Express 发生大火。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474324,thumbsize-685431,width-1280,height-720,resizemode-75/156474324.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T18:01:28+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5edc07c80ddc2568",
@@ -465,7 +1363,11 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-11-06T17:56:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8c726e27cd36c4e4",
@@ -481,7 +1383,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T17:55:13+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e8ff205bced43155",
@@ -497,7 +1403,11 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T17:54:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "393d790b23d24927",
@@ -513,7 +1423,133 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-06T17:49:44+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b4a41b750adee93c",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/kanpur-ambulance-stuck-traffic-jam-policeman-death-protest-139599004.html",
+      "title_en": "Injured Soldier Dies after Ambulance gets stuck in traffic due to BJP rally; Father kept pleading with traffic police for help",
+      "title_zh": "由于印度人民党集会，救护车陷入交通堵塞，受伤士兵死亡；父亲不断向交警求助",
+      "summary_en": "Kanpur traffic jam causes ambulance delay resulting in policeman death. Follow Dainik Bhaskar Latest Updates. कानपुर के सड़क हादसे में गंभीर रूप से घायल एक सिपाही की जिंदगी एंबुलेंस में ही दम तोड़ गई। वजह बनी सड़कों पर लगी जाम की लंबी कतारें।",
+      "summary_zh": "坎普尔交通堵塞导致救护车延误，导致警察死亡。关注 Dainik Bhaskar 最新动态。 कानपुर के सड़क हादसे में गंभीर रूप से घायल एक सिपाही की जिंदगी एंबुलेंस में ही दम तोड़ गई। वजह बनी सड़कों पर लगी जाम की लंबी कतारें।",
+      "translation_status": "fallback",
+      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/05/comp_12__2_1793884700746.gif",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T17:47:54+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "交通火车",
+        "军事政治",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d8503eb36a100cbc",
+      "url": "https://www.siasat.com/india-must-prepare-early-for-ageing-population-challenge-experts-3570514/",
+      "title_en": "India must prepare early for ageing population challenge: Experts",
+      "title_zh": "印度必须尽早为人口老龄化挑战做好准备：专家",
+      "summary_en": "Many experts feel India has a limited window to benefit from its demographic dividend, and it is closing fast.",
+      "summary_zh": "许多专家认为，印度从人口红利中受益的窗口有限，而且正在迅速关闭。",
+      "translation_status": "fallback",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2023/10/Hyderabad-population-aging.jpg",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T17:36:37+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0c423b3bb715561c",
+      "url": "https://www.republicworld.com/entertainment/bollywood/ramayana-box-office-collection-day-1-ranbir-kapoor-starrer-opens-to-155-cr-worldwide-but-fails-to-beat-adipurush-in-india-2026-11-06-140546",
+      "title_en": "Ramayana Box Office Collection Day 1: Ranbir Kapoor Starrer Opens To ₹155 Cr Worldwide, But Fails To Beat Adipurush In India",
+      "title_zh": "《罗摩衍那》票房收集第一天：兰比尔·卡普尔·斯塔雷尔 (Ranbir Kapoor Starrer) 全球首映票房达到 155 卢比，但在印度未能击败阿迪普鲁什 (Adipurush)",
+      "summary_en": "The film has received a positive response from audiences, which is also reflected in its Day 1 collections. According to the makers, the film has collected Rs 155 crore worldwide on the release day.",
+      "summary_zh": "这部电影获得了观众的积极响应，这也反映在其第一天的收藏中。据制片人称，该片在上映当天已在全球票房收入 15.5 亿卢比。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/ramayana-box-office-collection-day-1-1793957775841-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T17:36:23+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "edbe91d459e76f2f",
+      "url": "https://www.cartoq.com/car-news/karnataka-ethanol-blending-test-results/",
+      "title_en": "E30 Petrol Being Sold As E20: Karnataka Govt Releases Test Data",
+      "title_zh": "E30 汽油以 E20 名义出售：卡纳塔克邦政府发布测试数据",
+      "summary_en": "",
+      "summary_zh": "E30 汽油以 E20 名义出售：卡纳塔克邦政府发布测试数据",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/19QTkCNUcgQOReq_Frkc9wwrBrOVuw9Z8pp8eLPjaeE.jpeg?width=640&crop=smart&auto=webp&s=5ceaad8b9084b509837592f80b91a55fc274980c",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T17:29:54+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d9887d9f231e296a",
+      "url": "https://www.timesnownews.com/health/women-are-using-allergy-tablets-for-vaginal-tightening-article-156474089",
+      "title_en": "Women Are Using Allergy Tablets For Vaginal Tightening: Why Doctors Are Warning Against This Viral TikTok Tren",
+      "title_zh": "女性正在使用抗过敏药片来紧缩阴道：为什么医生警告不要提防这种病毒式的 TikTok Tren",
+      "summary_en": "A viral TikTok trend encouraging women to use allergy tablets (cetirizine) for vaginal tightening has sparked medical warnings. Here's the truth behind it., Health, Times Now",
+      "summary_zh": "鼓励女性使用过敏药片（西替利嗪）来收紧阴道的抖音热潮引发了医疗警告。这就是它背后的真相。，健康，时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474096,thumbsize-1158607,width-1280,height-720,resizemode-75/156474096.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T17:04:43+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5e2d7809a857a8d5",
+      "url": "https://www.hindustantimes.com/india-news/gauhati-hc-quashes-detention-under-nsa-of-land-rights-activist-pranab-doley-101793950980738.html",
+      "title_en": "Gauhati HC quashes detention under NSA of land rights activist Pranab Doley",
+      "title_zh": "高哈蒂 HC 撤销国家安全局对土地权利活动人士普拉纳布·多利 (Pranab Doley) 的拘留",
+      "summary_en": "Doley was arrested on July 12, days after he took part in protests by activists and locals on June 28 at Ingle Pathar village against the proposed hotel project | India News",
+      "summary_zh": "多利于 7 月 12 日被捕，几天前，他于 6 月 28 日参加了活动人士和当地人在 Ingle Pathar 村举行的反对拟议酒店项目的抗议活动 |印度新闻",
+      "translation_status": "fallback",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/The-Assam-government-invoked-the-NSA-against-activ_1793950973731_5X95.jpg",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T17:02:59+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "30db36ebf71a1793",
@@ -529,7 +1565,11 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T17:01:20+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "413e19df4d692df9",
@@ -545,7 +1585,32 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:57:21+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3e66108b4afde382",
+      "url": "https://www.timesnownews.com/viral/jaipur-bikers-harass-woman-on-busy-road-viral-video-article-156474074",
+      "title_en": "‘Aap Bahut Cute Ho’: Jaipur Bikers Harass Woman On Busy Road, Video Goes Viral",
+      "title_zh": "“Aap Bahut Cute Ho”：斋浦尔骑自行车的人在繁忙的道路上骚扰妇女，视频疯传",
+      "summary_en": "A disturbing video showed two bikers in Jaipur, Rajasthan, shamelessly harassing women travelling in an auto-rickshaw. The video went viral and left many irked and demanding action., Viral, Times Now",
+      "summary_zh": "一段令人不安的视频显示，拉贾斯坦邦斋浦尔的两名骑自行车的人无耻地骚扰乘坐自动人力车旅行的女性。该视频在网上疯传，引起了许多人的不满并要求采取行动。, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474084,thumbsize-551892,width-1280,height-720,resizemode-75/156474084.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T16:56:46+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "奇人奇事",
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "4fdcbd145bc418da",
@@ -561,7 +1626,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:52:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f973bae2c8484e03",
@@ -577,7 +1646,31 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:51:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0bdcc2185f6341c8",
+      "url": "https://www.timesnownews.com/india/freedom-of-expression-cant-be-a-shield-for-intimidation-sc-issues-notice-to-kerala-congress-leaders-over-cji-post-article-156474059",
+      "title_en": "'Freedom Of Expression Can't Be A Shield For Intimidation': SC Issues Notice To Kerala Congress Leaders Over C",
+      "title_zh": "“言论自由不能成为恐吓的盾牌”：SC向喀拉拉邦国会领导人发出关于C问题的通知",
+      "summary_en": "The Supreme Court has issued a contempt notice to Kerala Congress office bearers over a social media post targeting CJI Surya Kant, stressing that judicial independence cannot be compromised., India News, Times Now",
+      "summary_zh": "最高法院已就针对 CJI Surya Kant 的社交媒体帖子向喀拉拉邦国会办公室负责人发出藐视法庭通知，强调司法独立不能受到损害。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156474060,thumbsize-83246,width-1280,height-720,resizemode-75/156474060.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T16:45:34+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "113f6034d32e13bd",
@@ -593,7 +1686,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:42:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5613b4ad89f5eb13",
@@ -609,7 +1706,31 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:30:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b91316f4c78e4b3a",
+      "url": "https://www.timesnownews.com/india/big-setback-for-tarun-tejpal-sc-refuses-to-suspend-sentence-in-2013-rape-case-article-156473956",
+      "title_en": "Big Setback For Tarun Tejpal, SC Refuses To Suspend Sentence In 2013 Rape Case",
+      "title_zh": "塔伦·泰杰帕尔 (Tarun Tejpal) 遭遇重大挫折，SC 拒绝在 2013 年强奸案中缓刑",
+      "summary_en": "The Supreme Court rejected Tarun Tejpal’s plea to suspend his jail term in the 2013 rape case., India News, Times Now",
+      "summary_zh": "最高法院驳回了 Tarun Tejpal 在 2013 年强奸案中缓刑的请求。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156473951,thumbsize-25360,width-1280,height-720,resizemode-75/156473951.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T16:29:10+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5df3f4d319563e75",
@@ -625,7 +1746,31 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:24:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "bf578d389d928a04",
+      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-6-november-us-iran-war-oil-price-12290696",
+      "title_en": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,000 Points Higher, Global AI Stocks Bleed",
+      "title_zh": "股票市场实时更新，Sensex 今天：Sensex 上涨 1,000 点，全球人工智能股票下跌",
+      "summary_en": "Stock Market, Sensex, Share Market, Nifty Highlights: Brent crude futures surged 3.8% to settle at $98.29, US WTI crude gained closed at $90.52.",
+      "summary_zh": "股市、Sensex、股票市场、精彩亮点：布伦特原油期货上涨 3.8%，收于 98.29 美元，美国 WTI 原油上涨收于 90.52 美元。",
+      "translation_status": "fallback",
+      "image": "https://c.ndtvimg.com/2026-09/5b2rlacc_sensex_625x300_30_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T16:22:53+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b63ff26652973605",
@@ -641,7 +1786,51 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T16:11:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "725ec362ac815301",
+      "url": "https://www.reuters.com/business/energy/nearly-4-5-petrol-pumps-surveyed-indias-karnataka-sold-over-blended-e20-fuel-2026-11-06/",
+      "title_en": "Nearly 4 in 5 petrol pumps surveyed in India's Karnataka sold over-blended E20 fuel, minister says",
+      "title_zh": "部长表示，在印度卡纳塔克邦接受调查的近五分之四的汽油泵销售了过度混合的 E20 燃油",
+      "summary_en": "",
+      "summary_zh": "部长表示，在印度卡纳塔克邦接受调查的近五分之四的汽油泵销售了过度混合的 E20 燃油",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T16:11:29+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c9945009d6fc43fe",
+      "url": "https://www.reddit.com/r/india/comments/1xp7b7f/takedown_reports_in_the_delhi_polices_name_were/",
+      "title_en": "Takedown reports in the Delhi Police’s name were “fake”, X tells the Delhi High Court; our petition disposed of with liberty to return",
+      "title_zh": "X 告诉德里高等法院，以德里警方名义发布的取缔报告是“假的”；我们的请愿书已被处理并可自由返回",
+      "summary_en": "Donate Now tl;dr On 6 November 2026, the Delhi High Court heard Internet Freedom Foundation v. Union of India , W.P.(C) 16671/2026, our challenge to two “Illegal Content Reports” submitted to X in the name of the Special Commissioner of Police (Crime), Delhi Police. The reports sought the removal of six of our posts, comments on and reposts of such posts, and of our entire X account, u/internetfreedom , for alleged defamation of the Rashtriya Swayamsevak Sangh (RSS). SFLC.in’s petition against the same reports…",
+      "summary_zh": "立即捐赠 tl;dr 2026 年 11 月 6 日，德里高等法院审理了互联网自由基金会诉印度联盟案，W.P.(C) 16671/2026，我们对以德里警察（犯罪）特别专员的名义向 X 提交的两份“非法内容报告”提出质疑。这些报告要求删除我们的 6 个帖子、对此类帖子的评论和转发，以及我们的整个 X 帐户 u/internetfreedom ，因为涉嫌诽谤 Rashtriya Swayamsevak Sangh (RSS)。 SFLC.in'",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T16:01:21+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "784527dcb624dc20",
@@ -657,7 +1846,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-06T15:47:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d9ba4fd34f3bf284",
@@ -673,7 +1866,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T15:37:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3b5c322476742386",
@@ -689,7 +1886,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T15:35:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2c7fec27d46b3c57",
@@ -705,7 +1906,11 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T15:29:39+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9d0ba322e5c0737b",
@@ -721,7 +1926,31 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T15:27:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ec1811a3a286b908",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xp6ity/jioadani_ki_saazish/",
+      "title_en": "Jio-Adani ki Saazish",
+      "title_zh": "吉奥·阿达尼·基·萨吉什",
+      "summary_en": "Journalist: Has your vote been deleted? Abdul : \"Yes, my vote has been deleted.\" Journalist: \"Show me SMS notification regarding the deletion.\" Abdul :\" Wait, let me show you. Ohhh.. Abhi Net nahi hai mera.\" [link] [comments]",
+      "summary_zh": "记者：你的投票被删除了吗？阿卜杜勒：“是的，我的投票已被删除。”记者：“显示有关删除的短信通知。”阿卜杜勒：“等等，让我给你展示一下。哦……Abhi Net nahi hai mera。” [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/aDEzY3NsdDl6eHpoMeyokJNm4G0I_WjCW6XZkP1CbTCIZSiKfLL9yEGB8ZsJ.png?width=640&crop=smart&auto=webp&s=5bce22f2e8f631045879d00ab6d781b0977d511e",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T15:09:30+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1ce7a94cff7493e1",
@@ -737,7 +1966,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T15:01:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5cead21f96ad841e",
@@ -753,7 +1986,31 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-11-06T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8bcef47ad4cbf00c",
+      "url": "https://www.ndtv.com/delhi-news/hope-youre-enjoying-weather-supreme-courts-quip-on-delhi-pollution-12291427?pfrom=home-ndtv_topscroll",
+      "title_en": "\"Hope You're Enjoying Weather\": Supreme Court's Quip On Delhi Pollution",
+      "title_zh": "“希望你享受天气”：最高法院对德里污染的讽刺",
+      "summary_en": "Aparajita Singh, who is helping the Supreme Court as the amicus curiae, said breathing the region's air is equivalent to an individual \"smoking 30 cigarettes every day\"",
+      "summary_zh": "作为法庭之友协助最高法院的阿帕拉吉塔·辛格 (Aparajita Singh) 表示，呼吸该地区的空气相当于一个人“每天吸 30 支烟”",
+      "translation_status": "fallback",
+      "image": "https://w.ndtvimg.com/sites/3/2017/10/26115120/delhi_smog_ndtv.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "image_checked": true,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-06T14:58:55+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2d824ec56de42be8",
@@ -769,7 +2026,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T14:51:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "acf50d4ad9757262",
@@ -785,7 +2046,11 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T14:48:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "95c450c04ab67309",
@@ -801,7 +2066,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T14:34:38+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "66b14b1c36c5e3b8",
@@ -817,7 +2086,112 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T14:13:40+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8255955406f77c0d",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xp5132/netaji_subhas_chandra_bose_on_hinduism_being_the/",
+      "title_en": "Netaji Subhas Chandra Bose on Hinduism being the principal unifying factor of India",
+      "title_zh": "内塔吉·苏巴斯·钱德拉·博斯 (Netaji Subhas Chandra Bose) 谈印度教是印度的主要统一因素",
+      "summary_en": "The ethnic diversity of India has never been a problem—for throughout her history she has been able to absorb different races and impose on them one common culture and tradition. * The most important cementing factor has been the Hindu religion.** North or South, East or West, wherever you may travel, you will find the same religious ideas, the same culture and the same tradition. All Hindus look upon India as the Holy Land. The sacred rivers, like the sacred cities, are distributed all over the country.",
+      "summary_zh": "印度的种族多样性从来都不是问题，因为在整个历史中，她一直能够吸收不同的种族，并将一种共同的文化和传统强加给他们。 * 最重要的巩固因素是印度教。 ** 北方或南方，东方或西方，无论你走到哪里，你都会发现相同的宗教观念、相同的文化和相同的传统。所有印度教徒都将印度视为圣地。神圣的河流和神圣的城市一样，距离",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/zo06wwe2jxzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c230416f9d67141df93d3e819a3a092526b46979",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T13:38:29+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "6129984fe94fab40",
+      "url": "https://www.timesnownews.com/business-economy/economy/gold-rush-this-dhanteras-world-gold-council-on-prices-demand-jewellery-trends-article-156469556",
+      "title_en": "Gold Rush This Dhanteras! World Gold Council On Prices, Demand & Jewellery Trends",
+      "title_zh": "丹特拉斯淘金热！世界黄金协会关于价格、需求和珠宝趋势",
+      "summary_en": "Gold Rush This Dhanteras! World Gold Council On Prices, Demand & Jewellery Trends, Economy, Times Now",
+      "summary_zh": "丹特拉斯淘金热！世界黄金协会关于价格、需求和珠宝趋势、经济、时代的评论",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156469560,thumbsize-2530616,width-1280,height-720,resizemode-75/156469560.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T13:36:25+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "86f8201b77f8d3d0",
+      "url": "https://www.timesnownews.com/entertainment-news/reviews/scene-tamil-movie-review-suriyas-action-comedy-crime-thriller-film-story-cast-performances-and-rating-review-156469209",
+      "title_en": "Scene Movie Review: Suriya Charms His Way Through Jithu Madhavan's Offbeat Crime Caper",
+      "title_zh": "场景电影评论：苏里亚 (Suriya) 在吉图·马达万 (Jithu Madhavan) 的另类犯罪惊悚片中魅力十足",
+      "summary_en": "The film centres on a former senior police officer who sets out to pursue a case against a person dismissed from the force. When he fails to find the support he needs, he assembles a team of his own, bringing together a group of unconventional individuals who find it difficult to work with one another, Reviews, Times Now",
+      "summary_zh": "影片以一名前高级警官为中心，着手对一名被开除警队的人提起诉讼。当他无法找到所需的支持时，他组建了自己的团队，将一群发现彼此难以合作的非常规个人聚集在一起，《评论》，《Times Now》",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156469191,thumbsize-482872,width-1280,height-720,resizemode-75/156469191.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T13:17:00+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "犯罪法律",
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f8ac468fd560f628",
+      "url": "https://www.republicworld.com/world-news/trump-meets-with-national-security-team-as-us-prepares-for-possible-new-strikes-on-iran-report-2026-11-06-140537",
+      "title_en": "Trump Meets with National Security Team as US Prepares for Possible New Strikes on Iran: Report",
+      "title_zh": "特朗普会见国家安全团队，美国准备对伊朗进行新的打击：报告",
+      "summary_en": "Elaborating on the potential objectives, he questioned whether Washington should proceed with further strikes to guarantee that Iran&#39;s nuclear programme is permanently dismantled and that “it will never happen again”.",
+      "summary_zh": "在阐述潜在目标时，他质疑华盛顿是否应该继续发动进一步打击，以保证伊朗的核计划被永久拆除，并且“这种情况永远不会再次发生”。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/10/we-have-time-trump-says-us-in-no-hurry-to-end-iran-war-claims-tehran-wants-talks-1793412075366-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T13:09:20+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b79074312d91ff1b",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/astrotalk-1000-air-purifiers-diwali-gift-delhi-aqi-10952998/",
+      "title_en": "As Delhi AQI worsens, company’s Diwali gift of air purifiers draws attention",
+      "title_zh": "随着德里空气质量恶化，公司排灯节礼物空气净化器引起关注",
+      "summary_en": "The initiative has attracted attention on social media, with several users appreciating the company’s decision to prioritise employee health and well-being amid growing concerns over deteriorating air quality.",
+      "summary_zh": "该举措在社交媒体上引起了关注，在人们日益担心空气质量恶化的情况下，一些用户对公司优先考虑员工健康和福祉的决定表示赞赏。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Astrotalk-air-purifiers.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-06T13:08:28+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b9cc4c4813af75f7",
@@ -833,7 +2207,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-06T13:00:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "daa7503d5a94b52c",
@@ -849,7 +2227,71 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T12:54:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "15be26bcab8affb9",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xp3t1b/rindiaspeaks_what_happened_in_your_state_or_city/",
+      "title_en": "r/IndiaSpeaks - What happened in your State or City this week ?",
+      "title_zh": "r/IndiaSpeaks - 本周您所在的州或城市发生了什么？",
+      "summary_en": "Tell us anything noticeable big or small, funny or strange happened in your city/state/region. Please remember to state the city/state/region in your comment and it would be great if you link to some news article or a source to it. ​ You can also join our Discord server Invite The \"What happened in your State or City\" thread is posted weekly on Saturday evening Previous Threads can be found here [link] [comments]",
+      "summary_zh": "告诉我们在您的城市/州/地区发生的任何值得注意的或大或小、有趣或奇怪的事情。请记住在您的评论中注明城市/州/地区，如果您链​​接到一些新闻文章或其来源，那就太好了。 您还可以加入我们的 Discord 服务器 邀请 “您所在州或城市发生了什么”主题每周在周六晚上发布 以前的主题可以在这里找到 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T12:30:18+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "52ddda0bb2b4b3be",
+      "url": "https://www.republicworld.com/world-news/would-rather-not-destroy-rest-of-the-country-trump-s-iran-war-tone-changes-after-midterm-drubbing-2026-11-06-140536",
+      "title_en": "'Would Rather Not Destroy Rest of the Country': Trump's Iran War Tone Changes After Midterm Drubbing",
+      "title_zh": "“宁愿不摧毁国家其他地区”：特朗普的伊朗战争基调在中期惨败后发生变化",
+      "summary_en": "Addressing reporters in the Oval Office on Thursday (local time), Trump noted that a final decision on whether the war was close to escalating was imminent. &quot;I would rather not destroy the rest of the country if possible, but maybe I&#39;ll have to,&quot; he stated, adding, “You&#39;ll know soon enough.”",
+      "summary_zh": "周四（当地时间），特朗普在椭圆形办公室对记者发表讲话时指出，即将就战争是否接近升级做出最终决定。 “如果可能的话，我宁愿不摧毁这个国家的其他地区，但也许我不得不这样做，”他补充道，“你很快就会知道。”",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/would-rather-not-destroy-rest-of-the-country-trump-s-iran-war-tone-changes-after-midterm-drubbing-1793936764837-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:46:13+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4f745f40bec9c882",
+      "url": "https://www.republicworld.com/world-news/no-negotiations-till-us-fulfils-seven-conditions-iran-security-chief-says-russia-condemned-us-israel-strikes-2026-11-06-140535",
+      "title_en": "'No Negotiations Till US Fulfils Seven Conditions': Iran Security Chief Says Russia Condemned US-Israel Strikes",
+      "title_zh": "“在美国满足七个条件之前不要进行谈判”：伊朗安全负责人称俄罗斯谴责美以袭击",
+      "summary_en": "During the meeting, the Russian President stated that Moscow is ready to make every possible effort to bring the ongoing US-Iran war to an end. &quot;Mr Putin said he will do everything he can to help bring the war to an end,&quot; Rezaei said, according to Press TV.",
+      "summary_zh": "会议期间，俄罗斯总统表示，莫斯科准备尽一切努力结束正在进行的美伊战争。据 Press TV 报道，雷扎伊表示：“普京先生表示，他将尽一切努力帮助结束战争。”",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/no-negotiations-till-us-fulfils-seven-conditions-iran-security-chief-says-russia-condemned-us-israel-strikes-1793936637096-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:44:07+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "907e0e3a5e435f3b",
@@ -865,7 +2307,31 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T11:37:30+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5d408819f209e262",
+      "url": "https://www.timesnownews.com/world/middle-east/iran-sent-nuclear-proposal-to-us-via-qatar-sets-7-conditions-for-talks-report-article-156472570",
+      "title_en": "Iran Sent Nuclear Proposal To US Via Qatar, Sets 7 Conditions For Talks: Report",
+      "title_zh": "伊朗通过卡塔尔向美国发送核提案，为会谈设定了7个条件：报告",
+      "summary_en": "Iran has reportedly sent a nuclear proposal via Qatar, setting seven conditions for talks, while Trump warned Tehran that Washington remains prepared for renewed military action., Middle East, Times Now",
+      "summary_zh": "据报道，伊朗已通过卡塔尔提出核提议，为谈判设定了七个条件，而特朗普则警告德黑兰，华盛顿仍准备采取新的军事行动。, 中东, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156472588,thumbsize-89167,width-1280,height-720,resizemode-75/156472588.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:19:44+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "da017af7ff0478cd",
@@ -881,7 +2347,71 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T11:17:27+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5da9004b501d60f4",
+      "url": "https://www.republicworld.com/world-news/marco-rubio-denies-exit-plans-vows-to-serve-trump-s-full-second-term-2026-11-06-140532",
+      "title_en": "Marco Rubio Denies Exit Plans, Vows to Serve Trump's Full Second Term",
+      "title_zh": "马可·卢比奥否认退出计划，誓言为特朗普的第二个任期服务",
+      "summary_en": "In an interview with The New York Times, Rubio rejected speculation that he might step down to prepare for a 2028 presidential campaign, clarifying his long-term professional intentions within the executive branch.",
+      "summary_zh": "在接受《纽约时报》采访时，卢比奥否认了有关他可能辞职准备 2028 年总统竞选的猜测，澄清了他在行政部门的长期职业意图。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/marco-rubio-denies-exit-plans-vows-to-serve-trump-s-full-second-term-1793934863716-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:14:34+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d03789de7e2cdf9e",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xp2c2n/our_country_is_a_total_sham_the_biggest_fraud_of/",
+      "title_en": "Our country is a total sham, the biggest fraud of it all being education.",
+      "title_zh": "我们的国家是一个彻头彻尾的骗局，其中最大的骗局就是教育。",
+      "summary_en": "Our country is a total scam institutionally broken, kept that way by both internal and external forces. Education I think is a real flop job cause they dont teach you carpentry, metal work, machine repairing, there are no tools given in your hand right from young age skills taught. What does our Education system leave us with at the eng of 18+ years no trade one can earn out of, no actual skills taught and mastered by our children. Even the labs and sport equipment in most of schools is just show business.",
+      "summary_zh": "我们的国家是一个彻头彻尾的骗局，在制度上已被破坏，是由内部和外部力量维持的。我认为教育是一项真正失败的工作，因为他们不教你木工、金属加工、机器维修，也没有从年轻时就教授你手中的技能。我们的教育体系给我们留下了什么，在18岁以上的年纪，任何人都无法从中赚钱，我们的孩子也没有教授和掌握任何实际技能。甚至大多数国家的实验室和运动器材",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T11:12:05+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "诈骗骗局"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "310c8b30041a6c01",
+      "url": "https://www.timesnownews.com/city/jharkhand-road-horror-7-killed-after-speeding-18-wheeler-truck-runs-over-them-in-khunti-article-156472574",
+      "title_en": "Jharkhand Road Horror! 7 Killed After Speeding 18-Wheeler Truck Runs Over Them",
+      "title_zh": "贾坎德邦公路恐怖！ 18轮卡车超速碾压致7人死亡",
+      "summary_en": "Reportedly, the gruesome accident happened on the Karra-Torpa main road in Jharkhand's Khunti district on Thursday night, November 05., City, Times Now",
+      "summary_zh": "据报道，这起可怕的事故于 11 月 5 日星期四晚上发生在贾坎德邦 Khunti 区的 Karra-Torpa 主干道上。, City, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156472571,thumbsize-68132,width-1280,height-720,resizemode-75/156472571.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:11:59+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0dc732a8b6cf73c5",
@@ -897,7 +2427,71 @@
       "source_id": "india-today-trending",
       "region": "印度",
       "published_at": "2026-11-06T11:06:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "12cb355ad5d06bf2",
+      "url": "https://www.timesnownews.com/business-economy/markets/global-markets-tumble-as-democratic-midterm-sweep-triggers-ai-sell-off-article-156472543",
+      "title_en": "Global Markets Tumble As Democratic Midterm Sweep Triggers AI Sell-Off",
+      "title_zh": "民主党中期选举大获全胜引发人工智能抛售，全球市场暴跌",
+      "summary_en": "Global markets slide as a Democratic sweep in the US midterm elections triggers an AI stock sell-off, raising concerns over technology valuations and the outlook for AI investments., Markets, Times Now",
+      "summary_zh": "由于民主党在美国中期选举中大获全胜，引发人工智能股票抛售，全球市场下滑，引发了对技术估值和人工智能投资前景的担忧。, Markets, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156472546,thumbsize-1592390,width-1280,height-720,resizemode-75/156472546.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:04:56+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ef9f3a2dca2ee9a9",
+      "url": "https://www.republicworld.com/world-news/long-road-ahead-eisenkot-says-determined-to-form-govt-after-securing-67-endorsements-in-prime-ministerial-race-2026-11-06-140531",
+      "title_en": "'Long Road Ahead': Eisenkot Says 'Determined' to Form Govt After Securing 67 Endorsements in Prime Ministerial Race",
+      "title_zh": "“前方路漫漫其修远兮”：艾森科特在总理竞选中获得 67 票支持后表示“决心”组建政府",
+      "summary_en": "The Joint List chairman Yousef Jabareen defended the decision to back Eisenkot, stating on X, “We will do everything to remove the greatest threat to all of us, which is the continuation of the rule of Netanyahu and his Kahanist partners.”",
+      "summary_zh": "联合名单主席优素福·贾巴林为支持艾森科特的决定进行了辩护，他在 X 上表示，“我们将尽一切努力消除对我们所有人的最大威胁，即内塔尼亚胡及其卡汉主义伙伴统治的延续。”",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/long-road-ahead-eisenkot-says-determined-to-form-govt-after-securing-67-endorsements-in-prime-ministerial-race-1793934058642-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:01:24+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4710f0a1daa7cb99",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xp23lg/rindiaspeaks_any_questions_stupid_too_afraidshy/",
+      "title_en": "r/Indiaspeaks - Any Questions - Stupid , Too Afraid/Shy to Ask, Now is the Time",
+      "title_zh": "r/Indiaspeaks - 任何问题 - 愚蠢，太害怕/害羞而不敢问，现在是时候了",
+      "summary_en": "Welcome to our Stupid , Too Afraid/Shy to Ask, Now is the Time session Often we have questions that we are afraid to ask for several reasons, leave them behind and just ask because now is the time.... The questions could be anything and not pertaining to a particular subject, be it History, Science, Politics, Sports , Movies, Music, Daily life related But just remember to be civil and follow the rules of the Sub You can also join our Discord Server Invite [link] [comments]",
+      "summary_zh": "欢迎来到我们的“愚蠢，太害怕/害羞而不敢问，现在是时候了”会议我们经常会遇到一些由于多种原因而不敢问的问题，请将它们抛在脑后，只管问，因为现在是时候了....问题可以是任何内容，并且与特定主题无关，可以是历史，科学，政治，体育，电影，音乐，日常生活相关但请记住保持文明并遵守 Sub 的规则您也可以加入我们的 Discord 服务器邀请 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T11:00:20+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d64fc1e773c088b8",
@@ -913,7 +2507,71 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-06T11:00:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b5a8d587892819dd",
+      "url": "https://www.republicworld.com/world-news/jd-habibi-arabs-celebrate-el-sayed-s-use-of-a-term-of-affection-in-his-victory-speech-2026-11-06-140529",
+      "title_en": "'JD, Habibi': Arabs Celebrate El-Sayed's Use of a Term of Affection in His Victory Speech",
+      "title_zh": "“JD，哈比比”：阿拉伯人庆祝赛义德在胜利演讲中使用了充满感情的词语",
+      "summary_en": "Arabs thrilled to the gentle ribbing of the vice president, with many posting music video clips featuring “habibi” to social media. It was a rare outpouring of joy in a region traumatized by past and present conflicts — which have also fueled negative stereotypes in the West.",
+      "summary_zh": "阿拉伯人对副总统温和的玩笑感到兴奋，许多人在社交媒体上发布了以“哈比比”为主题的音乐视频片段。对于一个因过去和现在的冲突而饱受创伤的地区来说，这是罕见的喜悦之情，而这些冲突也助长了西方的负面刻板印象。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/jd-habibi-arabs-celebrate-el-sayed-s-use-of-a-term-of-affection-in-his-victory-speech-1793933091480-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T10:44:58+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "21dc1ae3f87a0061",
+      "url": "https://www.timesnownews.com/sports/cricket/australian-t20-star-chris-lynn-hit-with-ban-for-using-cocaine-article-156472406",
+      "title_en": "Australian T20 Star Chris Lynn Hit With Ban For Using Cocaine",
+      "title_zh": "澳大利亚 T20 明星克里斯·林恩因吸食可卡因而被禁止",
+      "summary_en": "Chris Lynn has completed a drug rehabilitation program and served a one-month suspension for cocaine use, as confirmed by England's Cricket Regulator. Lynn tested positive with trace amounts of benzoylecgonine, a cocaine metabolite, found in his sample., Cricket, Times Now",
+      "summary_zh": "英格兰板球监管机构证实，克里斯·林恩已完成戒毒计划，并因吸食可卡因而被停赛一个月。林恩的样本中发现了微量的苯甲酰爱康宁（一种可卡因代谢物），结果呈阳性。, 板球, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156472443,thumbsize-677484,width-1280,height-720,resizemode-75/156472443.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T10:42:20+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "44738ea9f94191f6",
+      "url": "https://www.republicworld.com/world-news/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments-2026-11-06-140528",
+      "title_en": "Trump Signs Proclamation to Preserve Oval Office, Cabinet Room as National Monuments",
+      "title_zh": "特朗普签署公告将椭圆形办公室和内阁会议室保留为国家古迹",
+      "summary_en": "Speaking to reporters at the Oval Office before signing the document, Trump described the two spaces as important symbols of American history and government, saying their historical significance must be preserved for future generations.",
+      "summary_zh": "在签署文件之前，特朗普在椭圆形办公室对记者表示，这两个空间是美国历史和政府的重要象征，并表示必须为子孙后代保留它们的历史意义。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments-1793932126266-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T10:28:55+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ebdfc07876e6f270",
@@ -929,7 +2587,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T10:27:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "db64d70436d03bb7",
@@ -945,7 +2607,51 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T10:15:30+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0f8965fd6ed07211",
+      "url": "https://www.republicworld.com/world-news/trump-warns-of-disaster-as-democratic-socialists-secure-mayoral-wins-in-los-angeles-washington-2026-11-06-140525",
+      "title_en": "Trump Warns of 'Disaster' as Democratic Socialists Secure Mayoral Wins in Los Angeles, Washington",
+      "title_zh": "民主社会主义者在华盛顿洛杉矶赢得市长职位，特朗普警告称“灾难”",
+      "summary_en": "Commenting on the victories, Trump said voters might eventually seek political change if they became dissatisfied with the new leadership, but cautioned that the consequences of such policies could become difficult to reverse.",
+      "summary_zh": "特朗普在评论这些胜利时表示，如果选民对新领导层不满意，他们最终可能会寻求政治变革，但他警告说，此类政策的后果可能会变得难以扭转。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/never-surrender-white-house-shares-trump-picture-after-republican-midterm-rout-iran-war-blamed-for-defeat-1793841432319-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T10:08:44+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f3340b2493c49357",
+      "url": "https://www.republicworld.com/world-news/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful-2026-11-06-140524",
+      "title_en": "Trump Defends Hegseth Amid Impeachment Threat, Says US Military Operations in Iran, Venezuela Successful",
+      "title_zh": "特朗普在弹劾威胁中为赫格斯辩护，称美国在伊朗和委内瑞拉的军事行动取得成功",
+      "summary_en": "Trump acknowledged American casualties during the Iran conflict, saying 18 US service members had lost their lives, while maintaining that the number was considerably lower than losses suffered during previous American military engagements in Vietnam and Afghanistan.",
+      "summary_zh": "特朗普承认伊朗冲突期间有美国人伤亡，称有 18 名美国军人丧生，同时坚称这一数字远低于美国此前在越南和阿富汗的军事行动中遭受的损失。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful-1793930495324-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T10:01:42+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "df05e23d77026678",
@@ -961,7 +2667,111 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T10:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a71b5d89fae38192",
+      "url": "https://www.timesnownews.com/viral/canva-employee-calls-experience-great-ride-despite-lay-off-viral-video-article-156472275",
+      "title_en": "‘I’m Gonna Miss You’: Canva Employee Calls Experience ‘Great Ride’ Despite Lay Off",
+      "title_zh": "“我会想念你”：尽管裁员，Canva 员工仍称体验“很棒的旅程”",
+      "summary_en": "A former Canva employee described her experience working at Canva as a “great ride,” despite being among the employees who were recently laid off. Here’s why…, Viral, Times Now",
+      "summary_zh": "一位 Canva 前员工形容她在 Canva 的工作经历是一次“很棒的旅程”，尽管她也是最近被解雇的员工之一。这就是为什么......，病毒式传播，时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156472276,thumbsize-88334,width-1280,height-720,resizemode-75/156472276.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T09:58:46+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "124c9f4b34398ed0",
+      "url": "https://www.republicworld.com/world-news/big-beautiful-agreement-trump-expresses-confidence-in-russia-ukraine-peace-deal-says-agreement-could-involve-all-of-europe-2026-11-06-140523",
+      "title_en": "'Big, Beautiful Agreement': Trump Expresses Confidence in Russia-Ukraine Peace Deal, Says Agreement Could Involve All of Europe",
+      "title_zh": "“伟大而美丽的协议”：特朗普表达了对俄罗斯-乌克兰和平协议的信心，称协议可能涉及整个欧洲",
+      "summary_en": "Trump also confirmed that he had met Russian President Vladimir Putin&#39;s envoy, Kirill Dmitriev, at the White House. While declining to disclose details of their conversation, he suggested that the discussions could lead to a wider diplomatic understanding.",
+      "summary_zh": "特朗普还证实，他在白宫会见了俄罗斯总统弗拉基米尔·普京的特使基里尔·德米特里耶夫。虽然拒绝透露谈话的细节，但他表示讨论可能会带来更广泛的外交理解。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/big-beautiful-agreement-trump-expresses-confidence-in-russia-ukraine-peace-deal-says-agreement-could-involve-all-of-europe-1793930060049-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T09:54:28+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a60cba22c1b9e76f",
+      "url": "https://www.republicworld.com/world-news/trump-displays-red-veto-cap-on-oval-office-desk-as-democrats-take-control-of-congress-2026-11-06-140522",
+      "title_en": "Trump Displays Red 'Veto' Cap on Oval Office Desk as Democrats Take Control of Congress",
+      "title_zh": "随着民主党控制国会，特朗普在椭圆形办公室桌上展示红色“否决”帽",
+      "summary_en": "The prominent display of the cap came as Trump addressed reporters during the signing of a proclamation seeking to preserve the Oval Office and the Cabinet Room as national monuments under the Antiquities Act.",
+      "summary_zh": "特朗普在签署一份公告时向记者发表讲话，寻求根据《古物法》将椭圆形办公室和内阁会议室保留为国家古迹，而这顶帽子的显眼展示正是在特朗普签署公告时出现的。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/trump-displays-red-veto-cap-on-oval-office-desk-as-democrats-take-control-of-congress-1793929721388-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T09:48:50+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3c749785711778b0",
+      "url": "https://www.republicworld.com/world-news/india-calls-for-better-resourced-protected-un-peacekeeping-missions-cites-300000-troop-deployments-2026-11-06-140521",
+      "title_en": "India Calls for Better-Resourced, Protected UN Peacekeeping Missions, Cites 300,000 Troop Deployments",
+      "title_zh": "印度呼吁为联合国维和特派团提供更好的资源和保护，并表示已部署30万部队",
+      "summary_en": "In a statement shared by India&#39;s Permanent Mission to the UN on X, Singh also reaffirmed India&#39;s commitment to peacekeeping, describing it as an indispensable component of the United Nations&#39; mandate.",
+      "summary_zh": "在印度常驻联合国代表团于X日发表的一份声明中，辛格还重申了印度对维和行动的承诺，并将其描述为联合国使命中不可或缺的组成部分。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/india-calls-for-better-resourced-protected-un-peacekeeping-missions-cites-300000-troop-deployments-1793929512238-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T09:45:22+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ae5cc909eb8d8ef6",
+      "url": "https://www.republicworld.com/world-news/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge-2026-11-06-140520",
+      "title_en": "'It Wasn’t Republicans, It Was Dumocrats': Trump Blames Election Results for Stock Market Plunge",
+      "title_zh": "“这不是共和党，而是杜民主”：特朗普将股市暴跌归咎于选举结果",
+      "summary_en": "In a post on Truth Social, Trump described the market decline as one of the worst in history and attributed the losses to the election outcome, while claiming that retirement savings had also been affected.",
+      "summary_zh": "在《Truth Social》上发表的一篇文章中，特朗普将市场下跌描述为历史上最严重的下跌之一，并将损失归因于选举结果，同时声称退休储蓄也受到了影响。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge-1793929294983-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T09:41:44+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "eb9d58d7bc285db0",
@@ -977,7 +2787,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-06T09:00:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6774edc2ae00f60d",
@@ -993,7 +2807,11 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-06T08:47:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "诈骗骗局"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6ec6592d552c36f8",
@@ -1009,7 +2827,31 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-06T08:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b94684c2eb78269b",
+      "url": "https://www.timesnownews.com/world/us/us-news/kristin-knouse-vs-david-sabatini-the-story-behind-mits-fake-metoo-scandal-that-is-going-viral-article-156472048",
+      "title_en": "Kristin Knouse vs David Sabatini: The Story Behind MIT’s Fake MeToo Scandal That Is Going Viral",
+      "title_zh": "克里斯汀·诺斯 (Kristin Knouse) 与大卫·萨巴蒂尼 (David Sabatini)：麻省理工学院假冒 MeToo 丑闻背后的故事",
+      "summary_en": "The case has taken the internet by storm. Elon Musk, hedge fund tycoon Bill Ackman and others have reacted to the case by expressing sheer horror and disbelief. Video clips from Knouse's deposition have gone viral on social media. , US News, Times Now",
+      "summary_zh": "此案在互联网上引起轩然大波。埃隆·马斯克（Elon Musk）、对冲基金大亨比尔·阿克曼（Bill Ackman）和其他人对此案的反应是表达了纯粹的恐惧和难以置信。诺斯证词的视频片段在社交媒体上疯传。 ，美国新闻，时报现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156472113,thumbsize-98664,width-1280,height-720,resizemode-75/156472113.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T07:10:15+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "103d6f307d450350",
@@ -1025,7 +2867,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T06:52:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "75dc94319603832f",
@@ -1041,7 +2887,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-06T06:45:15+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b93591437461e809",
@@ -1057,7 +2907,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T06:13:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "be87f9ac52911020",
@@ -1073,7 +2927,11 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-06T06:10:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a05c323efa15356b",
@@ -1089,7 +2947,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T05:58:02+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "77f17137c85f6e91",
@@ -1105,7 +2967,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T05:32:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ec48abeecbdc8a72",
@@ -1121,7 +2987,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-06T05:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5f868cd1d612e94c",
@@ -1137,7 +3007,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T04:03:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3b9e435acea750ba",
@@ -1153,7 +3028,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-06T03:22:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b3817539d3248b7c",
@@ -1169,7 +3048,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-06T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "702066b93967496a",
@@ -1185,7 +3068,32 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-11-06T02:45:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4bce61efdd243c35",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xopq05/kerala_islamic_scholar_mohammed_niyas_jauhari_who/",
+      "title_en": "Kerala Islamic scholar Mohammed Niyas Jauhari who recently received widespread attention for criticizing Malayali actress Nazriya Nazim's \"off-shoulder\" dress, has recently been arrested on sexual harrassment-related charges in a POCSO case",
+      "title_zh": "喀拉拉邦伊斯兰学者穆罕默德·尼亚斯·贾哈里（Mohammed Niyas Jauhari）最近因批评马来亚女演员纳兹里亚·纳齐姆（Nazriya Nazim）的“露肩”着装而受到广泛关注，最近在 POCSO 案件中因性骚扰相关指控被捕",
+      "summary_en": "Source link: https://organiser.org/2026/11/05/424406/bharat/keralam-woman-files-fresh-complaint-against-pocso-accused-islamic-scholar-mohammed-niyas-jauhari/amp/ [link] [comments]",
+      "summary_zh": "来源链接：https://organiser.org/2026/11/05/424406/bharat/keralam-woman-files-fresh-complaint-against-pocso-accused-islamic-scholar-mohammed-niyas-jauhari/amp/ [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/ugzb7nit3uzh1.jpeg?width=640&crop=smart&auto=webp&s=f54585fe5063545922000218be5971150573a776",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T02:07:34+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "影视神剧",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9748d6b8bd198fd1",
@@ -1201,7 +3109,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-06T02:05:56+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "07624d1c07baa920",
@@ -1217,7 +3129,72 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-06T02:03:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f35661f00132a76a",
+      "url": "https://www.timesnownews.com/business-economy/economy/from-defence-to-electronics-how-israeli-technology-could-boost-indias-manufacturing-ambitions-article-156471393",
+      "title_en": "From Defence To Electronics: How Israeli Technology Could Boost India's Manufacturing Ambitions",
+      "title_zh": "从国防到电子：以色列技术如何增强印度的制造业雄心",
+      "summary_en": "A recent survey indicates that young adults in India's Hindi heartland view Israel as the second most trusted ally after Russia, with a growing belief in the benefits of the partnership. , Economy, Times Now",
+      "summary_zh": "最近的一项调查表明，印度印地语腹地的年轻人将以色列视为仅次于俄罗斯的第二大最值得信赖的盟友，并且越来越相信这种伙伴关系的好处。 , 经济, 时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156471400,thumbsize-77476,width-1280,height-720,resizemode-75/156471400.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T01:58:14+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8a0307315556df44",
+      "url": "https://www.timesnownews.com/entertainment-news/south/tn-cm-vijay-trisha-attend-y-s-anil-reddy-daughters-wedding-reception-with-other-high-profile-guests-article-156471388",
+      "title_en": "TN CM Vijay, Trisha Attend Y S Anil Reddy Daughter's Wedding Reception With Other High-Profile Guests",
+      "title_zh": "TN CM Vijay、Trisha 与其他知名嘉宾一起出席 Y S Anil Reddy 女儿的婚宴",
+      "summary_en": "Tamil Nadu Chief Minister C Joseph Vijay attended Y.S. Anil Reddy's daughter's wedding reception in Chennai with Trisha and others., South, Times Now",
+      "summary_zh": "泰米尔纳德邦首席部长 C Joseph Vijay 出席 Y.S.阿尼尔·雷迪 (Anil Reddy) 的女儿与特丽莎 (Trisha) 和其他人在金奈 (Chennai) 举行的婚宴。, South, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156471392,thumbsize-433308,width-1280,height-720,resizemode-75/156471392.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T01:57:17+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "婚俗宗教",
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "7a77988b79c3e4bc",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xopfu2/karnatakas_soninlaw_karnataka_town_bhatkal/",
+      "title_en": "\"Karnataka's son-in-law\": Karnataka town Bhatkal rejoices as Abdul El-Sayed becomes US's first Muslim senator. His wife Dr Sarah Jukaku is the granddaughter of former Karnataka minister JH Shamsuddin",
+      "title_zh": "“卡纳塔克邦的女婿”：卡纳塔克邦巴特卡尔镇因阿卜杜勒·赛义德成为美国第一位穆斯林参议员而感到高兴。他的妻子 Sarah Jukaku 博士是前卡纳塔克邦部长 JH Shamsuddin 的孙女",
+      "summary_en": "Source link: https://www.indiatoday.in/amp/world/us-news/story/us-midterm-election-results-2026-michigan-senate-race-democrat-abdul-el-sayed-bhatkal-karnataka-connection-itspc-3032171-2026-11-04 [link] [comments]",
+      "summary_zh": "来源链接：https://www.indiatoday.in/amp/world/us-news/story/us-midterm-election-results-2026-michigan-senate-race-democrat-abdul-el-sayed-bhatkal-karnataka-connection-itspc-3032171-2026-11-04 [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/cnVteXZ0aXkxdXpoMbWE0fHTrVwLluv-dQczEWCuy2eTE9FeVjazIwFZYiO6.png?width=320&crop=smart&auto=webp&s=154ccf244024fbe9085bfd30fcc3c3ba8a9b1a3d",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-06T01:57:11+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f5dac1efd96d7fc7",
@@ -1233,7 +3210,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-06T01:50:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0db0c9024737c8e2",
@@ -1249,7 +3230,11 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-06T01:39:51+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "06088eae2d1dddb2",
@@ -1265,7 +3250,51 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T01:36:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "183e718899670d37",
+      "url": "https://www.republicworld.com/world-news/arab-led-parties-back-gadi-eisenkot-for-israel-pm-giving-him-support-of-67-lawmakers-against-netanyahu-2026-11-05-140518",
+      "title_en": "Arab-Led Parties Back Gadi Eisenkot For Israel PM, Giving Him Support Of 67 Lawmakers Against Netanyahu",
+      "title_zh": "阿拉伯领导的政党支持加迪·艾森科特担任以色列总理，让他获得 67 名议员反对内塔尼亚胡的支持",
+      "summary_en": "Arab-led parties have backed former military chief Gadi Eisenkot to form Israel&#39;s next government, bringing his potential support to 67 lawmakers and challenging Benjamin Netanyahu&#39;s political future.",
+      "summary_zh": "阿拉伯领导的政党支持前军事首长加迪·艾森科特组建以色列下一届政府，这为 67 名议员带来了潜在的支持，并对本杰明·内塔尼亚胡的政治未来构成了挑战。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/10/israel-election-benjamin-netanyahu-and-gadi-eisenkot-1793091526323-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T01:29:34+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3cacd136c1ca0b8f",
+      "url": "https://www.republicworld.com/world-news/melania-trump-details-her-role-in-oleshky-localized-ceasefire-hosts-russian-and-ukrainian-officials-at-white-house-2026-11-05-140517",
+      "title_en": "Melania Trump Details Her Role in Oleshky Localized Ceasefire, Hosts Russian and Ukrainian Officials at White House",
+      "title_zh": "梅拉尼娅·特朗普详细介绍了她在奥列什基局部停火中的作用，并在白宫接待了俄罗斯和乌克兰官员",
+      "summary_en": "The United States first lady stated that her communications with both the Russian and Ukrainian sides were “extensive, professional, detailed and highly cooperative.” She said that Russia and Ukraine signed the relevant agreements on October 23, a key step that enabled the temporary halt in fighting",
+      "summary_zh": "美国第一夫人表示，她与俄罗斯和乌克兰双方的沟通“广泛、专业、详细且高度合作”。她说，俄罗斯和乌克兰于10月23日签署了相关协议，这是实现暂时停止战斗的关键一步。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/us-first-lady-melania-trump-details-her-role-in-oleshky-localized-ceasefire-hosts-russian-and-ukrainian-officials-at-white-house-1793899413832-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T01:23:40+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c8638b93a8d1d465",
@@ -1281,7 +3310,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T01:08:32+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e63b0fdde93da903",
@@ -1297,7 +3330,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-06T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d67a4c14e7c36838",
@@ -1313,7 +3350,51 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-06T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5baf6ea41dcee28f",
+      "url": "https://www.timesnownews.com/world/paraguay-president-santiago-pea-resigns-following-bank-collapse-article-156471238",
+      "title_en": "Paraguay President Santiago Peña Resigns Following Bank Collapse",
+      "title_zh": "巴拉圭总统圣地亚哥·佩尼亚因银行倒闭而辞职",
+      "summary_en": "Paraguayan President Santiago Peña resigned amid growing demands for his removal following the collapse of digital lender ueno, which impacted millions of customers. , World News, Times Now",
+      "summary_zh": "数字借贷公司 ueno 倒闭影响了数百万客户，巴拉圭总统圣地亚哥·佩纳 (Santiago Peña) 辞职，要求其下台的呼声越来越高。 , 世界新闻, 时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156471237,thumbsize-739616,width-1280,height-720,resizemode-75/156471237.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T00:42:56+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "93dc888e358eeb60",
+      "url": "https://www.republicworld.com/world-news/oman-iran-seek-resuming-navigation-through-hormuz-without-obstacles-amid-regional-tensions-2026-11-05-140515",
+      "title_en": "Oman, Iran Seek 'Resuming Navigation' Through Hormuz 'Without Obstacles' Amid Regional Tensions",
+      "title_zh": "在地区紧张局势中，阿曼和伊朗寻求“无障碍”地“恢复”通过霍尔木兹海峡的航行",
+      "summary_en": "Omani Foreign Minister Badr bin Hamad bin Hamoud Al-Busaidi held a telephone conversation with Iranian Foreign Minister Abbas Araghchi. Both &quot;affirmed the importance of transitioning from a phase of de-escalating tensions to a phase of consolidating sustainable understandings.&quot;",
+      "summary_zh": "阿曼外交部长巴德尔·本·哈马德·本·哈穆德·布赛迪与伊朗外长阿巴斯·阿拉格奇进行了电话交谈。两人“都确认了从紧张局势缓和阶段过渡到巩固可持续理解阶段的重要性”。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/oman-iran-seek-resuming-navigation-through-hormuz-without-obstacles-amid-regional-tensions-1793895838047-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T00:24:06+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ef0656db1366b50a",
@@ -1329,7 +3410,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-06T00:17:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3ab64477599bd087",
@@ -1345,7 +3430,31 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-06T00:15:20+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b4d51f96184d772a",
+      "url": "https://www.republicworld.com/world-news/russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-uk-court-faces-lengthy-prison-sentence-2026-11-05-140514",
+      "title_en": "Russell Brand Found Guilty of Rape and Three Sexual Assaults by UK Court, Faces Lengthy Prison Sentence",
+      "title_zh": "拉塞尔·布兰德被英国法院认定犯有强奸和三项性侵犯罪，面临长期监禁",
+      "summary_en": "UK comedian Russell Brand convicted of rape and three sexual assaults in London. He was denied bail and will be sentenced on Monday.",
+      "summary_zh": "英国喜剧演员拉塞尔·布兰德在伦敦被判犯有强奸罪和三起性侵犯罪。他被拒绝保释，将于周一被判刑。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/comedian-russell-brand-found-guilty-by-uk-court-of-rape-sexual-assaults-1793894813373-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T00:07:00+08:00",
+      "fetched_at": "2026-11-08T23:16:18+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "74d45316eb228d93",
@@ -1361,7 +3470,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-06T00:06:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3567a8d0e9f513dd",
@@ -1377,7 +3490,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-06T00:00:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

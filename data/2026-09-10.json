@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "2f993a855f04d037",
@@ -17,7 +17,31 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-10T20:26:34+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ccea605c3e742d01",
+      "url": "https://www.news18.com/viral/is-that-an-iphone-1937-painting-leaves-internet-puzzled-over-mans-mysterious-object-ws-l-10321417.html",
+      "title_en": "Is That An iPhone? 1937 Painting Leaves Internet Puzzled Over Man’s Mysterious Object",
+      "title_zh": "那是 iPhone 吗？ 1937 年的绘画让互联网对人类的神秘物体感到困惑",
+      "summary_en": "",
+      "summary_zh": "那是 iPhone 吗？ 1937 年的绘画让互联网对人类的神秘物体感到困惑",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-10T19:19:59+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1f4fa07a070d2cbb",
@@ -33,7 +57,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-10T14:57:29+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

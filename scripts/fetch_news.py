@@ -21,6 +21,7 @@ import os
 import re
 import ssl
 import sys
+import threading
 import time
 import urllib.error
 import urllib.parse
@@ -30,6 +31,8 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.etree import ElementTree as ET
+
+from topics import TAG_ORDER, classify_item
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -49,8 +52,15 @@ MODELS_URL = os.environ.get(
 )
 MODELS_MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
 RETRY_DAYS = 7
-META_LIMIT = 400
+META_LIMIT = 800
 TRANSLATE_SEP = "<|/>"
+MEGATHREAD_RE = re.compile(
+    r"megathread|weekly discussion|discussion thread|free talk|daily discussion|"
+    r"random discussion|political discussion|what(?:'|’)s happening",
+    re.I,
+)
+_REDDIT_GATE = threading.Lock()
+_REDDIT_NEXT = 0.0
 
 # Feeds verified on 2026-11-08. Dead or empty feeds are documented in README
 # and are intentionally not listed here.
@@ -191,6 +201,65 @@ SOURCES = [
         "url": "https://news.google.com/rss/search?q=site:ndtv.com/offbeat+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
         "kind": "google",
         "title_suffix": " - NDTV",
+        "expect_host": "ndtv.com",
+    },
+    {
+        "id": "indian-express-trending",
+        "name": "Indian Express Trending",
+        "region": "印度",
+        "url": "https://indianexpress.com/section/trending/feed/",
+        "kind": "rss",
+    },
+    {
+        "id": "news18-viral",
+        "name": "News18 Viral",
+        "region": "印度",
+        "url": "https://news.google.com/rss/search?q=site:news18.com/viral+OR+site:news18.com/buzz+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+        "kind": "google",
+        "title_suffixes": [" - News18", " - CNN-News18"],
+        "expect_host": "news18.com",
+    },
+    {
+        "id": "timesnow-viral",
+        "name": "Times Now Viral",
+        "region": "印度",
+        "url": "https://news.google.com/rss/search?q=site:timesnownews.com+(viral+OR+bizarre+OR+offbeat)+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+        "kind": "google",
+        "title_suffix": " - Times Now",
+        "expect_host": "timesnownews.com",
+    },
+    {
+        "id": "republic-viral",
+        "name": "Republic World Viral",
+        "region": "印度",
+        "url": "https://news.google.com/rss/search?q=site:republicworld.com+(viral+OR+buzz+OR+offbeat)+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+        "kind": "google",
+        "title_suffixes": [" - Republic World", " - Republic"],
+        "expect_host": "republicworld.com",
+    },
+    {
+        "id": "reddit-india",
+        "name": "Reddit r/india",
+        "region": "印度",
+        "url": "https://www.reddit.com/r/india/new/.rss?limit=100",
+        "kind": "reddit",
+        "include_self": True,
+    },
+    {
+        "id": "reddit-indiaspeaks",
+        "name": "Reddit r/IndiaSpeaks",
+        "region": "印度",
+        "url": "https://www.reddit.com/r/IndiaSpeaks/new/.rss?limit=100",
+        "kind": "reddit",
+        "include_self": True,
+    },
+    {
+        "id": "reddit-indiasocial",
+        "name": "Reddit r/indiasocial",
+        "region": "印度",
+        "url": "https://www.reddit.com/r/indiasocial/new/.rss?limit=100",
+        "kind": "reddit",
+        "include_self": True,
     },
     {
         "id": "reddit-nottheonion",
@@ -402,6 +471,13 @@ def fetch_url(url: str, ua: str, timeout: int, limit: int) -> tuple[int, str, st
 
 def fetch_feed(source: dict) -> tuple[dict, str | None, str | None]:
     ua = REDDIT_UA if source["kind"] == "reddit" else UA
+    if source["kind"] == "reddit":
+        global _REDDIT_NEXT
+        with _REDDIT_GATE:
+            wait = _REDDIT_NEXT - time.time()
+            if wait > 0:
+                time.sleep(wait)
+            _REDDIT_NEXT = time.time() + 1.2
     last_error = None
     for attempt in range(2):
         try:
@@ -569,12 +645,16 @@ def decode_google_news_url(article_url: str) -> str | None:
     return None
 
 
-def resolve_google_entries(entries: list[dict]) -> list[dict]:
+def resolve_google_entries(entries: list[dict], source: dict | None = None) -> list[dict]:
     resolved: list[dict] = []
+    expect = ((source or {}).get("expect_host") or "").lower()
 
     def work(item: dict) -> dict | None:
         publisher = decode_google_news_url(item["url"])
         if not publisher or not publisher.startswith("http"):
+            return None
+        host = urllib.parse.urlsplit(publisher).netloc.lower()
+        if expect and expect not in host:
             return None
         updated = dict(item)
         updated["url"] = display_url(publisher)
@@ -599,10 +679,16 @@ def parse_feed(source: dict, xml_text: str) -> list[dict]:
             continue
         grouped = child_map(entry)
         title = element_text(grouped.get("title"))
-        suffix = source.get("title_suffix") or ""
-        if suffix and title.endswith(suffix):
-            title = title[: -len(suffix)].strip()
+        suffixes = list(source.get("title_suffixes") or [])
+        if source.get("title_suffix"):
+            suffixes.append(source["title_suffix"])
+        for suffix in suffixes:
+            if suffix and title.endswith(suffix):
+                title = title[: -len(suffix)].strip()
+                break
         if not title or title.lower() in {"untitled", "(untitled)"}:
+            continue
+        if source["kind"] == "reddit" and MEGATHREAD_RE.search(title):
             continue
         html_blobs = []
         for key in ("description", "summary", "encoded", "content"):
@@ -622,11 +708,15 @@ def parse_feed(source: dict, xml_text: str) -> list[dict]:
             for node in grouped.get("content", []) + grouped.get("summary", []):
                 content_html += "".join(node.itertext())
             external = reddit_external_url(content_html)
-            if not external:
+            if external:
+                link = external
+                html_blobs = []
+            elif source.get("include_self") and link.startswith("http"):
+                plain, _image = html_to_bits(content_html)
+                plain = re.sub(r"submitted by /u/\S+", "", plain, flags=re.I).strip()
+                html_blobs = [plain] if plain else []
+            else:
                 continue
-            link = external
-            # Reddit's content HTML is a submission table, not an article summary.
-            html_blobs = []
         if not link.startswith(("http://", "https://")):
             continue
         summary = ""
@@ -765,6 +855,7 @@ def enrich_one(item: dict) -> dict:
 def enrich_items(items: list[dict]) -> None:
     pending = [item for item in items if needs_meta(item)]
     pending.sort(key=lambda item: item.get("published_at") or "", reverse=True)
+    pending.sort(key=lambda item: item.get("region") != "印度")
     pending = pending[:META_LIMIT]
     if not pending:
         return
@@ -1036,6 +1127,103 @@ def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> 
         )
 
 
+def llm_retag(days: dict[str, list[dict]]) -> set[str]:
+    """Replace rule tags when an OpenAI-compatible model is explicitly configured."""
+    if not (os.environ.get("MODELS_API_KEY") or os.environ.get("MODELS_API_URL")):
+        return set()
+    if not probe_models():
+        log("topic model unavailable, keeping keyword tags")
+        return set()
+    queue = [
+        item
+        for items in days.values()
+        for item in items
+        if item.get("tag_source") != "model"
+    ][:160]
+    if not queue:
+        return set()
+    log(f"model topic tags for {len(queue)} items")
+    dirty: set[str] = set()
+    allowed = ", ".join(TAG_ORDER)
+    index = 0
+    while index < len(queue):
+        batch = queue[index : index + 10]
+        index += 10
+        payload = [
+            {
+                "id": item["id"],
+                "title": item.get("title_en") or "",
+                "summary": (item.get("summary_en") or "")[:400],
+            }
+            for item in batch
+        ]
+        prompt = (
+            "给每条新闻选 1 到 3 个选题标签，只能使用这些标签："
+            + allowed
+            + "。只依据标题和摘要，不要编造。只返回 JSON 数组，元素为 "
+            '{"id","tags"}，tags 是字符串数组。\n'
+            + json.dumps(payload, ensure_ascii=False)
+        )
+        try:
+            status, _ctype, body = post_json(
+                MODELS_URL,
+                {
+                    "model": MODELS_MODEL,
+                    "temperature": 0,
+                    "messages": [
+                        {"role": "system", "content": "You output only JSON."},
+                        {"role": "user", "content": prompt},
+                    ],
+                },
+                {
+                    "Authorization": f"Bearer {models_token()}",
+                    "Content-Type": "application/json",
+                    "Accept": "application/json",
+                },
+            )
+            if status != 200 or not body.strip().startswith("{"):
+                log(f"  topic model HTTP {status}")
+                break
+            content = json.loads(body)["choices"][0]["message"]["content"]
+            content = re.sub(r"^```(?:json)?\s*", "", content.strip())
+            content = re.sub(r"\s*```$", "", content)
+            parsed = json.loads(content)
+        except Exception as exc:  # noqa: BLE001
+            log(f"  topic model failed: {exc}")
+            break
+        found = {}
+        for row in parsed if isinstance(parsed, list) else []:
+            if not isinstance(row, dict):
+                continue
+            tags = [tag for tag in row.get("tags") or [] if tag in TAG_ORDER and tag != "其他"]
+            tags = tags[:3] or ["其他"]
+            found[str(row.get("id") or "")] = tags
+        for item in batch:
+            tags = found.get(item["id"])
+            if not tags:
+                continue
+            item["tags"] = tags
+            item["tag_source"] = "model"
+            dirty.add(day_of(item))
+        time.sleep(1.0)
+    return dirty
+
+
+def apply_tags(days: dict[str, list[dict]]) -> set[str]:
+    dirty: set[str] = set()
+    for date, items in days.items():
+        for item in items:
+            if item.get("tag_source") == "model" and item.get("tags"):
+                continue
+            tags = classify_item(item)
+            if item.get("tags") != tags or item.get("tag_source") != "rules":
+                item["tags"] = tags
+                item["tag_source"] = "rules"
+                dirty.add(date)
+    dirty |= llm_retag(days)
+    return dirty
+
+
 def item_sort_key(item: dict) -> tuple[str, str]:
     return (item.get("published_at") or "", item.get("id") or "")
 
@@ -1069,6 +1257,56 @@ def write_outputs(days: dict[str, list[dict]], dirty: set[str]) -> None:
             "timezone": "Asia/Shanghai",
             "updated_at": iso_shanghai(datetime.now(SHANGHAI)),
             "dates": dates,
+        },
+    )
+    write_search(days)
+
+
+def write_search(days: dict[str, list[dict]]) -> None:
+    by_month: dict[str, list[dict]] = {}
+    for date, items in days.items():
+        month = date[:7]
+        if len(month) != 7:
+            continue
+        bucket = by_month.setdefault(month, [])
+        for item in items:
+            bucket.append(
+                {
+                    "id": item.get("id"),
+                    "date": date,
+                    "published_at": item.get("published_at"),
+                    "title_zh": item.get("title_zh"),
+                    "title_en": item.get("title_en"),
+                    "summary_zh": item.get("summary_zh"),
+                    "summary_en": item.get("summary_en"),
+                    "image": item.get("image"),
+                    "source": item.get("source"),
+                    "region": item.get("region"),
+                    "tags": item.get("tags") or ["其他"],
+                    "url": item.get("url"),
+                    "translation_status": item.get("translation_status"),
+                }
+            )
+    search_dir = DATA / "search"
+    search_dir.mkdir(parents=True, exist_ok=True)
+    keep: set[str] = set()
+    months = []
+    for month, records in by_month.items():
+        records.sort(key=lambda row: row.get("published_at") or "", reverse=True)
+        filename = f"{month}.json"
+        keep.add(filename)
+        write_json(search_dir / filename, {"month": month, "count": len(records), "items": records})
+        months.append({"month": month, "count": len(records), "file": f"data/search/{filename}"})
+    for stale in search_dir.glob("????-??.json"):
+        if stale.name not in keep:
+            stale.unlink()
+    months.sort(key=lambda row: row["month"], reverse=True)
+    write_json(
+        DATA / "search-index.json",
+        {
+            "updated_at": iso_shanghai(datetime.now(SHANGHAI)),
+            "tags": TAG_ORDER,
+            "months": months,
         },
     )
 
@@ -1112,7 +1350,7 @@ def main() -> int:
             entries = parse_feed(source, text)
             if source["kind"] == "google":
                 before = len(entries)
-                entries = resolve_google_entries(entries)
+                entries = resolve_google_entries(entries, source)
                 log(f"     resolved {len(entries)}/{before} Google News links for {source['name']}")
         except Exception as exc:  # noqa: BLE001
             feed_errors.append(f"{source['name']}: parse {exc}")
@@ -1167,11 +1405,13 @@ def main() -> int:
             if (item.get("title_zh"), item.get("translation_status")) != before[item["id"]]:
                 dirty.add(day_of(item))
 
-    if not dirty and (DATA / "index.json").exists():
+    dirty |= apply_tags(days)
+    search_missing = not (DATA / "search-index.json").exists()
+    if not dirty and not search_missing and (DATA / "index.json").exists():
         log("no data changes")
     else:
         write_outputs(days, dirty)
-        log(f"wrote {len(dirty)} day file(s)")
+        log(f"wrote {len(dirty)} day file(s) and the search index")
 
     by_status: dict[str, int] = {}
     by_day: list[tuple[str, int]] = []
@@ -1186,6 +1426,18 @@ def main() -> int:
     if feed_errors:
         log("feed errors: " + " | ".join(feed_errors))
     log("days: " + ", ".join(f"{date}={count}" for date, count in by_day[:14]))
+    india_recent = []
+    for date, count in by_day[:6]:
+        day_items = days.get(date) or []
+        india = sum(1 for item in day_items if item.get("region") == "印度")
+        india_recent.append(f"{date}:{india}/{count}")
+    all_tags: dict[str, int] = {}
+    for item_list in days.values():
+        for item in item_list:
+            for tag in item.get("tags") or []:
+                all_tags[tag] = all_tags.get(tag, 0) + 1
+    log("india recent " + ", ".join(india_recent))
+    log("tags " + ", ".join(f"{tag}={all_tags.get(tag, 0)}" for tag in TAG_ORDER))
     log(
         "SUMMARY "
         f"new={len(new_items)} total={total} images={images} "

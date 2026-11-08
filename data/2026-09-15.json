@@ -17,7 +17,13 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-15T22:38:32+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "婚俗宗教",
+        "商业套路",
+        "影视神剧"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d92e0ac63ea6c694",
@@ -33,7 +39,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-09-15T03:09:56+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

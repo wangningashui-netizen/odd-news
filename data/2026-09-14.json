@@ -17,7 +17,11 @@
       "source_id": "oddity-central",
       "region": "全球",
       "published_at": "2026-09-14T21:09:42+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0db46d2a14c30526",
@@ -33,7 +37,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-09-14T21:03:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a6f76296b65a4fdf",
@@ -49,7 +57,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-14T19:50:32+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "aaf7e092392bd591",
@@ -65,7 +77,11 @@
       "source_id": "oddity-central",
       "region": "全球",
       "published_at": "2026-09-14T19:38:34+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "41e3bddc6eb1dca4",
@@ -81,7 +97,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-09-14T17:11:36+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

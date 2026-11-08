@@ -17,7 +17,12 @@
       "source_id": "toi-viral",
       "region": "印度",
       "published_at": "2024-01-05T18:18:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事",
+        "军事政治"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,8 +1,69 @@
 {
   "date": "2026-10-08",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 10,
   "items": [
+    {
+      "id": "befeb04c30aba107",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/norwegian-mayor-india-autorickshaw-viral-video-10912753/",
+      "title_en": "Norwegian mayor travels 4,300 km across India in autorickshaw: ‘So down to earth’",
+      "title_zh": "挪威市长乘坐机动三轮车穿越印度 4,300 公里：“脚踏实地”",
+      "summary_en": "In a viral clip, a Gujarati man who appears to have met Jo Inge Hesjevik during a stop in the state introduces him to the camera, pointing out that he is a mayor back home.",
+      "summary_zh": "在一段广为流传的视频中，一名古吉拉特男子似乎在该州停留时遇见了乔·英格·赫斯耶维克，他向镜头介绍了他，并指出他是家乡的市长。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Norwegian-mayor-travels-India-in-autorickshaw.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-08T21:04:25+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d7a6c8ef25e63b5d",
+      "url": "https://indianexpress.com/article/trending/trending-globally/donnajean-wilde-5-hour-plank-world-record-10912724/",
+      "title_en": "At 61, woman holds plank for 5 hours, breaks her own world record",
+      "title_zh": "61岁女子平板支撑5小时打破自己保持的世界纪录",
+      "summary_en": "DonnaJean Wilde took on the gruelling challenge, remaining in the plank position as the hours passed and eventually completing the five-hour mark.",
+      "summary_zh": "唐娜·吉恩·王尔德 (DonnaJean Wilde) 接受了这项艰巨的挑战，随着时间的流逝，她一直保持平板支撑姿势，最终完成了 5 小时的任务。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/DonnaJean-Wilde-plank-world-record.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-08T20:14:43+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "649a07e40bacced6",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/israeli-singer-ben-raivitz-hanuman-chalisa-flydubai-pilot-smit-machchhar-10912445/",
+      "title_en": "‘Indian hero’: Israeli singer’s ‘Hanuman Chalisa’ tribute to Captain Smit Machchhar goes viral",
+      "title_zh": "“印度英雄”：以色列歌手向斯密特·马赫恰尔船长致敬的“Hanuman Chalisa”在网上疯传",
+      "summary_en": "Captain Smit Machchhar had revealed that he recited the Hanuman Chalisa while battling to keep the fludubai flight to Tel Aviv in the air after his co-pilot allegedly attacked him.",
+      "summary_zh": "机长斯米特·马赫查尔透露，在他的副驾驶据称袭击了他之后，他在努力保持飞往特拉维夫的航班飞行时背诵了《哈努曼查利萨》。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Captain-Smit-Machchhar-Hanuman-Chalisa-Israeli-singer.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-08T18:09:23+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "5040bd266c0b4f86",
       "url": "https://metro.co.uk/2026/10/08/rare-two-headed-baby-turtle-discovered-two-distinct-personalities-29687484/",
@@ -17,7 +78,71 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-08T17:26:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d35459aae4f219a4",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/dehradun-iphone-theft-stolen-phone-password-10912099/",
+      "title_en": "‘Give me iPhone password’: Dehradun woman says thief contacted her after stealing phone",
+      "title_zh": "“给我 iPhone 密码”：德拉敦女子称窃贼在偷手机后联系了她",
+      "summary_en": "Kaushiki Dhyani, who shared her ordeal on Instagram, said her iPhone was stolen from Clement Town on September 12.",
+      "summary_zh": "Kaushiki Dhyani 在 Instagram 上分享了她的遭遇，她说她的 iPhone 于 9 月 12 日在克莱门特镇被盗。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Dehradun-iPhone-theft.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-08T15:06:29+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "cd5a4439adf31bfe",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/nana-patekar-dies-at-75-control-uday-iconic-movie-moments-memes-dialogues-millennials-gen-z-10911875/",
+      "title_en": "Nana Patekar dies at 75: ‘Control Uday’ and other iconic memes that won over millennials and Gen Z",
+      "title_zh": "娜娜·帕特卡 (Nana Patekar) 去世，享年 75 岁：“控制乌代”和其他赢得千禧一代和 Z 世代青睐的标志性模因",
+      "summary_en": "As the film industry and millions of fans mourn the actor’s death, we have compiled a list of iconic Nana Patekar movie moments that became memes.",
+      "summary_zh": "在电影业和数百万影迷哀悼这位演员的去世之际，我们整理了一份成为模因的娜娜·帕特卡标志性电影时刻清单。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Nana-Patekar-memes.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-08T13:02:32+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "284e17d825508982",
+      "url": "https://indianexpress.com/article/trending/trending-globally/the-orange-plague-naked-trump-statue-unveiled-near-european-parliament-10911862/",
+      "title_en": "‘The Orange Plague’: Naked Trump statue unveiled near European Parliament",
+      "title_zh": "“橙色瘟疫”：特朗普裸体雕像在欧洲议会附近揭幕",
+      "summary_en": "Created by Danish sculptor Jens Galschiøt, the eight-foot-long sculpture depicts US President Donald Trump holding a golf club in one hand and the scales of justice in the other.",
+      "summary_zh": "这座八英尺长的雕塑由丹麦雕塑家 Jens Galschiøt 创作，描绘了美国总统唐纳德·特朗普一手拿着高尔夫球杆，另一只手拿着正义的天平。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Trump-naked-statue.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-08T12:51:19+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "810889dda5ff310a",
@@ -33,7 +158,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-08T05:45:28+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8b80b1babd4a85c2",
@@ -49,7 +178,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-08T02:00:23+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9c1de2939c196023",
@@ -65,7 +198,13 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-08T00:00:30+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "军事政治",
+        "犯罪法律",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

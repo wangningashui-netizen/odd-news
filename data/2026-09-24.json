@@ -1,8 +1,128 @@
 {
   "date": "2026-09-24",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 8,
   "items": [
+    {
+      "id": "583817e1cce60f55",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bihar-iit-kanpur-abhishek-anand-japan-cricket-team-10892546/",
+      "title_en": "Meet Abhishek Anand: How a Bihar-born IITian now plays cricket for Japan",
+      "title_zh": "认识阿布舍克·阿南德 (Abhishek Anand)：出生于比哈尔邦的 IITian 现在如何为日本打板球",
+      "summary_en": "All-rounder Abhishek Anand, who is also a right-arm medium pacer, began playing softball cricket in Patna. However, academics remained his priority.",
+      "summary_zh": "全能运动员阿布舍克·阿南德（Abhishek Anand）也是一名右臂中速运动员，他开始在巴特那打垒球板球。然而，学术仍然是他的首要任务。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Abhishek-Anand-Japan-cricket-team.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-24T21:24:40+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "abc3b44f1889881c",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/ganesh-chaturthi-antarctica-snow-ganesh-idol-10892445/",
+      "title_en": "Ganesh Visarjan in Antarctica: Scientists make snow idol, perform eco-friendly immersion",
+      "title_zh": "南极洲的 Ganesh Visarjan：科学家制作雪像，进行环保沉浸",
+      "summary_en": "Researchers from the National Centre for Polar and Ocean Research came together to shape the snow into an idol of Bappa before carrying out the usual festivities.",
+      "summary_zh": "来自国家极地和海洋研究中心的研究人员聚集在一起，在进行通常的庆祝活动之前，将雪塑造成巴帕的偶像。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Ganesh-Chaturthi-in-Antarctica.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-24T20:23:09+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "db33fce36c5a19dc",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bittu-tabahi-yamuna-river-cleanup-delhi-alok-jain-10892267/",
+      "title_en": "Bittu Tabahi removes 585 kg garbage from Yamuna; CEO reacts: ‘Slap on administration’",
+      "title_zh": "Bittu Tabahi 从亚穆纳清除了 585 公斤垃圾；首席执行官回应：“打击管理”",
+      "summary_en": "Surendra Singh Choudhary shared a video on September 22, showing volunteers picking up plastic, religious offerings, and other waste from the Delhi-NCR stretch of the Yamuna.",
+      "summary_zh": "苏伦德拉·辛格·乔杜里 (Surendra Singh Choudhary) 于 9 月 22 日分享了一段视频，视频中志愿者们从亚穆纳河德里至国家首都辖区捡拾塑料、宗教祭品和其他废物。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Bittu-Tabahi-Yamuna-cleanup.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-24T18:43:11+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "卫生环境"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "db99e78ed5ffde1b",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/neeraj-pandey-maithili-thakur-bihar-safety-remarks-jamui-molestation-moral-policing-10891964/",
+      "title_en": "Neeraj Pandey on Maithili Thakur’s Bihar safety remark: ‘Not everyone’s Bihar is the same’",
+      "title_zh": "Neeraj Pandey 谈 Maithili Thakur 的比哈尔邦安全言论：“并非每个人的比哈尔邦都是一样的”",
+      "summary_en": "Pandey’s comments came after an old video of Thakur defending women’s safety in Bihar resurfaced online following the Jamui molestation and moral policing incident.",
+      "summary_zh": "潘迪发表上述言论之前，贾穆伊性骚扰和道德警务事件发生后，塔库尔捍卫比哈尔邦妇女安全的旧视频在网上重新出现。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Neeraj-Pandey-Maithili-Thakur-Bihar-women-safety.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-24T15:40:39+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "df15f9a89b053312",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/ahmedabad-81-year-old-ent-doctor-nandlal-manseta-income-based-consultation-fee-10891891/",
+      "title_en": "Earn nothing? Pay nothing: 81-year-old Ahmedabad doctor charges patients based on their monthly income",
+      "title_zh": "什么都赚不到？无需支付任何费用：81 岁的艾哈迈达巴德医生根据患者的月收入向患者收费",
+      "summary_en": "At his clinic, Dr Nandlal Manseta follows a flexible pricing model. Patients are not asked to submit income certificates or any other documents.",
+      "summary_zh": "在他的诊所，Nandlal Manseta 医生遵循灵活的定价模式。不要求患者提交收入证明或任何其他文件。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Ahmedabad-doctor-income-based-consultation-fee.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-24T14:44:34+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4e831fbbcc6ed01a",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/flying-beast-gaurav-taneja-dog-reportedly-dies-farmhouse-social-media-users-allege-neglect-10891713/",
+      "title_en": "‘Flying Beast’ Gaurav Taneja’s pet dog Mau reportedly dies, ex-employee alleges neglect",
+      "title_zh": "据报道，“飞兽”高拉夫·塔内贾 (Gaurav Taneja) 的宠物狗毛 (Mau) 死亡，前雇员指控疏忽",
+      "summary_en": "Fitness creator Pushpendra Choudhary shared multiple posts and Stories making allegations about Mau’s health",
+      "summary_zh": "健身创始人 Pushpendra Choudhary 分享了多篇帖子和故事，对 Mau 的健康提出指控",
+      "translation_status": "fallback",
+      "image": "https://indianexpress.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-at-12.36.23-PM.png?resize=339,600",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-24T13:31:29+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "2846fd0373072c3e",
       "url": "https://allthatsinteresting.com/clotilda",
@@ -17,7 +137,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-24T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7743087f2e5a5970",
@@ -33,7 +157,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-24T05:45:19+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "date": "2025-07-24",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "49b855011a8ebf7e",
+      "url": "https://www.news18.com/viral/mumbai-atal-setu-creates-history-as-india-longest-sea-bridge-cost-rs-17840-crore-aa-9461090.html",
+      "title_en": "Boon For Mumbai, This ‘Engineering Marvel’ Created History As World’s 12th & India’s Longest...",
+      "title_zh": "这个“工程奇迹”创造了世界第 12 个、印度最长的历史，这对孟买来说是福音",
+      "summary_en": "",
+      "summary_zh": "这个“工程奇迹”创造了世界第 12 个、印度最长的历史，这对孟买来说是福音",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-24T18:42:26+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

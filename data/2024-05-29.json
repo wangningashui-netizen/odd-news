@@ -1,0 +1,27 @@
+{
+  "date": "2024-05-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "347b8aacac05ed28",
+      "url": "https://www.news18.com/viral/indian-influencer-shares-struggles-of-returning-amazon-package-in-canada-gets-schooled-for-slave-mindset-8908635.html",
+      "title_en": "Indian Influencer Shares 'Struggles' of Returning Amazon Package In Canada, Gets Schooled for 'Slave Mindse",
+      "title_zh": "印度影响者分享在加拿大退回亚马逊包裹的“挣扎”，接受“奴隶心态”教育",
+      "summary_en": "",
+      "summary_zh": "印度影响者分享在加拿大退回亚马逊包裹的“挣扎”，接受“奴隶心态”教育",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-05-29T17:39:09+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

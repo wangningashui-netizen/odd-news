@@ -196,12 +196,45 @@ button:disabled {
   padding: 0 12px;
 }
 
-.regions {
-  grid-column: 1 / -1;
+.regions,
+.topics,
+.topic-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.regions,
+.topics {
+  grid-column: 1 / -1;
+}
+
+.topics {
   padding-bottom: 8px;
+}
+
+.topics button,
+.topic {
+  border: 1px solid var(--line);
+  background: transparent;
+  border-radius: 999px;
+  padding: 4px 10px;
+  min-height: 32px;
+  font-size: 13px;
+}
+
+.topics button[aria-pressed="true"] {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+.topic {
+  color: var(--muted);
+}
+
+.topic-tags {
+  gap: 6px;
 }
 
 .status-line {

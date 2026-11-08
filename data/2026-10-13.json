@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 11,
   "items": [
     {
       "id": "8fcbc890fb652528",
@@ -17,7 +17,92 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-13T21:59:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8f9b07a3a1159211",
+      "url": "https://indianexpress.com/article/trending/trending-globally/jeff-bezos-ai-three-day-workweek-10920004/",
+      "title_en": "Work just 3 days a week? Jeff Bezos says AI could change future of work",
+      "title_zh": "每周只工作 3 天？杰夫·贝佐斯表示人工智能可以改变工作的未来",
+      "summary_en": "Bezos said AI-driven economic changes could give people more freedom to decide how much they want to work.",
+      "summary_zh": "贝佐斯表示，人工智能驱动的经济变革可以让人们更自由地决定自己想工作多少。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Jeff-Bezos-on-AI-and-three-day-workweek.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T21:03:42+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "627a8a4f0acc1f89",
+      "url": "https://indianexpress.com/article/trending/trending-globally/kevin-oleary-content-creation-highest-paying-skill-400k-salary-side-hustle-advice-10919837/",
+      "title_en": "‘Content creation is the highest paying skill’: Kevin O’Leary shares how artists can earn more",
+      "title_zh": "“内容创作是收入最高的技能”：Kevin O’Leary 分享艺术家如何赚取更多收入",
+      "summary_en": "Shark Tank investor Kevin O’Leary declared content creation the highest-paying skill today, claiming skilled videographers and photographers can build lucrative careers.",
+      "summary_zh": "《创智赢家》投资者凯文·奥利里 (Kevin O’Leary) 宣称内容创作是当今收入最高的技能，并声称熟练的摄像师和摄影师可以打造利润丰厚的职业。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Kevin-OLeary-on-content-creation.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T20:06:42+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9dae86cfd26be38b",
+      "url": "https://indianexpress.com/article/trending/trending-globally/us-engineer-poisoned-for-18-months-by-co-worker-viral-video-10919602/",
+      "title_en": "US engineer poisoned for 18 months by co-worker: ‘He doesn’t deserve a second chance’",
+      "title_zh": "美国工程师被同事毒害18个月：“他不值得第二次机会”",
+      "summary_en": "Battling health complications years after being poisoned at work, Rong Yuan condemned the legal system for clearing her former colleague’s criminal record despite video proof and cadmium exposure that also sickened her family.",
+      "summary_zh": "在工作中中毒多年后，荣媛一直在与健康并发症作斗争，她谴责法律系统清除了她前同事的犯罪记录，尽管有视频证据和镉暴露也让她的家人患病。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Berkeley-chemical-engineer-poisoning.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T18:28:16+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0362a9e01eb88b9a",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/10-best-countries-in-the-world-2026-greece-leads-india-ranks-among-the-top-20-10919232/",
+      "title_en": "10 best countries in the world 2026: Greece leads, India ranks among the top 20",
+      "title_zh": "2026年全球最佳10个国家：希腊领先 印度跻身前20",
+      "summary_en": "Best 10 Countries in the World 2026 list: From historic European hubs to Asian island chains, here are the best 10 countries in the world 2026 according to Condé Nast Traveller's reader survey.",
+      "summary_zh": "2026 年世界最佳 10 个国家名单：根据 Condé Nast Traveller 的读者调查，从历史悠久的欧洲中心到亚洲岛链，以下是 2026 年世界最佳 10 个国家。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Best-10-Countries-in-the-World-2026.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T17:56:37+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7c5f00d71a1708e3",
@@ -33,7 +118,112 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-10-13T16:21:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1aac2e5620280e22",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/richa-chadhas-surveillance-makeup-hack-goes-viral-amid-anti-cec-protests-10919091/",
+      "title_en": "Richa Chadha’s surveillance makeup hack goes viral amid anti-CEC protests",
+      "title_zh": "Richa Chadha 的监控化妆黑客行为在反 CEC 抗议活动中疯传",
+      "summary_en": "Addressing concerns over non-consensual surveillance by authorities at protest sites, actor Richa Chadha posted a detailed makeup tutorial on X, offering demonstrators a creative technique to pote",
+      "summary_zh": "为了解决当局在抗议现场未经同意进行监控的担忧，演员 Richa Chadha 在 X 上发布了详细的化妆教程，为示威者提供了一种创造性的化妆技巧",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Addressing-concerns-over-non-consensual-surveillance-by-authorities-at-protest-sites-actor-Richa-Chadha-posted-a-detailed-makeup-tutorial-on-X-offering-demonstrators-a-creative-technique-to-pote.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T15:23:45+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8d2af0c4d32d7cf3",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/zoho-sridhar-vembu-salary-hikes-hiring-freeze-backlash-x-post-10919176/",
+      "title_en": "‘Make in India yesterday, pray for us today’: Sridhar Vembu faces backlash over hike freeze",
+      "title_zh": "“昨天的印度制造，今天为我们祈祷”：Sridhar Vembu 因冻结加息而面临强烈反对",
+      "summary_en": "Zoho founder Sridhar Vembu faced sharp criticism on X after freezing employee salary hikes, citing rising AI expenses, just days after urging Indian tech professionals in the US to return home.",
+      "summary_zh": "Zoho 创始人 Sridhar Vembu 因人工智能支出上升而冻结员工加薪，而就在几天前敦促在美国的印度科技专业人士回国后，X 遭到了严厉批评。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Sridhar-Vembu-Zoho-salary-hikes.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T15:02:32+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0d8aa5ace48b9903",
+      "url": "https://indianexpress.com/article/trending/trending-globally/robot-gropes-16-year-old-girl-in-germany-10919051/",
+      "title_en": "‘Just bad owners’: Robot gropes 16-year-old girl in Germany",
+      "title_zh": "“只是坏主人”：机器人在德国猥亵 16 岁女孩",
+      "summary_en": "The Cologne police have launched an investigation to determine how the robot operated during the alleged incident and whether its movements were deliberately controlled remotely.",
+      "summary_zh": "科隆警方已展开调查，以确定该机器人在涉嫌事件中的操作方式以及其动作是否受到故意远程控制。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Robot-harasses-girl-in-Germany.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T13:37:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "科技发明",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2135423f5e6daed1",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/decades-in-it-no-job-offer-indian-origin-techie-considers-returning-to-india-10918990/",
+      "title_en": "Decades in IT, no job offer: Indian-Origin techie considers returning to India",
+      "title_zh": "从事 IT 数十年却没有工作机会：印度裔技术人员考虑返回印度",
+      "summary_en": "Gautam Dev, who lives in Dallas, Texas, resigned from his software engineering job in September 2024 after his employer asked him to relocate to another state to retain his position.",
+      "summary_zh": "Gautam Dev 居住在德克萨斯州达拉斯市，在雇主要求他搬到另一个州以保留职位后，他于 2024 年 9 月辞去了软件工程工作。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Indian-techie-in-US-unemployement-1.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T13:05:58+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "371d28039e7b6dde",
+      "url": "https://indianexpress.com/article/trending/trending-globally/china-breaking-bad-drug-network-etomidate-bust-10918877/",
+      "title_en": "China busts ‘Breaking Bad’-style drug racket led by retired chemistry professor",
+      "title_zh": "中国捣毁由退休化学教授领导的《绝命毒师》式的贩毒团伙",
+      "summary_en": "The police first noticed that a pharmaceutical company had purchased unusually large quantities of six chemicals used to make a substance illegally used in e-cigarettes.",
+      "summary_zh": "警方首先注意到一家制药公司购买了异常大量的六种化学品，用于制造非法用于电子烟的物质。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Breaking-Bad-China-drug-1-1.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-13T11:36:40+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

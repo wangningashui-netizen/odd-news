@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "Asia/Shanghai",
-  "count": 11,
+  "count": 14,
   "items": [
     {
       "id": "3ab7cd2e186cd597",
@@ -17,7 +17,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T21:14:19+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7d952183280a224f",
@@ -33,7 +38,12 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-28T20:36:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "交通火车",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3be0fc9cf048562a",
@@ -49,7 +59,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T20:27:09+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7e25e9464dbc74a2",
@@ -65,7 +79,31 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-28T20:21:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "674a3cdade6bbe09",
+      "url": "https://indianexpress.com/article/trending/trending-globally/obstacle-course-racing-champion-crosses-south-africas-highest-bridge-on-600-monkey-bars-10940086/",
+      "title_en": "Obstacle course racing champion crosses South Africa’s highest bridge on 600 monkey bars",
+      "title_zh": "障碍赛冠军跨越 600 个猴栏跨越南非最高的桥梁",
+      "summary_en": "South African OCR world champion Thomas van Tonder conquers a world-first challenge, crossing the 280-meter arch of Bloukrans Bridge on 600 monkey bars in 47 minutes.",
+      "summary_zh": "南非 OCR 世界冠军 Thomas van Tonder 征服了世界首个挑战，在 47 分钟内跨越 600 个猴栏，穿过 280 米长的 Bloukrans 桥拱门。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/South-African-OCR-world-champion-Thomas-van-Tonder-conquers-a-world-first-challenge-crossing-the-280-meter-arch-of-Bloukrans-Bridge-on-600-monkey-bars-in-47-minutes.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-28T19:41:47+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "780d85633a420b07",
@@ -81,7 +119,52 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T18:32:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "de8a33b6de4e683d",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/kachori-in-hand-rs-20-lakh-gone-jaipur-businessman-chases-thieves-in-viral-video-10940002/",
+      "title_en": "Kachori in hand, Rs 20 lakh gone: Jaipur businessman chases thieves in viral video",
+      "title_zh": "卡乔里在手，200万卢比不见了：斋浦尔商人在病毒视频中追赶小偷",
+      "summary_en": "Twenty lakh gone in minutes; Jaipur businessman’s quick kachori break turns into a nightmare as thieves target his parked vehicle.",
+      "summary_zh": "二十万卢比在几分钟内就消失了；斋浦尔商人的快速卡乔里突破变成了一场噩梦，因为窃贼瞄准了他停放的车辆。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Twenty-lakh-gone-in-minutes-Jaipur-businessmans-quick-kachori-break-turns-into-a-nightmare-as-thieves-target-his-parked-vehicle.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-28T17:08:14+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "18460fc74f6de094",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/mukesh-ambani-gets-emotional-as-anant-isha-ambani-speaks-at-jios-listing-10940164/",
+      "title_en": "Mukesh Ambani gets emotional as Anant, Isha Ambani speak at Jio’s listing",
+      "title_zh": "阿南特、伊莎·安巴尼在 Jio 上市时发表讲话，穆克什·安巴尼情绪激动",
+      "summary_en": "Watch the moving moment Mukesh Ambani broke down during Anant Ambani's address at the historic NSE event. (x reliance industries limited)",
+      "summary_zh": "观看阿南特·安巴尼 (Anant Ambani) 在历史性的 NSE 活动上发表演讲时穆克什·安巴尼 (Mukesh Ambani) 崩溃的感人时刻。 (x 信实工业有限公司)",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Watch-the-moving-moment-Mukesh-Ambani-broke-down-during-Anant-Ambanis-address-at-the-historic-NSE-event.-x-reliance-industries-limited.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-28T16:30:23+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "484592922a651c95",
@@ -97,7 +180,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-28T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3bb7286b8226671c",
@@ -113,7 +200,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T08:55:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "cc87f779ed553e9a",
@@ -129,7 +220,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T08:05:20+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7d53703f58be7cfc",
@@ -145,7 +240,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T05:20:29+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "894fec9dd3347567",
@@ -161,7 +260,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-28T03:42:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "397682b3f41f0a01",
@@ -177,7 +280,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-28T02:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

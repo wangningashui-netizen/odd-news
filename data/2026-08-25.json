@@ -17,7 +17,13 @@
       "source_id": "unilad-weird",
       "region": "英国",
       "published_at": "2026-08-25T08:57:41+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "街头食物",
+        "军事政治",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

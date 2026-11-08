@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "timezone": "Asia/Shanghai",
-  "count": 56,
+  "count": 79,
   "items": [
     {
       "id": "6741051338c8f417",
@@ -17,7 +17,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-05T23:58:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "56f5daeba55f5510",
@@ -33,7 +37,71 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T23:49:15+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1b33cd10ac6c1f9e",
+      "url": "https://www.timesnownews.com/videos/times-now/india-upfront/debate-on-significance-of-abdul-al-sayed-victory-and-implications-for-indian-muslims-video-156471018",
+      "title_en": "Congress Minister's Chilling Threat To Modi | Ecosystem Mum On Anarchy | Cheer Abdul, Condone Irfan?",
+      "title_zh": "国会部长对莫迪发出令人不寒而栗的威胁生态系统妈妈论无政府状态|阿卜杜勒干杯，康多恩·伊尔凡？",
+      "summary_en": "Jharkhand Minister Irfan Ansari, who is also a Congress leader, can be heard in a video saying that at least 40 lakh students are ready to take to streets if Rahul Gandhi gives order. While the BJP was quick to target Rahul Gandhi & Congress, ecosystem maintains silence on anarchy call by Ansari. The question here arises is - Cheer Abdul, Condone Irfan? Watch Times Now's show, India Upfront with Pranesh Roy., India Upfront, Times Now",
+      "summary_zh": "贾坎德邦部长、国大党领袖伊尔凡·安萨里 (Irfan Ansari) 在一段视频中表示，如果拉胡尔·甘地下令，至少 400 万学生准备走上街头。尽管印度人民党很快就瞄准了拉胡尔·甘地和国会，但生态系统对安萨里的无政府主义呼吁保持沉默。这里出现的问题是 - 欢呼阿卜杜勒，康多内·伊尔凡？与 Pranesh Roy 一起观看 Times Now 的节目《India Upfront》。, India Upfront, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156471018,thumbsize-124733,width-1280,height-720,resizemode-75/156471018.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-05T23:35:11+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "d3018d72358bf44a",
+      "url": "https://www.timesnownews.com/india/india-successfully-test-fires-indigenously-developed-quasi-ballistic-missile-pralay-off-odisha-coast-article-156470994",
+      "title_en": "India Successfully Test-Fires Indigenously Developed Quasi-Ballistic Missile 'Pralay' Off Odisha Coast",
+      "title_zh": "印度在奥里萨邦海岸成功试射自主开发的准弹道导弹“Pralay”",
+      "summary_en": "India successfully test-fired the quasi-ballistic missile \"Pralay\" from Dr APJ Abdul Kalam Island off the coast of Odisha., India News, Times Now",
+      "summary_zh": "印度在奥里萨邦海岸附近的阿卜杜勒·卡拉姆博士岛成功试射了“普拉莱”准弹道导弹。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156471009,thumbsize-243094,width-1280,height-720,resizemode-75/156471009.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-05T23:34:56+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e41df3b4531dddc9",
+      "url": "https://www.timesnownews.com/videos/times-now/india-upfront/debate-on-the-unjust-ugc-equity-rules-and-government-inaction-video-156471000",
+      "title_en": "RSS Calls UGC Unbalanced, Centre Buys Time| No Clear Answer, Timeline| Just Scrap The Unfair Rules!",
+      "title_zh": "RSS 称 UGC 不平衡，中心争取时间|没有明确的答案，时间表|废除不公平的规则！",
+      "summary_en": "The RSS has called the University Grants Commission’s anti-discrimination regulations \"unbalanced\". Meanwhile, the Modi govt sought times in Supreme Court. Just Scrap The Unfair Rules! Watch Times Now's show, India Upfront with Pranesh Roy., India Upfront, Times Now",
+      "summary_zh": "RSS 称大学教育资助委员会的反歧视法规“不平衡”。与此同时，莫迪政府向最高法院寻求审理。废除不公平的规则！与 Pranesh Roy 一起观看 Times Now 的节目《India Upfront》。, India Upfront, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156471000,thumbsize-126296,width-1280,height-720,resizemode-75/156471000.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-05T23:27:25+08:00",
+      "fetched_at": "2026-11-08T23:16:15+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6b35e386c1ff1842",
@@ -49,7 +117,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T23:20:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6878e9ac9bbe819f",
@@ -65,7 +137,11 @@
       "source_id": "ndtv-offbeat",
       "region": "印度",
       "published_at": "2026-11-05T23:12:23+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00"
+      "fetched_at": "2026-11-08T21:08:25+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "18963629b90d208a",
@@ -81,7 +157,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-05T23:11:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "69053e6e1b14d42c",
@@ -97,7 +177,11 @@
       "source_id": "irish-mirror-weird",
       "region": "爱尔兰",
       "published_at": "2026-11-05T23:02:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8c90e9c680af47ec",
@@ -113,7 +197,31 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-05T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0a734b106db40f28",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xoko9n/40_lakh_youths_are_just_waiting_for_an_order_from/",
+      "title_en": "“40 lakh youths are just waiting for an order from Rahul Gandhi but so far he has restrained them. Can your army stop 40 lakh youths? If the Prime Minister doesn’t take the situation seriously then the situation will be worse than Bangladesh and Nepal”: Jharkhand Congress Minister Irfan Ansari",
+      "title_zh": "“400万年轻人只是在等待拉胡尔·甘地的命令，但到目前为止他已经限制了他们。你的军队能阻止400万年轻人吗？如果总理不认真对待这一情况，那么情况将比孟加拉国更糟糕",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/b3JpbWd1N2Q1dHpoMYWsnm2EigROg_D8VdD3cUjFNFP62DF88jF7HOWfsrM3.jpeg?width=640&crop=smart&auto=webp&s=36e08893d694338198e4d1e093a477ac400034ee",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T22:54:51+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7b14e7b5973d888a",
@@ -129,7 +237,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-05T22:49:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "699f54599f599c43",
@@ -145,7 +257,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T22:39:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "611ea83c17784da7",
@@ -161,7 +277,12 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-11-05T22:39:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "301da4a9670c67e4",
@@ -177,7 +298,11 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-05T22:34:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ee3a166ed7b19fd3",
@@ -193,7 +318,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-05T22:21:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "eeeaafc816681245",
@@ -209,7 +338,11 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-05T22:02:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2128d5be192d6d19",
@@ -225,7 +358,51 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-05T22:00:04+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c1e1b2fca7d65b23",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xoj9e1/which_way_do_indias_metros_run/",
+      "title_en": "Which way do India's metros run?",
+      "title_zh": "印度的地铁走哪条路？",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/7d64pm3wuszh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=abb1903029aa11d52f0d215d7d18e09cd367da60",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T21:56:27+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a2872995199a62d7",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xoj0ow/do_you_guys_have_a_metro_system_in_your_city/",
+      "title_en": "Do you guys have a metro system in your city?",
+      "title_zh": "你们的城市有地铁吗？",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/6sd44pk3tszh1.jpeg?width=320&crop=smart&auto=webp&s=fa857e59fbcb112088ed171ce08b0a4cc1b4a3da",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T21:45:42+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "787b7e01187a6cb8",
@@ -241,7 +418,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T21:36:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "29c9764095ec625a",
@@ -257,7 +438,12 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-05T21:15:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "街头食物",
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "652936fa21af1ab2",
@@ -273,7 +459,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T21:09:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "28003bf215c2f5cf",
@@ -289,7 +479,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-05T20:43:14+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "41d8f60c095a3ad5",
@@ -305,7 +499,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-05T19:48:13+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1f3ad7e890eca758",
@@ -321,7 +519,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T19:17:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a66edd1189f25cef",
@@ -337,7 +539,11 @@
       "source_id": "mirror-weird",
       "region": "英国",
       "published_at": "2026-11-05T19:13:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1000a00897485b48",
@@ -353,7 +559,51 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-05T19:05:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "2b42006de192c75b",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/vijay-gold-necklaces-tamil-nadu-board-toppers-10952070/",
+      "title_en": "Watch: CM Vijay honours Tamil Nadu board toppers with gold necklaces",
+      "title_zh": "观看：CM Vijay 用金项链向泰米尔纳德邦板顶装饰致敬",
+      "summary_en": "The event, held as part of the first phase of the TVK educational awards, saw Vijay personally hand over certificates and financial incentives to the students.",
+      "summary_zh": "此次活动是 TVK 教育奖第一阶段的一部分，维杰亲自向学生们颁发了证书和经济奖励。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Tamil-Nadu-CM-Vijay-State-toppers.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-05T19:01:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "23c7d1c71b49ea0c",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xofmfk/how_savarkar_fought_for_widow_remarriage_and/",
+      "title_en": "How Savarkar fought for widow remarriage and women rights!",
+      "title_zh": "萨瓦卡如何为寡妇再婚和妇女权利而奋斗！",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/ha73c32jxrzh1.png?width=640&crop=smart&auto=webp&s=5f2a35276169505e7039b9c81f7bd068a10d5850",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T18:48:51+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "064947566aa61c0c",
@@ -369,7 +619,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T18:34:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "75f23d81d1444f7c",
+      "url": "https://www.thehindu.com/news/national/india-announces-extension-of-500-million-line-of-credit-for-guyana/article71668982.ece",
+      "title_en": "India announces extension of $500 million line of credit for Guyana",
+      "title_zh": "印度宣布向圭亚那延长5亿美元信贷额度",
+      "summary_en": "India extends $500M credit line to Guyana for roads, health, and defense, amid CHOGM talks and broadened cooperation.",
+      "summary_zh": "在 CHOGM 会谈和扩大合作期间，印度向圭亚那提供了 5 亿美元的信贷额度，用于道路、卫生和国防。",
+      "translation_status": "fallback",
+      "image": "https://th-i.thgim.com/public/incoming/cd7f45/article71669132.ece/alternates/LANDSCAPE_1200/20261105011L.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T18:17:32+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5e58f0d46781e20c",
@@ -385,7 +659,13 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-11-05T17:46:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "犯罪法律",
+        "交通火车"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7dba288069ede51d",
@@ -401,7 +681,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T17:31:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b03b67205e4f6cc0",
@@ -417,7 +701,71 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T17:10:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b6d114435a9a9009",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xoclx0/rindiaspeaks_what_have_you_been_gaming_listening/",
+      "title_en": "r/IndiaSpeaks - What have you been Gaming, Listening or Watching lately ?",
+      "title_zh": "r/IndiaSpeaks - 您最近玩什么游戏、听什么或看什么？",
+      "summary_en": "Tell us about what TV Series or Songs/Artists you are hooked onto lately. Which YouTube creator got your attention? What have you planned to watch in the next days. What games have you been playing (old or new, any platform) this weekend?",
+      "summary_zh": "告诉我们您最近迷恋哪些电视剧或歌曲/艺术家。哪位 YouTube 创作者引起了您的注意？未来几天你计划看什么。这个周末你玩了哪些游戏（旧的或新的，任何平台）？",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T15:30:19+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "570fdc6464e20d9b",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xoci1w/the_difficulty_in_solving_crossword_type_puzzles/",
+      "title_en": "The difficulty in solving crossword type puzzles made by a foreigner where the clue is \"Indian\" is always Hell mode.",
+      "title_zh": "解决外国人制作的以“印度”为线索的填字游戏的难度始终是地狱模式。",
+      "summary_en": "I mean... Cuisine and they add stuff like this is... [link] [comments]",
+      "summary_zh": "我的意思是...美食，他们添加这样的东西是... [链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/dpnqhbauwqzh1.jpeg?width=640&crop=smart&auto=webp&s=6967687490eef580c0e1318461b2464a902983a7",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T15:23:07+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1ed9e788f675a703",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/k-pop-aoora-lollipop-lagelu-iit-kanpur-performance-video-10951699/",
+      "title_en": "K-pop meets Bhojpuri: South Korean star Aoora sets IIT Kanpur stage on fire",
+      "title_zh": "韩国流行音乐遇上 Bhojpuri：韩国明星 Aoora 点燃 IIT 坎普尔舞台",
+      "summary_en": "For the performance, the South Korean artist wore a vibrant ethnic look: a bright red kurta with intricate threadwork, paired with white pyjamas.",
+      "summary_zh": "在表演中，这位韩国艺术家穿着充满活力的民族服装：带有复杂线饰的鲜红色库尔塔，搭配白色睡衣。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Aoora-Lollipop-song.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-05T15:17:36+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b08d744cade290ec",
@@ -433,7 +781,51 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-05T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "68f22b624338f6c4",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xob1am/toi_being_balanced_by_getting_the_same_guy_to/",
+      "title_en": "TOI being balanced by getting the same guy to write 5 separate articles.",
+      "title_zh": "TOI 通过让同一个人写 5 篇单独的文章来平衡。",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/d54hjnjrgqzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6b15ee70546ecd7f611ffb538a74c23e86870c4d",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T13:53:11+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4be8fe4e9b39072b",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xob11l/vote_chorior_a_mask_that_hides_a_larger_devil/",
+      "title_en": "'Vote Chori'...or a mask that hides a larger devil",
+      "title_zh": "“投票 Chori”...或隐藏更大恶魔的面具",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T13:52:46+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "47729b8e88b050ec",
@@ -449,7 +841,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T13:35:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "87dc11d0566fdd17",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/godaddy-ceo-aman-bhutani-ai-writing-policy-10951533/",
+      "title_en": "‘If it was written by AI, I don’t read it’: GoDaddy CEO’s strict workplace rule",
+      "title_zh": "“如果它是人工智能写的，我不会读它”：GoDaddy CEO 严格的工作场所规则",
+      "summary_en": "Bhutani stressed that writing is an important part of the thinking process, allowing employees to examine, question and refine their ideas.",
+      "summary_zh": "布塔尼强调，写作是思维过程的重要组成部分，让员工能够检查、质疑和完善自己的想法。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/AI-ethics-GoDaddy-CEO.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-05T13:22:32+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a001efd269cd86b5",
@@ -465,7 +881,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-05T13:00:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6083c7036d173195",
@@ -481,7 +901,31 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-05T12:58:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "adfd643ccd099bcb",
+      "url": "https://indianexpress.com/article/trending/trending-globally/man-steals-rs-2-4-cr-watch-in-tokyo-returns-it-days-later-with-apology-10951439/",
+      "title_en": "Man steals Rs 2.4-cr watch in Tokyo, returns it days later with apology",
+      "title_zh": "男子在东京偷了一块 2.4 cr 的手表，几天后归还并道歉",
+      "summary_en": "The watch, made by Swiss luxury brand Audemars Piguet, was stolen last week when a man posing as a customer tried it on at a store in the Japanese capital before fleeing without returning it.",
+      "summary_zh": "这款由瑞士奢侈品牌爱彼 (Audemars Piguet) 制造的手表上周被盗，当时一名男子冒充顾客在日本首都的一家商店试戴了它，然后逃跑了，没有归还。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Tokyo-watch-apology-letter.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-05T11:46:11+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "952b1bc6a34658b1",
@@ -497,7 +941,31 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-05T11:00:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b2a63b4ee1898ad9",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xo7lxq/two_things_missing_india_and_tesla/",
+      "title_en": "Two things missing-- India and Tesla",
+      "title_zh": "缺少两件事——印度和特斯拉",
+      "summary_en": "I was going through some news and got my eye on this. Even TATA and Mahindra still have a long way to go [link] [comments]",
+      "summary_zh": "我正在查看一些新闻并注意到了这一点。即使塔塔和马恒达还有很长的路要走[链接][评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/gti8j020kpzh1.jpeg?width=640&crop=smart&auto=webp&s=3fa065d3b4d8c3841cb7dc3c96c9f8fd2fc67db4",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T10:49:21+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "570c8a1e0ee3958f",
@@ -513,7 +981,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-05T10:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "26a82be4ac2986a2",
@@ -529,7 +1001,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T09:32:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "42fe831611dcd2e2",
@@ -545,7 +1021,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-05T09:00:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "705ccee083107798",
@@ -561,7 +1041,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T08:58:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "05a394e63ff246bd",
@@ -577,7 +1061,11 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-05T08:47:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "548f1fd60e75d63d",
@@ -593,7 +1081,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-05T08:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "51974c9b20c75071",
@@ -609,7 +1101,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-05T06:45:14+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7eea7c89884c3bd9",
@@ -625,7 +1121,11 @@
       "source_id": "neatorama",
       "region": "全球",
       "published_at": "2026-11-05T06:39:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6595bd52f3a2cef8",
@@ -641,7 +1141,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-05T05:22:32+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e3e3e81eaf86cc7f",
@@ -657,7 +1161,31 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-05T05:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a80b2ac26c775827",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnz2o8/historical_background_on_mohammaded_ali_jinnah/",
+      "title_en": "Historical Background on Mohammaded ALi Jinnah. Ancestry and Family History (Gujarat, Lohana Lineage, and Conversion)",
+      "title_zh": "穆罕默德·阿里·真纳的历史背景。祖先和家族史（古吉拉特邦、罗哈纳血统和皈依）",
+      "summary_en": "I was recently reading through some historical accounts and biographies of M.A. Jinnah (including work by Hector Bolitho and Stanley Wolpert), and I realized a lot of people aren't fully familiar ( though it doesnt matter to any of us indians nor nobody care here and thats fair 100%) with the background of Jinnah’s immediate forefathers before they moved to Karachi. Given how controversial he is to the history of pakistan , I thought it’s quite interesting to look at the documented historical context of his family…",
+      "summary_zh": "我最近阅读了M.A.真纳的一些历史记载和传记（包括赫克托·博利托和斯坦利·沃尔珀特的作品），我意识到很多人并不完全熟悉（尽管这对我们印度人来说并不重要，也没有人关心这里，这100%公平）真纳的直系祖先搬到卡拉奇之前的背景。考虑到他对巴基斯坦历史的争议性，我认为看这部纪录片很有趣",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T04:33:10+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "00202c589bba580e",
@@ -673,7 +1201,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T04:06:29+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ffb6cbf77e163e98",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnxh42/rahul_gandhibhagwant_mann_smells_of_alcohol_every/",
+      "title_en": "Rahul Gandhi,\"Bhagwant Mann smells of alcohol every day\" Kharge,\"AAP is the most corrupt party in the last 60 years!\" Civil war in the opposition ?",
+      "title_zh": "拉胡尔·甘地，“Bhagwant Mann 每天都闻着酒精味” Kharge，“AAP 是过去 60 年来最腐败的政党！”反对派内战？",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/aXV2bm9ybjZibnpoMQ3qDcoRrr01ykq6z37im2xdRg949zYK2bmrnxj7Dcrw.png?width=640&crop=smart&auto=webp&s=cba9eca2421d614c61555c95ec494bb392a2ed6f",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T03:31:11+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "fed9e61fed38ffed",
@@ -689,7 +1241,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-05T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e4bf2dfd7324d0c2",
@@ -705,7 +1261,31 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-05T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f30bedce26038931",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnwhcq/how_veer_savarkar_used_diwali_to_forge_hindu_unity/",
+      "title_en": "How Veer Savarkar used Diwali to forge Hindu Unity!",
+      "title_zh": "Veer Savarkar 如何利用排灯节来打造印度教团结！",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/fr1vjtbz6nzh1.png?width=640&crop=smart&auto=webp&s=af2013cb4a9dfb753bff3f63b7934f02964f36e6",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T02:52:56+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7cabc73bc72c1883",
@@ -721,7 +1301,12 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-05T02:38:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事",
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "66c6ea91fcdb352f",
@@ -737,7 +1322,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-05T02:29:15+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5fed8603b35db833",
@@ -753,7 +1342,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-05T02:28:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0d744f1d9a769fe5",
@@ -769,7 +1362,12 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-05T02:19:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2960436fbd039452",
@@ -785,7 +1383,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-05T02:17:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "cf8d4e729cc773e5",
@@ -801,7 +1403,51 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-05T01:36:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4554846302986a44",
+      "url": "https://indianexpress.com/article/trending/trending-globally/astronaut-anil-menon-votes-from-space-during-us-midterm-elections-video-10950092/",
+      "title_en": "Watch: Astronaut Anil Menon votes from space during US midterm elections",
+      "title_zh": "观看：宇航员阿尼尔·梅农在美国中期选举期间从太空投票",
+      "summary_en": "Menon, along with two other astronauts, Jessica Watkins and Luke Delaney, cast their ballots orbiting more than 400 km above Earth.",
+      "summary_zh": "梅农与另外两名宇航员杰西卡·沃特金斯和卢克·德莱尼一起在距地球 400 多公里的轨道上投票。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/NASA-Astronaut-Anil-Menon-Midterm-Vote-From-Space.-instagram_-astro_anil-.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-05T01:20:29+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e3c90559b8bc239d",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/usha-uthup-boney-m-rasputin-video-10951047/",
+      "title_en": "‘Never thought I’d hear her sing Rasputin’: Usha Uthup’s performance goes viral",
+      "title_zh": "“没想到我会听到她唱拉斯普京”：乌莎·乌瑟普的表演走红",
+      "summary_en": "The video is reportedly from the Usha Uthup Dynamite Disco Club show, held as part of the District Logout gig series at Bengaluru’s The Humming Tree.",
+      "summary_zh": "据报道，该视频来自 Usha Uthup Dynamite Disco Club 表演，该表演是班加罗尔 The Humming Tree 举办的 District Logout 演出系列的一部分。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Usha-Uthup-Rasputin.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-05T01:15:58+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e14bfc3752b6382f",
@@ -817,7 +1463,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-05T01:02:39+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "dd921ccf589e74b7",
@@ -833,7 +1483,11 @@
       "source_id": "irish-mirror-weird",
       "region": "爱尔兰",
       "published_at": "2026-11-05T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "01edad119dfaadf8",
@@ -849,7 +1503,31 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-11-05T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "72e94ed5ea4878ca",
+      "url": "https://www.news18.com/india/sc-stops-bmc-commissioners-salary-over-failure-to-remove-encroachments-imposes-rs-5-lakh-cost-10411449.html",
+      "title_en": "SC Stops BMC Commissioner’s Salary Over Failure To Remove Encroachments, Imposes Rs 5 Lakh Cost",
+      "title_zh": "SC 因未能消除侵犯行为而停止向 BMC 专员发放工资，并征收 50 万卢比费用",
+      "summary_en": "",
+      "summary_zh": "SC 因未能消除侵犯行为而停止向 BMC 专员发放工资，并征收 50 万卢比费用",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/pBfoFqV53zHe7SJyaDgZXIU8z7HvaipSP60gYVf64uw.jpeg?width=640&crop=smart&auto=webp&s=b63bb8ff94414f88469bfedadf92cfcfd8d5d508",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-05T00:53:59+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6a5457768e1af8eb",
@@ -865,7 +1543,13 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-05T00:46:48+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "卫生环境",
+        "动物",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "671d371ff7816940",
@@ -881,7 +1565,13 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-05T00:08:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2b60822974cb4cb7",
@@ -897,7 +1587,11 @@
       "source_id": "soranews24",
       "region": "日本",
       "published_at": "2026-11-05T00:00:31+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

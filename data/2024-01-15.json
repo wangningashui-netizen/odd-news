@@ -17,7 +17,12 @@
       "source_id": "toi-viral",
       "region": "印度",
       "published_at": "2024-01-15T11:40:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "航空出行",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

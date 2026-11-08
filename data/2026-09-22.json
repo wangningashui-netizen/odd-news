@@ -1,8 +1,68 @@
 {
   "date": "2026-09-22",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 4,
   "items": [
+    {
+      "id": "ba88cd54615a82cb",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/delhi-vs-bengaluru-couple-shares-differences-lifestyle-safety-food-aqi-10889426/",
+      "title_en": "Metro vs AQI 30: Couple who lived in Delhi and Bengaluru compare cities",
+      "title_zh": "地铁与 AQI 30：居住在德里和班加罗尔的夫妇比较城市",
+      "summary_en": "Rather than choosing one city over the other, Vancha and Saksham spoke about the experiences they have come to appreciate in each.",
+      "summary_zh": "万查和萨克沙姆没有选择一个城市而不是另一个城市，而是谈到了他们在每个城市所欣赏的经历。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Delhi-vs-Bengaluru.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-22T21:10:37+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1a69ff381c862019",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/dubai-cost-of-living-rahul-bala-warning-10889320/",
+      "title_en": "‘Better off in India’: Man says high expenses in Dubai make it hard to save",
+      "title_zh": "“在印度过得更好”：男子表示迪拜的高额消费让人难以储蓄",
+      "summary_en": "In an Instagram video shared a day ago, Rahul Bala spoke about the challenges of living in Dubai and warned people to ‘think twice’ before moving there for work.",
+      "summary_zh": "在一天前分享的 Instagram 视频中，拉胡尔·巴拉 (Rahul Bala) 谈到了在迪拜生活的挑战，并警告人们在搬到迪拜工作之前要“三思而后行”。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Dubai-cost-of-living.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-22T20:04:10+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0731a0f2b7095f33",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/worlds-best-countries-at-maths-in-2026-seven-asian-nations-among-top-10-10888674/",
+      "title_en": "World’s best countries at maths in 2026: Seven Asian nations among top 10",
+      "title_zh": "2026年世界数学最好的国家：七个亚洲国家跻身前十",
+      "summary_en": "World’s best countries at maths in 2026: Led by China, Asian nations swept the OECD’s global maths rankings as European and other Western countries struggled to keep pace.",
+      "summary_zh": "2026年世界数学最好的国家：在中国的带领下，亚洲国家包揽了经合组织的全球数学排名，而欧洲和其他西方国家则在努力跟上步伐。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/China-topped-the-top-10-list-for-the-worlds-best-countries-in-maths.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-22T17:56:21+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "d43d53f79d142092",
       "url": "https://allthatsinteresting.com/dublin-ireland-roebuck-castle-discovered",
@@ -17,7 +77,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-22T05:45:34+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

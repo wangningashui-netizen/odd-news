@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "timezone": "Asia/Shanghai",
-  "count": 8,
+  "count": 12,
   "items": [
     {
       "id": "d8ed933340d79c12",
@@ -17,7 +17,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-29T23:49:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2b38ae8174ce1f47",
@@ -33,7 +37,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-29T22:38:39+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "bb8d5c346c28eb61",
@@ -49,7 +57,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-29T22:32:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6e0b3029677a562e",
@@ -65,7 +77,51 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-29T22:11:38+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "382f0ea9be61228a",
+      "url": "https://indianexpress.com/article/trending/trending-globally/twitch-streamer-lacy-12000-japan-restaurant-bill-10941950/",
+      "title_en": "‘I had to pay $12,000’: US streamer claims viewers flooded Japan restaurant with food orders during livestream",
+      "title_zh": "“我必须支付 12,000 美元”：美国主播声称观众在直播期间向日本餐厅订购了大量食品",
+      "summary_en": "Lacy was midway through his meal when a waiter approached him to enquire about additional orders. The video shows the streamer confused and insisting that he had not ordered any more food or drinks.",
+      "summary_zh": "莱西正吃到一半时，一名服务员走近他询问是否有额外的订单。视频显示，主播很困惑，并坚称自己没有再点任何食物或饮料。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Twitch-streamer-Lacy-Japan-restaurant-bill.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-29T18:21:58+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1e50974927a7bb2d",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/zoho-sridhar-vembu-warns-ai-could-let-one-person-do-the-work-of-10-10941742/",
+      "title_en": "Zoho’s Sridhar Vembu warns AI could let one person do the work of 10",
+      "title_zh": "Zoho 的 Sridhar Vembu 警告人工智能可以让一个人完成 10 个人的工作",
+      "summary_en": "Sridhar Vembu cautioned against interpreting this as a prediction that 90 per cent of people working on computers would lose their jobs.",
+      "summary_zh": "Sridhar Vembu 警告不要将此解释为 90% 的计算机工作人员将失业的预测。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Tech-featured-image31_20261029080428.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-29T16:05:59+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a3451dc5366e1ddb",
@@ -81,7 +137,51 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-10-29T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8780a0d724cf7957",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/ambani-grandchildren-viral-videos-jio-platforms-debut-10941599/",
+      "title_en": "Watch: Ambani grandsons steal the show at Jio Platforms’ NSE debut event",
+      "title_zh": "观看：Ambani 孙子在 Jio Platforms 的 NSE 首次亮相活动中抢尽风头",
+      "summary_en": "In a video, one of the grandsons was seen lying among the flower arrangements in front of the stage. Another video shows him running around on the stage.",
+      "summary_zh": "在一段视频中，可以看到其中一个孙子躺在舞台前的插花中。另一段视频显示他在舞台上跑来跑去。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Ambani-kids-IPO-listing-event-JIO.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-29T14:24:27+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "212a5b24b42c4a7e",
+      "url": "https://indianexpress.com/article/trending/trending-globally/uae-president-offers-combat-training-to-flydubai-pilot-smit-machchar-10941445/",
+      "title_en": "‘When will you heal?’: UAE President offers combat training to flydubai pilot Smit Machchar",
+      "title_zh": "“你什么时候能痊愈？”：阿联酋总统为迪拜航空飞行员斯密特·马赫查尔提供战斗训练",
+      "summary_en": "Machchhar and other crew members of the flydubai flight were awarded the First Class Order of Zayed II in recognition of their bravery during the in-flight attack.",
+      "summary_zh": "马赫恰尔和迪拜航空航班的其他机组人员被授予扎耶德二世一级勋章，以表彰他们在飞行中袭击事件中的英勇行为。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Smit-Machchar-UAE-President-Sheikh-Mohamed-bin-Zayed.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-29T12:37:43+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a9eaa0e051a566c2",
@@ -97,7 +197,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-29T05:07:02+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1509c4c211d9dd76",
@@ -113,7 +217,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-10-29T01:49:13+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "d0bd223288a2be3a",
@@ -129,7 +237,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-29T01:48:34+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

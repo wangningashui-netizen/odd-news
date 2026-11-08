@@ -17,7 +17,11 @@
       "source_id": "oddee",
       "region": "全球",
       "published_at": "2024-03-27T00:40:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

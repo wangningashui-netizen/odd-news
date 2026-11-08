@@ -17,7 +17,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-22T21:45:26+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "dfabbc668c510ea3",
@@ -33,7 +37,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-22T21:11:53+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "93bab49e442021a8",
@@ -49,7 +57,11 @@
       "source_id": "express-weird",
       "region": "英国",
       "published_at": "2026-10-22T21:10:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8a42fc53ca00b3c5",
@@ -65,7 +77,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-22T19:26:09+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "bdd5244d59d338cd",
@@ -81,7 +97,11 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-22T19:16:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0c132e1639a38fe0",
@@ -97,7 +117,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-22T15:15:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "bc69dc9ef5e2741e",
@@ -113,7 +137,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-22T09:17:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f0f9e800f568d3c0",
@@ -129,7 +157,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-22T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "4288e9346bf26d7f",
@@ -145,7 +177,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-22T05:45:39+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "51a300ebca170885",
@@ -161,7 +197,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-22T02:57:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6181439458dc8318",
@@ -177,7 +218,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-22T02:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "4170218881407ba1",
@@ -193,7 +238,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-22T00:58:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a166de6eab7bd868",
@@ -209,7 +258,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-22T00:00:28+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "交通火车",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

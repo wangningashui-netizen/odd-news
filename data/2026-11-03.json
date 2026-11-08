@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "timezone": "Asia/Shanghai",
-  "count": 33,
+  "count": 52,
   "items": [
     {
       "id": "23b7a50fd8101d6e",
@@ -17,7 +17,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T23:47:36+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "41044300811036de",
@@ -33,7 +37,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T23:28:27+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "f32e2b7511a3ac73",
@@ -49,7 +57,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T23:24:29+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c30ff074ae345bf8",
@@ -65,7 +77,31 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T23:03:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ab177dd8c3ffd233",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmuotz/polish_woman_faces_abusive_comments_and_messages/",
+      "title_en": "Polish woman faces abusive comments and messages after she posted a video showing developments in India compared to 10 years back when she first came to India",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/cG1hb3VyOHhzZXpoMTVcs3CHj2T4J1HqV6C8EPpnP_hRsp0z8IJaQ5wfEMGX.jpeg?width=640&crop=smart&auto=webp&s=ba2ce9b7af9c21fe81bd9a71ddcda15ae9a8ffac",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T22:40:12+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "4e85cf64040904b8",
@@ -81,7 +117,52 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-11-03T21:48:05+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "婚俗宗教",
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "05f6b07f34f1a2be",
+      "url": "https://indianexpress.com/article/trending/trending-globally/mid-chase-courtesy-as-fleeing-van-driver-stops-to-pay-highway-toll-in-malaysia-10948800/",
+      "title_en": "Mid-chase courtesy as fleeing van driver stops to pay highway toll in Malaysia",
+      "title_zh": "马来西亚，逃跑的货车司机停下来支付高速公路通行费，追捕过程中礼貌",
+      "summary_en": "Dashcam footage captures a Malaysian suspect pausing mid-car-chase to tap his toll card.",
+      "summary_zh": "行车记录仪的镜头捕捉到一名马来西亚嫌疑人在汽车追逐中停下来窃听他的收费卡。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Dashcam-footage-captures-a-Malaysian-suspect-pausing-mid-car-chase-to-tap-his-toll-card.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T21:07:28+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "ce178983835e3357",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmr7x4/india_is_growing_but_is_everyone_getting_richer/",
+      "title_en": "India Is Growing. But Is Everyone Getting Richer?",
+      "title_zh": "印度正在增长。 But Is Everyone Getting Richer?",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/9z8p4hjg1ezh1.png?width=640&crop=smart&auto=webp&s=95b9f0c579cedc001311f6e56ac0db1cce6dbe59",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T20:05:51+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "afeef1d51fecdb86",
@@ -97,7 +178,111 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T19:45:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "407b4a8e2d47d5e4",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-safest-countries-to-visit-in-2027-canada-leads-uae-drops-out-10948772/",
+      "title_en": "Top 10 safest countries to visit in 2027: Canada leads; UAE drops out",
+      "title_zh": "2027 年最安全的 10 个国家：加拿大领先；阿联酋退出",
+      "summary_en": "Fresh destination rankings for 2027 crown Canada as the world's safest country to visit, while European and Scandinavian nations dominate the top spots.",
+      "summary_zh": "2027 年新的目的地排名将加拿大评为世界上最安全的旅游国家，而欧洲和斯堪的纳维亚国家占据了榜首。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Canada-leads-the-list-for-the-top-10-safest-countries-in-the-world.-unsplash.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T19:24:58+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "30ff01e2e54f9a36",
+      "url": "https://indianexpress.com/article/trending/trending-globally/uk-pm-andy-burnham-cricket-fall-antigua-10948868/",
+      "title_en": "‘Needs to improve’: UK PM Andy Burnham falls while playing cricket at Commonwealth Summit",
+      "title_zh": "“需要改进”：英国首相安迪·伯纳姆在英联邦峰会上打板球时摔倒",
+      "summary_en": "Wearing an England cricket jersey, black jeans and trainers, PM Burnham faced a delivery from a local player and managed to hit the ball.",
+      "summary_zh": "身着英格兰板球衫、黑色牛仔裤和运动鞋的伯纳姆总理面对当地球员的传球，成功击中了球。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/UK-PM-falls-cricket-match.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T18:59:54+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4ec421c5798a36d6",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmo633/two_minor_girls_converted_at_dargah_in_mehsana/",
+      "title_en": "Two minor girls converted at dargah in Mehsana. Names changed, burqas given and kalma recited; cleric among 4 arrested",
+      "title_zh": "Two minor girls converted at dargah in Mehsana. Names changed, burqas given and kalma recited; 4名牧师被捕",
+      "summary_en": "October 24, 2026 (The Disappearance): Two minor schoolgirls left their homes in Kodinar (Gir Somnath district, Gujarat) under the pretext of attending school examinations. When they failed to return, the mother of the Hindu minor girl filed a missing person complaint at the Kodinar Police Station. Transit to Unava: The investigation revealed that the Hindu minor was lured away by Sakir Pathan at the behest of Abdul Haji Sandhi (who is the uncle of the second Muslim minor girl accompanying her). The minors traveled…",
+      "summary_zh": "Two minor girls converted at dargah in Mehsana. Names changed, burqas given and kalma recited; 4名牧师被捕",
+      "translation_status": "fallback",
+      "image": "https://preview.redd.it/26un8ksb5dzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=141d9fd30afb9fb6cda02ec8f7457cd7e4119a0d",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T17:07:13+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9e3d094a2c0e9e66",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmn8g6/this_proves_indians_are_biggest_enemies_of/",
+      "title_en": "This proves Indians are biggest enemies of indians only",
+      "title_zh": null,
+      "summary_en": "This dude made an entire video just based on experiences of some foreign vloggers I couldn't even watch the video it was so bad no proper explanation just random videos of some vloggers comparing the two piled up (most of them looked targeted as well ) if we go by this then there are pakistani italian etc scam videos and there are lot of videos as well unesasary criticism with no valid argument I understand you are not very fond of ruling govt and their policies and things aren't very well here but dosent mean you…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/ov0r8x1wuczh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=4d42123296b8f05a139fda7bdf8097325e284a83",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T16:07:17+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "诈骗骗局"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "407b0f1a333ca7d8",
+      "url": "https://www.thehindu.com/news/national/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-frees-all-20-crew-members/article71659504.ece",
+      "title_en": "Indian Navy rescues hijacked fishing vessel off Somalia, frees all 20 crew members.",
+      "title_zh": null,
+      "summary_en": "Indian Navy rescues hijacked fishing vessel off Somalia, freeing 20 crew after a coordinated, multi-force operation demonstrating maritime security readiness.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://th-i.thgim.com/public/news/national/eov2mg/article71659516.ece/alternates/LANDSCAPE_1200/IndianNavySomalia.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T15:51:26+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "74f6158a3554b5af",
@@ -113,7 +298,31 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-03T15:41:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0008b312235a2400",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmmt8d/finally_someone_is_talking_about_the/",
+      "title_en": "Finally someone is talking about the disinformation on reddit",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/MXJidncwMnZwY3poMfD_CMba5VKk-_DkDgOUkivu8Vxf5kt7fFMoTxnZGg5x.png?width=320&crop=smart&auto=webp&s=a494529e38c11bfc074d7d12b1635fed3c7026f0",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T15:40:03+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6891b7d12c0d44d4",
@@ -129,7 +338,31 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-03T15:29:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9a7b9b45efec36d4",
+      "url": "https://indianexpress.com/article/trending/trending-globally/once-dyslexic-karl-bushby-completes-28-year-walk-around-the-world-10948291/",
+      "title_en": "Once dyslexic, Karl Bushby completes 28-year walk around the world",
+      "title_zh": "曾经患有阅读障碍的卡尔·布什比完成了 28 年徒步环球之旅",
+      "summary_en": "31,000 miles, no transport_ British adventurer Karl Bushby completes 28-year walk home. (instagram_ AP)",
+      "summary_zh": "31,000 英里，无交通工具_英国冒险家卡尔布什比完成了 28 年步行回家。 （Instagram_美联社）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/31000-miles-no-transport_-British-adventurer-Karl-Bushby-completes-28-year-walk-home.-instagram_-AP.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T15:12:38+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3ca10342436838db",
@@ -145,7 +378,51 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-03T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9a0b324cc3f176ca",
+      "url": "https://indianexpress.com/article/trending/trending-globally/king-charles-antigua-rain-viral-video-10948398/",
+      "title_en": "‘Like he was drowning’: King Charles’ rain-soaked moment in Antigua goes viral",
+      "title_zh": "“就像被淹死了一样”：查尔斯国王在安提瓜岛被大雨淋湿的时刻被疯传",
+      "summary_en": "King Charles III was attending celebrations marking the 45th anniversary of Antigua and Barbuda’s independence at Sir Vivian Richards Stadium.",
+      "summary_zh": "国王查理三世正在维维安·理查兹爵士体育场参加安提瓜和巴布达独立 45 周年庆祝活动。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/King-Charles-umbrella-video.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T14:29:17+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8f09d68f2baf5b38",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmlamf/people_of_kashmir_on_modi/",
+      "title_en": "People of Kashmir on Modi",
+      "title_zh": "克什米尔人民对莫迪的支持",
+      "summary_en": "[link] [comments]",
+      "summary_zh": "[链接] [评论]",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/aHo3MDN5Ym05Y3poMTCWaua-fZV56c3T9x6Siyb0yEd-TPx6dUqV97U_hV8n.png?width=640&crop=smart&auto=webp&s=294fd26c519a224b40a4cfb3af08ff48d401f459",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T14:08:06+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b9a9118008d94d86",
@@ -161,7 +438,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T13:53:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "0968b6df9cbcb260",
@@ -177,7 +458,71 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T13:40:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a1a19b1babfc1e19",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/spicejet-mumbai-gorakhpur-flight-cancelled-video-10948309/",
+      "title_en": "‘Sleeper class on runway’: Distressed passengers protest after last-minute SpiceJet cancellation",
+      "title_zh": "“跑道上的卧铺舱”：香料航空在最后一刻取消航班后，苦恼的乘客抗议",
+      "summary_en": "SpiceJet said it had arranged an additional commercial flight on November 2 to transport the stranded passengers.",
+      "summary_zh": "香料航空表示，已于 11 月 2 日安排了额外的商业航班来运送滞留的乘客。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/SpiceJet-Gorakhpur-to-Mumbai.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T13:40:16+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4a8abc5467fc0494",
+      "url": "https://indianexpress.com/article/trending/trending-globally/dubai-employee-lamborghini-urus-gift-10948180/",
+      "title_en": "‘My company gives me BP’: Dubai realty firm gifts Rs 4-cr Lamborghini Urus to staffer",
+      "title_zh": "“我的公司给我 BP”：迪拜房地产公司向员工赠送 4 卢比兰博基尼 Urus",
+      "summary_en": "The surprise unfolded during Richkey Properties’ anniversary celebration last week.",
+      "summary_zh": "这一惊喜在上周 Richkey Properties 的周年庆典上揭晓。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Dubai-real-estate-Lamborghini.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T11:54:02+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c7cdb448f89955b8",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xmiamg/i_have_something_to_say_the_indian_lw_and_rw/",
+      "title_en": "I have something to say the Indian LW and RW (Dhurandhar criticism over Andra Voilence)",
+      "title_zh": "我有话要对印度 LW 和 RW 说（Dhurandhar 对 Andra Voilence 的批评）",
+      "summary_en": "I have something to say to the Indian Left and it might be offensive. Don't worry, I haven't used any abuses. I get it when you put the blame on movies like Dhurandhar/Animal for the violence. There is symbolism in showing a hero committing violence, because people might end up doing the same thing just because they are naive.",
+      "summary_zh": "我有话要对印度左派说，这可能会冒犯他们。别担心，我没有使用过任何滥用行为。当你把暴力归咎于《杜兰达尔/动物》这样的电影时，我明白了。表现英雄实施暴力具有象征意义，因为人们可能只是因为天真而最终做同样的事情。",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T11:28:42+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "35d43d38721b6f26",
@@ -193,7 +538,12 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T10:23:36+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9177132252068a49",
@@ -209,7 +559,12 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-03T09:37:53+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律",
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3e5d268aa470ab8f",
@@ -225,7 +580,13 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-11-03T08:43:26+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "街头食物",
+        "犯罪法律",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c350f5d95d1c99d3",
@@ -241,7 +602,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-03T08:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "a6dd8e8fc296b4c3",
@@ -257,7 +622,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T07:24:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "417a02588af8ee0a",
@@ -273,7 +642,32 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-03T06:45:19+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "科学发现",
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3b2c670b1ab053fd",
+      "url": "https://timesofindia.indiatimes.com/india/air-fares-up-by-700-dont-fly-says-sc/articleshow/135474649.cms",
+      "title_en": "'Air fares up by 700%': Don't fly, says SC",
+      "title_zh": "SC表示，“机票价格上涨了700%”：不要乘坐飞机",
+      "summary_en": "Supreme Court Monday refused to urgently list a plea against steep rise in domestic air fares during Diwali season and seeking a direction to Centre to frame a mechanism to cap air fares on domestic routes during festival periods.",
+      "summary_zh": "最高法院周一拒绝紧急提出反对排灯节期间国内机票大幅上涨的请求，并寻求指示中心制定一项机制，限制节日期间国内航线的机票价格。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/thumb/msid-135474660,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T06:35:16+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "000aed1c8c71abac",
@@ -289,7 +683,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T05:34:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "be547e7f0e8f9e86",
@@ -305,7 +703,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T05:12:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e6ee5be1f100a0b8",
@@ -321,7 +723,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T04:28:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "054f4d5414bf7309",
@@ -337,7 +743,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T04:18:33+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "128b53e5f8612e61",
@@ -353,7 +763,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T04:06:56+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "95d362f20565f310",
@@ -369,7 +783,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T03:25:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1ce82135e284eedc",
@@ -385,7 +803,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T02:35:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "86baa8ac90a2aae7",
@@ -401,7 +823,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T02:29:20+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "429be18bf3e1cf49",
@@ -417,7 +843,52 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T02:18:05+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物",
+        "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "6c7f355e12f2de79",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xm4n5g/a_secular_india_in_shah_rukh_khans_words/",
+      "title_en": "A Secular India, in Shah Rukh Khan’s Words.",
+      "title_zh": "用沙鲁克汗的话来说，世俗的印度。",
+      "summary_en": "This is what makes India different from other countries. We have always been secular, and we need to remain secular. Let’s hope we always will be. We love each other.",
+      "summary_zh": "这就是印度与其他国家的不同之处。我们一直都是世俗的，我们也需要保持世俗。希望我们永远都是这样。我们彼此相爱。",
+      "translation_status": "fallback",
+      "image": "https://external-preview.redd.it/cnZlYzZiNjdwOHpoMTWEPmqIaucSuJfH1T-cOO0APx6J8_Zhu9uznwmus6mE.jpeg?width=640&crop=smart&auto=webp&s=18dbb3409e797dfa13f680aa4ad874c2b2845a0c",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T02:08:27+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "081c3a5d398ef151",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xm40cq/festival_beauty_standards_comfort_or_conform/",
+      "title_en": "Festival beauty standards: Comfort or conform",
+      "title_zh": "节日美丽标准：舒适或符合",
+      "summary_en": "Before I begin, I want to make one thing absolutely clear. This is NOT another generic post about festivals becoming more of a fashion show or dating event than an expression of devotion. That's not my argument at all. Everyone should be free to wear whatever they want.",
+      "summary_zh": "在开始之前，我想先明确一件事。这不是另一篇关于节日变得更像一场时装秀或约会活动而不是表达奉献精神的通用帖子。这根本不是我的论点。每个人都应该有穿任何自己想穿的衣服的自由。",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-03T01:46:16+08:00",
+      "fetched_at": "2026-11-08T23:16:42+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "84284fe368b2b04d",
@@ -433,7 +904,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T01:29:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c43b50aa4fdeb1f8",
@@ -449,7 +924,12 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T01:06:25+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事",
+        "影视神剧"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "89f00fe4bb940113",
@@ -465,7 +945,31 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-11-03T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "616bfaf4458c4865",
+      "url": "https://indianexpress.com/article/trending/trending-globally/hardik-pandya-beats-mrbeast-in-100000-baseball-challenge-watch-10947826/",
+      "title_en": "Hardik Pandya beats MrBeast in $100,000 baseball challenge, watch",
+      "title_zh": "Hardik Pandya 在 100,000 美元棒球挑战赛中击败 MrBeast，观看",
+      "summary_en": "Hardik Pandya featured in a sports challenge video alongside several international figures, including basketball players LeBron James and Caitlin Clark, footballer Erling Haaland, gymnast Simone Biles and figure skater Alysa Liu.",
+      "summary_zh": "哈迪克·潘迪亚 (Hardik Pandya) 与几位国际人物一起出现在体育挑战视频中，其中包括篮球运动员勒布朗·詹姆斯 (LeBron James) 和凯特琳·克拉克 (Caitlin Clark)、足球运动员埃尔林·哈兰德 (Erling Haaland)、体操运动员西蒙·拜尔斯 (Simone Biles) 和花样滑冰运动员阿莉莎·刘 (Alysa Liu)。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/11/Hardik-Pandya-MrBeast.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-11-03T00:57:54+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b7bf766a6b959cbe",
@@ -481,7 +985,12 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T00:42:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3eab79f59316f1f7",
@@ -497,7 +1006,11 @@
       "source_id": "daily-star-weird",
       "region": "英国",
       "published_at": "2026-11-03T00:33:13+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "卫生环境"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2aca7fcadc3dad11",
@@ -513,7 +1026,11 @@
       "source_id": "upi-odd",
       "region": "美国",
       "published_at": "2026-11-03T00:25:15+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "fc91ec185cb2743f",
@@ -529,7 +1046,11 @@
       "source_id": "reddit-nottheonion",
       "region": "全球",
       "published_at": "2026-11-03T00:21:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

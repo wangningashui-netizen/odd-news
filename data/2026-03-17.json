@@ -1,0 +1,27 @@
+{
+  "date": "2026-03-17",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "b472abd6b1b45d51",
+      "url": "https://www.news18.com/viral/what-if-the-red-wedding-from-game-of-thrones-went-differently-this-ai-video-is-breaking-the-internet-9982220.html",
+      "title_en": "What If The Red Wedding From Game Of Thrones Went Differently? This AI Video Is Breaking The Internet",
+      "title_zh": "如果《权力的游戏》中的红色婚礼不一样怎么办？这个人工智能视频正在席卷互联网",
+      "summary_en": "",
+      "summary_zh": "如果《权力的游戏》中的红色婚礼不一样怎么办？这个人工智能视频正在席卷互联网",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-03-17T18:04:54+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    }
+  ]
+}

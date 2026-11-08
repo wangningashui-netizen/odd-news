@@ -1,0 +1,58 @@
+{
+  "month": "2026-03",
+  "count": 3,
+  "items": [
+    {
+      "id": "08f7919586d87fe1",
+      "date": "2026-03-30",
+      "published_at": "2026-03-30T20:15:00+08:00",
+      "title_zh": "琼的脆脆草莓酥饼",
+      "title_en": "Joan’s Crunchy Strawberry Shortcakes",
+      "summary_zh": "琼·威德 (Joan Weed) 在杂志背面发现了这个脆饼食谱，并决定自己制作。虽然最初的配方是传统的夹心蛋糕，但威德决定采用更多以饼干为基础的方法（结果美味）。材料： 3 杯过筛面粉 4-1/2 茶匙泡打粉 1 茶匙盐 1/3 杯糖 3/4 杯起酥油（黄油） 2 个鸡蛋 2/3 杯牛奶（约） 2 汤匙融化黄油 2 夸脱草莓 1 杯浓奶油 做法： 筛干原料，然后切成酥油",
+      "summary_en": "Joan Weed found this shortcake recipe on the back of a magazine and decided to make it her own. While the original recipe was for a traditional layer cake, Weed decided to take a more biscuit-based approach (with delicious results). Ingredients: 3 cups sifted flour 4-1/2 tsp baking powder 1tsp salt 1/3 cup sugar 3/4 cup shortening (butter) 2 eggs 2/3 cup milk (about) 2 tbsp melted butter 2 qts strawberries 1 cup heavy cream Directions: Sift dry ingredients, then cut in shortening. Add eggs and enough milk to…",
+      "image": "https://img.atlasobscura.com/BCV2oBUbyAmnmoQxUX9TOYe7ThpfDSpu93u4EbEMHv8/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3RoaW5n/X2ltYWdlcy83ZTZi/MzcwZi0yYjU4LTRk/ZjAtOGU5Ny1iZWYw/NWVlMzdiMDc1MzA4/MGYyYzViZjdkMzll/NGRfMkRENzM5QkMt/MzA5Ri00QUZFLUFF/NkItNDNCNDE2MkIy/Qzg5LmpwZWc.jpg",
+      "source": "Atlas Obscura",
+      "region": "全球",
+      "tags": [
+        "街头食物"
+      ],
+      "url": "https://www.atlasobscura.com/foods/joans-strawberry-short-cakes",
+      "translation_status": "fallback"
+    },
+    {
+      "id": "45a23f340c22abda",
+      "date": "2026-03-26",
+      "published_at": "2026-03-26T18:56:24+08:00",
+      "title_zh": "国际空间站上生长的可怕触手物体背后的真相",
+      "title_en": "Truth behind horrifying tentacled object that was growing on ISS",
+      "summary_zh": "一张带有触手的奇怪物体的图片在网上流传，一些人将其与科幻电影中的物体进行比较。但它到底是什么？这篇由 NASA 宇航员唐·佩蒂特 (Don Pettit) 在 X 上疯传的帖子可能会让你乍一看感到不安。然而，这个物体远没有看上去那么险恶，这提醒人们，外表可能具有欺骗性。",
+      "summary_en": "An image of a strange, tentacled object has been circulating online, with some comparing it to something out of a sci-fi movie. But what is it really? The viral post, shared on X by NASA astronaut Don Pettit, might leave you feeling uneasy at first glance. However, the object is far less sinister than it appears, a reminder that looks can be deceiving.",
+      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQ0NmE0NzMwMWI5OWExZWEzLzY5YzUwZjBmMjgxN2ZhN2JmM2FkYTkwNS9TY3JlZW5zaG90XzIwMjYtMDMtMjZfYXRfMDcuMzguMDcucG5n.jpg",
+      "source": "UNILAD Weird",
+      "region": "英国",
+      "tags": [
+        "影视神剧",
+        "科学发现"
+      ],
+      "url": "https://www.unilad.com/news/space-iss-astronaut-potato-spudnik-1-652754-20260326",
+      "translation_status": "fallback"
+    },
+    {
+      "id": "b472abd6b1b45d51",
+      "date": "2026-03-17",
+      "published_at": "2026-03-17T18:04:54+08:00",
+      "title_zh": "如果《权力的游戏》中的红色婚礼不一样怎么办？这个人工智能视频正在席卷互联网",
+      "title_en": "What If The Red Wedding From Game Of Thrones Went Differently? This AI Video Is Breaking The Internet",
+      "summary_zh": "如果《权力的游戏》中的红色婚礼不一样怎么办？这个人工智能视频正在席卷互联网",
+      "summary_en": "",
+      "image": null,
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/what-if-the-red-wedding-from-game-of-thrones-went-differently-this-ai-video-is-breaking-the-internet-9982220.html",
+      "translation_status": "fallback"
+    }
+  ]
+}

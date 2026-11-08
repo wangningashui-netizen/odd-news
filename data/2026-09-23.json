@@ -1,8 +1,169 @@
 {
   "date": "2026-09-23",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 12,
   "items": [
+    {
+      "id": "d049d62c04f7101a",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/ranthambore-tiger-naps-safari-track-30-jeeps-wait-10890965/",
+      "title_en": "Ranthambore tiger naps on road, leaves 30 safari jeeps waiting: ‘Classic India Traffic jam’",
+      "title_zh": "Ranthambore老虎在路上打盹，留下30辆狩猎吉普车等待：“经典的印度交通堵塞”",
+      "summary_en": "In the clip, the tiger can be seen lying comfortably on the road while several safari jeeps wait nearby. Tourists appear to be keeping their distance as they watch the animal rest.",
+      "summary_zh": "在视频中，可以看到老虎舒适地躺在路上，而几辆狩猎吉普车则在附近等候。游客在观看动物休息时似乎保持距离。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Ranthambore-tiger.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T21:25:18+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物",
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "22f87e5d68c3dd80",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/hurun-india-rich-list-2026-zepto-co-founder-kaivalya-vohra-youngest-rs-2600-cr-wealth-10890937/",
+      "title_en": "Rs 2,600 cr wealth: Zepto co-founder, not Aadit Palicha, is India’s youngest rich lister",
+      "title_zh": "2,600 卢比财富：Zepto 联合创始人，而不是 Aadit Palicha，是印度最年轻的富豪榜",
+      "summary_en": "At just 23, Kaivalya Vohra has a reported wealth of Rs 2,600 crore, while his Zepto co-founder Aadit Palicha, 24, has accumulated Rs 3,500 crore.",
+      "summary_zh": "年仅 23 岁的 Kaivalya Vohra 据报道拥有 260 亿卢比的财富，而他的 Zepto 联合创始人 24 岁的 Aadit Palicha 则积累了 350 亿卢比的财富。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Kaivalya-Vohra-Hurun-India-Rich-List-2026.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T21:12:17+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3f3ca6ecf03196d9",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/m3m-hurun-india-rich-list-2026-gautam-adani-reclaims-top-spot-from-mukesh-ambani-in-m3m-hurun-india-rich-list-10890781/",
+      "title_en": "M3M Hurun India Rich List 2026: Gautam Adani reclaims top spot from Mukesh Ambani in M3M Hurun India Rich List",
+      "title_zh": "2026 年 M3M 胡润印度富豪榜：高塔姆·阿达尼 (Gautam Adani) 从穆克什·安巴尼 (Mukesh Ambani) 手中夺回 M3M 胡润印度富豪榜榜首",
+      "summary_en": "Headlined by Gautam Adani's return to rank #1, the 2026 M3M Hurun India Rich List highlights 1,810 individuals holding wealth equal to nearly half of India's GDP.",
+      "summary_zh": "以高塔姆·阿达尼 (Gautam Adani) 重返第一名为主角，2026 年 M3M 胡润印度富豪榜重点关注了 1,810 名个人，其财富相当于印度 GDP 的近一半。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Headlined-by-Gautam-Adanis-return-to-rank-1-the-2026-M3M-Hurun-India-Rich-List-highlights-1810-individuals-holding-wealth-equal-to-nearly-half-of-Indias-GDP.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T20:30:59+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "1f625baaf25b0482",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/nri-entrepreneur-h1b-visa-salary-cost-of-living-us-cities-10890687/",
+      "title_en": "How much does a family need to earn in the US? NRI breaks down H-1B salaries",
+      "title_zh": "一个家庭在美国需要赚多少钱？ NRI 细分 H-1B 薪资",
+      "summary_en": "Aniruddha Anjana, a US startup owner who spent 10 years in America before moving back to India, shared the calculations in an Instagram post.",
+      "summary_zh": "Aniruddha Anjana 是一位美国初创公司老板，他在美国生活了 10 年，然后才回到印度，他在 Instagram 帖子中分享了计算结果。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/H-1B-salary-in-US.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T18:57:40+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "6207fc55b01ce6db",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-best-airlines-in-the-world-singapore-airlines-ranks-no-1-check-full-list-10890234/",
+      "title_en": "Top 10 best airlines in the world: Singapore Airlines ranks No. 1; check full list",
+      "title_zh": "全球最佳航空公司前10名：新加坡航空排名第一；检查完整列表",
+      "summary_en": "Singapore Airlines dethrones Qatar Airways to be named as the World's best airline in 2026.",
+      "summary_zh": "新加坡航空取代卡塔尔航空，成为 2026 年全球最佳航空公司。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Singapore-Airlines-dethrones-Qatar-Airways-to-be-named-as-the-Worlds-best-airline-in-2026.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T18:13:17+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e1ffe9896b418826",
+      "url": "https://indianexpress.com/article/trending/trending-globally/pakistan-pattoki-man-turns-home-into-5000-plant-forest-mother-wish-10890443/",
+      "title_en": "‘They called me crazy’: Why this Pakistani man grew 5,700 plants in his tiny home",
+      "title_zh": "“他们说我疯了”：为什么这位巴基斯坦男子在他的小家里种植了 5,700 株植物",
+      "summary_en": "For Asghar, the greenery is more than an ambitious gardening project. It is a way of keeping alive a wish his mother once shared with him.",
+      "summary_zh": "对于阿斯加尔来说，绿化不仅仅是一个雄心勃勃的园艺项目。这是实现他母亲曾经与他分享的愿望的一种方式。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Pakistan-man-5700-plants.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T16:27:45+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5a670efd53348f7a",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/greater-noida-iphone-18-pro-theft-10890238/",
+      "title_en": "‘Is this the new iPhone?’: Thieves ask Noida woman about phone model before snatching it",
+      "title_zh": "“这是新 iPhone 吗？”：窃贼在抢走手机前向诺伊达女子询问手机型号",
+      "summary_en": "The incident took place when Shubhi Bhandari took out her new phone to make an online payment to an e-rickshaw in Greater Noida.",
+      "summary_zh": "事件发生时，舒比·班达里 (Shubhi Bhandari) 拿出她的新手机，向大诺伊达的一辆电动人力车进行在线支付。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/iPhone-18-Pro-theft-Greater-Noida.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T14:36:25+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8a12b781a8045c57",
+      "url": "https://indianexpress.com/article/trending/trending-globally/chinese-doctor-quits-medicine-steamed-bun-shop-10890108/",
+      "title_en": "‘Never too late to make a change’: Chinese doctor leaves medicine for bun shop",
+      "title_zh": "“改变永远不晚”：中医把药留给包子店",
+      "summary_en": "Despite initial family opposition, the former doctor has since expanded her bun business to two outlets.",
+      "summary_zh": "尽管最初遭到家人的反对，这位前医生还是将她的包子生意扩大到了两家分店。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/China-doctor-steam-bun-shop.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-23T13:07:03+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "215197f0f7cf4fed",
       "url": "https://allthatsinteresting.com/jon-erik-hexum",
@@ -17,7 +178,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-23T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "6ac5ce5a3d86f0ad",
@@ -33,7 +198,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-23T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "dfdc9eb1d2667eac",
@@ -49,7 +218,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-23T05:45:35+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "7b9c9b28703af568",
@@ -65,7 +238,11 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-09-23T05:15:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

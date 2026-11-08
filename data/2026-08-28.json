@@ -17,7 +17,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-08-28T22:44:12+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "20b9bbb247be053d",
@@ -33,7 +37,11 @@
       "source_id": "ladbible-weird",
       "region": "英国",
       "published_at": "2026-08-28T03:55:31+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00"
+      "fetched_at": "2026-11-08T21:06:41+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

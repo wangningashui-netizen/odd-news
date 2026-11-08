@@ -1,8 +1,28 @@
 {
   "date": "2026-09-27",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 5,
   "items": [
+    {
+      "id": "4506d836b4e2b3e5",
+      "url": "https://indianexpress.com/article/trending/trending-globally/climate-week-nyc-ai-panel-protest-data-centre-emissions-10896493/",
+      "title_en": "Student protesters confront NVIDIA executive over AI’s climate impact",
+      "title_zh": "学生抗议者就人工智能对气候的影响与 NVIDIA 高管对峙",
+      "summary_en": "The protesters interrupted NVIDIA's Josh Parker during a discussion on AI's environmental impact and potential benefits.",
+      "summary_zh": "抗议者在讨论人工智能对环境的影响和潜在好处时打断了 NVIDIA 的 Josh Parker。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Student-protesters-AI-Climate-change.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-27T23:19:54+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "f53399620f5c9eb3",
       "url": "https://allthatsinteresting.com/rusty-spotted-cat",
@@ -17,7 +37,71 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-27T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "88bbb752ce132f01",
+      "url": "https://indianexpress.com/article/trending/trending-globally/ishowspeed-loneliness-fame-darren-personal-life-10896172/",
+      "title_en": "‘Millions know Speed, very few know Darren’: IShowSpeed opens up about loneliness",
+      "title_zh": "“数百万人了解《速度》，但很少有人了解达伦”：IShowSpeed 畅谈孤独",
+      "summary_en": "IShowSpeed said there are days when he wakes up feeling alone despite everything he has achieved.",
+      "summary_zh": "IShowSpeed 表示，有时他醒来时会感到孤独，尽管他取得了一切成就。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/IShowSpeed-mental-health.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-27T18:06:43+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "4273e473f9e419c2",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-investors-in-the-m3m-hurun-india-rich-list-2026-rekha-jhunjhunwala-leads-top-10-investors-10895820/",
+      "title_en": "Top 10 investors in the M3M Hurun India Rich List 2026: Rekha Jhunjhunwala leads top 10 investors",
+      "title_zh": "2026 年 M3M 胡润印度富豪榜前 10 名投资者：Rekha Jhunjhunwala 领跑前 10 名投资者",
+      "summary_en": "Rekha Jhunjunwala ranked No.1 in the top 10 investors list reased by Hurun India rich list created in collaboration with M3M.",
+      "summary_zh": "Rekha Jhunjunwala 在与 M3M 合作编制的胡润印度富豪榜公布的前 10 名投资者中排名第一。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Rekha-Jhunjunwala-ranked-No.1-in-the-top-10-investors-list-reased-by-Hurun-India-rich-list-created-in-collaboration-with-M3M.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-27T17:58:56+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "6785779f76fcba9e",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/kanyakumari-influencer-robber-cash-gold-diamond-jewellery-tamil-nadu-video-10895848/",
+      "title_en": "Flaunting wealth online backfires: Tamil Nadu influencer robbed of Rs 1 crore",
+      "title_zh": "网上炫耀财富适得其反：泰米尔纳德邦影响者被抢走 1 千万卢比",
+      "summary_en": "Madhumitha, who has more than 4,50,000 followers, frequently posted videos showcasing her family’s affluent lifestyle.",
+      "summary_zh": "Madhumitha 拥有超过 45 万粉丝，她经常发布视频展示她家人的富裕生活方式。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Kanyakumari-influencer.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-27T13:45:56+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

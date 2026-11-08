@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "Asia/Shanghai",
-  "count": 13,
+  "count": 15,
   "items": [
     {
       "id": "8874333fabe40f5d",
@@ -17,7 +17,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-16T23:15:31+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e44fd320408f368c",
@@ -33,7 +37,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-16T22:54:40+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "397da9dfe2366468",
@@ -49,7 +57,12 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-16T22:20:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "卫生环境",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "1bb47c10728936c9",
@@ -65,7 +78,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-16T22:09:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "9ebcf4c931c53b01",
@@ -81,7 +98,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-16T21:41:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2c0dc7b5c597cbbb",
@@ -97,7 +118,51 @@
       "source_id": "atlas-obscura",
       "region": "全球",
       "published_at": "2026-10-16T21:29:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "598c2027b6b8b03d",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-most-powerful-passports-in-2026-india-climbs-rankings-singapore-tops-list-10924324/",
+      "title_en": "Top 10 most powerful passports in 2026: India climbs rankings, Singapore tops list",
+      "title_zh": "2026年十大最强大护照：印度排名攀升，新加坡位居榜首",
+      "summary_en": "Singapore retains its title as the world's most powerful passport with visa-free access to 193 destinations, while India climbs to 84th place in the October 2026 rankings.",
+      "summary_zh": "新加坡继续保持世界上最强大护照的称号，可免签前往 193 个目的地，而印度在 2026 年 10 月的排名中攀升至第 84 位。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Singapore-retains-its-title-as-the-worlds-most-powerful-passport-with-visa-free-access-to-193-destinations-while-India-climbs-to-84th-place-in-the-October-2026-rankings.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-16T19:22:57+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "c60fb5f200e61e72",
+      "url": "https://indianexpress.com/article/trending/trending-globally/us-high-school-graduate-makes-808000-a-year-from-3d-printing-side-hustle-10924092/",
+      "title_en": "US high school graduate makes $808,000 a year from 3D-printing side hustle",
+      "title_zh": "美国高中毕业生通过 3D 打印副业每年赚取 808,000 美元",
+      "summary_en": "Mike Satterlee is a 19-year-old American entrepreneur who went viral for designing the Tactical Reload Can Cooler under his e-commerce company, Cruise Cup.",
+      "summary_zh": "迈克·萨特利 (Mike Satterlee) 是一位 19 岁的美国企业家，因在其电子商务公司 Cruise Cup 下设计战术重装罐冷却器而走红。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Mike-Satterlee-is-a-19-year-old-American-entrepreneur-who-went-viral-for-designing-the-Tactical-Reload-Can-Cooler-under-his-e-commerce-company-Cruise-Cup.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-16T19:08:05+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "57f155961dc719ad",
@@ -113,7 +178,12 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-16T16:49:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科技发明",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "53e8f410cdfcc880",
@@ -129,7 +199,12 @@
       "source_id": "metro-weird",
       "region": "英国",
       "published_at": "2026-10-16T15:56:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "科学发现",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "646be061f38e01fb",
@@ -145,7 +220,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-16T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "e166912eddf464e8",
@@ -161,7 +240,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-16T05:45:53+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "3ceaa77517eaee69",
@@ -177,7 +260,11 @@
       "source_id": "nypost-weird",
       "region": "美国",
       "published_at": "2026-10-16T03:18:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "122d2eef397c71e9",
@@ -193,7 +280,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-16T02:00:45+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "b8ffdfb8a5d81256",
@@ -209,7 +300,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-16T00:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "诈骗骗局",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

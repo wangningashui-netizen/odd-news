@@ -1,8 +1,108 @@
 {
   "date": "2026-09-29",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 8,
   "items": [
+    {
+      "id": "65ee811e617b3dd2",
+      "url": "https://indianexpress.com/article/trending/trending-globally/uber-ceo-dara-khosrowshahi-work-culture-email-weekends-10899380/",
+      "title_en": "Uber CEO says he expects employees to respond to emails on weekends: ‘Don’t come here if you want to coast’",
+      "title_zh": "Uber首席执行官表示，他希望员工在周末回复电子邮件：“如果你想溜达，就不要来这里”",
+      "summary_en": "In an interview, CEO Dara Khosrowshahi described Uber’s workplace culture as demanding and said employees are expected to take their responsibilities seriously.",
+      "summary_zh": "在接受采访时，首席执行官达拉·科斯罗萨西 (Dara Khosrowshahi) 形容 Uber 的工作场所文化要求很高，并表示员工应该认真对待自己的责任。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Uber-CEO-Dara-Khosrowshahi.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-29T20:49:58+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "e0e3a25ca2b89ba8",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/passenger-paramvir-racism-las-vegas-7-eleven-remark-youtube-video-10899098/",
+      "title_en": "‘They call us 7-Eleven’: Indian man on racist attack during Las Vegas trip",
+      "title_zh": "“他们叫我们7-11”：印度男子在拉斯维加斯之旅中遭受种族主义袭击",
+      "summary_en": "Paramvir Singh Beniwal documented the encounter on YouTube during his Las Vegas trip.",
+      "summary_zh": "帕拉姆维尔·辛格·贝尼瓦尔 (Paramvir Singh Beniwal) 在拉斯维加斯之旅期间在 YouTube 上记录了这次遭遇。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Paramvir-Singh-Beniwal-racism-Las-Vegas.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-29T18:46:05+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5a505c08c92958d1",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/bengaluru-60-year-old-morning-walker-killed-in-wild-elephant-attack-10898761/",
+      "title_en": "‘Where will they go?’ Bengaluru elephant attack sparks concerns over habitat loss",
+      "title_zh": "“它们会去哪里？”班加罗尔大象袭击引发对栖息地丧失的担忧",
+      "summary_en": "Forest officials said this was the first time an elephant had come into conflict with humans so close to the city.",
+      "summary_zh": "森林官员表示，这是大象第一次在如此靠近城市的地方与人类发生冲突。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Bengaluru-elephant-attack-CCTV.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-29T15:24:46+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "7d7d3af8d8f19ef1",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/chinese-trader-thinks-indian-clients-are-hard-to-work-with-10898609/",
+      "title_en": "Why Chinese trader thinks Indian clients are ‘hard’ to work with",
+      "title_zh": "为什么中国贸易商认为印度客户“很难”合作",
+      "summary_en": "Chinese electronics trader Jay Chen’s comments about Indian clients, price negotiations and scams have sparked a debate on social media.",
+      "summary_zh": "中国电子产品贸易商杰伊·陈有关印度客户、价格谈判和诈骗的言论在社交媒体上引发了争论。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Chinese-trader-says-Indian-clients-are-scammers.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-29T13:52:02+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "0b6e1455952825bc",
+      "url": "https://indianexpress.com/article/trending/trending-globally/china-couple-13-children-family-bullying-10898481/",
+      "title_en": "8 sons, 5 daughters: Why this Chinese couple raised 13 children despite financial struggles",
+      "title_zh": "8个儿子，5个女儿：为什么这对中国夫妇在经济困难的情况下抚养了13个孩子",
+      "summary_en": "The couple, identified as Huang, 49, and his wife, 42, live in a village in Qinzhou, Guangxi Zhuang Autonomous Region.",
+      "summary_zh": "这对夫妇名叫黄，49岁，他的妻子42岁，住在广西壮族自治区钦州的一个村庄。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Chinese-couple-13-children.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-29T11:55:00+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "5b8d03a5cd8f29af",
       "url": "https://allthatsinteresting.com/kennedy-compound",
@@ -17,7 +117,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-29T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "婚俗宗教",
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ed2d44e344bc94af",
@@ -33,7 +138,31 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-09-29T05:45:30+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "813a981e3aff730f",
+      "url": "https://indianexpress.com/article/trending/trending-globally/78-year-old-cath-bowie-oldest-fortnite-streamer-world-records-10898070/",
+      "title_en": "How this 78-year-old gamer became the oldest woman Fortnite streamer",
+      "title_zh": "这位 78 岁的玩家如何成为最年长的《堡垒之夜》女性主播",
+      "summary_en": "Cath Bowie, 78, has become the oldest woman Fortnite streamer on Twitch, attracting more than 24,000 followers.",
+      "summary_zh": "78 岁的 Cath Bowie 成为 Twitch 上最年长的《堡垒之夜》女性主播，吸引了超过 24,000 名粉丝。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/09/Oldest-Fortnite-playing-woman.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-09-29T00:06:32+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

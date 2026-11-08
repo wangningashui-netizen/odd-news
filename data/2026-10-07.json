@@ -1,8 +1,128 @@
 {
   "date": "2026-10-07",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 10,
   "items": [
+    {
+      "id": "661fa7c4e2eefd82",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/jammu-retired-school-principal-vidya-kaur-learns-driving-at-59-viral-video-10911104/",
+      "title_en": "She was told she was ‘too old to drive’. She now drives an Audi and a truck",
+      "title_zh": "她被告知她“太老了，不能开车”。她现在开一辆奥迪和一辆卡车",
+      "summary_en": "Vidya Kaur first approached a local driving school, but they turned her away, saying her age made it difficult for her to handle busy roads.",
+      "summary_zh": "维迪亚·考尔（Vidya Kaur）首先联系了当地的一家驾驶学校，但他们拒绝了她，称她的年龄让她很难应付繁忙的道路。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Vidya-Kaur-learned-to-drive-at-59.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-07T21:17:26+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "40b08e8d609c5d44",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/indian-origin-woman-arrested-calgary-canada-pedestrian-viral-video-10911045/",
+      "title_en": "Indian-origin woman arrested in Canada after confrontation with pedestrian turns physical",
+      "title_zh": "印度裔女子与行人发生肢体冲突后在加拿大被捕",
+      "summary_en": "In the video, the woman is seen getting out of the passenger side of the vehicle and confronting the pedestrian. She appears to tell him that recording her was illegal before reaching for his phone.",
+      "summary_zh": "在视频中，可以看到该女子从车辆的乘客侧走出来，与行人对峙。在拿起他的手机之前，她似乎告诉他录制她的视频是违法的。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Indian-origin-woman-arrested-in-Canada.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-07T20:27:52+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "8c1a9c231f2d6b0c",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/world-bank-ranks-india-among-top-10-in-ai-readiness-10910711/",
+      "title_en": "World Bank ranks India among top 10 in AI readiness",
+      "title_zh": "世界银行将印度列为人工智能准备度前十名",
+      "summary_en": "India has emerged among the top 10 leading emerging-market performers in artificial intelligence (AI) readiness.",
+      "summary_zh": "印度已跻身人工智能 (AI) 准备度领先的 10 个新兴市场国家之列。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/India-has-emerged-among-the-top-10-leading-emerging-market-performers-in-artificial-intelligence-AI-readiness.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-07T18:55:19+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "11de28b8c5a06be1",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/gurgaon-woman-spends-half-salary-on-rent-10910707/",
+      "title_en": "Gurgaon woman spends 50% of salary on rent to live close to work: ‘Saving my peace’",
+      "title_zh": "古尔冈妇女花费 50% 的工资租房住，住在离工作地点较近的地方：“拯救我的平静”",
+      "summary_en": "Shakti Dharni Pandey said she could have chosen a cheaper home farther from her school but decided the time spent commuting was not worth the savings.",
+      "summary_zh": "Shakti Dharni Pandey 表示，她本可以选择离学校更远、更便宜的房子，但她认为节省通勤时间不值得。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Gurgaon-woman-rent.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-07T17:14:03+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "92a212b9ab32d687",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/hanuman-ansh-neem-karoli-baba-ashram-kainchi-dham-crowds-traffic-litter-concerns-10910365/",
+      "title_en": "How ‘Hanuman Ansh’ turned Neem Karoli Baba’s ‘quiet’ Kainchi Dham into a crowded, littered hotspot",
+      "title_zh": "“Hanuman Ansh”如何将 Neem Karoli Baba 的“安静”Kainchi Dham 变成了一个拥挤、乱七八糟的热点地区",
+      "summary_en": "The surge has prompted concern among locals, with influencer Aishwarya Kandpal speaking out about the growing crowds, traffic, litter, and social media activity around the ashram.",
+      "summary_zh": "这一激增引起了当地人的担忧，有影响力的人艾西瓦娅·坎德帕尔(Aishwarya Kandpal)谈到了修道院周围不断增加的人群、交通、垃圾和社交媒体活动。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Hanuman-Ansh-Kainchi-Dham.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-07T15:01:20+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "9b789b73722c2938",
+      "url": "https://indianexpress.com/article/trending/trending-globally/messi-cryin-in-bus-as-he-makes-his-final-argentina-appearance-emotional-farewell-video-10910162/",
+      "title_en": "‘Going to hurt a lot’: Tears flow as Messi makes his final Argentina appearance",
+      "title_zh": "“会很受伤”：梅西最后一次代表阿根廷队出场时泪流满面",
+      "summary_en": "Lionel Messi was seen in tears on the Argentina team bus as thousands of fans gathered in Buenos Aires for his final national team appearance.",
+      "summary_zh": "当数千名球迷聚集在布宜诺斯艾利斯观看他最后一次国家队出场时，梅西在阿根廷队大巴上流下了眼泪。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Messi-crying-in-the-bus.jpg",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-07T12:31:47+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "8aed37917e8c9983",
       "url": "https://allthatsinteresting.com/operation-condor",
@@ -17,7 +137,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-07T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "8cb27f7bbd5831bd",
@@ -33,7 +157,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-07T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ca704306db864c1a",
@@ -49,7 +177,13 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-07T05:45:46+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "动物",
+        "科学发现",
+        "历史考古"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "fd172088f08e8321",
@@ -65,7 +199,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-07T00:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }

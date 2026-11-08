@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "Asia/Shanghai",
-  "count": 8,
+  "count": 11,
   "items": [
     {
       "id": "24b825d8c47931f2",
@@ -17,7 +17,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-20T23:25:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "2274d68eb94c7e47",
@@ -33,7 +37,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-20T22:40:38+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "921c787e54d11b0a",
@@ -49,7 +57,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-20T21:33:19+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "28254e59e10ce05c",
@@ -65,7 +77,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-20T20:49:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "860c9bd12199f9ea",
@@ -81,7 +97,71 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-20T20:41:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "26e6cff33eda0182",
+      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-for-healthcare-quality-revealed-malaysia-leads-india-ranks-3rd-10929414/",
+      "title_en": "Top 10 countries for healthcare quality revealed: Malaysia leads, India ranks 3rd",
+      "title_zh": "医疗保健质量排名前十的国家揭晓：马来西亚领先，印度排名第三",
+      "summary_en": "Malaysia ranked No. 1 in the Quality of Care Perception Index while India made it under the top 5 countries.",
+      "summary_zh": "马来西亚在护理质量感知指数中排名第一，而印度则排名前 5 位。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Malaysia-ranked-No.-1-in-the-Quality-of-Care-Perception-Index-while-India-made-it-under-the-top-5-countries.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-20T19:43:33+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "88e047cf6224979c",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/viral-beach-reel-shows-child-near-waves-as-parents-film-selfie-video-netizens-react-10929201/",
+      "title_en": "Viral beach reel shows child near waves as parents film selfie video, netizens react",
+      "title_zh": "病毒式海滩卷轴显示孩子靠近海浪，父母拍摄自拍视频，网友反应",
+      "summary_en": "Bystander steps in to save a little girl as parents ignore her on the beach to film a viral reel.",
+      "summary_zh": "一名小女孩的父母在海滩上拍摄一段病毒视频，而无视她，旁观者介入拯救她。",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Couple-leaves-toddler-struggling-in-the-surf-to-record-beach-reel.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-20T17:36:02+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "5d3015116c7fc58b",
+      "url": "https://indianexpress.com/article/trending/trending-globally/watch-unbothered-couple-enjoy-drinks-amid-protests-in-france-10929002/",
+      "title_en": "Watch: ‘Unbothered’ couple enjoy drinks amid protests in France",
+      "title_zh": "观看：“无忧无虑”的夫妇在法国抗议活动中喝酒",
+      "summary_en": "Viral footage captures the striking contrast of a couple quietly sharing drinks on a cafe terrace as clashes and smoke engulf French streets. (X BBC News (World)",
+      "summary_zh": "病毒式的镜头捕捉到了一对夫妇在咖啡馆露台上安静地分享饮料的鲜明对比，冲突和烟雾吞没了法国街道。 （X BBC 新闻（世界）",
+      "translation_status": "fallback",
+      "image": "https://images.indianexpress.com/2026/10/Viral-footage-captures-the-striking-contrast-of-a-couple-quietly-sharing-drinks-on-a-cafe-terrace-as-clashes-and-smoke-engulf-French-streets.-X-BBC-News-World.png",
+      "image_checked": true,
+      "source": "Indian Express Trending",
+      "source_id": "indian-express-trending",
+      "region": "印度",
+      "published_at": "2026-10-20T15:04:39+08:00",
+      "fetched_at": "2026-11-08T23:16:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "fbf3c25a3f50374e",
@@ -97,7 +177,12 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-20T05:45:35+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "历史考古",
+        "科学发现"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "c609db5009daa6c1",
@@ -113,7 +198,11 @@
       "source_id": "reddit-offbeat",
       "region": "全球",
       "published_at": "2026-10-20T00:01:21+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00"
+      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "fd0677e52d03f91e",
@@ -129,7 +218,11 @@
       "source_id": "all-thats-interesting",
       "region": "全球",
       "published_at": "2026-10-20T00:00:25+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00"
+      "fetched_at": "2026-11-08T20:59:13+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     }
   ]
 }
