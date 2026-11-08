@@ -1,0 +1,39 @@
+{
+  "date": "2023-11-01",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "be732d7522853491",
+      "url": "https://timesofindia.indiatimes.com/viral-news/mark-zuckerberg-and-familys-halloween-transformation-into-hogwarts-icons-warms-hearts/articleshow/104888586.cms",
+      "title_en": "Mark Zuckerberg and family's Halloween transformation into Hogwarts icons warms hearts",
+      "title_zh": "马克扎克伯格和家人万圣节变身霍格沃茨偶像温暖人心",
+      "summary_en": "Mark Zuckerberg and his family delighted fans by sharing a Halloween photo on Instagram. The picture showed the family dressed as characters from the Harry Potter series, with Zuckerberg as Dumbledore and his wife as Professor McGonagall. The image received a positive response from followers. Zuckerberg also shared a post about a road trip with his daughter to see ancient sequoia trees.",
+      "summary_zh": "马克·扎克伯格和他的家人在 Instagram 上分享了一张万圣节照片，让粉丝们大饱眼福。照片中，一家人打扮成《哈利·波特》系列中的人物，扎克伯格扮演邓布利多，他的妻子扮演麦格教授。该图像得到了追随者的积极回应。扎克伯格还分享了一篇关于与女儿一起公路旅行去看古老红杉树的帖子。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-104888891,imgsize-2343142.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-11-01T19:10:12+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "76c2877563684ddb",
+      "url": "https://timesofindia.indiatimes.com/viral-news/bore-hone-ka-chance-ich-nahi-as-auto-driver-sings-entertains-people-stuck-in-andheri-traffic/articleshow/104886091.cms",
+      "title_en": "'Bore hone ka chance-ich nahi' as auto driver sings &amp; entertains people stuck in Andheri traffic",
+      "title_zh": "汽车司机唱歌“Bore hone ka opportunity-ich nahi”并招待困在安泰里交通中的人们",
+      "summary_en": "Viral News News: NEW DELHI: The never-ending Mumbai traffic! It's like a cruel puzzle, with no clear solution in sight.",
+      "summary_zh": "病毒式新闻 新闻：新德里：孟买的交通永不停歇！这就像一个残酷的谜题，看不到明确的答案。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-104886172,imgsize-744828.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-11-01T18:10:56+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

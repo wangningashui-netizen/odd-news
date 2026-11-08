@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>奇闻日报</title>
+  <meta name="description" content="奇闻日报：每天收集世界各地的怪事与离奇新闻，不排名、不筛选，方便寻找故事选题。">
+  <meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#161411" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap brand-row">
+      <p class="seal" aria-hidden="true">奇</p>
+      <div class="brand-copy">
+        <p class="eyebrow">每日收集 · 北京时间</p>
+        <h1>奇闻日报</h1>
+        <p class="tagline">世界各地的怪事，照单全收。不排名，不筛选，只去掉重复链接。</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="wrap">
+      <div class="date-switch">
+        <button type="button" id="older-day">上一天</button>
+        <label class="date-picker">
+          <span class="sr-only">选择日期</span>
+          <select id="date-select"></select>
+        </label>
+        <button type="button" id="newer-day">下一天</button>
+      </div>
+      <div class="filters">
+        <label class="search">
+          <span class="sr-only">搜索</span>
+          <input id="search" type="search" placeholder="搜索中英文标题和概要" autocomplete="off" enterkeyhint="search">
+        </label>
+        <label class="source-filter">
+          <span class="sr-only">来源</span>
+          <select id="source">
+            <option value="">全部来源</option>
+          </select>
+        </label>
+        <div class="regions" id="regions" role="group" aria-label="地区"></div>
+      </div>
+      <p class="status-line" id="status" aria-live="polite">正在加载…</p>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <h2 class="day-heading" id="day-heading"></h2>
+    <div class="grid" id="grid"></div>
+    <p class="empty" id="empty" hidden>没有匹配的奇闻。</p>
+    <div class="more-row">
+      <button type="button" id="more" hidden>加载更多</button>
+    </div>
+    <div id="sentinel" aria-hidden="true"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>文章、标题与图片版权归原发布者所有。本站只收集链接和来源提供的图片地址，不复制、不托管图片文件。</p>
+      <p>部分原文可能含不适内容，点开前请自行判断。时间均为北京时间。机翻条目会在后续运行里尽量改成模型生成的概要。</p>
+      <p><a href="https://github.com/wangningashui-netizen/odd-news">仓库与数据</a></p>
+    </div>
+  </footer>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button type="button" class="lightbox-backdrop" id="lightbox-backdrop" aria-label="关闭大图"></button>
+    <figure class="lightbox-figure">
+      <img id="lightbox-img" alt="" referrerpolicy="no-referrer">
+      <figcaption id="lightbox-caption"></figcaption>
+      <button type="button" class="lightbox-close" id="lightbox-close">关闭</button>
+    </figure>
+  </div>
+
+  <noscript><p class="wrap">需要启用 JavaScript 才能浏览每日条目。</p></noscript>
+  <script src="app.js"></script>
+</body>
+</html>

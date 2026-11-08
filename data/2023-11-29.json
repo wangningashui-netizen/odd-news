@@ -1,0 +1,23 @@
+{
+  "date": "2023-11-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "e71b1067bc9f99ae",
+      "url": "https://timesofindia.indiatimes.com/viral-news/nasa-unveils-stunning-image-of-evil-eye-galaxy-sparking-internet-awe/articleshow/105570940.cms",
+      "title_en": "NASA unveils stunning image of 'evil eye' galaxy, sparking internet awe",
+      "title_zh": "美国宇航局公布“邪眼”星系的惊人图像，引发互联网敬畏",
+      "summary_en": "NASA shares captivating image of 'Evil Eye' galaxy taken by Hubble Space Telescope in 2008. 'Evil Eye' galaxy, also known as Messier 64 (M64), is located in Coma Berenices constellation. It has a luminous yellow nucleus surrounded by blue and purple dots. The galaxy's distinctive feature is a dark band of dust concealing its brilliant core.",
+      "summary_zh": "NASA 分享了哈勃太空望远镜 2008 年拍摄的“邪眼”星系的迷人图像。“邪眼”星系也称为梅西耶 64 (M64)，位于后发座星座。它有一个发光的黄色核，周围环绕着蓝色和紫色的点。该星系的显着特征是一条暗色尘埃带掩盖了其明亮的核心。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-105570924,imgsize-691482.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-11-29T00:41:29+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

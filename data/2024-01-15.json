@@ -1,0 +1,23 @@
+{
+  "date": "2024-01-15",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "d5cf862a07ced80e",
+      "url": "https://timesofindia.indiatimes.com/viral-news/flyer-hits-indigo-pilot-announcing-flight-delay-due-to-dense-fog-conditions-video-goes-viral/articleshow/106851189.cms",
+      "title_en": "Flyer hits IndiGo Pilot announcing flight delay due to dense fog conditions, video goes viral",
+      "title_zh": "传单击中靛蓝航空飞行员宣布由于大雾天气航班延误，视频疯传",
+      "summary_en": "Passenger assaults IndiGo flight pilot during delay announcement; safety concerns for airline staff amid extended delays; passenger's actions widely condemned on social media.",
+      "summary_zh": "乘客在延误通知期间袭击靛蓝航空飞行员；航空公司工作人员因长时间延误而面临的安全问题；乘客的行为在社交媒体上受到广泛谴责。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-106850938,imgsize-580154.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2024-01-15T11:40:45+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

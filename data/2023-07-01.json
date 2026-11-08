@@ -1,0 +1,23 @@
+{
+  "date": "2023-07-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "44490ccfabad13bb",
+      "url": "https://www.oddee.com/all-the-reasons-why-outsiders-like-the-united-states/",
+      "title_en": "All The Reasons Why Outsiders Like the United States",
+      "title_zh": "局外人喜欢美国的所有原因",
+      "summary_en": "The United States is very different from other countries. Here are a bunch of reasons why outsiders like the United States. “Hospitality and kindness. On my travels in America, I found the majority of Americans to be kind, keen to help, and lovely to spend time with.” “NASA.” “Free refills at restaurants.",
+      "summary_zh": "美国与其他国家有很大不同。以下是局外人喜欢美国的一系列原因。 “热情好客、友善。在我的美国旅行中，我发现大多数美国人都很友善，热衷于提供帮助，并且很乐意与之共度时光。” “美国宇航局。” “餐厅免费续杯。",
+      "translation_status": "fallback",
+      "image": "https://www.oddee.com/wp-content/uploads/2023/06/nasa-g370b1d022_1280-300x169.jpg",
+      "image_checked": true,
+      "source": "Oddee",
+      "source_id": "oddee",
+      "region": "全球",
+      "published_at": "2023-07-01T00:17:55+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

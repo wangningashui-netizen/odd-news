@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-27",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "ffda680c63be111f",
+      "url": "https://www.odditycentral.com/technology/worlds-fastest-humanoid-robot-can-already-run-faster-than-usain-bolt.html",
+      "title_en": "World’s Fastest Humanoid Robot Can Already Run Faster Than Usain Bolt",
+      "title_zh": "世界上最快的人形机器人已经比尤塞恩·博尔特跑得更快",
+      "summary_en": "On August 17, 2026, Chinese robotics giant Unitree released a video of its Superman model displaying its athletic abilities. Despite its clunky-looking exterior, Unitree’s newest humanoid robot can perform a 2-meter vertical jump and land firmly on its feet, beating the record set by Christopher Spell in 2021 (1.70 meters) by quite a large margin. However, the main attraction of Unitree’s viral video is Superman running faster than Usain Bolt, the fastest human in history, reaching speeds of up to 12.66 m/s (45.6…",
+      "summary_zh": "2026年8月17日，中国机器人巨头宇树发布了一段超人模型展示运动能力的视频。尽管外观笨重，Unitree 最新的人形机器人可以进行 2 米垂直跳跃并用脚稳稳着陆，大大超过了 Christopher Spell 在 2021 年创下的记录（1.70 米）。然而，Unitree 病毒视频的主要吸引力是超人跑得比历史上跑得最快的人尤塞恩·博尔特还快，",
+      "translation_status": "fallback",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/08/fastest-superman-robot2-750x433.jpg",
+      "image_checked": true,
+      "source": "Oddity Central",
+      "source_id": "oddity-central",
+      "region": "全球",
+      "published_at": "2026-08-27T05:07:44+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}

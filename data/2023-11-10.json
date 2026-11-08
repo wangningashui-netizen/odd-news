@@ -1,0 +1,39 @@
+{
+  "date": "2023-11-10",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "cafe902341643932",
+      "url": "https://timesofindia.indiatimes.com/viral-news/at-least-theyll-not-lose-to-india-in-semis-memes-erupt-with-pakistan-all-but-out-of-world-cup/articleshow/105122539.cms",
+      "title_en": "'At least they'll not lose to India in semis': Memes erupt with Pakistan all but out of World Cup",
+      "title_zh": "“至少他们不会在半决赛中输给印度”：巴基斯坦几乎无缘世界杯的模因爆发",
+      "summary_en": "Pakistan is facing a near-impossible task to secure a spot in the World Cup semifinals. They must defeat England by a margin of 287 runs or chase the target with a margin of 284 balls. With three wins from nine games, England is also looking to secure a place in the top 8. New Zealand is likely to lock the fourth semifinal spot, setting up a potential showdown with India.",
+      "summary_zh": "巴基斯坦面临着进入世界杯半决赛的几乎不可能完成的任务。他们必须以 287 分的优势击败英格兰队，或者以 284 球的优势追赶目标。英格兰队在九场比赛中取得三场胜利，也希望确保进入前八名。新西兰队很可能锁定第四个半决赛席位，与印度队展开对决。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-105122517,imgsize-50798.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-11-10T18:11:32+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "aa5f0131587d1c67",
+      "url": "https://timesofindia.indiatimes.com/viral-news/brazilian-influencer-vanessa-mancini-dies-at-41-from-massive-heart-attack/articleshow/105110853.cms",
+      "title_en": "Brazilian influencer Vanessa Mancini dies at 41 from massive heart attack",
+      "title_zh": "巴西影响者凡妮莎·曼奇尼 (Vanessa Mancini) 因严重心脏病去世，享年 41 岁",
+      "summary_en": "Viral News News: Vanessa Mancini, a 41-year-old Brazil influencer known for her infectious happiness and good humor, met an untimely demise that shocked her 30,000 soc.",
+      "summary_zh": "病毒新闻新闻：41 岁的巴西网红瓦妮莎·曼奇尼 (Vanessa Mancini) 因富有感染力的快乐和幽默而闻名，她的过早去世令她的 30,000 名社交媒体感到震惊。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-105110904,imgsize-30320.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-11-10T11:52:28+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

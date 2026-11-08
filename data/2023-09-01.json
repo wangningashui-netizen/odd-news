@@ -1,0 +1,23 @@
+{
+  "date": "2023-09-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a3a1bac4072d4844",
+      "url": "https://timesofindia.indiatimes.com/viral-news/racist-bigots-arabic-restaurant-in-us-refuses-to-serve-cops-in-uniform-faces-fury/articleshow/103285144.cms",
+      "title_en": "'Racist bigots': Arabic restaurant in US refuses to serve cops in uniform, faces fury",
+      "title_zh": "“种族主义偏执者”：美国阿拉伯餐厅拒绝为穿制服的警察提供服务，面临愤怒",
+      "summary_en": "Reem's California, a bakery in San Francisco, has faced backlash for refusing to serve uniformed police officers and individuals carrying weapons. The San Francisco Police Officers' Association called out the bakery for its discriminatory policy and urged businesses to openly acknowledge such policies. Reem's defended its stance, stating that it prioritizes social and racial justice and aims to create a safe environment. The bakery's decision has sparked outrage online, with some calling for a boycott.",
+      "summary_zh": "位于旧金山的 Reem's California 面包店因拒绝为穿制服的警察和携带武器的人员提供服务而面临强烈反对。旧金山警察协会谴责这家面包店的歧视性政策，并敦促企业公开承认此类政策。 Reem's 为其立场辩护，表示其优先考虑社会和种族正义，旨在创造一个安全的环境。这家面包店的决定在网上引发了愤怒",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-103285130,imgsize-51964.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-09-01T19:28:24+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

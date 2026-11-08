@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Asia/Shanghai",
+  "count": 4,
+  "items": [
+    {
+      "id": "8456c9a490704f93",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+      "title_en": "Computerized clairvoyance: psychics push back against AI-generated readings",
+      "title_zh": "计算机化的千里眼：通灵者反对人工智能生成的读数",
+      "summary_en": "",
+      "summary_zh": "计算机化的千里眼：通灵者反对人工智能生成的读数",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/Offbeat",
+      "source_id": "reddit-offbeat",
+      "region": "全球",
+      "published_at": "2026-11-01T22:10:28+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "0328d5288129b86a",
+      "url": "https://www.dailystar.co.uk/news/latest-news/town-terrorising-werewolf-connected-ufos-37831456",
+      "title_en": "Town-terrorising 'werewolf' connected to UFOs 'exposed' in 13-year-long investigation",
+      "title_zh": "长达13年的调查“揭露”与不明飞行物有关的城镇恐怖“狼人”",
+      "summary_en": "A retired teacher claims a 13-year, data-driven probe into the 'Beast of Bray Road' has unearthed eerie evidence of a 7ft 'werewolf' linked to disturbing UFO-like lights",
+      "summary_zh": "一名退休教师声称，对“布雷路野兽”进行了 13 年的数据驱动调查，发现了一个 7 英尺高的“狼人”与令人不安的不明飞行物状灯光有关的怪异证据",
+      "translation_status": "fallback",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article37831477.ece/ALTERNATES/s615/1_beast-of-bray-road-drone.jpg",
+      "image_checked": true,
+      "source": "Daily Star Weird News",
+      "source_id": "daily-star-weird",
+      "region": "英国",
+      "published_at": "2026-11-01T20:28:52+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "125a224ca8d1e7e5",
+      "url": "https://www.dailystar.co.uk/showbiz/inside-maya-jamas-wild-halloween-37831393",
+      "title_en": "Inside Maya Jama's wild Halloween party with Mo Farah makeover and famous guests",
+      "title_zh": "走进玛雅·贾玛 (Maya Jama) 的狂野万圣节派对，莫·法拉 (Mo Farah) 变身并邀请知名嘉宾",
+      "summary_en": "Maya Jama transformed into Olympic legend Mo Farah for her star-studded Halloween bash, where Celebrity Traitors co-star King Kenny joined a host of famous guests",
+      "summary_zh": "玛雅·贾玛 (Maya Jama) 在众星云集的万圣节狂欢中变身为奥运传奇人物莫·法拉 (Mo Farah)，《名人叛徒》联合主演金·肯尼 (King Kenny) 与众多知名嘉宾一起出席",
+      "translation_status": "fallback",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article37831398.ece/ALTERNATES/s615/0_BESTPIX-Maya-Jama-Hosts-Her-Annual-Halloween-Party-With-BACARD-And-FIVE-GUYS-UK.jpg",
+      "image_checked": true,
+      "source": "Daily Star Weird News",
+      "source_id": "daily-star-weird",
+      "region": "英国",
+      "published_at": "2026-11-01T20:03:39+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "a071fb16e118677f",
+      "url": "https://kylesinvestigation.com/2026/10/31/mcdonalds-faces-legal-hurdle-as-judge-allows-mcrib-meat-lawsuit-to-move-forward/",
+      "title_en": "McDonald’s Faces Legal Hurdle as Judge Allows McRib Meat Lawsuit to Move Forward",
+      "title_zh": "麦当劳面临法律障碍，法官允许排骨肉诉讼继续进行",
+      "summary_en": "",
+      "summary_zh": "麦当劳面临法律障碍，法官允许排骨肉诉讼继续进行",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/Offbeat",
+      "source_id": "reddit-offbeat",
+      "region": "全球",
+      "published_at": "2026-11-01T00:15:08+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-24",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "2846fd0373072c3e",
+      "url": "https://allthatsinteresting.com/clotilda",
+      "title_en": "The Sad Story Of The Clotilda, The Last Known Slave Ship In American History",
+      "title_zh": "美国历史上最后一艘已知的奴隶船克洛蒂尔达号的悲伤故事",
+      "summary_en": "New York Public Library Digital Collections This schooner, the Zeldina , bears a strong resemblance to the Clotilda , which was destroyed in 1860. On July 9, 1860, Captain William Foster anchored the Clotilda off the coast of Alabama and brought 103 captive Africans onto land. The Clotilda , the last known U.S. slave ship to bring captive Africans to America, did so illegally.",
+      "summary_zh": "纽约公共图书馆数字馆藏 这艘纵帆船 Zeldina 与 1860 年被毁的 Clotilda 非常相似。1860 年 7 月 9 日，威廉·福斯特船长在阿拉巴马州海岸停泊了 Clotilda，并将 103 名被俘的非洲人带上陆地。克洛蒂尔达号是最后一艘已知的将被俘虏的非洲人运往美国的美国奴隶船，其行为是非法的。",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/clotilda-featured.jpg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-09-24T09:00:00+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    },
+    {
+      "id": "7743087f2e5a5970",
+      "url": "https://allthatsinteresting.com/china-medieval-nose-amputation",
+      "title_en": "Archaeologists In China Uncovered A Medieval Woman Who Had Her Nose Brutally Removed From Her Face As Punishment For Stealing Or Adultery",
+      "title_zh": "中国考古学家发现了一名中世纪妇女，她的鼻子被残酷地从脸上切除，作为对偷窃或通奸的惩罚",
+      "summary_en": "Qian Wang, Texas A&M University College of Dentistry This skull has provided the first-ever archaeological evidence of the ancient Chinese punishment of nose amputation. Historical records have long since revealed the various brutal methods for punishment of criminals that authorities used in ancient and medieval China. One of the most gruesome was nasal amputation: cutting the nose right off of the face. However, there hadn’t been any archaeological discoveries to directly back up the existence of this grisly…",
+      "summary_zh": "王谦，德克萨斯农工大学牙科学院 这个头骨为中国古代截鼻惩罚提供了第一个考古证据。历史记载早已揭示了中国古代和中世纪当局惩罚罪犯的各种残酷手段。其中最可怕的一种是鼻截肢：将鼻子从脸上切下来。然而，并没有任何考古发现可以直接证明这一点。",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/featured-noseless-skull-of-chinese-woman.jpeg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-09-24T05:45:19+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}

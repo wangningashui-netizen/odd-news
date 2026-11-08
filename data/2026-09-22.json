@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-22",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "d43d53f79d142092",
+      "url": "https://allthatsinteresting.com/dublin-ireland-roebuck-castle-discovered",
+      "title_en": "An Architecture History Professor In Ireland Just Found The Shell Of A Medieval Castle Hiding Inside A Victorian University Building",
+      "title_zh": "爱尔兰的一位建筑史教授刚刚在维多利亚大学大楼内发现了一座中世纪城堡的外壳",
+      "summary_en": "University College Dublin Architecture experts identified the medieval remnants and walls of Roebuck Castle beneath the plaster of the present-day building. New research has shown that the remains of a medieval castle, long believed to be lost to history, have actually been hiding inside an active building on an Irish university’s campus. The medieval fortress Roebuck Castle was likely built in the early 13th century and served as an important Norman stronghold. For centuries, historians believed that this Dublin…",
+      "summary_zh": "都柏林大学学院建筑专家在当今建筑的灰泥下发现了罗巴克城堡的中世纪遗迹和城墙。新的研究表明，一座长期以来被认为消失在历史中的中世纪城堡的遗迹实际上隐藏在爱尔兰大学校园的一座活跃的建筑内。中世纪堡垒罗巴克城堡 (Roebuck Castle) 可能建于 13 世纪初，是诺曼人的重要据点。几个世纪以来",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/featured-lost-medieval-irish-castle.jpeg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-09-22T05:45:34+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}

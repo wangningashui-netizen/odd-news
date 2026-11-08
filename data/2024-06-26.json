@@ -1,0 +1,23 @@
+{
+  "date": "2024-06-26",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "ffcab931e4a7704d",
+      "url": "https://www.oddee.com/these-alaska-fun-facts-are-only-the-start/",
+      "title_en": "These Alaska Fun Facts Are Only The Start",
+      "title_zh": "这些阿拉斯加有趣的事实只是一个开始",
+      "summary_en": "Do you know these Alaska fun facts? Could you ever live in a place that didn’t have a sunrise and a sunset everyday? Barrow is known as the Land of the Midnight Sun due to its light situation. After the sun rises on May 10, it’s about three months before it sets.",
+      "summary_zh": "你知道这些阿拉斯加有趣的事实吗？你能生活在一个每天没有日出和日落的地方吗？巴罗因其光线充足而被称为“午夜太阳之地”。 5月10日太阳升起后，距离日落还有大约三个月的时间。",
+      "translation_status": "fallback",
+      "image": "https://www.oddee.com/wp-content/uploads/2024/06/alaska-8448009_640-300x169.jpg",
+      "image_checked": true,
+      "source": "Oddee",
+      "source_id": "oddee",
+      "region": "全球",
+      "published_at": "2024-06-26T14:41:03+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}
