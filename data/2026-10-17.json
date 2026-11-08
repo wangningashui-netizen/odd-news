@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "count": 4,
+  "items": [
+    {
+      "id": "3b61acd5a473fa9d",
+      "url": "https://www.dexerto.com/entertainment/new-york-brewery-owner-claims-security-camera-captured-ghost-in-kitchen-3419608/",
+      "title_en": "New York brewery owner claims security camera captured ghost in kitchen",
+      "title_zh": "纽约啤酒厂老板声称安全摄像头在厨房拍到了鬼魂",
+      "summary_en": "The owner of a New York brewery has shared security footage he believes could show something paranormal in his kitchen.",
+      "summary_zh": "纽约一家啤酒厂的老板分享了他认为厨房里可能出现超自然现象的监控录像。",
+      "translation_status": "fallback",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/17/Beer-Barrels.jpg",
+      "image_checked": true,
+      "source": "Reddit r/Offbeat",
+      "source_id": "reddit-offbeat",
+      "region": "全球",
+      "published_at": "2026-10-17T23:28:48+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "0e0b2f7743e2ae51",
+      "url": "https://www.bbc.com/news/articles/cmwyvxgxjnpqo",
+      "title_en": "Hibaldstow man jailed for sex with dead woman",
+      "title_zh": "希伯斯托男子因与死去的女人发生性关系而入狱",
+      "summary_en": "Stephen Sellars, 62, was interrupted by the woman's son and nephew, a court hears.",
+      "summary_zh": "法庭获悉，62 岁的斯蒂芬·塞拉斯 (Stephen Sellars) 被该女子的儿子和侄子打断。",
+      "translation_status": "fallback",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f62b/live/aa6785a0-c96f-11f1-80fc-ab418b149008.jpg",
+      "image_checked": true,
+      "source": "Reddit r/Offbeat",
+      "source_id": "reddit-offbeat",
+      "region": "全球",
+      "published_at": "2026-10-17T12:28:49+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "0e5e1045b6676f1f",
+      "url": "https://gothamist.com/news/deer-are-all-over-new-jersey-roads-looking-for-sex-state-officials-warn",
+      "title_en": "Deer are all over New Jersey roads looking for sex, state officials warn",
+      "title_zh": "新泽西州官员警告说，鹿遍布新泽西州道路寻找性行为",
+      "summary_en": "Mid-October through mid-December is deer mating season, which can be a danger to drivers as the sex-seeking creatures cross roadways throughout the Garden State.",
+      "summary_zh": "十月中旬到十二月中旬是鹿的交配季节，这对司机来说可能是一个危险，因为这些寻求性的动物穿过整个花园州的道路。",
+      "translation_status": "fallback",
+      "image": "https://api-prod.gothamist.com/images/361991/fill-1200x650|format-webp|webpquality-85/",
+      "image_checked": true,
+      "source": "Reddit r/Offbeat",
+      "source_id": "reddit-offbeat",
+      "region": "全球",
+      "published_at": "2026-10-17T07:17:41+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    },
+    {
+      "id": "d971fa3084581872",
+      "url": "https://allthatsinteresting.com/turkey-oldest-shipwreck-in-history",
+      "title_en": "Archaeologists In Turkey Believe They Just Found The World’s Oldest Shipwreck",
+      "title_zh": "土耳其考古学家相信他们刚刚发现了世界上最古老的沉船",
+      "summary_en": "Hakan Öniz Researchers off the coast of Kekova Island in Antalya discovered artifacts from a shipwreck that dates back as far as 4,700 years. An ancient cargo vessel believed to be the world’s oldest shipwreck has been found off the coast of Turkey. This sunken ship dates back an astonishing 4,700 years — right around the time when the pyramids of Egypt were being built just across the Mediterranean Sea. Although the actual body of the ship has disintegrated over the years, archaeologists believe that the…",
+      "summary_zh": "Hakan Öniz 研究人员在安塔利亚 Kekova 岛海岸发现了一艘沉船中的文物，其历史可以追溯到 4,700 年前。在土耳其海岸发现了一艘被认为是世界上最古老的沉船的古代货船。这艘沉船的历史可以追溯到惊人的 4,700 年前——正好是在地中海对面建造埃及金字塔的时候。尽管多年来船体已经解体，但",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-worlds-oldest-shipwreck.jpeg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-10-17T05:45:26+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}

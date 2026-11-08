@@ -1,0 +1,23 @@
+{
+  "date": "2023-11-02",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "4969ec17e661fe24",
+      "url": "https://timesofindia.indiatimes.com/viral-news/fans-troll-pakistan-as-proteas-beat-kiwis-to-keep-paks-semi-final-hopes-alive/articleshow/104912338.cms",
+      "title_en": "Fans troll Pakistan as Proteas beat Kiwis to keep Pak's semi-final hopes alive",
+      "title_zh": "球迷们嘲笑巴基斯坦队，普罗蒂亚斯队击败新西兰队，让巴基斯坦队保持半决赛的希望",
+      "summary_en": "South Africa dominated New Zealand in their World Cup match, winning by 190 runs. De Kock scored his 4th century of the tournament and van der Dussen hit his second, helping South Africa reach a commanding total of 357-4. Kiwis struggled in their chase, collapsing to 167 all out. The victory moved South Africa to the top of the standings and kept Pakistan's semi-final hopes alive.",
+      "summary_zh": "南非队在世界杯比赛中以 190 分的优势击败新西兰队。德科克打进了本届赛事的第四个百分球，范德杜森打进了第二个进球，帮助南非队以 357 比 4 的总比分领先。新西兰队在追赶中举步维艰，最终以 167 名出局。这场胜利让南非队登上了积分榜榜首，也让巴基斯坦队保住了半决赛的希望。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-104913024,imgsize-1495068.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-11-02T17:22:02+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

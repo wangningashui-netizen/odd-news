@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-18",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "9760b7e3efe5bc4e",
+      "url": "https://www.odditycentral.com/news/male-fugitive-avoids-capture-for-8-years-by-changing-gender-and-living-as-a-woman.html",
+      "title_en": "Male Fugitive Avoids Capture for 8 Years by Changing Gender and Living as a Woman",
+      "title_zh": "男性逃亡者通过改变性别并以女性身份生活，避免被捕 8 年",
+      "summary_en": "Tuğrul Başar had been convicted of three robbery crimes committed while impersonating a public official in 2010, but had managed to escape in 2018 to avoid a three-year prison sentence. Authorities had been looking for him ever since, but they only recently managed to identify him in the Kadıköy district of Istanbul, during a special operation designed to bring fugitives with unserved prison sentences to justice. What made Başar’s case stand out from others resolved during the special operation was the shocking…",
+      "summary_zh": "图鲁尔·巴萨尔 (Tuğrul Başar) 于 2010 年因冒充公职人员犯下三起抢劫罪被定罪，但于 2018 年成功越狱，避免了三年监禁。从那时起，当局就一直在寻找他，但直到最近，他们才在伊斯坦布尔卡德柯伊区的一次特别行动中找到了他的身份，该行动旨在将未服刑的逃犯绳之以法。是什么让巴沙尔的案件从其他案件中脱颖而出？",
+      "translation_status": "fallback",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/09/Tugrul-Basar2.webp",
+      "image_checked": true,
+      "source": "Oddity Central",
+      "source_id": "oddity-central",
+      "region": "全球",
+      "published_at": "2026-09-18T22:18:36+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    },
+    {
+      "id": "6b110d6a6018ad03",
+      "url": "https://nypost.com/2026/09/18/health/doctors-find-foreign-bodies-inside-a-mans-chest-penis/",
+      "title_en": "Doctors find shocking ‘foreign bodies’ inside a man’s chest, pelvis, bladder — and penis",
+      "title_zh": "医生在一名男子的胸部、骨盆、膀胱和阴茎内发现了令人震惊的“异物”",
+      "summary_en": "A team of surgeons operating on a patient in an operating room with bright overhead lights and a vital signs monitor.",
+      "summary_zh": "一组外科医生在手术室里为一名患者进行手术，手术室里有明亮的头灯和生命体征监视器。",
+      "translation_status": "fallback",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fnewspress-collage-hivfmxj08-1789739719890.jpg?quality%3D90%26strip%3Dall%261789725371",
+      "image_checked": true,
+      "source": "New York Post Weird But True",
+      "source_id": "nypost-weird",
+      "region": "美国",
+      "published_at": "2026-09-18T22:08:16+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

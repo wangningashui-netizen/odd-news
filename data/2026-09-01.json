@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-01",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "78e7d1f8e1a0ae55",
+      "url": "https://www.unilad.com/news/us-news/worlds-most-expensive-ham-sells-for-10-million-960508-20260831",
+      "title_en": "World’s most expensive ham sells for $10 million—costing an insane $600,000 per pound",
+      "title_zh": "世界上最贵的火腿售价 1000 万美元——每磅售价高达 60 万美元",
+      "summary_en": "If you thought your weekly grocery bill was getting steep, a single piece of cured pork has just sold for an eye-watering $10 million (£7.6 million) at auction. The 16.7-pound grand champion country ham took center stage on the auction block at the 62nd annual Kentucky Country Ham Breakfast, an annual state fair tradition that brings together local farmers, state lawmakers, agricultural producers, and deep-pocketed philanthropists. Bidding opened at a modest few hundred dollars before rapidly snowballing into a…",
+      "summary_zh": "如果您认为每周的杂货账单越来越高，那么一块腌猪肉刚刚在拍卖会上以令人瞠目结舌的 1000 万美元（760 万英镑）成交。重达 16.7 磅的冠军乡村火腿成为第 62 届肯塔基州乡村火腿早餐拍卖会上的焦点，这是一年一度的州博览会传统，当地农民、州立法者、农业生产者和财力雄厚的慈善家齐聚一堂。开标价为几百美元",
+      "translation_status": "fallback",
+      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQ2NjY5MTFjMjIxMDBmZTJmLzZhOTVmODQxZDkwMTRkN2Y1NTIyNmI0Ni9TY3JlZW5zaG90XzIwMjYtMDgtMzFfYXRfMjIuNTMuMzkuanBn.jpg",
+      "image_checked": true,
+      "source": "UNILAD Weird",
+      "source_id": "unilad-weird",
+      "region": "英国",
+      "published_at": "2026-09-01T05:55:54+08:00",
+      "fetched_at": "2026-11-08T21:06:41+08:00"
+    },
+    {
+      "id": "f0daf8e1ca978871",
+      "url": "https://www.odditycentral.com/news/worlds-ugliest-hawaiian-shirt-was-designed-to-make-you-invisible-to-ai-surveillance-cameras.html",
+      "title_en": "World’s Ugliest Hawaiian Shirt Was Designed to Make You Invisible to AI Surveillance Cameras",
+      "title_zh": "世界上最丑的夏威夷衬衫的设计目的是让你在人工智能监控摄像头面前隐形",
+      "summary_en": "The aptly named Digital Camouflage may look like a hideous Hawaiian shirt, but its seemingly abstract pattern was created with a very specific purpose in mind – to prevent AI-powered CCTV cameras from recognizing the wearer as a person. “AI systems are made of multiple layers and never learned what a human is – they learned what humans statistically look like in millions of training images,” Simon Weckert, the shirt’s creator, explained. “In the early layers it’s edges, contrasts and texture gradients; deeper in…",
+      "summary_zh": "这种数码迷彩的名字恰如其分，可能看起来像一件丑陋的夏威夷衬衫，但其看似抽象的图案是有一个非常具体的目的而创建的——防止人工智能驱动的闭路电视摄像机将穿着者识别为一个人。 “人工智能系统由多层组成，从未了解过人类是什么 - 他们在数百万张训练图像中统计出人类的样子，”该衬衫的创造者西蒙·韦克特 (Simon Weckert) 解释道。 “在早期的层中，它是边缘，控制",
+      "translation_status": "fallback",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/08/digital-camouflage-shirt-750x422.jpg",
+      "image_checked": true,
+      "source": "Oddity Central",
+      "source_id": "oddity-central",
+      "region": "全球",
+      "published_at": "2026-09-01T03:59:19+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-25",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "edb382348071a88c",
+      "url": "https://www.unilad.com/news/world-news/golden-orb-deep-sea-discovery-science-156204-20260424",
+      "title_en": "Mysterious golden orb likened to 'horror movie' finally explained after years of questions",
+      "title_zh": "被比作“恐怖电影”的神秘金色球体在多年的疑问后终于得到解释",
+      "summary_en": "A team of scientists from the US government has solved the mystery of a strange 'golden orb' found at the bottom of the ocean. The NOAA Ocean Exploration Department first spotted the strange object more than two miles beneath the surface back in 2023, and were left stumped. In footage, one of the Seascape Alaska 5 expedition crew was heard joking 'I'm pretty sure this is how the first episode of the X-Files started', while another said 'it's like the beginning of a horror movie'. Images of the weird discovery in…",
+      "summary_zh": "美国政府的一组科学家解开了在海底发现的奇怪“金球”的谜团。 NOAA 海洋探索部门于 2023 年首次在海面以下两英里多的地方发现了这个奇怪的物体，但当时却被难住了。在视频中，可以听到海景阿拉斯加 5 号探险队的一名队员开玩笑说“我很确定这就是 X 档案第一集的开始方式”，而另一名队员则说“这就像一部恐怖电影的开头”",
+      "translation_status": "fallback",
+      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQyZjRlNTUxZDIwOWEzMzU5LzY5ZWJhMzhlNzhjYzY2MzM1NDU0ZWEwNS9teXN0ZXJ5LW9mLWRlZXAtMTUzNjcxOC5qcGc.jpg",
+      "image_checked": true,
+      "source": "UNILAD Weird",
+      "source_id": "unilad-weird",
+      "region": "英国",
+      "published_at": "2026-04-25T02:00:51+08:00",
+      "fetched_at": "2026-11-08T21:06:41+08:00"
+    }
+  ]
+}

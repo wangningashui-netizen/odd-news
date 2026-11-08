@@ -1,0 +1,23 @@
+{
+  "date": "2023-09-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a6045cd2475bfffe",
+      "url": "https://timesofindia.indiatimes.com/viral-news/alligator-ally-oops-phillies-fan-denied-entry-with-emotional-support-gator/articleshow/104043227.cms",
+      "title_en": "Alligator ally oops! Phillies fan denied entry with emotional support gator",
+      "title_zh": "鳄鱼盟友哎呀！费城球迷因情绪支持鳄鱼而被拒绝入场",
+      "summary_en": "Posts on social media depicted WallyGator, donning a harness adorned with his name, tethered outside the stadium on a Wednesday. WallyGator, a therapeutic alligator in service to Joie Henney of Jonestown, Pennsylvania, enjoys a vast following on various social media platforms, where he is frequently observed engaging in affectionate interactions, such as hugging and kissing. This reptilian star boasts a significant presence on Instagram and TikTok.",
+      "summary_zh": "社交媒体上的帖子描绘了周三，沃利加托（WallyGator）戴着一条刻有他名字的安全带，被拴在体育场外。 WallyGator 是一只为宾夕法尼亚州琼斯敦的 Joie Henney 服务的治疗性鳄鱼，它在各种社交媒体平台上拥有大量追随者，人们经常看到它在社交媒体平台上进行深情互动，例如拥抱和亲吻。这位爬行动物明星在 Instagram 和 TikTok 上占有重要地位。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-104043223,imgsize-45550.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-09-29T18:54:48+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-03",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "259fddf32e4fa4ec",
+      "url": "https://allthatsinteresting.com/napoleon-cipher-decoded",
+      "title_en": "This Cipher That Napoleon Used Went Unsolved For 217 Years. ChatGPT Just Solved It In Six Hours",
+      "title_zh": "拿破仑使用的密码217年来一直未解开。 ChatGPT 在六小时内解决了这个问题",
+      "summary_en": "Wikimedia Commons Napoleon sent the cipher to General Auguste de Marmont in March 1809 in hopes of warning him about enemy troop positions on the eve of war with Austria. In March 1809, on the precipice of war with the Austrian Empire, French leader Napoleon Bonaparte sent a message to his senior general, Auguste de Marmont. The first line was in standard French: “You must have received, General Marmont, my letters of the 8th, 14th and 20th of this month.” But the next 24 lines were all written in code. After the…",
+      "summary_zh": "1809 年 3 月，拿破仑将密码发送给奥古斯特·德·马尔蒙将军，希望在与奥地利开战前夕警告他有关敌军阵地的信息。 1809 年 3 月，在与奥地利帝国的战争边缘，法国领导人拿破仑·波拿巴向他的高级将军奥古斯特·德·马尔蒙发出了一封信。第一行是标准法语：“马尔蒙将军，您一定已经收到我本月 8 日、14 日和 20 日的信了。”但接下来的24分钟",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-cipher-from-napoleon-decoded.jpg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-10-03T05:45:28+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    },
+    {
+      "id": "22758b470ce60925",
+      "url": "https://allthatsinteresting.com/la-malinche",
+      "title_en": "How An Enslaved Woman Named La Malinche Helped Hernán Cortés Topple The Aztec Empire",
+      "title_zh": "一个名叫拉马林奇的奴隶如何帮助埃尔南·科尔特斯推翻阿兹特克帝国",
+      "summary_en": "Roberto Cueva del Rio/Wikimedia Commons A 20th-century painting of La Malinche and Hernán Cortés speaking with Mesoamerican leaders. La Malinche — also known as Malintzin and Doña Marina — was a Mesoamerican woman who served as a trusted advisor and interpreter to Spanish conquistador Hernán Cortés in the 16th century. She played a key role in Cortés’ conquest of the Aztec Empire, and she’s even been referred to as “the real conqueror of Mexico.” Because of this, many Mexicans have historically viewed La Malinche…",
+      "summary_zh": "Roberto Cueva del Rio/Wikimedia Commons 一幅 20 世纪的画作，描绘了拉马林什 (La Malinche) 和埃尔南·科尔特斯 (Hernán Cortés) 与中美洲领导人的对话。拉马林什（La Malinche），也被称为马林钦（Malintzin）和多纳玛丽娜（Doña Marina），是一位中美洲女性，在 16 世纪担任西班牙征服者埃尔南·科尔特斯（Hernán Cortés）值得信赖的顾问和翻译。她在科尔特斯征服阿兹特克帝国的过程中发挥了关键作用，甚至被称为“墨西哥真正的征服者”。正因为如此，许多墨西哥人",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2020/05/hernan-cortes-and-la-malinche-featured.jpg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-10-03T02:00:00+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}

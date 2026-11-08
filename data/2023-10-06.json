@@ -1,0 +1,23 @@
+{
+  "date": "2023-10-06",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "00ae9c18c79cfdc7",
+      "url": "https://timesofindia.indiatimes.com/viral-news/escaped-monkey-momo-captured-after-it-drinks-beer-and-runs-riot-in-indianapolis/articleshow/104208644.cms",
+      "title_en": "Escaped monkey 'Momo' captured after it drinks beer and runs riot in Indianapolis",
+      "title_zh": "印第安纳波利斯逃跑的猴子“莫莫”喝啤酒骚乱后被抓获",
+      "summary_en": "The elusive monkey known as \"Momo\" has been safely captured by authorities in Indianapolis after making a daring escape. The monkey was first reported missing on Wednesday evening, leading to an intense search effort. On Thursday morning, there was a breakthrough when Momo was sighted and eventually captured. The monkey's owner had reached out for assistance through a local lost-and-found pets Facebook group.",
+      "summary_zh": "这只名叫“莫莫”的难以捉摸的猴子在一次大胆的逃跑后被印第安纳波利斯当局安全捕获。周三晚上，这只猴子首次被报道失踪，随后展开了紧张的搜寻工作。周四早上，当莫莫被发现并最终被抓获时，事情有了突破。这只猴子的主人通过当地脸书失物招领宠物小组寻求帮助。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-104194203,imgsize-129076.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2023-10-06T00:15:00+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

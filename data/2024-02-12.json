@@ -1,0 +1,23 @@
+{
+  "date": "2024-02-12",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "742ef143cf986f71",
+      "url": "https://timesofindia.indiatimes.com/viral-news/taylor-swift-chugs-drink-at-super-bowl-lviii-sparks-social-media-frenzy/articleshow/107613344.cms",
+      "title_en": "Taylor Swift cheers boyfriend Travis Kelce at the Super Bowl",
+      "title_zh": "泰勒·斯威夫特在超级碗上为男友特拉维斯·凯尔斯欢呼",
+      "summary_en": "Taylor Swift made a stylish appearance at Super Bowl LVIII, wearing a chic ensemble with a black outfit and a red jacket casually draped over one shoulder. Her fashion choice was in line with the attire of Chiefs members and subtly connected to her hit song 'Anti-Hero' from the album 'Midnights.'",
+      "summary_zh": "泰勒·斯威夫特 (Taylor Swift) 在第十八届超级碗 (Super Bowl LVIII) 上时尚亮相，她穿着一身别致的黑色套装，一件红色夹克随意地披在肩上。她的时尚选择与酋长队成员的着装一致，并与她专辑“Midnights”中的热门歌曲“Anti-Hero”巧妙地联系在一起。",
+      "translation_status": "fallback",
+      "image": "https://static.toiimg.com/photo/msid-107612978,imgsize-36644.cms",
+      "image_checked": true,
+      "source": "Times of India Viral News",
+      "source_id": "toi-viral",
+      "region": "印度",
+      "published_at": "2024-02-12T11:15:13+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

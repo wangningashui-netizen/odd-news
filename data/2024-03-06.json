@@ -1,0 +1,23 @@
+{
+  "date": "2024-03-06",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "0b2d87a63ac5433b",
+      "url": "https://www.oddee.com/more-strange-drinks-from-around-the-world/",
+      "title_en": "More Strange Drinks From Around The World",
+      "title_zh": "来自世界各地的更多奇怪饮料",
+      "summary_en": "Have you read Do You Know About These Weird Drinks From Around The World? Here are more strange drinks to try! Or not. Snake Wine So this wine isn’t made from snakes but it is made from steeping a snake in rice wine.",
+      "summary_zh": "你读过《你知道这些来自世界各地的奇怪饮料吗？》这里有更多奇怪的饮料可以尝试！或不。蛇酒所以这种酒不是用蛇酿制的，而是用米酒浸泡蛇制成的。",
+      "translation_status": "fallback",
+      "image": "https://www.oddee.com/wp-content/uploads/2024/03/jan-kopriva-EPLrqHHu2WI-unsplash-1-200x300.jpg",
+      "image_checked": true,
+      "source": "Oddee",
+      "source_id": "oddee",
+      "region": "全球",
+      "published_at": "2024-03-06T23:39:00+08:00",
+      "fetched_at": "2026-11-08T20:59:14+08:00"
+    }
+  ]
+}

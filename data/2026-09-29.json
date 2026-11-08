@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-29",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "5b8d03a5cd8f29af",
+      "url": "https://allthatsinteresting.com/kennedy-compound",
+      "title_en": "How A $25,000 Beach Cottage Became One Of The Most Iconic Homes In American History",
+      "title_zh": "价值 25,000 美元的海滩小屋如何成为美国历史上最具标志性的住宅之一",
+      "summary_en": "The Kennedy Compound is almost as famous as the Kennedy family itself. Located in Hyannis Port, Massachusetts, the property — which is made up of three houses set along the beaches of Cape Cod — has been the site of many important moments in the history of the political dynasty. Click here to view slideshow It was there, in 1953, that John F. Kennedy brought Jackie after proposing marriage.",
+      "summary_zh": "肯尼迪大院几乎与肯尼迪家族本身一样出名。该地产位于马萨诸塞州海恩尼斯港，由科德角海滩沿岸的三栋房屋组成，是这个政治王朝历史上许多重要时刻的所在地。单击此处查看幻灯片 1953 年，约翰·F·肯尼迪 (John F. Kennedy) 正是在那里向杰姬求婚。",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/jfk-with-his-family-at-the-kennedy-compound-featured.jpg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-09-29T09:00:00+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    },
+    {
+      "id": "ed2d44e344bc94af",
+      "url": "https://allthatsinteresting.com/greece-ancient-royal-gymnasium",
+      "title_en": "Archaeologists In Greece Found An Ancient School Complete With Intact Benches Where Students Like Alexander The Great Listened To Lectures More Than 2,000 Years Ago",
+      "title_zh": "希腊考古学家发现了一所古老的学校，里面有完整的长凳，2000多年前亚历山大大帝等学生曾在这里听课",
+      "summary_en": "Hellenic Ministry of Culture Archaeologists in northern Greece discovered the school where it’s likely that Aristotle taught Alexander the Great and other Macedonian royals. Archaeologists excavating near Naousa in northern Greece recently uncovered a roughly 2,400-year-old school complex, or gymnasium. The site, which stood in the ancient Macedonian town of Mieza, may have been where Aristotle taught in the 4th century B.C.E. The storied Macedonian king Alexander the Great, as well as other Macedonian royals…",
+      "summary_zh": "希腊文化部希腊北部的考古学家发现了这所学校，亚里士多德很可能在那里教导亚历山大大帝和其他马其顿皇室成员。考古学家最近在希腊北部纳乌萨附近进行挖掘，发现了一座拥有大约 2,400 年历史的学校建筑群或体育馆。该遗址位于马其顿古镇米耶萨，可能是公元前 4 世纪亚里士多德讲学的地方。传说中的马其顿国王亚历山大大帝，",
+      "translation_status": "fallback",
+      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/featured-school-where-aristotle-taught.jpg",
+      "image_checked": true,
+      "source": "All That's Interesting",
+      "source_id": "all-thats-interesting",
+      "region": "全球",
+      "published_at": "2026-09-29T05:45:30+08:00",
+      "fetched_at": "2026-11-08T20:59:13+08:00"
+    }
+  ]
+}
