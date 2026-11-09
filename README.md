@@ -43,11 +43,34 @@
 
 跨日搜索不逐个下载每天的大文件。抓取脚本会写 `data/search-index.json` 和按月拆开的 `data/search/YYYY-MM.json`。页面先读最近两个月，先画出结果，再在后台补更早的月份。
 
-`translation_status` 有三种：
+`translation_status`：
 
-- `ok`：GitHub Models 生成的中文标题和概要
-- `fallback`：模型不可用时的机器翻译，页面上标「机翻」。下次如果模型能用，会把最近 7 天里的机翻换成模型概要
-- `pending`：中文还没写上。页面显示英文，并标「待翻译」。下次运行会重试最近 7 天里的这些条目
+- `ai`：写进 `data/translations/` 后套用的中文。页面不显示「机翻」
+- `ok`：原文本身已是中文，或可选的 `MODELS_API_*` 接口译成的。页面不显示「机翻」
+- `fallback`：机器翻译，页面标「机翻」
+- `pending`：还没有中文，页面标「待翻译」
+
+每条的稳定键是 `id`（规范化链接的 sha1 前 16 位）。每天 07:00（北京时间）抓取之后，最新一天里还需要翻译的条目（`fallback` 和 `pending`）写在：
+
+`https://wangningashui-netizen.github.io/odd-news/data/untranslated/latest.json`
+
+字段是 `id`、`title_en`、`summary_en`、当前的 `title_zh` / `summary_zh`，另外有 `url` 和 `source`。把译好的结果提交到 `data/translations/YYYY-MM-DD.json`：
+
+```json
+{
+  "0123abcd4567ef89": {
+    "title_zh": "中文标题",
+    "summary_zh": "两到四句概要，不加油添醋。"
+  }
+}
+```
+
+文件名里的日期只是这次翻译的批次。套用时按 `id` 找条目，不要求条目落在同一天。推到 `main` 的 `data/translations/**` 会触发 Apply translations 工作流；每天的抓取结束时也会再套用一次，避免重新抓取把已套用的中文盖掉。本地：
+
+```bash
+python3 scripts/retranslate.py
+python3 scripts/export_untranslated.py
+```
 
 ## 自动更新
 
@@ -56,9 +79,7 @@
 - 定时：`0 23 * * *`（GitHub 的 cron 用 UTC）。23:00 UTC 是北京时间第二天早上 7:00。中国不实行夏令时，所以全年都是这个点。
 - 手动：Actions 页面里的 **Run workflow**。
 
-工作流权限是 `contents: write` 和 `models: read`。抓取脚本用 `GITHUB_TOKEN` 调用 `https://models.github.ai/inference/chat/completions`，默认模型是 `openai/gpt-4o-mini`（小、便宜）。一次请求里放多条，减少免费额度的请求次数。
-
-模型如果返回限流，会退避重试。如果接口不可用、没有返回补全，或者根本没有 token，条目仍然会写入。脚本接着用公开的机器翻译接口补中文，并标成 `fallback`。机器翻译也失败时，保留英文，标成 `pending`。
+抓取里的中文默认仍是机器翻译（`fallback`）。可选的 `MODELS_API_URL` / `MODELS_API_KEY` / `MODELS_MODEL` 还在，不设置就不会调用。日常的中文稿由 `data/translations/` 提供，套用后状态是 `ai`。
 
 提交发生在 `main`（或你手动运行时所在的分支）上。GitHub Pages 如果选的是「从分支部署 / main / 根目录」，这次提交会触发重新部署，不需要单独的构建。
 
@@ -72,17 +93,7 @@
 3. **Actions 已启用**。新仓库有时要先打开 Actions 标签页，允许工作流运行。
 4. 合并这个拉取请求。定时任务只认默认分支上的工作流文件。
 
-不需要配密钥。`GITHUB_TOKEN` 由 Actions 自动注入。
-
-GitHub Models 已于 2026-07-30 停用：`models.github.ai` 现在对补全请求只返回纯文本 `OK`，不是 JSON。工作流仍会按上面的方式去调用它，这样服务如果恢复，或者你把下面的变量指到一个兼容 OpenAI 的接口，不用改代码：
-
-| 变量 | 作用 |
-| --- | --- |
-| `MODELS_API_URL` | 默认 `https://models.github.ai/inference/chat/completions` |
-| `MODELS_API_KEY` | 默认用 `GITHUB_TOKEN` |
-| `MODELS_MODEL` | 默认 `openai/gpt-4o-mini` |
-
-在仓库 Secrets 里加上 `MODELS_API_KEY` 时，要在工作流的 `env` 里把它传给脚本（现在只传了 `GITHUB_TOKEN`）。不配的话，每天的结果会是「机翻」，页面照常更新。
+不需要为翻译配密钥。`GITHUB_TOKEN` 由 Actions 自动注入，只用来提交数据。
 
 不想要机器翻译时，用 `python scripts/fetch_news.py --no-fallback`。本地调试也可以加 `--no-enrich`（跳过补主图和摘要）或 `--no-models`。
 
