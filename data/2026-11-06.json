@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "count": 174,
+  "count": 180,
   "items": [
     {
       "id": "845296458de0292b",
@@ -124,6 +124,27 @@
       ],
       "tag_source": "rules",
       "page_fetched": true
+    },
+    {
+      "id": "703dd260f22aea86",
+      "url": "https://www.timesnownews.com/world/us/us-news/very-unusual-voting-patterns-lauren-boeberts-team-signals-possible-recount-article-156475779",
+      "title_en": "‘Very Unusual Voting Patterns’: Lauren Boebert’s Team Signals Possible Recount",
+      "title_zh": null,
+      "summary_en": "Republican Congresswoman Lauren Boebert faces challenges in her re-election bid as she trails Democratic opponent Eileen Laubacher in Colorado's 4th Congressional District. , US News, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156475783,thumbsize-449443,width-1280,height-720,resizemode-75/156475783.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T23:32:51+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "10da823e084934a8",
@@ -344,6 +365,27 @@
       "fetched_at": "2026-11-08T23:16:15+08:00",
       "tags": [
         "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "3a4dae2e915f681f",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayana-gets-major-relief-bombay-hc-orders-takedown-of-pirated-links-within-three-hours-of-notice-article-156475488",
+      "title_en": "Ramayana Gets Major Relief, Bombay HC Orders Takedown Of Pirated Links Within Three Hours Of Notice",
+      "title_zh": null,
+      "summary_en": "The Bombay High Court has directed internet service providers and digital platforms to remove pirated Ramayana links within three hours of receiving a notice from the film's copyright holder., Bollywood, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156475500,thumbsize-107223,width-1280,height-720,resizemode-75/156475500.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T22:31:44+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧"
       ],
       "tag_source": "rules"
     },
@@ -1320,6 +1362,28 @@
       "tag_source": "rules"
     },
     {
+      "id": "fd98360a0bcfaf9e",
+      "url": "https://www.timesnownews.com/bengaluru/bengaluru-mass-murder-daughter-suspected-of-helping-father-kill-wife-six-relatives-article-156474155",
+      "title_en": "Bengaluru's 7-Member Family Massacre: Daughter Suspected Of Helping Father Execute Plan",
+      "title_zh": null,
+      "summary_en": "Karnataka Home Minister Priyank Kharge has said police suspect the 17-year-old daughter may have assisted her father in the murder of seven relatives in Bengaluru., Bengaluru News, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156474385,thumbsize-99115,width-1280,height-720,resizemode-75/156474385.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T18:06:07+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律",
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "431c3afde5092984",
       "url": "https://www.ndtv.com/offbeat/us-envoy-sergio-gor-shares-glimpse-of-diwali-celebrations-at-embassy-in-new-delhi-12292389",
       "title_en": "US Envoy Sergio Gor Shares Glimpse Of Diwali Celebrations At Embassy In New Delhi",
@@ -2209,6 +2273,27 @@
       "tag_source": "rules"
     },
     {
+      "id": "ca7a95cd721fd328",
+      "url": "https://www.timesnownews.com/delhi/delhi-aqi-severe-november-6-8-nasa-map-stubble-burning-punjab-pakistan-article-156472881",
+      "title_en": "2025 Vs 2026: Delhi's November Air Is Worse, And The Numbers Show It",
+      "title_zh": null,
+      "summary_en": "Delhi's AQI is forecast to remain severe from November 6-8., Delhi News, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156472914,thumbsize-58077,width-1280,height-720,resizemode-75/156472914.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T13:05:46+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "b9cc4c4813af75f7",
       "url": "https://soranews24.com/2026/11/06/pokemon-doughnuts-pop-up-at-mister-donut-with-a-new-gathering-thats-bigger-than-ever/",
       "title_en": "Pokémon doughnuts pop up at Mister Donut, with a new gathering that’s bigger than ever",
@@ -2270,6 +2355,27 @@
       "page_attempts": 2
     },
     {
+      "id": "cdf9ec4703583dc8",
+      "url": "https://www.timesnownews.com/bengaluru/bengaluru-man-arrested-killing-wife-six-family-members-domestic-dispute-article-156472676",
+      "title_en": "How Two Decades Of Marital Discord Led To Bengaluru Bloodbath",
+      "title_zh": null,
+      "summary_en": "A Bengaluru cab driver has been arrested for allegedly murdering his wife and six relatives following a prolonged domestic dispute., Bengaluru News, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156472739,thumbsize-99115,width-1280,height-720,resizemode-75/156472739.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T12:04:12+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "52ddda0bb2b4b3be",
       "url": "https://www.republicworld.com/world-news/would-rather-not-destroy-rest-of-the-country-trump-s-iran-war-tone-changes-after-midterm-drubbing-2026-11-06-140536",
       "title_en": "'Would Rather Not Destroy Rest of the Country': Trump's Iran War Tone Changes After Midterm Drubbing",
@@ -2329,6 +2435,27 @@
       ],
       "tag_source": "rules",
       "page_fetched": true
+    },
+    {
+      "id": "86aa1843894d26a2",
+      "url": "https://www.timesnownews.com/education/ppsc-rejects-claims-of-irregularities-in-punjab-pcs-exam-cites-misreading-of-data-patterns-article-156472639",
+      "title_en": "PPSC Rejects Claims of Irregularities in Punjab PCS Exam, Cites 'Misreading of Data Patterns'",
+      "title_zh": null,
+      "summary_en": "The Punjab Public Service Commission has dismissed allegations of irregularities in the state PCS examination results, stating that claims arose from a misinterpretation of data. Read on to learn about the whole story., Education, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156472645,thumbsize-174105,width-1280,height-720,resizemode-75/156472645.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T11:36:16+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "5d408819f209e262",

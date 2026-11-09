@@ -1,8 +1,29 @@
 {
   "date": "2026-10-21",
   "timezone": "Asia/Shanghai",
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "id": "1cdaa333677e2e45",
+      "url": "https://www.news18.com/viral/harsh-goenka-takes-a-dig-at-vinod-khoslas-chief-of-staff-job-sleep-is-a-luxury-personal-life-is-a-distraction-ws-l-10391552.html",
+      "title_en": "Harsh Goenka Takes A Dig At Vinod Khosla’s Chief Of Staff Job: ‘Sleep Is A Luxury, Personal Life Is A Distr",
+      "title_zh": null,
+      "summary_en": "Vinod Khosla, co-founder of Sun Microsystems and head of venture capital firm Khosla Ventures, posted a job which requires candidates to be available round-the-clock",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-4-2026-10-c2e2edadedc75ce4dc38bddc59135942-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-21T19:47:16+08:00",
+      "fetched_at": "2026-11-09T10:31:03+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "3cf0a4fafd771e34",
       "url": "https://metro.co.uk/2026/10/21/extinct-tiger-head-found-bed-only-one-sold-thousands-29727518/",

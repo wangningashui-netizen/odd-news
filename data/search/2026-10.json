@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "count": 315,
+  "count": 316,
   "items": [
     {
       "id": "443b27a8eddc7635",
@@ -2103,6 +2103,23 @@
       ],
       "url": "https://allthatsinteresting.com/franceska-mann",
       "translation_status": "fallback"
+    },
+    {
+      "id": "1cdaa333677e2e45",
+      "date": "2026-10-21",
+      "published_at": "2026-10-21T19:47:16+08:00",
+      "title_zh": null,
+      "title_en": "Harsh Goenka Takes A Dig At Vinod Khosla’s Chief Of Staff Job: ‘Sleep Is A Luxury, Personal Life Is A Distr",
+      "summary_zh": null,
+      "summary_en": "Vinod Khosla, co-founder of Sun Microsystems and head of venture capital firm Khosla Ventures, posted a job which requires candidates to be available round-the-clock",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-4-2026-10-c2e2edadedc75ce4dc38bddc59135942-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/harsh-goenka-takes-a-dig-at-vinod-khoslas-chief-of-staff-job-sleep-is-a-luxury-personal-life-is-a-distraction-ws-l-10391552.html",
+      "translation_status": "pending"
     },
     {
       "id": "3cf0a4fafd771e34",

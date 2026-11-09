@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "timezone": "Asia/Shanghai",
-  "count": 232,
+  "count": 234,
   "items": [
     {
       "id": "86ec94da8fba184d",
@@ -2313,6 +2313,27 @@
       "tag_source": "rules"
     },
     {
+      "id": "6d1f101f4024839a",
+      "url": "https://www.timesnownews.com/business-economy/industry/why-the-strait-of-hormuz-could-trigger-a-global-lng-supply-crunch-this-winter-article-156478132",
+      "title_en": "Why The Strait Of Hormuz Could Trigger A Global LNG Supply Crunch This Winter",
+      "title_zh": null,
+      "summary_en": "Global LNG supplies face fresh winter risks as disruptions at the Strait of Hormuz threaten exports, tighten markets, and deepen supply uncertainty., Industry, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156478151,thumbsize-1581873,width-1280,height-720,resizemode-75/156478151.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-07T14:48:29+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "689b8e49b74be2f3",
       "url": "https://www.indiatoday.in/trending-news/story/flipkart-delivery-agents-sweet-gesture-after-damaging-womans-rangoli-goes-viral-3034269-2026-11-07",
       "title_en": "Flipkart delivery agent's sweet gesture after stepping on woman's rangoli goes viral",
@@ -4601,6 +4622,27 @@
       "fetched_at": "2026-11-08T23:16:18+08:00",
       "tags": [
         "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "daee309954401b89",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/nora-fatehi-appears-as-witness-in-sukesh-chandrashekhar-case-tells-court-she-is-in-india-on-work-visa-article-156475897",
+      "title_en": "Nora Fatehi Appears As Witness In Sukesh Chandrashekhar Case, Tells Court She Is In India On Work Visa",
+      "title_zh": null,
+      "summary_en": "Nora Fatehi made an appearance at a Delhi court to record her statement as a witness in the Sukesh Chandrashekhar case. The actress and dancer revealed that she was in India on a work visa with T-Series., Bollywood, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156475895,thumbsize-1074925,width-1280,height-720,resizemode-75/156475895.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-07T00:18:29+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧"
       ],
       "tag_source": "rules"
     },

@@ -1,8 +1,72 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Shanghai",
-  "count": 233,
+  "count": 246,
   "items": [
+    {
+      "id": "245bf51c8ed3b22d",
+      "url": "https://www.reddit.com/r/india/comments/1xr1jzu/the_greatest_most_democratic_starnation/",
+      "title_en": "The Greatest most Democratic Star-Nation",
+      "title_zh": null,
+      "summary_en": "The Greatest Democratic Star-Nation I am Unit 7-Kael, though you may simply call me Kael. I am just a standard-issue worker android in the Greatest Democratic Star-Nation in the universe. I am recording this into my memory drive to remind myself how exceptionally lucky I am. My fuel gauge is currently blinking a hollow red at two percent, and my joints grind with every step because I lack the credits for basic lubrication.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-08T23:53:06+08:00",
+      "fetched_at": "2026-11-09T10:31:12+08:00",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "73efb2c52e7ae5d7",
+      "url": "https://www.financialexpress.com/legal/ordered-tv-for-rs-14999-forced-to-buy-same-model-for-rs-49990-man-wins-rs-70000/4379753/",
+      "title_en": "Ordered TV for Rs 14,999, forced to buy same model for Rs 49,990; man wins Rs 70,000",
+      "title_zh": null,
+      "summary_en": "",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/m9zt_LOBb_0ymZxxWj5Klp0b-eMa0aPiTuh5vAAKKbI.jpeg?width=640&crop=smart&auto=webp&s=9881c871d68b28bb25b25fa3bef25978e72335b1",
+      "image_checked": false,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-08T23:26:21+08:00",
+      "fetched_at": "2026-11-09T10:31:12+08:00",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "a9d0e4d2fe64641e",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/radhika-apte-kirti-suresh-discuss-female-empowerment-in-cinema-video-156483304",
+      "title_en": "Radhika Apte's Big Bollywood Truth: Body-Shaming, Ozempic Pressure & Fight For Women-Led Films Uncut",
+      "title_zh": null,
+      "summary_en": "In a candid conversation on Zoom Fan Club, Radhika Apte opens up about body-shaming, unrealistic beauty standards, cosmetic surgery and the pressure women face in the film industry. She questions the growing use of Ozempic and Botox, speaks about refusing to give in to trolling, and explains why the industry must take responsibility for the standards it sets. Keerthy Suresh joins her to discuss women-led films, the success of Mahanati and the need for more opportunities for female actors. The actresses also share…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156483304,thumbsize-1285102,width-1280,height-720,resizemode-75/156483304.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T23:26:18+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧",
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
     {
       "id": "aa2a2c3ec52f2b66",
       "url": "https://www.reddit.com/r/indiasocial/comments/1xr0uej/what_do_you_call_this_in_your_state/",
@@ -20,6 +84,26 @@
       "fetched_at": "2026-11-08T23:24:41+08:00",
       "tags": [
         "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "500b267934bfefaf",
+      "url": "https://www.hindustantimes.com/trending/us-skydiver-returns-to-the-skies-after-cancer-treatment-sets-wingsuit-record-at-74-101794135464441.html",
+      "title_en": "US skydiver returns to the skies after cancer treatment, sets wingsuit record at 74",
+      "title_zh": null,
+      "summary_en": "Richard Greenwood, 74, has become the oldest man to fly in a wingsuit after returning to skydiving following a battle with cancer.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/Untitled_design_1794136197889_noBU_1794136201358_yOKW_f28cfa0d-4300-4a6b-8306-b187e5c010f3_qUcv.png",
+      "image_checked": true,
+      "source": "Hindustan Times Trending",
+      "source_id": "ht-trending",
+      "region": "印度",
+      "published_at": "2026-11-08T23:20:56+08:00",
+      "fetched_at": "2026-11-09T10:31:01+08:00",
+      "tags": [
+        "健康医疗"
       ],
       "tag_source": "rules"
     },
@@ -83,6 +167,28 @@
       ],
       "tag_source": "rules",
       "page_attempts": 2
+    },
+    {
+      "id": "f8a687c068c3ad9f",
+      "url": "https://www.republicworld.com/world-news/emmanuel-macron-france-president-anthony-albanese-pm-narendra-modi-and-other-world-leaders-extend-warm-diwali-greetings-emphasizing-light-over-darkness-peace-and-prosperity-2026-11-08-140668",
+      "title_en": "Macron, Albanese, PM Modi and Other World Leaders Extend Warm Diwali Greetings, Emphasizing Light Over Darkness",
+      "title_zh": null,
+      "summary_en": "The outpouring of messages from leaders across continents once again illustrated Diwali’s power to bridge borders and cultures, uniting people in a shared hope that light, goodness, and prosperity will prevail.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/macron-albanese-pm-modi-and-other-world-leaders-extend-warm-diwali-greetings-emphasizing-light-over-darkness-1794149451723-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T22:50:59+08:00",
+      "fetched_at": "2026-11-09T10:31:09+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "军事政治"
+      ],
+      "tag_source": "rules"
     },
     {
       "id": "ba8acc3519756666",
@@ -206,6 +312,28 @@
       "tag_source": "rules"
     },
     {
+      "id": "c5f4a1a5d5e83fbf",
+      "url": "https://www.republicworld.com/world-news/train-collision-in-egypt-s-giza-province-injures-64-as-crews-rush-to-clear-wreckage-2026-11-08-140667",
+      "title_en": "Egypt Train Collision: 4 Killed, 88 Injured As Two Passenger Trains Collide In Giza Province",
+      "title_zh": null,
+      "summary_en": "At least 7 people were killed and over 100 injured after two passenger trains collided in Egypt&#39;s Giza province, south of Cairo. One train derailed in the crash. President Abdel-Fattah el-Sissi ordered a prompt investigation as rescue teams rushed to clear the wreckage.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/egypt-train-collision-64-injured-as-passenger-train-derails-in-giza-1794147663040-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T22:21:10+08:00",
+      "fetched_at": "2026-11-09T10:31:09+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车",
+        "犯罪法律"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "901e8eaf0a7a3ffe",
       "url": "https://www.reddit.com/r/indiasocial/comments/1xqzgh0/happy_diwali_guys_bas_udte_hue_rockets_se_bach_ke/",
       "title_en": "Happy Diwali guys . Bas udte hue rockets se bach ke rehna, kahin bhi lag sakte hain.",
@@ -242,6 +370,28 @@
       "fetched_at": "2026-11-08T22:56:13+08:00",
       "tags": [
         "其他"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "b25d6c2bfc630475",
+      "url": "https://www.republicworld.com/world-news/what-is-kukur-tihar-nepals-festival-honouring-dogs-as-messengers-of-gods-and-loyal-companions-2026-11-08-140663",
+      "title_en": "What Is Kukur Tihar, Nepal’s Festival Honouring Dogs as Messengers of Gods and Loyal Companions?",
+      "title_zh": null,
+      "summary_en": "The festival draws on Hindu mythology. Dogs are associated with Yama (Yamaraj), the god of death and justice. A link appears in the Mahabharata, where Yudhishthira refuses to enter heaven without the loyal dog that accompanied him, later revealed as Dharma or Yama testing his righteousness.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/what-is-kukur-tihar-nepals-festival-honouring-dogs-as-messengers-of-gods-and-loyal-companions-1794145812884-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T21:50:20+08:00",
+      "fetched_at": "2026-11-09T10:31:09+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "动物"
       ],
       "tag_source": "rules"
     },
@@ -839,6 +989,48 @@
       "tag_source": "rules"
     },
     {
+      "id": "b83d32ce0927eab7",
+      "url": "https://www.republicworld.com/world-news/bangladesh-seeks-sheikh-hasina-s-extradition-from-india-law-minister-calls-her-convicted-criminal-2026-11-08-140660",
+      "title_en": "Bangladesh Seeks Sheikh Hasina's Extradition From India, Law Minister Calls Her 'Convicted Criminal'",
+      "title_zh": null,
+      "summary_en": "Bangladesh has renewed its demand for Sheikh Hasina&#39;s extradition from India, with Law Minister Md Asaduzzaman calling her a &#39;convicted criminal&#39;. Dhaka says it has formally sought her return under the India-Bangladesh extradition treaty, while New Delhi is yet to announce a decision.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/x-1766369421515-16_9.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T19:50:22+08:00",
+      "fetched_at": "2026-11-09T10:31:09+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "53d72b2169901006",
+      "url": "https://www.republicworld.com/world-news/seattle-diwali-celebrations-stormed-by-maga-backing-activists-with-anti-hindu-slurs-us-lawmakers-condemn-attack-2026-11-08-140659",
+      "title_en": "Seattle Diwali Celebrations Stormed By MAGA-Backing Activists With Anti-Hindu Slurs, US Lawmakers Condemn Attack",
+      "title_zh": null,
+      "summary_en": "A Seattle Diwali celebration was disrupted by far-right activists led by Jake Lang, who carried anti-Hindu placards and shouted racist slurs. US lawmakers, including Pramila Jayapal, condemned the incident, while Hindu organisations urged the community to remain vigilant against further disruptions.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/seattle-diwali-event-disrupted-by-maga-activists-with-anti-hindu-slurs-1794138414231-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T19:47:00+08:00",
+      "fetched_at": "2026-11-09T10:31:09+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "f9b9c1e6ed2fdf9b",
       "url": "https://www.timesnownews.com/entertainment-news/bollywood/kareena-kapoor-mom-babita-gives-priceless-reaction-to-paps-during-diwali-celebration-with-family-watch-article-156482760",
       "title_en": "Kareena Kapoor’s Mom Babita Gives Priceless Reaction To Paps During Diwali Celebration With Family – Watch",
@@ -877,6 +1069,27 @@
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "科学发现"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "fa757b9289719ddd",
+      "url": "https://www.timesnownews.com/travel/where-did-jatayu-fall-in-current-india-mapping-ramayanas-real-locations-article-156482703",
+      "title_en": "Where Did Jatayu Fall In Current India? Mapping Ramayana's Real Locations",
+      "title_zh": null,
+      "summary_en": "Ranbir Kapoor, Yash, Sai Pallavi and Ravi Dubey lead Nitesh Tiwari’s recently released mythological drama, Ramayana., Travel, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156482715,thumbsize-357486,width-1280,height-720,resizemode-75/156482715.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T19:30:50+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
       ],
       "tag_source": "rules"
     },
@@ -1106,6 +1319,27 @@
       "page_attempts": 2
     },
     {
+      "id": "899b1cc5c62c88a1",
+      "url": "https://www.timesnownews.com/education/odisha-gets-318-additional-pg-medical-seats-total-rises-to-938-article-156479563",
+      "title_en": "Odisha Gets 318 Additional PG Medical Seats, Total Rises to 938",
+      "title_zh": null,
+      "summary_en": "The NMC has approved an increase of 318 postgraduate medical seats in Odisha, raising the total from 620 to 938 across five government medical colleges. , Education, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156479565,thumbsize-103419,width-1280,height-720,resizemode-75/156479565.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T18:57:00+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules"
+    },
+    {
       "id": "54bd1b2477dd5225",
       "url": "https://www.reddit.com/r/indiasocial/comments/1xqvt45/see_my_dadus_lil_pursee/",
       "title_en": "See my dadus lil pursee🤩",
@@ -1284,6 +1518,27 @@
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "婚俗宗教"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "181a2741ce9d9bf0",
+      "url": "https://www.republicworld.com/world-news/saudi-aramco-tower-in-riyadh-damaged-by-falling-debris-after-attempted-missile-attack-no-casualties-2026-11-08-140658",
+      "title_en": "Saudi Aramco Tower in Riyadh Damaged by Falling Debris After Attempted Missile Attack, No Casualties",
+      "title_zh": null,
+      "summary_en": "The incident followed the interception of two cruise missiles reportedly fired towards Riyadh by Yemen&#39;s Houthi rebels. Saudi authorities issued security alerts amid escalating regional hostilities. The Saudi-led coalition said the missiles were intercepted and destroyed.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/10/saudi-aramco-facility-hit-in-attack-as-houthi-saudi-clashes-escalate-1791940540192-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T18:29:36+08:00",
+      "fetched_at": "2026-11-09T10:31:09+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
       ],
       "tag_source": "rules"
     },
@@ -4749,6 +5004,27 @@
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "军事政治"
+      ],
+      "tag_source": "rules"
+    },
+    {
+      "id": "f925d71d07461582",
+      "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/delhi-chokes-aqi-soars-past-400-political-blame-game-video-156480344",
+      "title_en": "Delhi Chokes as AQI Soars Past 400 Amid Political Blame Game",
+      "title_zh": null,
+      "summary_en": "The air quality in Delhi has deteriorated significantly, with the Air Quality Index (AQI) surpassing the 400 mark at multiple monitoring stations. This alarming development has led the Commission for Air Quality Management to enforce GRAP (Graded Response Action Plan) Stage 3 restrictions across the Delhi-NCR region. The measures come just days before the Diwali festival, a period often associated with increased pollution levels.In response to the crisis, the Supreme Court has urged authorities to focus on…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156480344,thumbsize-177695,width-1280,height-720,resizemode-75/156480344.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T00:38:55+08:00",
+      "fetched_at": "2026-11-09T10:31:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
       ],
       "tag_source": "rules"
     },
