@@ -902,12 +902,15 @@ def enrich_one(item: dict) -> dict:
         updated["image"] = image
     if description and thin_summary(updated) and len(description) > len(updated.get("summary_en") or ""):
         updated["summary_en"] = description
-        title_zh = (updated.get("title_zh") or "").strip()
-        summary_zh = (updated.get("summary_zh") or "").strip()
-        if not summary_zh or summary_zh == title_zh:
-            updated["summary_zh"] = None
-            if updated.get("translation_status") != "ok":
-                updated["translation_status"] = "pending"
+        # Applied translations stay. A later retranslate run puts them back if a
+        # fetch ever rewrites the Chinese fields.
+        if updated.get("translation_status") != "ai":
+            title_zh = (updated.get("title_zh") or "").strip()
+            summary_zh = (updated.get("summary_zh") or "").strip()
+            if not summary_zh or summary_zh == title_zh:
+                updated["summary_zh"] = None
+                if updated.get("translation_status") != "ok":
+                    updated["translation_status"] = "pending"
     updated["page_fetched"] = True
     updated["image_checked"] = True
     return updated
@@ -1141,14 +1144,14 @@ def apply_existing_cjk(item: dict) -> bool:
 
 def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> None:
     for item in items:
-        if item.get("translation_status") == "ok" and item.get("title_zh") and item.get("summary_zh"):
+        if item.get("translation_status") in {"ok", "ai"} and item.get("title_zh") and item.get("summary_zh"):
             continue
         apply_existing_cjk(item)
 
     model_queue = [
         item
         for item in items
-        if item.get("translation_status") != "ok"
+        if item.get("translation_status") not in {"ok", "ai"}
     ]
     if use_models and model_queue:
         log(f"GitHub Models translation for {len(model_queue)} items")
@@ -1184,7 +1187,11 @@ def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> 
             time.sleep(1.5)
     if use_fallback:
         fallback_translate(
-            [item for item in items if item.get("translation_status") != "ok" and not item.get("title_zh")]
+            [
+                item
+                for item in items
+                if item.get("translation_status") not in {"ok", "ai"} and not item.get("title_zh")
+            ]
         )
         translate_summaries_only(
             [
@@ -1193,7 +1200,7 @@ def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> 
                 if item.get("title_zh")
                 and item.get("summary_en")
                 and not item.get("summary_zh")
-                and item.get("translation_status") != "ok"
+                and item.get("translation_status") not in {"ok", "ai"}
             ]
         )
 
@@ -1508,9 +1515,10 @@ def main() -> int:
             continue
         seen_ids.add(item["id"])
         status = item.get("translation_status")
-        if status == "ok" and item.get("title_zh") and item.get("summary_zh"):
+        if status in {"ok", "ai"} and item.get("title_zh") and item.get("summary_zh"):
             continue
         # Machine translations stay put until a live model can replace them.
+        # Committed translations are reapplied after this step.
         if status == "fallback" and (args.no_models or not models_token()):
             continue
         targets.append(item)
@@ -1566,6 +1574,11 @@ def main() -> int:
     )
     if not parsed_counts and not days:
         return 1
+    # Reapply committed translations after the fetch so a re-fetch cannot
+    # leave an applied item on the machine-translation text.
+    import retranslate
+
+    retranslate.run()
     return 0
 
 
