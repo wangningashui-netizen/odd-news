@@ -15,13 +15,17 @@
       "image_checked": true,
       "source": "UNILAD Weird",
       "source_id": "unilad-weird",
-      "region": "英国",
+      "region": "美国",
       "published_at": "2026-05-26T01:51:05+08:00",
       "fetched_at": "2026-11-08T21:06:41+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "d7ecf4a2c1d01c53",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

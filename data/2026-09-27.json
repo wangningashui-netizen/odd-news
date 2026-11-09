@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4506d836b4e2b3e5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f53399620f5c9eb3",
@@ -35,13 +39,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "印度",
       "published_at": "2026-09-27T23:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "f53399620f5c9eb3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "88bbb752ce132f01",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "88bbb752ce132f01",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4273e473f9e419c2",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4273e473f9e419c2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6785779f76fcba9e",
@@ -101,7 +117,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6785779f76fcba9e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

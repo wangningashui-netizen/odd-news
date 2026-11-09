@@ -21,7 +21,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "2ed96c156fa78ae1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "45256373ee6a96f1",
@@ -35,13 +39,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "澳大利亚",
       "published_at": "2026-10-14T21:28:19+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "卫生环境"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "45256373ee6a96f1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a410062287004663",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a410062287004663",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "080ddcf41f02fa47",
@@ -75,13 +87,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "英国",
       "published_at": "2026-10-14T19:49:35+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "080ddcf41f02fa47",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d643934f888f23c9",
@@ -101,7 +117,11 @@
       "tags": [
         "科技发明"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d643934f888f23c9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d84bb25eab4b12f9",
@@ -115,13 +135,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "加拿大",
       "published_at": "2026-10-14T15:27:09+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d84bb25eab4b12f9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f00c9c602f7ef243",
@@ -141,7 +165,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f00c9c602f7ef243",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3a95108a7b5c542a",
@@ -161,7 +189,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3a95108a7b5c542a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ffa2a7562bec25df",
@@ -181,7 +213,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ffa2a7562bec25df",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f14fe37e063f0b60",
@@ -195,13 +231,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-14T09:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "f14fe37e063f0b60",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "83167c72ff66b631",
@@ -221,7 +261,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "83167c72ff66b631",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c819d5bbf8a64685",
@@ -241,7 +285,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "c819d5bbf8a64685",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

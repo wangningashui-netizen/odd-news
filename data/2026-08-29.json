@@ -23,7 +23,11 @@
         "犯罪法律",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3470655dea7f98cf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

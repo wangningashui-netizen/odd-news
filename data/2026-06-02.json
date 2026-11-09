@@ -22,7 +22,11 @@
         "卫生环境",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "86cc6336f71c5511",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

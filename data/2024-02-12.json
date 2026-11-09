@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "742ef143cf986f71",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

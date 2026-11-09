@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "78e7d1f8e1a0ae55",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f0daf8e1ca978871",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "f0daf8e1ca978871",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

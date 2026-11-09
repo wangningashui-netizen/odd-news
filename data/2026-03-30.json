@@ -21,7 +21,11 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "08f7919586d87fe1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

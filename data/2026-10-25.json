@@ -22,7 +22,11 @@
         "健康医疗"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "e2efcd078092c02e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "58a6efa5e2d4320e",
@@ -42,7 +46,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "58a6efa5e2d4320e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bc581e98f075ecee",
@@ -56,13 +64,17 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "加拿大",
       "published_at": "2026-10-25T22:19:56+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "bc581e98f075ecee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8104c09a8fc4790b",
@@ -82,7 +94,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "8104c09a8fc4790b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f4d8dc4fdda30254",
@@ -96,13 +112,17 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-25T18:01:38+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "f4d8dc4fdda30254",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7df22e89419084d7",
@@ -116,13 +136,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "法国",
       "published_at": "2026-10-25T17:03:46+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7df22e89419084d7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ca70b74ecb79342b",
@@ -142,7 +166,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ca70b74ecb79342b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8ad8b6c207e17595",
@@ -156,14 +184,18 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-25T09:13:02+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "8ad8b6c207e17595",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "07cf2d5fb6d38813",
@@ -183,7 +215,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "07cf2d5fb6d38813",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8da4743ca761c821",
@@ -204,7 +240,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "8da4743ca761c821",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "19ba4a7e44af1090",
@@ -224,7 +264,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "19ba4a7e44af1090",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

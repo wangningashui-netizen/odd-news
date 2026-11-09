@@ -21,7 +21,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "df8255b3e470adb3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

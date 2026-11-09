@@ -17,7 +17,12 @@
         "其他"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/alligator-ally-oops-phillies-fan-denied-entry-with-emotional-support-gator/articleshow/104043227.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "a6045cd2475bfffe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "60db02a0a57ff952",
@@ -34,7 +39,12 @@
         "其他"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/qualified-for-karachi-station-pakistans-exit-from-asia-cup-sparks-memefest/articleshow/103687163.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "60db02a0a57ff952",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "a3a1bac4072d4844",
@@ -46,13 +56,18 @@
       "summary_en": "Reem's California, a bakery in San Francisco, has faced backlash for refusing to serve uniformed police officers and individuals carrying weapons. The San Francisco Police Officers' Association called out the bakery for its discriminatory policy and urged businesses to openly acknowledge such policies. Reem's defended its stance, stating that it prioritizes social and racial justice and aims to create a safe environment. The bakery's decision has sparked outrage online, with some calling for a boycott.",
       "image": "https://static.toiimg.com/photo/msid-103285130,imgsize-51964.cms",
       "source": "Times of India Viral News",
-      "region": "印度",
+      "region": "美国",
       "tags": [
         "街头食物",
         "犯罪法律"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/racist-bigots-arabic-restaurant-in-us-refuses-to-serve-cops-in-uniform-faces-fury/articleshow/103285144.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "a3a1bac4072d4844",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

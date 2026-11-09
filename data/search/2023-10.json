@@ -17,7 +17,12 @@
         "动物"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/escaped-monkey-momo-captured-after-it-drinks-beer-and-runs-riot-in-indianapolis/articleshow/104208644.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "00ae9c18c79cfdc7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "7952f707f3f8e2d3",
@@ -36,7 +41,12 @@
         "科学发现"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/animal-smuggling-otter-rat-and-28-turtles-cause-chaos-on-bangkok-to-taipei-flight/articleshow/104208771.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "7952f707f3f8e2d3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

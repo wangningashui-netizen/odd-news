@@ -17,7 +17,12 @@
         "其他"
       ],
       "url": "https://www.oddee.com/frontier-airlines-attendant-made-a-bad-baby-joke-part-two/",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "a8e5c8d14d0119fb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "44490ccfabad13bb",
@@ -29,12 +34,17 @@
       "summary_en": "The United States is very different from other countries. Here are a bunch of reasons why outsiders like the United States. “Hospitality and kindness. On my travels in America, I found the majority of Americans to be kind, keen to help, and lovely to spend time with.” “NASA.” “Free refills at restaurants.",
       "image": "https://www.oddee.com/wp-content/uploads/2023/06/nasa-g370b1d022_1280-300x169.jpg",
       "source": "Oddee",
-      "region": "全球",
+      "region": "美国",
       "tags": [
         "科学发现"
       ],
       "url": "https://www.oddee.com/all-the-reasons-why-outsiders-like-the-united-states/",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "44490ccfabad13bb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

@@ -21,7 +21,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0b2d87a63ac5433b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

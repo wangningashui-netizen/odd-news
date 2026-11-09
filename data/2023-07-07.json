@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a8e5c8d14d0119fb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

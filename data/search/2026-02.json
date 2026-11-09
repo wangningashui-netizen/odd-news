@@ -17,7 +17,12 @@
         "奇人奇事"
       ],
       "url": "https://www.unilad.com/news/man-woman-tied-together-share-findings-388813-20260223",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "f3a427fefd1ebf78",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "2be14f6fea60ce7e",
@@ -34,7 +39,12 @@
         "健康医疗"
       ],
       "url": "https://www.unilad.com/news/health/doctors-frogs-pregnancy-tests-1950s-worked-143542-20260212",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "2be14f6fea60ce7e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "870f782032bbecf5",
@@ -53,7 +63,12 @@
         "奇人奇事"
       ],
       "url": "https://www.unilad.com/news/us-news/ufo-orb-sighting-us-military-footage-persian-gulf-267108-20260205",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "870f782032bbecf5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "dec34852610d2f6e",
@@ -71,7 +86,12 @@
         "奇人奇事"
       ],
       "url": "https://www.unilad.com/news/sport/winter-olympics-penis-gate-rule-693206-20260205",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "dec34852610d2f6e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

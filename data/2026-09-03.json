@@ -23,7 +23,11 @@
         "奇人奇事",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "b4e08695513dc083",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c238790b9863c0ec",
@@ -43,7 +47,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "c238790b9863c0ec",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

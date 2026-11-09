@@ -22,7 +22,11 @@
         "航空出行",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d5cf862a07ced80e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

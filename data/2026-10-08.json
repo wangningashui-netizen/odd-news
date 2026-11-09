@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "befeb04c30aba107",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d7a6c8ef25e63b5d",
@@ -41,7 +45,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d7a6c8ef25e63b5d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "649a07e40bacced6",
@@ -62,7 +70,11 @@
         "航空出行",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b6440d869f54bf2f",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "5040bd266c0b4f86",
@@ -82,7 +94,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "5040bd266c0b4f86",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d35459aae4f219a4",
@@ -102,7 +118,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d35459aae4f219a4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cd5a4439adf31bfe",
@@ -122,7 +142,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cd5a4439adf31bfe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "284e17d825508982",
@@ -142,7 +166,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "284e17d825508982",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "810889dda5ff310a",
@@ -162,7 +190,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "810889dda5ff310a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8b80b1babd4a85c2",
@@ -176,13 +208,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "印度",
       "published_at": "2026-10-08T02:00:23+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "8b80b1babd4a85c2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9c1de2939c196023",
@@ -204,7 +240,11 @@
         "犯罪法律",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "9c1de2939c196023",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

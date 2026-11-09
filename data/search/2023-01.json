@@ -17,7 +17,12 @@
         "其他"
       ],
       "url": "https://www.news18.com/buzz/microsoft-teams-down-memes-take-over-as-office-employees-celebrate-break-6913849.html",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "235f3e1ebb85ed33",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

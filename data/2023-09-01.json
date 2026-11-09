@@ -15,14 +15,18 @@
       "image_checked": true,
       "source": "Times of India Viral News",
       "source_id": "toi-viral",
-      "region": "印度",
+      "region": "美国",
       "published_at": "2023-09-01T19:28:24+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "街头食物",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a3a1bac4072d4844",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

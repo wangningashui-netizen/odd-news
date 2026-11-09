@@ -21,7 +21,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7565cf149bf9ec04",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3147b563533ddf1c",
@@ -41,7 +45,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3147b563533ddf1c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a2c9c99568d6d7e3",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a2c9c99568d6d7e3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "79c2a9ffd4c6bf92",
@@ -81,7 +93,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "79c2a9ffd4c6bf92",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "259fddf32e4fa4ec",
@@ -95,13 +111,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "法国",
       "published_at": "2026-10-03T05:45:28+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "259fddf32e4fa4ec",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "22758b470ce60925",
@@ -121,7 +141,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "22758b470ce60925",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

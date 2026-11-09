@@ -12,12 +12,17 @@
       "summary_en": "Though Cincinnati is best known for breweries, another effervescent beverage has a long history in the Queen City: the nectar soda. Home to the oldest pharmacy college in the U.S. west of the Alleghenies, the Eclectic Medical Institute (1845-1952), and Lloyd Brothers Pharmacists , Cincinnati was long on the forefront of the pharmaceutical industry. The city had a number of apothecaries with soda fountains, as well as confectioners serving countless carbonated concoctions—some claiming to cure a variety of…",
       "image": "https://img.atlasobscura.com/gLqA8RaTQNIL0MupnRjPCWB4QRxXZdJs1eCFvMqaXY8/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3RoaW5n/X2ltYWdlcy80YTQw/MzA1NC04MjBhLTQw/MmEtYmU5My1iYWZi/YWU5ZGViNDc5Y2Rk/YjY1YjA4NGY1MmFm/YzRfQWdsYW1lc2lz/IG5lY3RhciBzb2Rh/IG9uIHRhYmxlIDIu/anBn.jpg",
       "source": "Atlas Obscura",
-      "region": "全球",
+      "region": "美国",
       "tags": [
         "健康医疗"
       ],
       "url": "https://www.atlasobscura.com/foods/nectar-soda",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "5e2faceb3fe5519f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

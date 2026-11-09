@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "509d6302658a1e6d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "fefea26075bb0552",
@@ -35,13 +39,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "日本",
       "published_at": "2026-09-28T18:03:11+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fefea26075bb0552",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "58091f09bcba76af",
@@ -62,7 +70,11 @@
         "犯罪法律",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "58091f09bcba76af",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2abc388f6ca7525a",
@@ -82,7 +94,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2abc388f6ca7525a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f3823e3bfac89fca",
@@ -102,7 +118,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "f3823e3bfac89fca",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

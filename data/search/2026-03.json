@@ -17,7 +17,12 @@
         "街头食物"
       ],
       "url": "https://www.atlasobscura.com/foods/joans-strawberry-short-cakes",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "08f7919586d87fe1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "45a23f340c22abda",
@@ -35,7 +40,12 @@
         "科学发现"
       ],
       "url": "https://www.unilad.com/news/space-iss-astronaut-potato-spudnik-1-652754-20260326",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "45a23f340c22abda",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "b472abd6b1b45d51",
@@ -52,7 +62,12 @@
         "婚俗宗教"
       ],
       "url": "https://www.news18.com/viral/what-if-the-red-wedding-from-game-of-thrones-went-differently-this-ai-video-is-breaking-the-internet-9982220.html",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "b472abd6b1b45d51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

@@ -17,7 +17,12 @@
         "动物"
       ],
       "url": "https://www.unilad.com/news/us-news/frankenstein-rabbits-tentacles-midwest-again-crpv-009670-20260624",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "32d91edf162cc9c4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "df8255b3e470adb3",
@@ -34,7 +39,12 @@
         "科学发现"
       ],
       "url": "https://www.unilad.com/news/world-news/end-of-the-universe-how-937058-20260621",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "df8255b3e470adb3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "86cc6336f71c5511",
@@ -52,7 +62,12 @@
         "犯罪法律"
       ],
       "url": "https://www.unilad.com/news/us-news/ben-giles-crime-scene-biohazard-cleaner-biggest-payday-214683-20260601",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "86cc6336f71c5511",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

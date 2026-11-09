@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f64fb8d8eba62490",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "de9f22ca03506ac9",
@@ -41,7 +45,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "de9f22ca03506ac9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "15ad6b98af73ad24",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "15ad6b98af73ad24",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a502880157ca642b",
@@ -75,13 +87,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "中国",
       "published_at": "2026-10-02T05:45:39+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a502880157ca642b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e080d332c9091f3a",
@@ -102,7 +118,11 @@
         "军事政治",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "e080d332c9091f3a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "64d7c338a2400608",
@@ -122,7 +142,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "64d7c338a2400608",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8d80b89a7fb3841d",
@@ -142,7 +166,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "8d80b89a7fb3841d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

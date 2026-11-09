@@ -17,7 +17,12 @@
         "其他"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/narayana-murthy-and-daughter-akshata-murty-enjoy-ice-cream-outing-in-bengaluru-picture-goes-viral/articleshow/107659138.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "d943a201aa37ae75",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "742ef143cf986f71",
@@ -34,7 +39,12 @@
         "其他"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/taylor-swift-chugs-drink-at-super-bowl-lviii-sparks-social-media-frenzy/articleshow/107613344.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "742ef143cf986f71",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

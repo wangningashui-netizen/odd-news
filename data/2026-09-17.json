@@ -15,14 +15,18 @@
       "image_checked": true,
       "source": "Oddity Central",
       "source_id": "oddity-central",
-      "region": "全球",
+      "region": "韩国",
       "published_at": "2026-09-17T16:34:22+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "d7199087a1361aac",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4e86f2da72aa85f0",
@@ -42,7 +46,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "4e86f2da72aa85f0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

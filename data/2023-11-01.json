@@ -21,7 +21,11 @@
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "be732d7522853491",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "76c2877563684ddb",
@@ -41,7 +45,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "76c2877563684ddb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

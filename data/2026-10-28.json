@@ -15,14 +15,21 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-28T21:14:19+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "犯罪法律",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3ab7cd2e186cd597",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 274,
+      "reddit_comments": 29,
+      "reddit_id": "t3_1xhnqor"
     },
     {
       "id": "7d952183280a224f",
@@ -36,14 +43,18 @@
       "image_checked": true,
       "source": "Metro Weird",
       "source_id": "metro-weird",
-      "region": "英国",
+      "region": "全球",
       "published_at": "2026-10-28T20:36:43+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "交通火车",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "7d952183280a224f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3be0fc9cf048562a",
@@ -63,7 +74,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3be0fc9cf048562a",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": 199,
+      "reddit_comments": 85,
+      "reddit_id": "t3_1xhmodp"
     },
     {
       "id": "7e25e9464dbc74a2",
@@ -83,7 +101,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "7e25e9464dbc74a2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "674a3cdade6bbe09",
@@ -103,7 +125,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "674a3cdade6bbe09",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "780d85633a420b07",
@@ -124,7 +150,14 @@
         "军事政治"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "780d85633a420b07",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 61,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xhkg2s"
     },
     {
       "id": "de8a33b6de4e683d",
@@ -145,7 +178,11 @@
         "商业套路",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "de8a33b6de4e683d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "18460fc74f6de094",
@@ -165,7 +202,11 @@
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "18460fc74f6de094",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "484592922a651c95",
@@ -185,7 +226,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "484592922a651c95",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3bb7286b8226671c",
@@ -199,13 +244,20 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "澳大利亚",
       "published_at": "2026-10-28T08:55:35+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3bb7286b8226671c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 217,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xhaamj"
     },
     {
       "id": "cc87f779ed553e9a",
@@ -225,7 +277,14 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "cc87f779ed553e9a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 72,
+      "reddit_comments": 29,
+      "reddit_id": "t3_1xh96ux"
     },
     {
       "id": "7d53703f58be7cfc",
@@ -246,7 +305,14 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "7d53703f58be7cfc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xh56fg"
     },
     {
       "id": "894fec9dd3347567",
@@ -266,7 +332,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "894fec9dd3347567",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 84,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xh2l1c"
     },
     {
       "id": "397682b3f41f0a01",
@@ -286,7 +359,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "397682b3f41f0a01",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

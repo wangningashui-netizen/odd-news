@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "8874333fabe40f5d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e44fd320408f368c",
@@ -42,7 +46,11 @@
         "交通火车"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "e44fd320408f368c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "397da9dfe2366468",
@@ -63,7 +71,11 @@
         "卫生环境",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "397da9dfe2366468",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1bb47c10728936c9",
@@ -84,7 +96,11 @@
         "动物"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "1bb47c10728936c9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9ebcf4c931c53b01",
@@ -104,7 +120,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "9ebcf4c931c53b01",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2c0dc7b5c597cbbb",
@@ -124,7 +144,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "2c0dc7b5c597cbbb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "598c2027b6b8b03d",
@@ -144,7 +168,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "598c2027b6b8b03d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c60fb5f200e61e72",
@@ -164,7 +192,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c60fb5f200e61e72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "57f155961dc719ad",
@@ -178,14 +210,18 @@
       "image_checked": true,
       "source": "Metro Weird",
       "source_id": "metro-weird",
-      "region": "英国",
+      "region": "德国",
       "published_at": "2026-10-16T16:49:45+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "科技发明",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "57f155961dc719ad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "53e8f410cdfcc880",
@@ -206,7 +242,11 @@
         "科学发现",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "53e8f410cdfcc880",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "646be061f38e01fb",
@@ -226,7 +266,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "646be061f38e01fb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e166912eddf464e8",
@@ -246,7 +290,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "e166912eddf464e8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3ceaa77517eaee69",
@@ -266,7 +314,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "3ceaa77517eaee69",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "122d2eef397c71e9",
@@ -286,7 +338,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "122d2eef397c71e9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b8ffdfb8a5d81256",
@@ -300,14 +356,18 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-16T00:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "诈骗骗局",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "b8ffdfb8a5d81256",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

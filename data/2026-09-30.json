@@ -21,7 +21,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2b5839571a333b4e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d8cb58a79a948e3c",
@@ -35,13 +39,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-09-30T19:34:21+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d8cb58a79a948e3c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "16cecf5cc6e1468f",
@@ -61,7 +69,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "16cecf5cc6e1468f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e57a4426894ad379",
@@ -82,7 +94,11 @@
         "卫生环境",
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e57a4426894ad379",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c8545b81ab25ac8e",
@@ -102,7 +118,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c8545b81ab25ac8e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5a3932b45f5d6954",
@@ -122,7 +142,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5a3932b45f5d6954",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "04144275e259f838",
@@ -136,13 +160,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "美国",
       "published_at": "2026-09-30T12:15:14+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "04144275e259f838",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7622e43b10adccf1",
@@ -156,13 +184,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-09-30T09:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "7622e43b10adccf1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "205f885615fafd95",
@@ -176,13 +208,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-09-30T07:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "205f885615fafd95",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "11c8aa977bb2b117",
@@ -203,7 +239,11 @@
         "科学发现",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "11c8aa977bb2b117",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

@@ -21,7 +21,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "6c79422a4669c34f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1201e614dd98bf81",
@@ -41,7 +45,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1201e614dd98bf81",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a3bbfa5efaee0507",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a3bbfa5efaee0507",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cb3860a2fa285b3a",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cb3860a2fa285b3a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4ac1a2719bb8b821",
@@ -101,7 +117,11 @@
       "tags": [
         "卫生环境"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4ac1a2719bb8b821",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5901f1f28b925ab2",
@@ -115,13 +135,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-12T04:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "5901f1f28b925ab2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c02959e52119eef6",
@@ -141,7 +165,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "c02959e52119eef6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3d3bbb8491c0561e",
@@ -162,7 +190,11 @@
         "犯罪法律",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3d3bbb8491c0561e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

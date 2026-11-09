@@ -17,7 +17,12 @@
         "健康医疗"
       ],
       "url": "https://www.oddee.com/the-last-of-what-happened-last-year-in-2023-part-three/",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "fc572d2aefcf43cc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "997cf096dc9f8854",
@@ -35,7 +40,12 @@
         "奇人奇事"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/watch-hardeep-singh-puri-reunites-with-old-friend-from-delhi-university-video-melts-hearts/articleshow/108418522.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "997cf096dc9f8854",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "0b2d87a63ac5433b",
@@ -52,7 +62,12 @@
         "动物"
       ],
       "url": "https://www.oddee.com/more-strange-drinks-from-around-the-world/",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "0b2d87a63ac5433b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

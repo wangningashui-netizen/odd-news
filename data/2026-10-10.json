@@ -15,13 +15,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "德国",
       "published_at": "2026-10-10T21:59:38+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fc5b34c751a08a2f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5da2c512f9af6a51",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "5da2c512f9af6a51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "64974357e9847699",
@@ -61,7 +69,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "64974357e9847699",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c5f4ffe18d2b3057",
@@ -81,7 +93,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c5f4ffe18d2b3057",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7f0a6039f3dfed47",
@@ -101,7 +117,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7f0a6039f3dfed47",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "af296f961147e508",
@@ -121,7 +141,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "af296f961147e508",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b7cf117b971db267",
@@ -141,7 +165,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b7cf117b971db267",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e92c55e700f35193",
@@ -161,7 +189,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e92c55e700f35193",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f659925c4b044228",
@@ -182,7 +214,11 @@
         "科学发现",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "f659925c4b044228",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3dfa871783754857",
@@ -202,7 +238,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3dfa871783754857",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

@@ -12,12 +12,17 @@
       "summary_en": "Ever wanted to be the proud owner of the world's tallest thermometer? Well, now you can if you're a millionaire. The thermometer has become a tourist attraction in its own right in Baker, California and is now available for purchase, according to multiple local media reports. The listing is part of a 4.3-acre property, the San Bernardino County site, which is roughly 90 miles southwest of the famed Las Vegas strip.",
       "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQ3M2EwOWU5Y2IzNTVlYTRjLzZhMTQ4NmNjOTNjMDc5Nzc3ODYyNjdmNi9HZXR0eUltYWdlcy0xMjMzOTM1NzI5LmpwZw.jpg",
       "source": "UNILAD Weird",
-      "region": "英国",
+      "region": "美国",
       "tags": [
         "其他"
       ],
       "url": "https://www.unilad.com/news/us-news/worlds-tallest-thermometer-for-sale-691142-20260525",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "d7ecf4a2c1d01c53",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "dc90537e4f25fd09",
@@ -34,7 +39,12 @@
         "其他"
       ],
       "url": "https://www.news18.com/viral/melody-hai-chocolatey-the-story-behind-indias-most-iconic-toffee-ad-ws-l-10102313.html",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "dc90537e4f25fd09",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "c08d0dd30af8cac9",
@@ -46,12 +56,17 @@
       "summary_en": "Officials have been left feeling a bit perplexed after a five dozen defective piggy banks were washed ashore in Texas in 2026. What do you typically find on a beach? Sand, of course, the sea and maybe a bit of seaweed. But the last thing you'd expect to see when having a dip in the water is a piggy bank your mom would put your pocket money in as a child.",
       "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQ2MTkxNjcxZmRiNDFmMDU0LzZhMGFkZWM2ODQxN2M3ODJmYjlhNWY1Yy9TY3JlZW5zaG90XzIwMjYtMDUtMThfYXRfMDkuMjcuMDIucG5n.jpg",
       "source": "UNILAD Weird",
-      "region": "英国",
+      "region": "美国",
       "tags": [
         "其他"
       ],
       "url": "https://www.unilad.com/news/us-news/texas-piggy-banks-wash-ashore-260408-20260518",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "c08d0dd30af8cac9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

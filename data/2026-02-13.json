@@ -21,7 +21,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "2be14f6fea60ce7e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

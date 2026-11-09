@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "1671c2d711697cdd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "76ead6bbcb4428ed",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "76ead6bbcb4428ed",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a680958a3ecf9442",
@@ -61,7 +69,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "a680958a3ecf9442",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "17779494efea745c",
@@ -81,7 +93,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "17779494efea745c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1c48de7a97cd002d",
@@ -101,7 +117,11 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1c48de7a97cd002d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8ff2b3e0213d9c76",
@@ -115,13 +135,17 @@
       "image_checked": true,
       "source": "Express Weird News",
       "source_id": "express-weird",
-      "region": "英国",
+      "region": "法国",
       "published_at": "2026-10-06T16:53:00+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "8ff2b3e0213d9c76",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f98b08e00a204385",
@@ -141,7 +165,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f98b08e00a204385",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "584444caa75596b9",
@@ -161,7 +189,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "584444caa75596b9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5c899f6bdc4f9f1e",
@@ -181,7 +213,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5c899f6bdc4f9f1e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5dab323056a93579",
@@ -195,14 +231,18 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "德国",
       "published_at": "2026-10-06T05:45:02+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "婚俗宗教",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "5dab323056a93579",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

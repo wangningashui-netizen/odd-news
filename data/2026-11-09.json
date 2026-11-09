@@ -15,14 +15,18 @@
       "image_checked": true,
       "source": "Times Now Viral",
       "source_id": "timesnow-viral",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-11-09T10:13:02+08:00",
       "fetched_at": "2026-11-09T10:31:04+08:00",
       "page_fetched": true,
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b659c26221d52c68",
+      "cluster_item_count": 3,
+      "cluster_source_count": 1
     },
     {
       "id": "475ff819741df40b",
@@ -43,7 +47,14 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "475ff819741df40b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xrfmth"
     },
     {
       "id": "9bf4ef4ed9aa581e",
@@ -57,13 +68,17 @@
       "image_checked": true,
       "source": "Hindustan Times Trending",
       "source_id": "ht-trending",
-      "region": "印度",
+      "region": "美国",
       "published_at": "2026-11-09T09:25:23+08:00",
       "fetched_at": "2026-11-09T10:31:01+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9bf4ef4ed9aa581e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3bc0b3f97f3377b8",
@@ -84,7 +99,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3bc0b3f97f3377b8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b88b158ab1cd7a08",
@@ -106,7 +125,11 @@
         "影视神剧",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f4e4b84c3a211a4c",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "de35900baaa7bba3",
@@ -127,7 +150,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "de35900baaa7bba3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ba7fe127b14a58d4",
@@ -147,7 +174,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "日本",
+      "cluster_id": "ba7fe127b14a58d4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "27138548068f3348",
@@ -168,7 +199,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "27138548068f3348",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ce95f3bb2ad08a7f",
@@ -189,7 +224,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ce95f3bb2ad08a7f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "da0e7a46f662dc53",
@@ -209,7 +248,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "da0e7a46f662dc53",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "fa46ea6b7c40ecb1",
@@ -229,7 +272,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "fa46ea6b7c40ecb1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "26fca4eb9ff45987",
@@ -243,14 +290,18 @@
       "image_checked": true,
       "source": "Times Now Viral",
       "source_id": "timesnow-viral",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-11-09T05:16:57+08:00",
       "fetched_at": "2026-11-09T10:31:04+08:00",
       "page_fetched": true,
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b659c26221d52c68",
+      "cluster_item_count": 3,
+      "cluster_source_count": 1
     },
     {
       "id": "11c23b79357d7466",
@@ -271,7 +322,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "11c23b79357d7466",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ea998d9f4951f503",
@@ -293,7 +348,11 @@
         "动物",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ea998d9f4951f503",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5ab9add312763a25",
@@ -314,7 +373,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5ab9add312763a25",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3b1a19d09de7451d",
@@ -335,7 +398,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3b1a19d09de7451d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "841bb3b7e7bc22d0",
@@ -356,7 +423,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "841bb3b7e7bc22d0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ed199b6ecd4ef666",
@@ -377,7 +448,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ed199b6ecd4ef666",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b90ceae5777af5ad",
@@ -398,7 +473,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b90ceae5777af5ad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "87d180faaa01102e",
@@ -419,7 +498,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "87d180faaa01102e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2da62e12bafd48b3",
@@ -440,7 +523,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2da62e12bafd48b3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1a3b8e203d283d77",
@@ -461,7 +548,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1a3b8e203d283d77",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d6aff4649643135a",
@@ -484,7 +575,11 @@
         "军事政治",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d6aff4649643135a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2a4d6f23e42063db",
@@ -505,7 +600,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2a4d6f23e42063db",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

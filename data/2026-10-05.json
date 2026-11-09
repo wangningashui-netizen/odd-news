@@ -22,7 +22,11 @@
         "交通火车",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "908cdf26dbd6ab52",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c6c3d5682ad44a26",
@@ -42,7 +46,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c6c3d5682ad44a26",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "89fb98feadfc1218",
@@ -62,7 +70,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "89fb98feadfc1218",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b6440d869f54bf2f",
@@ -82,7 +94,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b6440d869f54bf2f",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     }
   ]
 }

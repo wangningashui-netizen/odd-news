@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "c8f2dee3f90ca181",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

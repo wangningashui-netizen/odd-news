@@ -22,7 +22,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "245bf51c8ed3b22d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "73efb2c52e7ae5d7",
@@ -43,7 +47,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "73efb2c52e7ae5d7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a9d0e4d2fe64641e",
@@ -65,7 +73,11 @@
         "影视神剧",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a9d0e4d2fe64641e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "aa2a2c3ec52f2b66",
@@ -85,7 +97,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "aa2a2c3ec52f2b66",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "500b267934bfefaf",
@@ -105,7 +121,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "500b267934bfefaf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "292923e148cdff7f",
@@ -125,7 +145,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "292923e148cdff7f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2a7d1b4d752f14eb",
@@ -145,7 +169,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2a7d1b4d752f14eb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cca2060cdc84e2fd",
@@ -166,7 +194,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "cca2060cdc84e2fd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f8a687c068c3ad9f",
@@ -188,7 +220,11 @@
         "婚俗宗教",
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f8a687c068c3ad9f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ba8acc3519756666",
@@ -208,7 +244,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "ba8acc3519756666",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9c3454baa801f5c5",
@@ -228,7 +268,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9c3454baa801f5c5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "43b2bec3676aa560",
@@ -248,7 +292,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "43b2bec3676aa560",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6c2a740df15bbb1a",
@@ -268,7 +316,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6c2a740df15bbb1a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "629690ced1ea535b",
@@ -289,7 +341,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "629690ced1ea535b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c6f9c19552dadffe",
@@ -309,7 +365,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c6f9c19552dadffe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c5f4a1a5d5e83fbf",
@@ -331,7 +391,11 @@
         "交通火车",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c5f4a1a5d5e83fbf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "901e8eaf0a7a3ffe",
@@ -351,7 +415,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "901e8eaf0a7a3ffe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "449595a5fc048f01",
@@ -371,7 +439,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "449595a5fc048f01",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 9781,
+      "reddit_comments": 175,
+      "reddit_id": "t3_1xqywjd"
     },
     {
       "id": "b25d6c2bfc630475",
@@ -393,7 +468,11 @@
         "婚俗宗教",
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b25d6c2bfc630475",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c4fdf16c8176a251",
@@ -414,7 +493,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "a7fe0666467a2eb7",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "1e532f693fca192a",
@@ -434,7 +517,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1e532f693fca192a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "401a3a9703da5eb6",
@@ -454,7 +541,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "401a3a9703da5eb6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "14e5b0bcd83dd9eb",
@@ -474,7 +565,11 @@
       "tags": [
         "科技发明"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "14e5b0bcd83dd9eb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "13168127ac03a0c5",
@@ -494,7 +589,14 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "13168127ac03a0c5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 19,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqyf47"
     },
     {
       "id": "2506b7441126447e",
@@ -514,7 +616,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2506b7441126447e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1e6509cb65cd9c00",
@@ -536,7 +642,11 @@
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "1e6509cb65cd9c00",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "18a8877c8dce799b",
@@ -557,7 +667,14 @@
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "18a8877c8dce799b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqy60v"
     },
     {
       "id": "4c14e95297826ad3",
@@ -577,7 +694,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4c14e95297826ad3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8bc486234f2b882b",
@@ -598,7 +719,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "8bc486234f2b882b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "083d2f2847a92ae9",
@@ -618,7 +743,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "083d2f2847a92ae9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "36f93a8e6cd8befc",
@@ -639,7 +768,11 @@
         "航空出行"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "36f93a8e6cd8befc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "64236da63dae5ab5",
@@ -659,7 +792,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "日本",
+      "cluster_id": "64236da63dae5ab5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "30277b91ca6787f0",
@@ -680,7 +817,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "30277b91ca6787f0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0ce497e51d52d1f5",
@@ -700,7 +841,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c8c9332ad32915ad",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "f41833735414f053",
@@ -720,7 +865,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f41833735414f053",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "451476497bf73e72",
@@ -740,7 +889,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "451476497bf73e72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "65ce97273c1f7b5f",
@@ -761,7 +914,11 @@
         "军事政治"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "65ce97273c1f7b5f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b1149a59c61f59b9",
@@ -781,7 +938,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b1149a59c61f59b9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ea7147775744f849",
@@ -801,7 +962,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ea7147775744f849",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bfeb4bbb55150504",
@@ -821,7 +986,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9c8ba5b9632d27bb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "694913519ec356e4",
@@ -842,7 +1011,11 @@
         "航空出行",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "694913519ec356e4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a51cfa1b1809eefd",
@@ -862,7 +1035,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a51cfa1b1809eefd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ad277b4d60823ea3",
@@ -883,7 +1060,11 @@
         "商业套路"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "220cba8108e905b6",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "392a62e84cc27dc0",
@@ -903,7 +1084,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "392a62e84cc27dc0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "93d36599eacefb7b",
@@ -924,7 +1109,11 @@
         "诈骗骗局",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "93d36599eacefb7b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e8579df17ff21baf",
@@ -945,7 +1134,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "e8579df17ff21baf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "98d39c89628827b0",
@@ -966,7 +1159,11 @@
         "军事政治",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "98d39c89628827b0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "85af4e16821bdc73",
@@ -986,7 +1183,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "85af4e16821bdc73",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 418,
+      "reddit_comments": 27,
+      "reddit_id": "t3_1xqwogr"
     },
     {
       "id": "b83d32ce0927eab7",
@@ -1007,7 +1211,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b83d32ce0927eab7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "53d72b2169901006",
@@ -1028,7 +1236,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "53d72b2169901006",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f9b9c1e6ed2fdf9b",
@@ -1050,7 +1262,11 @@
         "影视神剧",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f9b9c1e6ed2fdf9b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7ee0d5610e10b5a3",
@@ -1070,7 +1286,14 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "7ee0d5610e10b5a3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 23,
+      "reddit_id": "t3_1xqwfu2"
     },
     {
       "id": "fa757b9289719ddd",
@@ -1091,7 +1314,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fa757b9289719ddd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "77a3059f5dc111e3",
@@ -1111,7 +1338,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "77a3059f5dc111e3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "676cf61c4c49956c",
@@ -1131,7 +1362,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "676cf61c4c49956c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "06a85d5276e47f8c",
@@ -1151,7 +1386,14 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "06a85d5276e47f8c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 102,
+      "reddit_comments": 8,
+      "reddit_id": "t3_1xqwalj"
     },
     {
       "id": "3b845de958afd9a7",
@@ -1173,7 +1415,14 @@
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "3b845de958afd9a7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 4844,
+      "reddit_comments": 898,
+      "reddit_id": "t3_1xqw9bp"
     },
     {
       "id": "c49078ff0f75d2b9",
@@ -1193,7 +1442,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c49078ff0f75d2b9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "60274f4d9119b426",
@@ -1213,7 +1466,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "60274f4d9119b426",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7f633bd4830539c7",
@@ -1234,7 +1491,11 @@
         "奇人奇事",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7f633bd4830539c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "14202065f5eca899",
@@ -1254,7 +1515,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "14202065f5eca899",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 657,
+      "reddit_comments": 128,
+      "reddit_id": "t3_1xqw4li"
     },
     {
       "id": "1c3bc266524e2309",
@@ -1275,7 +1543,11 @@
         "商业套路"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "1c3bc266524e2309",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9df75efe997a26c8",
@@ -1295,7 +1567,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9df75efe997a26c8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cb827bc450aad0bd",
@@ -1316,7 +1592,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "cb827bc450aad0bd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "899b1cc5c62c88a1",
@@ -1337,7 +1617,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "899b1cc5c62c88a1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "54bd1b2477dd5225",
@@ -1357,7 +1641,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "54bd1b2477dd5225",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "96ee3e457a5b68e9",
@@ -1378,7 +1666,11 @@
         "航空出行",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "96ee3e457a5b68e9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2b831ce9a1ef8d63",
@@ -1398,7 +1690,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2b831ce9a1ef8d63",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e79a91907b5db4bd",
@@ -1419,7 +1715,11 @@
         "航空出行",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e79a91907b5db4bd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "94f288bdbd54b582",
@@ -1439,7 +1739,11 @@
       "tags": [
         "诈骗骗局"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "94f288bdbd54b582",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "870713ed9ffa1e48",
@@ -1459,7 +1763,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "870713ed9ffa1e48",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "af217f86c1092dce",
@@ -1479,7 +1787,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "af217f86c1092dce",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bdad2acb65268295",
@@ -1499,7 +1811,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bdad2acb65268295",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0e8704ec8e517f1d",
@@ -1519,7 +1835,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0e8704ec8e517f1d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "181a2741ce9d9bf0",
@@ -1540,7 +1860,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "181a2741ce9d9bf0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f4e4b84c3a211a4c",
@@ -1560,7 +1884,14 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f4e4b84c3a211a4c",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 961,
+      "reddit_comments": 104,
+      "reddit_id": "t3_1xqvept"
     },
     {
       "id": "04aed6aeb48aa9a6",
@@ -1580,7 +1911,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "04aed6aeb48aa9a6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3162abd740efbc5e",
@@ -1601,7 +1936,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "3162abd740efbc5e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cbdb98f88d98b78d",
@@ -1622,7 +1961,11 @@
         "商业套路"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "cbdb98f88d98b78d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "332bbba7e9f3ee89",
@@ -1643,7 +1986,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "332bbba7e9f3ee89",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f181729431fb77b2",
@@ -1663,7 +2010,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f181729431fb77b2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "07dabac4e23554d9",
@@ -1683,7 +2034,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "07dabac4e23554d9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a160a6afb9256894",
@@ -1703,7 +2058,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "a160a6afb9256894",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b871119289e854ff",
@@ -1724,7 +2083,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "b871119289e854ff",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7417557f7bdd419d",
@@ -1744,7 +2107,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7417557f7bdd419d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b12655b16f16d0c1",
@@ -1764,7 +2131,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b12655b16f16d0c1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7810bc32298534f3",
@@ -1784,7 +2155,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7810bc32298534f3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "db600df2a83de904",
@@ -1805,7 +2180,11 @@
         "影视神剧",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "db600df2a83de904",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4371954e7da779f7",
@@ -1826,7 +2205,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "4371954e7da779f7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "46b6395d5883da9d",
@@ -1846,7 +2229,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "46b6395d5883da9d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "81a0f99877865468",
@@ -1866,7 +2253,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "81a0f99877865468",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "28620750aae77878",
@@ -1886,7 +2277,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "28620750aae77878",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2f9112f46ce03c11",
@@ -1907,7 +2302,11 @@
         "婚俗宗教",
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fcbd7e510a8ee065",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "780cb417229ee325",
@@ -1927,7 +2326,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b5794d5ce8200def",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "9db986301206cea5",
@@ -1947,7 +2350,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9db986301206cea5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e5950b5e472a78e9",
@@ -1967,7 +2374,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e5950b5e472a78e9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "50b16f3b759cc5ba",
@@ -1988,7 +2399,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "50b16f3b759cc5ba",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3e25bc3ad41c6ef0",
@@ -2009,7 +2424,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "3e25bc3ad41c6ef0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "063a79dc800776ae",
@@ -2031,7 +2450,11 @@
         "航空出行"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "baecb5c2a25af85e",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "077e63c11e829be1",
@@ -2052,7 +2475,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "077e63c11e829be1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ea9e72f0ec71edbc",
@@ -2072,7 +2499,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ea9e72f0ec71edbc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "91b512bb9e1b6fe7",
@@ -2093,7 +2524,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "91b512bb9e1b6fe7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b5061142de61ea40",
@@ -2113,7 +2548,14 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b5061142de61ea40",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 65,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqtkan"
     },
     {
       "id": "861e6f1c6eb36c74",
@@ -2133,7 +2575,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e460f46d2f930a33",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "c0fccebef2e42e64",
@@ -2154,7 +2600,11 @@
         "婚俗宗教",
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c0fccebef2e42e64",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d269bef16ba94ae6",
@@ -2174,7 +2624,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d269bef16ba94ae6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "28260479dc4c2fe8",
@@ -2188,14 +2642,18 @@
       "image_checked": true,
       "source": "News18 Viral",
       "source_id": "news18-viral",
-      "region": "印度",
+      "region": "加拿大",
       "published_at": "2026-11-08T16:11:20+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "奇人奇事"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "28260479dc4c2fe8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4f305270d83d1435",
@@ -2215,7 +2673,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4f305270d83d1435",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 401,
+      "reddit_comments": 38,
+      "reddit_id": "t3_1xqtcwf"
     },
     {
       "id": "91804b973b81b91f",
@@ -2236,7 +2701,11 @@
         "商业套路"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "91804b973b81b91f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6460a311bc8d9a2a",
@@ -2256,7 +2725,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6460a311bc8d9a2a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e460f46d2f930a33",
@@ -2276,7 +2749,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e460f46d2f930a33",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "5e1e2611083ebc22",
@@ -2297,7 +2774,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "5e1e2611083ebc22",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a3d6a23cb5f3b6db",
@@ -2318,7 +2799,11 @@
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "a3d6a23cb5f3b6db",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bd34f63e8447d006",
@@ -2338,7 +2823,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bd34f63e8447d006",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "20ee83323b6ce439",
@@ -2358,7 +2847,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "20ee83323b6ce439",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "10442d9c7bcf58b0",
@@ -2378,7 +2871,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "10442d9c7bcf58b0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d079a11f80fbaa22",
@@ -2399,7 +2896,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "d079a11f80fbaa22",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "eb0ebb72ca8cba3a",
@@ -2420,7 +2921,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "eb0ebb72ca8cba3a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "57f7e8ebf7f208c7",
@@ -2440,7 +2945,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "57f7e8ebf7f208c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d9cc247c64301409",
@@ -2460,7 +2969,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d9cc247c64301409",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d634bc3f3e85a7a2",
@@ -2480,7 +2993,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d634bc3f3e85a7a2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f234b81825ac9dee",
@@ -2503,7 +3020,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "f234b81825ac9dee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "46e94bb7c8360571",
@@ -2523,7 +3044,14 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "46e94bb7c8360571",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 69,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqs2p5"
     },
     {
       "id": "754460078ecc0155",
@@ -2543,7 +3071,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "754460078ecc0155",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3b3048679c177191",
@@ -2564,7 +3096,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "3b3048679c177191",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3050ba112f3235b1",
@@ -2584,7 +3120,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3050ba112f3235b1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3fc519251829a170",
@@ -2607,7 +3147,14 @@
         "军事政治"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "3fc519251829a170",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 165,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqryio"
     },
     {
       "id": "bd6f631371ceda9c",
@@ -2629,7 +3176,11 @@
         "卫生环境"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "bd6f631371ceda9c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e0b6b9197f52a187",
@@ -2651,7 +3202,11 @@
       ],
       "tag_source": "rules",
       "page_attempts": 1,
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "e0b6b9197f52a187",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c28045b24e82457b",
@@ -2671,7 +3226,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c28045b24e82457b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ee1af7348b23ed40",
@@ -2691,7 +3250,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ee1af7348b23ed40",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "36dff9d66e340ff9",
@@ -2711,7 +3274,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "36dff9d66e340ff9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 51,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqrnmg"
     },
     {
       "id": "78ee9b43f895679f",
@@ -2732,7 +3302,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "78ee9b43f895679f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "78d81a32f68b34a7",
@@ -2753,7 +3327,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "78d81a32f68b34a7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f889b1b0061c8b61",
@@ -2773,7 +3351,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f889b1b0061c8b61",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "982e3d0e15e2bef2",
@@ -2793,7 +3375,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "982e3d0e15e2bef2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5b999791180b600e",
@@ -2814,7 +3400,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "5b999791180b600e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "719478a8b024745a",
@@ -2834,7 +3424,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "719478a8b024745a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "45bf1626910aff03",
@@ -2854,7 +3448,11 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "45bf1626910aff03",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f25b83c6a434292f",
@@ -2868,14 +3466,21 @@
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
-      "region": "全球",
+      "region": "加拿大",
       "published_at": "2026-11-08T13:58:20+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "f25b83c6a434292f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 2058,
+      "reddit_comments": 198,
+      "reddit_id": "t3_1xqra7y"
     },
     {
       "id": "cd482c19efb5ed1b",
@@ -2895,7 +3500,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cd482c19efb5ed1b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c996eb568cff9cd9",
@@ -2915,7 +3524,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c996eb568cff9cd9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f8c29de9c460fb95",
@@ -2935,7 +3548,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f8c29de9c460fb95",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "951ade520a6ee336",
@@ -2955,7 +3572,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "951ade520a6ee336",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "119e39fdcd7b1ed1",
@@ -2975,7 +3596,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "119e39fdcd7b1ed1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b74c6a54861b47cc",
@@ -2995,7 +3620,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "b74c6a54861b47cc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bc256b7f3c813eb8",
@@ -3016,7 +3645,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "bc256b7f3c813eb8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "870ae9a9314fcd23",
@@ -3037,7 +3670,14 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "870ae9a9314fcd23",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 326,
+      "reddit_comments": 29,
+      "reddit_id": "t3_1xqqofs"
     },
     {
       "id": "cf70ea3653ac06fa",
@@ -3057,7 +3697,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cf70ea3653ac06fa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6c42b337b2c34813",
@@ -3078,7 +3722,11 @@
         "商业套路"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "6c42b337b2c34813",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e57ece3533b0c9c0",
@@ -3098,7 +3746,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e57ece3533b0c9c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9c8ba5b9632d27bb",
@@ -3118,7 +3770,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9c8ba5b9632d27bb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "9b200b6454d1f16e",
@@ -3138,7 +3794,11 @@
       "tags": [
         "卫生环境"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "日本",
+      "cluster_id": "9b200b6454d1f16e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "38b140866a271b78",
@@ -3160,7 +3820,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "dc94e22277d2df95",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "68d504cb21b5b2cf",
@@ -3181,7 +3845,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "68d504cb21b5b2cf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "70075cb411b4daee",
@@ -3201,7 +3869,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "14cf2d34b099800d",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "94d58faf49094c1f",
@@ -3222,7 +3894,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "94d58faf49094c1f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "15baa6022daa6ac9",
@@ -3242,7 +3918,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "15baa6022daa6ac9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "052f98053f313cad",
@@ -3262,7 +3942,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "052f98053f313cad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b1c46b5282a7421a",
@@ -3282,7 +3966,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b1c46b5282a7421a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a3542268aa0abf6d",
@@ -3303,7 +3991,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "a3542268aa0abf6d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f0122ae211b69546",
@@ -3324,7 +4016,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "f0122ae211b69546",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "aaec43946304dd09",
@@ -3345,7 +4041,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "aaec43946304dd09",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bc74d6034dbb7871",
@@ -3367,7 +4067,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "4b5c6afaa06eabcb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "8b43aa1e5031de1a",
@@ -3387,7 +4091,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "58be9e2e48303bc9",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "b258c73feb556c9c",
@@ -3408,7 +4116,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "b258c73feb556c9c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8397a3034df9d3ab",
@@ -3429,7 +4141,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "8397a3034df9d3ab",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4b5c6afaa06eabcb",
@@ -3451,7 +4167,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "4b5c6afaa06eabcb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "bf9ba877586ce7f2",
@@ -3471,7 +4191,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bf9ba877586ce7f2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d02cdbdac835dd93",
@@ -3491,7 +4215,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d02cdbdac835dd93",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1ba9d12be765b830",
@@ -3512,7 +4240,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "1ba9d12be765b830",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "dc94e22277d2df95",
@@ -3533,7 +4265,11 @@
         "诈骗骗局",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "dc94e22277d2df95",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "b8e811fd19b8dc44",
@@ -3554,7 +4290,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "b8e811fd19b8dc44",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "081e017c79b3066b",
@@ -3577,7 +4317,11 @@
         "奇人奇事"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "081e017c79b3066b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d8c8304406cd2695",
@@ -3598,7 +4342,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "edfefb7cfa56f5de",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "8aa3a90a5dc1f005",
@@ -3618,7 +4366,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8aa3a90a5dc1f005",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1209af0e3ff5c5b9",
@@ -3639,7 +4391,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "1209af0e3ff5c5b9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "711197569525ea9a",
@@ -3661,7 +4417,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "c8c9332ad32915ad",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "37bb0ae3c3dcbfd4",
@@ -3683,7 +4443,11 @@
         "诈骗骗局",
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "37bb0ae3c3dcbfd4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a79241fa65bbe6c6",
@@ -3703,7 +4467,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a79241fa65bbe6c6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d9ef4917fd1dc660",
@@ -3717,13 +4485,17 @@
       "image_checked": true,
       "source": "Hindustan Times Trending",
       "source_id": "ht-trending",
-      "region": "印度",
+      "region": "阿联酋",
       "published_at": "2026-11-08T11:06:05+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d9ef4917fd1dc660",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ce03238ce5b2b988",
@@ -3743,7 +4515,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ce03238ce5b2b988",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c7144d01ce481505",
@@ -3764,7 +4540,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "c7144d01ce481505",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "eb63156b3e357cb9",
@@ -3785,7 +4565,11 @@
         "奇人奇事"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "eb63156b3e357cb9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "fcbd7e510a8ee065",
@@ -3806,7 +4590,11 @@
         "商业套路",
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fcbd7e510a8ee065",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "e866f0408c9a6c02",
@@ -3827,7 +4615,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "e866f0408c9a6c02",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "94f27645152079c3",
@@ -3848,7 +4640,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "94f27645152079c3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bdcb0212763236e8",
@@ -3869,7 +4665,11 @@
         "军事政治"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "bdcb0212763236e8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "220cba8108e905b6",
@@ -3889,7 +4689,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "220cba8108e905b6",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "3005ed77b5f366d4",
@@ -3903,13 +4707,17 @@
       "image_checked": true,
       "source": "Times Now Viral",
       "source_id": "timesnow-viral",
-      "region": "印度",
+      "region": "澳大利亚",
       "published_at": "2026-11-08T10:04:50+08:00",
       "fetched_at": "2026-11-08T23:16:15+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3005ed77b5f366d4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a2dac455e2e34bac",
@@ -3929,7 +4737,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a2dac455e2e34bac",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e367469a2b8c1dae",
@@ -3949,7 +4761,14 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a6b6e380d26c3b3b",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 1419,
+      "reddit_comments": 151,
+      "reddit_id": "t3_1xqn2gd"
     },
     {
       "id": "e84f42beb2f4aa30",
@@ -3969,7 +4788,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e84f42beb2f4aa30",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "eb7a74e53d7c7690",
@@ -3989,7 +4812,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "eb7a74e53d7c7690",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "babc93b43459df59",
@@ -4010,7 +4837,14 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "babc93b43459df59",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 8,
+      "reddit_id": "t3_1xqmihx"
     },
     {
       "id": "b76fda4a16fe9634",
@@ -4030,7 +4864,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b76fda4a16fe9634",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "66387deae4b081d6",
@@ -4050,7 +4888,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "66387deae4b081d6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9d25d1fd5641604f",
@@ -4070,7 +4912,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9d25d1fd5641604f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7141f526c0b7da62",
@@ -4090,7 +4936,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "日本",
+      "cluster_id": "7141f526c0b7da62",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c9cd5c4c863dfa7b",
@@ -4110,7 +4960,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c9cd5c4c863dfa7b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "24a620e618446a94",
@@ -4130,7 +4984,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "24a620e618446a94",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0b8fc25dcd13fc71",
@@ -4150,7 +5008,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0b8fc25dcd13fc71",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 217,
+      "reddit_comments": 55,
+      "reddit_id": "t3_1xqkv3t"
     },
     {
       "id": "d31b43c549d4b744",
@@ -4170,7 +5035,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d31b43c549d4b744",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e3b84174f69f9218",
@@ -4184,13 +5053,17 @@
       "image_checked": true,
       "source": "Republic World Viral",
       "source_id": "republic-viral",
-      "region": "印度",
+      "region": "日本",
       "published_at": "2026-11-08T07:35:41+08:00",
       "fetched_at": "2026-11-08T23:16:18+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e3b84174f69f9218",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "82f204ff929db5ee",
@@ -4210,7 +5083,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "82f204ff929db5ee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9ea001c75d78c8aa",
@@ -4230,7 +5107,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9ea001c75d78c8aa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a11c3f72bc660960",
@@ -4250,7 +5131,14 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a11c3f72bc660960",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 64,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqjcbd"
     },
     {
       "id": "eab1da14a336107a",
@@ -4272,7 +5160,11 @@
         "科技发明",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "eab1da14a336107a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "783ebcf79dfb22ef",
@@ -4286,13 +5178,17 @@
       "image_checked": true,
       "source": "Republic World Viral",
       "source_id": "republic-viral",
-      "region": "印度",
+      "region": "美国",
       "published_at": "2026-11-08T06:10:13+08:00",
       "fetched_at": "2026-11-08T23:16:18+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "783ebcf79dfb22ef",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b659c26221d52c68",
@@ -4306,13 +5202,17 @@
       "image_checked": true,
       "source": "Times Now Viral",
       "source_id": "timesnow-viral",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-11-08T05:56:07+08:00",
       "fetched_at": "2026-11-08T23:16:15+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b659c26221d52c68",
+      "cluster_item_count": 3,
+      "cluster_source_count": 1
     },
     {
       "id": "a6b6e380d26c3b3b",
@@ -4333,7 +5233,14 @@
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "a6b6e380d26c3b3b",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 893,
+      "reddit_comments": 144,
+      "reddit_id": "t3_1xqhmzy"
     },
     {
       "id": "2688cf8e9b82ef0e",
@@ -4347,14 +5254,21 @@
       "image_checked": true,
       "source": "Reddit r/nottheonion",
       "source_id": "reddit-nottheonion",
-      "region": "全球",
+      "region": "澳大利亚",
       "published_at": "2026-11-08T05:02:30+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "影视神剧"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "2688cf8e9b82ef0e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 197,
+      "reddit_comments": 41,
+      "reddit_id": "t3_1xqgulo"
     },
     {
       "id": "a3e3a18a1a54c09f",
@@ -4374,7 +5288,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a3e3a18a1a54c09f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "57b8ae3dc577e722",
@@ -4395,7 +5313,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "57b8ae3dc577e722",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8ef4473d481aa1d9",
@@ -4416,7 +5338,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "8ef4473d481aa1d9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "58be9e2e48303bc9",
@@ -4436,7 +5362,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "58be9e2e48303bc9",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "fcd003a5b738809e",
@@ -4457,7 +5387,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "fcd003a5b738809e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c5dbb1ec8c035b56",
@@ -4477,7 +5411,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c5dbb1ec8c035b56",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "040e7372a92575c1",
@@ -4498,7 +5436,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "040e7372a92575c1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7dece834fae91673",
@@ -4518,7 +5460,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7dece834fae91673",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d54b91f7bf91a652",
@@ -4532,13 +5478,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-11-08T03:00:41+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "d54b91f7bf91a652",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "751583ab578911cd",
@@ -4558,7 +5508,14 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "5f868cd1d612e94c",
+      "cluster_item_count": 3,
+      "cluster_source_count": 1,
+      "reddit_score": 194,
+      "reddit_comments": 26,
+      "reddit_id": "t3_1xqdwlh"
     },
     {
       "id": "8a8f9eba0c7b81d7",
@@ -4579,7 +5536,14 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "8a8f9eba0c7b81d7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 870,
+      "reddit_comments": 66,
+      "reddit_id": "t3_1xo5zg2"
     },
     {
       "id": "fe5d2744aa33311e",
@@ -4599,7 +5563,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fe5d2744aa33311e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cff48df67f2cec48",
@@ -4620,7 +5588,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "cff48df67f2cec48",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a3212e3ca689146d",
@@ -4640,7 +5612,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a3212e3ca689146d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cac32f492bee32f6",
@@ -4660,7 +5636,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7f8aab862392bfdb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "3445c9d4b6b345c0",
@@ -4680,7 +5660,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3445c9d4b6b345c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3e16b9c5dc3c9270",
@@ -4700,7 +5684,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3e16b9c5dc3c9270",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bd1f98e3c8279a8b",
@@ -4720,7 +5708,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bd1f98e3c8279a8b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "544f0c9704532317",
@@ -4740,7 +5732,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "544f0c9704532317",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f6767ce73afe8ad4",
@@ -4760,7 +5756,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f6767ce73afe8ad4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e792930022a998fe",
@@ -4780,7 +5780,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "725ec362ac815301",
+      "cluster_item_count": 10,
+      "cluster_source_count": 3
     },
     {
       "id": "ac94e9bf4dbef8b5",
@@ -4800,7 +5804,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ac94e9bf4dbef8b5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ba8bd1c5fb0dd6ad",
@@ -4821,7 +5829,11 @@
         "街头食物",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ba8bd1c5fb0dd6ad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7934c65e1215ad04",
@@ -4841,7 +5853,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3b628bd90b3afdb8",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "5d493676013cb7e6",
@@ -4861,7 +5877,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5d493676013cb7e6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "229ad5d8c1b7546c",
@@ -4881,7 +5901,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "229ad5d8c1b7546c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3aaec68ba1a165ee",
@@ -4902,7 +5926,11 @@
         "犯罪法律",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3aaec68ba1a165ee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bbb6f89bf5a026e1",
@@ -4923,7 +5951,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "bbb6f89bf5a026e1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2b6fee74dfc24141",
@@ -4943,7 +5975,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2b6fee74dfc24141",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "00e4fd9a1752f0c6",
@@ -4964,7 +6000,11 @@
         "街头食物"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "00e4fd9a1752f0c6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "17cebfe9d5fdf2e2",
@@ -4985,7 +6025,11 @@
         "商业套路"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "印度",
+      "cluster_id": "17cebfe9d5fdf2e2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5deae01940efe4f5",
@@ -5005,7 +6049,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5deae01940efe4f5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f925d71d07461582",
@@ -5026,7 +6074,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "11c5af5bfb4c9a51",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "62c45c72013c66d9",
@@ -5046,7 +6098,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "62c45c72013c66d9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

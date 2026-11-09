@@ -15,14 +15,18 @@
       "image_checked": true,
       "source": "Oddity Central",
       "source_id": "oddity-central",
-      "region": "全球",
+      "region": "中国",
       "published_at": "2026-08-27T05:07:44+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "科技发明",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ffda680c63be111f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

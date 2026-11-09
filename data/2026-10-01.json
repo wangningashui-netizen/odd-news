@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6df53ae958d87003",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "291c079ba58356c9",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "291c079ba58356c9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4b988e7db7a7c690",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4b988e7db7a7c690",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5ade141db5f2e515",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5ade141db5f2e515",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5c6f638fe1a53b79",
@@ -101,7 +117,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5c6f638fe1a53b79",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a9a904b062826165",
@@ -115,13 +135,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "阿联酋",
       "published_at": "2026-10-01T12:26:27+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a9a904b062826165",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0689812404d67297",
@@ -141,7 +165,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0689812404d67297",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9bdf0fb108bed464",
@@ -155,14 +183,18 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "德国",
       "published_at": "2026-10-01T05:45:23+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "科学发现",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "9bdf0fb108bed464",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "56b7239356705fe4",
@@ -182,7 +214,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "56b7239356705fe4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

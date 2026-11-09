@@ -21,7 +21,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0ef84893d9ad637a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "49c95f731b5af7aa",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "49c95f731b5af7aa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "68fcc876a3c221b6",
@@ -61,7 +69,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "68fcc876a3c221b6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "429a893832224a33",
@@ -81,7 +93,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "429a893832224a33",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "c5baa8d8135bd0a5",
@@ -101,7 +117,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "c5baa8d8135bd0a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

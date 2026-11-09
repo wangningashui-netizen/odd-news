@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "65ee811e617b3dd2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e0e3a25ca2b89ba8",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e0e3a25ca2b89ba8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5a505c08c92958d1",
@@ -61,7 +69,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5a505c08c92958d1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7d7d3af8d8f19ef1",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7d7d3af8d8f19ef1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0b6e1455952825bc",
@@ -95,13 +111,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-09-29T11:55:00+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0b6e1455952825bc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5b8d03a5cd8f29af",
@@ -122,7 +142,11 @@
         "婚俗宗教",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "5b8d03a5cd8f29af",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ed2d44e344bc94af",
@@ -142,7 +166,11 @@
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ed2d44e344bc94af",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "813a981e3aff730f",
@@ -162,7 +190,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "813a981e3aff730f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }
