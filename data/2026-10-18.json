@@ -15,13 +15,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-18T23:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "d9dde07eee8193a6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "520e5ecc187e4244",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "520e5ecc187e4244",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "247e4444cb611d89",
@@ -62,7 +70,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "247e4444cb611d89",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "70300bbb3851071c",
@@ -82,7 +94,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "70300bbb3851071c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "718b02a581e7b300",
@@ -102,7 +118,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "718b02a581e7b300",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "75a4f87e50763dcb",
@@ -122,7 +142,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "75a4f87e50763dcb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "03425fdbbe293fcd",
@@ -142,7 +166,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "03425fdbbe293fcd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ad85ca730853f63f",
@@ -162,7 +190,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ad85ca730853f63f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "763a2cef29dbdd7b",
@@ -176,13 +208,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-18T04:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "763a2cef29dbdd7b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8d5247f7725ffae8",
@@ -202,7 +238,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "8d5247f7725ffae8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

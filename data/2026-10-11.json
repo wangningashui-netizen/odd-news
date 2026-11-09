@@ -21,7 +21,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "8bef591b53f488ec",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bf573cdc73d57e62",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bf573cdc73d57e62",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a0b18e4a0794d37a",
@@ -61,7 +69,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a0b18e4a0794d37a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "aec51402cc09e257",
@@ -75,13 +87,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "美国",
       "published_at": "2026-10-11T16:23:59+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "aec51402cc09e257",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0f170e9a8727e939",
@@ -95,14 +111,18 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "英国",
       "published_at": "2026-10-11T15:15:55+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "动物",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0f170e9a8727e939",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b6409a14121c093f",
@@ -122,7 +142,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b6409a14121c093f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a46247aabbc7d33b",
@@ -142,7 +166,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "a46247aabbc7d33b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "267012f67e570cb3",
@@ -162,7 +190,11 @@
       "tags": [
         "科技发明"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "267012f67e570cb3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

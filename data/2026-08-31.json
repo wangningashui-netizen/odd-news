@@ -15,14 +15,18 @@
       "image_checked": true,
       "source": "LADbible Weird",
       "source_id": "ladbible-weird",
-      "region": "英国",
+      "region": "美国",
       "published_at": "2026-08-31T17:53:01+08:00",
       "fetched_at": "2026-11-08T21:06:41+08:00",
       "tags": [
         "健康医疗",
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "964a77add3dcffe2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

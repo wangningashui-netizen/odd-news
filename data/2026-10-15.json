@@ -22,7 +22,11 @@
         "犯罪法律",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f303bcc0de2829fb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9d13b6e582662424",
@@ -42,7 +46,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9d13b6e582662424",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a555b4f851887804",
@@ -62,7 +70,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a555b4f851887804",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b4c04cdbd58f3aa4",
@@ -83,7 +95,11 @@
         "奇人奇事",
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b4c04cdbd58f3aa4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "76f3c7962829a8a5",
@@ -103,7 +119,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "76f3c7962829a8a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1cdb2ff3f2f4e288",
@@ -117,13 +137,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "英国",
       "published_at": "2026-10-15T12:35:36+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1cdb2ff3f2f4e288",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a92acabf5e38951c",
@@ -143,7 +167,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a92acabf5e38951c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a30caeb586e82f6b",
@@ -163,7 +191,11 @@
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "a30caeb586e82f6b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "97a21c4af80e4a1a",
@@ -177,13 +209,17 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-15T03:57:22+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "97a21c4af80e4a1a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8096493ff1cfc456",
@@ -204,7 +240,11 @@
         "动物"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "8096493ff1cfc456",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "55c3bb509163b7a5",
@@ -224,7 +264,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "55c3bb509163b7a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

@@ -21,7 +21,11 @@
       "tags": [
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "63ecd3f77cd3a987",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

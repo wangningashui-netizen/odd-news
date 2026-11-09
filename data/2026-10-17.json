@@ -21,7 +21,11 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "3b61acd5a473fa9d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "704de62e308c09a3",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "704de62e308c09a3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "30d0d906cb4d6c3a",
@@ -55,14 +63,18 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "德国",
       "published_at": "2026-10-17T17:19:07+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "奇人奇事",
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "30d0d906cb4d6c3a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1667e73dd37b680d",
@@ -82,7 +94,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1667e73dd37b680d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0e0b2f7743e2ae51",
@@ -102,7 +118,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0e0b2f7743e2ae51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0e5e1045b6676f1f",
@@ -122,7 +142,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0e5e1045b6676f1f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d971fa3084581872",
@@ -143,7 +167,11 @@
         "科学发现",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "d971fa3084581872",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

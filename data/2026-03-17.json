@@ -22,7 +22,11 @@
         "婚俗宗教"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "b472abd6b1b45d51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

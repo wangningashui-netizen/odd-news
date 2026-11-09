@@ -21,7 +21,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "3f694b59e91aadfe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

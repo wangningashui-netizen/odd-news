@@ -15,7 +15,7 @@
       "image_checked": true,
       "source": "UNILAD Weird",
       "source_id": "unilad-weird",
-      "region": "英国",
+      "region": "日本",
       "published_at": "2026-08-25T08:57:41+08:00",
       "fetched_at": "2026-11-08T21:06:41+08:00",
       "tags": [
@@ -23,7 +23,11 @@
         "军事政治",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "7d4a33a2525da80d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

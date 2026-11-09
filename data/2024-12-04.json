@@ -15,13 +15,17 @@
       "image_checked": true,
       "source": "Atlas Obscura",
       "source_id": "atlas-obscura",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2024-12-04T00:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "5e2faceb3fe5519f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

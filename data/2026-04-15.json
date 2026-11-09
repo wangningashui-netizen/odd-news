@@ -21,7 +21,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "d9e4e89a7b7fcbe4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

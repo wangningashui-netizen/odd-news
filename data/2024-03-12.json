@@ -22,7 +22,11 @@
         "军事政治",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "997cf096dc9f8854",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

@@ -21,7 +21,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ba88cd54615a82cb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1a69ff381c862019",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1a69ff381c862019",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0731a0f2b7095f33",
@@ -55,13 +63,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-09-22T17:56:21+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0731a0f2b7095f33",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d43d53f79d142092",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "d43d53f79d142092",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

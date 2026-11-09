@@ -32,6 +32,8 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
+from cluster_items import cluster_items
+from content_region import classify_region
 from topics import TAG_ORDER, classify_item
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -773,6 +775,10 @@ def parse_feed(source: dict, xml_text: str) -> list[dict]:
                 "fetched_at": now,
             }
         )
+        if source["kind"] == "reddit":
+            entry_id = element_text(grouped.get("id"))
+            if entry_id.startswith("t3_"):
+                items[-1]["reddit_id"] = entry_id
     return items
 
 
@@ -1378,6 +1384,155 @@ def write_outputs(days: dict[str, list[dict]], dirty: set[str]) -> None:
     write_search(days)
 
 
+REDDIT_STAT_SUBS = ("india", "IndiaSpeaks", "indiasocial", "nottheonion", "Offbeat")
+
+
+def _arctic_listing(sub: str) -> dict | None:
+    """Used only when Reddit's own JSON listing returns 403 or 429."""
+    url = (
+        "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit="
+        + urllib.parse.quote(sub)
+        + "&limit=100&sort=desc"
+    )
+    request = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+    try:
+        with urllib.request.urlopen(request, timeout=25, context=SSL_CTX) as response:
+            payload = json.loads(response.read().decode("utf-8", "replace"))
+    except Exception as exc:  # noqa: BLE001
+        log(f"reddit mirror skipped r/{sub}: {exc}")
+        return None
+    rows = payload.get("data") if isinstance(payload, dict) else None
+    if not isinstance(rows, list):
+        return None
+    log(f"reddit stats for r/{sub} from public mirror ({len(rows)} posts)")
+    return {"data": rows}
+
+
+def _reddit_json(url: str) -> dict | None:
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": REDDIT_UA, "Accept": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=20, context=SSL_CTX) as response:
+            return json.loads(response.read().decode("utf-8", "replace"))
+    except Exception as exc:  # noqa: BLE001
+        log(f"reddit stats skipped {url.split('?')[0]}: {exc}")
+        return None
+
+
+def refresh_reddit_stats(items: list[dict]) -> int:
+    """Best-effort upvote and comment counts. A 403 or 429 leaves items unchanged."""
+    by_url: dict[str, tuple[int, int, str]] = {}
+    for sub in REDDIT_STAT_SUBS:
+        payload = _reddit_json(f"https://www.reddit.com/r/{sub}/new.json?limit=100&raw_json=1")
+        time.sleep(1.1)
+        if not payload:
+            payload = _arctic_listing(sub)
+        if not payload:
+            continue
+        raw = payload.get("data")
+        if isinstance(raw, list):
+            posts = raw
+        elif isinstance(raw, dict):
+            posts = [child.get("data") or {} for child in raw.get("children") or []]
+        else:
+            posts = []
+        for post in posts:
+            stats = (post.get("score"), post.get("num_comments"), post.get("name") or "")
+            if stats[0] is None and stats[1] is None:
+                continue
+            for raw in (post.get("url"), post.get("permalink")):
+                if not raw:
+                    continue
+                if raw.startswith("/"):
+                    raw = "https://www.reddit.com" + raw
+                by_url[dedupe_key(raw)] = stats
+    known_ids = [item["reddit_id"] for item in items if item.get("reddit_id")]
+    for start in range(0, len(known_ids), 80):
+        chunk = known_ids[start : start + 80]
+        payload = _reddit_json("https://www.reddit.com/by_id/" + ",".join(chunk) + ".json?raw_json=1")
+        time.sleep(1.1)
+        if not payload:
+            continue
+        for child in (payload.get("data") or {}).get("children") or []:
+            post = child.get("data") or {}
+            stats = (post.get("score"), post.get("num_comments"), post.get("name") or "")
+            for raw in (post.get("url"), post.get("permalink")):
+                if not raw:
+                    continue
+                if raw.startswith("/"):
+                    raw = "https://www.reddit.com" + raw
+                by_url[dedupe_key(raw)] = stats
+    changed = 0
+    for item in items:
+        if not str(item.get("source") or "").startswith("Reddit"):
+            continue
+        hit = by_url.get(dedupe_key(item.get("url") or ""))
+        if not hit:
+            continue
+        score, comments, name = hit
+        if item.get("reddit_score") != score or item.get("reddit_comments") != comments or (
+            name and item.get("reddit_id") != name
+        ):
+            item["reddit_score"] = score
+            item["reddit_comments"] = comments
+            if name:
+                item["reddit_id"] = name
+            changed += 1
+    log(f"reddit stats updated {changed}")
+    return changed
+
+
+def apply_derived(days: dict[str, list[dict]]) -> set[str]:
+    """Recompute content regions and story clusters. Reddit stats are best-effort."""
+    dirty: set[str] = set()
+    flat: list[tuple[str, dict]] = []
+    for date, items in days.items():
+        for item in items:
+            if not item.get("source_region"):
+                item["source_region"] = item.get("region") or "全球"
+                dirty.add(date)
+            new_region = classify_region(
+                item.get("title_en") or "",
+                item.get("summary_en") or "",
+                item.get("source_region") or "全球",
+            )
+            if item.get("region") != new_region:
+                item["region"] = new_region
+                dirty.add(date)
+            flat.append((date, item))
+    before = {
+        item.get("id"): (
+            item.get("cluster_id"),
+            item.get("cluster_item_count"),
+            item.get("cluster_source_count"),
+            item.get("reddit_score"),
+            item.get("reddit_comments"),
+        )
+        for _date, item in flat
+    }
+    cluster_items([item for _date, item in flat])
+    refresh_reddit_stats([item for _date, item in flat])
+    for date, item in flat:
+        now = (
+            item.get("cluster_id"),
+            item.get("cluster_item_count"),
+            item.get("cluster_source_count"),
+            item.get("reddit_score"),
+            item.get("reddit_comments"),
+        )
+        if before.get(item.get("id")) != now:
+            dirty.add(date)
+    changed_region = sum(1 for _date, item in flat if item.get("region") != item.get("source_region"))
+    clusters = [item for _date, item in flat if item.get("cluster_item_count", 1) > 1]
+    log(
+        f"derived regions/clusters dirty_days={len(dirty)} "
+        f"multi_items={len(clusters)} region_diff={changed_region}"
+    )
+    return dirty
+
+
 def write_search(days: dict[str, list[dict]]) -> None:
     by_month: dict[str, list[dict]] = {}
     for date, items in days.items():
@@ -1401,6 +1556,11 @@ def write_search(days: dict[str, list[dict]]) -> None:
                     "tags": item.get("tags") or ["其他"],
                     "url": item.get("url"),
                     "translation_status": item.get("translation_status"),
+                    "cluster_id": item.get("cluster_id"),
+                    "cluster_item_count": item.get("cluster_item_count") or 1,
+                    "cluster_source_count": item.get("cluster_source_count") or 1,
+                    "reddit_score": item.get("reddit_score"),
+                    "reddit_comments": item.get("reddit_comments"),
                 }
             )
     search_dir = DATA / "search"
@@ -1439,7 +1599,18 @@ def main() -> int:
     parser.add_argument("--no-models", action="store_true")
     parser.add_argument("--no-fallback", action="store_true")
     parser.add_argument("--no-enrich", action="store_true")
+    parser.add_argument("--rebuild-only", action="store_true")
     args = parser.parse_args()
+    if args.rebuild_only:
+        days = load_days()
+        dirty = apply_derived(days)
+        if dirty or not (DATA / "search-index.json").exists():
+            write_outputs(days, dirty)
+            log(f"rebuilt {len(dirty)} day file(s)")
+        import retranslate
+
+        retranslate.run()
+        return 0
 
     log(f"odd-news fetch for Shanghai date {TODAY.isoformat()}")
     days = load_days()
@@ -1534,6 +1705,7 @@ def main() -> int:
                 dirty.add(day_of(item))
 
     dirty |= apply_tags(days)
+    dirty |= apply_derived(days)
     search_missing = not (DATA / "search-index.json").exists()
     if not dirty and not search_missing and (DATA / "index.json").exists():
         log("no data changes")

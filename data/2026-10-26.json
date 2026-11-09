@@ -21,7 +21,14 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "be3a49e583dee207",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 130,
+      "reddit_comments": 8,
+      "reddit_id": "t3_1xfzejl"
     },
     {
       "id": "6bde30b80b87b8a8",
@@ -42,7 +49,14 @@
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "6bde30b80b87b8a8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 143,
+      "reddit_comments": 409,
+      "reddit_id": "t3_1xfza1k"
     },
     {
       "id": "995ecc670b9aaaf3",
@@ -62,7 +76,14 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "995ecc670b9aaaf3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xfvc59"
     },
     {
       "id": "8d40cda04fa409a9",
@@ -82,7 +103,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8d40cda04fa409a9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a81b456759c33bb9",
@@ -96,14 +121,21 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "澳大利亚",
       "published_at": "2026-10-26T12:29:35+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "犯罪法律"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "a81b456759c33bb9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 186,
+      "reddit_comments": 34,
+      "reddit_id": "t3_1xfn9vw"
     },
     {
       "id": "c338f84c7b904ab1",
@@ -117,13 +149,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-10-26T11:45:13+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c338f84c7b904ab1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "136bd974cbe17066",
@@ -144,7 +180,11 @@
         "军事政治",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "136bd974cbe17066",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6b56ec7fdfe581ff",
@@ -164,7 +204,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "6b56ec7fdfe581ff",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

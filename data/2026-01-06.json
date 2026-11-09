@@ -22,7 +22,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "513d5761cb581bde",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

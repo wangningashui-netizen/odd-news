@@ -21,7 +21,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "f3a427fefd1ebf78",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

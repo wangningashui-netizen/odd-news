@@ -21,7 +21,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "9760b7e3efe5bc4e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6b110d6a6018ad03",
@@ -41,7 +45,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "6b110d6a6018ad03",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

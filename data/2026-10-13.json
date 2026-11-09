@@ -22,7 +22,11 @@
         "航空出行",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "8fcbc890fb652528",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8f9b07a3a1159211",
@@ -42,7 +46,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8f9b07a3a1159211",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "627a8a4f0acc1f89",
@@ -62,7 +70,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "627a8a4f0acc1f89",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9dae86cfd26be38b",
@@ -82,7 +94,11 @@
       "tags": [
         "科技发明"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9dae86cfd26be38b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0362a9e01eb88b9a",
@@ -102,7 +118,11 @@
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0362a9e01eb88b9a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7c5f00d71a1708e3",
@@ -122,7 +142,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "7c5f00d71a1708e3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1aac2e5620280e22",
@@ -142,7 +166,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1aac2e5620280e22",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8d2af0c4d32d7cf3",
@@ -162,7 +190,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8d2af0c4d32d7cf3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0d8aa5ace48b9903",
@@ -176,14 +208,18 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "德国",
       "published_at": "2026-10-13T13:37:46+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "科技发明",
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0d8aa5ace48b9903",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2135423f5e6daed1",
@@ -203,7 +239,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2135423f5e6daed1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "371d28039e7b6dde",
@@ -217,13 +257,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-10-13T11:36:40+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "371d28039e7b6dde",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

@@ -9,6 +9,7 @@
   var olderBtn = document.getElementById("older-day");
   var newerBtn = document.getElementById("newer-day");
   var regionsEl = document.getElementById("regions");
+  var sortEl = document.getElementById("sort");
   var sourceEl = document.getElementById("source");
   var topicsEl = document.getElementById("topics");
   var searchEl = document.getElementById("search");
@@ -31,6 +32,7 @@
   var shown = 0;
   var activeRegion = "";
   var activeTags = [];
+  var sortMode = "time";
 
   function el(tag, className, text) {
     var node = document.createElement(tag);
@@ -90,13 +92,52 @@
     });
   }
 
+  function clusterGroups(matched) {
+    var matchedIds = Object.create(null);
+    matched.forEach(function (item) { matchedIds[item.id] = true; });
+    var byId = Object.create(null);
+    allItems.forEach(function (item) {
+      var key = item.cluster_id || item.id;
+      if (!byId[key]) byId[key] = [];
+      byId[key].push(item);
+    });
+    var seen = Object.create(null);
+    var groups = [];
+    matched.forEach(function (item) {
+      var key = item.cluster_id || item.id;
+      if (seen[key]) return;
+      seen[key] = true;
+      var members = (byId[key] || [item]).slice().sort(function (a, b) {
+        return String(b.published_at || "").localeCompare(String(a.published_at || ""));
+      });
+      var rep = null;
+      members.forEach(function (member) {
+        if (!matchedIds[member.id]) return;
+        if (!rep) rep = member;
+        else if (member.image && !rep.image) rep = member;
+      });
+      groups.push({ key: key, rep: rep || members[0], members: members });
+    });
+    groups.sort(function (a, b) {
+      if (sortMode === "heat") {
+        var size = (b.rep.cluster_item_count || b.members.length || 1) - (a.rep.cluster_item_count || a.members.length || 1);
+        if (size) return size;
+        var score = (b.rep.reddit_score || 0) - (a.rep.reddit_score || 0);
+        if (score) return score;
+      }
+      return String(b.rep.published_at || "").localeCompare(String(a.rep.published_at || ""));
+    });
+    return groups;
+  }
+
   function applyFilters() {
     var base = baseFiltered();
-    filtered = base.filter(function (item) {
+    var matched = base.filter(function (item) {
       if (!activeTags.length) return true;
       var tags = item.tags || [];
       return activeTags.some(function (tag) { return tags.indexOf(tag) !== -1; });
     });
+    filtered = clusterGroups(matched);
     shown = 0;
     gridEl.replaceChildren();
     renderTags(base);
@@ -112,7 +153,7 @@
       statusEl.textContent = "还没有可读的条目。";
       return;
     }
-    statusEl.textContent = where + "，当前显示 " + visible + " / " + matched + " 条。";
+    statusEl.textContent = where + "，当前显示 " + visible + " / " + matched + " 组。";
   }
 
   function toggleTag(tag) {
@@ -141,7 +182,9 @@
     document.body.style.overflow = "";
   }
 
-  function makeCard(item, hero) {
+  function makeCard(group, hero) {
+    var item = group.rep || group;
+    var members = group.members || [item];
     var card = el("article", hero ? "card hero" : "card");
     var imageUrl = safeHttp(item.image);
     var title = item.title_zh || item.title_en || "无标题";
@@ -190,6 +233,9 @@
     time.dateTime = item.published_at || "";
     time.textContent = formatTime(item.published_at);
     meta.appendChild(time);
+    if (item.reddit_score != null || item.reddit_comments != null) {
+      meta.appendChild(el("span", "heat-line", "▲ " + (item.reddit_score || 0) + " · 💬 " + (item.reddit_comments || 0)));
+    }
 
     var tagRow = el("div", "topic-tags");
     (item.tags || []).forEach(function (tag) {
@@ -225,6 +271,37 @@
       anchor.rel = "noopener noreferrer";
       body.appendChild(anchor);
     }
+    var clusterCount = item.cluster_item_count || members.length;
+    var clusterSources = item.cluster_source_count || 1;
+    if (clusterCount > 1) {
+      var toggle = el("button", "cluster-toggle", clusterSources + "家来源 · " + clusterCount + "条");
+      toggle.type = "button";
+      toggle.setAttribute("aria-expanded", "false");
+      var list = el("ul", "cluster-list");
+      list.hidden = true;
+      members.forEach(function (member) {
+        var li = document.createElement("li");
+        var memberLink = safeHttp(member.url);
+        var label = member.title_zh || member.title_en || "无标题";
+        if (memberLink) {
+          var memberAnchor = el("a", null, label);
+          memberAnchor.href = memberLink;
+          memberAnchor.target = "_blank";
+          memberAnchor.rel = "noopener noreferrer";
+          li.appendChild(memberAnchor);
+        } else {
+          li.appendChild(document.createTextNode(label));
+        }
+        li.appendChild(document.createTextNode(" · " + (member.source || "")));
+        list.appendChild(li);
+      });
+      toggle.addEventListener("click", function () {
+        list.hidden = !list.hidden;
+        toggle.setAttribute("aria-expanded", String(!list.hidden));
+      });
+      body.appendChild(toggle);
+      body.appendChild(list);
+    }
     card.appendChild(thumb);
     card.appendChild(body);
     return card;
@@ -233,9 +310,9 @@
   function appendMore() {
     var unfiltered = !searchEl.value.trim() && !sourceEl.value && !activeRegion && !activeTags.length;
     var next = filtered.slice(shown, shown + PAGE);
-    next.forEach(function (item, index) {
+    next.forEach(function (group, index) {
       var hero = unfiltered && shown === 0 && index === 0;
-      gridEl.appendChild(makeCard(item, hero));
+      gridEl.appendChild(makeCard(group, hero));
     });
     shown += next.length;
     var done = shown >= filtered.length;
@@ -381,6 +458,10 @@
     searchEl._timer = window.setTimeout(applyFilters, 160);
   });
   sourceEl.addEventListener("change", applyFilters);
+  sortEl.addEventListener("change", function () {
+    sortMode = sortEl.value || "time";
+    applyFilters();
+  });
   moreEl.addEventListener("click", appendMore);
   document.getElementById("lightbox-close").addEventListener("click", closeLightbox);
   document.getElementById("lightbox-backdrop").addEventListener("click", closeLightbox);

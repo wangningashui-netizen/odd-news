@@ -22,7 +22,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "69c297c2517d5a51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

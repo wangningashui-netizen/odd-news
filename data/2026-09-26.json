@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "2d03373f8b4b0087",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ab83810580337a3c",
@@ -41,7 +45,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ab83810580337a3c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e4f4854dc3d86999",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e4f4854dc3d86999",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "70a5ff8d61618a7d",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "70a5ff8d61618a7d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a2d0d4007db7e4e3",
@@ -101,7 +117,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a2d0d4007db7e4e3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1fd99205e80485aa",
@@ -115,13 +135,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "英国",
       "published_at": "2026-09-26T18:52:27+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1fd99205e80485aa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "257ebf43eb407603",
@@ -141,7 +165,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "257ebf43eb407603",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4702b05ab7dad019",
@@ -161,7 +189,11 @@
       "tags": [
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4702b05ab7dad019",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d31c3904b480efae",
@@ -175,13 +207,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-09-26T05:45:13+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "d31c3904b480efae",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ce84a55e07a79c29",
@@ -201,7 +237,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ce84a55e07a79c29",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

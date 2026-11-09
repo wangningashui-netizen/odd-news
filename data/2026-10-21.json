@@ -22,7 +22,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1cdaa333677e2e45",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "3cf0a4fafd771e34",
@@ -43,7 +47,11 @@
         "动物",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "3cf0a4fafd771e34",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "51ffdfd61760eb64",
@@ -63,7 +71,11 @@
       "tags": [
         "航空出行"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "51ffdfd61760eb64",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1846dad443114911",
@@ -83,7 +95,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1846dad443114911",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "86decb4cff9eb5e7",
@@ -97,13 +113,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-10-21T15:44:56+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "86decb4cff9eb5e7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "80cb707015374725",
@@ -124,7 +144,11 @@
         "影视神剧"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "80cb707015374725",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ea6312c935145301",
@@ -145,7 +169,11 @@
         "动物"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "ea6312c935145301",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1859afb8afdc1249",
@@ -165,7 +193,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "1859afb8afdc1249",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "70a43f512488f9a5",
@@ -185,7 +217,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "70a43f512488f9a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "aa4b7fb737cb2939",
@@ -199,13 +235,17 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "英国",
       "published_at": "2026-10-21T00:27:30+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "aa4b7fb737cb2939",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0a152714fb137312",
@@ -219,13 +259,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-21T00:00:27+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "0a152714fb137312",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

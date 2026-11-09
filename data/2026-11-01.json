@@ -22,7 +22,14 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "8456c9a490704f93",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 160,
+      "reddit_comments": 23,
+      "reddit_id": "t3_1xl40lw"
     },
     {
       "id": "cd3b0549bba89d4a",
@@ -42,7 +49,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cd3b0549bba89d4a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9deea9c828aa7c76",
@@ -62,7 +73,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9deea9c828aa7c76",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0328d5288129b86a",
@@ -82,7 +97,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "0328d5288129b86a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "057003005edc56d9",
@@ -103,7 +122,11 @@
         "交通火车",
         "军事政治"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "057003005edc56d9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "125a224ca8d1e7e5",
@@ -123,7 +146,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "125a224ca8d1e7e5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7ff8f74c5655b6ff",
@@ -137,13 +164,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "法国",
       "published_at": "2026-11-01T19:55:17+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7ff8f74c5655b6ff",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e3c82e182d85db58",
@@ -163,7 +194,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e3c82e182d85db58",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2bc5b3868804d5d4",
@@ -183,7 +218,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2bc5b3868804d5d4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "5bfe56ec37031091",
@@ -203,7 +242,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5bfe56ec37031091",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "32d66d3431c2cb1d",
@@ -223,7 +266,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "32d66d3431c2cb1d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a185123373538807",
@@ -243,7 +290,11 @@
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a185123373538807",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "398c980124e012cd",
@@ -263,7 +314,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "398c980124e012cd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4dd74067cc6ae12f",
@@ -283,7 +338,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4dd74067cc6ae12f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8766ceb73fbeb905",
@@ -303,7 +362,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8766ceb73fbeb905",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ee8a6a5dc3f24340",
@@ -317,14 +380,18 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "中国",
       "published_at": "2026-11-01T14:43:12+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "奇人奇事",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ee8a6a5dc3f24340",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a071fb16e118677f",
@@ -345,7 +412,14 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "a071fb16e118677f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 58,
+      "reddit_comments": 25,
+      "reddit_id": "t3_1xke9p4"
     }
   ]
 }

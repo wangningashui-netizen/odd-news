@@ -22,7 +22,11 @@
         "婚俗宗教",
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "dec34852610d2f6e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

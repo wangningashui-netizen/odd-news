@@ -22,7 +22,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "fb7150e412b08891",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

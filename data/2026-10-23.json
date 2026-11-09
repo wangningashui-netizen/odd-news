@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "c2527a59ed9101c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "325cb7a6848a4d48",
@@ -41,7 +45,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "325cb7a6848a4d48",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "143f1175cfad40ea",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "143f1175cfad40ea",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "736dbe17c3170199",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "736dbe17c3170199",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "66221d53b7726145",
@@ -95,13 +111,17 @@
       "image_checked": true,
       "source": "Indian Express Trending",
       "source_id": "indian-express-trending",
-      "region": "印度",
+      "region": "加拿大",
       "published_at": "2026-10-23T17:30:44+08:00",
       "fetched_at": "2026-11-08T23:16:13+08:00",
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "66221d53b7726145",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "26b899ac59977270",
@@ -121,7 +141,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "26b899ac59977270",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b1931a3ba4617db6",
@@ -141,7 +165,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "b1931a3ba4617db6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e5923a551ec9cbc1",
@@ -161,7 +189,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "e5923a551ec9cbc1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f49a70105db0c4b0",
@@ -182,7 +214,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_attempts": 2
+      "page_attempts": 2,
+      "source_region": "全球",
+      "cluster_id": "f49a70105db0c4b0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1433261863853094",
@@ -204,7 +240,11 @@
         "奇人奇事",
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "1433261863853094",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "deb175912b9c9ed7",
@@ -224,7 +264,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "deb175912b9c9ed7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "6990088530d110e4",
@@ -244,7 +288,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "6990088530d110e4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

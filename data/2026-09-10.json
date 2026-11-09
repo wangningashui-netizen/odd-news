@@ -21,7 +21,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "2f993a855f04d037",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ccea605c3e742d01",
@@ -42,7 +46,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "印度",
+      "cluster_id": "ccea605c3e742d01",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1f4fa07a070d2cbb",
@@ -62,7 +70,11 @@
       "tags": [
         "商业套路"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "1f4fa07a070d2cbb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

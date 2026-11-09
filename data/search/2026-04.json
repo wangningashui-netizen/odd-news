@@ -18,7 +18,12 @@
         "影视神剧"
       ],
       "url": "https://www.unilad.com/news/world-news/golden-orb-deep-sea-discovery-science-156204-20260424",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "edb382348071a88c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "d9e4e89a7b7fcbe4",
@@ -35,7 +40,12 @@
         "婚俗宗教"
       ],
       "url": "https://www.unilad.com/news/mortician-interview-fear-of-death-573323-20260414",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "d9e4e89a7b7fcbe4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "1689903f698638d4",
@@ -52,7 +62,12 @@
         "其他"
       ],
       "url": "https://www.atlasobscura.com/foods/leighs-favorite-oatmeal-chocolate-chip-cookies",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "1689903f698638d4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

@@ -21,7 +21,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "6769744e87852af3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "0db46d2a14c30526",
@@ -35,13 +39,17 @@
       "image_checked": true,
       "source": "New York Post Weird But True",
       "source_id": "nypost-weird",
-      "region": "美国",
+      "region": "中国",
       "published_at": "2026-09-14T21:03:00+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "0db46d2a14c30526",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a6f76296b65a4fdf",
@@ -55,13 +63,17 @@
       "image_checked": true,
       "source": "LADbible Weird",
       "source_id": "ladbible-weird",
-      "region": "英国",
+      "region": "中国",
       "published_at": "2026-09-14T19:50:32+08:00",
       "fetched_at": "2026-11-08T21:06:41+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "41e3bddc6eb1dca4",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "aaf7e092392bd591",
@@ -75,13 +87,17 @@
       "image_checked": true,
       "source": "Oddity Central",
       "source_id": "oddity-central",
-      "region": "全球",
+      "region": "英国",
       "published_at": "2026-09-14T19:38:34+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "aaf7e092392bd591",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "41e3bddc6eb1dca4",
@@ -95,13 +111,17 @@
       "image_checked": true,
       "source": "LADbible Weird",
       "source_id": "ladbible-weird",
-      "region": "英国",
+      "region": "全球",
       "published_at": "2026-09-14T17:11:36+08:00",
       "fetched_at": "2026-11-08T21:06:41+08:00",
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "41e3bddc6eb1dca4",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     }
   ]
 }

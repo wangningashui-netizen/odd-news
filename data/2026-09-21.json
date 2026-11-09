@@ -21,7 +21,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "美国",
+      "cluster_id": "66cd28ac9c581efd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8f8f8dc4a21c9335",
@@ -41,7 +45,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "8f8f8dc4a21c9335",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "d7ebdfd9cfcb55c2",
@@ -61,7 +69,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "d7ebdfd9cfcb55c2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

@@ -17,7 +17,12 @@
         "影视神剧"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/he-nitished-me-to-paltu-chacha-nitish-kumars-swing-politics-sparks-humour-fest/articleshow/107236114.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "63ecd3f77cd3a987",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "d5cf862a07ced80e",
@@ -35,7 +40,12 @@
         "奇人奇事"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/flyer-hits-indigo-pilot-announcing-flight-delay-due-to-dense-fog-conditions-video-goes-viral/articleshow/106851189.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "d5cf862a07ced80e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "ddc1bfc9c65921e0",
@@ -53,7 +63,12 @@
         "军事政治"
       ],
       "url": "https://timesofindia.indiatimes.com/viral-news/new-zealands-youngest-mp-performs-native-war-cry-in-parliament-video-goes-viral/articleshow/106572179.cms",
-      "translation_status": "fallback"
+      "translation_status": "fallback",
+      "cluster_id": "ddc1bfc9c65921e0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     }
   ]
 }

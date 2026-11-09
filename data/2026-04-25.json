@@ -22,7 +22,11 @@
         "科学发现",
         "影视神剧"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "edb382348071a88c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

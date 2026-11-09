@@ -21,7 +21,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e71b1067bc9f99ae",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

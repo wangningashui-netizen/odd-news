@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "583817e1cce60f55",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "abc3b44f1889881c",
@@ -41,7 +45,11 @@
       "tags": [
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "abc3b44f1889881c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "db33fce36c5a19dc",
@@ -61,7 +69,11 @@
       "tags": [
         "卫生环境"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "db33fce36c5a19dc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "db99e78ed5ffde1b",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "db99e78ed5ffde1b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "df15f9a89b053312",
@@ -101,7 +117,11 @@
       "tags": [
         "健康医疗"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "df15f9a89b053312",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "4e831fbbcc6ed01a",
@@ -121,7 +141,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4e831fbbcc6ed01a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2846fd0373072c3e",
@@ -135,13 +159,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-09-24T09:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "2846fd0373072c3e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7743087f2e5a5970",
@@ -155,13 +183,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "中国",
       "published_at": "2026-09-24T05:45:19+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "7743087f2e5a5970",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

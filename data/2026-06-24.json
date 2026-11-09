@@ -21,7 +21,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "英国",
+      "cluster_id": "32d91edf162cc9c4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

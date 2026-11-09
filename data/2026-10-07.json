@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "661fa7c4e2eefd82",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "40b08e8d609c5d44",
@@ -41,7 +45,11 @@
       "tags": [
         "犯罪法律"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "40b08e8d609c5d44",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8c1a9c231f2d6b0c",
@@ -61,7 +69,11 @@
       "tags": [
         "科技发明"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8c1a9c231f2d6b0c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "11de28b8c5a06be1",
@@ -81,7 +93,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "11de28b8c5a06be1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "92a212b9ab32d687",
@@ -101,7 +117,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "92a212b9ab32d687",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9b789b73722c2938",
@@ -121,7 +141,11 @@
       "tags": [
         "交通火车"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9b789b73722c2938",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8aed37917e8c9983",
@@ -141,7 +165,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "8aed37917e8c9983",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8cb27f7bbd5831bd",
@@ -155,13 +183,17 @@
       "image_checked": true,
       "source": "All That's Interesting",
       "source_id": "all-thats-interesting",
-      "region": "全球",
+      "region": "美国",
       "published_at": "2026-10-07T07:00:00+08:00",
       "fetched_at": "2026-11-08T20:59:13+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "8cb27f7bbd5831bd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ca704306db864c1a",
@@ -183,7 +215,11 @@
         "科学发现",
         "历史考古"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "ca704306db864c1a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "fd172088f08e8321",
@@ -203,7 +239,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "fd172088f08e8321",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }

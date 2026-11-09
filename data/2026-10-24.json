@@ -21,7 +21,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "a918ea51614fc6ef",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2d1be3764380030c",
@@ -35,13 +39,17 @@
       "image_checked": true,
       "source": "Reddit r/Offbeat",
       "source_id": "reddit-offbeat",
-      "region": "全球",
+      "region": "英国",
       "published_at": "2026-10-24T22:47:23+08:00",
       "fetched_at": "2026-11-08T20:59:14+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "2d1be3764380030c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8bb10589ea80b4a6",
@@ -61,7 +69,11 @@
       "tags": [
         "奇人奇事"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8bb10589ea80b4a6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "e908ff4f21090ee0",
@@ -81,7 +93,11 @@
       "tags": [
         "婚俗宗教"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e908ff4f21090ee0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f45077358b669bbe",
@@ -101,7 +117,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f45077358b669bbe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cdd7a69a8e1041e8",
@@ -122,7 +142,11 @@
         "历史考古",
         "科学发现"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "cdd7a69a8e1041e8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f3e2a3d514456a8c",
@@ -143,7 +167,11 @@
         "其他"
       ],
       "tag_source": "rules",
-      "page_fetched": true
+      "page_fetched": true,
+      "source_region": "全球",
+      "cluster_id": "f3e2a3d514456a8c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "266804126ce66f70",
@@ -163,7 +191,11 @@
       "tags": [
         "动物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "266804126ce66f70",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "acbc56d4de1b9894",
@@ -183,7 +215,11 @@
       "tags": [
         "街头食物"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "acbc56d4de1b9894",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "583a0bae153013eb",
@@ -203,7 +239,11 @@
       "tags": [
         "其他"
       ],
-      "tag_source": "rules"
+      "tag_source": "rules",
+      "source_region": "全球",
+      "cluster_id": "583a0bae153013eb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     }
   ]
 }
