@@ -1031,7 +1031,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-07T20:18:18+08:00",
-      "fetched_at": "2026-11-10T10:09:11+08:00",
+      "fetched_at": "2026-11-10T10:12:19+08:00",
       "tags": [
         "其他"
       ],
@@ -1061,7 +1061,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119041672692871168/vid/avc1/720x900/6jTcZwA1U32NFd6m.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-10T10:09:11+08:00",
+        "video_url_resolved_at": "2026-11-10T10:12:19+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/DeepaSharma132/status/2119041751449248172",
@@ -2435,7 +2435,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-07T16:32:00+08:00",
-      "fetched_at": "2026-11-10T10:09:15+08:00",
+      "fetched_at": "2026-11-10T10:12:20+08:00",
       "tags": [
         "犯罪法律",
         "奇人奇事"
@@ -2466,7 +2466,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118981339341094912/vid/avc1/864x1536/amqXW3pWJvaEVv4H.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-10T10:09:15+08:00",
+        "video_url_resolved_at": "2026-11-10T10:12:20+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ShoneeKapoor/status/2118984802179092499",
