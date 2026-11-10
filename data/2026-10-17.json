@@ -1,32 +1,8 @@
 {
   "date": "2026-10-17",
   "timezone": "Asia/Shanghai",
-  "count": 7,
+  "count": 2,
   "items": [
-    {
-      "id": "3b61acd5a473fa9d",
-      "url": "https://www.dexerto.com/entertainment/new-york-brewery-owner-claims-security-camera-captured-ghost-in-kitchen-3419608/",
-      "title_en": "New York brewery owner claims security camera captured ghost in kitchen",
-      "title_zh": "纽约啤酒厂老板声称安全摄像头在厨房拍到了鬼魂",
-      "summary_en": "The owner of a New York brewery has shared security footage he believes could show something paranormal in his kitchen.",
-      "summary_zh": "纽约一家啤酒厂的老板分享了他认为厨房里可能出现超自然现象的监控录像。",
-      "translation_status": "fallback",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/17/Beer-Barrels.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-10-17T23:28:48+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "街头食物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "3b61acd5a473fa9d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "704de62e308c09a3",
       "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-startups-in-2026-zepto-retains-top-spot-for-4th-consecutive-year-10925805/",
@@ -52,31 +28,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "30d0d906cb4d6c3a",
-      "url": "https://indianexpress.com/article/trending/trending-globally/german-woman-99-walks-on-the-wing-of-a-moving-plane-creates-world-record-i-was-so-excited-10925668/",
-      "title_en": "German woman, 99, walks on the wing of a moving plane, creates world record: ‘I was so excited’",
-      "title_zh": "德国99岁老妇在移动的飞机机翼上行走创造世界纪录：“我太兴奋了”",
-      "summary_en": "Defying age and gravity, 99-year-old Helga Duffy takes to the open skies to become the world’s oldest female wing walker.",
-      "summary_zh": "99 岁的赫尔加·达菲 (Helga Duffy) 不畏年龄和地心引力，飞向开阔的天空，成为世界上最年长的女性翼行者。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Defying-age-and-gravity-99-year-old-Helga-Duffy-takes-to-the-open-skies-to-become-the-worlds-oldest-female-wing-walker.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "德国",
-      "published_at": "2026-10-17T17:19:07+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "奇人奇事",
-        "航空出行"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "30d0d906cb4d6c3a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "1667e73dd37b680d",
       "url": "https://indianexpress.com/article/trending/trending-globally/us-man-failed-to-get-a-pilots-license-now-he-flies-to-work-i-do-it-for-fun-10925501/",
       "title_en": "US man failed to get a pilot’s license, now he flies to work: ‘I do it for fun’",
@@ -97,79 +48,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1667e73dd37b680d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0e0b2f7743e2ae51",
-      "url": "https://www.bbc.com/news/articles/cmwyvxgxjnpqo",
-      "title_en": "Hibaldstow man jailed for sex with dead woman",
-      "title_zh": "希伯斯托男子因与死去的女人发生性关系而入狱",
-      "summary_en": "Stephen Sellars, 62, was interrupted by the woman's son and nephew, a court hears.",
-      "summary_zh": "法庭获悉，62 岁的斯蒂芬·塞拉斯 (Stephen Sellars) 被该女子的儿子和侄子打断。",
-      "translation_status": "fallback",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f62b/live/aa6785a0-c96f-11f1-80fc-ab418b149008.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-10-17T12:28:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "0e0b2f7743e2ae51",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0e5e1045b6676f1f",
-      "url": "https://gothamist.com/news/deer-are-all-over-new-jersey-roads-looking-for-sex-state-officials-warn",
-      "title_en": "Deer are all over New Jersey roads looking for sex, state officials warn",
-      "title_zh": "新泽西州官员警告说，鹿遍布新泽西州道路寻找性行为",
-      "summary_en": "Mid-October through mid-December is deer mating season, which can be a danger to drivers as the sex-seeking creatures cross roadways throughout the Garden State.",
-      "summary_zh": "十月中旬到十二月中旬是鹿的交配季节，这对司机来说可能是一个危险，因为这些寻求性的动物穿过整个花园州的道路。",
-      "translation_status": "fallback",
-      "image": "https://api-prod.gothamist.com/images/361991/fill-1200x650|format-webp|webpquality-85/",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-10-17T07:17:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "0e5e1045b6676f1f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d971fa3084581872",
-      "url": "https://allthatsinteresting.com/turkey-oldest-shipwreck-in-history",
-      "title_en": "Archaeologists In Turkey Believe They Just Found The World’s Oldest Shipwreck",
-      "title_zh": "土耳其考古学家相信他们刚刚发现了世界上最古老的沉船",
-      "summary_en": "Hakan Öniz Researchers off the coast of Kekova Island in Antalya discovered artifacts from a shipwreck that dates back as far as 4,700 years. An ancient cargo vessel believed to be the world’s oldest shipwreck has been found off the coast of Turkey. This sunken ship dates back an astonishing 4,700 years — right around the time when the pyramids of Egypt were being built just across the Mediterranean Sea. Although the actual body of the ship has disintegrated over the years, archaeologists believe that the…",
-      "summary_zh": "Hakan Öniz 研究人员在安塔利亚 Kekova 岛海岸发现了一艘沉船中的文物，其历史可以追溯到 4,700 年前。在土耳其海岸发现了一艘被认为是世界上最古老的沉船的古代货船。这艘沉船的历史可以追溯到惊人的 4,700 年前——正好是在地中海对面建造埃及金字塔的时候。尽管多年来船体已经解体，但",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-worlds-oldest-shipwreck.jpeg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-17T05:45:26+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "科学发现",
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "d971fa3084581872",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

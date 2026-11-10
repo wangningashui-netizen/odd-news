@@ -1,35 +1,4 @@
 {
   "date": "2026-11-09",
-  "items": [
-    {
-      "id": "1a3b8e203d283d77",
-      "title_en": "Mumbai Airport T2: False Ceiling Collapses Outside Terminal, Visitor Injured",
-      "summary_en": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "translation_status": "pending",
-      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-airport-t2-false-ceiling-collapse-visitor-injured-10955744/",
-      "source": "Reddit r/india"
-    },
-    {
-      "id": "27138548068f3348",
-      "title_en": "Delhi AQI 1108 today @ 6 am",
-      "summary_en": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "translation_status": "pending",
-      "url": "https://www.aqi.in/in/dashboard/india/delhi",
-      "source": "Reddit r/india"
-    },
-    {
-      "id": "de35900baaa7bba3",
-      "title_en": "Article: Indians should hold themselves to higher standards",
-      "summary_en": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "translation_status": "pending",
-      "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
-      "source": "Reddit r/india"
-    }
-  ]
+  "items": []
 }

@@ -105,6 +105,43 @@ class ApplyTranslationsTest(unittest.TestCase):
             self.assertEqual((data / "2026-11-08.json").read_text(encoding="utf-8"), before)
             self.assertEqual((data / "index.json").read_text(encoding="utf-8"), index_before)
 
+    def test_title_applies_when_summary_is_empty(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data = root / "data"
+            (data / "translations").mkdir(parents=True)
+            story = {
+                "id": "titleonly",
+                "url": "https://example.com/airport",
+                "title_en": "Ceiling collapse",
+                "summary_en": "A visitor was injured.",
+                "title_zh": "旧标题",
+                "summary_zh": "原来的概要还在。",
+                "translation_status": "fallback",
+                "source": "Indian Express Trending",
+                "region": "印度",
+                "published_at": "2026-11-09T10:00:00+08:00",
+                "tags": ["其他"],
+            }
+            (data / "2026-11-09.json").write_text(
+                json.dumps(day("2026-11-09", [story]), ensure_ascii=False) + "\n",
+                encoding="utf-8",
+            )
+            (data / "translations" / "2026-11-10.json").write_text(
+                json.dumps(
+                    {"titleonly": {"title_zh": "孟买机场吊顶坍塌", "summary_zh": ""}},
+                    ensure_ascii=False,
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+            self.assertEqual(retranslate.run(root), 0)
+            saved = json.loads((data / "2026-11-09.json").read_text(encoding="utf-8"))
+            item = saved["items"][0]
+            self.assertEqual(item["title_zh"], "孟买机场吊顶坍塌")
+            self.assertEqual(item["summary_zh"], "原来的概要还在。")
+            self.assertEqual(item["translation_status"], "ai")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Shanghai",
-  "count": 246,
+  "count": 213,
   "items": [
     {
       "id": "245bf51c8ed3b22d",
@@ -227,30 +227,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "ba8acc3519756666",
-      "url": "https://nypost.com/2026/11/08/lifestyle/oakland-airport-auctions-off-baggage-tugs-for-as-little-as-750-as-social-media-users-go-wild/",
-      "title_en": "California airport sparks online frenzy with peculiar hardware auction",
-      "title_zh": "加州机场奇特的硬件拍卖引发网上狂热",
-      "summary_en": "Oakland Airport is auctioning off electric baggage tugs as part of a routine fleet retirement and surplus equipment liquidation.",
-      "summary_zh": "奥克兰机场正在拍卖电动行李拖车，作为例行机队退役和剩余设备清理的一部分。",
-      "translation_status": "fallback",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147924099.jpg?quality%3D90%26strip%3Dall",
-      "image_checked": true,
-      "source": "New York Post Weird But True",
-      "source_id": "nypost-weird",
-      "region": "美国",
-      "published_at": "2026-11-08T22:45:00+08:00",
-      "fetched_at": "2026-11-08T22:56:11+08:00",
-      "tags": [
-        "航空出行"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "ba8acc3519756666",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "9c3454baa801f5c5",
       "url": "https://www.timesnownews.com/sports/cricket/babar-azam-reacts-to-mohammad-yousufs-send-him-to-academy-remark-amid-poor-form-article-156483192",
       "title_en": "Babar Azam Reacts To Mohammad Yousuf's 'Send Him To Academy' Remark Amid Poor Form",
@@ -420,33 +396,6 @@
       "cluster_id": "901e8eaf0a7a3ffe",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "449595a5fc048f01",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "title_en": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
-      "title_zh": "“Ram Altman”现在是一个 Linux 脚本，每天向 Sam Altman 发送电子邮件，报告您的 PC 中有多少未使用的 RAM",
-      "summary_en": "Developer builds Ram-Altman, a Linux script that automatically emails OpenAI CEO Sam Altman daily progress reports on idle desktop memory.",
-      "summary_zh": "开发人员构建了 Ram-Altman，这是一个 Linux 脚本，可自动通过电子邮件向 OpenAI 首席执行官 Sam Altman 发送有关空闲桌面内存的每日进度报告。",
-      "translation_status": "fallback",
-      "image": "https://respawnfirst.com/wp-content/uploads/2026/11/ram-altman-github.webp",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T21:52:07+08:00",
-      "fetched_at": "2026-11-08T22:56:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "449595a5fc048f01",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 9781,
-      "reddit_comments": 175,
-      "reddit_id": "t3_1xqywjd"
     },
     {
       "id": "b25d6c2bfc630475",
@@ -649,34 +598,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "18a8877c8dce799b",
-      "url": "https://troopers.ny.gov/news/state-police-arrest-lacona-woman-following-public-lewdness-incident",
-      "title_en": "State Police arrest Lacona woman following public lewdness incident",
-      "title_zh": "州警察在公共猥亵事件后逮捕了拉科纳妇女",
-      "summary_en": "Get notified when applications open for the NYS Trooper Entrance Exam! Please visit joinstatepolice.ny.gov to learn more.",
-      "summary_zh": "当纽约州士兵入学考试开放申请时您会收到通知！请访问 joinstatepolice.ny.gov 了解更多信息。",
-      "translation_status": "fallback",
-      "image": "https://troopers.ny.gov/sites/g/files/oee1136/files/media/2026/02/img_5999.png",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-08T21:15:10+08:00",
-      "fetched_at": "2026-11-08T23:16:42+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "18a8877c8dce799b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 6,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xqy60v"
-    },
-    {
       "id": "4c14e95297826ad3",
       "url": "https://www.livelaw.in/top-stories/supreme-court-air-pollution-delhi-ncr-vehicular-pollution-stubble-burning-children-lungs-not-pink-grap-expert-view-valid-diwali-awareness-programmes-557825",
       "title_en": "NCR Pollution | 'Lungs Of Even Children In Delhi Not Pink', Amicus Tells Supreme Court",
@@ -771,30 +692,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "36f93a8e6cd8befc",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "64236da63dae5ab5",
-      "url": "https://soranews24.com/2026/11/08/two-tokyo-neighborhoods-to-gather-on-bridge-and-shift-their-recognized-border-through-tug-of-war/",
-      "title_en": "Two Tokyo neighborhoods to gather on bridge and shift their recognized border through tug-of-war",
-      "title_zh": "东京两个街区聚集在桥上，通过拉锯战改变公认的边界",
-      "summary_en": "Sibling ward rivalry doesn’t need solid ground for its bragging-rights battlefield . My parents were very strict about the Baseel brothers not fighting with each other while we were growing up, but I’ve been told that it’s not unusual for siblings to squabble. And so it is that Tokyo’s Sumida and Taito Wards , neighbors who have been sister wards since 1977, have begun meeting every year and attempting to expand their territory at the other’s expense by shifting the symbolic borderline between the two . Fittingly…",
-      "summary_zh": "兄弟姐妹间的竞争并不需要坚实的基础来作为其吹嘘的战场。在我们成长的过程中，我的父母对巴塞尔兄弟非常严格，禁止他们互相打架，但我听说兄弟姐妹之间争吵并不罕见。因此，自 1977 年以来一直是姐妹区的东京墨田区和台东区开始每年举行会议，并试图通过改变象征性的方式，以牺牲对方为代价来扩大自己的领土。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/4_958a68.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-08T21:00:07+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "64236da63dae5ab5",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1269,33 +1166,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "7ee0d5610e10b5a3",
-      "url": "https://www.zmescience.com/medicine/should-men-pee-sitting-down-or-standing-up-science-has-an-answer/",
-      "title_en": "Should Men Pee Sitting Down or Standing Up? Science Has an Answer",
-      "title_zh": "男人应该坐着撒尿还是站着撒尿？科学有答案",
-      "summary_en": "For healthy men, posture barely changes urine flow. But the physics of splashback tells another story.",
-      "summary_zh": "对于健康男性来说，姿势几乎不会改变尿流量。但溅射的物理原理却讲述了另一个故事。",
-      "translation_status": "fallback",
-      "image": "https://cdn.zmescience.com/wp-content/uploads/2026/11/pexels-sedef-195341908-11462651-e1793657330342.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T19:35:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "7ee0d5610e10b5a3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 0,
-      "reddit_comments": 23,
-      "reddit_id": "t3_1xqwfu2"
-    },
-    {
       "id": "fa757b9289719ddd",
       "url": "https://www.timesnownews.com/travel/where-did-jatayu-fall-in-current-india-mapping-ramayanas-real-locations-article-156482703",
       "title_en": "Where Did Jatayu Fall In Current India? Mapping Ramayana's Real Locations",
@@ -1396,35 +1266,6 @@
       "reddit_id": "t3_1xqwalj"
     },
     {
-      "id": "3b845de958afd9a7",
-      "url": "https://www.chroniclelive.co.uk/news/north-east-news/gateshead-woman-alopecia-accused-being-34873020",
-      "title_en": "Woman with alopecia accused of being male while using female toilet at a supermarket.",
-      "title_zh": "一名脱发女子在超市使用女厕所时被指控为男性。",
-      "summary_en": "Helen Rowlands said she was questioned about her gender while visiting Tesco Extra in Trinity Square, Gateshead",
-      "summary_zh": "海伦·罗兰兹 (Helen Rowlands) 表示，她在盖茨黑德三一广场的特易购超市 (Tesco Extra) 时被问及性别",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.chroniclelive.co.uk/article34879246.ece/ALTERNATES/s1200d/0_imagemaker-71.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T19:23:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "卫生环境",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "3b845de958afd9a7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 4844,
-      "reddit_comments": 898,
-      "reddit_id": "t3_1xqw9bp"
-    },
-    {
       "id": "c49078ff0f75d2b9",
       "url": "https://www.timesnownews.com/health/the-morning-after-diwali-what-does-one-night-of-firecracker-smoke-do-to-your-lungs-article-156482691",
       "title_en": "The Morning After Diwali: What Does One Night of Firecracker Smoke Do to Your Lungs?",
@@ -1445,30 +1286,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c49078ff0f75d2b9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "60274f4d9119b426",
-      "url": "https://www.mirror.co.uk/news/uk-news/prof-hannah-clokes-6-essential-37855398",
-      "title_en": "Prof Hannah Cloke's 6 essential items to stockpile amid UK emergency warnings",
-      "title_zh": "汉娜·克洛克教授在英国紧急警告期间应储备 6 种必需品",
-      "summary_en": "A professor has said people in the UK are 'right to be concerned' about potential crises - and said people need to make sure they've got 6 essential items in the house",
-      "summary_zh": "一位教授表示，英国人“担心”潜在危机是“正确的”，并表示人们需要确保家里有 6 件必需品",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37855410.ece/ALTERNATES/s615/0_John-Healey-and-Wes-Streeting-visit-to-BAE-Systems.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-08T19:18:40+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "60274f4d9119b426",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1496,33 +1313,6 @@
       "cluster_id": "7f633bd4830539c7",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "14202065f5eca899",
-      "url": "https://www.ndtv.com/world-news/fatwa-issued-against-nike-in-libya-for-promoting-polytheism-through-its-name-logo-12284406",
-      "title_en": "Fatwa Issued Against Nike In Libya For Promoting Polytheism Through Its Name, Logo",
-      "title_zh": "耐克在利比亚因通过其名称、徽标宣扬多神教而受到追杀",
-      "summary_en": "Libya's top religious authority, Dar al-Ifta, issues a fatwa banning Nike for promoting polytheistic symbols.",
-      "summary_zh": "利比亚最高宗教权威 Dar al-Ifta 发布了一项追令，禁止耐克宣传多神教符号。",
-      "translation_status": "fallback",
-      "image": "https://c.ndtvimg.com/2026-11/t6d3imes_nike_625x300_04_November_26.jpeg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T19:15:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "14202065f5eca899",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 657,
-      "reddit_comments": 128,
-      "reddit_id": "t3_1xqw4li"
     },
     {
       "id": "1c3bc266524e2309",
@@ -1894,30 +1684,6 @@
       "reddit_id": "t3_1xqvept"
     },
     {
-      "id": "04aed6aeb48aa9a6",
-      "url": "https://www.dailystar.co.uk/news/latest-news/desperate-donald-trump-could-wheel-37855171",
-      "title_en": "Desperate Donald Trump 'could wheel out real-life alien' to save face after midterm wipeout",
-      "title_zh": "绝望的唐纳德·特朗普“可能会推出现实生活中的外星人”以在中期失败后挽回面子",
-      "summary_en": "A UFO expert claims a bruised Donald Trump could unveil a real-life alien or captured spacecraft in a desperate bid to distract from a brutal US midterm defeat",
-      "summary_zh": "一名不明飞行物专家声称，受伤的唐纳德·特朗普可能会揭开现实生活中的外星人或被捕获的航天器的面纱，以拼命地分散人们对美国中期惨败的注意力。",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37777976.ece/ALTERNATES/s615/0_alien.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-08T18:22:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "04aed6aeb48aa9a6",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "3162abd740efbc5e",
       "url": "https://www.ndtv.com/offbeat/womans-surprise-diwali-homecoming-leaves-parents-emotional-video-wins-hearts-online-12300055",
       "title_en": "Woman's Surprise Diwali Homecoming Leaves Parents Emotional, Video Wins Hearts Online",
@@ -2037,30 +1803,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "07dabac4e23554d9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a160a6afb9256894",
-      "url": "https://www.dailystar.co.uk/news/latest-news/ai-wild-west-sparks-gaming-37849927",
-      "title_en": "AI 'Wild West' sparks gaming 'civil war' as expert issues 'very worried' warning",
-      "title_zh": "人工智能“狂野西部”引发游戏“内战”，专家发出“非常担忧”警告",
-      "summary_en": "EXCLUSIVE: An expert has warned some game devs should be worried AI slop may 'eat their lunch' as the industry has been hit with a 'civil war' between AI enthusiasts and AI haters",
-      "summary_zh": "独家报道：一位专家警告一些游戏开发者应该担心人工智能可能会“吃掉他们的午餐”，因为该行业已经受到人工智能爱好者和人工智能仇恨者之间的“内战”的打击",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849896.ece/ALTERNATES/s615/0_GettyImages-1466423193.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-08T18:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "a160a6afb9256894",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2631,31 +2373,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "28260479dc4c2fe8",
-      "url": "https://www.news18.com/viral/british-man-runs-a-mile-while-solving-4-rubiks-cubes-sets-guinness-world-record-absolutely-buzzing-ws-l-10417489.html",
-      "title_en": "British Man Runs A Mile While Solving 4 Rubik’s Cubes, Sets Guinness World Record: ‘Absolutely Buzzing’",
-      "title_zh": "英国男子跑一英里解决4个魔方，创造吉尼斯世界纪录：“绝对嗡嗡作响”",
-      "summary_en": "George Scholey set a Guinness World Record for the fastest time to complete a puzzle cube mile on October 12 at Central Tech High School in Toronto, Canada in just five minutes",
-      "summary_zh": "10 月 12 日，乔治·斯科利 (George Scholey) 在加拿大多伦多中央科技高中 (Central Tech High School) 创下了仅用 5 分钟完成一英里拼图的吉尼斯世界纪录",
-      "translation_status": "fallback",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-3-2026-11-7b819c5ad221aa68947ece5746658e2b-1200x675.png",
-      "image_checked": true,
-      "source": "News18 Viral",
-      "source_id": "news18-viral",
-      "region": "加拿大",
-      "published_at": "2026-11-08T16:11:20+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "印度",
-      "cluster_id": "28260479dc4c2fe8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "4f305270d83d1435",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xqtcwf/i_feel_unsafe_after_reading_some_comments/",
       "title_en": "“I feel unsafe after reading some comments”: Vrindavan’s gen Z baba Shri Shashwat Acharya Ji reacts to social media comments about his looks and appearance",
@@ -3027,33 +2744,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "46e94bb7c8360571",
-      "url": "https://www.popsci.com/environment/bear-annoying-sibling-award-alaska/",
-      "title_en": "Troublesome black bear Nugget wins the 2026 Annoying Sibling Award",
-      "title_zh": "麻烦的黑熊 Nugget 荣获 2026 年烦人兄弟姐妹奖",
-      "summary_en": "Bears can annoy their brothers and sisters, too.",
-      "summary_zh": "熊也会惹恼它们的兄弟姐妹。",
-      "translation_status": "fallback",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/11/bear-annoying-sibling.png?quality=85&w=1200",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-08T14:47:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "46e94bb7c8360571",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 69,
-      "reddit_comments": 2,
-      "reddit_id": "t3_1xqs2p5"
-    },
-    {
       "id": "754460078ecc0155",
       "url": "https://timesofindia.indiatimes.com/city/agra/neck-limbs-broken-jaw-crushed-16yo-dalit-gangrape-survivor-dies/articleshow/135642896.cms",
       "title_en": "‘Neck, limbs broken, jaw crushed’: 16-year-old Dalit gangrape survivor dies in Agra",
@@ -3257,33 +2947,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "36dff9d66e340ff9",
-      "url": "https://www.abc.net.au/news/2026-11-08/notts-county-altrincham-fa-cup-penalties-fog/107360612",
-      "title_en": "Notts County beats Altrincham in FA Cup first round despite horrendous fog",
-      "title_zh": "尽管大雾，诺茨郡在足总杯第一轮中击败了奥尔特灵厄姆",
-      "summary_en": "Notts County earned a penalty shootout victory over non-league side Altrincham, but even among those present at Moss Lane, few saw it as fog made a mockery of the conclusion.",
-      "summary_zh": "诺茨郡队在点球大战中战胜了非联赛球队奥特林厄姆，但即使是在莫斯巷球场的人中，也很少有人认为这一点是因为大雾嘲笑了这一结果。",
-      "translation_status": "fallback",
-      "image": "https://live-production.wcms.abc-cdn.net.au/6f58bd1dae2139d48d39a7cb3ea41913?impolicy=wcms_watermark_news&amp;cropH=812&amp;cropW=1443&amp;xPos=294&amp;yPos=85&amp;width=862&amp;height=485&amp;imformat=generic",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T14:20:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "36dff9d66e340ff9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 51,
-      "reddit_comments": 4,
-      "reddit_id": "t3_1xqrnmg"
-    },
-    {
       "id": "78ee9b43f895679f",
       "url": "https://www.reddit.com/r/indiasocial/comments/1xqrjpa/woke_up_this_morning_and_i_saw_my_entire_room_is/",
       "title_en": "Woke up this morning and i saw my entire room is covered with SMOKE.",
@@ -3407,30 +3070,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "719478a8b024745a",
-      "url": "https://metro.co.uk/2026/11/08/may-just-prevented-a-new-ice-age-not-a-good-thing-29764836/",
-      "title_en": "We may have just prevented a new ice age – but it’s not a good thing",
-      "title_zh": "我们可能刚刚阻止了新的冰河时代——但这不是一件好事",
-      "summary_en": "Earth was frozen in snow during one of the planet’s last ice ages (Picture: Getty Images/Science Photo Library) We all know the Earth is heating up. We even used to call this phenomenon, now known as climate change, ‘global warming’. Yet 720,000,000 years ago, the blue marble was a cosmic-sized snowball as it was engulfed in an ice age. Glaciations – the formation of sprawling glaciers and ice sheets – can cause mass extinctions.",
-      "summary_zh": "在地球最后一个冰河时代之一，地球被冰冻在雪中（图片：盖蒂图片社/科学图片库）我们都知道地球正在变暖。我们甚至曾经将这种现在称为气候变化的现象称为“全球变暖”。然而7.2亿年前，蓝色大理石被冰河时代吞没，变成了一个宇宙大小的雪球。冰川作用——广阔的冰川和冰盖的形成——可能导致大规模灭绝。",
-      "translation_status": "fallback",
-      "image": "https://metro.co.uk/wp-content/uploads/2026/11/SEI_319417884-141d.jpg?quality=90&strip=all&w=646",
-      "image_checked": true,
-      "source": "Metro Weird",
-      "source_id": "metro-weird",
-      "region": "英国",
-      "published_at": "2026-11-08T14:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "719478a8b024745a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "45bf1626910aff03",
       "url": "https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece",
       "title_en": "Delhi faces new challenge from Samosa caucus | Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too",
@@ -3453,34 +3092,6 @@
       "cluster_id": "45bf1626910aff03",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "f25b83c6a434292f",
-      "url": "https://www.torontotoday.ca/local/real-estate-housing/toronto-tenants-evicted-for-farting-12985566",
-      "title_en": "‘We fart too much’: Toronto tenants claim they’re being evicted for flatulence",
-      "title_zh": "“我们放屁太多了”：多伦多租户声称他们因肠胃胀气而被驱逐",
-      "summary_en": "",
-      "summary_zh": "“我们放屁太多了”：多伦多租户声称他们因肠胃胀气而被驱逐",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/jSPUYaMvfjbf0ZP2c2RzwIEep_nR2_V9ZApPF7bNvkc.jpeg?width=640&crop=smart&auto=webp&s=c4924c89e93840fb01833e588b125e86b559f841",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "加拿大",
-      "published_at": "2026-11-08T13:58:20+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "f25b83c6a434292f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 2058,
-      "reddit_comments": 198,
-      "reddit_id": "t3_1xqra7y"
     },
     {
       "id": "cd482c19efb5ed1b",
@@ -3603,30 +3214,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "b74c6a54861b47cc",
-      "url": "https://www.dailystar.co.uk/travel/first-timers-guide-vegas-hotels-37848296",
-      "title_en": "A first-timer's guide to Vegas from the hotels to shows that leave you gobsmacked",
-      "title_zh": "从酒店到让您目瞪口呆的表演的拉斯维加斯新手指南",
-      "summary_en": "Neil Leslie visited Las Vegas for the first time and got a whirlwind tour of the hotels, casinos, shows and food that make Sin City such an iconic party destination",
-      "summary_zh": "尼尔·莱斯利 (Neil Leslie) 首次访问拉斯维加斯，旋风游览了酒店、赌场、表演和美食，这些使罪恶之城成为标志性的派对目的地",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37848371.ece/ALTERNATES/s615/0_The-City-of-Las-VegasNevadaUSA.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-08T13:24:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "b74c6a54861b47cc",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "bc256b7f3c813eb8",
       "url": "https://www.news18.com/viral/i-cant-use-my-pl-employee-claims-boss-denied-dhanteras-leave-despite-unused-paid-leave-reddit-reacts-ws-l-10417381.html",
       "title_en": "'I Can't Use My PL?': Employee Claims Boss Denied Dhanteras Leave Despite Unused Paid Leave; Reddit Reacts",
@@ -3650,34 +3237,6 @@
       "cluster_id": "bc256b7f3c813eb8",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "870ae9a9314fcd23",
-      "url": "https://www.techspot.com/news/114482-thieves-steal-114-million-nvidia-equipment-ai-hardware.html",
-      "title_en": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million | GPUs are the new copper: thieves are ramming escort cars and spoofing GPS to get them",
-      "title_zh": "数据中心抢劫案愈演愈烈，最新一起抢劫案对英伟达造成 1140 万美元的损失GPU 是新的铜：窃贼通过撞击护送车辆并欺骗 GPS 来获取它们",
-      "summary_en": "",
-      "summary_zh": "数据中心抢劫案愈演愈烈，最新一起抢劫案对英伟达造成 1140 万美元的损失GPU 是新的铜：窃贼通过撞击护送车辆并欺骗 GPS 来获取它们",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-08T13:21:48+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "870ae9a9314fcd23",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 326,
-      "reddit_comments": 29,
-      "reddit_id": "t3_1xqqofs"
     },
     {
       "id": "cf70ea3653ac06fa",
@@ -3775,30 +3334,6 @@
       "cluster_id": "9c8ba5b9632d27bb",
       "cluster_item_count": 2,
       "cluster_source_count": 2
-    },
-    {
-      "id": "9b200b6454d1f16e",
-      "url": "https://soranews24.com/2026/11/08/hello-kitty-ready-to-keep-you-company-in-the-bathroom-with-new-dessert-aroma-sanrio-toilet-paper/",
-      "title_en": "Hello Kitty ready to keep you company in the bathroom with new dessert-aroma Sanrio toilet paper",
-      "title_zh": "Hello Kitty 准备好用三丽鸥新款甜品香卫生纸在浴室陪伴您",
-      "summary_en": "It’s like a skating party in your bathroom, and all your Sanrio friends are invited . Part of the secret to the enduring popularity of Hello Kitty and her Sanrio pals is what loyal friends they are. Sure, you could take the cynical interpretation that their incredibly wide variety of character merch is simply a way to multiply revenue streams, but there’s no denying that it also means that almost no matter what you’re doing in life, there’s a way for you to do it with your favorite Sanrio characters keeping you…",
-      "summary_zh": "这就像在你的浴室里举办滑冰派对，所有三丽鸥朋友都被邀请了。 Hello Kitty 和她的三丽鸥伙伴们经久不衰的部分秘诀在于他们是多么忠诚的朋友。当然，你可以采取愤世嫉俗的解释，认为他们令人难以置信的各种各样的角色商品只是增加收入来源的一种方式，但不可否认的是，这也意味着几乎无论你在生活中做什么，都有一种方法可以让你用你的方式来做这件事。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/8_0c39b2.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-08T13:00:56+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "卫生环境"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "9b200b6454d1f16e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "38b140866a271b78",
@@ -4474,30 +4009,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "d9ef4917fd1dc660",
-      "url": "https://www.hindustantimes.com/trending/abu-dhabi-closes-10-km-desert-highway-stretch-for-byd-s-electric-hypercar-to-break-500-kmph-barrier-101794106690563.html",
-      "title_en": "Abu Dhabi closes 10-km desert highway stretch for BYD’s electric hypercar to break 500 kmph barrier",
-      "title_zh": "阿布扎比关闭10公里沙漠高速公路，比亚迪电动超级跑车突破时速500公里大关",
-      "summary_en": "Abu Dhabi temporarily closed a 10-km stretch of highway to allow BYD's electric hypercar to attempt a world speed record.",
-      "summary_zh": "阿布扎比暂时关闭了一段 10 公里长的高速公路，以允许比亚迪的电动超级跑车尝试世界速度记录。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/YANGWANG-U9-X-6347_1794106861286_Eexd_1794106866083_W0DX_e1b563fd-a978-418b-8fe0-6030a381a4ca_DrpG.jpeg",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "阿联酋",
-      "published_at": "2026-11-08T11:06:05+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "d9ef4917fd1dc660",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "ce03238ce5b2b988",
       "url": "https://www.ndtv.com/offbeat/happy-diwali-2026-best-wishes-quotes-and-messages-to-share-with-friends-and-family-12298979",
       "title_en": "Happy Diwali 2026: Best Wishes, Quotes, And Messages To Share With Friends And Family",
@@ -4696,81 +4207,6 @@
       "cluster_source_count": 2
     },
     {
-      "id": "3005ed77b5f366d4",
-      "url": "https://www.timesnownews.com/sports/cricket/wont-deny-it-usman-khawaja-responds-to-backlash-over-ball-tampering-remark-article-156481247",
-      "title_en": "Won't Deny It: Usman Khawaja Responds To Backlash Over Ball-Tampering Remark",
-      "title_zh": "不会否认：乌斯曼·卡瓦贾回应对篡球言论的强烈反对",
-      "summary_en": "Usman Khawaja has responded to the backlash over the ball-tampering remark and said that he won't deny his comments. Khawaja said that everyone in the Australian dressing room knew about the ball-tampering., Cricket, Times Now",
-      "summary_zh": "乌斯曼·卡瓦贾对篡球言论引起的强烈反对做出了回应，并表示他不会否认自己的言论。卡瓦贾说，澳大利亚更衣室里的每个人都知道篡改球的事情。, 板球, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156481278,thumbsize-33472,width-1280,height-720,resizemode-75/156481278.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "澳大利亚",
-      "published_at": "2026-11-08T10:04:50+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "3005ed77b5f366d4",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a2dac455e2e34bac",
-      "url": "https://www.neatorama.com/2026/11/07/Whats-So-Special-About-the-Number-42/",
-      "title_en": "What's So Special About the Number 42?",
-      "title_zh": "42这个数字有什么特别之处？",
-      "summary_en": "Yeah, you saw the question in the title and said, \"That's the answer to life, the universe, and everything!\" And you are right; that was the premise of Douglas' Adams story The Hitchhiker's Guide to the Galaxy . But also remember, by the time the supercomputer once known as earth rendered the answer, it occurred to everyone that they no longer knew what the original question was. The real question for Adams was, why 42? There was nothing special about that number, he assured us.",
-      "summary_zh": "是的，你看到标题中的问题并说：“这就是生命、宇宙和一切的答案！”你是对的；这就是道格拉斯·亚当斯的故事《银河系漫游指南》的前提。但也要记住，当曾经被称为地球的超级计算机给出答案时，每个人都意识到他们不再知道最初的问题是什么。 Adams 真正的问题是，为什么是 42？他保证这个数字没有什么特别的",
-      "translation_status": "fallback",
-      "image": "https://img.youtube.com/vi/KqJiW04Z9mY/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-08T10:04:02+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "a2dac455e2e34bac",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e367469a2b8c1dae",
-      "url": "https://www.azfamily.com/2026/11/07/father-accused-leaving-daughter-sleeping-outside-target-hold-spot-pokmon-cards-police-say/",
-      "title_en": "Father accused of leaving daughter sleeping outside Target to hold spot for Pokémon cards, police say",
-      "title_zh": "警方称，父亲被指控让女儿睡在塔吉特外面，为神奇宝贝卡留出地方",
-      "summary_en": "A man in South Carolina is accused of leaving his 6-year-old daughter sleeping in line outside a Target store to hold his place for a Pokémon card release.",
-      "summary_zh": "南卡罗来纳州一名男子被指控让自己 6 岁的女儿在 Target 商店外排队睡觉，以抢占神奇宝贝卡发布的位置。",
-      "translation_status": "fallback",
-      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/LKU7U4IBINHTPKW7XPZGPZGHGE.png?auth=51630aa7d6a907c20d8099c06b5bd6fb0b603c762e5862a48112b1b0441428d5&amp;width=1200&amp;height=600&amp;smart=true",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T10:00:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "a6b6e380d26c3b3b",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
-      "reddit_score": 1419,
-      "reddit_comments": 151,
-      "reddit_id": "t3_1xqn2gd"
-    },
-    {
       "id": "e84f42beb2f4aa30",
       "url": "https://indianexpress.com/article/india/shw-partners-llc-donald-trump-jason-miller-marco-rubio-delhi-washington-10954025/",
       "title_en": "8 calls between Delhi, Washington in May-June: US lobbying firm",
@@ -4919,26 +4355,540 @@
       "cluster_source_count": 1
     },
     {
-      "id": "7141f526c0b7da62",
-      "url": "https://soranews24.com/2026/11/08/cinnabon-gets-into-the-japanese-spirit-with-new-wagokorobon-treats/",
-      "title_en": "Cinnabon gets into the Japanese spirit with new Wagokorobon treats",
-      "title_zh": "Cinnabon 推出新的 Wagokorobon 零食，融入日本精神",
-      "summary_en": "Cinnabon Japan finds two new ways to mix its own dessert traditions with Japan’s . Unlike some other American sweets suppliers who’ve set up shop in Japan, Cinnabon doesn’t have Japan-exclusive menu items all that often. We can probably chalk that up to the chain’s key ingredient, cinnamon, being a distinct flavor that doesn’t feature very often at all in traditional Japanese desserts. Leave the cinnamon in, and it’s hard to find a cordial combo with Japanese ingredients, but take it out, and it’s not really a…",
-      "summary_zh": "Cinnabon Japan 找到了两种将本国甜点传统与日本甜点传统相结合的新方法。与其他一些在日本开设商店的美国糖果供应商不同，Cinnabon 并不经常提供日本独有的菜单项。我们或许可以将其归因于该连锁店的关键成分肉桂，它是一种独特的风味，在传统的日本甜点中并不常见。如果把肉桂留在里面，很难找到与日本食材的亲切组合，但是",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/3_d1a75f.jpg?w=640",
+      "id": "cfd0437741e6b118",
+      "url": "https://x.com/AjitYadav260/status/2119234084899803326",
+      "title_en": "कुंभ मेले में फेमस हुए आकाश यादव दातुन बाय ने आज अपनी बाबू से शादी कर लिया है जब कुम्भ मेला लगा था तब आकाश यादव को यही उनकी बाबू ने बोला था आप वहां जाके निम का दातुन बेचो फिर अकाश यादव जौनपुर से सीधा दातुन लेके प्रयागराज मेले में गए......1/2 https://t.co/RzzVhpHSUS",
+      "title_zh": "大壶节卖牙签走红的「牙签男孩」与女友私奔结婚，称遭女方家人威胁要保护。",
+      "summary_en": "कुंभ मेले में फेमस हुए आकाश यादव दातुन बाय ने आज अपनी बाबू से शादी कर लिया है \n\nजब कुम्भ मेला लगा था तब आकाश यादव को यही उनकी बाबू ने बोला था आप वहां जाके निम का दातुन बेचो \n\nफिर अकाश यादव जौनपुर से सीधा दातुन लेके प्रयागराज मेले में गए......1/2 https://t.co/RzzVhpHSUS",
+      "summary_zh": "大壶节卖牙签走红的「牙签男孩」与女友私奔结婚，称遭女方家人威胁要保护。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/photo-1.jpg",
       "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-08T09:00:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-08T09:02:33+08:00",
+      "fetched_at": "2026-11-10T10:12:17+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "7141f526c0b7da62",
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2119234084899803326",
+        "lang": null,
+        "text": "कुंभ मेले में फेमस हुए आकाश यादव दातुन बाय ने आज अपनी बाबू से शादी कर लिया है \n\nजब कुम्भ मेला लगा था तब आकाश यादव को यही उनकी बाबू ने बोला था आप वहां जाके निम का दातुन बेचो \n\nफिर अकाश यादव जौनपुर से सीधा दातुन लेके प्रयागराज मेले में गए......1/2 https://t.co/RzzVhpHSUS",
+        "author": {
+          "name": "Ajit Yadav",
+          "username": "AjitYadav260",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2043572102855524352/CjRP4eXN_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatar.jpg"
+        },
+        "created_at": "2026-11-08T01:02:33.000Z",
+        "public_metrics": {
+          "reply_count": 31,
+          "repost_count": 28,
+          "like_count": 70,
+          "quote_count": 0,
+          "bookmark_count": 5,
+          "impression_count": 10224
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/photo-2.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/AjitYadav260/status/2119234084899803326",
+        "ytdlp_command": "yt-dlp https://x.com/AjitYadav260/status/2119234084899803326",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/comments.png",
+        "replies": [
+          {
+            "id": "2119326982483702105",
+            "author": {
+              "name": "Karam Yadav 2.0💛",
+              "username": "KaramD_2",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2028497026355499010/UDIyjJOP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/KaramD_2.jpg"
+            },
+            "text": "@AjitYadav260 ये नहीं थी दूसरी थी",
+            "created_at": "2026-11-08T07:11:42.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 113
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119312452873777547",
+            "author": {
+              "name": "Ajit Yadav",
+              "username": "AjitYadav260",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2043572102855524352/CjRP4eXN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/AjitYadav260.jpg"
+            },
+            "text": "@Ankit_Voicee यही इसकी बाबू है जो हर जगह कहता था मेरी बाबू ने ये कहा वो कहा है 🤣",
+            "created_at": "2026-11-08T06:13:58.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 90
+            },
+            "in_reply_to_id": "2119301606990856327"
+          },
+          {
+            "id": "2119297508509733259",
+            "author": {
+              "name": "Meghna Jain",
+              "username": "meghajain1113",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2100308804047167489/ulU2xIcu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/meghajain1113.jpg"
+            },
+            "text": "@cutesneha57 @AjitYadav260 Ye socho paisa ladke k paas aaya ladki k paas aata to kisi or k sath bhag jati..... Ladke nahi badlete usi ka example h ye..... Baki ladkiyo neto paise k liye pata nahi kyabkya badla h",
+            "created_at": "2026-11-08T05:14:35.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2119290124320268610"
+          },
+          {
+            "id": "2119255444376244304",
+            "author": {
+              "name": "Nunu",
+              "username": "Dreams_realites",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2098583551646244865/Vm5z7UDG_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Dreams_realites.jpg"
+            },
+            "text": "@AjitYadav260 बहुत ही अच्छा लगा",
+            "created_at": "2026-11-08T02:27:26.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 45
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119327108908687606",
+            "author": {
+              "name": "Ajit Yadav",
+              "username": "AjitYadav260",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2043572102855524352/CjRP4eXN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/AjitYadav260.jpg"
+            },
+            "text": "@KaramD_2 शादी इसी से किया है कल",
+            "created_at": "2026-11-08T07:12:12.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 93
+            },
+            "in_reply_to_id": "2119326982483702105"
+          },
+          {
+            "id": "2119315330279621118",
+            "author": {
+              "name": "Abdul Jabbar",
+              "username": "SagriAbdul",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1987457748272029696/_B3rpcwa_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/SagriAbdul.jpg"
+            },
+            "text": "@AjitYadav260 बहुत बिडिया किया भाई ने",
+            "created_at": "2026-11-08T06:25:24.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119314646201156005",
+            "author": {
+              "name": "AMIT Yadav",
+              "username": "amitsocialist11",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1928412458009382912/qMyK0psg_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/amitsocialist11.jpg"
+            },
+            "text": "@AjitYadav260 Congratulations",
+            "created_at": "2026-11-08T06:22:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 24
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119312672789553442",
+            "author": {
+              "name": "Ankit Yadavv",
+              "username": "Ankit_Voicee",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2094424501492797440/acVElt9R_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Ankit_Voicee.jpg"
+            },
+            "text": "@AjitYadav260 बाबू गांव मार देगी इसकी अब देखते रहिए",
+            "created_at": "2026-11-08T06:14:50.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 9
+            },
+            "in_reply_to_id": "2119312452873777547"
+          },
+          {
+            "id": "2119301606990856327",
+            "author": {
+              "name": "Ankit Yadavv",
+              "username": "Ankit_Voicee",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2094424501492797440/acVElt9R_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Ankit_Voicee.jpg"
+            },
+            "text": "@AjitYadav260 ये पागल है इसकी यही हरकतों की वजह से",
+            "created_at": "2026-11-08T05:30:52.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 94
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119297252699365661",
+            "author": {
+              "name": "Meghna Jain",
+              "username": "meghajain1113",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2100308804047167489/ulU2xIcu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/meghajain1113.jpg"
+            },
+            "text": "@Nutantiwari339 @AjitYadav260 Shadi k baad khushali kaha milti h",
+            "created_at": "2026-11-08T05:13:34.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2119267611037118612"
+          },
+          {
+            "id": "2119290124320268610",
+            "author": {
+              "name": "Sneha",
+              "username": "cutesneha57",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2102583947129741312/kfit9nKb_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/cutesneha57.jpg"
+            },
+            "text": "@AjitYadav260 ये हैं पैसा आते ही बाबू नहीं बदला वर्ना लड़कों का फ़ितरत हैं कि पैसा आते ही बाबू बदल देते हैं",
+            "created_at": "2026-11-08T04:45:14.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 109
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119274849575240175",
+            "author": {
+              "name": "Omkar Yadav",
+              "username": "Omkaryadavup",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1962737650366119936/mRIDSzn-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Omkaryadavup.jpg"
+            },
+            "text": "@AjitYadav260 सराहनीय कार्य है अपने बाबू से शादी करने में ही भलाई है \n\nवरना दूसरे की बाबू आएगी तो जीवन नर्क बना देगी🤭",
+            "created_at": "2026-11-08T03:44:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 121
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119273751401623955",
+            "author": {
+              "name": "Jamil Ansari",
+              "username": "jamil2832",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1883187977381187584/0rxgiiLW_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/jamil2832.jpg"
+            },
+            "text": "@AjitYadav260 बाबू bahiya को शादी का बहुत बहुत मुबारक बाद",
+            "created_at": "2026-11-08T03:40:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 42
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119273206892880115",
+            "author": {
+              "name": "Jeetendra Rana",
+              "username": "ranajeetendra4",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2098272786494189568/rf_aCeMk_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/ranajeetendra4.jpg"
+            },
+            "text": "@AjitYadav260 बिज़नस माइंडेड है लड़की",
+            "created_at": "2026-11-08T03:38:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 42
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119270193482670572",
+            "author": {
+              "name": "Kavya",
+              "username": "Kavyamishra93",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2107010991980740608/hSIvikHR_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Kavyamishra93.jpg"
+            },
+            "text": "@AjitYadav260 कुंभ के मेले में नीम का दातुन बेचकर बहुत पैसे कमाए",
+            "created_at": "2026-11-08T03:26:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 81
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119267611037118612",
+            "author": {
+              "name": "Nutan tiwari",
+              "username": "Nutantiwari339",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118184843859353600/2yCCPDVL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Nutantiwari339.jpg"
+            },
+            "text": "@AjitYadav260 गर्ल फ्रेंड हो ऐसी जिसने एक बेरोजगार लड़के को बिना बजट के रोजगार के बारे में ऐसा तरीका बताया कि वह इतना अमीर हो गया।\nअब इन का जीवन बहुत ही खुशहाल रहे।",
+            "created_at": "2026-11-08T03:15:47.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 164
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119265793590628707",
+            "author": {
+              "name": "Subhajit Das",
+              "username": "SantaniSubhajit",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1963221242754019328/JA_H2teZ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/SantaniSubhajit.jpg"
+            },
+            "text": "@AjitYadav260 The meeting that started with hard work has today turned into a beautiful relationship of marriage. Best wishes to both of you for a happy married life.",
+            "created_at": "2026-11-08T03:08:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 75
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119264780431294844",
+            "author": {
+              "name": "Santoshi Pal",
+              "username": "Santoshi_P_",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2107689227442139137/CJAymeTk_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Santoshi_P_.jpg"
+            },
+            "text": "@AjitYadav260 अच्छा किया दोनों ने शादी कर ली है। ये भी कुंभ मेले में खूब फेमस हुए थे।",
+            "created_at": "2026-11-08T03:04:32.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 108
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119259344915382374",
+            "author": {
+              "name": "Manish Yadav",
+              "username": "itsmanish80",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1838836383860846592/s_cZveqV_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/itsmanish80.jpg"
+            },
+            "text": "@AjitYadav260 चलो अच्छी बात है इतना फेमस होने के बाद अपने बाबू को छोड़ नहीं है, वरना लोगों का दिमाग खराब हो जाता है",
+            "created_at": "2026-11-08T02:42:56.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 64
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119258048602734946",
+            "author": {
+              "name": "Dilip Damor Damor",
+              "username": "DilipDamorDamo1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2081930281624461312/UXS0kY8o_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/DilipDamorDamo1.jpg"
+            },
+            "text": "@AjitYadav260 बाबू भैया को शादी करने के लिए बहुत-बहुत बधाई इसीलिए तो कहते हैं एक व्यक्ति के पीछे किसी महिला का हाथ होता है वही हुआ",
+            "created_at": "2026-11-08T02:37:47.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 74
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119256830081970343",
+            "author": {
+              "name": "Ishika",
+              "username": "ishika_2995",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2096569440217583616/vpem1tp9_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/ishika_2995.jpg"
+            },
+            "text": "@AjitYadav260 Chalo ganga maa ne inko sath la diya hai",
+            "created_at": "2026-11-08T02:32:56.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 63
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119256134737678710",
+            "author": {
+              "name": "its Queen 🦋🦋",
+              "username": "YourAnchalX",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2101611849326501888/xqwec_EE_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/YourAnchalX.jpg"
+            },
+            "text": "@AjitYadav260 यह सच में शादी है या कोईप्रैंक",
+            "created_at": "2026-11-08T02:30:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 32
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119256011966193993",
+            "author": {
+              "name": "ABKASH YADAV",
+              "username": "abkashyadav",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2080727396626677760/YGgX0Ff1_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/abkashyadav.jpg"
+            },
+            "text": "@AjitYadav260 बहुत ही अच्छा किया शादी कर लिया।",
+            "created_at": "2026-11-08T02:29:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 24
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119251385703338313",
+            "author": {
+              "name": "Pintu Fauzdar",
+              "username": "PintuFauzdar_",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1941036978721435648/H4jtS39O_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/PintuFauzdar_.jpg"
+            },
+            "text": "@AjitYadav260 दातुन बाॅय ने अपनी बाबू से शादी कर लिया बधाई हो दोनों को शुभकामनाएं।",
+            "created_at": "2026-11-08T02:11:18.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 71
+            },
+            "in_reply_to_id": "2119234084899803326"
+          },
+          {
+            "id": "2119251212629594243",
+            "author": {
+              "name": "Gurdayal Singh",
+              "username": "Gurdayal_1984",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1337931181334020096/imwJW043_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/avatars/Gurdayal_1984.jpg"
+            },
+            "text": "@AjitYadav260 बताया तो जा रहा है की शादी के बाद उन्हें परेशान किया जा रहा है",
+            "created_at": "2026-11-08T02:10:37.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 97
+            },
+            "in_reply_to_id": "2119234084899803326"
+          }
+        ],
+        "content_sha": "8a4fe650cfabb93dcdddfb8df1cba55829f03fc5"
+      },
+      "cluster_id": "cfd0437741e6b118",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4991,33 +4941,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "0b8fc25dcd13fc71",
-      "url": "https://variety.com/2026/film/news/u2-the-edge-sequel-elf-andy-richter-1236942164/",
-      "title_en": "U2's The Edge Wrote an 'Elf' Sequel",
-      "title_zh": "U2 的 The Edge 写了“精灵”续集",
-      "summary_en": "According to Andy Richter, U2’s the Edge penned a script for a sequel to “Elf” — but fans will likely never get to see (or read) it.",
-      "summary_zh": "根据安迪·里克特 (Andy Richter) 的说法，U2 的 the Edge 为《精灵》的续集撰写了剧本，但粉丝们可能永远不会看到（或读到）它。",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/vUXkbIZJDooTP_W053Ml4Q1KAi6jellyo6Kepr7ZJGs.jpeg?width=640&crop=smart&auto=webp&s=ea5ddc787ee117784c9b6ca9eb12eb3be679c4bd",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T08:09:21+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "0b8fc25dcd13fc71",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 217,
-      "reddit_comments": 55,
-      "reddit_id": "t3_1xqkv3t"
-    },
-    {
       "id": "d31b43c549d4b744",
       "url": "https://www.republicworld.com/global-news/multiple-blasts-rock-qeshm-island-and-jask-port-amid-strait-of-hormuz-tensions-2026-11-08-140645",
       "title_en": "Multiple Blasts Rock Qeshm Island And Jask Port Amid Strait Of Hormuz Tensions",
@@ -5038,30 +4961,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d31b43c549d4b744",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e3b84174f69f9218",
-      "url": "https://www.republicworld.com/global-news/earthquake-of-57-magnitude-jolts-central-japan-2026-11-07-140643",
-      "title_en": "Japan Hit By Early Morning Earthquake, PM Takaichi Confirms No Tsunami Risk",
-      "title_zh": "日本清晨发生地震，首相高市确认无海啸风险",
-      "summary_en": "A strong earthquake struck central Japan early Sunday, with upper 5 shaking in Chita City, Aichi, leading to the announcement of no tsunami warning but a call for vigilance against aftershocks.",
-      "summary_zh": "周日早些时候，日本中部发生强烈地震，爱知县知多市发生上层5级地震，导致日本发布无海啸警报，但呼吁警惕余震。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/07/earthquake-in-new-zealand-1784202318448-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "日本",
-      "published_at": "2026-11-08T07:35:41+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "e3b84174f69f9218",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -5114,33 +5013,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "a11c3f72bc660960",
-      "url": "https://dailynorthwestern.com/2026/11/05/campus/mass-bird-collision-at-kellogg-global-hub-sparks-calls-for-safety-upgrades/",
-      "title_en": "Bird collisions at Kellogg Global Hub spark calls for change",
-      "title_zh": "家乐氏全球中心的鸟类碰撞事件引发变革呼吁",
-      "summary_en": "When she arrived at Northwestern’s Kellogg Global Hub on Oct. 17, Holly Greenberg discovered several birds on the ground, with more continuously crashing into the building then dropping to her feet. “When I held the dead ones, I thought, ‘For sure, they are just asleep. There’s no way this little bird is not with us....",
-      "summary_zh": "10 月 17 日，当霍莉·格林伯格 (Holly Greenberg) 抵达西北大学凯洛格全球中心时，她发现地上有几只鸟，更多的鸟不断撞向大楼，然后落在她的脚下。 “当我抱着死去的鸟时，我想，‘当然，它们只是睡着了。这只小鸟不可能不和我们在一起......",
-      "translation_status": "fallback",
-      "image": "https://dailynorthwestern.com/wp-content/uploads/2026/11/IMG_2464.jpeg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T06:57:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "a11c3f72bc660960",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 64,
-      "reddit_comments": 4,
-      "reddit_id": "t3_1xqjcbd"
-    },
-    {
       "id": "eab1da14a336107a",
       "url": "https://www.republicworld.com/global-news/drone-strike-hits-military-base-in-northern-colombia-3-soldiers-killed-and-8-injured-2026-11-07-140640",
       "title_en": "Drone Strike Hits Military Base In Northern Colombia, Killing 3 Soldiers And Injuring 8",
@@ -5165,110 +5037,6 @@
       "cluster_id": "eab1da14a336107a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "783ebcf79dfb22ef",
-      "url": "https://www.republicworld.com/global-news/trump-offers-ufc-boss-dana-white-the-white-house-press-secretary-job-after-two-departures-2026-11-07-140639",
-      "title_en": "Trump Offers UFC Boss Dana White The White House Press Secretary Job After Two Departures",
-      "title_zh": "特朗普在两次离职后向 UFC 老板达纳·怀特 (Dana White) 提供白宫新闻秘书职位",
-      "summary_en": "Donald Trump has offered UFC Chief Dana White the White House press secretary job and asked him to bring UFC fighters to help defend against the Lunatic Left.",
-      "summary_zh": "唐纳德·特朗普 (Donald Trump) 向 UFC 主席达纳·怀特 (Dana White) 提供了白宫新闻秘书的职位，并要求他带来 UFC 战士来帮助抵御疯狂左派。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/trump-offers-ufc-boss-dana-white-the-white-house-press-secretary-job-after-two-departures-1794089407278-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-08T06:10:13+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "783ebcf79dfb22ef",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b659c26221d52c68",
-      "url": "https://www.timesnownews.com/world/us/us-news/nvidia-ceo-jensen-huang-chinese-spy-romance-congress-probe-us-midterm-results-article-156481021",
-      "title_en": "Nvidia CEO Jensen Huang's 'Chinese Spy Romance' Sparks Congressional Probe Threat",
-      "title_zh": "英伟达首席执行官黄仁勋的“中国间谍恋情”引发国会调查威胁",
-      "summary_en": "Both Jensen Huang and Nvidia deny any wrongdoing, asserting no sensitive information was shared, US News, Times Now",
-      "summary_zh": "黄仁勋和英伟达都否认有任何不当行为，声称没有共享任何敏感信息，《美国新闻》、《Times Now》",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156481020,thumbsize-68232,width-1280,height-720,resizemode-75/156481020.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "中国",
-      "published_at": "2026-11-08T05:56:07+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "b659c26221d52c68",
-      "cluster_item_count": 3,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a6b6e380d26c3b3b",
-      "url": "https://www.counton2.com/news/local-news/child-6-left-alone-outside-west-ashley-target-so-dad-could-purchase-pokemon-cards-police/",
-      "title_en": "Child, 6, left alone outside West Ashley Target so dad could purchase Pokémon cards: police",
-      "title_zh": "警方：6岁的孩子独自留在West Ashley Target外，以便爸爸可以购买神奇宝贝卡",
-      "summary_en": "",
-      "summary_zh": "警方：6岁的孩子独自留在West Ashley Target外，以便爸爸可以购买神奇宝贝卡",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-08T05:37:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "a6b6e380d26c3b3b",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
-      "reddit_score": 893,
-      "reddit_comments": 144,
-      "reddit_id": "t3_1xqhmzy"
-    },
-    {
-      "id": "2688cf8e9b82ef0e",
-      "url": "https://www.news.com.au/technology/motoring/on-the-road/melbourne-hoons-hire-camera-crews-to-film-dangerous-stunts-on-major-freeways/news-story/7389a64f20972a2a780867e088e4b135",
-      "title_en": "Melbourne hoons hire camera crews to film dangerous stunts on major freeways.",
-      "title_zh": "墨尔本的恶棍雇佣摄制组在主要高速公路上拍摄危险的特技。",
-      "summary_en": "Melbourne’s hoon culture has reached a brazen new level, with reckless drivers now hiring dedicated videographers to treat public roads like a private movie set.",
-      "summary_zh": "墨尔本的胡恩文化已经达到了一个大胆的新水平，鲁莽的司机现在雇佣专门的摄像师将公共道路当作私人电影布景。",
-      "translation_status": "fallback",
-      "image": "https://content.api.news/v3/images/bin/bfbc6955860ebdc2cd5b8a27a331113f",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "澳大利亚",
-      "published_at": "2026-11-08T05:02:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "影视神剧"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "2688cf8e9b82ef0e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 197,
-      "reddit_comments": 41,
-      "reddit_id": "t3_1xqgulo"
     },
     {
       "id": "a3e3a18a1a54c09f",
@@ -5465,85 +5233,6 @@
       "cluster_id": "7dece834fae91673",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "d54b91f7bf91a652",
-      "url": "https://allthatsinteresting.com/freddy-geas",
-      "title_en": "How Freddy Geas Murdered One Of History’s Most Notorious Mobsters — From Behind Bars",
-      "title_zh": "弗雷迪·吉斯 (Freddy Geas) 如何在监狱里谋杀历史上最臭名昭著的黑帮之一",
-      "summary_en": "Collier County Sheriff Freddy Geas, the Mafia enforcer who killed Whitey Bulger at a West Virginia prison in 2018. In the early morning hours of Oct. 30, 2018, Freddy Geas crept into a prison cell at the United States Penitentiary, Hazelton in West Virginia. He was armed with a padlock and a shiv — and he used them to kill one of history’s most notorious mobsters.",
-      "summary_zh": "科利尔县警长 Freddy Geas，2018 年在西弗吉尼亚州一所监狱杀害 Whitey Bulger 的黑手党执法者。2018 年 10 月 30 日凌晨，Freddy Geas 潜入西弗吉尼亚州黑兹尔顿美国监狱的一间牢房。他手持挂锁和刀，并用它们杀死了历史上最臭名昭著的暴徒之一。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/11/freddy-geas-alongside-whitey-finally-gets-whacked-headline-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "美国",
-      "published_at": "2026-11-08T03:00:41+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "d54b91f7bf91a652",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "751583ab578911cd",
-      "url": "https://www.theregister.com/public-sector/2026/11/06/us-air-traffic-control-enters-the-21st-century-starts-to-abandon-floppy-disks/5308210",
-      "title_en": "US air traffic control enters the 21st century, starts to abandon floppy disks",
-      "title_zh": "美国空管进入21世纪，开始放弃软盘",
-      "summary_en": "The FAA will need to come up with more money to finish the wider overhaul, though",
-      "summary_zh": "不过，美国联邦航空局将需要拿出更多资金来完成更广泛的改革",
-      "translation_status": "fallback",
-      "image": "https://image.theregister.com/250038.jpg?imageId=250038&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T02:54:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "5f868cd1d612e94c",
-      "cluster_item_count": 3,
-      "cluster_source_count": 1,
-      "reddit_score": 194,
-      "reddit_comments": 26,
-      "reddit_id": "t3_1xqdwlh"
-    },
-    {
-      "id": "8a8f9eba0c7b81d7",
-      "url": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/",
-      "title_en": "Vibrating mattress helps clear Alzheimer’s protein from the brain",
-      "title_zh": "振动床垫有助于清除大脑中的阿尔茨海默病蛋白质",
-      "summary_en": "",
-      "summary_zh": "振动床垫有助于清除大脑中的阿尔茨海默病蛋白质",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-08T02:39:07+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "8a8f9eba0c7b81d7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 870,
-      "reddit_comments": 66,
-      "reddit_id": "t3_1xo5zg2"
     },
     {
       "id": "fe5d2744aa33311e",
@@ -6078,30 +5767,6 @@
       "source_region": "印度",
       "cluster_id": "11c5af5bfb4c9a51",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "62c45c72013c66d9",
-      "url": "https://redteamdaily.com/story/openssh-emergency-fix-for-flaw-letting-long-passwords-bypass-ssh-login-ed6e1319",
-      "title_en": "OpenSSH emergency fix for flaw letting long passwords bypass SSH login on Alpine Linux",
-      "title_zh": "OpenSSH 紧急修复了允许长密码绕过 Alpine Linux 上 SSH 登录的缺陷",
-      "summary_en": "Some Alpine Linux servers running the standard openssh-server package can be breached by an attacker with network access, an account name and a password between 257 and 1,024 bytes long. The flaw lets them log in to accounts with no password, such as SSH key-only accounts. OpenSSH rates it critical",
-      "summary_zh": "一些运行标准 openssh-server 软件包的 Alpine Linux 服务器可能会被具有网络访问权限、帐户名和密码长度在 257 到 1,024 字节之间的攻击者攻破。该缺陷使他们可以登录没有密码的帐户，例如仅使用 SSH 密钥的帐户。 OpenSSH 对其评价至关重要",
-      "translation_status": "fallback",
-      "image": "https://redteamdaily.com/story/openssh-emergency-fix-for-flaw-letting-long-passwords-bypass-ssh-login-ed6e1319/opengraph-image?3ddd0fd7380d7109",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-08T00:13:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "62c45c72013c66d9",
-      "cluster_item_count": 1,
       "cluster_source_count": 1
     }
   ]

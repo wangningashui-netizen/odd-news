@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "timezone": "Asia/Shanghai",
-  "count": 7,
+  "count": 2,
   "items": [
     {
       "id": "f64fb8d8eba62490",
@@ -48,127 +48,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "de9f22ca03506ac9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "15ad6b98af73ad24",
-      "url": "https://allthatsinteresting.com/cliff-house-san-francisco",
-      "title_en": "The Dramatic History Of San Francisco’s Cliff House, The Beloved Estate That Survived The 1906 Earthquake And A Sailboat Full Of Dynamite",
-      "title_zh": "旧金山悬崖屋的戏剧性历史，这座在 1906 年地震和一艘装满炸药的帆船中幸存下来的受人喜爱的庄园",
-      "summary_en": "USC Libraries Special Collections San Francisco’s Cliff House has long overlooked the Pacific. In the mid-19th century, San Francisco was a boomtown flush with wealth after the Gold Rush. Real estate developers, looking to capitalize on the city’s good fortunes, built San Francisco’s Cliff House in 1863, a luxurious resort at Lands End with stunning views of the Pacific Ocean. But, like the city of San Francisco itself, the fortunes of the Cliff House would ebb and flow over the years.",
-      "summary_zh": "南加州大学图书馆特藏 旧金山的悬崖屋长期以来一直俯瞰着太平洋。 19 世纪中叶，旧金山在淘金热之后成为了一座充满财富的新兴城市。房地产开发商希望利用这座城市的好运，于 1863 年建造了旧金山悬崖屋 (Cliff House)，这是位于天涯海角的豪华度假胜地，可欣赏太平洋的壮丽景色。但是，就像旧金山市本身一样，悬崖屋的命运也会潮起潮落。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/san-francisco-cliff-house-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-02T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "15ad6b98af73ad24",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a502880157ca642b",
-      "url": "https://allthatsinteresting.com/norellraptor-barsboldi-discovered",
-      "title_en": "A New Species Of Dinosaur With Four Wings Was Just Identified By Paleontologists In China",
-      "title_zh": "中国古生物学家刚刚鉴定出一种有四翼的恐龙新种",
-      "summary_en": "Mr. Zhao Chuxang Paleontologists studying the Early Cretaceous Jiufotang Formation in northeastern China identified a new microraptor species known as Norellraptor barsboldi . Paleontologists in northeastern China discovered a well-preserved fossil of a tiny dinosaur that lived more than 100 million years ago. Although the creature resembles a bird, this microraptor is unlike anything scientists had ever seen before — and it had four wings.",
-      "summary_zh": "赵楚祥先生在中国东北早白垩世九佛塘组的研究中发现了一种新的小盗龙物种，称为诺雷尔盗龙巴氏盗龙。中国东北的古生物学家发现了一块保存完好的小型恐龙化石，其生活在一亿多年前。尽管这种生物类似于鸟类，但这种小盗龙与科学家以前见过的任何生物都不一样——它有四个翅膀。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-flying-dinosaur-identified-in-china.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "中国",
-      "published_at": "2026-10-02T05:45:39+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "a502880157ca642b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e080d332c9091f3a",
-      "url": "https://www.unilad.com/news/us-news/us-army-remote-viewing-mars-768626-20261001",
-      "title_en": "Former US Army 'psychic spy' claims ancient civilization he 'remote viewed' on Mars may have involved humans",
-      "title_zh": "前美国陆军“通灵间谍”声称他在火星上“远程观察”的古代文明可能与人类有关",
-      "summary_en": "A man involved in a 'remote viewing' project with the US military has spoken about what it was like to use 'remote viewing' to look at Mars. Joe McMoneagle was a member of the US Army who was involved in a project called Project Stargate, which was established back in 1977. This was established to investigate the possibility of using psychic phenomena for military purposes, and would run for 18 years until it was eventually shut down in 1995. 'Remote viewing' was explored at the project, and this is the purported…",
-      "summary_zh": "一名参与美国军方“远程观察”项目的男子讲述了使用“远程观察”观察火星的感觉。乔·麦克蒙伊格尔 (Joe McMoneagle) 是美国陆军的一名成员，他参与了一个名为“星际之门”的项目，该项目成立于 1977 年。该项目的成立是为了研究将心灵现象用于军事目的的可能性，并运行了 18 年，直到最终于 1995 年关闭。“远程观看”的探索是在",
-      "translation_status": "fallback",
-      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHRkZjhkYTk2MzQ2ZjA1MDU2LzZhYmViNjBiMTA0MDY3MzQ5MTc0ZmQ3Yy9TY3JlZW5zaG90XzIwMjYtMTAtMDFfYXRfMTAuMTIuMTgucG5n.jpg",
-      "image_checked": true,
-      "source": "UNILAD Weird",
-      "source_id": "unilad-weird",
-      "region": "英国",
-      "published_at": "2026-10-02T03:52:00+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00",
-      "tags": [
-        "军事政治",
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "e080d332c9091f3a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "64d7c338a2400608",
-      "url": "https://allthatsinteresting.com/magic-bullet-theory",
-      "title_en": "Why The Magic Bullet Theory Surrounding John F. Kennedy’s Assassination Is So Controversial",
-      "title_zh": "为什么围绕约翰·F·肯尼迪遇刺的“灵丹妙药”理论如此有争议",
-      "summary_en": "There are countless conspiracy theories surrounding the assassination of President John F. Kennedy in 1963: Lee Harvey Oswald didn’t act alone. The CIA orchestrated the incident. Fidel Castro ordered the president’s death.",
-      "summary_zh": "围绕 1963 年约翰·F·肯尼迪总统遇刺事件有无数阴谋论：李·哈维·奥斯瓦尔德并非单独行动。中央情报局精心策划了这起事件。菲德尔·卡斯特罗下令处死总统。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2019/09/magic-bullet-trajectory-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-02T02:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "64d7c338a2400608",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8d80b89a7fb3841d",
-      "url": "https://allthatsinteresting.com/elvita-adams",
-      "title_en": "Elvita Adams Jumped From The Empire State Building In 1979 — And May Have Been Saved By A Gust Of Wind",
-      "title_zh": "1979 年，埃尔维塔·亚当斯 (Elvita Adams) 从帝国大厦跳下，可能是被一阵风救了",
-      "summary_en": "JET Magazine Elvita Adams in the emergency room at Bellevue Hospital following her leap from the Empire State Building. On Dec. 2, 1979, 29-year-old Elvita Adams leaped from the observation deck on the 86th floor of the Empire State Building. But she didn’t die.",
-      "summary_zh": "JET 杂志 Elvita Adams 从帝国大厦跳下后在贝尔维尤医院的急诊室。 1979年12月2日，29岁的埃尔维塔·亚当斯从帝国大厦86层的观景台跳下。但她没有死。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/05/elvita-adams-alongside-newspaper-article-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-02T00:00:48+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "健康医疗"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8d80b89a7fb3841d",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

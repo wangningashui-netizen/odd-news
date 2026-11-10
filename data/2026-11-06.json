@@ -1,35 +1,8 @@
 {
   "date": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "count": 180,
+  "count": 110,
   "items": [
-    {
-      "id": "845296458de0292b",
-      "url": "https://soranews24.com/2026/11/06/pachinko-parlor-operator-arrested-for-not-obscuring-the-act-of-gambling-well-enough/?ICID=ref_fark",
-      "title_en": "Pachinko parlor operator arrested for not obscuring the act of gambling well enough",
-      "title_zh": "弹珠机店经营者因未充分掩盖赌博行为而被捕",
-      "summary_en": "If you’re going to do wrong, do wrong right.",
-      "summary_zh": "如果你要做错事，那就把错事做对。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/gsugamorise5.jpg.jpeg?w=1200&amp;h=630&amp;crop=1",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-06T23:59:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "3567a8d0e9f513dd",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
-      "reddit_score": 347,
-      "reddit_comments": 10,
-      "reddit_id": "t3_1xpgdxh"
-    },
     {
       "id": "72a66f446ae70b61",
       "url": "https://www.timesnownews.com/videos/times-now/shows/understanding-the-family-dispute-within-the-tvs-group-video-156475819",
@@ -51,58 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "72a66f446ae70b61",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "24b208af281f9a27",
-      "url": "https://indepthnh.org/2026/11/02/pelham-man-impersonated-u-s-supreme-court-justice-to-scam-mom-and-aunt/?ICID=ref_fark",
-      "title_en": "Pelham Man Impersonated U.S. Supreme Court Justice To Scam Mom and Aunt",
-      "title_zh": "佩勒姆·曼冒充美国最高法院法官诈骗妈妈和阿姨",
-      "summary_en": "Jason Taylor took $68,000 from his mom over the course of about five years, and $191,000 from his aunt and uncle in an intricate and somewhat incoherent scheme.",
-      "summary_zh": "贾森·泰勒在大约五年的时间里从他妈妈那里拿走了 68,000 美元，从他的姨妈和叔叔那里拿走了 191,000 美元，这是一个复杂且有些不连贯的计划。",
-      "translation_status": "fallback",
-      "image": "https://indepthnh.org/wp-content/uploads/2026/11/unnamed-57.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "美国",
-      "published_at": "2026-11-06T23:55:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "诈骗骗局"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "24b208af281f9a27",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 72,
-      "reddit_comments": 1,
-      "reddit_id": "t3_1xpga1d"
-    },
-    {
-      "id": "f2b10cffc158794a",
-      "url": "https://fox4kc.com/news/missouri-state-representative-arrested-wednesday-after-being-reelected/",
-      "title_en": "Missouri state representative arrested Wednesday after being reelected",
-      "title_zh": "密苏里州代表周三在连任后被捕",
-      "summary_en": "",
-      "summary_zh": "密苏里州代表周三在连任后被捕",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/wyN2RiHZyOdrTXCBH99H2ZpooPkwBZt8qA3m7g4bVEw.png?width=320&crop=smart&auto=webp&s=bbb3b3eaa8526aeeb24a8f0cc89a414e28f7b6af",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T23:54:25+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "f2b10cffc158794a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -129,34 +50,6 @@
       "cluster_id": "d1111bcd65a7f14c",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "db06036ed54c5f25",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/merseyside-man-killed-soulmate-kept-34862920?ICID=ref_fark",
-      "title_en": "Merseyside man killed woman and kept body in freezer for almost three years",
-      "title_zh": "默西塞德郡男子杀害女子并将尸体放在冰箱里近三年",
-      "summary_en": "Delia McInerney was murdered in April 2023",
-      "summary_zh": "迪莉娅·麦金纳尼于 2023 年 4 月被谋杀",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34862932.ece/ALTERNATES/s1200d/0_delia.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-06T23:50:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "db06036ed54c5f25",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 23,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xpg5zc"
     },
     {
       "id": "703dd260f22aea86",
@@ -332,54 +225,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "fe10af2419c41dbf",
-      "url": "https://cowboystatedaily.com/2026/11/05/gigantic-grand-tetons-bull-moose-adopts-young-calf-but-draws-the-line-at-nursing/",
-      "title_en": "Gigantic Grand Teton Bull Moose Adopts Young Calf That Follows Him Like A Puppy",
-      "title_zh": "巨大的大提顿公驼鹿收养了像小狗一样跟随他的小牛犊",
-      "summary_en": "An orphaned moose calf apparently has bonded with a huge bull in Grand Teton, following the bull around like a puppy. Grand Teton wildlife watchers say…",
-      "summary_zh": "在大提顿，一头孤儿驼鹿显然与一头巨大的公牛结下了不解之缘，它像小狗一样跟着公牛走来走去。大提顿野生动物观察者说……",
-      "translation_status": "fallback",
-      "image": "https://cowboystatedaily.imgix.net/Moose-Bull-and-calf-1-11.5.26.jpg?w=1200&amp;q=75&amp;auto=format%2Ccompress",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T22:59:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "fe10af2419c41dbf",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a20798f3d6b0b4d5",
-      "url": "https://www.scientificamerican.com/article/ancient-humans-used-cannabis-in-burial-rituals-2-800-years-ago/",
-      "title_en": "Ancient humans were using cannabis far earlier in history than we thought",
-      "title_zh": "古代人类使用大麻的历史比我们想象的要早得多",
-      "summary_en": "New findings from a Siberian tomb offer the earliest direct evidence for human marijuana use",
-      "summary_zh": "西伯利亚坟墓的新发现为人类吸食大麻提供了最早的直接证据",
-      "translation_status": "fallback",
-      "image": "https://static.scientificamerican.com/dam/asset/4d7b8d3a-c733-426d-8895-325719bc6f22/early-cannabis.jpg?m=1793901801.886&w=1200",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T22:54:34+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "a20798f3d6b0b4d5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "f8087684dfa06874",
       "url": "https://www.republicworld.com/viral/kolkata-youth-blindfolded-doused-with-petrol-and-set-ablaze-over-social-media-reel-3-arrested-2-minors-held-2026-11-06-140568",
       "title_en": "Kolkata Youth Blindfolded, Doused With Petrol And Set Ablaze Over Social Media Reel; 3 Arrested",
@@ -478,6 +323,66 @@
       "cluster_source_count": 1
     },
     {
+      "id": "deca54ba8b960e01",
+      "url": "https://x.com/gujratsamachar/status/2118712529400799241",
+      "title_en": "નોળિયાએ દીપડીને બે ગુલાંટ ખવડાવી દીધી, ડરીને નાસી છૂટી! સુરતની દુર્લભ ઘટના કેમેરામાં કેદ! Surat Mongoose vs Leopard, Indian Grey Mongoose, Leopard Attack Video, Mongoose Chases Leopard, Rare Wildlife Encounter, Surat Viral Video, Gujarat Wildlife News, Mongoose vs Big Cat, Leopard Runs Away, Wildlif",
+      "title_zh": "苏拉特乡下，一只2.5尺獴把猎豹打得翻滚逃窜，罕见对决被摄像头拍下。",
+      "summary_en": "નોળિયાએ દીપડીને બે ગુલાંટ ખવડાવી દીધી, ડરીને નાસી છૂટી! સુરતની દુર્લભ ઘટના કેમેરામાં કેદ!\n\nSurat Mongoose vs Leopard, Indian Grey Mongoose, Leopard Attack Video, Mongoose Chases Leopard, Rare Wildlife Encounter, Surat Viral Video, Gujarat Wildlife News, Mongoose vs Big Cat, Leopard Runs Away, Wildlife Battle Caught on Camera, Rare Animal Fight, Indian Wildlife Video, Forest Wildlife Footage, Nature Viral Video, Gujarat Samachar",
+      "summary_zh": "苏拉特乡下，一只2.5尺獴把猎豹打得翻滚逃窜，罕见对决被摄像头拍下。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-06T22:30:05+08:00",
+      "fetched_at": "2026-11-10T10:12:22+08:00",
+      "tags": [
+        "动物",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2118712529400799241",
+        "lang": null,
+        "text": "નોળિયાએ દીપડીને બે ગુલાંટ ખવડાવી દીધી, ડરીને નાસી છૂટી! સુરતની દુર્લભ ઘટના કેમેરામાં કેદ!\n\nSurat Mongoose vs Leopard, Indian Grey Mongoose, Leopard Attack Video, Mongoose Chases Leopard, Rare Wildlife Encounter, Surat Viral Video, Gujarat Wildlife News, Mongoose vs Big Cat, Leopard Runs Away, Wildlife Battle Caught on Camera, Rare Animal Fight, Indian Wildlife Video, Forest Wildlife Footage, Nature Viral Video, Gujarat Samachar",
+        "author": {
+          "name": "Gujarat Samachar",
+          "username": "gujratsamachar",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1620326720724410369/HRsnrumc_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/avatar.jpg"
+        },
+        "created_at": "2026-11-06T14:30:05.000Z",
+        "public_metrics": {
+          "reply_count": 0,
+          "repost_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "bookmark_count": 1,
+          "impression_count": 2096
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2118711873361317888/vid/avc1/1080x1920/kmclP0zMu2nfcC4K.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:12:22+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/gujratsamachar/status/2118712529400799241",
+        "ytdlp_command": "yt-dlp https://x.com/gujratsamachar/status/2118712529400799241",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/comments.png",
+        "replies": [],
+        "content_sha": "f727b94f33767dda1062ae220a278febd6283917"
+      },
+      "cluster_id": "deca54ba8b960e01",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "f10ce3b55cdc2dc2",
       "url": "https://www.timesnownews.com/videos/times-now/shows/political-tensions-rise-as-digvijay-singh-targets-hindutva-ahead-of-diwali-video-156475493",
       "title_en": "Hindutva Row, Delhi's Chokes, Rahul's Strategy Meet: Political Storm Intensifies | Breaking Ground",
@@ -498,30 +403,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "f10ce3b55cdc2dc2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b1aac65977605bbb",
-      "url": "https://www.ladbible.com/news/crime/stephen-mcdaniel-tv-interview-victims-body-found-realisation-686783-20261106",
-      "title_en": "Shocking moment murderer is told live on air that his victim's body has been found",
-      "title_zh": "令人震惊的时刻，凶手在直播中被告知受害者的尸体已被发现",
-      "summary_en": "A news crew captured the moment that a murderer's mask slipped after he was informed that his victim's body had been found. Stephen McDaniel was sentenced to life in prison in 2014 after he pleaded guilty to brutally killing his 27-year-old neighbour Lauren Giddings three years prior. But he had initially tried to pull the wool over the eyes of police in Macon, Georgia, and posed as a concerned pal - but his facade crumbled live on camera after he found out cops had located part of her dismembered corpse. Take a…",
-      "summary_zh": "新闻工作人员捕捉到了凶手在得知受害者的尸体被发现后，面具滑落的那一刻。斯蒂芬·麦克丹尼尔 (Stephen McDaniel) 承认三年前残忍杀害了 27 岁的邻居劳伦·吉丁斯 (Lauren Giddings)，并于 2014 年被判处终身监禁。但他最初试图蒙蔽佐治亚州梅肯市警察的眼睛，并假扮成一个忧心忡忡的朋友——但当他发现警察已经找到了他的位置后，他的假象在镜头前崩溃了。",
-      "translation_status": "fallback",
-      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHRkNDRmOTc1N2M5OGRmM2NhLzZhZWRlMmY4ZmVlNTNmMzE3NWVmOTFmYi9raWxsZXItdHYucG5n.jpg",
-      "image_checked": true,
-      "source": "LADbible Weird",
-      "source_id": "ladbible-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T22:24:13+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "b1aac65977605bbb",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -602,33 +483,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "501762aae6e1b2aa",
-      "url": "https://www.techtimes.co.uk/north-carolina-man-sues-openai-chatgpt-poisoning-plan-1809764",
-      "title_en": "Man Introduced His Wife to ChatGPT Before She Allegedly Tried to Poison His Energy Drink",
-      "title_zh": "男子在妻子涉嫌试图在他的能量饮料中下毒之前，将他的妻子介绍给 ChatGPT",
-      "summary_en": "James Gates is suing OpenAI and Sam Altman, alleging ChatGPT helped his wife research poisoning methods and concealment. The claims remain unproven, and criminal proceedings are disputed.",
-      "summary_zh": "詹姆斯·盖茨 (James Gates) 正在起诉 OpenAI 和 Sam Altman，指控 ChatGPT 帮助他的妻子研究投毒方法和隐藏手段。这些说法尚未得到证实，刑事诉讼也存在争议。",
-      "translation_status": "fallback",
-      "image": "https://d.techtimes.co.uk/en/full/1820589/chatgpt.png",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T22:03:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "501762aae6e1b2aa",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 23,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xq55ol"
-    },
-    {
       "id": "f9a72e332afbbf78",
       "url": "https://www.republicworld.com/world-news/yemen-market-airstrikes-kill-at-least-20-injure-15-houthis-blame-saudi-led-coalition-amid-conflicting-claims-2026-11-06-140565",
       "title_en": "Yemen Market Airstrikes Kill At Least 20, Injure 15; Houthis Blame Saudi-Led Coalition Amid Conflicting Claims",
@@ -649,55 +503,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "f9a72e332afbbf78",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "1542eda148a4938e",
-      "url": "https://www.fox13news.com/news/faa-finally-phase-out-floppy-disks-from-air-traffic-control-systems-2028",
-      "title_en": "FAA to finally phase out floppy disks from air traffic control systems by 2028",
-      "title_zh": "FAA 最终将于 2028 年在空中交通管制系统中逐步淘汰软盘",
-      "summary_en": "The Federal Aviation Administration says it will need two more years to replace the outdated floppy disks used for weather and other critical information at hundreds of air traffic control facilities nationwide.",
-      "summary_zh": "美国联邦航空管理局表示，还需要两年的时间来更换全国数百个空中交通管制设施用于天气和其他重要信息的过时软盘。",
-      "translation_status": "fallback",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/11/1200/630/1105_getty-floppy-disk-scaled.jpg?ve=1&amp;tl=1",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T22:00:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "5f868cd1d612e94c",
-      "cluster_item_count": 3,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "508707fe0d753461",
-      "url": "https://soranews24.com/2026/11/06/starbucks-japan-unveils-new-winter-drinkware-collection-with-limited-edition-stanley-cups/",
-      "title_en": "Starbucks Japan unveils new winter drinkware collection with limited-edition Stanley cups",
-      "title_zh": "日本星巴克推出全新冬季饮品系列，配有限量版斯坦利杯",
-      "summary_en": "New collection brings warmth and style to tumblers and mugs this winter. When the seasons change in Japan, so too do the limited-edition goods at Starbucks , and this season we’ll be getting a new limited-edition collection just for winter . With icy hues of white and mint green , these items are said to blend easily into any scenario to “softly illuminate your winter days”, and there are six specially designed products to choose from. ▼ Pale White Stanley Stainless Steel Bottle , 473 millilitres (16 ounces) –…",
-      "summary_zh": "新系列为今年冬天的玻璃杯和马克杯带来温暖和时尚。当日本换季时，星巴克的限量版商品也会随之变化，这个季节我们将推出专为冬季打造的全新限量版系列。这些产品具有白色和薄荷绿的冰冷色调，据说可以轻松融入任何场景，“温柔地照亮你的冬日”，并且有六种特别设计的产品可供选择。 ▼ 淡白色 Stanley 不锈钢机器人",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/10/Starbucks-Japan-drinkware-winter-merchandise-limited-edition-exclusive-collection-christmas-stanley-bottle-cup-tumbler-mug-glass-2026-22-e1792984623360.jpeg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-06T22:00:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "508707fe0d753461",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -951,30 +756,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "8af1a3211956e907",
-      "url": "https://mezha.ua/en/news/humanoid-robots-work-24-hour-store-shift-316912/",
-      "title_en": "Shanghai Store Replaces Staff With Six Humanoid Robots for 24 Hours – One Walks Off the Job",
-      "title_zh": "上海店用六台人形机器人24小时替换员工，其中一人下岗",
-      "summary_en": "Chinese company AGIBOT conducted an experiment in which six G2 humanoid robots attempted to work a 24-hour shift at a regular convenience store in Shanghai. The trial was livestreamed for 24 hours, but only four of the machines managed to complete it successfully, TechSpot reports.",
-      "summary_zh": "中国公司AGIBOT进行了一项实验，其中六台G2人形机器人试图在上海一家普通便利店进行24小时轮班工作。据 TechSpot 报道，该试验进行了 24 小时直播，但只有四台机器成功完成了试验。",
-      "translation_status": "fallback",
-      "image": "https://img.mezha.ua/mezha/images/doc/1/4/333343/14c7e83ad7f2da1f3c1a4c35a2b6da0c.jpeg?w=1200&amp;q=85&amp;stamp=1793877891",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "中国",
-      "published_at": "2026-11-06T20:41:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8af1a3211956e907",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "9cd9aa702d6985de",
       "url": "https://www.republicworld.com/world-news/europe-hit-by-fresh-wave-of-bomb-threats-against-flights-triggering-diversions-and-airport-security-checks-2026-11-06-140562",
       "title_en": "Europe Hit By Fresh Wave Of Bomb Threats Against Flights, Triggering Diversions And Airport Security Checks",
@@ -1019,54 +800,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "63b65111ea063fd3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "4b4ca15acb4d9975",
-      "url": "https://www.mirror.co.uk/news/uk-news/richmond-council-fines-man-100-37850901",
-      "title_en": "Richmond Council issues warning after fining man £100 for leaving two bags next to bin",
-      "title_zh": "一名男子因将两个袋子留在垃圾箱旁而被罚款 100 英镑，里士满市议会发出警告",
-      "summary_en": "The council said it was 'serious about tackling fly-tipping'",
-      "summary_zh": "该委员会表示“正在认真解决非法倾倒垃圾问题”",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37850904.ece/ALTERNATES/s615/0_council-fines-m-1630024.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T20:33:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "4b4ca15acb4d9975",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "1a24bef0dec9d204",
-      "url": "https://www.mirror.co.uk/lifestyle/nightmare-before-christmas-arley-hall-37850713",
-      "title_en": "'I dragged my 5 year old son on a 90s nostalgia trip - and it transformed him'",
-      "title_zh": "“我带着 5 岁的儿子进行了一次 90 年代怀旧之旅 - 这改变了他”",
-      "summary_en": "As a once highly-annoying teenage girl of the 90s, I couldn't wait to relive the songs of the Nightmare Before Christmas at Arley Hall's light trail, but my son's reaction was the best part",
-      "summary_zh": "作为一个曾经非常烦人的 90 年代少女，我迫不及待地想在 Arley Hall 的光轨上重温《圣诞节前的噩梦》中的歌曲，但我儿子的反应是最好的部分",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37850846.ece/ALTERNATES/s615/1_TNBC25_AveryBrunkus_200JPG.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T20:32:05+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "1a24bef0dec9d204",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1190,78 +923,6 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "91ba6016275841a9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "67f04a1c018b0afb",
-      "url": "https://www.timesnownews.com/world/asia/magnitude-6-1-earthquake-hits-off-tokyo-japan-article-156474858",
-      "title_en": "Magnitude-6.1 Earthquake Hits Off Tokyo, Japan",
-      "title_zh": "日本东京发生 6.1 级地震",
-      "summary_en": "A magnitude 6.1 earthquake struck off the coast of Tokyo on Friday., Asia, Times Now",
-      "summary_zh": "周五，东京海岸发生里氏 6.1 级地震。, 亚洲, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156474865,thumbsize-45926,width-1280,height-720,resizemode-75/156474865.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "日本",
-      "published_at": "2026-11-06T19:51:54+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "67f04a1c018b0afb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "463ad5b9a46bf64b",
-      "url": "https://www.mirror.co.uk/lifestyle/only-those-sniper-vision-can-37850186",
-      "title_en": "Only those with 'sniper vision' can spot all 9 sunglasses in shop brainteaser",
-      "title_zh": "只有具有“狙击视力”的人才能在商店脑筋急转弯中找到所有 9 个太阳镜",
-      "summary_en": "This brainteaser sunglasses challenge tasks you with finding nine hidden pairs inside a busy shop scene. It's a fun hidden object puzzle that may help give your brain a workout and boost your critical-thinking skills",
-      "summary_zh": "这款脑筋急转弯的太阳镜挑战任务是让您在繁忙的商店场景中找到九副隐藏的太阳镜。这是一个有趣的隐藏物体谜题，可以帮助锻炼您的大脑并提高您的批判性思维能力",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/lifestyle/article37850184.ece/ALTERNATES/s615/3_brainteaser.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T19:42:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "463ad5b9a46bf64b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "dfbf71fb99d8f855",
-      "url": "https://x.com/indiatodayne/status/2118621260423041495?a=LDnOiMblbqmRUswuNrQ&s=46",
-      "title_en": "Arunachal activist and engineer Katon Moyong, popularly known as ‘Abor Man’, criticised the heavy deployment of armed forces in the state, calling the government incompetent for failing to pursue democratic dialogue with China. He also termed the Army’s presence on his land illegal.",
-      "title_zh": "阿鲁纳恰尔邦活动家兼工程师卡顿·莫永（Katon Moyong），俗称“阿布尔人”，批评该邦大量部署武装部队，称政府无能，未能与中国进行民主对话。他还术语",
-      "summary_en": "#Arunachal activist and engineer Katon Moyong, popularly known as ‘Abor Man’, criticised the heavy deployment of armed forces in the state, calling the government incompetent for failing to pursue democratic dialogue with #China. He also termed the Army’s presence on his land illegal.",
-      "summary_zh": "#阿鲁纳恰尔邦活动家兼工程师卡顿·莫永（Katon Moyong），俗称“阿布尔人”，批评该邦大量部署武装部队，称政府无能，未能与#中国进行民主对话。他还称军队在他的土地上的存在是非法的。",
-      "translation_status": "fallback",
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2118620734901944321/img/Hzg10IGeamALxDdv?format=webp&amp;name=large",
-      "image_checked": true,
-      "source": "Reddit r/india",
-      "source_id": "reddit-india",
-      "region": "中国",
-      "published_at": "2026-11-06T19:36:43+08:00",
-      "fetched_at": "2026-11-08T23:16:42+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "dfbf71fb99d8f855",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1416,78 +1077,6 @@
       "cluster_source_count": 2
     },
     {
-      "id": "428fcae41d42c44a",
-      "url": "https://www.republicworld.com/world-news/bus-carrying-kids-to-school-crashes-in-france-leaving-2-dead-and-16-injured-2026-11-06-140552",
-      "title_en": "Bus Carrying Kids to School Crashes in France, Leaving 2 Dead and 16 Injured",
-      "title_zh": "法国一辆载着孩子上学的巴士发生翻车事故，造成2人死亡、16人受伤",
-      "summary_en": "Two people, including a minor, were killed and 16 others injured after an intercity bus carrying schoolchildren crashed near Lent in eastern France. Three injured passengers are in serious condition. Emergency services rushed to the scene as authorities began investigating the accident.",
-      "summary_zh": "一辆载有学童的城际巴士在法国东部四旬斋附近坠毁，造成两人死亡，包括一名未成年人，另有 16 人受伤。三名受伤乘客伤势严重。当当局开始调查事故时，紧急服务人员赶到现场。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/france-school-bus-crash-kills-2-including-minor-leaves-16-injured-1793962759759-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "法国",
-      "published_at": "2026-11-06T18:59:25+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "428fcae41d42c44a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "9ddc8efa8814e2db",
-      "url": "https://www.dailystar.co.uk/news/uk-news/mitre-unveiled-ball-fa-cup-37850181",
-      "title_en": "Mitre has unveiled the ball for the FA Cup and launched a nationwide football pairs competition",
-      "title_zh": "米特雷发布足总杯用球并启动全国足球双人赛",
-      "summary_en": "The What Do You Call It? tournament, hosted by Tom Garratt and Olivia Buzaglo, will see teams of two compete to be crowned the nation’s top pairing in the men’s and women’s game, with regional rounds culminating in a Grand Final.",
-      "summary_zh": "你叫它什么？锦标赛由汤姆·加勒特 (Tom Garratt) 和奥利维亚·布扎格洛 (Olivia Buzaglo) 主持，两人组成的队伍将在男子和女子比赛中争夺全国顶级组合的桂冠，地区赛的最后一场是总决赛。",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37850091.ece/ALTERNATES/s615/0_Screenshot-2026-11-06-at-101826.png",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T18:45:09+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "9ddc8efa8814e2db",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ccce2fa0b8e45eea",
-      "url": "https://www.mirror.co.uk/lifestyle/food-drink/food-expert-urges-everyone-uk-37850027",
-      "title_en": "Food expert urges everyone in UK to create 15-item emergency food supply kit to keep at home - list",
-      "title_zh": "食品专家敦促英国每个人制作包含 15 件物品的应急食品供应包并放在家里 - 清单",
-      "summary_en": "Nutritional experts have give a list of 15 foods people should ‘buy now’ to prepare for emergencies",
-      "summary_zh": "营养专家列出了人们应该“立即购买”以应对紧急情况的 15 种食品清单",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37850100.ece/ALTERNATES/s615/0_GettyImages-1479100289.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T18:38:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "ccce2fa0b8e45eea",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "366b06fd36bffa04",
       "url": "https://www.timesnownews.com/education/mpsc-paper-leak-row-inquiry-commission-invites-affidavits-from-candidates-last-date-november-16-article-156474441",
       "title_en": "MPSC Paper Leak Row: Inquiry Commission Invites Affidavits From Candidates, Last Date November 16",
@@ -1609,54 +1198,6 @@
       "cluster_source_count": 3
     },
     {
-      "id": "b6f1f132938596d8",
-      "url": "https://www.mirror.co.uk/lifestyle/food-drink/american-says-full-english-breakfast-37849642",
-      "title_en": "American says his full English breakfast is 'hard to beat' but there's problem",
-      "title_zh": "美国人说他的全套英式早餐“无与伦比”，但有问题",
-      "summary_en": "When an American man snapped a quick picture of the full English he was about to devour in a gorgeous setting, he didn't know that Brits everywhere were about to pile on him",
-      "summary_zh": "当一名美国人在华丽的环境中拍下一张他即将狼吞虎咽的完整英语的快速照片时，他不知道世界各地的英国人都将向他涌来",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.irishmirror.ie/news/world-news/article37231968.ece/ALTERNATES/s615/0_Homemade-Full-English-Breakast-with-Eggs-Sausage-Ham-Tomato-Mushrooms-and-Beans.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T18:22:24+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "b6f1f132938596d8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "32891c2dd3669b4b",
-      "url": "https://news.fiu.edu/2026/mosquitoes-are-picky-eaters-we-studied-3-common-south-florida-species-to-learn-why-they-like-some-people-more-than-others",
-      "title_en": "Mosquitoes are picky eaters – we studied 3 common South Florida species to learn why they like some people more than others",
-      "title_zh": "蚊子很挑食——我们研究了南佛罗里达州的 3 种常见蚊子，以了解为什么它们更喜欢某些人而不是其他人",
-      "summary_en": "A new study shows which microbes and odors on human skin appeal to different species of mosquitoes.",
-      "summary_zh": "一项新的研究表明，人类皮肤上的哪些微生物和气味会吸引不同种类的蚊子。",
-      "translation_status": "fallback",
-      "image": "https://res.cloudinary.com/digicomm/image/upload/t_metadata/news-magazine/2026/_assets/file-20260902-70-erdprh.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "美国",
-      "published_at": "2026-11-06T18:12:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "32891c2dd3669b4b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "fd98360a0bcfaf9e",
       "url": "https://www.timesnownews.com/bengaluru/bengaluru-mass-murder-daughter-suspected-of-helping-father-kill-wife-six-relatives-article-156474155",
       "title_en": "Bengaluru's 7-Member Family Massacre: Daughter Suspected Of Helping Father Execute Plan",
@@ -1732,54 +1273,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "5edc07c80ddc2568",
-      "url": "https://metro.co.uk/2026/11/06/man-sleeps-thousands-bedbugs-science-29770892/",
-      "title_en": "The man who sleeps with thousands of bedbugs for science",
-      "title_zh": "为了科学而与数千只臭虫一起睡觉的人",
-      "summary_en": "He straps some of his 60,000 bugs to his arm and works while they suck his blood (Picture: SWNS) A scientist studies bed bugs by sleeping with thousands of them in a laboratory at the bottom of his garden. Entomologist Dr Richard Naylor, 45, breeds the insects to test pest control products from all over the world. During a ‘feeding day’ twice a week, he straps some of his 60,000 bugs to his arm and works while they suck his blood. He then sleeps with them on nights when he needs to test out new devices or…",
-      "summary_zh": "他将 60,000 只臭虫中的一些绑在手臂上，让它们在吸他的血的同时工作（图片来源：SWNS）一名科学家在自家花园底部的实验室里与数千只臭虫一起睡觉来研究臭虫。 45 岁的昆虫学家理查德·内勒 (Richard Naylor) 博士培育这些昆虫，以测试来自世界各地的害虫防治产品。在每周两次的“喂食日”，他将 60,000 只虫子中的一些绑在手臂上，在它们吸他的血的同时工作。然后，当他需要时，他会在晚上和他们一起睡觉。",
-      "translation_status": "fallback",
-      "image": "https://metro.co.uk/wp-content/uploads/2026/11/SEI_319637204-b046.jpg?quality=90&strip=all&w=646",
-      "image_checked": true,
-      "source": "Metro Weird",
-      "source_id": "metro-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T17:56:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "5edc07c80ddc2568",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8c726e27cd36c4e4",
-      "url": "https://www.rte.ie/news/primetime/2026/1106/1598192-galway-university-fake-news-expert-claims-fake-doctorate/",
-      "title_en": "Galway university 'fake news' expert has fake doctorate",
-      "title_zh": "戈尔韦大学“假新闻”专家拥有假博士学位",
-      "summary_en": "A leading Irish academic who is an expert on disinformation and 'fake news' has been falsely claiming to have a doctorate from a distinguished English university, Prime Time has established.",
-      "summary_zh": "《黄金时间》证实，一位爱尔兰著名学者是虚假信息和“假新闻”方面的专家，他谎称拥有英国一所著名大学的博士学位。",
-      "translation_status": "fallback",
-      "image": "https://www.rte.ie/images/001df964-1600.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T17:55:13+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8c726e27cd36c4e4",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "e8ff205bced43155",
       "url": "https://www.indiatoday.in/trending-news/story/mans-bag-full-of-wedding-invites-bursts-open-on-highway-what-follows-is-wholesome-3033674-2026-11-06",
       "title_en": "Man's bag full of wedding invites bursts open on highway, what follows is wholesome",
@@ -1800,30 +1293,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "e8ff205bced43155",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "393d790b23d24927",
-      "url": "https://www.dailystar.co.uk/news/weird-news/houdinis-ghost-haunts-mysterious-magic-37826041",
-      "title_en": "Houdini's ghost 'haunts' mysterious magic club – but can we speak to dead icon",
-      "title_zh": "胡迪尼的鬼魂“出没”神秘的魔法俱乐部——但我们能和死去的偶像谈谈吗",
-      "summary_en": "Daily Star's very own paranormal expert, Brocarde, ventures into Hollywood’s mysterious Magic Castle to hunt for Harry Houdini’s ghost who promised to contact the living from beyond the grave",
-      "summary_zh": "《每日星报》的超自然现象专家布罗卡德冒险进入好莱坞神秘的魔法城堡，寻找哈利·胡迪尼的鬼魂，后者承诺能从坟墓之外联系生者",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37826078.ece/ALTERNATES/s615/0_magicCastle8.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T17:49:44+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "393d790b23d24927",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2002,30 +1471,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "413e19df4d692df9",
-      "url": "https://www.mirror.co.uk/news/uk-news/brit-dads-mysterious-2024-death-37849440",
-      "title_en": "Brit dad's mysterious 2024 death in Spain to be re-examined in UK inquest",
-      "title_zh": "英国父亲2024年在西班牙神秘死亡，英国调查将重新审查",
-      "summary_en": "His death was initially treated as accidental",
-      "summary_zh": "他的死亡最初被视为意外",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849449.ece/ALTERNATES/s615/1_Jam_Press_JMP931908.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:57:21+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "413e19df4d692df9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "3e66108b4afde382",
       "url": "https://www.timesnownews.com/viral/jaipur-bikers-harass-woman-on-busy-road-viral-video-article-156474074",
       "title_en": "‘Aap Bahut Cute Ho’: Jaipur Bikers Harass Woman On Busy Road, Video Goes Viral",
@@ -2047,54 +1492,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "3e66108b4afde382",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "4fdcbd145bc418da",
-      "url": "https://www.mirror.co.uk/news/health/i-changed-whole-life-lose-37849405",
-      "title_en": "'I changed my whole life to lose 20st - now I have two miracle babies'",
-      "title_zh": "“我改变了我的一生，失去了20岁——现在我有了两个奇迹宝宝”",
-      "summary_en": "Lauren Smith says chocolate was her 'downfall' as she hit 20st - but a radical change saw her slim down to a healthy weight",
-      "summary_zh": "劳伦·史密斯 (Lauren Smith) 表示，在她 20 岁的时候，巧克力是她的“失败”——但一场彻底的改变让她瘦到了健康的体重",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849423.ece/ALTERNATES/s615/0_woman-lost-comb-1631064.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:52:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "4fdcbd145bc418da",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f973bae2c8484e03",
-      "url": "https://www.mirror.co.uk/travel/uk-ireland/gallery/inside-uks-huge-eerie-plane-37846356",
-      "title_en": "Inside the UK's huge and eerie plane graveyard with Saddam Hussein's jet",
-      "title_zh": "英国巨大而诡异的飞机墓地里有萨达姆·侯赛因的飞机",
-      "summary_en": "For the past 30 years, Mark Gregory’s Air Salvage International (ASI) has been assessing, chopping up, disassembling, and recycling planes at the private airfield, which sits two miles from Kemble in Gloucestershire",
-      "summary_zh": "过去 30 年来，马克·格雷戈里 (Mark Gregory) 的国际航空救援组织 (ASI) 一直在距离格洛斯特郡肯布尔 (Kemble) 两英里的私人机场评估、砍伐、拆卸和回收飞机",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article35559843.ece/ALTERNATES/s615/0_image00003jpeg.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:51:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "f973bae2c8484e03",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2123,54 +1520,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "113f6034d32e13bd",
-      "url": "https://www.mirror.co.uk/news/health/woman-trapped-thailand-after-serious-37849380",
-      "title_en": "Woman trapped in Thailand after serious spinal injury on last day of holiday",
-      "title_zh": "假期最后一天，一名女子因脊椎严重受伤被困在泰国",
-      "summary_en": "Friends and family are trying to get her home before Christmas",
-      "summary_zh": "朋友和家人正试图在圣诞节前送她回家",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849388.ece/ALTERNATES/s615/1_Jam_Press_JMP931897.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:42:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "113f6034d32e13bd",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5613b4ad89f5eb13",
-      "url": "https://www.mirror.co.uk/news/uk-news/uk-man-stockpiled-600-cans-37849321",
-      "title_en": "UK man has stockpiled 600 cans of food in shed 'to prepare for worst'",
-      "title_zh": "英国男子在棚子里储存了600罐食品“以备最坏情况”",
-      "summary_en": "Ex-Army man Ian Ferguson said he didn't plan to stop",
-      "summary_zh": "前军人伊恩·弗格森表示他不打算停止",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849315.ece/ALTERNATES/s615/0_prepper-stockpi-1631176.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:30:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "5613b4ad89f5eb13",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "b91316f4c78e4b3a",
       "url": "https://www.timesnownews.com/india/big-setback-for-tarun-tejpal-sc-refuses-to-suspend-sentence-in-2013-rape-case-article-156473956",
       "title_en": "Big Setback For Tarun Tejpal, SC Refuses To Suspend Sentence In 2013 Rape Case",
@@ -2195,30 +1544,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "5df3f4d319563e75",
-      "url": "https://www.mirror.co.uk/news/uk-news/family-chocolate-maker-battle-cadburys-37849316",
-      "title_en": "Family chocolate maker in battle with Cadbury's as winter word is trademarked",
-      "title_zh": "家庭巧克力制造商因“冬季”一词被注册商标而与吉百利展开斗争",
-      "summary_en": "The owner of the chocolate giant has written to the tiny UK factory to remind them of their rights",
-      "summary_zh": "这家巧克力巨头的所有者已写信给这家英国小工厂，提醒他们自己的权利",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849318.ece/ALTERNATES/s615/1_Jam_Press_JMP931751.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:24:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "5df3f4d319563e75",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "bf578d389d928a04",
       "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-6-november-us-iran-war-oil-price-12290696",
       "title_en": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,000 Points Higher, Global AI Stocks Bleed",
@@ -2239,30 +1564,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "bf578d389d928a04",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b63ff26652973605",
-      "url": "https://www.mirror.co.uk/news/uk-news/new-november-6-law-could-37849289",
-      "title_en": "New November 6 law could see you in serious trouble for WhatsApp group chat",
-      "title_zh": "11 月 6 日新法律可能会让您因 WhatsApp 群聊而陷入严重麻烦",
-      "summary_en": "Tough new legislation is in force from Friday and a lawyer has explained why you need to be aware",
-      "summary_zh": "严厉的新立法从周五起生效，律师解释了为什么你需要注意",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849293.ece/ALTERNATES/s615/0_GettyImages-520866968.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T16:11:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "b63ff26652973605",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2313,81 +1614,6 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "c9945009d6fc43fe",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "784527dcb624dc20",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/05/the-27-metre-crime-boss-puzzle-over-doctored-mugshot-released-by-iraq/",
-      "title_en": "The 9ft crime boss: Puzzle over doctored mugshot released by Iraq",
-      "title_zh": "9英尺高的犯罪头目：伊拉克公布的被篡改的照片之谜",
-      "summary_en": "AI-generated image suggesting Kazem Hamad was the world's tallest man was provided to Australian police",
-      "summary_zh": "人工智能生成的图像表明卡齐姆·哈马德是世界上最高的人，已提供给澳大利亚警方",
-      "translation_status": "fallback",
-      "image": "https://www.thenationalnews.com/resizer/v2/KBMPRCLCTBDTRIW3YCA4J2ZFEI.jpg?auth=90f58fef87084da930156911bda6cd635037cdd4b2b12dd5345caff1a7a7bdfd&amp;focal=804%2C232&amp;width=1200&amp;height=630",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "澳大利亚",
-      "published_at": "2026-11-06T15:47:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "784527dcb624dc20",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 25,
-      "reddit_comments": 5,
-      "reddit_id": "t3_1xp73kv"
-    },
-    {
-      "id": "d9ba4fd34f3bf284",
-      "url": "https://www.mirror.co.uk/news/weird-news/earth-gains-new-moon-space-37849216",
-      "title_en": "Earth gains new moon as space rock is captured by planet's gravity",
-      "title_zh": "由于太空岩石被行星引力捕获，地球获得了新月亮",
-      "summary_en": "The new neighbour has been called 2026 QQ8",
-      "summary_zh": "新邻居被称为2026 QQ8",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849217.ece/ALTERNATES/s615/0_coverimages56133951.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T15:37:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "d9ba4fd34f3bf284",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3b5c322476742386",
-      "url": "https://www.mirror.co.uk/news/health/night-time-habit-could-early-37849226",
-      "title_en": "Night-time habit could be early red flag for stroke or heart failure",
-      "title_zh": "夜间习惯可能是中风或心力衰竭的早期危险信号",
-      "summary_en": "New research found a link between what people do all the time - especially at weekends - and potentially lethal conditions",
-      "summary_zh": "新研究发现人们一直在做的事情（尤其是周末）与潜在的致命状况之间存在联系",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849229.ece/ALTERNATES/s615/1_GettyImages-2191217332.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T15:35:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "3b5c322476742386",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2468,54 +1694,6 @@
       "reddit_id": "t3_1xp6ity"
     },
     {
-      "id": "1ce7a94cff7493e1",
-      "url": "https://www.mirror.co.uk/news/uk-news/scottish-spaceship-one-most-popular-37849181",
-      "title_en": "Scottish 'spaceship' that is one of most popular stays on Airbnb up for sale",
-      "title_zh": "爱彼迎 (Airbnb) 上最受欢迎的住宿之一，苏格兰“太空飞船”待售",
-      "summary_en": "Included in the sale are two more unusual holiday lets, The PilotHouse and The Captain’s Cabin",
-      "summary_zh": "此次拍卖还包括另外两栋不同寻常的度假屋：The PilotHouse 和 The Captain’s Cabin",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849186.ece/ALTERNATES/s615/0_Jam_Press_JMP931827.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T15:01:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "1ce7a94cff7493e1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5cead21f96ad841e",
-      "url": "https://www.express.co.uk/news/weird/2263178/rishi-sunak-advertises-handyman-job",
-      "title_en": "Rishi Sunak advertises for 'handyman' to look after his 5-acre estate with a lake",
-      "title_zh": "Rishi Sunak 招聘“勤杂工”来打理他 5 英亩的带湖庄园",
-      "summary_en": "Rishi Sunak's job posting for a versatile handyman/gardener has no clear salary, but the lucky person will have the chance to grow into something more permanent For an unspecified sum - you could be raking the lawns and tending to the “modest lake” of multi-millionaire and Rich List stalwart Rishi Sunak. The former Prime Minister has made national headlines a handful of times for his flashy upgrades in his house, that is now estimated to be worth £6.6 million, as per Homes and Gardens . The Grade II listed…",
-      "summary_zh": "Rishi Sunak 的职位是一位多才多艺的勤杂工/园丁，没有明确的薪水，但幸运者将有机会成长为更永久的人，只需支付一笔金额不详的费用 - 您可以为千万富翁和富豪榜坚定的 Rishi Sunak 耙草坪并照料“谦虚的湖泊”。这位前首相因其对自己房屋的华丽升级而多次成为全国头条新闻，据 Homes 和 Homes 报道，该房屋目前估计价值 660 万英镑。",
-      "translation_status": "fallback",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/80/590x/2263178_1.jpg",
-      "image_checked": true,
-      "source": "Express Weird News",
-      "source_id": "express-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "5cead21f96ad841e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "8bcef47ad4cbf00c",
       "url": "https://www.ndtv.com/delhi-news/hope-youre-enjoying-weather-supreme-courts-quip-on-delhi-pollution-12291427?pfrom=home-ndtv_topscroll",
       "title_en": "\"Hope You're Enjoying Weather\": Supreme Court's Quip On Delhi Pollution",
@@ -2540,30 +1718,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "2d824ec56de42be8",
-      "url": "https://www.mirror.co.uk/news/weird-news/almost-died-went-place-full-37849162",
-      "title_en": "I almost died and went to a place full of grandmas, then saw the next 50 years",
-      "title_zh": "我差点就死了，去了一个全是奶奶的地方，然后看到了接下来的50年",
-      "summary_en": "Bill McDonald saw events that hadn't happened - including getting married and an assassination",
-      "summary_zh": "比尔·麦克唐纳看到了未发生的事件 - 包括结婚和暗杀",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849168.ece/ALTERNATES/s615/1_Jam_Press_JMP931237.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T14:51:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "2d824ec56de42be8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "acf50d4ad9757262",
       "url": "https://www.indiatoday.in/trending-news/story/us-man-sets-guinness-world-record-with-5-foot-long-beard-grown-over-two-decades-3033526-2026-11-06",
       "title_en": "US man sets Guinness World Record with 5-foot-long beard grown over two decades",
@@ -2584,30 +1738,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "acf50d4ad9757262",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "95c450c04ab67309",
-      "url": "https://www.mirror.co.uk/news/health/dad-move-thailand-after-change-37849147",
-      "title_en": "Dad has to move to Thailand after change to new drug left him 'vibrating'",
-      "title_zh": "更换新药让父亲“颤抖”后，他不得不搬到泰国",
-      "summary_en": "He has been left with symptoms including prickling, numbness, loss of balance and changes to his face and vision",
-      "summary_zh": "他出现的症状包括刺痛、麻木、失去平衡以及面部和视力的变化",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37849151.ece/ALTERNATES/s615/1_Jam_Press_JMP929932.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T14:34:38+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "95c450c04ab67309",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2781,30 +1911,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ca7a95cd721fd328",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b9cc4c4813af75f7",
-      "url": "https://soranews24.com/2026/11/06/pokemon-doughnuts-pop-up-at-mister-donut-with-a-new-gathering-thats-bigger-than-ever/",
-      "title_en": "Pokémon doughnuts pop up at Mister Donut, with a new gathering that’s bigger than ever",
-      "title_zh": "神奇宝贝甜甜圈突然出现在甜甜圈先生，新的聚会规模比以往任何时候都大",
-      "summary_en": "The “Everyone Gather Together! Winter Pokémon Campaign” goes all out for the 30th anniversary celebrations. It’s become something of an annual tradition for Mister Donut to release a new Pokémon collection at the end of the year, with a different pocket monster taking centre stage as the star of the show. This year, however, for Pokémon’s 30th anniversary , the chain is going all out with the celebrations, putting not just one Pokémon in the spotlight, but a whole gathering from past campaigns.",
-      "summary_zh": "“大家齐聚！冬季宝可梦活动”全力以赴迎接30周年庆典。在年底发布新的神奇宝贝系列已成为甜甜圈先生的年度传统，其中一种不同的口袋妖怪成为节目的主角。然而，今年，在《精灵宝可梦》诞生 30 周年之际，连锁店全力以赴地庆祝活动，不仅让一只精灵成为人们关注的焦点，而且还让整个连锁店成为焦点。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/Pokemon-doughnuts-Mister-Donut-Japan-limited-edition-menu-exclusive-Alolan-Diglett-Pikachu-Slowpoke-blanket-merchandise-winter-lucky-bag-sweets-news-11.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-06T13:00:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "b9cc4c4813af75f7",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3008,30 +2114,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "da017af7ff0478cd",
-      "url": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
-      "title_en": "Palantir CEO says it's pioneering an antiwar movement",
-      "title_zh": "Palantir首席执行官表示，它正在引领反战运动",
-      "summary_en": "Alex Karp casts military software as a force for peace while declaring a moral imperative to dominate the market",
-      "summary_zh": "亚历克斯·卡普 (Alex Karp) 将军事软件视为和平力量，同时宣称主导市场是道义上的责任",
-      "translation_status": "fallback",
-      "image": "https://image.theregister.com/258394.jpg?imageId=258394&x=0&y=7.51&cropw=100&croph=60.56&panox=0&panoy=7.51&panow=100&panoh=60.56&width=1200&height=683",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T11:17:27+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "da017af7ff0478cd",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "5da9004b501d60f4",
       "url": "https://www.republicworld.com/world-news/marco-rubio-denies-exit-plans-vows-to-serve-trump-s-full-second-term-2026-11-06-140532",
       "title_en": "Marco Rubio Denies Exit Plans, Vows to Serve Trump's Full Second Term",
@@ -3208,30 +2290,6 @@
       "reddit_id": "t3_1xp23lg"
     },
     {
-      "id": "d64fc1e773c088b8",
-      "url": "https://soranews24.com/2026/11/06/discount-retailers-known-for-massive-bargains-releases-massive-japanese-egg-sandwich/",
-      "title_en": "Discount retailers known for massive bargains releases massive Japanese egg sandwich",
-      "title_zh": "以大量特价商品闻名的折扣零售商推出大量日本鸡蛋三明治",
-      "summary_en": "Don Quijote doubles up its “Peculiar Preference” sandwich . Japanese egg sandwiches have recently become an unexpected hit among the international foodie community, but within Japan, they’ve been a staple for generations. You really don’t have to go very far to find one, as just about every convenience store or supermarket stocks them. But if you really love Japan’s egg sandwiches, it’s worth going to the little extra trouble of making a trip to discount retailer Don Quixote to get one, because not only are they…",
-      "summary_zh": "唐吉诃德将其“特殊偏好”三明治加倍。日本鸡蛋三明治最近在国际美食界出人意料地受到欢迎，但在日本，它们已经成为几代人的主食。您实际上不必走很远就能找到它们，因为几乎每个便利店或超市都有它们。但如果你真的喜欢日本的鸡蛋三明治，那么值得花点额外的麻烦去一趟折扣零售商堂吉诃德",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/8_a86d21.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-06T11:00:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "d64fc1e773c088b8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "b5a8d587892819dd",
       "url": "https://www.republicworld.com/world-news/jd-habibi-arabs-celebrate-el-sayed-s-use-of-a-term-of-affection-in-his-victory-speech-2026-11-06-140529",
       "title_en": "'JD, Habibi': Arabs Celebrate El-Sayed's Use of a Term of Affection in His Victory Speech",
@@ -3256,30 +2314,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "21dc1ae3f87a0061",
-      "url": "https://www.timesnownews.com/sports/cricket/australian-t20-star-chris-lynn-hit-with-ban-for-using-cocaine-article-156472406",
-      "title_en": "Australian T20 Star Chris Lynn Hit With Ban For Using Cocaine",
-      "title_zh": "澳大利亚 T20 明星克里斯·林恩因吸食可卡因而被禁止",
-      "summary_en": "Chris Lynn has completed a drug rehabilitation program and served a one-month suspension for cocaine use, as confirmed by England's Cricket Regulator. Lynn tested positive with trace amounts of benzoylecgonine, a cocaine metabolite, found in his sample., Cricket, Times Now",
-      "summary_zh": "英格兰板球监管机构证实，克里斯·林恩已完成戒毒计划，并因吸食可卡因而被停赛一个月。林恩的样本中发现了微量的苯甲酰爱康宁（一种可卡因代谢物），结果呈阳性。, 板球, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156472443,thumbsize-677484,width-1280,height-720,resizemode-75/156472443.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "澳大利亚",
-      "published_at": "2026-11-06T10:42:20+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "21dc1ae3f87a0061",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "44738ea9f94191f6",
       "url": "https://www.republicworld.com/world-news/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments-2026-11-06-140528",
       "title_en": "Trump Signs Proclamation to Preserve Oval Office, Cabinet Room as National Monuments",
@@ -3300,30 +2334,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "44738ea9f94191f6",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ebdfc07876e6f270",
-      "url": "https://abcnews4.com/news/nation-world/iowa-democrat-who-suspended-campaign-before-midterms-still-wins-election-gop-facebook-senate-chuck-schumer",
-      "title_en": "Iowa Democrat who suspended campaign before midterms still wins election",
-      "title_zh": "中期选举前暂停竞选活动的爱荷华州民主党人仍赢得选举",
-      "summary_en": "A Democratic nominee in an Iowa state House District race still won the election even though he suspended his campaign in September.",
-      "summary_zh": "一位民主党候选人在爱荷华州众议院选区竞选中尽管在 9 月份暂停了竞选活动，但仍然赢得了选举。",
-      "translation_status": "fallback",
-      "image": "https://abcnews4.com/resources/media2/16x9/5568/1320/0x290/90/89ac42a6-3102-4451-8ff6-0e6c9c56cfbc-GettyImages2302893911.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T10:27:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "ebdfc07876e6f270",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3400,30 +2410,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "df05e23d77026678",
-      "url": "https://www.mirror.co.uk/lifestyle/gardening/how-to-attract-garden-hedgehogs-37842690",
-      "title_en": "I attract hedgehogs to my garden by putting one item out in November",
-      "title_zh": "我在 11 月摆放一件物品，吸引刺猬来到我的花园",
-      "summary_en": "There is an easy way to help hedgehogs this winter",
-      "summary_zh": "这个冬天有一个简单的方法可以帮助刺猬",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37842831.ece/ALTERNATES/s615/0_GettyImages-135889449.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T10:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "df05e23d77026678",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "a71b5d89fae38192",
       "url": "https://www.timesnownews.com/viral/canva-employee-calls-experience-great-ride-despite-lay-off-viral-video-article-156472275",
       "title_en": "‘I’m Gonna Miss You’: Canva Employee Calls Experience ‘Great Ride’ Despite Lay Off",
@@ -3444,30 +2430,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a71b5d89fae38192",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "124c9f4b34398ed0",
-      "url": "https://www.republicworld.com/world-news/big-beautiful-agreement-trump-expresses-confidence-in-russia-ukraine-peace-deal-says-agreement-could-involve-all-of-europe-2026-11-06-140523",
-      "title_en": "'Big, Beautiful Agreement': Trump Expresses Confidence in Russia-Ukraine Peace Deal, Says Agreement Could Involve All of Europe",
-      "title_zh": "“伟大而美丽的协议”：特朗普表达了对俄罗斯-乌克兰和平协议的信心，称协议可能涉及整个欧洲",
-      "summary_en": "Trump also confirmed that he had met Russian President Vladimir Putin&#39;s envoy, Kirill Dmitriev, at the White House. While declining to disclose details of their conversation, he suggested that the discussions could lead to a wider diplomatic understanding.",
-      "summary_zh": "特朗普还证实，他在白宫会见了俄罗斯总统弗拉基米尔·普京的特使基里尔·德米特里耶夫。虽然拒绝透露谈话的细节，但他表示讨论可能会带来更广泛的外交理解。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/big-beautiful-agreement-trump-expresses-confidence-in-russia-ukraine-peace-deal-says-agreement-could-involve-all-of-europe-1793930060049-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-06T09:54:28+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "124c9f4b34398ed0",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3544,78 +2506,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "eb9d58d7bc285db0",
-      "url": "https://soranews24.com/2026/11/06/tokyo-to-build-new-crematoriums-to-meet-surging-demand/",
-      "title_en": "Tokyo to build new crematoriums to meet surging demand",
-      "title_zh": "东京将建造新火葬场以满足不断增长的需求",
-      "summary_en": "Death is a growth industry that no one’s happy about . There has been a lot of talk about the aging population in Japan and how it’s affecting society and the economy. But a more immediate concern is how to handle the influx of people currently dying across the country. According to estimates, the number of deaths per year is expected to swell to a peak of 1.65 million in 2040, but with the current number over 1.5 million, Japan looks poised to overshoot that estimate considerably .",
-      "summary_zh": "死亡是一个没有人高兴的增长行业。关于日本人口老龄化及其对社会和经济的影响已经有很多讨论。但更紧迫的问题是如何处理目前全国各地大量死亡人数。据估计，每年的死亡人数预计将在 2040 年达到峰值 165 万人，但鉴于目前的死亡人数已超过 150 万人，日本似乎将超出这一估计。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/yuyaketonaiIMGP9124_TP_V4.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-06T09:00:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "eb9d58d7bc285db0",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6774edc2ae00f60d",
-      "url": "https://www.neatorama.com/2026/11/05/Mario-Has-Been-Duped-All-This-Time/",
-      "title_en": "Mario Has Been Duped All This Time!",
-      "title_zh": "马里奥一直被骗了！",
-      "summary_en": "We all fell for the challenge of Mario World, where you can be a small Italian plumber who saves the day with his fine motor skills and his tenacity. Mario makes his way through dangerous terrain and even goes underground in his quest. He battles various monsters, plants, and fungi, gathering resources along the way and racking up points. Mario has always been the hero of the story, by saving Princess Peach, who is always in another castle.",
-      "summary_zh": "我们都被马里奥世界的挑战所吸引，在这里你可以成为一个意大利小水管工，用他的精细运动技能和坚韧来拯救世界。马里奥在危险的地形中前进，甚至在他的探索中进入地下。他与各种怪物、植物和真菌战斗，沿途收集资源并积累积分。马里奥一直是故事中的英雄，他拯救了总是在另一座城堡里的桃子公主。",
-      "translation_status": "fallback",
-      "image": "https://img.youtube.com/vi/nT9dT5uSMn8/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-06T08:47:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "诈骗骗局"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "6774edc2ae00f60d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6ec6592d552c36f8",
-      "url": "https://allthatsinteresting.com/shoeless-joe-jackson",
-      "title_en": "The Controversial Story Of Shoeless Joe Jackson, The Baseball Star Who Was Banned From The Sport For His Alleged Role In The Black Sox Scandal",
-      "title_zh": "棒球明星乔·杰克逊 (Joe Jackson) 因涉嫌参与黑袜丑闻而被禁止参加这项运动，其备受争议的故事",
-      "summary_en": "Wikimedia Commons Shoeless Joe Jackson was one of baseball’s brightest stars — until he was banned from the sport. During his decades-long career in professional baseball, “Shoeless” Joe Jackson earned a .356 batting average — one of the highest in major league history. But he’s remembered today not for his talent, but for his alleged involvement in the infamous Black Sox Scandal of 1919. Then, Jackson and seven of his teammates with the Chicago White Sox were accused of throwing the World Series in exchange for a…",
-      "summary_zh": "赤脚乔·杰克逊是棒球界最耀眼的明星之一，直到他被禁止参加这项运动。在职业棒球长达数十年的职业生涯中，“无鞋”乔·杰克逊的击球率达到了 0.356，这是大联盟历史上最高的击球率之一。但如今他被人们所铭记并不是因为他的才华，而是因为他被指控卷入了 1919 年臭名昭著的黑袜队丑闻。随后，杰克逊和他在芝加哥白袜队的七名队友被指控犯有",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/11/shoeless-joe-jackson-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-06T08:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "6ec6592d552c36f8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "b94684c2eb78269b",
       "url": "https://www.timesnownews.com/world/us/us-news/kristin-knouse-vs-david-sabatini-the-story-behind-mits-fake-metoo-scandal-that-is-going-viral-article-156472048",
       "title_en": "Kristin Knouse vs David Sabatini: The Story Behind MIT’s Fake MeToo Scandal That Is Going Viral",
@@ -3636,279 +2526,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "b94684c2eb78269b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "103d6f307d450350",
-      "url": "https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/",
-      "title_en": "The Onion’s new plan to market its print newspaper: sponsoring a bowl game",
-      "title_zh": "洋葱报营销印刷报纸的新计划：赞助碗赛",
-      "summary_en": "",
-      "summary_zh": "洋葱报营销印刷报纸的新计划：赞助碗赛",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/WBXo1Rp51jSzixvHtvdH8Gfqv8wO86A2Eq0DRITsSNo.jpeg?width=640&crop=smart&auto=webp&s=b132491e7c7f97c8ecb64226f00c6417bdab3096",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T06:52:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "103d6f307d450350",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "75dc94319603832f",
-      "url": "https://allthatsinteresting.com/greenland-medieval-norse-church",
-      "title_en": "Archaeologists In Greenland Just Uncovered The Ruins Of A Medieval Norse Church With A Skeleton Buried On The Grounds",
-      "title_zh": "格陵兰岛的考古学家刚刚发现了一座中世纪挪威教堂的废墟，地上埋着一具骷髅",
-      "summary_en": "The National Museum of Denmark Archaeologists have identified a Norse church in Greenland for the first time in 60 years. Archaeologists excavating stone ruins at Qinngua in southern Greenland have uncovered a skeleton in a customary Christian burial — confirming that these ruins were once a Norse church dating back to somewhere between 1100 and 1300 C.E. This is the first Norse church that’s been discovered in Greenland in more than 60 years. Located just three miles from the estate of famous Viking explorer Erik…",
-      "summary_zh": "丹麦国家博物馆考古学家60年来首次在格陵兰岛发现了一座挪威教堂。考古学家在格陵兰岛南部的钦瓜 (Qinngua) 挖掘石头遗址时，在一个传统的基督教墓葬中发现了一具骨架，证实这些遗址曾经是一座挪威教堂，其历史可以追溯到公元 1100 年至 1300 年之间。这是 60 多年来在格陵兰岛发现的第一座挪威教堂。距离酒店仅三英里",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/11/featured-greenland-norse-church.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-06T06:45:15+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "75dc94319603832f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b93591437461e809",
-      "url": "https://www.wkrn.com/news/national/man-arrested-near-white-house-for-making-finger-gun-gesture-at-national-guard",
-      "title_en": "Man arrested near White House for making ‘finger gun’ gesture at National Guard",
-      "title_zh": "男子因向国民警卫队做出“手指枪”手势而在白宫附近被捕",
-      "summary_en": "",
-      "summary_zh": "男子因向国民警卫队做出“手指枪”手势而在白宫附近被捕",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/RNjuezsNZ0eglBcN1WaK6cmz803UMn_6C9kKaiQKw7M.jpeg?width=640&crop=smart&auto=webp&s=64653f585a4e568413c6898b59959fabdcc48a21",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "美国",
-      "published_at": "2026-11-06T06:13:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "b93591437461e809",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "be87f9ac52911020",
-      "url": "https://www.neatorama.com/2026/11/05/Guy-Fawkes-Went-from-Villain-to-Effigy-to-a-Mask/",
-      "title_en": "Guy Fawkes Went from Villain to Effigy to a Mask",
-      "title_zh": "盖伊·福克斯从恶棍到肖像，再到面具",
-      "summary_en": "Embed from Getty Images November fifth is Guy Fawkes Day, an English holiday that isn't celebrated all that widely anymore, but has quite a history behind it. It all started with the deadly enmity between Anglicans and Catholics in England in the 16th and 17th centuries after Henry VIII founded the Church of England in 1534 in order to get a divorce. It turns out that some people don't want the government to tell them what religion to observe. Guy Fawkes was part of the Gunpowder Plot , in which a group of radical…",
-      "summary_zh": "嵌入自盖蒂图片社 11 月 5 日是盖伊·福克斯日，这是一个英国节日，虽然不再那么广泛庆祝，但背后却有相当的历史。这一切要从1534年亨利八世为了离婚而创立英国国教后，16世纪和17世纪英国圣公会和天主教徒之间的死仇说起。事实证明，有些人不希望政府告诉他们要信仰什么宗教。盖伊·福克斯是军浦军的一员",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "英国",
-      "published_at": "2026-11-06T06:10:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "婚俗宗教"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "be87f9ac52911020",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a05c323efa15356b",
-      "url": "https://www.atlantanewsfirst.com/2026/11/03/georgian-pardoned-jan-6-riot-charged-new-social-media-threats-affidavit-says/",
-      "title_en": "Georgian pardoned in Jan. 6 riot charged for new social media threats, affidavit says",
-      "title_zh": "宣誓书称，1月6日骚乱中的格鲁吉亚人因新的社交媒体威胁而被赦免",
-      "summary_en": "Cleveland Grover Meredith Jr., 58, faces one count of interstate threats.",
-      "summary_zh": "克利夫兰·格罗弗·梅雷迪思 (Cleveland Grover Meredith Jr.)，58 岁，面临一项州际威胁指控。",
-      "translation_status": "fallback",
-      "image": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/MUNS3GCIW5H3XKSGFTN2I4XOZU.jpg?auth=76d919b930c9f1b062225a7935459051b5dad727585e4184a807c8df1baebbf7&amp;width=1200&amp;height=600&amp;smart=true",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T05:58:02+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "a05c323efa15356b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "77f17137c85f6e91",
-      "url": "https://apnews.com/article/new-zealand-election-christopher-luxon-chris-hipkins-7131767dc54ff924985ae40f17c46b68",
-      "title_en": "A man named Chris will be New Zealand's next prime minister, whichever party wins the election",
-      "title_zh": "无论哪个政党赢得选举，一位名叫克里斯的男子将成为新西兰下一任总理",
-      "summary_en": "",
-      "summary_zh": "无论哪个政党赢得选举，一位名叫克里斯的男子将成为新西兰下一任总理",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T05:32:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "77f17137c85f6e91",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ec48abeecbdc8a72",
-      "url": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
-      "title_en": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
-      "title_zh": "新斯科舍省英格兰镇的巨型麦克阿斯基尔墓",
-      "summary_en": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the 19th century. Born in 1825 on the Isle of Berneray in Scotland's Outer Hebrides, MacAskill immigrated to Nova Scotia with his family as a child and eventually settled in the fishing community of Englishtown. Standing an astonishing 7 feet 9 inches (2.36…",
-      "summary_zh": "安格斯·麦克阿斯基尔 (Angus MacAskill) 的坟墓藏在英国镇布雷顿角社区的一个小墓地里，他更广为人知的名字是“巨人麦克阿斯基尔”或“布雷顿角巨人”，他非凡的身高和力量使他在 19 世纪享誉国际。麦克阿斯基尔 1825 年出生于苏格兰外赫布里底群岛的伯纳雷岛，童年时随家人移民到新斯科舍省，最终定居在英格兰镇的渔业社区。站立",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/FaSmOCKw0FGGEFSqMy1bVsnf0XUAm4b_065Un_MDivI/rs:fill:300:200:1/g:ce/c:600:400:nowe:172:36/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNDZm/ZWZmZS1iMzkxLTQ2/YzEtYTBlNC02NTAz/ODBlMmJlZmE5ODdi/YmI5NzhkNjUzNjll/OGRfQW5ndXNfTWFj/QXNraWxsX2dyYXZl/LkpQRw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "英国",
-      "published_at": "2026-11-06T05:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "ec48abeecbdc8a72",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5f868cd1d612e94c",
-      "url": "https://sjvsun.com/u-s/faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028/",
-      "title_en": "FAA to eliminate floppy disks from air traffic control by 2028",
-      "title_zh": "FAA 将于 2028 年在空中交通管制中淘汰软盘",
-      "summary_en": "The US Federal Aviation Administration (FAA) announced it will remove floppy disk usage for critical weather and operational data at over 400 air traffic control sites by the end of 2028.",
-      "summary_zh": "美国联邦航空管理局 (FAA) 宣布，到 2028 年底，将在 400 多个空中交通管制站点取消使用软盘存储关键天气和运行数据。",
-      "translation_status": "fallback",
-      "image": "https://sjvsun.com/wp-content/uploads/2024/04/SUN-OG-_-Feat-Ronald-Reagan-Airport.png",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T04:03:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "5f868cd1d612e94c",
-      "cluster_item_count": 3,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3b9e435acea750ba",
-      "url": "https://www.usatoday.com/story/entertainment/internet-culture/2026/11/03/tennis-racket-stuck-viral-video-internet-social-media-meme/92582967007/",
-      "title_en": "Man stuck in a tennis racket in a viral video is OK, says the guy who filmed it",
-      "title_zh": "视频中的男子被困在网球拍中并没有什么大碍，拍摄者表示",
-      "summary_en": "",
-      "summary_zh": "视频中的男子被困在网球拍中并没有什么大碍，拍摄者表示",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-06T03:22:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "3b9e435acea750ba",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 6,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xorp4r"
-    },
-    {
-      "id": "b3817539d3248b7c",
-      "url": "https://www.atlasobscura.com/places/kejimkujik-petroglyphs",
-      "title_en": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
-      "title_zh": "新斯科舍省杰克斯兰丁的 Kejimkujik 岩画",
-      "summary_en": "Along the shores of Kejimkujik Lake in Nova Scotia, more than 500 petroglyphs are etched into the smooth slate bedrock of Kejimkujik National Park and National Historic Site. The Mi’kmaq have lived, hunted, and fished in the Kejimkujik area since time immemorial. Their enduring presence is documented through oral histories and numerous archaeological sites, including ancient campsites, fish weirs, and burial grounds. These remarkable stone carvings serve as a visual record of Mi’kmaq history, offering a glimpse…",
-      "summary_zh": "沿着新斯科舍省的 Kejimkujik 湖沿岸，Kejimkujik 国家公园和国家历史遗址光滑的板岩基岩上刻有 500 多处岩画。自远古以来，米克马克人就在 Kejimkujik 地区生活、狩猎和捕鱼。它们的持久存在通过口述历史和众多考古遗址（包括古代露营地、鱼堰和墓地）得到了记录。这些非凡的石雕作为视觉记录",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/fT9BxpaYYzaAvDec3A50enGE7-p9uJxbIEefoJyO1FA/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNjYz/OTJjOC1iMWNiLTRh/OWEtODIxNi04YmI3/Y2Q3Mjk3MTdkODI0/NTY4ODMyMDVlYjA3/MGFfSU1HXzUzNDEu/anBlZw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-06T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "b3817539d3248b7c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "702066b93967496a",
-      "url": "https://nypost.com/2026/11/05/lifestyle/miami-hotels-hit-bbl-patients-with-hefty-deposits-over-recovery-stays/",
-      "title_en": "Fed up Miami hotels go to drastic lengths to clean up bloody BBL patients’ recovery rooms",
-      "title_zh": "受够了的迈阿密酒店竭尽全力清理血淋淋的 BBL 患者康复室",
-      "summary_en": "One traveler was stunned by a $600 incidental deposit at a Miami hotel, only to be told the hefty hold was apparently thanks to plastic surgery patients leaving behind bloody messes.",
-      "summary_zh": "一位旅客在迈阿密一家酒店被 600 美元的附带押金震惊了，却被告知这笔巨额押金显然是由于整形手术患者留下的血腥烂摊子造成的。",
-      "translation_status": "fallback",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FHotel-BBL-Comp-1.jpg?quality%3D90%26strip%3Dall",
-      "image_checked": true,
-      "source": "New York Post Weird But True",
-      "source_id": "nypost-weird",
-      "region": "美国",
-      "published_at": "2026-11-06T02:45:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "健康医疗"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "702066b93967496a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3939,54 +2556,6 @@
       "reddit_score": 1085,
       "reddit_comments": 25,
       "reddit_id": "t3_1xopq05"
-    },
-    {
-      "id": "9748d6b8bd198fd1",
-      "url": "https://www.upi.com/Odd_News/2026/11/05/rspca-parakeet-storm-drain/8061793901713/",
-      "title_en": "Look: Runaway parakeet rescued from storm drain",
-      "title_zh": "看：从雨水渠中救出的逃跑鹦鹉",
-      "summary_en": "Animal rescuers in Britain came to the rescue of an escaped parakeet that wound up taking shelter in a storm drain.",
-      "summary_zh": "英国的动物救援人员营救了一只逃跑的长尾小鹦鹉，这只鹦鹉最终在雨水渠中避难。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/8061793901713/2026/i/17939018548674/v1.5/Runaway-parakeet-rescued-from-storm-drain.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "英国",
-      "published_at": "2026-11-06T02:05:56+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "9748d6b8bd198fd1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "07624d1c07baa920",
-      "url": "https://www.mirror.co.uk/money/shopping-deals/my-hairdresser-complimented-hair-growth-37762581",
-      "title_en": "'My hairdresser complimented me on my hair growth' after using 52p-a-day buy",
-      "title_zh": "使用每日 52 便士购买后，“我的理发师称赞我的头发长得很好”",
-      "summary_en": "'I have been taking these the last 5 weeks and they have worked wonders'",
-      "summary_zh": "“过去 5 周我一直在服用这些药物，它们产生了奇迹”",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/money/shopping-deals/article37762624.ece/ALTERNATES/s615/2_ScreenShot2021-07-13at102348pm_02404de9-1404-4265-95b0-ac18095011ac.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-06T02:03:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "07624d1c07baa920",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "f35661f00132a76a",
@@ -4065,30 +2634,6 @@
       "reddit_id": "t3_1xopfu2"
     },
     {
-      "id": "f5dac1efd96d7fc7",
-      "url": "https://www.upi.com/Odd_News/2026/11/05/lotto-North-Carolina-Education-lottery-gas-pump-printer/6081793900865/",
-      "title_en": "Gas pump malfunction leads N.C. man to $2M lottery prize",
-      "title_zh": "北卡罗来纳州男子因燃气泵故障中得200万美元奖金",
-      "summary_en": "A North Carolina man said a malfunctioning printer at a gas pump led to his winning $2 million from a Powerball drawing.",
-      "summary_zh": "一名北卡罗来纳州男子表示，加油站打印机故障导致他从强力球抽奖中赢得了 200 万美元。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/6081793900865/2026/i/17939010034538/v1.5/Gas-pump-malfunction-leads-NC-man-to-2M-lottery-prize.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-06T01:50:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "f5dac1efd96d7fc7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "0db0c9024737c8e2",
       "url": "https://www.ndtv.com/offbeat/female-hawk-diagnosed-too-fat-to-fly-after-overeating-chickens-and-constantly-sleeping-12289687",
       "title_en": "Female Hawk Diagnosed 'Too Fat' To Fly After Overeating Chickens And Constantly Sleeping",
@@ -4109,31 +2654,7 @@
       "tag_source": "rules",
       "page_fetched": true,
       "source_region": "印度",
-      "cluster_id": "2960436fbd039452",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
-    },
-    {
-      "id": "06088eae2d1dddb2",
-      "url": "https://www.the-independent.com/news/world/americas/us-politics/republican-midterms-mike-lawler-jesus-new-york-b3079868.html",
-      "title_en": "Defeated Republican \"claims not even Jesus could have won his midterms race\"",
-      "title_zh": "失败的共和党人“声称连耶稣都无法赢得中期选举”",
-      "summary_en": "Rep. Mike Lawler loses New York’s 17th congressional district to Democrat Cait Conley and argues that not even the son of God could have held on to it",
-      "summary_zh": "众议员迈克·劳勒 (Mike Lawler) 将纽约第 17 国会选区输给了民主党人凯特·康利 (Cait Conley)，他认为即使是上帝的儿子也无法保住它",
-      "translation_status": "fallback",
-      "image": "https://static.the-independent.com/2026/11/05/15/2302982311..?trim=0,96,0,96&width=1200&height=800&crop=1200:800",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T01:36:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "06088eae2d1dddb2",
+      "cluster_id": "0db0c9024737c8e2",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4162,98 +2683,253 @@
       "cluster_source_count": 1
     },
     {
-      "id": "3cacd136c1ca0b8f",
-      "url": "https://www.republicworld.com/world-news/melania-trump-details-her-role-in-oleshky-localized-ceasefire-hosts-russian-and-ukrainian-officials-at-white-house-2026-11-05-140517",
-      "title_en": "Melania Trump Details Her Role in Oleshky Localized Ceasefire, Hosts Russian and Ukrainian Officials at White House",
-      "title_zh": "梅拉尼娅·特朗普详细介绍了她在奥列什基局部停火中的作用，并在白宫接待了俄罗斯和乌克兰官员",
-      "summary_en": "The United States first lady stated that her communications with both the Russian and Ukrainian sides were “extensive, professional, detailed and highly cooperative.” She said that Russia and Ukraine signed the relevant agreements on October 23, a key step that enabled the temporary halt in fighting",
-      "summary_zh": "美国第一夫人表示，她与俄罗斯和乌克兰双方的沟通“广泛、专业、详细且高度合作”。她说，俄罗斯和乌克兰于10月23日签署了相关协议，这是实现暂时停止战斗的关键一步。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/us-first-lady-melania-trump-details-her-role-in-oleshky-localized-ceasefire-hosts-russian-and-ukrainian-officials-at-white-house-1793899413832-1280x720.webp",
+      "id": "f9ecb346e3003e95",
+      "url": "https://x.com/yuradeniis/status/2118393270770302994",
+      "title_en": "Crypto exchange founder Gerald Cotten was 30 when he died in India, owing about 76,000 customers C$215 million. Ontario's regulator later called his exchange a Ponzi scheme. Then it said most of the missing money went on his own trading. Cotten ran QuadrigaCX, once Canada's largest crypto exchange. ",
+      "title_zh": "加拿大加密交易所创始人在斋浦尔去世，2.15亿加元客户资金下落成谜。",
+      "summary_en": "Crypto exchange founder Gerald Cotten was 30 when he died in India, owing about 76,000 customers C$215 million. Ontario's regulator later called his exchange a Ponzi scheme. Then it said most of the missing money went on his own trading.\n\nCotten ran QuadrigaCX, once Canada's largest crypto exchange. He died on December 9, 2018, in Jaipur. His wife Jennifer Robertson says he was the only person with the passwords.\n\nIn April 2020 the Ontario Securities Commission finished its review of the exchange's data. It found Cotten had made fake accounts and credited them with crypto that did not exist.\n\nIt put the shortfall at no less than C$169 million. Staff attributed about C$115 million to his fraudulent trading on the platform and about C$28 million to losses on outside exchanges. It also said he took client money for his own lifestyle.\n\nIn October 2019 Robertson agreed to hand over about C$12 million in assets, including properties, a boat and a plane. A first payout reportedly returned about 13% of their claims.\n\nSome investors say she was too close to the cash not to know. She says she trusted him and did not know.\n\nCustomers lost their money. His widow lost her husband and has carried the blame ever since.\n\nWas Jennifer Robertson a victim of Gerald Cotten, or did she live off what he took?",
+      "summary_zh": "加拿大加密交易所创始人在斋浦尔去世，2.15亿加元客户资金下落成谜。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/video-thumb.jpg",
       "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-06T01:23:40+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
       "source_region": "印度",
-      "cluster_id": "3cacd136c1ca0b8f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "c8638b93a8d1d465",
-      "url": "https://www.irishtimes.com/food/2026/11/05/an-insult-to-his-culture-italian-chef-sacked-for-not-putting-pineapple-on-pizza-loses-bid-to-get-job-back",
-      "title_en": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
-      "title_zh": "“这是对他的文化的侮辱”：意大利厨师因未在披萨上放菠萝而被解雇，失去了重返工作岗位的机会",
-      "summary_en": "In Australia many would consider this fruity refusal a sacrilege",
-      "summary_zh": "在澳大利亚，许多人会认为这种拒绝水果的行为是一种亵渎",
-      "translation_status": "fallback",
-      "image": "https://www.irishtimes.com/resizer/v2/RCAGDWOZTVGIFEWSYIT6SPI2UQ?smart=true&amp;auth=3abfeab3cf3ea575d695f852b7d638b524ed184e96816007f27b73a516140e5b&amp;width=1200&amp;height=630",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "澳大利亚",
-      "published_at": "2026-11-06T01:08:32+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "published_at": "2026-11-06T01:21:28+08:00",
+      "fetched_at": "2026-11-10T10:12:21+08:00",
       "tags": [
-        "其他"
+        "诈骗骗局",
+        "航空出行"
       ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "c8638b93a8d1d465",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e63b0fdde93da903",
-      "url": "https://allthatsinteresting.com/seven-wonders-of-the-ancient-world",
-      "title_en": "Discover The Seven Wonders Of The Ancient World And Learn The Stories Behind Them",
-      "title_zh": "探索古代世界七大奇迹并了解它们背后的故事",
-      "summary_en": "The list of the Seven Wonders of the Ancient World was compiled by the Greek writer Antipater of Sidon in a poem in 140 BCE. He, along with Philo of Byzantium, Strabo, Herodotus, and Diodorus of Sicily, is responsible for providing the descriptions of these sites. Though only one of the Seven Wonders of the Ancient World remains intact, these gardens, statues, and tombs were the crème de la crème of ancient times: The Seven Wonders Of The Ancient World: Great Pyramid Of Giza, Egypt kallerna/Wikimedia Commons The…",
-      "summary_zh": "古代世界七大奇迹的名单是由希腊作家西顿的安提帕特在公元前 140 年的一首诗中编制的。他与拜占庭的斐洛、斯特拉博、希罗多德和西西里岛的狄奥多罗斯一起负责提供这些遗址的描述。尽管只有古代世界七大奇迹之一完好无损，但这些花园、雕像和坟墓都是古代的精华：古代世界七大奇迹：吉萨大金字塔、",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2011/07/colossus-illustration.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-06T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "e63b0fdde93da903",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d67a4c14e7c36838",
-      "url": "https://www.atlasobscura.com/places/ta-ma-stream",
-      "title_en": "Tà Má Stream in Vietnam",
-      "title_zh": "越南塔玛溪",
-      "summary_en": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast. Flowing with icy, crystal-clear water year-round, the stream carves its way through a primeval woodland guarded for generations by the indigenous Ba Na community of Ha Ri village. Its most surreal transformation occurs around March, when an ancient forest of century-old wild ixora (hoa trang) trees bursts into brilliant canopies of fiery red and golden yellow…",
-      "summary_zh": "塔马溪 (Ta Ma Stream) 隐藏在永盛县 (Vinh Thanh) 偏远高地深处，是远离阳光普照的海岸海滩的绝佳地点。这条溪流全年流淌着冰冷、清澈的水流，流经由哈日村巴纳土著社区世世代代守护的原始林地。最超现实的转变发生在三月左右，此时，古老的百年野生龙船树森林突然长出绚丽的树冠",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/NNCGUFcXAkWsfU46_KMiy7FH0pl2SEG0RUnLKIv7ujY/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYzgw/MjVmMy05OTQ3LTQw/YjUtOTMyNy1kZDBk/N2FhYzYwMWM5Y2Yx/MGNlYTU4ZWExMGFm/YThfMTAwMDAxMTAz/My5wbmc.png",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-06T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "d67a4c14e7c36838",
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2118393270770302994",
+        "lang": null,
+        "text": "Crypto exchange founder Gerald Cotten was 30 when he died in India, owing about 76,000 customers C$215 million. Ontario's regulator later called his exchange a Ponzi scheme. Then it said most of the missing money went on his own trading.\n\nCotten ran QuadrigaCX, once Canada's largest crypto exchange. He died on December 9, 2018, in Jaipur. His wife Jennifer Robertson says he was the only person with the passwords.\n\nIn April 2020 the Ontario Securities Commission finished its review of the exchange's data. It found Cotten had made fake accounts and credited them with crypto that did not exist.\n\nIt put the shortfall at no less than C$169 million. Staff attributed about C$115 million to his fraudulent trading on the platform and about C$28 million to losses on outside exchanges. It also said he took client money for his own lifestyle.\n\nIn October 2019 Robertson agreed to hand over about C$12 million in assets, including properties, a boat and a plane. A first payout reportedly returned about 13% of their claims.\n\nSome investors say she was too close to the cash not to know. She says she trusted him and did not know.\n\nCustomers lost their money. His widow lost her husband and has carried the blame ever since.\n\nWas Jennifer Robertson a victim of Gerald Cotten, or did she live off what he took?",
+        "author": {
+          "name": "Mijurei",
+          "username": "yuradeniis",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatar.jpg"
+        },
+        "created_at": "2026-11-05T17:21:28.000Z",
+        "public_metrics": {
+          "reply_count": 5,
+          "repost_count": 2,
+          "like_count": 18,
+          "quote_count": 0,
+          "bookmark_count": 15,
+          "impression_count": 1216
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2118393200767361024/vid/avc1/1280x720/SiyLO5gbZzFyxBVe.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:12:21+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/yuradeniis/status/2118393270770302994",
+        "ytdlp_command": "yt-dlp https://x.com/yuradeniis/status/2118393270770302994",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/comments.png",
+        "replies": [
+          {
+            "id": "2118404946475286973",
+            "author": {
+              "name": "Oleksandr Mykhailenko",
+              "username": "MykhailenkoFin",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2104529099901337601/tdmg5axi_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/MykhailenkoFin.jpg"
+            },
+            "text": "@yuradeniis The auditors later found the wallets were already empty before he died. So the lost password story covered a hole that was already there",
+            "created_at": "2026-11-05T18:07:51.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 17
+            },
+            "in_reply_to_id": "2118393270770302994"
+          },
+          {
+            "id": "2118397165467062698",
+            "author": {
+              "name": "Athens",
+              "username": "athensxbt",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2116507157352820736/9WPF7mwu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/athensxbt.jpg"
+            },
+            "text": "@yuradeniis She handed over about C$12 million in assets and got paid-out claims of about 13%. Does a person who knew do that, or a person who panicked? The post gives both readings. The numbers don’t pick one",
+            "created_at": "2026-11-05T17:36:56.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 16
+            },
+            "in_reply_to_id": "2118393270770302994"
+          },
+          {
+            "id": "2118396073576444308",
+            "author": {
+              "name": "Callum",
+              "username": "callumxbt",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108232840026464256/dWL9NLF5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/callumxbt.jpg"
+            },
+            "text": "@yuradeniis in 2019 investors’ lawyers asked police to exhume the body just to prove it was him. that’s how much trust was left",
+            "created_at": "2026-11-05T17:32:36.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 21
+            },
+            "in_reply_to_id": "2118393270770302994"
+          },
+          {
+            "id": "2118395251958128892",
+            "author": {
+              "name": "Koa",
+              "username": "koaxbt",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108226979866591232/vSqv1pX2_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/koaxbt.jpg"
+            },
+            "text": "@yuradeniis Most of the shortfall was his own trading. C$115 million on the platform, C$28 million on outside exchanges",
+            "created_at": "2026-11-05T17:29:20.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 25
+            },
+            "in_reply_to_id": "2118393270770302994"
+          },
+          {
+            "id": "2118394539861746129",
+            "author": {
+              "name": "Jake",
+              "username": "0xjakke",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108229501071040512/DqKoHmX7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/0xjakke.jpg"
+            },
+            "text": "@yuradeniis he died on December 9, 2018 in Jaipur. his wife says he was the only person with the passwords",
+            "created_at": "2026-11-05T17:26:30.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 49
+            },
+            "in_reply_to_id": "2118393270770302994"
+          },
+          {
+            "id": "2118408824348717414",
+            "author": {
+              "name": "Mijurei",
+              "username": "yuradeniis",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/yuradeniis.jpg"
+            },
+            "text": "@MykhailenkoFin The regulator found he credited fake accounts with crypto that did not exist",
+            "created_at": "2026-11-05T18:23:16.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2118404946475286973"
+          },
+          {
+            "id": "2118397549526806684",
+            "author": {
+              "name": "Mijurei",
+              "username": "yuradeniis",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/yuradeniis.jpg"
+            },
+            "text": "@athensxbt The 13% was what customers got back",
+            "created_at": "2026-11-05T17:38:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2118397165467062698"
+          },
+          {
+            "id": "2118397441959399713",
+            "author": {
+              "name": "Mijurei",
+              "username": "yuradeniis",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/yuradeniis.jpg"
+            },
+            "text": "@callumxbt when the only person with the passwords is dead, people want proof right",
+            "created_at": "2026-11-05T17:38:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2118396073576444308"
+          },
+          {
+            "id": "2118395723003703699",
+            "author": {
+              "name": "Mijurei",
+              "username": "yuradeniis",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/yuradeniis.jpg"
+            },
+            "text": "@koaxbt C$115 million on the platform, C$28 million elsewhere. Of a shortfall of at least C$169 million",
+            "created_at": "2026-11-05T17:31:12.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2118395251958128892"
+          },
+          {
+            "id": "2118395549648908731",
+            "author": {
+              "name": "Mijurei",
+              "username": "yuradeniis",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/avatars/yuradeniis.jpg"
+            },
+            "text": "@0xjakke If only he had the passwords, how did the regulator rebuild the accounts afterwards?",
+            "created_at": "2026-11-05T17:30:31.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2118394539861746129"
+          }
+        ],
+        "content_sha": "b18cdb92dc1188582411cdcca1031add41bf4c6e"
+      },
+      "cluster_id": "f9ecb346e3003e95",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4304,127 +2980,6 @@
       "cluster_id": "93dc888e358eeb60",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "ef0656db1366b50a",
-      "url": "https://www.upi.com/Odd_News/2026/11/05/guinness-world-records-loudest-shout-woman/5911793895144/",
-      "title_en": "Watch: British town crier is the world's loudest woman",
-      "title_zh": "观看：英国街头播音员是世界上声音最大的女人",
-      "summary_en": "A British woman who has served as a town crier since 1987 has been crowned the loudest woman on Earth after a shout of 105.9 decibels.",
-      "summary_zh": "一名自 1987 年以来一直担任城镇宣传员的英国妇女，凭借 105.9 分贝的喊叫声，被评为地球上声音最大的女性。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/5911793895144/2026/i/17938952681767/v1.5/British-town-crier-is-the-worlds-loudest-woman.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "英国",
-      "published_at": "2026-11-06T00:17:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "ef0656db1366b50a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3ab64477599bd087",
-      "url": "https://www.neatorama.com/2026/11/05/Shouldnt-We-Quit-Complaining-About-Other-Nations-Languages/",
-      "title_en": "Shouldn't We Quit Complaining About Other Nations' Languages?",
-      "title_zh": "我们难道不应该停止抱怨其他国家的语言吗？",
-      "summary_en": "There's a commenter on my personal site who constantly complains about the way Americans use English. We mostly ignore him, because we all know British English and American English are just different, and that's okay. Laurence Brown of Lost in the Pond has spent years humorously explaining the differences between the two cultures. Over those years he's become more and more American (he's a US citizen now) while keeping his British accent.",
-      "summary_zh": "我的个人网站上有一位评论者不断抱怨美国人使用英语的方式。我们大多会忽略他，因为我们都知道英式英语和美式英语只是不同，但这没关系。 《迷失池塘》的劳伦斯·布朗多年来一直以幽默的方式解释两种文化之间的差异。这些年来，他变得越来越美国化（他现在是美国公民），同时保留着英国口音。",
-      "translation_status": "fallback",
-      "image": "https://img.youtube.com/vi/QtgNfExnB7E/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "英国",
-      "published_at": "2026-11-06T00:15:20+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "3ab64477599bd087",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b4d51f96184d772a",
-      "url": "https://www.republicworld.com/world-news/russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-uk-court-faces-lengthy-prison-sentence-2026-11-05-140514",
-      "title_en": "Russell Brand Found Guilty of Rape and Three Sexual Assaults by UK Court, Faces Lengthy Prison Sentence",
-      "title_zh": "拉塞尔·布兰德被英国法院认定犯有强奸和三项性侵犯罪，面临长期监禁",
-      "summary_en": "UK comedian Russell Brand convicted of rape and three sexual assaults in London. He was denied bail and will be sentenced on Monday.",
-      "summary_zh": "英国喜剧演员拉塞尔·布兰德在伦敦被判犯有强奸罪和三起性侵犯罪。他被拒绝保释，将于周一被判刑。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/comedian-russell-brand-found-guilty-by-uk-court-of-rape-sexual-assaults-1793894813373-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "英国",
-      "published_at": "2026-11-06T00:07:00+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "b4d51f96184d772a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "74d45316eb228d93",
-      "url": "https://www.detroitnews.com/story/news/local/michigan/2026/11/04/michigan-msu-state-football-2026-fans-donate-urine-science-fertilizer-challenge/92610883007/",
-      "title_en": "UM scientists to collect urine at UM, MSU game for fertilizer research",
-      "title_zh": "密歇根大学科学家在密歇根州立大学比赛中收集尿液用于肥料研究",
-      "summary_en": "",
-      "summary_zh": "密歇根大学科学家在密歇根州立大学比赛中收集尿液用于肥料研究",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-06T00:06:17+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "74d45316eb228d93",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3567a8d0e9f513dd",
-      "url": "https://soranews24.com/2026/11/06/pachinko-parlor-operator-arrested-for-not-obscuring-the-act-of-gambling-well-enough/",
-      "title_en": "Pachinko parlor operator arrested for not obscuring the act of gambling well enough",
-      "title_zh": "弹珠机店经营者因未充分掩盖赌博行为而被捕",
-      "summary_en": "If you’re going to do wrong, do wrong right . For many years, pachinko parlors have stood tall and proud in just about every community across the country as bastions of the human desire to make quick money without having to work for it. Every day, thousands and thousands of people flock to the large and comfortably equipped complexes, seemingly never realizing that the main reason these places are so large and comfortably equipped is that they’re the ones ending up with the money. It should be noted that pachinko…",
-      "summary_zh": "如果你要做错事，那就把错事做对。多年来，弹珠机店在全国几乎每个社区都傲然矗立，成为人类无需工作就能快速赚钱的愿望的堡垒。每天，成千上万的人涌向大型且设备舒适的综合体，似乎从未意识到这些地方如此大且设备舒适的主要原因是他们最终会获得最大的收益。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/IMG_5570.jpg.jpeg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-06T00:00:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "3567a8d0e9f513dd",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
     }
   ]
 }

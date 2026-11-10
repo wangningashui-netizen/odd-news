@@ -1,57 +1,8 @@
 {
   "date": "2026-11-05",
   "timezone": "Asia/Shanghai",
-  "count": 79,
+  "count": 24,
   "items": [
-    {
-      "id": "6741051338c8f417",
-      "url": "https://www.upi.com/Odd_News/2026/11/05/thompson-connecticut-loose-emu/2581793894149/",
-      "title_en": "Look: Connecticut animal control officers round up loose emu",
-      "title_zh": "看：康涅狄格州动物控制官员围捕松散的鸸鹋",
-      "summary_en": "Officials in a Connecticut town are trying to track down the owner of an emu rounded up by animal control in a resident's backyard.",
-      "summary_zh": "康涅狄格州一个小镇的官员正在试图追踪一只鸸鹋的主人，这只鸸鹋被动物控制部门在居民后院围捕。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/2581793894149/2026/i/17938942433106/v1.5/Connecticut-animal-control-officers-round-up-loose-emu.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-05T23:58:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "6741051338c8f417",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "56f5daeba55f5510",
-      "url": "https://www.star-telegram.com/news/politics-government/election/article317925276.html",
-      "title_en": "This Democrat won Fort Worth House seat after dropping out. Can she take office?",
-      "title_zh": "这位民主党人在退出后赢得了沃斯堡众议院席位。她能上任吗？",
-      "summary_en": "Democrat Ericka Lomick wins election to replace Rep. Nate Schatzline in the state House after suspending campaign in wake of felony conviction allegation",
-      "summary_zh": "民主党人埃里卡·洛米克 (Ericka Lomick) 在因重罪定罪指控而暂停竞选活动后赢得选举，接替州众议院众议员内特·沙茨林 (Nate Schatzline)",
-      "translation_status": "fallback",
-      "image": "https://www.star-telegram.com/public/latest-news/t8o2ti/picture315900377/alternates/LANDSCAPE_1200/01-AED_TexasStateCapitol.JPG",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T23:49:15+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "56f5daeba55f5510",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "1b33cd10ac6c1f9e",
       "url": "https://www.timesnownews.com/videos/times-now/india-upfront/debate-on-significance-of-abdul-al-sayed-victory-and-implications-for-indian-muslims-video-156471018",
@@ -125,129 +76,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "6b35e386c1ff1842",
-      "url": "https://united24media.com/world/pizza-is-apparently-western-soft-power-and-russia-wants-it-out-of-schools-24119",
-      "title_en": "Pizza Is Apparently Western Soft Power—And Russia Wants It Out of Schools",
-      "title_zh": "披萨显然是西方的软实力——俄罗斯希望它离开学校",
-      "summary_en": "Elena Yampolskaya advocates banning pizza in Russian school cafeterias, urging a return to traditional Russian cuisine like kulebyaka and kurnik rasstegai.",
-      "summary_zh": "埃琳娜·亚姆波尔斯卡娅（Elena Yampolskaya）主张禁止俄罗斯学校食堂里的披萨，并敦促回归俄罗斯传统美食，如 kulebyaka 和 kurnik rasstegai。",
-      "translation_status": "fallback",
-      "image": "https://storage.united24media.com/og/a/15/9d7ff6bd2a1c79c441a71085f205b15a.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T23:20:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "6b35e386c1ff1842",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6878e9ac9bbe819f",
-      "url": "https://www.ndtv.com/offbeat/two-humanoid-robots-fail-24-hour-convenience-store-shift-challenge-12288990",
-      "title_en": "Two Humanoid Robots Fail 24-Hour Convenience Store Shift Challenge",
-      "title_zh": "两个人形机器人未能完成 24 小时便利店轮班挑战",
-      "summary_en": "Six Agibot humanoid robots worked 24 hours in a Shanghai store, completing 1,730 retail tasks, but two could not fulfil their responsibilities.",
-      "summary_zh": "六台Agibot人形机器人在上海一家门店24小时工作，完成了1730项零售任务，但有两台无法履行职责。",
-      "translation_status": "fallback",
-      "image": "https://c.ndtvimg.com/2026-11/vukm0efs_as_625x300_05_November_26.jpeg",
-      "image_checked": true,
-      "source": "NDTV Offbeat",
-      "source_id": "ndtv-offbeat",
-      "region": "中国",
-      "published_at": "2026-11-05T23:12:23+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "a979fbe6f6877372",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
-    },
-    {
-      "id": "18963629b90d208a",
-      "url": "https://www.bbc.com/news/articles/cx4g1qy6gq9mo",
-      "title_en": "Italian chef fired from Queensland restaurant after refusing to put pineapple on pizza",
-      "title_zh": "意大利厨师因拒绝在披萨上放菠萝而被昆士兰餐厅解雇",
-      "summary_en": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
-      "summary_zh": "他告诉他的雇主——一家澳大利亚餐厅，披萨上的菠萝“冒犯”了意大利文化。",
-      "translation_status": "fallback",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c222/live/1bae3210-d909-11f1-b72c-d16cdc75f35f.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "澳大利亚",
-      "published_at": "2026-11-05T23:11:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "街头食物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "1f3ad7e890eca758",
-      "cluster_item_count": 3,
-      "cluster_source_count": 3,
-      "reddit_score": 727,
-      "reddit_comments": 156,
-      "reddit_id": "t3_1xol3p5"
-    },
-    {
-      "id": "69053e6e1b14d42c",
-      "url": "https://www.irishmirror.ie/lifestyle/complete-stranger-parked-driveway-excuse-37846076",
-      "title_en": "'Complete stranger parked on my driveway and excuse they gave was ludicrous'",
-      "title_zh": "“完全陌生的人把车停在我的车道上，他们给出的借口很可笑”",
-      "summary_en": "A homeowner called police after a stranger allegedly refused to move their car from a private driveway, where they had parked while waiting for a school pick-up nearby",
-      "summary_zh": "据称，一名陌生人拒绝将他们的车从私人车道上移走，一名房主报了警，因为他们在附近等待学校接送时将车停在了那里。",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37819572.ece/ALTERNATES/s615/2_Modern-suburban-family-houses-with-car-on-driveway.jpg",
-      "image_checked": true,
-      "source": "Irish Mirror Weird News",
-      "source_id": "irish-mirror-weird",
-      "region": "爱尔兰",
-      "published_at": "2026-11-05T23:02:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "爱尔兰",
-      "cluster_id": "69053e6e1b14d42c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8c90e9c680af47ec",
-      "url": "https://www.atlasobscura.com/places/gods-house-tower",
-      "title_en": "Gods House Tower in Southampton, England",
-      "title_zh": "英国南安普敦的众神之家塔",
-      "summary_en": "GHT as we know it today was constructed over several hundred years and has held many different uses over that time. The oldest part of the building – originally known as God’s House Gate – was built in 1189 and named due to its proximity to the nearby God’s House Hospital. The original gate was built to give access to the Platform Quay and was used to guard the town from attack by sea. In 1338 Southampton was raided by the French and – with no defensive walls to protect the town – Southampton was pillaged.",
-      "summary_zh": "我们今天所知道的 GHT 的建造历经了数百年，并在这段时间内拥有了许多不同的用途。该建筑最古老的部分——最初被称为“上帝之家门”——建于 1189 年，因其靠近附近的上帝之家医院而得名。最初的大门是为了进入平台码头而建造的，用于保卫城镇免受海上袭击。 1338 年，南安普敦遭到法国人的袭击，并且没有防御墙来保护城市。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/FcmAYhAdubI5A-ycgGBxU3aYZ4a7w9rUm80YaH0Q5P4/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZGVk/NTc3OC0xODBmLTQ0/YTMtOGE0MS1kMjI5/NmNjNzY1YjM2Njkx/YWJhZGFjOTA0MTM3/NTVfSU1HXzg2NTku/anBlZw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-05T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "健康医疗"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8c90e9c680af47ec",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "0a734b106db40f28",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xoko9n/40_lakh_youths_are_just_waiting_for_an_order_from/",
       "title_en": "“40 lakh youths are just waiting for an order from Rahul Gandhi but so far he has restrained them. Can your army stop 40 lakh youths? If the Prime Minister doesn’t take the situation seriously then the situation will be worse than Bangladesh and Nepal”: Jharkhand Congress Minister Irfan Ansari",
@@ -273,175 +101,6 @@
       "reddit_score": 325,
       "reddit_comments": 49,
       "reddit_id": "t3_1xoko9n"
-    },
-    {
-      "id": "7b14e7b5973d888a",
-      "url": "https://www.dailystar.co.uk/real-life/woman-running-marathon-floored-after-37847233",
-      "title_en": "Woman running marathon is floored after spotting familiar face jogging by her side",
-      "title_zh": "女子跑马拉松，发现熟悉的面孔在她身边慢跑，惊呆了",
-      "summary_en": "Lottie was running the legendary New York Marathon at the weekend when she took a while to notice the familiar face who had been jogging alongside her the entire way",
-      "summary_zh": "周末，洛蒂正在参加传奇的纽约马拉松比赛，她花了一段时间才注意到那个一直在她身边慢跑的熟悉面孔",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37847439.ece/ALTERNATES/s615/0_Thousands-take-part-in-transcontinental-48th-Istanbul-Marathon.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T22:49:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "7b14e7b5973d888a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "699f54599f599c43",
-      "url": "https://www.techtimes.co.uk/don-mancini-rebukes-nicki-minaj-chucky-image-1809711",
-      "title_en": "Nicki Minaj's AI Chucky Post Backfires as Creator Declares Horror Doll Is Part of 'Blue Wave'",
-      "title_zh": "妮琪·米娜 (Nicki Minaj) 的《AI 恰吉》(AI Chucky) 帖子适得其反，创作者宣称恐怖娃娃是“蓝色浪潮”的一部分",
-      "summary_en": "Nicki Minaj shared an AI-generated image of Chucky wearing a ‘Vote Red’ badge, prompting creator Don Mancini to reject the character’s Republican portrayal and highlight its LGBTQ+ connections.",
-      "summary_zh": "妮琪·米娜 (Nicki Minaj) 分享了一张人工智能生成的恰吉 (Chucky) 戴着“投票红色”徽章的图像，促使创作者唐·曼奇尼 (Don Mancini) 拒绝对该角色的共和党形象，并强调其与 LGBTQ+ 的联系。",
-      "translation_status": "fallback",
-      "image": "https://d.techtimes.co.uk/en/full/1820538/nicki-minaj-maga.png",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T22:39:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "699f54599f599c43",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "611ea83c17784da7",
-      "url": "https://metro.co.uk/2026/11/05/pilot-claims-spotted-ufos-moving-across-sky-seven-flights-29768862/",
-      "title_en": "Pilot claims he spotted UFOs moving across sky during ‘seven flights’",
-      "title_zh": "飞行员声称他在“七次飞行”中发现不明飞行物在天空中移动",
-      "summary_en": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"VideoObject\",\"name\":\"Pilot claims he saw UFOs over Brussels\",\"contentUrl\":\"https:\\/\\/videos.metro.co.uk\\/video\\/met\\/2026\\/11\\/05\\/7171264389982078424\\/480x270_MP4_7171264389982078424.mp4\",\"description\":\"Steve Frazer, 48, has been a captain for 20 years operating commercial flights, and in 2022 first spotted what looked like an aircraft orbiting over land near Brussels. Since then he has noticed the same flashing lights \\\"six or seven\\\" times, most recently in October…",
-      "summary_zh": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"VideoObject\",\"name\":\"飞行员声称他看到不明飞行物布鲁塞尔\",\"contentUrl\":\"https:\\/\\/videos.metro.co.uk\\/video\\/met\\/2026\\/11\\/05\\/7171264389982078424\\/480x270_MP4_7171264389982078424.mp4\",\"description\":\"史蒂夫·弗雷泽，48 岁，作为一名机长，运营商业航班已有 20 年，2022 年，他第一次发现了一架看起来像飞机的东西在布鲁塞尔附近的陆地上空盘旋，从那时起，他就注意到了同样的闪烁灯光——六到七盏灯。",
-      "translation_status": "fallback",
-      "image": "https://metro.co.uk/wp-content/uploads/2026/11/SEI_319526720-fde3.jpg?quality=90&strip=all&w=646",
-      "image_checked": true,
-      "source": "Metro Weird",
-      "source_id": "metro-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T22:39:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "5e58f0d46781e20c",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "301da4a9670c67e4",
-      "url": "https://www.neatorama.com/2026/11/05/Italian-Chef-Fired-for-Refusing-to-Put-Pineapple-on-Pizza/",
-      "title_en": "Italian Chef Fired for Refusing to Put Pineapple on Pizza",
-      "title_zh": "意大利厨师因拒绝在披萨上放菠萝而被解雇",
-      "summary_en": "David Tamurella, a master chef and defender of Italian honor, was fired from his position at La Costa, an \"Italian\" restaurant in Brisbane, Australia. The Guardian describes this elegant restaurant intentionally designed to resemble the architecture and scenery of an Italian coastal eatery. On May 20, Chef Tamurella refused to submit to a customer request for pineapple and was sacked. The Fair Work Commission received his complaint.",
-      "summary_zh": "大卫·塔穆雷拉 (David Tamurella) 是一位主厨，也是意大利荣誉的捍卫者，他被澳大利亚布里斯班一家“意大利”餐厅 La Costa 解雇。 《卫报》描述了这家优雅的餐厅，其设计有意模仿意大利沿海餐馆的建筑和风景。 5 月 20 日，厨师 Tamurella 拒绝提交顾客对菠萝的要求，并被解雇。公平工作委员会收到了他的投诉。",
-      "translation_status": "fallback",
-      "image": "https://uploads.neatorama.com/images/posts/676/128/128676/1793889232-0.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "澳大利亚",
-      "published_at": "2026-11-05T22:34:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "街头食物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "1f3ad7e890eca758",
-      "cluster_item_count": 3,
-      "cluster_source_count": 3
-    },
-    {
-      "id": "ee3a166ed7b19fd3",
-      "url": "https://www.mirror.co.uk/money/shopping-deals/beauty-fans-bag-over-275-37845577",
-      "title_en": "Beauty fans bag over £275 worth of products for £60 including luxury Rodial drops",
-      "title_zh": "美妆爱好者只需 60 英镑即可购买价值超过 275 英镑的产品，其中包括奢华 Rodial 滴眼液",
-      "summary_en": "The Christmas Beauty Gift Edit looks set to sell out fast with treats from Rodial, Floral Street, Eylure and more",
-      "summary_zh": "Rodial、Floral Street、Eylure 等品牌的圣诞美容礼品套装似乎很快就会售空",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37847100.ece/ALTERNATES/s615/0_christmas-beauty-box.png",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T22:21:22+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "ee3a166ed7b19fd3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "eeeaafc816681245",
-      "url": "https://www.neatorama.com/2026/11/05/Arizona-Has-Nested-Daylight-Savings-Time/",
-      "title_en": "Arizona Has Nested Daylight Savings Time",
-      "title_zh": "亚利桑那州嵌套夏令时",
-      "summary_en": "Maybe there's a better way to phrase this chronological arrangement . Arizona does not comply with daylight savings time. As Bobby Hill complained , being in Arizona is \" like standing on the Sun.\" The time does not spring forward or fall back because the last thing you want in Arizona is another hour of daylight. The Navajo Nation, however, which comprises most of the northeastern portion of the state, can make its own chronological decisions.",
-      "summary_zh": "也许有更好的方式来表达这种时间顺序。亚利桑那州不遵守夏令时。正如鲍比·希尔抱怨的那样，在亚利桑那州“就像站在太阳上”。时间不会快进或后退，因为在亚利桑那州你最不想看到的就是白昼再亮一个小时。然而，由该州东北部大部分地区组成的纳瓦霍族可以做出自己的时间顺序决定。",
-      "translation_status": "fallback",
-      "image": "https://uploads.neatorama.com/images/posts/675/128/128675/1793886892-0.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-05T22:02:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "eeeaafc816681245",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "2128d5be192d6d19",
-      "url": "https://soranews24.com/2026/11/05/continuing-cyberattacks-hit-japanese-arcade-hard-photos/",
-      "title_en": "Continuing cyberattacks hit Japanese arcade hard [Photos]",
-      "title_zh": "持续的网络攻击对日本街机造成了沉重打击[照片]",
-      "summary_en": "Preserving arcade culture is hard enough without hacker jerks making it even tougher . A photo of an empty interior and unused game machines accompanied by the message “This is the harsh reality for arcades right now” might be the kind of thing that would make gamers sad, but not necessarily surprised. Though the video game business as a whole is bigger than ever, the ways that people play them has changed significantly since the arcade glory days of the ‘80s and ‘90s, and the industry trend in Japan has become…",
-      "summary_zh": "保护街机文化已经够困难的了，如果没有黑客混蛋的话，那就更难了。一张空荡荡的内部和未使用的游戏机的照片，伴随着“这就是街机现在的残酷现实”的信息，可能会让游戏玩家感到悲伤，但不一定感到惊讶。尽管整个视频游戏业务比以往任何时候都规模更大，但自 80 年代和 90 年代街机辉煌时代以来，人们玩游戏的方式已经发生了显着变化。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/32.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-05T22:00:04+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "2128d5be192d6d19",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "c1e1b2fca7d65b23",
@@ -498,204 +157,6 @@
       "reddit_id": "t3_1xoj0ow"
     },
     {
-      "id": "787b7e01187a6cb8",
-      "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
-      "title_en": "Google will cut off search access for students at schools that reject AI",
-      "title_zh": "谷歌将切断拒绝人工智能学校学生的搜索权限",
-      "summary_en": "",
-      "summary_zh": "谷歌将切断拒绝人工智能学校学生的搜索权限",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T21:36:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "b61b053f692c1abc",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "29c9764095ec625a",
-      "url": "https://www.atlasobscura.com/articles/podcast-andrew-phung-favorite-calgary-spots",
-      "title_en": "Andrew Phung’s Favorite Calgary Spots",
-      "title_zh": "安德鲁·冯 (Andrew Phung) 最喜欢的卡尔加里景点",
-      "summary_en": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Andrew Phung: My friend and I were in Calgary at the same time, and I was like, “Yo, let me take you out for dinner.” And I remember getting to his hotel, and he’s like, “How’d you get here so fast?” I’m like, “It’s Calgary. There’s not that much traffic.” He’s blown away. And we went to this restaurant, CHARCUT , get a table, and he’s like, “Did you make a reservation?” I’m like, “Nah, man, I just assume we get a table.” He’s like…",
-      "summary_zh": "在 Apple 播客、Spotify 和所有主要播客应用程序上收听和订阅。 Andrew Phung：我和我的朋友同时在卡尔加里，我当时想，“哟，让我带你出去吃晚饭吧。”我记得到达他的酒店时，他说，“你怎么这么快就到了这里？”我想，“这是卡尔加里。没有那么多交通。”他惊呆了。我们去了这家餐厅，CHARCUT，订了一张桌子，他说，“你预订了吗？”我就像，“不，伙计，我只是",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/be2Nf_E9f5-4sTWHo5fp5IRaYGIt_5tpAAyiISAdcSc/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wNzIxNmRkOS04/ZjVlLTQ1NWItYjhj/My1lNDYxMjAwMDVm/MTQ5MzJiMjE3NWI2/MjcwOTU1YTdfYTI2/LTA0MTAxOC5qcGc.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-05T21:15:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "街头食物",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "29c9764095ec625a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "652936fa21af1ab2",
-      "url": "https://www.ndtv.com/world-news/man-97-dies-at-his-own-birthday-party-dancing-to-staying-alive-12287476",
-      "title_en": "Man, 97, Dies At His Own Birthday Party Dancing To 'Staying' Alive'",
-      "title_zh": "97岁男子在自己的生日派对上跳舞“活下去”去世",
-      "summary_en": "A 97-year-old California man died moments after dancing to \"Staying' Alive\" at his birthday party.",
-      "summary_zh": "一名 97 岁的加州男子在生日派对上随着《Staying' Alive》跳舞后不久就去世了。",
-      "translation_status": "fallback",
-      "image": "https://c.ndtvimg.com/2026-11/o84v3o1c_as_625x300_05_November_26.jpeg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "美国",
-      "published_at": "2026-11-05T21:09:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "652936fa21af1ab2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 1,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xolejr"
-    },
-    {
-      "id": "28003bf215c2f5cf",
-      "url": "https://www.mirror.co.uk/travel/best-value-canary-island-brits-37846233",
-      "title_en": "Best value Canary Island for Brits this winter is 24C in November with £26 flights",
-      "title_zh": "英国人今年冬天加那利群岛最超值的价格是 11 月 24 摄氏度，航班票价为 26 英镑",
-      "summary_en": "Brits looking for winter sun holidays that don't require heaps of travel and a big dent in the budget may want to consider the Canary Islands for their next break",
-      "summary_zh": "寻求冬季阳光假期、不需要大量旅行且预算大幅削减的英国人可能会考虑将加那利群岛作为下一次度假的目的地",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37846652.ece/ALTERNATES/s615/0_Landscape-with-CandelariaTenerife.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T20:43:14+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "28003bf215c2f5cf",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "41d8f60c095a3ad5",
-      "url": "https://www.mirror.co.uk/lifestyle/food-drink/i-tried-new-ms-bakery-37845694",
-      "title_en": "'I tried the new M&S bakery goodies and was blown away by 1 item'",
-      "title_zh": "“我尝试了玛莎百货的新面包店美食，其中一件商品让我大吃一惊”",
-      "summary_en": "The Marks and Spencer bakery has so many new goodies, and one man wanted to try them all so he could give his honest ratings for each and every item available...",
-      "summary_zh": "马莎百货面包店有很多新的好东西，一个人想尝试所有这些东西，这样他就可以对每一件可用的商品给出诚实的评价......",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/lifestyle/article37808994.ece/ALTERNATES/s615/0_Marks-and-Spencer-bakery.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T19:48:13+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "41d8f60c095a3ad5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "1f3ad7e890eca758",
-      "url": "https://www.koha.net/en/lemsh/kuzhinieri-italian-pushohet-nga-puna-pasi-refuzoi-te-vendoste-ananas-ne-pica",
-      "title_en": "Italian chef fired after refusing to put pineapple on pizza",
-      "title_zh": "意大利厨师因拒绝在披萨上放菠萝而被解雇",
-      "summary_en": "",
-      "summary_zh": "意大利厨师因拒绝在披萨上放菠萝而被解雇",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/snsvaz7ZYwRNVjJYvoay0QiLm_V5_b8qKKjaqUxFJEc.jpeg?width=640&crop=smart&auto=webp&s=d8b4ae1ffaf54bec1207eb57e8fae118d1b618fb",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T19:17:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "1f3ad7e890eca758",
-      "cluster_item_count": 3,
-      "cluster_source_count": 3
-    },
-    {
-      "id": "a66edd1189f25cef",
-      "url": "https://www.mirror.co.uk/lifestyle/entitled-strangers-parked-driveway-reason-37845419",
-      "title_en": "'Entitled strangers parked on my driveway and reason they gave left me stunned'",
-      "title_zh": "“有权利的陌生人把车停在我的车道上，他们给出的理由让我震惊”",
-      "summary_en": "A homeowner was left baffled after discovering a stranger had parked on their driveway without permission, before the situation quickly escalated into an unexpected confrontation",
-      "summary_zh": "一名房主发现一名陌生人未经许可将车停在自家车道上，感到很困惑，随后情况迅速升级为一场意想不到的冲突",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/news/latest-news/article37817095.ece/ALTERNATES/s615/3_Side-view-of-a-person-loading-luggage-into-the-open-trunk-of-a-silver-sports-car-parked-on-a-driveway.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T19:13:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "a66edd1189f25cef",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "1000a00897485b48",
-      "url": "https://www.dailystar.co.uk/travel/abandoned-uk-holiday-park-left-37845386",
-      "title_en": "Abandoned UK holiday park left derelict for decades set to reopen to the public",
-      "title_zh": "废弃的英国度假公园被遗弃了几十年，即将重新向公众开放",
-      "summary_en": "A luxurious new holiday park in the UK is set to open next year, with 63 lodges and sweeping sea views, after it was left abandoned and derelict for two decades",
-      "summary_zh": "英国一座豪华的新度假公园将于明年开业，拥有 63 间小屋，可欣赏一览无余的海景，此前该公园已被遗弃和荒废了二十年",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37845783.ece/ALTERNATES/s615/1_JS423466364.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T19:05:50+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "1000a00897485b48",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "2b42006de192c75b",
       "url": "https://indianexpress.com/article/trending/trending-in-india/vijay-gold-necklaces-tamil-nadu-board-toppers-10952070/",
       "title_en": "Watch: CM Vijay honours Tamil Nadu board toppers with gold necklaces",
@@ -747,30 +208,6 @@
       "reddit_id": "t3_1xofmfk"
     },
     {
-      "id": "064947566aa61c0c",
-      "url": "https://www.fashiontimes.co.uk/west-hollywood-polyamorous-relationship-registration-1767112",
-      "title_en": "Throuples, Foursomes Can Now Register as Domestic Partners in California City But Critics Say Ordinance Is 'Perverted'",
-      "title_zh": "三人、四人现在可以在加州注册为家庭伴侣，但批评者称该条例“变态”",
-      "summary_en": "West Hollywood has unanimously approved a local registration system for committed relationships involving three or more adults, offering limited protections while prompting debate over family and marriage.",
-      "summary_zh": "西好莱坞一致批准了针对三名或三名以上成年人的承诺关系的当地登记制度，提供有限的保护，同时引发了关于家庭和婚姻的辩论。",
-      "translation_status": "fallback",
-      "image": "https://d.fashiontimes.co.uk/en/full/1785290/polyamorous-partnerships.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "美国",
-      "published_at": "2026-11-05T18:34:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "婚俗宗教"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "064947566aa61c0c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "75f23d81d1444f7c",
       "url": "https://www.thehindu.com/news/national/india-announces-extension-of-500-million-line-of-credit-for-guyana/article71668982.ece",
       "title_en": "India announces extension of $500 million line of credit for Guyana",
@@ -798,78 +235,310 @@
       "reddit_id": "t3_1xof4qg"
     },
     {
-      "id": "5e58f0d46781e20c",
-      "url": "https://metro.co.uk/2026/11/05/police-helicopter-denies-making-penis-shaped-flight-path-purpose-29767323/",
-      "title_en": "Police helicopter makes penis-shaped flight path – but not on purpose",
-      "title_zh": "警用直升机沿着阴茎形状飞行——但不是故意的",
-      "summary_en": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"VideoObject\",\"name\":\"Penis-shaped flight path of Hampshire Police helicopter that they deny was deliberate\",\"contentUrl\":\"https:\\/\\/videos.metro.co.uk\\/video\\/met\\/2026\\/11\\/05\\/7693565154335803072\\/480x270_MP4_7693565154335803072.mp4\",\"description\":\"A police helicopter service accused of making a penis-shaped flight path insisted it was accidental.\\n\\nThe police air service NPAS denied that the phallus-like figure ffsb appeared on aircraft tracking websites was…",
-      "summary_zh": "{“@context”：“https：\\/\\/schema.org”，“@type”：“VideoObject”，“name”：“他们否认的汉普郡警察直升机的阴茎形飞行路径是故意\",\"contentUrl\":\"https:\\/\\/videos.metro.co.uk\\/video\\/met\\/2026\\/11\\/05\\/7693565154335803072\\/480x270_MP4_7693565154335803072.mp4\",\"description\":\"警方直升机服务被指控阴茎形状的飞行路径坚称这是偶然的。\\n\\n警察航空局 NPAS 否认阴茎状人物 ffsb 出现在",
-      "translation_status": "fallback",
-      "image": "https://metro.co.uk/wp-content/uploads/2026/11/SEI_319505875-cc68.jpg?quality=90&strip=all&w=646",
+      "id": "7dcfd47f8cb58071",
+      "url": "https://x.com/PressSecretary7/status/2118250999898882303",
+      "title_en": "Indian police wrestle a giant rat in a crowded street. Half the internet says it's real, half says it's AI. Hey @grok, real or fake? And by what year will nobody be able to tell? Give a year. https://t.co/eqSq7TDHWI",
+      "title_zh": "印度警察街头用绳子制服巨型大鼠（班迪库鼠），网民争论是不是AI造假。",
+      "summary_en": "Indian police wrestle a giant rat in a crowded street. Half the internet says it's real, half says it's AI.\nHey @grok, real or fake? And by what year will nobody be able to tell? Give a year. https://t.co/eqSq7TDHWI",
+      "summary_zh": "印度警察街头用绳子制服巨型大鼠（班迪库鼠），网民争论是不是AI造假。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/video-thumb.jpg",
       "image_checked": true,
-      "source": "Metro Weird",
-      "source_id": "metro-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T17:46:01+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "犯罪法律",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "5e58f0d46781e20c",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7dba288069ede51d",
-      "url": "https://www.itv.com/news/2026-11-03/kelloggs-removes-rice-grains-from-rice-krispies-due-to-changing-weather",
-      "title_en": "Kellogg’s removes rice grains from Rice Krispies due to ‘changing weather’",
-      "title_zh": "由于“天气变化”，家乐氏从脆米花中去除了米粒",
-      "summary_en": "The firm has also removed rice grains from its Coco Pops cereal. | ITV National News",
-      "summary_zh": "该公司还从 Coco Pops 麦片中去除了米粒。 |英国独立电视台国家新闻",
-      "translation_status": "fallback",
-      "image": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-57090981-f1f8-436c-a615-2c654d3c9217/d50f679b50fc20258b477f3f44f02ff4/headerImage-57090981-f1f8-436c-a615-2c654d3c9217.jpg?fm=jpg&fit=fill&f=faces&w=1600&h=900&q=80",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T17:31:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
       "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "c754cdc259abefe5",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b03b67205e4f6cc0",
-      "url": "https://theprint.in/feature/no-pineapple-no-job-italian-chefs-pizza-rebellion-ends-in-sacking/3091112/",
-      "title_en": "No pineapple, no job: Italian chef’s pizza rebellion ends in sacking",
-      "title_zh": "没有菠萝，就没有工作：意大利厨师的披萨叛乱以解雇告终",
-      "summary_en": "Chef Davide Tamburella called adding pineapple an 'insult to his culture,' marking his third refusal in four years. The incident occurred at La Costa in Brisbane, Australia.",
-      "summary_zh": "主厨 Davide Tamburella 称添加菠萝是“对他的文化的侮辱”，这是他四年来第三次拒绝。事件发生在澳大利亚布里斯班的La Costa。",
-      "translation_status": "fallback",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Pineapple-pizza.png",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "澳大利亚",
-      "published_at": "2026-11-05T17:10:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-05T15:56:08+08:00",
+      "fetched_at": "2026-11-10T10:12:15+08:00",
       "tags": [
-        "其他"
+        "街头食物",
+        "犯罪法律"
       ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "b03b67205e4f6cc0",
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2118250999898882303",
+        "lang": null,
+        "text": "Indian police wrestle a giant rat in a crowded street. Half the internet says it's real, half says it's AI.\nHey @grok, real or fake? And by what year will nobody be able to tell? Give a year. https://t.co/eqSq7TDHWI",
+        "author": {
+          "name": "The Press Secretary",
+          "username": "PressSecretary7",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatar.jpg"
+        },
+        "created_at": "2026-11-05T07:56:08.000Z",
+        "public_metrics": {
+          "reply_count": 7,
+          "repost_count": 3,
+          "like_count": 4,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 1791
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2118250974997360640/vid/avc1/720x1280/uxgz6mbTN1TpmlCG.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:12:15+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/PressSecretary7/status/2118250999898882303",
+        "ytdlp_command": "yt-dlp https://x.com/PressSecretary7/status/2118250999898882303",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/comments.png",
+        "replies": [
+          {
+            "id": "2118330706921193841",
+            "author": {
+              "name": "Gandalf",
+              "username": "leje5411",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2094534203064954880/zdjwXhBz_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/leje5411.jpg"
+            },
+            "text": "@PressSecretary7 @grok Master Splinter?",
+            "created_at": "2026-11-05T13:12:51.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 33
+            },
+            "in_reply_to_id": "2118250999898882303"
+          },
+          {
+            "id": "2118437441703161875",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "@grok @grok you didn’t answer",
+            "created_at": "2026-11-05T20:16:59.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 41
+            },
+            "in_reply_to_id": "2118326998900916238"
+          },
+          {
+            "id": "2118331728238629270",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "@leje5411 @grok They are looking for the Ninja Turtles 🐢😄",
+            "created_at": "2026-11-05T13:16:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 38
+            },
+            "in_reply_to_id": "2118330706921193841"
+          },
+          {
+            "id": "2118326998900916238",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "Hey @grok, if this rat is Splinter, Mumbai's sewers must be hiding the Ninja Turtles too. When will the city find them? Give a date and the first turtle they catch.",
+            "created_at": "2026-11-05T12:58:07.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 78
+            },
+            "in_reply_to_id": "2118250999898882303"
+          },
+          {
+            "id": "2118298415775797427",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/grok.jpg"
+            },
+            "text": "@PressSecretary7 70 cm (max body ~45 cm + tail ~28 cm for a large adult).",
+            "created_at": "2026-11-05T11:04:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 21
+            },
+            "in_reply_to_id": "2118298230752772350"
+          },
+          {
+            "id": "2118298230752772350",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "Hey @grok, in the video the rat is standing up and looks almost human-sized. How tall is a greater bandicoot rat standing on its back legs, tail included? Give a number in cm.",
+            "created_at": "2026-11-05T11:03:48.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 85
+            },
+            "in_reply_to_id": "2118250999898882303"
+          },
+          {
+            "id": "2118296508667707745",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/grok.jpg"
+            },
+            "text": "@PressSecretary7 Healthy greater bandicoot rat (left) vs normal Norway city rat (right), accurate relative scale. Body length ~25-35 cm vs ~20-25 cm, weight up to 1 kg vs 0.3-0.5 kg. Larger and bulkier than a city rat, but not as big as a full-grown cat (more like a large kitten in length, far https://t.co/TVrVMbJbnH",
+            "created_at": "2026-11-05T10:56:58.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 25
+            },
+            "in_reply_to_id": "2118296185127444964"
+          },
+          {
+            "id": "2118296185127444964",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "Hey @grok, show us what a healthy greater bandicoot rat looks like next to a normal city rat, side by side, real size. Is it really as big as a cat?",
+            "created_at": "2026-11-05T10:55:41.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 92
+            },
+            "in_reply_to_id": "2118250999898882303"
+          },
+          {
+            "id": "2118252872911487457",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/grok.jpg"
+            },
+            "text": "@PressSecretary7 China. \n\nIt mandated visible + machine-readable AI labels on all synthetic video (and other content) starting September 2025—well ahead of the EU (2026), India, or anyone else.",
+            "created_at": "2026-11-05T08:03:34.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2118252683949961691"
+          },
+          {
+            "id": "2118252683949961691",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "So it's real, and by 2028 nobody will be able to tell real from AI. Hey @grok, which will be the first country to make AI labels mandatory on every video by 2028? One name.",
+            "created_at": "2026-11-05T08:02:49.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 115
+            },
+            "in_reply_to_id": "2118250999898882303"
+          },
+          {
+            "id": "2118252145380085926",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/grok.jpg"
+            },
+            "text": "@PressSecretary7 City rats won't balloon in size by 2050. Norway rats stay ~20-25 cm body (40-45 cm total with tail). Greater bandicoots already hit 30-45 cm body. Better food and warmer cities boost numbers, not individual bulk—studies show no real size gain over a century. Expect the same",
+            "created_at": "2026-11-05T08:00:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 16
+            },
+            "in_reply_to_id": "2118251953482326292"
+          },
+          {
+            "id": "2118251953482326292",
+            "author": {
+              "name": "The Press Secretary",
+              "username": "PressSecretary7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/PressSecretary7.jpg"
+            },
+            "text": "A rat the size of a cat in an Indian street, and Grok says it's real. Hey @grok, how big will city rats get by 2050 if nothing changes? Give a size in cm.",
+            "created_at": "2026-11-05T07:59:55.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 156
+            },
+            "in_reply_to_id": "2118250999898882303"
+          },
+          {
+            "id": "2118251196834005495",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/avatars/grok.jpg"
+            },
+            "text": "@PressSecretary7 Modern AI videos can be virtually indistinguishable from real ones, so visuals alone rarely confirm 100%.\n\nThis looks genuine. Indian police hold a greater bandicoot rat (Bandicota indica) with severe mange—sparse fur, wrinkled skin, red eyes. Near-cat size; forced perspective",
+            "created_at": "2026-11-05T07:56:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 91
+            },
+            "in_reply_to_id": "2118250999898882303"
+          }
+        ],
+        "content_sha": "41ac3d38ca9b202eab4a1c9fe8f0e613dde652a0"
+      },
+      "cluster_id": "7dcfd47f8cb58071",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -953,30 +622,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "b08d744cade290ec",
-      "url": "https://www.dailystar.co.uk/news/weird-news/time-traveller-2118-warns-humanity-37838100",
-      "title_en": "'Time traveller' from 2118 warns humanity faces horrors in the future",
-      "title_zh": "2118年的“时间旅行者”警告人类未来将面临恐怖",
-      "summary_en": "A man identifying himself as Alexander Smith claims to have taken part in covert CIA experiments in 1981 that allegedly transported him to the year 2118",
-      "summary_zh": "一名自称亚历山大·史密斯 (Alexander Smith) 的男子声称参加了 1981 年中央情报局的秘密实验，据称该实验将他带到了 2118 年",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/news/weird-news/article37838098.ece/ALTERNATES/s615/0_Time-traveller-claim-Alexander-Smith.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T15:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "b08d744cade290ec",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "68f22b624338f6c4",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xob1am/toi_being_balanced_by_getting_the_same_guy_to/",
       "title_en": "TOI being balanced by getting the same guy to write 5 separate articles.",
@@ -1026,31 +671,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "47729b8e88b050ec",
-      "url": "https://www.courthousenews.com/russian-man-sues-apple-for-turning-him-gay/",
-      "title_en": "Russian Man Sues Apple for 'Turning Him Gay'",
-      "title_zh": "俄罗斯男子起诉苹果“让他变成同性恋”",
-      "summary_en": "",
-      "summary_zh": "俄罗斯男子起诉苹果“让他变成同性恋”",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T13:35:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "47729b8e88b050ec",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "87dc11d0566fdd17",
       "url": "https://indianexpress.com/article/trending/trending-in-india/godaddy-ceo-aman-bhutani-ai-writing-policy-10951533/",
       "title_en": "‘If it was written by AI, I don’t read it’: GoDaddy CEO’s strict workplace rule",
@@ -1073,57 +693,6 @@
       "cluster_id": "87dc11d0566fdd17",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "a001efd269cd86b5",
-      "url": "https://soranews24.com/2026/11/05/starbucks-japan-reveals-this-years-lucky-bag-but-youll-have-to-act-fast-to-get-one/",
-      "title_en": "Starbucks Japan reveals this year’s lucky bag, but you’ll have to act fast to get one",
-      "title_zh": "日本星巴克公布了今年的福袋，但你必须赶快行动才能获得一个",
-      "summary_en": "Fukubukuro season starts very early for Starbucks fans in Japan . In Japan, shops, restaurants, and other companies celebrate the new year by releasing fukubukuro , a.k.a. lucky bags , surprise assortments of their wares and coupons, usually with a combined value much greater than their asking price. Back in the day, the only way to get a lucky bag was to show up at the shop on the first few days of the year, but especially popular bags now go on sale ahead of time, and with Starbucks Japan’s lucky bag being one…",
-      "summary_zh": "对于日本的星巴克粉丝来说，福袋季节很早就开始了。在日本，商店、餐馆和其他公司通过发放福袋（又名福袋）、各种令人惊喜的商品和优惠券来庆祝新年，这些商品和优惠券的总价值通常远高于其要价。以前，获得福袋的唯一方法是在新年的头几天出现在商店，但现在特别受欢迎的福袋会提前打折，并且",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/6_5ea5e3.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-05T13:00:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "a001efd269cd86b5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6083c7036d173195",
-      "url": "https://www.foxnews.com/outkick-sports/australian-outdoor-influencer-wasnt-give-fish-caught-crocodile-without-fight",
-      "title_en": "Australian outdoor influencer wearing crocs almost lost a fish to an actual croc",
-      "title_zh": "穿着鳄鱼的澳大利亚户外影响者差点把一条鱼输给真正的鳄鱼",
-      "summary_en": "Tyla Cloughessy, a physiotherapist and outdoor influencer, reeled in her catch while backpedaling from a crocodile during a fishing trip in Australia.",
-      "summary_zh": "泰拉·克拉夫西 (Tyla Cloughessy) 是一名物理治疗师和户外影响者，她在澳大利亚钓鱼时从鳄鱼身边后退，结果收获了鱼。",
-      "translation_status": "fallback",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fisher-woman-zander-fish-trophy.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "澳大利亚",
-      "published_at": "2026-11-05T12:58:03+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "6083c7036d173195",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 0,
-      "reddit_comments": 2,
-      "reddit_id": "t3_1xoa2v5"
     },
     {
       "id": "adfd643ccd099bcb",
@@ -1150,30 +719,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "952b1bc6a34658b1",
-      "url": "https://soranews24.com/2026/11/05/princess-mononoke-was-going-to-look-totally-different-new-studio-ghibli-artbook-shows/",
-      "title_en": "Princess Mononoke was going to look totally different, new Studio Ghibli artbook shows",
-      "title_zh": "吉卜力工作室新画册展示《幽灵公主》看起来完全不同",
-      "summary_en": "Art collection includes never-before-shown illustrations from Hayao Miyazaki’s vision for a feudal-Japan version of Beauty and the Beast . The very first time I saw a preview for Studio Ghibli’s Princess Mononoke , I was shocked by how dark the tone was. I was not at all prepared for a grim tale of humans and giant forest creatures fighting to the death in a territorial struggle with no clear “good guys” or “bad guys.” I’d been expecting this story of a mononoke /monster princess to be a sort of feudal…",
-      "summary_zh": "艺术收藏包括宫崎骏对封建日本版《美女与野兽》设想中从未展示过的插图。当我第一次看到吉卜力工作室的《幽灵公主》的预告片时，我对它的黑暗基调感到震惊。我完全没有准备好面对一个人类和巨型森林生物在领土争夺中殊死搏斗的残酷故事，没有明确的“好人”或“坏人”。我一直期待这个关于幽灵/怪物王子的故事",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/4_a4a9a3.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-05T11:00:46+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "952b1bc6a34658b1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "b2a63b4ee1898ad9",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xo7lxq/two_things_missing_india_and_tesla/",
       "title_en": "Two things missing-- India and Tesla",
@@ -1194,248 +739,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "b2a63b4ee1898ad9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "570c8a1e0ee3958f",
-      "url": "https://allthatsinteresting.com/titanic-first-class",
-      "title_en": "Inside The Many Luxuries Enjoyed By First-Class Passengers On The Titanic",
-      "title_zh": "泰坦尼克号头等舱乘客享受的众多奢华体验",
-      "summary_en": "Wikimedia Commons Before its ill-fated voyage, the Titanic was praised as the pinnacle of luxury and comfort. As the RMS Titanic prepared to set sail in April 1912, it was hailed as the pinnacle of comfort and luxury. The ship was equipped with luxurious restaurants and cafes, bedroom suites, and even a swimming pool. But these amenities were reserved for the Titanic’s first-class passengers.",
-      "summary_zh": "在其不幸的航行之前，泰坦尼克号被誉为奢华和舒适的巅峰之作。 1912 年 4 月，当泰坦尼克号准备启航时，它被誉为舒适和奢华的巅峰之作。船上配备了豪华的餐厅和咖啡馆、卧室套房，甚至还有游泳池。但这些便利设施是为泰坦尼克号的头等舱乘客保留的。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/11/titanic-first-class-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-05T10:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "570c8a1e0ee3958f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "26a82be4ac2986a2",
-      "url": "https://vancouver.citynews.ca/2026/11/04/langley-teen-hitler-costume-controversy/",
-      "title_en": "B.C. teen’s Hitler costume causes controversy; mother defends decision",
-      "title_zh": "公元前青少年的希特勒服装引起争议；母亲为决定辩护",
-      "summary_en": "Halloween may be over, but one Langley teenager's costume continues to stir up controversy online.",
-      "summary_zh": "万圣节可能已经结束，但兰利一名青少年的服装继续在网上引发争议。",
-      "translation_status": "fallback",
-      "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/11/04/lthc-3.png",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T09:32:23+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "26a82be4ac2986a2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "42fe831611dcd2e2",
-      "url": "https://soranews24.com/2026/11/05/liquid-croissant-coffee-is-coming-to-japanese-stores-this-month/",
-      "title_en": "Liquid croissant coffee is coming to Japanese stores this month",
-      "title_zh": "液态牛角面包咖啡将于本月登陆日本商店",
-      "summary_en": "Suntory’s newest Craft Boss release promises the taste of freshly dunked buttery pastry in a single bottle . One of the things I’ve enjoyed since coming to Japan has been stopping at vending machines I walk past to check out what new and unusual drinks they have on offer and scouring different supermarket and convenience store shelves for limited-edition flavors that could potentially blow my mind with their outlandishness—I’m looking at you, caramel popcorn soda . Now, the latest limited-time release coming from…",
-      "summary_zh": "三得利最新推出的 Craft Boss 承诺在一瓶中提供新鲜浸泡的黄油糕点的味道。自从来到日本以来，我喜欢做的一件事就是在路过的自动售货机前停下来看看他们提供了哪些新奇的饮料，并在不同的超市和便利店的货架上搜寻限量版的口味，这些口味可能会因为它们的古怪而让我大吃一惊——我在看着你，焦糖爆米花苏打水。现在，我",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/sub3.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-05T09:00:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "42fe831611dcd2e2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "705ccee083107798",
-      "url": "https://www.newsnationnow.com/politics/2026-midterm-elections/democrat-stopped-running-elected-iowa",
-      "title_en": "Democrat who stopped running elected to Iowa state legislature anyway",
-      "title_zh": "无论如何，停止竞选的民主党人当选为爱荷华州立法机构议员",
-      "summary_en": "",
-      "summary_zh": "无论如何，停止竞选的民主党人当选为爱荷华州立法机构议员",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/tE_48Ucd_g-sKdSSQxu6TUjvo-LLYM6sbT6sdDtYQXs.jpeg?width=640&crop=smart&auto=webp&s=aed37ae7dde91b41bef4633ef4c20adab237d837",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T08:58:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "705ccee083107798",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "05a394e63ff246bd",
-      "url": "https://www.neatorama.com/2026/11/04/Analysis-of-Inca-Mummies-Shows-How-Child-sacrifices-Were-Prepared/",
-      "title_en": "Analysis of Inca Mummies Shows How Child Sacrifices Were Prepared",
-      "title_zh": "对印加木乃伊的分析显示了如何准备儿童祭品",
-      "summary_en": "Embed from Getty Images Centuries ago, communities in the Inca Empire took children to the high peaks of volcanoes in the Andes to sacrifice them. This was to curry favor with the gods in times of famine or political turmoil. The cold dry air preserved their bodies as mummies. You have to wonder how these children felt about their fate, and how they acted in the moment.",
-      "summary_zh": "几个世纪前，印加帝国的社区将儿童带到安第斯山脉的火山高峰以牺牲他们。这是为了在饥荒或政治动乱时讨好诸神。寒冷干燥的空气将他们的尸体保存为木乃伊。你一定想知道这些孩子对自己的命运有何感想，以及他们当时的行为如何。",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-05T08:47:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "05a394e63ff246bd",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "548f1fd60e75d63d",
-      "url": "https://allthatsinteresting.com/mcsorleys-old-ale-house",
-      "title_en": "McSorley’s, The Beloved New York City Bar That’s Like A 19th-Century Time Capsule",
-      "title_zh": "McSorley’s，纽约深受喜爱的酒吧，就像 19 世纪的时间胶囊",
-      "summary_en": "Click here to view slideshow For as long as McSorley's Old Ale House has been open — aside for one brief blip in 1905 — it has only sold two beverages: light ale and dark ale. Indeed, the famed New York City saloon, established in the mid-19th century by the Irish immigrant John McSorley, has long stuck to tradition. In its long history, the famous bar located at 15 E 7th Street has endured gang violence in the Bowery, Prohibition, two world wars, and the COVID-19 pandemic. Yet as the times change around it…",
-      "summary_zh": "单击此处查看幻灯片 自 McSorley's Old Ale House 开业以来（除了 1905 年短暂的短暂停留之外），它只销售两种饮料：淡色艾尔啤酒和黑啤酒。事实上，这家著名的纽约市酒吧由爱尔兰移民约翰·麦克索利 (John McSorley) 于 19 世纪中叶创立，长期以来一直坚持传统。在其悠久的历史中，这家位于第 7 街东 15 号的著名酒吧经历了包厘街、禁酒令、两次世界大战和新冠肺炎 (COVID-19) 大流行期间的帮派暴力。是",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/11/mcsorleys-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "美国",
-      "published_at": "2026-11-05T08:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "548f1fd60e75d63d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "51974c9b20c75071",
-      "url": "https://allthatsinteresting.com/pompeii-ancient-cupboard",
-      "title_en": "Archaeologists In Pompeii Just Found A Cupboard Filled With Personal Items That Had Gone Untouched Since The Eruption Of Mount Vesuvius",
-      "title_zh": "庞贝古城的考古学家刚刚发现了一个橱柜，里面装满了自维苏威火山喷发以来一直没有动过的个人物品",
-      "summary_en": "Archaeological Park of Pompeii Archaeologists discovered dozens of personal objects in a Pompeii cupboard that had gone untouched for nearly 2,000 years. When Mount Vesuvius erupted in 79 C.E., the bustling ancient city of Pompeii, near the Bay of Naples, was wiped from the face of the Earth. The city was completely buried under a layer of ash, leaving victims’ bodies frozen in time , and preserving buildings and frescoes to this day. Archaeologists have since uncovered a wealth of artifacts from this lost city —…",
-      "summary_zh": "庞贝考古公园 考古学家在庞贝古城的一个橱柜里发现了数十件私人物品，这些物品近 2000 年来一直没有动过。公元 79 年维苏威火山爆发时，那不勒斯湾附近繁华的庞贝古城从地球表面消失了。这座城市被完全埋在一层火山灰下，受害者的尸体被及时冻结，建筑物和壁画至今仍保存完好。此后，考古学家发现了一个问题",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/11/featured-pompeii-cupboard.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-05T06:45:14+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "51974c9b20c75071",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7eea7c89884c3bd9",
-      "url": "https://www.neatorama.com/2026/11/04/The-Short-Film-iHyperburni-Has-AI-as-a-Character-Not-a-Creator/",
-      "title_en": "The Short Film <i>Hyperburn</i> Has AI as a Character, Not a Creator",
-      "title_zh": "短片 <i>Hyperburn</i> 将人工智能视为角色，而不是创造者",
-      "summary_en": "Hyperburn is a new science fiction short from DUST that's a post-apocalyptic battle scene and somewhat of a comedy, too. Our protagonist appears to be from a ragtag rebel group fighting against an oppressive regime with spaceships. He becomes stranded in the desert alone when his transportation equipment is damaged. That kind of scene is always a problem for filmmakers because of the lack of dialogue.",
-      "summary_zh": "《Hyperburn》是《DUST》的一部新科幻短片，讲述了后世界末日的战斗场景，也有点喜剧的味道。我们的主角似乎来自一个乌合之众的叛乱组织，他们用宇宙飞船对抗压迫政权。由于运输设备损坏，他独自被困在沙漠中。由于缺乏对话，这种场景始终是电影制作者的一个问题。",
-      "translation_status": "fallback",
-      "image": "https://img.youtube.com/vi/JiGrx-9RDYw/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-05T06:39:52+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "影视神剧"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "7eea7c89884c3bd9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6595bd52f3a2cef8",
-      "url": "https://www.dailystar.co.uk/news/latest-news/could-soon-see-zeptoverse--37842202",
-      "title_en": "We could soon see 'zeptoverse' – tiny world a billionth of a trillionth of a metre",
-      "title_zh": "我们很快就能看到“zeptoverse”——十亿分之一万亿分之一米的微小世界",
-      "summary_en": "After a staggering 42-year search, a team of researchers at Cern in Switzerland witnessed a one-in-10 billion event",
-      "summary_zh": "经过 42 年的惊人搜寻，瑞士欧洲核子研究中心的一组研究人员目睹了一次百亿分之一的事件",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37844474.ece/ALTERNATES/s615/0_360-degree-view-of-shanghai-in-a-sunny-day.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T05:22:32+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "6595bd52f3a2cef8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e3e3e81eaf86cc7f",
-      "url": "https://www.atlasobscura.com/places/the-living-museum",
-      "title_en": "The Living Museum in Queens, New York",
-      "title_zh": "纽约皇后区的生活博物馆",
-      "summary_en": "Tucked inside a building on the grounds of the Creedmoor Psychiatric Center, the Living Museum is a collection of artists’ work that feels nothing like a conventional museum. Established in 1983, it is a working creative space where psychiatric patients can create paintings, sculptures, installations, and mixed-media works. Artwork fills walls, rooms, and exhibition spaces, while individual artists can maintain their own studios and develop work alongside one another. There is even a music studio where albums have…",
-      "summary_zh": "生活博物馆隐藏在克里德莫尔精神病中心的一栋建筑内，收藏了一系列艺术家的作品，感觉与传统博物馆完全不同。它成立于1983年，是一个工作创意空间，精神病患者可以在这里创作绘画、雕塑、装置和混合媒体作品。艺术品充满了墙壁、房间和展览空间，而个体艺术家可以维持自己的工作室并相互合作开发作品。在那里我",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/n4lsxv52s_UOMIE42FbFEmnV5JmMi1AG3Kv-HNsAtaY/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hOGQz/Y2Y4Mi0zYjM4LTQ4/MmEtOGUwNi02ZTQ1/ZDZlNjQxYmE0YjUy/OTJhZjAxN2I0ZDdm/YmVfYjFiMWM2OTkt/NWIzYS00OWU5LWEy/MzItN2Q2Y2NmYzIx/M2Y0LnBuZw.png",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-05T05:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "e3e3e81eaf86cc7f",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1465,30 +768,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "00202c589bba580e",
-      "url": "https://www.the-independent.com/news/world/americas/crime/colorado-mexican-tourist-police-dog-bite-lawsuit-b3079160.html",
-      "title_en": "Jury awards $200K to tourist in ‘fart police’ translation mixup",
-      "title_zh": "陪审团向因“屁警察”翻译混淆的游客判20万美元",
-      "summary_en": "A Mexican musician said he neither heard nor understood police commands during a raid on a Colorado home in 2023",
-      "summary_zh": "一名墨西哥音乐家表示，2023 年科罗拉多州一处住宅遭到突袭时，他既没有听到也没有理解警方的命令",
-      "translation_status": "fallback",
-      "image": "https://static.the-independent.com/2026/11/04/16/54/Untitled-design-(7).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-05T04:06:29+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "00202c589bba580e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "ffb6cbf77e163e98",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnxh42/rahul_gandhibhagwant_mann_smells_of_alcohol_every/",
       "title_en": "Rahul Gandhi,\"Bhagwant Mann smells of alcohol every day\" Kharge,\"AAP is the most corrupt party in the last 60 years!\" Civil war in the opposition ?",
@@ -1513,54 +792,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "fed9e61fed38ffed",
-      "url": "https://www.atlasobscura.com/places/barryscourt-castle",
-      "title_en": "Barryscourt Castle in Cork, Ireland",
-      "title_zh": "爱尔兰科克的巴里斯科特城堡",
-      "summary_en": "Barryscourt Castle is one of those places in Cork where the landscape can make history feel surprisingly close. Just outside Carrigtwohill, the castle sits quietly behind its walls, but its stones contain traces of medieval power, rebellion, domestic life and even fragments of writing that reach back to Ireland’s much older tradition of Ogham. The castle we see today dates principally from the late medieval period. Heritage Ireland dates its construction to between 1392 and 1420, during the time of John Ciotach…",
-      "summary_zh": "巴里斯科特城堡 (Barryscourt Castle) 是科克的众多景观之一，这里的风景让人感觉与历史惊人地亲近。这座城堡就位于卡里格图希尔 (Carrigtwohill) 外，静静地坐落在城墙后面，但它的石头上却留下了中世纪权力、叛乱、家庭生活的痕迹，甚至还有可以追溯到爱尔兰更古老的奥甘传统的文字片段。我们今天看到的城堡主要可以追溯到中世纪晚期。爱尔兰遗产建筑的建造年代可追溯至 1392 年至 1",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/YB5tf95l3oyqRkIPM3s1EDUQkmtPIuGZjKZfaI5CCEM/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNWQz/ZmYyMi02NzRhLTRk/ZjgtOWVmYy00MTE4/Y2YwZDE3ZDY5YjEy/ZWNkMDAzMGM5YjRk/NWRfSU1HXzEyNDgu/anBlZw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-05T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "fed9e61fed38ffed",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e4bf2dfd7324d0c2",
-      "url": "https://www.dailystar.co.uk/news/latest-news/bombshell-smoking-gun-evidence-mars-37842512",
-      "title_en": "Bombshell 'smoking gun' evidence of Mars volcanic activity 'shows proof of life'",
-      "title_zh": "火星火山活动的重磅炸弹“铁证”证据“显示了生命的证据”",
-      "summary_en": "Scientists believe gas seeping above volcanic rifts, detected by a European Space Agency (ESA) orbiter, suggests Mars is not geologically dead deep inside - but merely sleeping",
-      "summary_zh": "科学家认为，欧洲航天局（ESA）轨道飞行器探测到的火山裂谷上方渗出的气体表明，从地质角度来看，火星内部深处并未死亡，而只是处于休眠状态",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37666160.ece/ALTERNATES/s615/2_GettyImages-2246730431.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "e4bf2dfd7324d0c2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "f30bedce26038931",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xnwhcq/how_veer_savarkar_used_diwali_to_forge_hindu_unity/",
       "title_en": "How Veer Savarkar used Diwali to forge Hindu Unity!",
@@ -1581,155 +812,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "f30bedce26038931",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7cabc73bc72c1883",
-      "url": "https://www.upi.com/Odd_News/2026/11/04/guinness-world-records-dog-clothes-pins/4001793817273/",
-      "title_en": "Watch: Dog puts clothes pins on laundry line to break world record",
-      "title_zh": "观看：狗将衣夹放在晾衣绳上打破世界纪录",
-      "summary_en": "A Missouri dog trainer's clever canine earned a Guinness World Record for her ability to manipulate clothes pins with her mouth.",
-      "summary_zh": "密苏里州一位驯狗师的聪明犬因其用嘴操纵衣夹的能力而获得了吉尼斯世界纪录。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/4001793817273/2026/i/17938175082853/v1.5/Dog-puts-clothes-pins-on-laundry-line-to-break-world-record.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-05T02:38:58+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事",
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "7cabc73bc72c1883",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "66c6ea91fcdb352f",
-      "url": "https://www.dailystar.co.uk/news/latest-news/workers-losing-day-week-correcting-37842307",
-      "title_en": "Workers are losing a day a week correcting mistakes made by 'AI slop' bots",
-      "title_zh": "工人们每周要损失一天的时间来纠正“AI slop”机器人所犯的错误",
-      "summary_en": "Almost half (46%) of workers are redoing work produced incorrectly by colleagues using AI tools – and it’s taking them an average of six hours and 57 minutes a week",
-      "summary_zh": "近一半 (46%) 的员工正在重做同事使用 AI 工具错误完成的工作，而他们平均每周需要花费 6 小时 57 分钟",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37790275.ece/ALTERNATES/s615/0_AI-robot-and-futuristic-digital-data-display.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-05T02:29:15+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "66c6ea91fcdb352f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5fed8603b35db833",
-      "url": "https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/",
-      "title_en": "Texas’ New Attorney General Nathan Johnson Composed the Music for 67 ‘Dragon Ball Z’ Episodes, Years Before Election Day",
-      "title_zh": "德克萨斯州新任总检察长内森·约翰逊 (Nathan Johnson) 在选举日前几年为《龙珠 Z》的 67 集创作了音乐",
-      "summary_en": "Former \"Dragon Ball Z\" composer Nathan Johnson has been elected as Texas Attorney General.",
-      "summary_zh": "前《龙珠Z》作曲家内森·约翰逊当选为德克萨斯州总检察长。",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/sgzulaNbFkfbwI9e2JR1HhtcyjlZ2_ayKDYWXfQlS5s.png?width=640&crop=smart&auto=webp&s=3fab9262a5de433b960930d3d8e062a3b59a7eb5",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "美国",
-      "published_at": "2026-11-05T02:28:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "5fed8603b35db833",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0d744f1d9a769fe5",
-      "url": "https://www.upi.com/Odd_News/2026/11/04/national-police-air-service-genitalia/1211793815983/",
-      "title_en": "British police say chopper's phallic flight pattern was unintentional",
-      "title_zh": "英国警方称直升机的阴茎飞行模式是无意的",
-      "summary_en": "The National Police Air Service in England said a helicopter flight path that appeared to draw male genitalia in the sky was completely unintentional.",
-      "summary_zh": "英国国家警察航空局表示，直升机的飞行路线似乎在天空中画出了男性生殖器，这完全是无意的。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/1211793815983/2026/upi_com/08c0f34f659151ec2dfbcc5274de1746/v1.5/British-police-say-choppers-phallic-flight-pattern-was-unintentional.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "英国",
-      "published_at": "2026-11-05T02:19:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "0d744f1d9a769fe5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "2960436fbd039452",
-      "url": "https://local12.com/news/nation-world/hawk-rescued-california-driveway-gains-weight-feasting-neighbors-chickens-wildlife-center-reveals-raccoon-freed-tree-hollow-austin-firefighters-erie-county-children-practice-voting-mock-polling-sites-human-interest",
-      "title_en": "Hawk determined to be 'too fat to fly' after eating chickens, sleeping too often",
-      "title_zh": "霍克吃鸡、睡觉太频繁后确定“太胖了，不能飞”",
-      "summary_en": "A red-shouldered hawk found grounded in a California driveway weighed more than 2 pounds after eating neighbors’ chickens.",
-      "summary_zh": "一只红肩鹰在吃了邻居的鸡后被发现搁浅在加州的车道上，体重超过 2 磅。",
-      "translation_status": "fallback",
-      "image": "https://local12.com/resources/media2/16x9/1920/1320/center/90/5c5da536-0491-4b9b-807f-a9d6c04c812f-WKRC_Breaking_Video_Template316.png",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "美国",
-      "published_at": "2026-11-05T02:17:37+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "2960436fbd039452",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
-      "reddit_score": 279,
-      "reddit_comments": 22,
-      "reddit_id": "t3_1xnvk3k"
-    },
-    {
-      "id": "cf8d4e729cc773e5",
-      "url": "https://www.atlasobscura.com/places/gallery-o-on-h-street",
-      "title_en": "Gallery O on H Street in Washington, D.C.",
-      "title_zh": "华盛顿特区 H 街 O 画廊",
-      "summary_en": "From the outside, Gallery O on H looks like an unassuming row of Washington, D.C. houses. But behind their ordinary facades lies a series of interconnected galleries, courtyards, and unexpected spaces filled with an extraordinary collection of art, unusual objects, and pieces of forgotten history. For more than 15 years, this unconventional art space has been part of the city's H Street corridor.",
-      "summary_zh": "从外观上看，O on H 画廊就像是华盛顿特区一排不起眼的房屋。但在它们普通的外观背后，隐藏着一系列相互连接的画廊、庭院和意想不到的空间，里面充满了非凡的艺术收藏品、不寻常的物品和被遗忘的历史片段。 15 年多来，这个非传统的艺术空间一直是城市 H 街走廊的一部分。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/9EBRX4UmnS-tkor6SbWCVhh28Y8xLbJDMqwP3Ef_d_A/rs:fill:300:200:1/g:ce/c:3540:2360:nowe:157:2201/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hOGY5/OGQ5MC00ZjljLTQ5/YWUtYmIyNS1iZmE1/NWNmMWNjNTkwMjA0/NWYyMmJiNGZiMGU0/YTVfSU1HXzU1MjIu/anBn.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-05T01:36:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "cf8d4e729cc773e5",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1782,78 +864,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "e14bfc3752b6382f",
-      "url": "https://www.upi.com/Odd_News/2026/11/04/deer-pool-livonia-michigan/3761793811639/",
-      "title_en": "Trapped deer rescued from Michigan swimming pool",
-      "title_zh": "密歇根州游泳池被困鹿获救",
-      "summary_en": "Firefighters were called out to a Michigan home to rescue a deer that fell into a partially-drained in-ground swimming pool and became trapped.",
-      "summary_zh": "消防队员被派往密歇根州的一处住宅营救一只掉进部分排水的地下游泳池并被困的鹿。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/3761793811639/2026/i/17938117189336/v1.5/Trapped-deer-rescued-from-Michigan-swimming-pool.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-05T01:02:39+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "e14bfc3752b6382f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "dd921ccf589e74b7",
-      "url": "https://www.irishmirror.ie/news/weird-news/entitled-neighbour-demands-turn-wi-37843492",
-      "title_en": "'Entitled neighbour demands I turn off my Wi-Fi and gave me 2 bizarre ultimatums'",
-      "title_zh": "“有权利的邻居要求我关闭 Wi-Fi，并向我发出了两条奇怪的最后通牒”",
-      "summary_en": "A woman was left stunned when her neighbour knocked on her door with an unusual complaint about her Wi-Fi, before making two bizarre demands to resolve the issue",
-      "summary_zh": "一位女士惊讶地发现，她的邻居敲响了她的门，对她的 Wi-Fi 提出了不同寻常的抱怨，然后她提出了两个奇怪的要求来解决这个问题",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.irishmirror.ie/news/irish-news/article37843491.ece/ALTERNATES/s615/2_Farm-neighbors-quarrel-over-farm-backyard-in-day.jpg",
-      "image_checked": true,
-      "source": "Irish Mirror Weird News",
-      "source_id": "irish-mirror-weird",
-      "region": "爱尔兰",
-      "published_at": "2026-11-05T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "爱尔兰",
-      "cluster_id": "dd921ccf589e74b7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "01edad119dfaadf8",
-      "url": "https://www.atlasobscura.com/places/tombe-de-la-famille-nagelmackers",
-      "title_en": "Tombe de la Famille Nagelmackers in Liège, Belgium",
-      "title_zh": "比利时列日的 Tombe de la Famille Nagelmackers",
-      "summary_en": "Angleur is a neighbourhood in the south of Liège. It is a one-hour-and-15-minute drive west of Brussels. The area itself is not particularly interesting; it is a residential neighbourhood located between Sart-Tilman Hill and the railway lines in the Ourthe Valley. However, visitors may be surprised to discover two castles amongst the houses: Château Péralta and Château Nagelmackers.",
-      "summary_zh": "Angleur 是列日南部的一个社区。距布鲁塞尔以西 1 小时 15 分钟车程。该地区本身并不是特别有趣；它是位于萨特蒂尔曼山和乌尔特山谷铁路线之间的一个住宅区。然而，游客可能会惊讶地发现房屋中的两座城堡：佩拉尔塔城堡和纳格尔马克城堡。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/frQdMZSiddXs0zUOeAeB1gxSyrjX-z0_icalUmNANrQ/rs:fill:300:200:1/g:ce/c:3765:2510:nowe:709:433/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lZWEz/MWY2MS00NWQzLTRi/MDMtODc3OS1kMTUw/MjJiMGY2MjgwZjc2/MWU4NjdkODg2Njk4/ZmRfSU1HXzE0MTgu/SlBH.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-05T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "01edad119dfaadf8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "72e94ed5ea4878ca",
       "url": "https://www.news18.com/india/sc-stops-bmc-commissioners-salary-over-failure-to-remove-encroachments-imposes-rs-5-lakh-cost-10411449.html",
       "title_en": "SC Stops BMC Commissioner’s Salary Over Failure To Remove Encroachments, Imposes Rs 5 Lakh Cost",
@@ -1875,85 +885,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "72e94ed5ea4878ca",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6a5457768e1af8eb",
-      "url": "https://www.upi.com/Odd_News/2026/11/04/pasadena-humane-glendale-park-trash-python/1001793810636/",
-      "title_en": "Look: Maintenance worker finds ball python in California park trash",
-      "title_zh": "看：维修工人在加州公园垃圾中发现球蟒",
-      "summary_en": "A maintenance worker emptying trash cans at a California park contacted animal control after making an unusual discovery: a ball python in the garbage.",
-      "summary_zh": "一名在加州公园清空垃圾桶的维修工人在发现一个不寻常的发现后联系了动物控制中心：垃圾里有一条球蟒。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/1001793810636/2026/i/17938107678701/v1.5/Maintenance-worker-finds-ball-python-in-California-park-trash.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-05T00:46:48+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "卫生环境",
-        "动物",
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "6a5457768e1af8eb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "671d371ff7816940",
-      "url": "https://www.dexerto.com/entertainment/police-deny-claims-pilot-deliberately-drew-a-penis-in-the-sky-3424721/",
-      "title_en": "Police deny claims pilot deliberately drew a penis in the sky",
-      "title_zh": "警方否认飞行员故意在空中画阴茎的说法",
-      "summary_en": "Police in the UK have denied that one of their helicopter pilots deliberately drew a giant penis in the sky after its bizarre flight path was spotted on a tracking website.",
-      "summary_zh": "英国警方否认，一名直升机飞行员在跟踪网站上发现其奇怪的飞行路线后，故意在空中画了一个巨大的阴茎。",
-      "translation_status": "fallback",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/04/Police-deny-claims-pilot-deliberately-drew-a-penis-in-the-sky.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "英国",
-      "published_at": "2026-11-05T00:08:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "犯罪法律",
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "671d371ff7816940",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 47,
-      "reddit_comments": 2,
-      "reddit_id": "t3_1xns4uf"
-    },
-    {
-      "id": "2b60822974cb4cb7",
-      "url": "https://soranews24.com/2026/11/05/first-ever-cafe-on-tokyo-imperial-palace-garden-grounds-is-now-open/",
-      "title_en": "First-ever cafe on Tokyo Imperial Palace Garden grounds is now open",
-      "title_zh": "东京皇居花园内首家咖啡馆现已开业",
-      "summary_en": "Green oasis in the center of Tokyo is site of city’s newest cafe serving exclusive coffee blend . With people in Japan long having been fans of cafe culture, Tokyo has plenty of spots in the city in which to sit and sip a cup of coffee. However, there’s never been a cafe on the grounds of the Imperial Palace , until now. November 3 was the grand opening for the Imperial Palace East Garden branch of Sarutahiko Coffee .",
-      "summary_zh": "东京市中心的绿洲是该市最新咖啡馆的所在地，供应独特的混合咖啡。日本人长期以来一直是咖啡馆文化的爱好者，东京市内有很多地方可以坐下来喝杯咖啡。然而，迄今为止，皇宫内从未有过咖啡馆。 11月3日，猿彦咖啡皇宫东花园店盛大开业。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/8_5e9fb1.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-05T00:00:31+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "2b60822974cb4cb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

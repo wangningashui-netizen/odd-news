@@ -1,32 +1,8 @@
 {
   "date": "2026-10-06",
   "timezone": "Asia/Shanghai",
-  "count": 10,
+  "count": 6,
   "items": [
-    {
-      "id": "1671c2d711697cdd",
-      "url": "https://www.express.co.uk/news/weird/2254874/Russia-plague-prophet-doom-psychics-prediction",
-      "title_en": "'Prophet of Doom' psychic's chilling prediction before Russian plague panic",
-      "title_zh": "俄罗斯瘟疫恐慌前“末日先知”通灵者的令人毛骨悚然的预测",
-      "summary_en": "A female lab worker died of a \"pneumonia\" of unknown origin, sparking fears she may have been exposed to pneumonic plague A psychic known as the \"Prophet of Doom\" eerily forecast a \"biological type of illness\" just days before a plague researcher passed away in Russia. Last week, a female laboratory worker from the Irkutsk Anti-Plague Research Institute of Siberia and the Far East succumbed to \"pneumonia\" from an unidentified source, raising concerns she may have contracted pneumonic plague. Russian officials…",
-      "summary_zh": "一名女实验室工作人员死于不明原因的“肺炎”，引发人们担心她可能感染了肺鼠疫。就在俄罗斯一名鼠疫研究员去世前几天，一位被称为“末日先知”的通灵者诡异地预言了一种“生物型疾病”。上周，西伯利亚和远东伊尔库茨克抗鼠疫研究所的一名女实验室工作人员死于不明来源的“肺炎”，引发人们担心她可能感染了病毒。",
-      "translation_status": "fallback",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/80/590x/2254874_1.jpg",
-      "image_checked": true,
-      "source": "Express Weird News",
-      "source_id": "express-weird",
-      "region": "英国",
-      "published_at": "2026-10-06T22:13:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "1671c2d711697cdd",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "76ead6bbcb4428ed",
       "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-for-retirement-report-and-index-2026-how-uruguay-beat-spain-and-portugal-to-top-spot-10908737/",
@@ -48,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "76ead6bbcb4428ed",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a680958a3ecf9442",
-      "url": "https://metro.co.uk/2026/10/06/nasa-shares-image-spooky-witch-head-spotted-lurking-deep-space-29682829/",
-      "title_en": "Nasa shares image of spooky ‘witch head’ spotted lurking in deep space",
-      "title_zh": "美国宇航局分享了潜伏在深空的幽灵“女巫头”的图像",
-      "summary_en": "The Witch Head Nebula, officially known as IC 2118, appears to resemble the profile of a witch in deep space (Picture: NASA/JPL-Caltech/Cover Images) We’re just a few weeks away from Halloween , and Nasa has shared an appropriately spooky sight lurking in deep space . The eerie image shows a nebula that seems to resemble a witch’s head in profile — and has been given the fitting name ‘Witch Head Nebula’. Officially known as IC 2118, the ghostly formation lies between the constellations Orion and Eridanus, around…",
-      "summary_zh": "女巫头星云，正式名称为 IC 2118，看起来很像深空女巫的轮廓（图片：NASA/JPL-Caltech/Cover Images）距离万圣节只有几周了，美国宇航局分享了潜伏在深空的诡异景象。这张怪异的图像显示了一个星云的轮廓似乎类似于女巫的头，并被赋予了合适的名称“女巫头星云”。官方名称为IC 2118，这个幽灵般的阵型位于两面之间",
-      "translation_status": "fallback",
-      "image": "https://metro.co.uk/wp-content/uploads/2026/10/coverimages56075504-eedb.jpg?quality=90&strip=all&w=646",
-      "image_checked": true,
-      "source": "Metro Weird",
-      "source_id": "metro-weird",
-      "region": "英国",
-      "published_at": "2026-10-06T20:17:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "a680958a3ecf9442",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -120,30 +72,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1c48de7a97cd002d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8ff2b3e0213d9c76",
-      "url": "https://www.express.co.uk/life-style/cars/2254572/i-drove-tiny-10000-car",
-      "title_en": "'I drove tiny £10,000 car and loved it – despite one very big thing missing from exterior'",
-      "title_zh": "“我开着价值 10,000 英镑的小车，很喜欢它——尽管外观上缺少了一件非常大的东西”",
-      "summary_en": "EXCLUSIVE: Christopher Sharp test drove the Citroen Ami buggy during the SMMT's Drive Live event last month It can be easy to forget sometimes that cars can be fun and eccentric; whether that’s dynamically or aesthetically. Cars are not like washing machines or dishwashers or any other type of appliance. Yes, they serve a purpose, they have their functions, but it is easy to forget they can be methods of expression and fun too. And nothing highlights that point than a small little French car I had the chance to…",
-      "summary_zh": "独家报道：克里斯托弗·夏普 (Christopher Sharp) 上个月在 SMMT 的 Drive Live 活动中试驾了雪铁龙 Ami 越野车。无论是动态的还是美学的。汽车不像洗衣机、洗碗机或任何其他类型的电器。是的，它们有其目的，有其功能，但很容易忘记它们也可以是表达和乐趣的方法。没有什么比一个小 l 更能凸显这一点了",
-      "translation_status": "fallback",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/590x/2254572_1.jpg",
-      "image_checked": true,
-      "source": "Express Weird News",
-      "source_id": "express-weird",
-      "region": "法国",
-      "published_at": "2026-10-06T16:53:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "8ff2b3e0213d9c76",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -216,31 +144,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "5c899f6bdc4f9f1e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5dab323056a93579",
-      "url": "https://allthatsinteresting.com/germany-ancient-roman-temple",
-      "title_en": "Archaeologists Exploring The Mountain Forests Of Central Germany Just Discovered An Ancient Roman Temple Dedicated To The God Of War",
-      "title_zh": "考古学家探索德国中部的山林刚刚发现了一座供奉战神的古罗马神庙",
-      "summary_en": "Thomas Kurella/hr Archaeologists uncovered a Roman temple dedicated to Mars, the god of war, in a German forest. In the forests of Germany’s Taunus Mountains, near the modern-day town of Rosbach vor der Höhe, archaeologists recently found the remnants of a Roman temple dedicated to Mars, god of war . Within, they recovered a number of astonishing artifacts, including a small bronze statuette of the goddess Victoria as well as two votive stones. Although archaeologists had long been excavating the nearby Roman fort…",
-      "summary_zh": "考古学家在德国森林中发现了一座供奉战神马尔斯的罗马神庙。在德国陶努斯山脉的森林中，靠近现代城镇罗斯巴赫的地方，考古学家最近发现了一座供奉战神马尔斯的罗马神庙的遗迹。他们在里面发现了许多令人惊叹的文物，包括一尊维多利亚女神的小青铜雕像以及两块还愿石。尽管考古学家早已",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-mars-temple-in-german-forest.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "德国",
-      "published_at": "2026-10-06T05:45:02+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "婚俗宗教",
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "5dab323056a93579",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

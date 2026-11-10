@@ -71,86 +71,10 @@ MEGATHREAD_RE = re.compile(
 _REDDIT_GATE = threading.Lock()
 _REDDIT_NEXT = 0.0
 
-# Feeds verified on 2026-11-08. Dead or empty feeds are documented in README
-# and are intentionally not listed here.
+# India outlets only. A story is kept only when its content region is 印度
+# (see content_region.py). These publishers also reprint foreign news, and
+# that reprint is dropped after classification. Non-India feeds are not fetched.
 SOURCES = [
-    {
-        "id": "oddity-central",
-        "name": "Oddity Central",
-        "region": "全球",
-        "url": "https://www.odditycentral.com/feed",
-        "kind": "rss",
-    },
-    {
-        "id": "all-thats-interesting",
-        "name": "All That's Interesting",
-        "region": "全球",
-        "url": "https://allthatsinteresting.com/feed",
-        "kind": "rss",
-    },
-    {
-        "id": "oddee",
-        "name": "Oddee",
-        "region": "全球",
-        "url": "https://www.oddee.com/feed/",
-        "kind": "rss",
-    },
-    {
-        "id": "upi-odd",
-        "name": "UPI Odd News",
-        "region": "美国",
-        "url": "https://rss.upi.com/news/odd_news.rss",
-        "kind": "rss",
-    },
-    {
-        "id": "atlas-obscura",
-        "name": "Atlas Obscura",
-        "region": "全球",
-        "url": "https://www.atlasobscura.com/feeds/latest",
-        "kind": "rss",
-    },
-    {
-        "id": "mirror-weird",
-        "name": "Mirror Weird News",
-        "region": "英国",
-        "url": "https://www.mirror.co.uk/news/weird-news/?service=rss",
-        "kind": "rss",
-    },
-    {
-        "id": "daily-star-weird",
-        "name": "Daily Star Weird News",
-        "region": "英国",
-        "url": "https://www.dailystar.co.uk/news/weird-news/?service=rss",
-        "kind": "rss",
-    },
-    {
-        "id": "irish-mirror-weird",
-        "name": "Irish Mirror Weird News",
-        "region": "爱尔兰",
-        "url": "https://www.irishmirror.ie/news/weird-news/?service=rss",
-        "kind": "rss",
-    },
-    {
-        "id": "metro-weird",
-        "name": "Metro Weird",
-        "region": "英国",
-        "url": "https://metro.co.uk/news/weird/feed/",
-        "kind": "rss",
-    },
-    {
-        "id": "express-weird",
-        "name": "Express Weird News",
-        "region": "英国",
-        "url": "https://www.express.co.uk/news/weird?service=rss",
-        "kind": "rss",
-    },
-    {
-        "id": "nypost-weird",
-        "name": "New York Post Weird But True",
-        "region": "美国",
-        "url": "https://nypost.com/weird-but-true/feed/",
-        "kind": "rss",
-    },
     {
         "id": "ht-trending",
         "name": "Hindustan Times Trending",
@@ -170,34 +94,6 @@ SOURCES = [
         "name": "Times of India Viral News",
         "region": "印度",
         "url": "https://timesofindia.indiatimes.com/rssfeeds/59016670.cms",
-        "kind": "rss",
-    },
-    {
-        "id": "soranews24",
-        "name": "SoraNews24",
-        "region": "日本",
-        "url": "https://soranews24.com/feed/",
-        "kind": "rss",
-    },
-    {
-        "id": "neatorama",
-        "name": "Neatorama",
-        "region": "全球",
-        "url": "https://www.neatorama.com/feed/",
-        "kind": "rss",
-    },
-    {
-        "id": "ladbible-weird",
-        "name": "LADbible Weird",
-        "region": "英国",
-        "url": "https://www.ladbible.com/weird.rss",
-        "kind": "rss",
-    },
-    {
-        "id": "unilad-weird",
-        "name": "UNILAD Weird",
-        "region": "英国",
-        "url": "https://www.unilad.com/weird.rss",
         "kind": "rss",
     },
     {
@@ -269,20 +165,6 @@ SOURCES = [
         "url": "https://www.reddit.com/r/indiasocial/new/.rss?limit=100",
         "kind": "reddit",
         "include_self": True,
-    },
-    {
-        "id": "reddit-nottheonion",
-        "name": "Reddit r/nottheonion",
-        "region": "全球",
-        "url": "https://www.reddit.com/r/nottheonion/new/.rss?limit=100",
-        "kind": "reddit",
-    },
-    {
-        "id": "reddit-offbeat",
-        "name": "Reddit r/Offbeat",
-        "region": "全球",
-        "url": "https://www.reddit.com/r/Offbeat/new/.rss?limit=100",
-        "kind": "reddit",
     },
 ]
 
@@ -822,6 +704,8 @@ def thin_summary(item: dict) -> bool:
 
 
 def needs_meta(item: dict) -> bool:
+    if item.get("kind") == "x":
+        return False
     if item.get("page_fetched"):
         return False
     if int(item.get("page_attempts") or 0) >= 2:
@@ -1335,7 +1219,7 @@ def apply_tags(days: dict[str, list[dict]]) -> set[str]:
     dirty: set[str] = set()
     for date, items in days.items():
         for item in items:
-            if item.get("tag_source") == "model" and item.get("tags"):
+            if item.get("tag_source") in {"model", "inbox"} and item.get("tags"):
                 continue
             tags = classify_item(item)
             if item.get("tags") != tags or item.get("tag_source") != "rules":
@@ -1357,9 +1241,70 @@ def write_json(path: Path, payload: dict) -> None:
     temporary.replace(path)
 
 
+def keep_item(item: dict) -> bool:
+    """India library: content region, not the publisher. X posts are India material."""
+    if item.get("kind") == "x":
+        return True
+    return item.get("region") == "印度"
+
+
+def purge_non_india(days: dict[str, list[dict]]) -> set[str]:
+    """Drop items whose content region is not 印度. X items stay."""
+    dirty: set[str] = set()
+    kept_n = 0
+    dropped_n = 0
+    for date in list(days):
+        items = days[date]
+        kept = [item for item in items if keep_item(item)]
+        dropped_n += len(items) - len(kept)
+        kept_n += len(kept)
+        if len(kept) != len(items):
+            dirty.add(date)
+        if kept:
+            days[date] = kept
+        else:
+            days.pop(date, None)
+            stale = DATA / f"{date}.json"
+            if stale.exists():
+                stale.unlink()
+    if dropped_n:
+        log(f"india filter kept={kept_n} dropped={dropped_n}")
+    return dirty
+
+
+def recluster(days: dict[str, list[dict]]) -> set[str]:
+    """Recompute cluster ids after items are added or removed. Does not touch Reddit."""
+    flat = [(date, item) for date, items in days.items() for item in items]
+    before = {
+        item.get("id"): (
+            item.get("cluster_id"),
+            item.get("cluster_item_count"),
+            item.get("cluster_source_count"),
+        )
+        for _date, item in flat
+    }
+    cluster_items([item for _date, item in flat])
+    dirty: set[str] = set()
+    for date, item in flat:
+        now = (
+            item.get("cluster_id"),
+            item.get("cluster_item_count"),
+            item.get("cluster_source_count"),
+        )
+        if before.get(item.get("id")) != now:
+            dirty.add(date)
+    return dirty
+
+
 def write_outputs(days: dict[str, list[dict]], dirty: set[str]) -> None:
     for date in sorted(dirty):
-        items = days.get(date) or []
+        if date not in days or not days[date]:
+            days.pop(date, None)
+            stale = DATA / f"{date}.json"
+            if stale.exists():
+                stale.unlink()
+            continue
+        items = days[date]
         items.sort(key=item_sort_key, reverse=True)
         days[date] = items
         write_json(
@@ -1384,7 +1329,7 @@ def write_outputs(days: dict[str, list[dict]], dirty: set[str]) -> None:
     write_search(days)
 
 
-REDDIT_STAT_SUBS = ("india", "IndiaSpeaks", "indiasocial", "nottheonion", "Offbeat")
+REDDIT_STAT_SUBS = ("india", "IndiaSpeaks", "indiasocial")
 
 
 def _arctic_listing(sub: str) -> dict | None:
@@ -1490,6 +1435,13 @@ def apply_derived(days: dict[str, list[dict]]) -> set[str]:
     flat: list[tuple[str, dict]] = []
     for date, items in days.items():
         for item in items:
+            if item.get("kind") == "x":
+                if item.get("region") != "印度" or item.get("source_region") != "印度":
+                    item["region"] = "印度"
+                    item["source_region"] = "印度"
+                    dirty.add(date)
+                flat.append((date, item))
+                continue
             if not item.get("source_region"):
                 item["source_region"] = item.get("region") or "全球"
                 dirty.add(date)
@@ -1563,6 +1515,9 @@ def write_search(days: dict[str, list[dict]]) -> None:
                     "reddit_comments": item.get("reddit_comments"),
                 }
             )
+            if item.get("kind") == "x":
+                bucket[-1]["kind"] = "x"
+                bucket[-1]["x"] = item.get("x") or {}
     search_dir = DATA / "search"
     search_dir.mkdir(parents=True, exist_ok=True)
     keep: set[str] = set()
@@ -1603,7 +1558,10 @@ def main() -> int:
     args = parser.parse_args()
     if args.rebuild_only:
         days = load_days()
-        dirty = apply_derived(days)
+        dirty = purge_non_india(days)
+        dirty |= apply_derived(days)
+        dirty |= purge_non_india(days)
+        dirty |= recluster(days)
         if dirty or not (DATA / "search-index.json").exists():
             write_outputs(days, dirty)
             log(f"rebuilt {len(dirty)} day file(s)")
@@ -1614,6 +1572,7 @@ def main() -> int:
 
     log(f"odd-news fetch for Shanghai date {TODAY.isoformat()}")
     days = load_days()
+    dirty_existing = purge_non_india(days)
     seen = known_keys(days)
     log(f"existing items: {len(seen)} across {len(days)} days")
 
@@ -1656,7 +1615,7 @@ def main() -> int:
         new_items.append(item)
     log(f"new unique items: {len(new_items)}")
 
-    dirty: set[str] = set()
+    dirty: set[str] = set(dirty_existing)
     for item in new_items:
         date = day_of(item)
         days.setdefault(date, []).append(item)
@@ -1706,6 +1665,9 @@ def main() -> int:
 
     dirty |= apply_tags(days)
     dirty |= apply_derived(days)
+    dropped = purge_non_india(days)
+    dirty |= dropped
+    dirty |= recluster(days)
     search_missing = not (DATA / "search-index.json").exists()
     if not dirty and not search_missing and (DATA / "index.json").exists():
         log("no data changes")

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "timezone": "Asia/Shanghai",
-  "count": 10,
+  "count": 6,
   "items": [
     {
       "id": "661fa7c4e2eefd82",
@@ -144,104 +144,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "9b789b73722c2938",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8aed37917e8c9983",
-      "url": "https://allthatsinteresting.com/operation-condor",
-      "title_en": "The Shadowy Story Of Operation Condor, The Covert Plot To Eliminate Political Dissidents Throughout South America",
-      "title_zh": "秃鹰行动的阴暗故事，消灭整个南美政治异见人士的秘密阴谋",
-      "summary_en": "Wikimedia Commons Operation Condor ran for roughly a decade, but its impact is still felt to this day. In the 1970s and 1980s, thousands of people in South America disappeared. They were men and women; young and old. The one thing they all had in common was that they were suspected left-wing activists, members of political parties or groups that had formed in response to their increasingly authoritarian, right-wing governments.",
-      "summary_zh": "维基共享资源秃鹰行动运行了大约十年，但其影响至今仍然可见。在 20 世纪 70 年代和 80 年代，南美有数千人失踪。他们是男人和女人；年轻和年老。他们的一个共同点是，他们都被怀疑是左翼活动分子、政党或团体的成员，这些政党或团体是为了应对日益专制的右翼政府而成立的。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/operation-condor-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-07T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8aed37917e8c9983",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8cb27f7bbd5831bd",
-      "url": "https://allthatsinteresting.com/american-chestnut-tree",
-      "title_en": "How The Mighty American Chestnut Tree Vanished From Forests Across The United States",
-      "title_zh": "强大的美国板栗树是如何从美国各地的森林中消失的",
-      "summary_en": "Internet Archive Book Images/Flickr An American chestnut tree in New York, circa 1900-1909. From Florida’s panhandle to coastal Maine and across the Appalachians to the Mississippi River, the proud and mighty American chestnut tree once blanketed the eastern U.S. As many as four billion chestnut trees created a massive canopy — and provided a home and food source for a complex forest ecosystem. Entire industries depended on the sprawling hardwood forest.",
-      "summary_zh": "互联网档案馆图书图片/Flickr 纽约的一棵美国栗树，大约 1900-1909 年。从佛罗里达州的狭长地带到缅因州沿海地区，越过阿巴拉契亚山脉到密西西比河，骄傲而强大的美国板栗树曾经覆盖了美国东部。多达 40 亿棵板栗树形成了巨大的树冠，为复杂的森林生态系统提供了家园和食物来源。整个工业都依赖于广阔的阔叶林。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/american-chestnut-tree-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "美国",
-      "published_at": "2026-10-07T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8cb27f7bbd5831bd",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ca704306db864c1a",
-      "url": "https://allthatsinteresting.com/russia-ancient-maeotian-warrior-grave",
-      "title_en": "Archaeologists In Russia Just Found An Ancient Warrior’s Grave Filled With Weapons, Sacrificed Animals, And A Jug Emblazoned With A Pentagram",
-      "title_zh": "俄罗斯考古学家刚刚发现了一座古代战士的坟墓，里面装满了武器、牺牲的动物和一个印有五角星的水壶",
-      "summary_en": "Abramzon et al., Russian Archaeology, 2026 This 2,000-year-old burial of a Maeotian warrior also contained the remains of his horse, a pentagram-adorned drinking vessel, and a rare gold coin. Archaeologists excavating an ancient necropolis in the North Caucasus region of southwestern Russia discovered a young Maeotian warrior’s grave including his horse, his weapons, and various animal offerings. Two of the warrior’s grave goods in particular have piqued the interest of researchers: a rare gold coin known as a…",
-      "summary_zh": "Abramzon 等人，俄罗斯考古学，2026 年 这座 2000 年前的梅奥蒂亚武士墓葬中还埋藏着他的马匹遗骸、一件装饰有五角星的饮酒器和一枚罕见的金币。考古学家在俄罗斯西南部北高加索地区挖掘一座古代墓地时，发现了一位年轻的梅奥蒂亚武士的坟墓，其中包括他的马、武器和各种动物祭品。武士的两件陪葬品尤其引起了研究的兴趣",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-ancient-russian-warrior-remains.jpeg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-07T05:45:46+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "动物",
-        "科学发现",
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "ca704306db864c1a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "fd172088f08e8321",
-      "url": "https://allthatsinteresting.com/oliver-sipple",
-      "title_en": "Oliver Sipple Saved President Ford From An Assassin — Then Suffered For It For The Rest Of His Life",
-      "title_zh": "奥利弗·西普尔 (Oliver Sipple) 将福特总统从刺客手中救了出来，但他却因此终生受苦",
-      "summary_en": "Christopher Springmann/The LIFE Images Collection via Getty Images/Getty Images Oliver Sipple, the Vietnam veteran who likely saved President Gerald Ford’s life in September 1975. On Sept. 22, 1975, a Vietnam veteran named Oliver Sipple stopped Sara Jane Moore as she attempted to assassinate President Gerald Ford in San Francisco. He was applauded for his bravery — but this act of courage ultimately ruined his life.",
-      "summary_zh": "Christopher Springmann/The LIFE Images Collection via Getty Images/Getty Images 奥利弗·西普尔 (Oliver Sipple)，越战老兵，很可能在 1975 年 9 月救了杰拉尔德·福特总统的命。1975 年 9 月 22 日，一位名叫奥利弗·西普尔 (Oliver Sipple) 的越战老兵在旧金山阻止了试图刺杀杰拉尔德·福特总统的萨拉·简·摩尔 (Sara Jane Moore)。他因勇敢而受到称赞，但这种勇敢的行为最终毁了他的生活。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2020/04/oliver-sipple-alongside-gerald-ford-assassination-attempt-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-07T00:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "fd172088f08e8321",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

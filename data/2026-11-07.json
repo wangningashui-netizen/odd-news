@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "timezone": "Asia/Shanghai",
-  "count": 234,
+  "count": 176,
   "items": [
     {
       "id": "86ec94da8fba184d",
@@ -171,56 +171,6 @@
       "cluster_id": "f73c756ae3e8ef95",
       "cluster_item_count": 2,
       "cluster_source_count": 2
-    },
-    {
-      "id": "fd5cbf366b3180b3",
-      "url": "https://www.neatorama.com/2026/11/07/The-Longest-Peaceful-Occupation-of-a-Federal-Building-in-US-History/",
-      "title_en": "The Longest Peaceful Occupation of a Federal Building in US History",
-      "title_zh": "美国历史上联邦大楼最长的和平占领",
-      "summary_en": "Embed from Getty Images Before the 1970s, you rarely saw anyone in a wheelchair out in public. They were denied public education, jobs, and even the ability to leave their block because of sidewalk curbs. That was supposed to change in 1973 with the passing of the Rehabilitation Act of 1973, which stated in section 504 that discrimination against the disabled was prohibited in any facility receiving federal funds. But what that meant wasn't spelled out and little was done to accommodate the disabled.",
-      "summary_zh": "嵌入自 Getty Images 在 20 世纪 70 年代之前，你很少在公共场合看到坐在轮椅上的人。由于人行道的限制，他们被剥夺了公共教育、工作机会，甚至无法离开街区。随着 1973 年《康复法案》的通过，这种情况本应在 1973 年发生改变，该法案第 504 条规定，在任何接受联邦资金的机构中禁止歧视残疾人。但这意味着什么并没有被阐明，也没有采取什么措施",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T23:03:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "fd5cbf366b3180b3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "c3b5b2314173c366",
-      "url": "https://www.cbsnews.com/detroit/news/michigan-state-university-of-michigan-piss-off-competiton/",
-      "title_en": "Michigan, Michigan State team up in \"Piss Off\" competition to collect urine for fertilizer research",
-      "title_zh": "密歇根州、密歇根州立大学联手参加“Piss Off”竞赛，收集尿液用于肥料研究",
-      "summary_en": "",
-      "summary_zh": "密歇根州、密歇根州立大学联手参加“Piss Off”竞赛，收集尿液用于肥料研究",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/umti2YiIARc7LwHFXIJdgTGmBf8uhOk4OnJ2x_srSQg.jpeg?width=640&crop=smart&auto=webp&s=c6b8ddc56fd087ef1dc11f5e451ce1b88904debf",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T23:03:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "74d45316eb228d93",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
     },
     {
       "id": "9155b73fd402825a",
@@ -419,30 +369,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "3d1c65c82f404907",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3eda69d45660e2a6",
-      "url": "https://www.neatorama.com/2026/11/07/The-Portuguese-Man-O-Wars-Are-Coming-For-You/",
-      "title_en": "The Portuguese Man O' Wars Are Coming For You",
-      "title_zh": "葡萄牙风帆战舰为您而来",
-      "summary_en": "The Portuguese man o' war is not from Portugal, and it's neither a man nor at war. but more importantly, it's not a jellyfish, either, although it looks like one. This creature cannot even propel itself through the water, and relies on ocean currents to move at all. As such, you'd think they would stay in their own ecosystem.",
-      "summary_zh": "葡萄牙战舰并非来自葡萄牙，它既不是一个人，也不是一场战争。但更重要的是，它也不是水母，尽管它看起来像水母。这种生物甚至无法在水中推动自己，完全依靠洋流移动。因此，你会认为他们会留在自己的生态系统中。",
-      "translation_status": "fallback",
-      "image": "https://img.youtube.com/vi/1EX702Au9oQ/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T22:32:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "3eda69d45660e2a6",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -717,30 +643,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "ee8e607e8c9e5305",
-      "url": "https://www.ndtv.com/offbeat/watch-drone-delivers-bananas-to-chimpanzees-stuck-in-flooded-florida-sanctuary-12297490",
-      "title_en": "Watch: Drone Delivers Bananas To Chimpanzees Stuck in Flooded Florida Sanctuary",
-      "title_zh": "观看：无人机向被困佛罗里达保护区的黑猩猩运送香蕉",
-      "summary_en": "Severe flooding in Florida led Save The Chimps sanctuary to use a drone to feed and care for chimps.",
-      "summary_zh": "佛罗里达州的严重洪水导致拯救黑猩猩保护区使用无人机来喂养和照顾黑猩猩。",
-      "translation_status": "fallback",
-      "image": "https://c.ndtvimg.com/2026-11/em8ug4_as_625x300_07_November_26.jpeg",
-      "image_checked": true,
-      "source": "NDTV Offbeat",
-      "source_id": "ndtv-offbeat",
-      "region": "美国",
-      "published_at": "2026-11-07T21:47:43+08:00",
-      "fetched_at": "2026-11-08T21:08:25+08:00",
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "e4675328e73cec84",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
-    },
-    {
       "id": "bf966448c7822a1e",
       "url": "https://thewire.in/article/rights/three-bengal-content-creators-critical-of-bjp-government-face-police-action-one-still-in-custody",
       "title_en": "Three Bengal Content Creators Critical of BJP Government Face Police Action, One Still in Custody",
@@ -762,30 +664,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "bf966448c7822a1e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "cf085dba6b1fe161",
-      "url": "https://www.timesnownews.com/sports/cricket/part-of-selling-books-darren-lehmann-takes-dig-at-usman-khawaja-over-2018-ball-tampering-bombshell-article-156479841",
-      "title_en": "‘Part Of Selling Books’: Darren Lehmann Takes Dig At Usman Khawaja Over 2018 Ball-Tampering Bombshell",
-      "title_zh": "“卖书的一部分”：达伦·莱曼 (Darren Lehmann) 挖苦乌斯曼·卡瓦贾 (Usman Khawaja) 2018 年篡球重磅炸弹",
-      "summary_en": "Darren Lehmann has challenged Usman Khawaja’s claim that the entire Australian team knew about the 2018 ball-tampering scandal., Cricket, Times Now",
-      "summary_zh": "达伦·莱曼 (Darren Lehmann) 质疑乌斯曼·卡瓦贾 (Usman Khawaja) 声称整个澳大利亚队都知道 2018 年球篡改丑闻的说法。, 板球, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156479848,thumbsize-1980133,width-1280,height-720,resizemode-75/156479848.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "澳大利亚",
-      "published_at": "2026-11-07T21:43:03+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "cf085dba6b1fe161",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -932,30 +810,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "4296f978549ee1f6",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3f24f9398dacc3af",
-      "url": "https://soranews24.com/2026/11/07/japans-new-matcha-vending-machines-serve-freshly-prepared-matcha-in-five-different-strengths/",
-      "title_en": "Japan’s new matcha vending machines serve freshly prepared matcha in five different strengths",
-      "title_zh": "日本的新型抹茶自动售货机提供五种不同浓度的新鲜抹茶",
-      "summary_en": "Enjoy the taste of freshly whisked matcha at the touch of a button. Japan is home to many different types of vending machines, and some of the most impressive are the ones that serve freshly ground coffee, with the beans ground and each cup brewed to order inside the machine . The process is even shown live on a monitor, so customers can watch their coffee being prepared. Now, Toyo Vending , the company behind the popular Mill-Ground Coffee vending machines, has teamed up with tea giant Ito En to bring this…",
-      "summary_zh": "只需按一下按钮即可享受新鲜搅拌的抹茶的味道。日本拥有许多不同类型的自动售货机，其中最令人印象深刻的是那些提供现磨咖啡的自动售货机，咖啡豆磨碎后，每杯咖啡都在机器内按订单冲泡。该过程甚至会在监视器上实时显示，以便顾客可以观看咖啡的制作过程。现在，广受欢迎的研磨咖啡自动售货机背后的 Toyo Vending 公司已与",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/Matcha-vending-machine-Japan-Toyo-Itoen-ocha-green-tea-drinks-unusual-unique-new-tourist-news-.jpeg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-07T21:00:21+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "商业套路"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "3f24f9398dacc3af",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1162,6 +1016,237 @@
       "cluster_source_count": 1
     },
     {
+      "id": "a5486801aa7747cc",
+      "url": "https://x.com/DeepaSharma132/status/2119041751449248172",
+      "title_en": "🚨 SHOCKING NEWS 😱 Almost 150 Chinese WeChat streamers came to Dhaka, Bangladesh & spent the entire day livestreaming while showing the city's slums. When locals noticed the unusual number they started investigating why so many of them were doing this. Turns out, they were presenting it as New Delhi,",
+      "title_zh": "约150名中国主播在达卡贫民窟直播，却对外宣称拍的是新德里印度。",
+      "summary_en": "🚨 SHOCKING NEWS 😱\n\nAlmost 150 Chinese WeChat streamers came to Dhaka, Bangladesh & spent the entire day livestreaming while showing the city's slums. When locals noticed the unusual number they started investigating why so many of them were doing this. Turns out, they were presenting it as New Delhi, India 🇮🇳",
+      "summary_zh": "约150名中国主播在达卡贫民窟直播，却对外宣称拍的是新德里印度。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-07T20:18:18+08:00",
+      "fetched_at": "2026-11-10T10:12:19+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2119041751449248172",
+        "lang": null,
+        "text": "🚨 SHOCKING NEWS 😱\n\nAlmost 150 Chinese WeChat streamers came to Dhaka, Bangladesh & spent the entire day livestreaming while showing the city's slums. When locals noticed the unusual number they started investigating why so many of them were doing this. Turns out, they were presenting it as New Delhi, India 🇮🇳",
+        "author": {
+          "name": "Deepa Sharma",
+          "username": "DeepaSharma132",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2111288864451268608/kkaxpgYU_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatar.jpg"
+        },
+        "created_at": "2026-11-07T12:18:18.000Z",
+        "public_metrics": {
+          "reply_count": 8,
+          "repost_count": 43,
+          "like_count": 95,
+          "quote_count": 5,
+          "bookmark_count": 4,
+          "impression_count": 8498
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2119041672692871168/vid/avc1/720x900/6jTcZwA1U32NFd6m.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:12:19+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/DeepaSharma132/status/2119041751449248172",
+        "ytdlp_command": "yt-dlp https://x.com/DeepaSharma132/status/2119041751449248172",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/comments.png",
+        "replies": [
+          {
+            "id": "2119311423339909174",
+            "author": {
+              "name": "Yong Tiam Kui",
+              "username": "timothy38554883",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1800597267759652864/UQFhylmT_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/timothy38554883.jpg"
+            },
+            "text": "@DeepaSharma132 Ridiculous! As if anyone would need to go to Bangladesh to film slums to make India look bad. There are, in fact, many many slums in India, including in New Delhi itself, that are much worse than those found in Bangladesh. 😂 😂 😂",
+            "created_at": "2026-11-08T06:09:52.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 26
+            },
+            "in_reply_to_id": "2119041751449248172"
+          },
+          {
+            "id": "2119106196720230764",
+            "author": {
+              "name": "Jai Hind 🇮🇳",
+              "username": "RajeshChanstgf",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2082458852885164032/PSeDPmpT_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/RajeshChanstgf.jpg"
+            },
+            "text": "I suspect someone seriously misled these Chinese streamers! They thought they were visiting India, but somehow ended up filming Bangladesh, apparently without recognising the difference. Imagine travelling so far, recording everything confidently, and not even knowing where you are! What a sightseeing adventure! 😂",
+            "created_at": "2026-11-07T16:34:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 174
+            },
+            "in_reply_to_id": "2119041751449248172"
+          },
+          {
+            "id": "2119396691799601659",
+            "author": {
+              "name": "Yong Tiam Kui",
+              "username": "timothy38554883",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1800597267759652864/UQFhylmT_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/timothy38554883.jpg"
+            },
+            "text": "@ManishKuma11667 @DeepaSharma132 😂😂😂😂😂 https://t.co/LDdmfteFSh",
+            "created_at": "2026-11-08T11:48:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 15
+            },
+            "in_reply_to_id": "2119328259460780355"
+          },
+          {
+            "id": "2119328259460780355",
+            "author": {
+              "name": "Manish Kumar",
+              "username": "ManishKuma11667",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2100626808077189121/_AECBVA4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/ManishKuma11667.jpg"
+            },
+            "text": "@timothy38554883 @DeepaSharma132 I thought 🤔 this is china China and bengaldeshi is same type of idiot person",
+            "created_at": "2026-11-08T07:16:46.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 31
+            },
+            "in_reply_to_id": "2119311423339909174"
+          },
+          {
+            "id": "2119292378779652304",
+            "author": {
+              "name": "🪐",
+              "username": "tanmay_907",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2101050491967029248/CRlKywlu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/tanmay_907.jpg"
+            },
+            "text": "@DeepaSharma132 Their viewers are brainless",
+            "created_at": "2026-11-08T04:54:12.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 49
+            },
+            "in_reply_to_id": "2119041751449248172"
+          },
+          {
+            "id": "2119101362923622875",
+            "author": {
+              "name": "Superman",
+              "username": "Supermanlzql",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2061734835404918784/BJubDtHq_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/Supermanlzql.jpg"
+            },
+            "text": "@DeepaSharma132 Not 150, there are literally thousands in nepal, bangladesh, pakistan",
+            "created_at": "2026-11-07T16:15:10.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 119
+            },
+            "in_reply_to_id": "2119041751449248172"
+          },
+          {
+            "id": "2119043024911302978",
+            "author": {
+              "name": "Conflict Era",
+              "username": "thewarzone81",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2117085744397438976/PKHAIXMn_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/thewarzone81.jpg"
+            },
+            "text": "@DeepaSharma132 Go India for livestreaming",
+            "created_at": "2026-11-07T12:23:21.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 88
+            },
+            "in_reply_to_id": "2119041751449248172"
+          },
+          {
+            "id": "2119042833915273701",
+            "author": {
+              "name": "RAW",
+              "username": "theraw_in",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118404334971125760/3MmOwXVg_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/theraw_in.jpg"
+            },
+            "text": "@DeepaSharma132 Need to expose China",
+            "created_at": "2026-11-07T12:22:36.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 103
+            },
+            "in_reply_to_id": "2119041751449248172"
+          },
+          {
+            "id": "2119042565916025057",
+            "author": {
+              "name": "Delta Plus",
+              "username": "the_deltaplus",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118389997200134144/L04pZzvN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/avatars/the_deltaplus.jpg"
+            },
+            "text": "@DeepaSharma132 They are trying to ruin Indian Image in the global stage.",
+            "created_at": "2026-11-07T12:21:32.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 134
+            },
+            "in_reply_to_id": "2119041751449248172"
+          }
+        ],
+        "content_sha": "0261fba3c6f803652087de0f1d061fcac4e8af3f"
+      },
+      "cluster_id": "a5486801aa7747cc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "1680bcbd479ccb1b",
       "url": "https://www.republicworld.com/viral/mumbai-local-horror-2-passengers-fight-inside-moving-train-one-falls-onto-tracks-2026-11-07-140616",
       "title_en": "Mumbai Local Horror: 2 Passengers Fight Inside Moving Train, One Falls Onto Tracks",
@@ -1182,81 +1267,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1680bcbd479ccb1b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "1cbe5734c0dad64c",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "title_en": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "title_zh": "威斯康星州报告一名婴儿因麻疹死亡，这是 35 年来首次死亡",
-      "summary_en": "Next week, experts will determine if the US has lost its measles elimination status.",
-      "summary_zh": "下周，专家将确定美国是否已失去消除麻疹的地位。",
-      "translation_status": "fallback",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-07T20:04:44+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "1cbe5734c0dad64c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 1457,
-      "reddit_comments": 106,
-      "reddit_id": "t3_1xq4t7x"
-    },
-    {
-      "id": "0a1e10a9f39923e2",
-      "url": "https://www.neatorama.com/2026/11/07/DNA-Research-Confirms-Disputed-Claims-by-Ancient-Roman-Historian/",
-      "title_en": "DNA Research Confirms Disputed Claims by Ancient Roman Historian",
-      "title_zh": "DNA 研究证实了古罗马历史学家有争议的说法",
-      "summary_en": "Jordanes was a Sixth Cetury AD historian in the Eastern Roman Empire. He was of Gothic extraction and his works include The Origins and Deeds of the Goths ( De Origine Actibusque Getarum ). He provides extraordinary and heroic claims about the exploits of his ancenstors which modern historians have tended to discount. Among them is that the Gothic intrusion into Roman Europe began with a mass migration from Scandza, a region thought to be what is now southern Sweden.",
-      "summary_zh": "乔丹尼斯是公元六世纪东罗马帝国的历史学家。他是哥特人后裔，他的著作包括《哥特人的起源与事迹》（De Origine Actibusque Getarum）。他对祖先的功绩提出了非凡而英雄的主张，而现代历史学家往往对此不以为然。其中之一是，哥特人对罗马欧洲的入侵始于从斯坎扎（Scandza）的大规模移民，该地区被认为是现在的瑞典南部。",
-      "translation_status": "fallback",
-      "image": "https://uploads.neatorama.com/images/posts/685/128/128685/1794052526-0.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T19:56:51+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "0a1e10a9f39923e2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "48b4fc7e76bd8301",
-      "url": "https://www.indiatoday.in/trending-news/story/uk-man-solves-4-rubiks-cubes-while-running-16-km-sets-new-guinness-world-record-3034440-2026-11-07",
-      "title_en": "UK man solves 4 Rubik's Cubes while running 1.6 km, sets new Guinness World Record",
-      "title_zh": "英国男子跑步1.6公里解开4个魔方 刷新吉尼斯世界纪录",
-      "summary_en": "A man from the UK solved four puzzle cubes while running a mile in Toronto. The 5:09.25 finish earned the British speedcuber a Guinness World Records title.",
-      "summary_zh": "一名来自英国的男子在多伦多跑步一英里时解决了四个拼图立方体。 5分09.25秒的成绩为这位英国速滑选手赢得了吉尼斯世界纪录称号。",
-      "translation_status": "fallback",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/uk-man-solves-4-rubiks-cubes-while-running-16-km--sets-new-guinness-world-record-072504715-16x9_0.jpg?VersionId=Q4g_NZ8LEbWLkwZeqn0N.u4gCdUn7LJT",
-      "image_checked": true,
-      "source": "India Today Trending",
-      "source_id": "india-today-trending",
-      "region": "英国",
-      "published_at": "2026-11-07T19:54:31+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "48b4fc7e76bd8301",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1555,30 +1565,6 @@
       "cluster_id": "f56c71d89243da78",
       "cluster_item_count": 2,
       "cluster_source_count": 1
-    },
-    {
-      "id": "e4675328e73cec84",
-      "url": "https://www.hindustantimes.com/trending/us/drone-delivers-bananas-to-chimpanzees-after-severe-flooding-hits-florida-sanctuary-101794046991374.html",
-      "title_en": "Drone delivers bananas to chimpanzees after severe flooding hits Florida sanctuary",
-      "title_zh": "佛罗里达州保护区遭遇严重洪水后，无人机向黑猩猩运送香蕉",
-      "summary_en": "Severe flooding disrupted a Florida chimpanzee sanctuary, prompting staff to use drones to deliver food to the animals.",
-      "summary_zh": "严重的洪水扰乱了佛罗里达州的黑猩猩保护区，促使工作人员使用无人机向动物运送食物。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/dbfbgfbgf_1794049424488_vrKm_1794049429972_O3wn_758144dd-5cd2-4816-bb00-240a0d47d16d_UX3x.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "美国",
-      "published_at": "2026-11-07T19:11:14+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "e4675328e73cec84",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
     },
     {
       "id": "81cfff14dfe2a677",
@@ -1973,30 +1959,6 @@
       "cluster_id": "6a7485ee1423fa3b",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "e91ce1466a882f04",
-      "url": "https://www.hindustantimes.com/trending/british-runner-solves-4-rubik-s-cubes-runs-a-mile-in-just-over-5-minutes-to-set-world-record-101794043312682.html",
-      "title_en": "British runner solves 4 Rubik’s Cubes, runs a mile in just over 5 minutes to set world record",
-      "title_zh": "英国跑步者解开4个魔方，5分钟多跑完一英里，创造世界纪录",
-      "summary_en": "British runner George Scholey set a world record after solving four Rubik’s Cubes while running a mile in 5 minutes and 9.25 seconds.",
-      "summary_zh": "英国跑步运动员乔治·斯科利 (George Scholey) 在 5 分 9.25 秒内跑完一英里时解开四个魔方，创造了世界纪录。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/vdsvdsbfdsd_1794043629426_C7LI_1794043635442_bVOr_5ca4840b-a41d-4856-bf6f-eea32f36be1d_XRSd.jpg",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "英国",
-      "published_at": "2026-11-07T17:34:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "71766fd733d2ba5d",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
     },
     {
       "id": "0d7eb250740e6463",
@@ -2458,26 +2420,538 @@
       "cluster_source_count": 1
     },
     {
-      "id": "bca64963c1fe48bb",
-      "url": "https://www.hindustantimes.com/trending/german-climber-jost-kobusch-to-attempt-solo-mount-everest-ascent-without-oxygen-in-winter-101794036405784.html",
-      "title_en": "German climber Jost Kobusch to attempt solo Mount Everest ascent without oxygen in winter",
-      "title_zh": "德国登山者约斯特·科布施 (Jost Kobusch) 尝试冬季无氧单人攀登珠穆朗玛峰",
-      "summary_en": "Jost Kobusch plans to scale Mount Everest solo this winter, without bottled oxygen.",
-      "summary_zh": "约斯特·科布施计划今年冬天在不使用瓶装氧气的情况下独自攀登珠穆朗玛峰。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/sxcdhjed_1794037121430_ZkD1_1794037121565_xPjC_d3472cc1-0bb5-4b2c-986b-9b71656699c7_zMT7.png",
+      "id": "5b42ba3469891e47",
+      "url": "https://x.com/ShoneeKapoor/status/2118984802179092499",
+      "title_en": "महिला होने की छूट का घमंड? मुंबई में कथित तौर पर नशे में धुत एक लड़की का पुलिसकर्मी से बदसलूकी करने और सड़क पर हंगामा करने का वीडियो सामने आया है। रिपोर्ट के मुताबिक, लड़की ने पुलिसकर्मी के साथ अभद्र व्यवहार किया। लोगों से उलझने और गाली-गलौज करने के भी आरोप हैं। ये कैसी बदतमीजी है? न कानून का डर, न ",
+      "title_zh": "孟买醉酒女子街头与警察冲突、对路人谩骂的视频走红，引发性别双标争论。",
+      "summary_en": "महिला होने की छूट का घमंड?\n\nमुंबई में कथित तौर पर नशे में धुत एक लड़की का पुलिसकर्मी से बदसलूकी करने और सड़क पर हंगामा करने का वीडियो सामने आया है।\n\nरिपोर्ट के मुताबिक, लड़की ने पुलिसकर्मी के साथ अभद्र व्यवहार किया। लोगों से उलझने और गाली-गलौज करने के भी आरोप हैं।\n\nये कैसी बदतमीजी है? न कानून का डर, न वर्दी का सम्मान!\n\nयही हरकत कोई पुरुष करता तो क्या प्रतिक्रिया इतनी ही नरम होती?\n\nSource: PTC Punjabi\n\n[Mumbai Police, Drunk Woman Viral Video, Mumbai Viral News, Woman Misbehaves With Police, Police Viral Video, Women's Accountability, Gender Equality, Men's Rights India, Shonee Kapoor, Equal Laws]",
+      "summary_zh": "孟买醉酒女子街头与警察冲突、对路人谩骂的视频走红，引发性别双标争论。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/video-thumb.jpg",
       "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "德国",
-      "published_at": "2026-11-07T16:31:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
       "source_region": "印度",
-      "cluster_id": "bca64963c1fe48bb",
+      "published_at": "2026-11-07T16:32:00+08:00",
+      "fetched_at": "2026-11-10T10:12:20+08:00",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2118984802179092499",
+        "lang": null,
+        "text": "महिला होने की छूट का घमंड?\n\nमुंबई में कथित तौर पर नशे में धुत एक लड़की का पुलिसकर्मी से बदसलूकी करने और सड़क पर हंगामा करने का वीडियो सामने आया है।\n\nरिपोर्ट के मुताबिक, लड़की ने पुलिसकर्मी के साथ अभद्र व्यवहार किया। लोगों से उलझने और गाली-गलौज करने के भी आरोप हैं।\n\nये कैसी बदतमीजी है? न कानून का डर, न वर्दी का सम्मान!\n\nयही हरकत कोई पुरुष करता तो क्या प्रतिक्रिया इतनी ही नरम होती?\n\nSource: PTC Punjabi\n\n[Mumbai Police, Drunk Woman Viral Video, Mumbai Viral News, Woman Misbehaves With Police, Police Viral Video, Women's Accountability, Gender Equality, Men's Rights India, Shonee Kapoor, Equal Laws]",
+        "author": {
+          "name": "ShoneeKapoor",
+          "username": "ShoneeKapoor",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2074751724120846336/CZiRGZEL_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatar.jpg"
+        },
+        "created_at": "2026-11-07T08:32:00.000Z",
+        "public_metrics": {
+          "reply_count": 26,
+          "repost_count": 96,
+          "like_count": 159,
+          "quote_count": 4,
+          "bookmark_count": 24,
+          "impression_count": 5995
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2118981339341094912/vid/avc1/864x1536/amqXW3pWJvaEVv4H.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:12:20+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ShoneeKapoor/status/2118984802179092499",
+        "ytdlp_command": "yt-dlp https://x.com/ShoneeKapoor/status/2118984802179092499",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/comments.png",
+        "replies": [
+          {
+            "id": "2119044487783870653",
+            "author": {
+              "name": "kiran",
+              "username": "garikipatikiran",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/903644567173455872/RAm980nG_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/garikipatikiran.jpg"
+            },
+            "text": "@ShoneeKapoor @Resonant_News @LevinaNeythiri \nThis is how women empowerment is unfolding in India. \n\nWe can take on Pakistan, China, and even the opposition parties in India. \n\nWomen in India today are on a different level, they are no longer innocent as those of previous generations.",
+            "created_at": "2026-11-07T12:29:10.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 1,
+              "like_count": 5,
+              "impression_count": 86
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119037181423702205",
+            "author": {
+              "name": "Sandeep J",
+              "username": "sandyjune1988",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1561394137005715456/w9iOUNcw_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/sandyjune1988.jpg"
+            },
+            "text": "@ShoneeKapoor Our legal system is a complete failure.",
+            "created_at": "2026-11-07T12:00:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 3,
+              "impression_count": 49
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119126407683154365",
+            "author": {
+              "name": "Harsha Irugu",
+              "username": "harsha_irugu",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1725987075017875456/kZI52NTu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/harsha_irugu.jpg"
+            },
+            "text": "@ShoneeKapoor That police should be ashamed to not react properly with the drunk woman!",
+            "created_at": "2026-11-07T17:54:41.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 2,
+              "impression_count": 36
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119094161437786507",
+            "author": {
+              "name": "A S",
+              "username": "ankush_sin4693",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2050373724684288001/Q-5dIiJ4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/ankush_sin4693.jpg"
+            },
+            "text": "@ShoneeKapoor If #indian police acts like simp then it is their choice . \n@IPS_Association shame on such thing where ur police is getting beaten for doing duty 🙏",
+            "created_at": "2026-11-07T15:46:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "impression_count": 39
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119058886615515239",
+            "author": {
+              "name": "Vruksh",
+              "username": "Sukhoi789",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1903650569308471296/DQPwACGn_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/Sukhoi789.jpg"
+            },
+            "text": "@ShoneeKapoor Feku Vishwaguru aur Woku Mialoadas ka bigada hua Abala Naari hai ye..",
+            "created_at": "2026-11-07T13:26:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "impression_count": 40
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2118987010543378720",
+            "author": {
+              "name": "Ek onkar Om❤🇮🇳",
+              "username": "EkonkarOm1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1603619907647610880/QkIFxFhC_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/EkonkarOm1.jpg"
+            },
+            "text": "@ShoneeKapoor बदतमीज़ कोई भी हो,,,,,,अगर उसे रोक न जाए,,,,,तो यही हाल  होगा,,,,,rapido ऑटो buses,,,, taxis घर बाहर  हर जगह यही सब देखने को मिल र है ,,,,,कहीं कैसे कहीं कैसे,,,,,",
+            "created_at": "2026-11-07T08:40:46.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 9
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119332925191901573",
+            "author": {
+              "name": "kumud basu",
+              "username": "KumudBasu",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/KumudBasu.jpg"
+            },
+            "text": "@ShoneeKapoor https://t.co/KPYel6DfxM",
+            "created_at": "2026-11-08T07:35:19.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119280545981198831",
+            "author": {
+              "name": "Hemang Patel",
+              "username": "HemangPate18736",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1813337597328203776/V2rSZEyU_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/HemangPate18736.jpg"
+            },
+            "text": "@ShoneeKapoor That’s the women empowerment in Modi Government Era. Wonderful beautiful and cool gesture by this aggressive woman. Laws always be equal in every countries except INDIA. What a shame",
+            "created_at": "2026-11-08T04:07:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "impression_count": 16
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119259577627885766",
+            "author": {
+              "name": "News Update",
+              "username": "sherigara",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2016766035836432384/25iWVEEv_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/sherigara.jpg"
+            },
+            "text": "@ShoneeKapoor 56 inch ka women empowerment hai",
+            "created_at": "2026-11-08T02:43:51.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 15
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119128114135789932",
+            "author": {
+              "name": "Prashant Mallannavar",
+              "username": "PrashantGMH",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1650790198404317184/PYkoQcQY_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/PrashantGMH.jpg"
+            },
+            "text": "@ShoneeKapoor @AnmolDang1997 Ghar ke Lakshmi hai !!\n\n#gharkelakshmi",
+            "created_at": "2026-11-07T18:01:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 35
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119109472148979773",
+            "author": {
+              "name": "Sreedhar Reddy",
+              "username": "SreedharReddyyy",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1820849720073289728/mg9k4uud_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/SreedharReddyyy.jpg"
+            },
+            "text": "@ShoneeKapoor She will be shot in the USA and down with taser in the UK,",
+            "created_at": "2026-11-07T16:47:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "impression_count": 25
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119065975077347589",
+            "author": {
+              "name": "Gaurav Sharma",
+              "username": "gauravsmart0018",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1651482173915148289/KedTzsnH_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/gauravsmart0018.jpg"
+            },
+            "text": "@ShoneeKapoor Bahot bada video h\n\nPoora post karo\n\nFulll galiya\n\nLadke ke upar fake blame\n\nPhir last me piyakkad gir jati h.\n\nIski sath wali sahara deti h",
+            "created_at": "2026-11-07T13:54:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 56
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119047110423396416",
+            "author": {
+              "name": "Kishor Gade",
+              "username": "SIFF_KishorGade",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/SIFF_KishorGade.jpg"
+            },
+            "text": "@ShoneeKapoor Ab police ko samjh aaye woman kaise fayda uthati hai",
+            "created_at": "2026-11-07T12:39:35.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 56
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119383337810984997",
+            "author": {
+              "name": "neiloneil26",
+              "username": "neiloneil26",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/neiloneil26.jpg"
+            },
+            "text": "@ShoneeKapoor JAAAAAGOOOOO\n\nJUDICIARY \n\nNETA\n\nJANTA\n\nJAAAAAAGGGGGOOOOORRREEEE\n\nSUPREME COURT PLEASE TAKE SU MOTO COGNIZANCE, \n\nCHANGE BIASED MATRIMONIAL LAW\n\nSUPARNAKHA BHI NARI THI\n\nSAB NARI , ABLA NARI NAHI HOTI.",
+            "created_at": "2026-11-08T10:55:38.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119332400681644339",
+            "author": {
+              "name": "kumud basu",
+              "username": "KumudBasu",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/KumudBasu.jpg"
+            },
+            "text": "@harsha_irugu @ShoneeKapoor https://t.co/KPYel6DfxM",
+            "created_at": "2026-11-08T07:33:14.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2119126407683154365"
+          },
+          {
+            "id": "2119332359061557504",
+            "author": {
+              "name": "kumud basu",
+              "username": "KumudBasu",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/KumudBasu.jpg"
+            },
+            "text": "@garikipatikiran @ShoneeKapoor @Resonant_News @LevinaNeythiri https://t.co/KPYel6DfxM",
+            "created_at": "2026-11-08T07:33:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2119044487783870653"
+          },
+          {
+            "id": "2119329290537840836",
+            "author": {
+              "name": "Gaurav Ghosh",
+              "username": "GauravGhosh_Ind",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2099137421208399873/binjVsBn_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/GauravGhosh_Ind.jpg"
+            },
+            "text": "@ShoneeKapoor This is when someone  become touch educated",
+            "created_at": "2026-11-08T07:20:52.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119325019448991828",
+            "author": {
+              "name": "ole ole",
+              "username": "infosecgyan",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2099805311381254144/n-taBogQ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/infosecgyan.jpg"
+            },
+            "text": "@ShoneeKapoor pootnA",
+            "created_at": "2026-11-08T07:03:54.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119316159162143124",
+            "author": {
+              "name": "Arvind Kr",
+              "username": "rvndkr",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2078347896664297472/ODgxMveU_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/rvndkr.jpg"
+            },
+            "text": "@ShoneeKapoor Jb system biased ho you yeh hota h",
+            "created_at": "2026-11-08T06:28:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 6
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119133147489239492",
+            "author": {
+              "name": "Gender Justice",
+              "username": "JusticeGender",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/515565938855276544/EswatL1F_normal.jpeg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/JusticeGender.jpg"
+            },
+            "text": "@ShoneeKapoor पुलिस वाले की औकात नहीं की इस महिला पर कार्यवाही कर दे ... हा हा हा",
+            "created_at": "2026-11-07T18:21:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119095336224674008",
+            "author": {
+              "name": "Shaurya",
+              "username": "Shaurya_Courage",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/Shaurya_Courage.jpg"
+            },
+            "text": "@ShoneeKapoor Police should not take any action as she was drunk. \n\nWhen she can't give consent for aex while drunk phir ye toh bachcho ka khel hai. She is innocent. \n\n#sarcasm",
+            "created_at": "2026-11-07T15:51:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119084346388926538",
+            "author": {
+              "name": "Rahul2708",
+              "username": "Rahul27082",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/Rahul27082.jpg"
+            },
+            "text": "@ShoneeKapoor Bewadi lafangi nashedi chinnar spotted 😂",
+            "created_at": "2026-11-07T15:07:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119061746388439149",
+            "author": {
+              "name": "தீபக்_ஈசன்_தாசன்",
+              "username": "DeepakR_Eesan",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2050516558250942465/hSRdKmEv_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/DeepakR_Eesan.jpg"
+            },
+            "text": "@ShoneeKapoor All men are silent of their own ethics....",
+            "created_at": "2026-11-07T13:37:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 22
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119038232134348908",
+            "author": {
+              "name": "Dushyant Sharma",
+              "username": "Dushyan92713030",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/Dushyan92713030.jpg"
+            },
+            "text": "@ShoneeKapoor Lost senses,playing with law",
+            "created_at": "2026-11-07T12:04:19.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 48
+            },
+            "in_reply_to_id": "2118984802179092499"
+          },
+          {
+            "id": "2119011129234174016",
+            "author": {
+              "name": "RJRJ",
+              "username": "Jeevandhar1995",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2107538088188903424/v4GMptG2_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/avatars/Jeevandhar1995.jpg"
+            },
+            "text": "@ShoneeKapoor यही कोई मर्द किसी महिला पुलिस को लात मार दे तो न जाने कितने सारे हिजड़ों की गांड में लात पड़ने वाली जलन हो जाएगी जिन्हें इसे देखकर फर्क नहीं पड़ रहा। लेकिन हमें कोई आपत्ति नहीं होगी तब भी।",
+            "created_at": "2026-11-07T10:16:37.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 42
+            },
+            "in_reply_to_id": "2118984802179092499"
+          }
+        ],
+        "content_sha": "d977d9310261f4738aa5ceb36c7174feaaa92734"
+      },
+      "cluster_id": "5b42ba3469891e47",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2851,30 +3325,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "892298ad777255b1",
-      "url": "https://ua.news/en/dovkolo-svitu/posolstvo-nimechchini-poiasnilo-prisutnist-viiskovikh-u-polshchi-urochistostiami-rmf24",
-      "title_en": "German Embassy explains military presence in Poland — RMF24",
-      "title_zh": "德国大使馆解释在波兰的军事存在 — RMF24",
-      "summary_en": "The German Embassy in Warsaw said the presence of German military personnel and equipment in Poland is connected exclusively to ceremonial and coordination events.",
-      "summary_zh": "德国驻华沙大使馆表示，德国军事人员和装备在波兰的存在完全与仪式和协调活动有关。",
-      "translation_status": "fallback",
-      "image": "https://cdn-cabinet.ua.news/uploads/images/german_embassy_explains_troops_presence_1793906787298.webp",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "德国",
-      "published_at": "2026-11-07T14:45:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "892298ad777255b1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "a8b107773f232040",
       "url": "https://indianexpress.com/article/sports/hockey/india-men-hockey-team-diet-salad-los-angeles-olympics-10953985/lite/",
       "title_en": "Curries out, salads in: Colour-coded diet to make Indian men's hockey team ready for Los Angeles Olympics",
@@ -2900,31 +3350,6 @@
       "reddit_score": 80,
       "reddit_comments": 3,
       "reddit_id": "t3_1xpzl90"
-    },
-    {
-      "id": "a57e2f37ba6ba2ee",
-      "url": "https://www.hindustantimes.com/trending/british-runner-sets-world-record-after-completing-marathon-distances-in-all-50-us-states-raises-funds-for-cancer-research-101794028424536.html",
-      "title_en": "British runner sets world record after completing marathon distances in all 50 US states, raises funds for cancer research",
-      "title_zh": "英国跑步者在完成美国所有 50 个州的马拉松距离后创造世界纪录，为癌症研究筹集资金",
-      "summary_en": "William Goodge completed marathon distances across all 50 US states in just over 22 days, setting a new world record.",
-      "summary_zh": "William Goodge 在短短 22 天多一点的时间内跑完了美国全部 50 个州的马拉松距离，创造了新的世界纪录。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Untitled_design_1794030296015_0OMj_1794030299922_gW1K_82c6312e-a64a-48e4-a610-f0237309044a_gEgU.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "英国",
-      "published_at": "2026-11-07T14:23:14+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事",
-        "健康医疗"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "a57e2f37ba6ba2ee",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "146e93ca2f2edc67",
@@ -3026,30 +3451,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "690162c12704d76b",
-      "url": "https://www.hindustantimes.com/trending/lifesized-cake-statues-of-prince-william-and-kate-middleton-unveiled-at-uk-baking-show-101794028472592.html",
-      "title_en": "Life-sized cake statues of Prince William and Kate Middleton unveiled at UK baking show",
-      "title_zh": "威廉王子和凯特·米德尔顿真人大小的蛋糕雕像在英国烘焙展上亮相",
-      "summary_en": "The cake statues of the royal couple were created by cake artist Emma Jayne. | Trending",
-      "summary_zh": "这对皇室夫妇的蛋糕雕像是由蛋糕艺术家艾玛·杰恩 (Emma Jayne) 制作的。 |流行趋势",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Cake_Statue_Prince_William_Kate_Middleton_1794028964072_D6UK_1794028964397_Z4W2_92f64a5b-6ec7-40c2-9d6a-b7458e9c76ab_yx2p.jpg",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "英国",
-      "published_at": "2026-11-07T13:26:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "690162c12704d76b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "cf2da86158ede948",
       "url": "https://www.timesnownews.com/india/e20-turned-into-420-rahul-gandhi-accuses-government-of-stealing-petrol-omcs-reject-31-percent-ethanol-claim-article-156477798",
       "title_en": "'E20 Turned Into 420': Rahul Accuses Govt Of 'Stealing Petrol', OMCs Reject 31% Ethanol Claim",
@@ -3120,30 +3521,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c26b889b4366db80",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "12405a4e365c5108",
-      "url": "https://soranews24.com/2026/11/07/restaurant-opens-in-japan-with-all-dementia-waitresses-serves-up-ramen-awareness-and-kindness/",
-      "title_en": "Restaurant opens in Japan with all-dementia waitresses, serves up ramen, awareness, and kindness",
-      "title_zh": "日本开设餐厅，服务员全是痴呆症，提供拉面、意识和善良",
-      "summary_en": "Restaurant of Mistaken Orders is upfront about potential problems in order to cultivate future understanding . Japan has incredibly high customer service standards, especially where restaurants are concerned. Because of that, a restaurant saying, in advance, that it might get your order wrong seems like a recipe for dissatisfied diners, but that strategy led to smiles all around, plus a few appreciative tears, recently in the city of Matsuyama, Ehime Prefecture . “Restaurant of Mistaken Orders” didn’t get its…",
-      "summary_zh": "错误订单餐厅会提前告知潜在问题，以便培养未来的理解。日本的客户服务标准非常高，尤其是在餐馆方面。因此，一家餐厅提前说可能会点错菜，这似乎是食客不满意的良方，但最近在爱媛县松山市，这种策略让周围的人都笑了，还流下了一些感激的泪水。 “餐厅",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/22.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-07T13:00:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "街头食物"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "12405a4e365c5108",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3415,30 +3792,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "bfa9a9c04b278e55",
-      "url": "https://www.fashiontimes.co.uk/italian-hobbits-return-lost-wedding-ring-1767210",
-      "title_en": "Three Italian Friends Fly 1,000 Miles to Ireland Dressed as 'Hobbits' To Return Man's Lost Wedding Ring",
-      "title_zh": "三名意大利朋友装扮成“霍比特人”飞 1000 英里飞往爱尔兰寻回男子丢失的结婚戒指",
-      "summary_en": "Three Italian men searched a Tuscan river for an Irish holidaymaker's lost wedding ring, then dressed as hobbits and travelled to Ireland to return it, beginning an unexpected friendship.",
-      "summary_zh": "三名意大利男子在托斯卡纳河中寻找一名爱尔兰度假者丢失的结婚戒指，然后打扮成霍比特人前往爱尔兰归还戒指，开始了一段意想不到的友谊。",
-      "translation_status": "fallback",
-      "image": "https://d.fashiontimes.co.uk/en/full/1785423/italian-friends-return-lost-wedding-ring.png",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T11:55:13+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "婚俗宗教"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "bfa9a9c04b278e55",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "c814dc19dfaa342e",
       "url": "https://www.youtube.com/watch?v=SkDFVCN_6z4",
       "title_en": "Neha Bora accuses Delhi government of manipulating clean air data and ignoring vehicular pollution",
@@ -3487,30 +3840,6 @@
       "cluster_id": "b531c2013e530eba",
       "cluster_item_count": 3,
       "cluster_source_count": 3
-    },
-    {
-      "id": "c4b5895f6fc4cb22",
-      "url": "https://www.timesnownews.com/sports/cricket/usman-khawaja-makes-shocking-reveal-says-everyone-was-involved-in-sandpaper-gate-article-156477399",
-      "title_en": "Usman Khawaja Makes Shocking Reveal, Says Everyone Was Involved In Sandpaper Gate",
-      "title_zh": "乌斯曼·卡瓦贾 (Usman Khawaja) 揭露令人震惊，称每个人都参与了“砂纸门”",
-      "summary_en": "More than eight years after the sandpaper gate, Usman Khawaja has revealed that everyone in the Australian dressing room knew that Cameron Bancroft was going to use sandpaper., Cricket, Times Now",
-      "summary_zh": "砂纸门八年多后，乌斯曼·卡瓦贾透露，澳大利亚更衣室里的每个人都知道卡梅伦·班克罗夫特将使用砂纸。, 板球, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156477440,thumbsize-1934895,width-1280,height-720,resizemode-75/156477440.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "澳大利亚",
-      "published_at": "2026-11-07T11:45:28+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c4b5895f6fc4cb22",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "55eab9d19a0ae84c",
@@ -3607,54 +3936,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "259e9d20b3e7b3f1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8116ca60770e1611",
-      "url": "https://www.republicworld.com/world-news/united-states-announces-fresh-iran-related-sanctions-says-treasury-dept-2026-11-07-140597",
-      "title_en": "United States Announces Fresh Iran-Related Sanctions, Says Treasury Dept",
-      "title_zh": "美国财政部表示，美国宣布新的与伊朗相关的制裁",
-      "summary_en": "US Treasury Secretary Scott Bessent said Washington would continue to take action against those supporting Tehran, reiterating the administration&#39;s stance on enforcing sanctions against Iran.",
-      "summary_zh": "美国财政部长斯科特·贝森特表示，华盛顿将继续对那些支持德黑兰的人采取行动，重申政府对伊朗实施制裁的立场。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/09/us-sanctions-turkish-bank-golden-global-yatirim-under-operation-economic-outcast-to-cut-iran-oil-revenue-lifeline-from-china-1788539346095-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-07T11:27:10+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "8116ca60770e1611",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "450098aa9704ed0b",
-      "url": "https://www.the-independent.com/asia/east-asia/south-korea-military-runway-training-posture-b3080434.html",
-      "title_en": "South Korean army faces backlash over ‘inappropriate’ training programme",
-      "title_zh": "韩国军队因“不适当”的训练计划而面临强烈反对",
-      "summary_en": "Footage showed female models demonstrating catwalk techniques to male soldiers",
-      "summary_zh": "视频显示女模特向男士兵展示走秀技巧",
-      "translation_status": "fallback",
-      "image": "https://static.the-independent.com/2026/10/17/09/2297439279..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "韩国",
-      "published_at": "2026-11-07T11:26:43+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "450098aa9704ed0b",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3904,78 +4185,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "f71a7b87c3c73301",
-      "url": "https://www.ctvnews.ca/kitchener/article/norfolk-county-council-seat-decided-by-draw-from-a-hat/",
-      "title_en": "Norfolk County council seat decided by draw from a hat",
-      "title_zh": "诺福克郡议会席位以抽签方式决定",
-      "summary_en": "An election race in Ontario that became too close to call ended with a literal draw from a hat.",
-      "summary_zh": "安大略省一场势均力敌的选举以平局结束。",
-      "translation_status": "fallback",
-      "image": "https://www.ctvnews.ca/resizer/v2/LND6NTP6XLIFEP3GDMVV5DXBLI.jpg?smart=true&amp;auth=8a0eb11e89a2b2906edc40ca4c5887bdfe58d4b0423dcdf98277001eebea362b&amp;width=1200&amp;height=630",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T10:22:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "f71a7b87c3c73301",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "78ed8e49de13f3f9",
-      "url": "https://www.hindustantimes.com/trending/uk-firefighters-attacked-with-fireworks-while-trying-to-put-out-blaze-101794017566172.html",
-      "title_en": "UK firefighters attacked with fireworks while trying to put out blaze",
-      "title_zh": "英国消防员在试图扑灭大火时用烟花袭击",
-      "summary_en": "A 14-year-old boy was arrested in connection with the incident of a fire crew being attacked with fireworks.",
-      "summary_zh": "一名 14 岁男孩因涉嫌用烟花袭击消防员事件而被捕。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Fireworks_Fire_Crew_UK_Viral_Attack_1794017832261_wqdc_1794017832485_35N8_9b63fc21-7eb4-4124-a1a4-d94ec786e986_w2BK.jpg",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "英国",
-      "published_at": "2026-11-07T10:21:08+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "78ed8e49de13f3f9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "17e6dbb5905aa7d4",
-      "url": "https://www.cbc.ca/radio/asithappens/hefty-hawk-9.7412660",
-      "title_en": "This hawk gobbled up neighbourhood chickens until she got too fat to fly",
-      "title_zh": "这只鹰吞噬了附近的鸡，直到她变得太胖而无法飞翔",
-      "summary_en": "When someone brought an immobilized red-shouldered hawk to the Southwest Virginia Wildlife Center last month, staff suspected she was either blinded, injured or poisoned. But it turns out she just ate too many chickens.",
-      "summary_zh": "上个月，有人将一只一动不动的红肩鹰带到西南弗吉尼亚野生动物中心，工作人员怀疑她要么失明、受伤，要么中毒。但事实证明她只是吃了太多的鸡。",
-      "translation_status": "fallback",
-      "image": "https://i.cbc.ca/ais/1e7167cd-bc58-4553-ab1d-adede5cf724d,1793995136818/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C1536%2C864%29%3BResize%3D620",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T10:17:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "17e6dbb5905aa7d4",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "a9a6356c16fdeef5",
       "url": "https://www.timesnownews.com/india/omcs-reject-karnataka-claim-of-excess-ethanol-in-petrol-say-tests-did-not-follow-prescribed-norms-article-156477064",
       "title_en": "31% Ethanol In Petrol? OMCs Reject Karnataka’s Claim, Question Testing Process",
@@ -4000,126 +4209,6 @@
       "cluster_source_count": 3
     },
     {
-      "id": "cb93ab625854a1b7",
-      "url": "https://www.republicworld.com/global-news/secret-service-foils-alleged-trump-assassination-threat-venezuelan-migrant-arrested-with-3-guns-in-stolen-car-2026-11-07-140592",
-      "title_en": "Secret Service Foils Alleged Trump Assassination Threat; Venezuelan Migrant Arrested Near White House With 3 Guns In Stolen Car",
-      "title_zh": "特勤局挫败了特朗普暗杀威胁的指控；委内瑞拉移民在白宫附近被捕，车内藏有 3 支枪",
-      "summary_en": "A Venezuelan migrant was arrested near the White House with three firearms after telling officers that voices in his head told him to travel to Washington to kill President Donald Trump.",
-      "summary_zh": "一名委内瑞拉移民在白宫附近被捕，当时他携带三把枪，他告诉警察，他脑海中的声音告诉他前往华盛顿杀死唐纳德·特朗普总统。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/04/shooting-near-the-white-house-1775441662549-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-07T09:25:40+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "cb93ab625854a1b7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "944460b0231ad282",
-      "url": "https://www.timesnownews.com/world/us/us-news/who-is-ronny-yordrix-guanipa-chrinos-venezuelan-man-arrested-with-guns-near-white-house-kill-trump-article-156476966",
-      "title_en": "'Voices Told Me To Kill Trump': Venezuelan Man Arrested With Guns Near White House",
-      "title_zh": "“有声音告诉我要杀死特朗普”：委内瑞拉男子在白宫附近持枪被捕",
-      "summary_en": "Ronny Yordrix Guanipa Chrinos faces several charges related to the firearms and vehicle, US News, Times Now",
-      "summary_zh": "罗尼·约德里克斯·瓜尼帕·奇里诺斯面临与枪支和车辆有关的多项指控",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156476970,thumbsize-226675,width-1280,height-720,resizemode-75/156476970.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "美国",
-      "published_at": "2026-11-07T09:16:50+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "944460b0231ad282",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "bdd8e61704943d56",
-      "url": "https://www.timesnownews.com/world/woman-who-targeted-nvidia-ceo-jensen-huang-was-recruited-by-chinas-spy-agency-report-says-article-156476883",
-      "title_en": "Woman Who Targeted Nvidia CEO Jensen Huang Was Recruited by China’s Spy Agency, Report Says",
-      "title_zh": "报告称，针对英伟达首席执行官黄仁勋的女性被中国间谍机构招募",
-      "summary_en": "U.S. officials believe Alice Huang, a Chinese businesswoman close to Nvidia CEO Jensen Huang, worked for China’s top spy agency, according to people briefed on surveillance. House Republicans have asked Jensen Huang for a closed-door briefing. , World News, Times Now",
-      "summary_zh": "据了解监视情况的人士透露，美国官员认为，与英伟达首席执行官黄仁勋关系密切的中国女商人爱丽丝·黄 (Alice Huang) 为中国最高间谍机构工作。众议院共和党人要求黄仁勋举行闭门简报会。 , 世界新闻, 时代现在",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156476955,thumbsize-59097,width-1280,height-720,resizemode-75/156476955.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "中国",
-      "published_at": "2026-11-07T09:09:54+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "bdd8e61704943d56",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d319a55066c1d769",
-      "url": "https://soranews24.com/2026/11/07/get-the-taste-of-the-u-k-in-tokyo-with-99-flakes-meat-pies-and-jaffa-cakes/",
-      "title_en": "Get the taste of the U.K. in Tokyo with 99 Flakes, meat pies, and Jaffa Cakes",
-      "title_zh": "在东京品尝 99 片、肉馅饼和 Jaffa 蛋糕，品尝英国风味",
-      "summary_en": "This tiny Shibuya spot brings quintessential UK snacks straight to central Tokyo. Whether you have moved to a different country and pining for the foodstuffs of the motherland or you are interested in foreign cuisine without the hefty price tag of the airfare, specialty import stores are a treat to walk around. Tucked away amid the towering buildings of Shibuya , you’ll find The British Shop , a grocery store specializing in British ingredients with its own eat-in area. Located just outside exit B3 of the Shibuya…",
-      "summary_zh": "这家位于涩谷的小店将典型的英国小吃直接带到东京市中心。无论您移居异国，思念祖国美食，还是对外国美食感兴趣，但又不想支付高昂的机票价格，进口专卖店都是您逛逛的一种享受。 The British Shop 隐藏在涩谷高耸的建筑之中，这是一家专营英国食材的杂货店，设有自己的就餐区。定位",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/imgi_405_b2_90640e.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "英国",
-      "published_at": "2026-11-07T09:00:47+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "d319a55066c1d769",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "4285af4d285e93ae",
-      "url": "https://www.republicworld.com/global-news/meghan-markle-s-father-arrested-in-florida-over-child-sexual-abuse-images-in-storage-units-2026-11-07-140590",
-      "title_en": "Meghan Markle's Father Arrested In Florida Over Child Sexual Abuse Images In Storage Units",
-      "title_zh": "梅根·马克尔的父亲因存储单位内存放儿童性虐待照片而在佛罗里达州被捕",
-      "summary_en": "The 82-year-old Thomas Markle Sr., Meghan Markle&#39;s estranged father, was arrested in Florida over child abuse images found in California storage units after his son reported a discovery in the Philippines.",
-      "summary_zh": "82 岁的托马斯·马克尔 (Thomas Markle Sr.) 是梅根·马克尔 (Meghan Markle) 关系疏远的父亲，他的儿子报告了在菲律宾发现的虐待儿童照片，之后他因在加州储藏室发现虐待儿童照片而在佛罗里达州被捕。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/meghan-markle-s-father-arrested-in-florida-over-child-sexual-abuse-images-in-storage-units-1794012295443-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-07T08:45:01+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "3eb0dd9b18c342e4",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
       "id": "ef1a3e4245b9cca1",
       "url": "https://www.republicworld.com/global-news/trump-declares-he-alone-prevented-iran-from-wiping-out-israel-and-the-middle-east-2026-11-07-140587",
       "title_en": "Trump Declares He Alone Prevented Iran From Wiping Out Israel And The Middle East",
@@ -4140,79 +4229,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ef1a3e4245b9cca1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "37bf5a52fff4d995",
-      "url": "https://www.wtae.com/article/airport-officials-discover-3000-tarantulas-smuggled-inside-dirty-socks/74362255",
-      "title_en": "Airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-      "title_zh": "机场官员发现3000只狼蛛藏在脏袜子里走私",
-      "summary_en": "More than 3,000 tarantulas were discovered stuffed inside dirty socks that were packed in the luggage of travelers as they prepared to board a flight.",
-      "summary_zh": "旅客准备登机时，行李中的脏袜子里发现了 3000 多只狼蛛。",
-      "translation_status": "fallback",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/f7baf93b-6cb8-4f81-85ec-110f514b05c1.jpg?crop=1.00xw%3A0.989xh%3B0%2C0&amp;resize=1200%3A*",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T08:05:57+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "37bf5a52fff4d995",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "63303ce6ec0f3bb5",
-      "url": "https://www.neatorama.com/2026/11/06/When-Marilyn-Monroe-Became-Five-Other-Movie-Stars/",
-      "title_en": "When Marilyn Monroe Became Five Other Movie Stars",
-      "title_zh": "当玛丽莲·梦露成为另外五位电影明星时",
-      "summary_en": "Embed from Getty Images In 1958, Marilyn Monroe was at the height of her popularity. That was the year she filmed Some Like It Hot . That was also the year the movie star got a photo spread in LIFE magazine's Christmas issue, impersonating five of the silver screen's biggest actresses of Hollywood's first 50 years: Lillian Russell, Theda Bara, Clara Bow, Marlene Dietrich, and Jean Harlow. The magazine feature was titled \"Fabled Enchantresses,\" although it has also been called \"Fabulous Enchantresses\" in the years…",
-      "summary_zh": "嵌入自 Getty Images 1958 年，玛丽莲·梦露正处于她人气的顶峰。那一年她拍摄了《热情似火》。同年，这位电影明星在《生活》杂志的圣诞特刊上刊登了一张照片，模仿了好莱坞 50 年来银幕上最伟大的五位女演员：莉莲·拉塞尔、西达·巴拉、克拉拉·鲍、玛琳·黛德丽和珍·哈露。该杂志专题的标题是“传说中的女巫”，尽管它也被称为",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T07:46:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "影视神剧"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "63303ce6ec0f3bb5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "878c882aed141514",
-      "url": "https://www.timesnownews.com/world/us/us-news/us-treasury-targets-eight-canadian-money-firms-over-alleged-iran-sanctions-evasion-article-156476848",
-      "title_en": "US Treasury Targets Eight Canadian Money Firms Over Alleged Iran Sanctions Evasion",
-      "title_zh": "美国财政部因涉嫌逃避伊朗制裁而针对八家加拿大货币公司",
-      "summary_en": "The US Treasury has sanctioned eight Canadian money services businesses for allegedly facilitating financial transactions with sanctioned Iranian entities, aiming to disrupt Iran's international financial operations., US News, Times Now",
-      "summary_zh": "美国财政部制裁了八家加拿大货币服务企业，因为它们涉嫌为受制裁的伊朗实体提供金融交易便利，旨在扰乱伊朗的国际金融运作。, 美国新闻, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156476849,thumbsize-67548,width-1280,height-720,resizemode-75/156476849.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "加拿大",
-      "published_at": "2026-11-07T07:31:16+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "878c882aed141514",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4265,130 +4281,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "ded68f765b43205d",
-      "url": "https://www.wlky.com/article/coin-flip-kentucky-election-tie-robertson-county/74360556",
-      "title_en": "Heads or tails? Coin flip decides Kentucky election after race ends in a tie",
-      "title_zh": "是头还是尾？比赛以平局结束后，抛硬币决定肯塔基州选举",
-      "summary_en": "A northern Kentucky election took an unusual turn after two candidates finished with the exact same number of votes.",
-      "summary_zh": "肯塔基州北部的选举出现了不同寻常的转变，两名候选人获得了完全相同的票数。",
-      "translation_status": "fallback",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/32c55308-ecfa-437b-83ee-62857b3b5066.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&amp;resize=1200%3A*",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T06:51:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "ded68f765b43205d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "bedd91584f8ffe5b",
-      "url": "https://www.pcguide.com/news/nvidia-announces-geforce-8800-gtx-unboxing-simulator-available-on-steam-to-celebrate-20-years-of-a-legend/",
-      "title_en": "Nvidia announces GeForce 8800 GTX unboxing simulator, available on Steam to celebrate \"20 Years of a Legend\"",
-      "title_zh": "Nvidia 宣布推出 GeForce 8800 GTX 开箱模拟器，现已在 Steam 上发售，以庆祝“传奇 20 周年”",
-      "summary_en": "A new \"semi-interactive tech demo\" from Unreal Engine artist Dylan Browne is now available on Steam, and it's free to download.",
-      "summary_zh": "虚幻引擎艺术家 Dylan Browne 的新“半交互式技术演示”现已在 Steam 上发布，并且可以免费下载。",
-      "translation_status": "fallback",
-      "image": "https://www.pcguide.com/wp-content/uploads/2026/11/GeForce-8800-GTX-in-game-render.jpg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T06:48:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "bedd91584f8ffe5b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "bfd3f9d31eb5e3d3",
-      "url": "https://allthatsinteresting.com/siberia-oldest-cannabis-seeds",
-      "title_en": "The Earliest-Known Use Of Cannabis Has Been Uncovered In A 2,800-Year-Old Tomb In Siberia",
-      "title_zh": "西伯利亚一座 2800 年前的古墓中发现了已知最早的大麻用途",
-      "summary_en": "T. Wallace Researchers determined that these cannabis seeds found within a Scythian tomb date back a record-setting 2,800 years. Humans may have been using cannabis for its psychoactive properties hundreds of years earlier than previously thought. Researchers recently discovered more than 1,000 cannabis seeds in a 2,800-year-old Siberian tomb — and found traces of psychoactive cannabis compounds in the hair of some of the people who were buried at this site.",
-      "summary_zh": "T. Wallace 研究人员确定，在斯基泰人坟墓中发现的这些大麻种子的历史可以追溯到创纪录的 2,800 年前。人类利用大麻的精神作用可能比之前认为的要早数百年。研究人员最近在一座拥有 2,800 年历史的西伯利亚坟墓中发现了 1,000 多颗大麻种子，并在埋葬于此地点的一些人的头发中发现了对精神活性的大麻化合物的痕迹。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/11/featured-earliest-known-cannabis-use.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-07T06:45:19+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "bfd3f9d31eb5e3d3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "fe58f78cf5c0f48d",
-      "url": "https://jaxtoday.org/2026/11/06/deportation-depot-ambulances/",
-      "title_en": "A South Florida air charter company is running Deportation Depot’s ambulances",
-      "title_zh": "南佛罗里达州的一家包机公司正在运营驱逐站的救护车",
-      "summary_en": "Tropic Air Rescue made a hefty contribution to Gov.-elect Byron Donalds after launching the Deportation Depot business.",
-      "summary_zh": "热带空中救援公司推出驱逐站业务后，为当选州长拜伦·唐纳德斯做出了巨大贡献。",
-      "translation_status": "fallback",
-      "image": "https://jaxtoday.org/wp-content/uploads/2026/11/IMG_9933-1024x576.webp",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "美国",
-      "published_at": "2026-11-07T06:42:49+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "商业套路"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "fe58f78cf5c0f48d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 21,
-      "reddit_comments": 1,
-      "reddit_id": "t3_1xpqgiz"
-    },
-    {
-      "id": "3f2815fc2ab0ef1a",
-      "url": "https://www.neatorama.com/2026/11/06/Two-Raccoons-in-a-Snowstorm-Will-Melt-Your-Heart/",
-      "title_en": "Two Raccoons in a Snowstorm Will Melt Your Heart",
-      "title_zh": "暴风雪中的两只浣熊会融化你的心",
-      "summary_en": "In the stop-motion animation Something Greater Than You , two raccoons find shelter from a winter storm in someone's basement. It's full of human junk to play with, and the owner is evidently a bird watcher, or rather was at some time in the past. Raccoons are pretty smart, and these have even figured out how to use a cassette player. They can't talk, but you know what they are thinking every minute.",
-      "summary_zh": "在定格动画《Something Great Than You》中，两只浣熊在某人的地下室找到了躲避冬季风暴的庇护所。里面堆满了可供玩耍的人类垃圾，而主人显然是一名观鸟者，或者更确切地说是在过去的某个时候。浣熊非常聪明，它们甚至知道如何使用卡带播放器。他们不会说话，但你知道他们每分钟在想什么。",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T06:36:12+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "page_attempts": 2,
-      "source_region": "全球",
-      "cluster_id": "3f2815fc2ab0ef1a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "70676a424d7467d2",
       "url": "https://www.reddit.com/r/india/comments/1xppkxo/i_am_really_frustrated_af_please_i_need_help/",
       "title_en": "I am really frustrated AF. Please I need help.",
@@ -4410,54 +4302,6 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "70676a424d7467d2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f3fa7f112e9f05f6",
-      "url": "https://www.dailystar.co.uk/news/latest-news/breaking-meghan-markle-breaks-silence-37853093",
-      "title_en": "Meghan Markle 'breaks her silence' over dad Thomas's child abuse images charge",
-      "title_zh": "梅根·马克尔对父亲托马斯虐待儿童图片指控“打破沉默”",
-      "summary_en": "Thomas appeared before a court in Florida on Friday night, accused of hoarding a stash of illegal material, including photos of himself with naked young girls",
-      "summary_zh": "周五晚上，托马斯出现在佛罗里达州的一家法院，被指控囤积非法材料，其中包括他与裸体年轻女孩的照片",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37853125.ece/ALTERNATES/s615/1_Meghans-mum-reveals-what-she-really-thinks-about-Thomas-Markles-photo-scandal.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "美国",
-      "published_at": "2026-11-07T05:17:30+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "f3fa7f112e9f05f6",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0c7ef0d072460281",
-      "url": "https://www.timesnownews.com/world/us-warns-china-to-immediately-meet-trade-deal-terms-ahead-of-trump-xi-meeting-article-156476751",
-      "title_en": "US Warns China to 'Immediately' Meet Trade Deal Terms Ahead of Trump-Xi Meeting",
-      "title_zh": "美国警告中国在特习会前“立即”遵守贸易协议条款",
-      "summary_en": "According to a Treasury readout, Bessent asked for the commitments to be met fully and without delay, and raised concerns about recent Chinese actions. He added that further progress will depend on real results, and that the US will closely check whether China follows through., World News, Times Now",
-      "summary_zh": "根据财政部的通报，贝森特要求立即全面履行承诺，并对中国最近的行动表示担忧。他补充说，进一步的进展将取决于实际结果，美国将密切关注中国是否遵守。, 世界新闻, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156476786,thumbsize-43595,width-1280,height-720,resizemode-75/156476786.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "中国",
-      "published_at": "2026-11-07T05:12:51+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "0c7ef0d072460281",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4490,82 +4334,6 @@
       "reddit_id": "t3_1xpo2pp"
     },
     {
-      "id": "883a2075d622627f",
-      "url": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
-      "title_en": "Fuente de los Niños Miones in Guadalajara, Mexico",
-      "title_zh": "墨西哥瓜达拉哈拉的儿童米奥内斯喷泉",
-      "summary_en": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía . This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness . Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982 . It sits on Morelos Street, right next to the mysterious \"Devil's Corner\" ( Rincón del Diablo ), an alleyway shrouded in enigmatic…",
-      "summary_zh": "Fuente de los Niños Miones 由传统的黑色锻铁制成，位于瓜达拉哈拉历史中心的塔帕蒂亚广场 (Plaza Tapatía) 内，为路人带来欢乐。这颗雕塑般的宝石以其独特的魅力和都市的厚颜无耻吸引着好奇的旅行者。这件艺术品由雕塑家 Miguel Miramontes 创作，于 1982 年安装，旨在庆祝童年的欢乐。它坐落在莫雷洛斯街，紧邻神秘的“魔鬼角”（Rincón del Diablo）",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/1h_uKqpelbiYZqDMwBp_Zq-w_f3YbwKKcN1fP2oCx0A/rs:fill:300:200:1/g:ce/c:921:614:nowe:37:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81ZGE4/MzhhZS1mOTZjLTQy/ZDItYTQ3MC0yNDc2/YTZjNDljODljNjk2/Yjc0ZmI1OTNjNzA2/ZDNfQm95c0ZvdW50/YWluTW9yZWxvc1N0/R0RMLmpwZw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-07T05:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "883a2075d622627f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "bcbe5a3be7a4b92b",
-      "url": "https://www.neatorama.com/2026/11/06/The-Women-Who-Are-Taking-Over-the-Funeral-Industry/",
-      "title_en": "The Women Who Are Taking Over the Funeral Industry",
-      "title_zh": "接管殡葬业的女性",
-      "summary_en": "Women make up 54% of medical school students today, more than 80% of veterinary students, and 56% of law school students. So is it any surprise that 75% of mortuary classes are made up of women? That's up from only 5% forty years ago. They are the new class of funeral directors, embalmers, coroners, and other professionals in the death care industry.",
-      "summary_zh": "如今，女性在医学院学生中占 54%，在兽医学生中占 80% 以上，在法学院学生中占 56%。那么，75% 的太平间人员由女性组成，这有什么奇怪的吗？这比四十年前只有 5% 有所上升。他们是丧葬承办人、防腐师、验尸官和殡葬行业的其他专业人士的新阶层。",
-      "translation_status": "fallback",
-      "image": "https://uploads.neatorama.com/images/posts/682/128/128682/1793997753-0.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T04:42:33+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "健康医疗"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "bcbe5a3be7a4b92b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "23b9233378d84d45",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/07/trevor-hold-activist-convicted-qld-fire-ant-eradication-program-queensland-ntwnfb?CMP=share_btn_url",
-      "title_en": "Anti-fire ant eradication activist convicted after using legal arguments ‘similar to sovereign citizens’",
-      "title_zh": "反火蚁根除活动人士在使用“与主权公民类似”的法律论据后被定罪",
-      "summary_en": "",
-      "summary_zh": "反火蚁根除活动人士在使用“与主权公民类似”的法律论据后被定罪",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-07T04:41:18+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "23b9233378d84d45",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 48,
-      "reddit_comments": 2,
-      "reddit_id": "t3_1xpnkka"
-    },
-    {
       "id": "e2f67894bf789dcb",
       "url": "https://www.timesnownews.com/world/us/us-news/house-democrats-flooded-with-calls-urging-them-not-to-back-jeffries-for-speaker-article-156476609",
       "title_en": "House Democrats Flooded With Calls Urging Them Not to Back Jeffries for Speaker",
@@ -4586,57 +4354,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "e2f67894bf789dcb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "99b5f81776d7d4b5",
-      "url": "https://patch.com/maryland/gaithersburg/s/kxj9z/81-year-old-tied-to-chair-tortured-with-syrup-during-md-robbery-report",
-      "title_en": "81-Year-Old Tied To Chair, Tortured With Syrup During MD Robbery: Report",
-      "title_zh": "81 岁老人在 MD 抢劫期间被绑在椅子上并用糖浆折磨：报告",
-      "summary_en": "Deputies said an 81-year-old Delaware man escaped after being bound, assaulted and burned inside an Elkton home.",
-      "summary_zh": "警员称，一名 81 岁的特拉华州男子在埃尔克顿的家中被捆绑、袭击并烧死后逃脱。",
-      "translation_status": "fallback",
-      "image": "https://patch.com/img/cdn20/users/566479/20261105/061541/styles/patch_image/public/patch-stock-police-lights-crime-scene-fernandez___05181315414.jpg",
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "全球",
-      "published_at": "2026-11-07T04:08:54+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "99b5f81776d7d4b5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 144,
-      "reddit_comments": 31,
-      "reddit_id": "t3_1xpmsgm"
-    },
-    {
-      "id": "34099e8a76f5f44c",
-      "url": "https://www.irishtimes.com/crime-law/2026/11/06/person-of-interest-in-defence-forces-underwear-probe-admitted-masturbating-in-tk-maxx/",
-      "title_en": "Person of interest in Defence Forces underwear investigation admitted masturbating in TK Maxx",
-      "title_zh": "国防军内衣调查相关人士承认在 TK Maxx 中自慰",
-      "summary_en": "Three people of interest in underwear defilement investigation were not DNA match, tribunal hears",
-      "summary_zh": "法庭获悉，参与内衣污染调查的三名嫌疑人 DNA 不匹配",
-      "translation_status": "fallback",
-      "image": "https://www.irishtimes.com/resizer/v2/KSNMRIVI3P6JZZNJ42I347JA3I.jpg?smart=true&amp;auth=cb7f75acce9e0c005a0214ff994b69842355282a680ab0009b07cc27226e9d3c&amp;width=1200&amp;height=630",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T04:07:35+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "34099e8a76f5f44c",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4668,82 +4385,6 @@
       "reddit_id": "t3_1xpmiro"
     },
     {
-      "id": "9abdeff5b84bc585",
-      "url": "https://www.chron.com/news/article/baylor-fraternity-homecoming-hazing-22516813.php",
-      "title_en": "A Texas university fraternity admits hazing but still gets to celebrate homecoming",
-      "title_zh": "德克萨斯大学兄弟会承认欺凌行为，但仍庆祝返校节",
-      "summary_en": "",
-      "summary_zh": "德克萨斯大学兄弟会承认欺凌行为，但仍庆祝返校节",
-      "translation_status": "fallback",
-      "image": null,
-      "image_checked": true,
-      "source": "Reddit r/Offbeat",
-      "source_id": "reddit-offbeat",
-      "region": "美国",
-      "published_at": "2026-11-07T03:48:32+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "page_fetched": true,
-      "source_region": "全球",
-      "cluster_id": "9abdeff5b84bc585",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 208,
-      "reddit_comments": 9,
-      "reddit_id": "t3_1xpma84"
-    },
-    {
-      "id": "953f8d4c10b94063",
-      "url": "https://www.dailystar.co.uk/news/latest-news/thomas-markle-appears-court-wheelchair-37852866",
-      "title_en": "Thomas Markle appears in court in wheelchair as child sex abuse image charges detailed",
-      "title_zh": "托马斯·马克尔坐在轮椅上出庭，详细了解儿童性虐待图像指控",
-      "summary_en": "Wearing a black t-shirt and black trousers, he was escorted by two US Marshals as he appeared for an arraignment hearing in which the charges against him were laid out",
-      "summary_zh": "他身穿黑色T恤和黑色裤子，在两名美国法警的陪同下出席传讯听证会，会上提出了对他的指控",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.dailystar.co.uk/incoming/article37852094.ece/ALTERNATES/s615/2_Thomas-Markle.jpg",
-      "image_checked": true,
-      "source": "Daily Star Weird News",
-      "source_id": "daily-star-weird",
-      "region": "英国",
-      "published_at": "2026-11-07T03:45:38+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "953f8d4c10b94063",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ca8d31dc098ad685",
-      "url": "https://www.ksl.com/article/51641770/kearns-man-pleads-guilty-to-manslaughter-for-killing-friend-who-said-he-could-dodge-a-bullet",
-      "title_en": "Kearns man pleads guilty to manslaughter for killing friend who said he could dodge a bullet",
-      "title_zh": "卡恩斯男子因杀害自称能躲子弹的朋友而承认过失杀人罪",
-      "summary_en": "A 25-year-old man pleaded guilty to manslaughter on Monday, admitting to recklessly firing his gun and killing a friend he lived with after the friend claimed he could dodge a bullet.",
-      "summary_zh": "周一，一名 25 岁男子承认过失杀人罪，承认在一名与他住在一起的朋友声称他可以躲开子弹后，鲁莽地开枪杀死了他。",
-      "translation_status": "fallback",
-      "image": "https://img.ksl.com/slc/2905/290508/29050889.jpeg?filter=kslv2/responsive_story_lg",
-      "image_checked": true,
-      "source": "Reddit r/nottheonion",
-      "source_id": "reddit-nottheonion",
-      "region": "全球",
-      "published_at": "2026-11-07T03:26:26+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "ca8d31dc098ad685",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "819f8d8ac0dad63d",
       "url": "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/breach-of-promise-to-marry-is-not-always-rape-jaspal-singh-kaural-v-the-state-of-nct-of-delhi/",
       "title_en": "Breach of Promise to Marry is Not Always Rape - Supreme Court Observer",
@@ -4765,30 +4406,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "819f8d8ac0dad63d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "16ecc4f16e60adbb",
-      "url": "https://www.republicworld.com/global-news/trump-sacks-chief-of-staff-susie-wiles-after-midterm-blowout-picks-stephen-miller-2026-11-06-140585",
-      "title_en": "Trump Sacks Chief Of Staff Susie Wiles After Midterm Blowout, Picks Stephen Miller",
-      "title_zh": "特朗普在中期选举失败后解雇幕僚长苏西·威尔斯，任命斯蒂芬·米勒",
-      "summary_en": "Trump has replaced Susie Wiles with Stephen Miller as White House chief of staff days after Republicans lost Congress, signalling a harder-line approach for his final two years.",
-      "summary_zh": "在共和党输掉国会几天后，特朗普用斯蒂芬·米勒取代苏西·威尔斯担任白宫办公厅主任，这表明他在最后两年将采取更强硬的态度。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge-1793929294983-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-07T03:18:01+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "16ecc4f16e60adbb",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4889,54 +4506,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "fe3d79309c91e2c7",
-      "url": "https://allthatsinteresting.com/famous-shipwrecks",
-      "title_en": "9 Of History’s Most Famous Shipwrecks — And How These Doomed Vessels Met Their Ends",
-      "title_zh": "历史上最著名的 9 艘沉船——以及这些注定沉船的结局",
-      "summary_en": "The ocean has long devoured ships. Strong winds, wars, and natural disasters have wrought devastating shipwrecks throughout the ages. Though some of the most famous shipwrecks happened in modern times — like the sinking of the RMS Titanic or the explosion of the USS Maine — shipwrecks have a long, varied, and fascinating history. These are the true stories behind some of the most intriguing shipwrecks around the world, from the “miracle” sinking of the Kublai Khan fleet to the destruction of Blackbeard’s Queen…",
-      "summary_zh": "海洋长期以来一直吞噬着船只。古往今来，强风、战争和自然灾害都造成了毁灭性的沉船事故。尽管一些最著名的沉船事故发生在现代，例如泰坦尼克号沉没或缅因号航空母舰爆炸，但沉船事故有着悠久、多样且引人入胜的历史。这些是世界上一些最引人入胜的沉船事故背后的真实故事，从忽必烈舰队的“奇迹”沉没到",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2022/03/famous-shipwrecks-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-07T03:00:15+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "fe3d79309c91e2c7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d08c0efcd2437810",
-      "url": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
-      "title_en": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
-      "title_zh": "佛得角 Chão Bom 的塔拉法尔集中营",
-      "summary_en": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on clean water and plagued by malaria. Prisoners called it the \"Campo da Morte Lenta,\" the Camp of Slow Death.",
-      "summary_zh": "该集中营于 1936 年开放，当时第一批大约 150 名囚犯从里斯本抵达：其中包括共产主义者、无政府主义者、工会成员和反抗萨拉查独裁统治的水手。这个地点是经过深思熟虑选择的。这里地处偏僻，气候炎热，缺乏清洁水源，而且深受疟疾困扰。囚犯们称其为“Campo da Morte Lenta”，即慢死亡营。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/HQD0dAy92w0k558VwYgnkIRGEPRU9aWLsFcMSjnllV8/rs:fill:300:200:1/g:ce/c:3904:2602:nowe:380:2348/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mYWIw/MjkxYS1lN2Q5LTQw/MDUtOGE4Zi1jNTQ0/M2FkYTY1MTExNzI3/NGVjOWQyYjFmYjQ4/NjdfSU1HXzQ3ODIu/anBlZw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-11-07T03:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "d08c0efcd2437810",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "3b628bd90b3afdb8",
       "url": "https://www.timesnownews.com/videos/times-now/shows/intense-political-debate-on-agnipath-scheme-and-its-implications-for-military-recruitment-video-156476357",
       "title_en": "Agnipath Row: 75% Agniveers Get 2 More Years As Oppn Questions Modi Govt's Motive | Briefing Room",
@@ -4958,30 +4527,6 @@
       "source_region": "印度",
       "cluster_id": "3b628bd90b3afdb8",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "200b68d61bd90724",
-      "url": "https://www.mirror.co.uk/news/weird-news/ww3-nuclear-bunker-doomsday-shelter-37852795",
-      "title_en": "Inside WW3 nuclear doomsday bunker that's built for 80 people - and you can buy it for £245,000",
-      "title_zh": "二战末日核掩体内可容纳 80 人 - 您可以花 245,000 英镑购买",
-      "summary_en": "A Cold War bunker built to shelter up to 80 people is on sale in Amsterdam for £245,000. The canal-side property comes with its own airlock and a private parking space, but what the buyer could use it for remains unclear",
-      "summary_zh": "阿姆斯特丹一座可容纳 80 人的冷战时期地堡正在以 245,000 英镑的价格出售。运河边的房产有自己的气闸和私人停车位，但买家可以用它做什么仍不清楚",
-      "translation_status": "fallback",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37852784.ece/ALTERNATES/s615/0_PAY-Yours-for-£245000-A-nuclear-bunker-underneath-Amsterdam.jpg",
-      "image_checked": true,
-      "source": "Mirror Weird News",
-      "source_id": "mirror-weird",
-      "region": "英国",
-      "published_at": "2026-11-07T02:41:11+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "200b68d61bd90724",
-      "cluster_item_count": 1,
       "cluster_source_count": 1
     },
     {
@@ -5007,30 +4552,6 @@
       "cluster_id": "3e29e6473a97f10e",
       "cluster_item_count": 1,
       "cluster_source_count": 1
-    },
-    {
-      "id": "71766fd733d2ba5d",
-      "url": "https://www.upi.com/Odd_News/2026/11/06/guinness-world-records-puzzle-cube-mile/9871793989473/",
-      "title_en": "Watch: Rubik's cube enthusiast sprints to Guinness World Records title",
-      "title_zh": "观看：魔方爱好者冲刺吉尼斯世界纪录称号",
-      "summary_en": "A British runner combined his skills at sprinting and puzzle solving to finish four Rubik's cubes while running a mile in just over 5 minutes.",
-      "summary_zh": "一位英国跑步者将他的短跑和解谜技巧结合起来，在短短 5 分钟多的时间里跑完一英里，完成了四个魔方。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/9871793989473/2026/i/17939896017491/v1.5/Rubiks-cube-enthusiast-sprints-to-Guinness-World-Records-title.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "英国",
-      "published_at": "2026-11-07T02:27:06+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "71766fd733d2ba5d",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
     },
     {
       "id": "0a0c678a7426bfce",
@@ -5078,30 +4599,6 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "cd41ab6c7cf2fcba",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3f4e40c89d3630c9",
-      "url": "https://www.upi.com/Odd_News/2026/11/06/beaufort-south-carolina-escaped-piglets/7441793988332/",
-      "title_en": "Watch: Escaped piglets detained for 'fleeing and squealing' in S.C.",
-      "title_zh": "观看：南卡罗来纳州因“逃跑和尖叫”而被拘留的逃跑小猪",
-      "summary_en": "Police in South Carolina were led on a hoof chase with a pair of tiny porcine suspects nicknamed the \"Bacon Bits.\"",
-      "summary_zh": "南卡罗来纳州警方对一对绰号为“培根块”的小猪嫌疑人展开了一场马蹄追捕。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/7441793988332/2026/i/17939885046215/v1.5/Escaped-piglets-detained-for-fleeing-and-squealing-in-SC.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-07T02:08:42+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "3f4e40c89d3630c9",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -5252,31 +4749,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "a7c9b3a4562ee6f1",
-      "url": "https://www.upi.com/Odd_News/2026/11/06/marshfield-massachusetts-loose-cow/1221793985650/",
-      "title_en": "'Large' cow eludes capture in Massachusetts",
-      "title_zh": "马萨诸塞州一头“大”牛逃脱抓捕",
-      "summary_en": "Police in Massachusetts are warning drivers to be on the lookout for a cow that has been on the loose in the Marshfield area for an entire day.",
-      "summary_zh": "马萨诸塞州警方警告司机留意一头在马什菲尔德地区逍遥法外一整天的牛。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/1221793985650/2026/upi/1f76990f3d7a860708cad97bc0c88b60/v1.5/Large-cow-eludes-capture-in-Massachusetts.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-07T01:24:26+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "a7c9b3a4562ee6f1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "a64c0be788f774eb",
       "url": "https://www.republicworld.com/world-news/protesters-break-into-microsoft-data-center-site-in-amsterdam-as-europes-backlash-spreads-2026-11-06-140578",
       "title_en": "Protesters Break Into Microsoft Data Center Site in Amsterdam as Europe’s Backlash Spreads",
@@ -5322,31 +4794,6 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "5926990a5ffed24d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "25931b23dd0d4462",
-      "url": "https://www.neatorama.com/2026/11/06/5-Marvelously-Weird-Nutcrackers/",
-      "title_en": "5 Marvelously Weird Nutcrackers",
-      "title_zh": "5个极其奇怪的胡桃夹子",
-      "summary_en": "The YouTube channel Rescue Restore is filled with short videos of delightfully eccentric antiques that have been rescued from the trash and restored to their glorious weirdness. We've previously showed their demonstration of an unusual pencil sharpener. Other tools presented since that time include a steam train kettle , a kitchen egg timer , and a praxinoscope (a kind of sophisticated zoetrope). In this video, Recsue Restore shoes five different types of nutcrackers, most of which appear to be...messy.",
-      "summary_zh": "YouTube 频道 Rescue Restore 中充斥着一些令人愉快的古怪古董的短视频，这些古董从垃圾中被救出，并恢复了光荣的怪异状态。我们之前展示过他们展示的一种不寻常的卷笔刀。自那时以来出现的其他工具包括蒸汽火车水壶、厨房煮蛋计时器和练习镜（一种复杂的西洋镜）。在这段视频中，Recsue Restore 鞋展示了五种不同类型的胡桃夹子，其中大部分",
-      "translation_status": "fallback",
-      "image": "https://img.youtube.com/vi/i86To9zfhVI/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-07T01:08:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "奇人奇事",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "25931b23dd0d4462",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -5404,54 +4851,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "66ff9cc5c7fc539a",
-      "url": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
-      "title_en": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
-      "title_zh": "Al Qasr Al Ghamedh（阿尔卡西米宫），阿拉伯联合酋长国拉斯海马",
-      "summary_en": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975 and took years to complete. Although the palace was built as a grand private residence, it remained largely unoccupied for around 35 years. Over the years, stories have spread that the palace is 'haunted' and today it has a reputation as Ras Al Khaimah's…",
-      "summary_zh": "卡西米宫 (Al Qasimi Palace) 坐落在哈伊马角的一座山丘上，也称为 Al Qasr Al Ghamedh（闹鬼的宫殿），是阿联酋最迷人的地标之一。受已故谢赫阿卜杜勒阿齐兹·本·胡迈德·卡西米 (Sheikh Abdulaziz bin Humaid Al Qasimi) 委托，于 1975 年开始施工，历时数年才完工。尽管这座宫殿是作为一座宏伟的私人住宅建造的，但它在大约 35 年的时间里基本上无人居住。多年来，坊间流传着这座宫殿“闹鬼”的故事，如今它已成为闹鬼的地方。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/JAvyPvRYz22HJ1asdwIv2rCkrJX2QqeMLelFL2XNjMY/rs:fill:300:200:1/g:ce/c:1504:1002:nowe:0:44/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZWQ3/YmNiZi0wZWI2LTQy/YzEtODE4Ni1iN2I4/MjMxNmE2MTUxMmI1/MWRiNTBjZWE1ODEw/ZTNfSW1hZ2UgMTAt/MTAtMjAyNiBhdCAx/MC4xNuKAr1BNICgz/KS5wbmc.png",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "阿联酋",
-      "published_at": "2026-11-07T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "66ff9cc5c7fc539a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "13361a9db2cce381",
-      "url": "https://allthatsinteresting.com/anna-coleman-ladd",
-      "title_en": "Anna Coleman Ladd, The Sculptor Who Created Lifelike Masks For Soldiers Disfigured In World War I",
-      "title_zh": "雕塑家安娜·科尔曼·拉德 (Anna Coleman Ladd) 为第一次世界大战中毁容的士兵制作了栩栩如生的面具",
-      "summary_en": "Click here to view slideshow World War I left scars across Europe — and on the men who had spent years fighting. Some 21 million men were wounded in the conflict, and scores of them had facial wounds which had rendered them unrecognizable to their family. These injuries were more than skin deep. And one woman, Anna Coleman Ladd, stepped in to help.",
-      "summary_zh": "点击此处查看幻灯片 第一次世界大战在整个欧洲以及那些多年来一直在战斗的人们身上留下了伤疤。约 2100 万人在冲突中受伤，其中数十人面部受伤，家人无法认出他们。这些伤害不仅仅是肤浅的。一位名叫安娜·科尔曼·拉德 (Anna Coleman Ladd) 的女性介入帮忙。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2020/03/anna-coleman-ladd-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-11-07T01:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "13361a9db2cce381",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "423fcc1bb309f6d7",
       "url": "https://www.aninews.in/news/national/politics/dont-be-afraid-rahul-gandhi-re-issues-open-debate-call-says-amit-shah-should-not-confuse-pm-modi20261106210123/",
       "title_en": "\"Don't be afraid\": Rahul Gandhi re-issues open debate call; says Amit Shah should 'not confuse' PM Modi",
@@ -5472,31 +4871,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "423fcc1bb309f6d7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "2b41b37e4a54121e",
-      "url": "https://www.ladbible.com/entertainment/celebrity/kid-cudi-smoking-purple-video-explanation-kanye-west-yeezy-show-413032-20261106",
-      "title_en": "Reality of 'vibranium' purple weed rapper Kid Cudi is smoking in viral video",
-      "title_zh": "“vibranium”紫色杂草说唱歌手 Kid Cudi 在病毒视频中吸烟的现实",
-      "summary_en": "People have been left pondering what on earth Kid Cudi was puffing on in a video which has since gone viral. The Grammy -winning rapper, 42, shared a series of clips on social media to offer his congratulations to Kanye West in wake of his fashion comeback on Wednesday (4 November). Although fans were glad to hear their friendship is now back on track, a few of them were quite distracted by the contents of the blunt he was smoking, as it was emitting a vivid purple hue. West returned to host his first major runway…",
-      "summary_zh": "人们一直在思考卡迪小子在一段视频中到底在吹什么，该视频随后在网上疯传。这位 42 岁的格莱美奖得主说唱歌手在周三（11 月 4 日）回归时尚界后，在社交媒体上分享了一系列片段，向 Kanye West 表示祝贺。尽管粉丝们很高兴听到他们的友谊现在重回正轨，但他们中的一些人却被他所吸的大麻烟的内容弄得心烦意乱，因为它散发出鲜艳的紫色调。西",
-      "translation_status": "fallback",
-      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHQzNzFkM2QwZmMyMmEwNjcwLzZhZWRmZmMyMDAxOGRlYmVjYTY2NzAxOS9raWQtY3VkaS1wdXJwbGUtYmx1bnQuanBn.jpg",
-      "image_checked": true,
-      "source": "LADbible Weird",
-      "source_id": "ladbible-weird",
-      "region": "英国",
-      "published_at": "2026-11-07T00:45:51+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00",
-      "tags": [
-        "航空出行",
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "2b41b37e4a54121e",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -5547,30 +4921,6 @@
       "cluster_id": "725ec362ac815301",
       "cluster_item_count": 10,
       "cluster_source_count": 3
-    },
-    {
-      "id": "9e1e9543c2454119",
-      "url": "https://www.upi.com/Odd_News/2026/11/06/hoke-county-boa-constrictor-fence-post/2711793982017/",
-      "title_en": "Watch: N.C. farmer finds apparent fence post was escaped boa constrictor",
-      "title_zh": "观看：北卡罗来纳州农民发现明显的栅栏柱被蟒蛇逃脱",
-      "summary_en": "A North Carolina farmer said what initially appeared to be a fence post on the ground on his property turned out to be a missing boa constrictor.",
-      "summary_zh": "北卡罗来纳州的一名农民表示，他的土地上最初看似是栅栏的东西原来是一条失踪的蟒蛇。",
-      "translation_status": "fallback",
-      "image": "https://cdnph.upi.com/ph/st/th/2711793982017/2026/i/17939821441203/v1.5/NC-farmer-finds-apparent-fence-post-was-escaped-boa-constrictor.jpg",
-      "image_checked": true,
-      "source": "UPI Odd News",
-      "source_id": "upi-odd",
-      "region": "美国",
-      "published_at": "2026-11-07T00:23:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "9e1e9543c2454119",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "e04f3655ba8b8762",
@@ -5647,30 +4997,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "3eb0dd9b18c342e4",
-      "url": "https://www.republicworld.com/world-news/meghan-markle-s-estranged-father-thomas-markle-arrested-in-child-sexual-abuse-materials-case-2026-11-06-140570",
-      "title_en": "Meghan Markle's Estranged Father Thomas Markle Arrested in Child Sexual Abuse Materials Case",
-      "title_zh": "梅根·马克尔分居的父亲托马斯·马克尔因儿童性虐待材料案被捕",
-      "summary_en": "Meghan Markle&#39;s estranged father, Thomas Markle Sr., was arrested in Florida over charges linked to child sexual abuse material, according to AP.",
-      "summary_zh": "据美联社报道，梅根·马克尔关系疏远的父亲老托马斯·马克尔因涉嫌儿童性虐待材料在佛罗里达州被捕。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/meghan-markle-set-to-return-to-acting-check-details-about-her-upcoming-film-1762403740157-16_9.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "美国",
-      "published_at": "2026-11-07T00:11:23+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "3eb0dd9b18c342e4",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
       "id": "cf077e5431baf9f9",
       "url": "https://www.bloomberg.com/graphics/2026-ganges-water-pollution/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk3ODU2OCwiZXhwIjoxNzk0NTgzMzY4LCJhcnRpY2xlSWQiOiJUTzJEV0lLSUpIOEswMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.W7uJr4Lh7qlcavLh7jZi-W4IrXR9WIij8Z6IsP6FDYk",
       "title_en": "Modi’s $4.5 Billion Ganges Cleanup Is Struggling to Tame Pollution",
@@ -5741,30 +5067,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "69fedc06a3d2c8cf",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ec1adbb2ebf1acdd",
-      "url": "https://soranews24.com/2026/11/07/japanese-government-hires-leading-comedy-agency-to-explain-national-defense-spending/",
-      "title_en": "Japanese government hires leading comedy agency to explain national defense spending",
-      "title_zh": "日本政府聘请领先的喜剧机构来解释国防开支",
-      "summary_en": "The number one rule of comedy is unwavering loyalty to the government . I suppose in terms of things on a global scale, the Japanese government isn’t doing all that bad. It’s just that with all the talk of how Prime Minister Takaichi works constantly and rarely sleeps, I was sort of expecting something more in the way of results. Don’t get me wrong, since coming into power, her cabinet pissed off China right quick, jacked up visa fees , and made it so people can’t poop on the flag .",
-      "summary_zh": "喜剧的第一条规则是对政府坚定不移的忠诚。我认为就全球范围内的事情而言，日本政府做得还不错。只是，随着大家都在谈论高市首相如何不断工作和很少睡觉，我有点期待更多的结果。别误会我的意思，自从上台以来，她的内阁很快就激怒了中国，提高了签证费，让人们不能在中国拉屎。",
-      "translation_status": "fallback",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/29501-5432-838d6e3ab9863968642357cf0eac2bf9-560x560.jpg.jpeg?w=560",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-07T00:00:59+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "ec1adbb2ebf1acdd",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }
