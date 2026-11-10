@@ -1,8 +1,33 @@
 {
   "date": "2026-10-18",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "aa4751ad27e11fad",
+      "url": "https://www.news18.com/viral/british-man-visits-india-for-ivf-treatment-praises-fast-and-affordable-healthcare-an-x-ray-report-takes-a-month-in-the-uk-ws-l-10387581.html",
+      "title_en": "British Man Visits India For IVF Treatment, Praises Fast And Affordable Healthcare: 'An X-Ray Report Takes",
+      "title_zh": "英国男子前往印度接受试管受精治疗，称赞快速且负担得起的医疗保健：“X光报告显示”",
+      "summary_en": "He compared Indian healthcare system with that in the UK and shared that in his country, it would take a month to just get an X-ray report and said India’s system is faster",
+      "summary_zh": "他将印度的医疗保健系统与英国的医疗保健系统进行了比较，并表示在他的国家，仅仅获得一份X光报告就需要一个月的时间，并表示印度的系统更快",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-2-2026-10-1ec81a14e08259c6e8a18c5fdb3c9309-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-18T19:46:53+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "aa4751ad27e11fad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "70300bbb3851071c",
       "url": "https://indianexpress.com/article/trending/man-speeds-away-to-dodge-traffic-fine-leaves-fallen-wife-behind-husband-of-the-year-10926743/",

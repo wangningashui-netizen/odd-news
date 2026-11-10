@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "count": 101,
+  "count": 104,
   "items": [
     {
       "id": "443b27a8eddc7635",
@@ -447,9 +447,9 @@
       "id": "1cdaa333677e2e45",
       "date": "2026-10-21",
       "published_at": "2026-10-21T19:47:16+08:00",
-      "title_zh": null,
+      "title_zh": "严酷的葛恩卡 (Harsh Goenka) 挖苦维诺德·科斯拉 (Vinod Khosla) 的幕僚长工作：“睡眠是一种奢侈，个人生活是一种干扰”",
       "title_en": "Harsh Goenka Takes A Dig At Vinod Khosla’s Chief Of Staff Job: ‘Sleep Is A Luxury, Personal Life Is A Distr",
-      "summary_zh": null,
+      "summary_zh": "Sun Microsystems 联合创始人兼风险投资公司 Khosla Ventures 负责人维诺德·科斯拉 (Vinod Khosla) 发布了一份要求候选人全天候待命的职位",
       "summary_en": "Vinod Khosla, co-founder of Sun Microsystems and head of venture capital firm Khosla Ventures, posted a job which requires candidates to be available round-the-clock",
       "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-4-2026-10-c2e2edadedc75ce4dc38bddc59135942-1200x675.png",
       "source": "News18 Viral",
@@ -458,7 +458,7 @@
         "其他"
       ],
       "url": "https://www.news18.com/viral/harsh-goenka-takes-a-dig-at-vinod-khoslas-chief-of-staff-job-sleep-is-a-luxury-personal-life-is-a-distraction-ws-l-10391552.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "1cdaa333677e2e45",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
@@ -554,6 +554,28 @@
       "reddit_comments": null
     },
     {
+      "id": "aa4751ad27e11fad",
+      "date": "2026-10-18",
+      "published_at": "2026-10-18T19:46:53+08:00",
+      "title_zh": "英国男子前往印度接受试管受精治疗，称赞快速且负担得起的医疗保健：“X光报告显示”",
+      "title_en": "British Man Visits India For IVF Treatment, Praises Fast And Affordable Healthcare: 'An X-Ray Report Takes",
+      "summary_zh": "他将印度的医疗保健系统与英国的医疗保健系统进行了比较，并表示在他的国家，仅仅获得一份X光报告就需要一个月的时间，并表示印度的系统更快",
+      "summary_en": "He compared Indian healthcare system with that in the UK and shared that in his country, it would take a month to just get an X-ray report and said India’s system is faster",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-2-2026-10-1ec81a14e08259c6e8a18c5fdb3c9309-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/british-man-visits-india-for-ivf-treatment-praises-fast-and-affordable-healthcare-an-x-ray-report-takes-a-month-in-the-uk-ws-l-10387581.html",
+      "translation_status": "fallback",
+      "cluster_id": "aa4751ad27e11fad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "70300bbb3851071c",
       "date": "2026-10-18",
       "published_at": "2026-10-18T19:31:12+08:00",
@@ -614,6 +636,29 @@
       "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-startups-in-2026-zepto-retains-top-spot-for-4th-consecutive-year-10925805/",
       "translation_status": "fallback",
       "cluster_id": "704de62e308c09a3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ccfb33f9f9a74d79",
+      "date": "2026-10-17",
+      "published_at": "2026-10-17T16:53:03+08:00",
+      "title_zh": "卡琳娜·卡普尔的电影对秘密身份有痴迷？ Instagram 用户将她的电影与一个奇怪的博联系起来",
+      "title_en": "Kareena Kapoor’s Films Have A Secret Identity Obsession? Instagram User Connects Her Movies To A Bizarre Bo",
+      "summary_zh": "Instagram 上的一则疯传视频声称卡琳娜·卡普尔 (Kareena Kapoor) 的电影分享了一种隐藏真相的离奇模式，让宝莱坞粉丝感到好笑，并在网上引发了搞笑反应",
+      "summary_en": "A viral Instagram reel claims Kareena Kapoor’s films share a quirky pattern of hidden truths, leaving Bollywood fans amused and sparking hilarious reactions online",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-12-2026-10-73f550064a6a41cbe2b3e0ccf4a1d3d7-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "影视神剧",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/kareena-kapoors-films-have-a-secret-identity-obsession-instagram-user-connects-her-movies-to-a-bizarre-bollywood-theory-ws-l-10386356.html",
+      "translation_status": "fallback",
+      "cluster_id": "ccfb33f9f9a74d79",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -1827,6 +1872,29 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/noida-mall-theft-video-woman-allegedly-caught-stealing-ghee-refined-oil-10908443/",
       "translation_status": "fallback",
       "cluster_id": "5c899f6bdc4f9f1e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "eb3dc9e516f8e5f3",
+      "date": "2026-10-05",
+      "published_at": "2026-10-05T19:35:51+08:00",
+      "title_zh": "“包办婚姻是一个骗局”：月薪 30 万卢比的班加罗尔男子很难找到匹配对象；互联网",
+      "title_en": "‘Arranged Marriage Is A Scam’: Bengaluru Man With ₹3 Lakh/Month Salary Struggles To Find A Match; Internet",
+      "summary_zh": "一篇关于一名月入 30 万卢比的 31 岁班加罗尔男子多次遭到包办婚姻拒绝的 X 帖子在网上疯传，引发了关于偏好和期望的争论",
+      "summary_en": "A viral X post about a 31-year-old Bengaluru man earning Rs 3 lakh a month facing repeated arranged marriage rejections has sparked a debate over preferences and expectations",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-4-2026-10-ee721bee66b8200f76733804961894af-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "诈骗骗局",
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/arranged-marriage-is-a-scam-bengaluru-man-with-rs-3-lakh-month-salary-struggles-to-find-a-match-internet-reacts-ws-l-10368176.html",
+      "translation_status": "fallback",
+      "cluster_id": "eb3dc9e516f8e5f3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

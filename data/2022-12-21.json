@@ -1,0 +1,32 @@
+{
+  "date": "2022-12-21",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "3fff68ada8b8f391",
+      "url": "https://www.news18.com/buzz/can-someone-remove-that-guy-in-the-background-womans-request-to-edit-picture-inspires-memes-6663343.html",
+      "title_en": "‘Can Someone Remove That Guy in the Background?’ Woman’s Request To Edit Picture Inspires Memes",
+      "title_zh": "“有人能把背景中的那个人去掉吗？”女人要求编辑照片激发了模因",
+      "summary_en": "A woman wanted a guy standing in the background to be cropped out of her picture and asked internet users to help her with the edit which rather inspired funny memes on Twitter.",
+      "summary_zh": "一位女士希望从她的照片中剪掉站在背景中的一个男人，并请求互联网用户帮助她进行编辑，这在推特上激发了有趣的表情包。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/12/untitled-43-1-167160806416x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2022-12-21T15:36:54+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3fff68ada8b8f391",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

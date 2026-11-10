@@ -1,8 +1,34 @@
 {
   "date": "2026-10-05",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "id": "eb3dc9e516f8e5f3",
+      "url": "https://www.news18.com/viral/arranged-marriage-is-a-scam-bengaluru-man-with-rs-3-lakh-month-salary-struggles-to-find-a-match-internet-reacts-ws-l-10368176.html",
+      "title_en": "‘Arranged Marriage Is A Scam’: Bengaluru Man With ₹3 Lakh/Month Salary Struggles To Find A Match; Internet",
+      "title_zh": "“包办婚姻是一个骗局”：月薪 30 万卢比的班加罗尔男子很难找到匹配对象；互联网",
+      "summary_en": "A viral X post about a 31-year-old Bengaluru man earning Rs 3 lakh a month facing repeated arranged marriage rejections has sparked a debate over preferences and expectations",
+      "summary_zh": "一篇关于一名月入 30 万卢比的 31 岁班加罗尔男子多次遭到包办婚姻拒绝的 X 帖子在网上疯传，引发了关于偏好和期望的争论",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-4-2026-10-ee721bee66b8200f76733804961894af-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-05T19:35:51+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "诈骗骗局",
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "eb3dc9e516f8e5f3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "908cdf26dbd6ab52",
       "url": "https://indianexpress.com/article/trending/trending-in-india/voice-behind-delhi-metro-shammi-narang-takes-grandson-on-first-ride-little-boys-reaction-goes-viral-10907512/",

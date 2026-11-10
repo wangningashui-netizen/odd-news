@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-10",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "362fd7b8d3a519f3",
+      "url": "https://www.news18.com/viral/pune-man-seven-creepy-dolls-car-rear-dashboard-annabelle-tatya-vinchu-video-aa-ws-l-9761136.html",
+      "title_en": "Pune Man Makes Seven Creepy Dolls Sit On Car’s Rear Dashboard: ‘Yeh Toh Aahat Ke Tatya Vinchu Ki Gaadi Hain",
+      "title_zh": "浦那人让七个令人毛骨悚然的玩偶坐在汽车后仪表板上：“Yeh Toh Aahat Ke Tatya Vinchu Ki Gaadi Hain”",
+      "summary_en": "Tatya Vinchu, featuring in the 1993 Marathi film Zapatlela, was a devilish possessed puppet whose menacing eyes and shrill laughter gave many sleepless nights.",
+      "summary_zh": "塔蒂亚·文丘 (Tatya Vinchu) 在 1993 年马拉地语电影《萨帕特莱拉》(Zapatlela) 中饰演主角，她是一个被恶魔附身的木偶，她凶恶的眼神和尖利的笑声让她度过了许多个不眠之夜。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/punit-canva-2025-12-10T132717.709-2025-12-c4489e7fc33b5a79073dcc507d8ed9c5-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-12-10T15:59:45+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "362fd7b8d3a519f3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

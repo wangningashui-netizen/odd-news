@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "704de62e308c09a3",
@@ -24,6 +24,32 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "704de62e308c09a3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "ccfb33f9f9a74d79",
+      "url": "https://www.news18.com/viral/kareena-kapoors-films-have-a-secret-identity-obsession-instagram-user-connects-her-movies-to-a-bizarre-bollywood-theory-ws-l-10386356.html",
+      "title_en": "Kareena Kapoor’s Films Have A Secret Identity Obsession? Instagram User Connects Her Movies To A Bizarre Bo",
+      "title_zh": "卡琳娜·卡普尔的电影对秘密身份有痴迷？ Instagram 用户将她的电影与一个奇怪的博联系起来",
+      "summary_en": "A viral Instagram reel claims Kareena Kapoor’s films share a quirky pattern of hidden truths, leaving Bollywood fans amused and sparking hilarious reactions online",
+      "summary_zh": "Instagram 上的一则疯传视频声称卡琳娜·卡普尔 (Kareena Kapoor) 的电影分享了一种隐藏真相的离奇模式，让宝莱坞粉丝感到好笑，并在网上引发了搞笑反应",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-12-2026-10-73f550064a6a41cbe2b3e0ccf4a1d3d7-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-17T16:53:03+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ccfb33f9f9a74d79",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

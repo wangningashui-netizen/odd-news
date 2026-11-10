@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "timezone": "Asia/Shanghai",
-  "count": 176,
+  "count": 178,
   "items": [
     {
       "id": "86ec94da8fba184d",
@@ -3102,6 +3102,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "53a74baa07a943b1",
+      "url": "https://www.timesnownews.com/sports/cricket/virat-kohli-creates-history-breaks-ricky-pontings-long-standing-world-record-vs-new-zealand-article-156478362",
+      "title_en": "Virat Kohli Creates History, Breaks Ricky Ponting's Long-Standing World Record VS New Zealand",
+      "title_zh": "Virat Kohli 创造历史，打破 Ricky Ponting 对阵新西兰的长期世界纪录",
+      "summary_en": "Virat Kohli broke a long-standing world record of Ricky Ponting during the 2nd ODI against New Zealand despite being dismissed for only seven runs in as many balls. , Cricket, Times Now",
+      "summary_zh": "维拉·科利 (Virat Kohli) 在第二场对阵新西兰的 ODI 比赛中打破了瑞奇·庞廷 (Ricky Ponting) 保持的长期世界纪录，尽管在同样多的球中仅获得七分被罚下场。 , 板球, 时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156478519,thumbsize-1023371,width-1280,height-720,resizemode-75/156478519.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-07T15:43:50+08:00",
+      "fetched_at": "2026-11-10T12:33:52+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "53a74baa07a943b1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "4403fb032fc21e4b",
       "url": "https://www.timesnownews.com/videos/times-now/frankly-speaking/retired-justice-madan-b-lokur-discusses-judicial-appointments-and-tensions-with-the-executive-video-156478472",
       "title_en": "Former Supreme Court Judge Justice S.K. Kaul Speaks To Times Now's Zakka Jacob On Frankly Speaking",
@@ -3278,10 +3303,10 @@
       "id": "6d1f101f4024839a",
       "url": "https://www.timesnownews.com/business-economy/industry/why-the-strait-of-hormuz-could-trigger-a-global-lng-supply-crunch-this-winter-article-156478132",
       "title_en": "Why The Strait Of Hormuz Could Trigger A Global LNG Supply Crunch This Winter",
-      "title_zh": null,
+      "title_zh": "为什么霍尔木兹海峡可能在今年冬天引发全球液化天然气供应紧缩",
       "summary_en": "Global LNG supplies face fresh winter risks as disruptions at the Strait of Hormuz threaten exports, tighten markets, and deepen supply uncertainty., Industry, Times Now",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "由于霍尔木兹海峡的中断威胁出口、收紧市场并加深供应不确定性，全球液化天然气供应面临新的冬季风险。, 行业, Times Now",
+      "translation_status": "fallback",
       "image": "https://images.timesnownews.com/thumb/msid-156478151,thumbsize-1581873,width-1280,height-720,resizemode-75/156478151.jpg",
       "image_checked": true,
       "source": "Times Now Viral",
@@ -3425,6 +3450,31 @@
       "cluster_id": "b531c2013e530eba",
       "cluster_item_count": 3,
       "cluster_source_count": 3
+    },
+    {
+      "id": "d8130bf80e812a72",
+      "url": "https://www.timesnownews.com/india/haryana-most-wanted-gangster-harry-boxer-who-claimed-shooting-outside-rohit-shetty-house-detained-in-us-article-156477887",
+      "title_en": "Haryana's Most Wanted Gangster Harry Boxer, Who Claimed Shooting Outside Rohit Shetty's House, Detained In US",
+      "title_zh": "哈里亚纳邦头号通缉犯哈利·博克瑟 (Harry Boxer) 声称在罗希特·谢蒂 (Rohit Shetty) 家外开枪，在美国被拘留",
+      "summary_en": "Harry Boxer, a notorious gangster linked to Lawrence Bishnoi, has been detained in the U.S., according to the Haryana STF., India News, Times Now",
+      "summary_zh": "据哈里亚纳邦 STF、印度新闻、Times Now 报道，与劳伦斯·比什诺伊 (Lawrence Bishnoi) 有联系的臭名昭著的黑帮成员哈利·博克瑟 (Harry Boxer) 已在美国被拘留",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156477924,thumbsize-111430,width-1280,height-720,resizemode-75/156477924.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-07T13:34:28+08:00",
+      "fetched_at": "2026-11-10T12:33:52+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d8130bf80e812a72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "a06d6098613b1ec0",
@@ -4950,10 +5000,10 @@
       "id": "daee309954401b89",
       "url": "https://www.timesnownews.com/entertainment-news/bollywood/nora-fatehi-appears-as-witness-in-sukesh-chandrashekhar-case-tells-court-she-is-in-india-on-work-visa-article-156475897",
       "title_en": "Nora Fatehi Appears As Witness In Sukesh Chandrashekhar Case, Tells Court She Is In India On Work Visa",
-      "title_zh": null,
+      "title_zh": "诺拉·法特希 (Nora Fatehi) 作为苏克什·钱德拉谢卡 (Sukesh Chandrashekhar) 案件的证人出庭，告诉法庭她正在印度持工作签证",
       "summary_en": "Nora Fatehi made an appearance at a Delhi court to record her statement as a witness in the Sukesh Chandrashekhar case. The actress and dancer revealed that she was in India on a work visa with T-Series., Bollywood, Times Now",
-      "summary_zh": null,
-      "translation_status": "pending",
+      "summary_zh": "诺拉·法特希 (Nora Fatehi) 作为苏克什·钱德拉谢卡 (Sukesh Chandrashekhar) 案的证人出现在德里一家法院，记录她的证词。这位女演员兼舞者透露，她在印度持 T-Series 工作签证。，宝莱坞，Times Now",
+      "translation_status": "fallback",
       "image": "https://images.timesnownews.com/thumb/msid-156475895,thumbsize-1074925,width-1280,height-720,resizemode-75/156475895.jpg",
       "image_checked": true,
       "source": "Times Now Viral",

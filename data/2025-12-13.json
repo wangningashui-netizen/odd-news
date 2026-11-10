@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-13",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "352ba063b5c33476",
+      "url": "https://www.news18.com/viral/new-zealand-kid-shocked-reaction-to-indian-food-bill-goes-viral-video-aa-ws-l-9767829.html",
+      "title_en": "NRI Kid Can’t Believe Dahi Papdi, Idlis & 5 More Dishes Cost Just Rs 1,500 In India: ‘In NZ, 3 Items Are Fo",
+      "title_zh": "NRI 孩子不敢相信 Dahi Papdi、Idlis 和另外 5 种菜肴在印度只需 1,500 卢比：“在新西兰，3 种菜品只需 1,500 卢比”",
+      "summary_en": "The clip shows the NRI kid standing inside a popular vegetarian restaurant in Chennai, looking stunned after seeing the final food bill, which was just Rs 1502.",
+      "summary_zh": "视频中，这名 NRI 孩子站在金奈一家颇受欢迎的素食餐厅内，看到最终的食品账单（仅为 1502 卢比）后，他一脸震惊。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/Untitled-design-2025-12-13T130456.192-2025-12-51e6b9001ce77aca4b147e61884edfed-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-12-13T15:36:32+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "352ba063b5c33476",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

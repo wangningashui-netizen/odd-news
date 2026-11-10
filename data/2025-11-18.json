@@ -1,0 +1,32 @@
+{
+  "date": "2025-11-18",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "2d8d92212715a1c2",
+      "url": "https://www.news18.com/viral/pakistan-robber-enters-with-gun-leaves-empty-handed-after-girl-offers-him-lollipop-internet-calls-it-scripted-video-aa-ws-l-9715492.html",
+      "title_en": "Pakistan Robber Enters With Gun, Leaves Empty Handed After Girl Offers Him Lollipop. Internet Calls It ‘Scr",
+      "title_zh": "巴基斯坦强盗持枪闯入，女孩给他棒棒糖后两手空空离开。互联网称之为“Scr”",
+      "summary_en": "A shopkeeper is seen sitting with his young daughter when a man points a gun and demands money, but what happens next leaves everyone stunned.",
+      "summary_zh": "当一名男子拿着枪索要钱时，一名店主和他的小女儿坐在一起，但接下来发生的事情让所有人都惊呆了。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/punit-canva-55-2025-11-69f72e04640c60cb251f442c74d664bf-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-11-18T16:10:56+08:00",
+      "fetched_at": "2026-11-10T12:33:50+08:00",
+      "page_fetched": true,
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2d8d92212715a1c2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
