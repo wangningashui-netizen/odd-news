@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "1201e614dd98bf81",
@@ -48,30 +48,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a3bbfa5efaee0507",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "cb3860a2fa285b3a",
-      "url": "https://indianexpress.com/article/trending/trending-globally/trump-tells-supporters-i-could-say-the-stupidest-things-and-youd-clap-watch-10917504/",
-      "title_en": "Trump tells supporters: ‘I could say the stupidest things and you’d clap’; Watch",
-      "title_zh": "特朗普告诉支持者：“我可以说最愚蠢的话，你们会鼓掌”；手表",
-      "summary_en": "Trump made the remarks while addressing a rally at F&M Bank Arena in Clarksville, about 50 miles northwest of Nashville, Tennessee.",
-      "summary_zh": "特朗普是在位于田纳西州纳什维尔西北约 50 英里的克拉克斯维尔 F&M Bank Arena 的集会上发表讲话时发表上述言论的。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Photo-2026-10-07T134222.138-1_20261012044501.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-12T12:46:34+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "cb3860a2fa285b3a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

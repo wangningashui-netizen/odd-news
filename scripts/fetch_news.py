@@ -1330,27 +1330,165 @@ def write_outputs(days: dict[str, list[dict]], dirty: set[str]) -> None:
 
 
 REDDIT_STAT_SUBS = ("india", "IndiaSpeaks", "indiasocial")
+REDDIT_SOURCE_SUB = {
+    "Reddit r/india": "india",
+    "Reddit r/IndiaSpeaks": "IndiaSpeaks",
+    "Reddit r/indiasocial": "indiasocial",
+}
+ARCTIC_POSTS = "https://arctic-shift.photon-reddit.com/api/posts"
+REDDIT_COMMENT_ID_RE = re.compile(
+    r"(?:reddit\.com/(?:r/[^/]+/)?comments/|redd\.it/)([a-z0-9]{4,12})",
+    re.I,
+)
+
+
+def reddit_base_id(item: dict) -> str | None:
+    """Base36 post id from a stored fullname or a reddit permalink."""
+    raw = str(item.get("reddit_id") or "").strip().lower()
+    if raw.startswith("t3_"):
+        raw = raw[3:]
+    if re.fullmatch(r"[a-z0-9]{4,12}", raw or ""):
+        return raw
+    match = REDDIT_COMMENT_ID_RE.search(item.get("url") or "")
+    if match:
+        return match.group(1).lower()
+    return None
+
+
+def _path_key(url: str) -> tuple[str, str] | None:
+    if not url:
+        return None
+    parts = urllib.parse.urlsplit(dedupe_key(url))
+    if not parts.netloc:
+        return None
+    return (parts.netloc, parts.path.rstrip("/") or "/")
+
+
+def _arctic_get(url: str) -> dict | None:
+    request = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+    try:
+        with urllib.request.urlopen(request, timeout=40, context=SSL_CTX) as response:
+            payload = json.loads(response.read().decode("utf-8", "replace"))
+    except Exception as exc:  # noqa: BLE001
+        log(f"arctic shift skipped {url.split('?', 1)[0]}: {exc}")
+        return None
+    if not isinstance(payload, dict):
+        return None
+    if payload.get("error"):
+        log(f"arctic shift error {payload.get('error')}")
+        return None
+    return payload
 
 
 def _arctic_listing(sub: str) -> dict | None:
-    """Used only when Reddit's own JSON listing returns 403 or 429."""
+    """Newest page. Used when Reddit's own listing returns 403 or 429.
+
+    This page is not enough for older library items. Those are filled by
+    ``_arctic_by_ids`` and ``_arctic_by_url``.
+    """
     url = (
-        "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit="
+        ARCTIC_POSTS
+        + "/search?subreddit="
         + urllib.parse.quote(sub)
-        + "&limit=100&sort=desc"
+        + "&limit=100&sort=desc&fields=id,score,num_comments,url,created_utc"
     )
-    request = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
-    try:
-        with urllib.request.urlopen(request, timeout=25, context=SSL_CTX) as response:
-            payload = json.loads(response.read().decode("utf-8", "replace"))
-    except Exception as exc:  # noqa: BLE001
-        log(f"reddit mirror skipped r/{sub}: {exc}")
+    payload = _arctic_get(url)
+    if not payload:
         return None
-    rows = payload.get("data") if isinstance(payload, dict) else None
+    rows = payload.get("data")
     if not isinstance(rows, list):
         return None
     log(f"reddit stats for r/{sub} from public mirror ({len(rows)} posts)")
     return {"data": rows}
+
+
+def _arctic_by_ids(ids: list[str]) -> list[dict]:
+    """Look up posts by base36 id. Reddit's /by_id JSON 403s from cloud IPs."""
+    rows: list[dict] = []
+    unique = []
+    seen: set[str] = set()
+    for raw in ids:
+        base = raw[3:] if raw.startswith("t3_") else raw
+        base = base.strip().lower()
+        if not base or base in seen:
+            continue
+        seen.add(base)
+        unique.append(base)
+    for start in range(0, len(unique), 100):
+        chunk = unique[start : start + 100]
+        payload = _arctic_get(ARCTIC_POSTS + "/ids?ids=" + ",".join(chunk))
+        time.sleep(0.3)
+        data = (payload or {}).get("data") if payload else None
+        if isinstance(data, list):
+            rows.extend(data)
+            log(f"arctic shift ids {start // 100 + 1}: {len(data)} posts")
+    return rows
+
+
+def _arctic_search_prefix(url: str) -> str | None:
+    """URL prefix Arctic Shift can search. Keep YouTube's video id; drop tracking."""
+    parts = urllib.parse.urlsplit(url.strip())
+    if not parts.netloc or parts.scheme not in ("http", "https"):
+        return None
+    path = parts.path or "/"
+    if "/amp/" in path:
+        path = path.replace("/amp/", "/")
+    query_pairs = []
+    host = parts.netloc.lower()
+    if "youtube.com" in host or host.endswith("youtu.be"):
+        for key, val in urllib.parse.parse_qsl(parts.query):
+            if key == "v" and val:
+                query_pairs.append((key, val))
+    prefix = urllib.parse.urlunsplit((parts.scheme, parts.netloc, path, urllib.parse.urlencode(query_pairs), ""))
+    if len(prefix) > 280:
+        prefix = prefix[:280]
+    return prefix
+
+
+def _arctic_by_url(sub: str, url: str) -> dict | None:
+    """Find one link post by its outbound URL. Prefix search, then an exact path match."""
+    prefix = _arctic_search_prefix(url)
+    if not prefix:
+        return None
+    query = (
+        ARCTIC_POSTS
+        + "/search?subreddit="
+        + urllib.parse.quote(sub)
+        + "&limit=5&url="
+        + urllib.parse.quote(prefix, safe="")
+    )
+    payload = None
+    for attempt in range(3):
+        payload = _arctic_get(query)
+        if payload is not None:
+            break
+        time.sleep(1.5 * (attempt + 1))
+    data = (payload or {}).get("data") if payload else None
+    if not isinstance(data, list):
+        return None
+    want = _path_key(prefix)
+    original = _path_key(url)
+    video = _youtube_id(url)
+    for post in data:
+        got = _path_key(post.get("url") or "")
+        if video and _youtube_id(post.get("url") or "") == video:
+            return post
+        if got and (got == want or got == original):
+            return post
+    return None
+
+
+def _youtube_id(url: str) -> str | None:
+    parts = urllib.parse.urlsplit(url or "")
+    host = parts.netloc.lower().removeprefix("www.")
+    if host.endswith("youtu.be"):
+        token = parts.path.strip("/").split("/")[0]
+        return token or None
+    if "youtube.com" in host:
+        for key, val in urllib.parse.parse_qsl(parts.query):
+            if key == "v" and val:
+                return val
+    return None
 
 
 def _reddit_json(url: str) -> dict | None:
@@ -1366,54 +1504,68 @@ def _reddit_json(url: str) -> dict | None:
         return None
 
 
-def refresh_reddit_stats(items: list[dict]) -> int:
-    """Best-effort upvote and comment counts. A 403 or 429 leaves items unchanged."""
+def _posts_from_listing(payload: dict) -> list[dict]:
+    raw = payload.get("data")
+    if isinstance(raw, list):
+        return [row for row in raw if isinstance(row, dict)]
+    if isinstance(raw, dict):
+        return [child.get("data") or {} for child in raw.get("children") or [] if isinstance(child, dict)]
+    return []
+
+
+def _stat_tuple(post: dict) -> tuple[int, int, str] | None:
+    score = post.get("score")
+    comments = post.get("num_comments")
+    if score is None and comments is None:
+        return None
+    try:
+        score_n = int(score) if score is not None else None
+        comments_n = int(comments) if comments is not None else None
+    except (TypeError, ValueError):
+        return None
+    if score_n is None or comments_n is None:
+        return None
+    name = str(post.get("name") or "")
+    if not name and post.get("id"):
+        name = "t3_" + str(post["id"])
+    return (score_n, comments_n, name)
+
+
+def apply_reddit_posts(items: list[dict], posts: list[dict]) -> int:
+    """Write scores from already-fetched posts. Missing posts are left unchanged."""
     by_url: dict[str, tuple[int, int, str]] = {}
-    for sub in REDDIT_STAT_SUBS:
-        payload = _reddit_json(f"https://www.reddit.com/r/{sub}/new.json?limit=100&raw_json=1")
-        time.sleep(1.1)
-        if not payload:
-            payload = _arctic_listing(sub)
-        if not payload:
+    by_path: dict[tuple[str, str], tuple[int, int, str]] = {}
+    by_id: dict[str, tuple[int, int, str]] = {}
+    for post in posts:
+        stats = _stat_tuple(post)
+        if not stats:
             continue
-        raw = payload.get("data")
-        if isinstance(raw, list):
-            posts = raw
-        elif isinstance(raw, dict):
-            posts = [child.get("data") or {} for child in raw.get("children") or []]
-        else:
-            posts = []
-        for post in posts:
-            stats = (post.get("score"), post.get("num_comments"), post.get("name") or "")
-            if stats[0] is None and stats[1] is None:
+        base = str(post.get("id") or "")
+        if base.startswith("t3_"):
+            base = base[3:]
+        if not base and stats[2].startswith("t3_"):
+            base = stats[2][3:]
+        if base:
+            by_id[base.lower()] = stats
+        for raw in (post.get("url"), post.get("permalink")):
+            if not raw:
                 continue
-            for raw in (post.get("url"), post.get("permalink")):
-                if not raw:
-                    continue
-                if raw.startswith("/"):
-                    raw = "https://www.reddit.com" + raw
-                by_url[dedupe_key(raw)] = stats
-    known_ids = [item["reddit_id"] for item in items if item.get("reddit_id")]
-    for start in range(0, len(known_ids), 80):
-        chunk = known_ids[start : start + 80]
-        payload = _reddit_json("https://www.reddit.com/by_id/" + ",".join(chunk) + ".json?raw_json=1")
-        time.sleep(1.1)
-        if not payload:
-            continue
-        for child in (payload.get("data") or {}).get("children") or []:
-            post = child.get("data") or {}
-            stats = (post.get("score"), post.get("num_comments"), post.get("name") or "")
-            for raw in (post.get("url"), post.get("permalink")):
-                if not raw:
-                    continue
-                if raw.startswith("/"):
-                    raw = "https://www.reddit.com" + raw
-                by_url[dedupe_key(raw)] = stats
+            if str(raw).startswith("/"):
+                raw = "https://www.reddit.com" + str(raw)
+            by_url[dedupe_key(str(raw))] = stats
+            path = _path_key(str(raw))
+            if path:
+                by_path[path] = stats
     changed = 0
     for item in items:
         if not str(item.get("source") or "").startswith("Reddit"):
             continue
-        hit = by_url.get(dedupe_key(item.get("url") or ""))
+        base = reddit_base_id(item)
+        hit = by_id.get(base or "")
+        if not hit:
+            hit = by_url.get(dedupe_key(item.get("url") or ""))
+        if not hit:
+            hit = by_path.get(_path_key(item.get("url") or "") or ("", ""))
         if not hit:
             continue
         score, comments, name = hit
@@ -1425,12 +1577,94 @@ def refresh_reddit_stats(items: list[dict]) -> int:
             if name:
                 item["reddit_id"] = name
             changed += 1
-    log(f"reddit stats updated {changed}")
     return changed
 
 
+def _reddit_items(items: list[dict]) -> list[dict]:
+    return [item for item in items if str(item.get("source") or "").startswith("Reddit")]
+
+
+def refresh_reddit_stats(items: list[dict]) -> int:
+    """Upvote and comment counts.
+
+    Reddit's JSON 403s from cloud IPs, including /by_id, so a newest-100
+    listing never covers the library. Arctic Shift is the public archive:
+    id lookup for permalinks, then a URL search for link posts that never
+    stored a reddit id. A failed lookup leaves the previous numbers in place.
+    Counts are written only when the archive actually returned them.
+    """
+    reddit_items = _reddit_items(items)
+    if not reddit_items:
+        log("reddit stats updated 0")
+        return 0
+    posts: list[dict] = []
+    for sub in REDDIT_STAT_SUBS:
+        payload = _reddit_json(f"https://www.reddit.com/r/{sub}/new.json?limit=100&raw_json=1")
+        time.sleep(0.4)
+        if not payload:
+            payload = _arctic_listing(sub)
+        if payload:
+            posts.extend(_posts_from_listing(payload))
+    need_ids = []
+    need_urls: list[tuple[dict, str]] = []
+    for item in reddit_items:
+        copy = {
+            "source": item.get("source"),
+            "url": item.get("url"),
+            "reddit_id": item.get("reddit_id"),
+        }
+        if apply_reddit_posts([copy], posts):
+            continue
+        base = reddit_base_id(item)
+        if base:
+            need_ids.append(base)
+            continue
+        sub = REDDIT_SOURCE_SUB.get(item.get("source") or "")
+        url = item.get("url") or ""
+        if sub and url.startswith("http") and "reddit.com" not in url and "redd.it" not in url:
+            need_urls.append((item, sub))
+    if need_ids:
+        posts.extend(_arctic_by_ids(need_ids))
+    looked = 0
+    for item, sub in need_urls:
+        copy = {"source": item.get("source"), "url": item.get("url"), "reddit_id": item.get("reddit_id")}
+        if apply_reddit_posts([copy], posts):
+            continue
+        found = _arctic_by_url(sub, item.get("url") or "")
+        looked += 1
+        time.sleep(0.15)
+        if found:
+            posts.append(found)
+        time.sleep(0.25)
+        if looked % 25 == 0:
+            log(f"arctic shift url lookups {looked}/{len(need_urls)}")
+    changed = apply_reddit_posts(items, posts)
+    scored = sum(1 for item in reddit_items if item.get("reddit_score") is not None)
+    log(f"reddit stats updated {changed}; scored {scored}/{len(reddit_items)}; url lookups {looked}")
+    return changed
+
+
+def annotate_x_items(flat: list[tuple[str, dict]]) -> None:
+    """Tag 官方 vs 离谱, and drop replies the comment filter rejects."""
+    from reply_filter import COMMENTS_IMAGE_NOTE, filter_replies
+    from x_targets import assign_angle
+
+    for _date, item in flat:
+        if item.get("kind") != "x":
+            continue
+        assign_angle(item)
+        extra = item.setdefault("x", {})
+        kept, removed = filter_replies(extra.get("replies") or [])
+        if removed:
+            extra["replies"] = kept
+            extra["replies_omitted"] = int(extra.get("replies_omitted") or 0) + removed
+        elif extra.get("replies_omitted") is None:
+            extra["replies_omitted"] = 0
+        extra["comments_image_note"] = COMMENTS_IMAGE_NOTE
+
+
 def apply_derived(days: dict[str, list[dict]]) -> set[str]:
-    """Recompute content regions and story clusters. Reddit stats are best-effort."""
+    """Recompute content regions, X angles, and story clusters. Reddit stats are best-effort."""
     dirty: set[str] = set()
     flat: list[tuple[str, dict]] = []
     for date, items in days.items():
@@ -1461,9 +1695,15 @@ def apply_derived(days: dict[str, list[dict]]) -> set[str]:
             item.get("cluster_source_count"),
             item.get("reddit_score"),
             item.get("reddit_comments"),
+            item.get("reddit_id"),
+            (item.get("x") or {}).get("angle"),
+            (item.get("x") or {}).get("replies_omitted"),
+            (item.get("x") or {}).get("comments_image_note"),
+            len((item.get("x") or {}).get("replies") or []),
         )
         for _date, item in flat
     }
+    annotate_x_items(flat)
     cluster_items([item for _date, item in flat])
     refresh_reddit_stats([item for _date, item in flat])
     for date, item in flat:
@@ -1473,6 +1713,11 @@ def apply_derived(days: dict[str, list[dict]]) -> set[str]:
             item.get("cluster_source_count"),
             item.get("reddit_score"),
             item.get("reddit_comments"),
+            item.get("reddit_id"),
+            (item.get("x") or {}).get("angle"),
+            (item.get("x") or {}).get("replies_omitted"),
+            (item.get("x") or {}).get("comments_image_note"),
+            len((item.get("x") or {}).get("replies") or []),
         )
         if before.get(item.get("id")) != now:
             dirty.add(date)

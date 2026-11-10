@@ -48,6 +48,8 @@ import subprocess
 import urllib.request
 from pathlib import Path
 
+from reply_filter import filter_replies
+
 I = {
     "reply": "M1.751 10c0-4.42 3.584-8 8.005-8h4.366c4.49 0 7.501 3.58 7.501 8 0 4.43-3.01 8-7.5 8h-.367l-5.07 3.25c-.73.47-1.69-.06-1.69-.93V17.66A8.001 8.001 0 011.75 10zm8.005-6c-3.317 0-6.005 2.69-6.005 6 0 3.37 2.77 6.08 6.138 6.01l.351-.01h1.761v2.3l5.087-3.3h.5c3.44 0 5.5-2.71 5.5-6 0-3.31-2.69-6-6.12-6H9.756z",
     "rt": "M4.5 3.88l4.432 4.14-1.364 1.46L5.5 7.55V16c0 1.1.896 2 2 2H13v2H7.5c-2.209 0-4-1.79-4-4V7.55L1.432 9.48.068 8.02 4.5 3.88zM16.5 6H11V4h5.5c2.209 0 4 1.79 4 4v8.45l2.068-1.93 1.364 1.46-4.432 4.14-4.432-4.14 1.364-1.46 2.068 1.93V8c0-1.1-.896-2-2-2z",
@@ -308,7 +310,7 @@ def estimate_height(payload: dict) -> int:
 
 def build_html(payload: dict, outdir: Path) -> str:
     post = payload["post"]
-    replies = list(payload.get("replies") or [])
+    replies, _omitted = filter_replies(list(payload.get("replies") or []))
     author = post.get("author") or {}
     metrics = post.get("public_metrics") or {}
     avatar = av_path(outdir, author.get("username"), author.get("avatar_url"))

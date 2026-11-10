@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "count": 110,
+  "count": 89,
   "items": [
     {
       "id": "72a66f446ae70b61",
@@ -24,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "72a66f446ae70b61",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d1111bcd65a7f14c",
-      "url": "https://www.republicworld.com/world-news/confident-of-parliamentary-majority-eisenkot-outlines-four-point-plan-to-form-national-emergency-government-2026-11-06-140569",
-      "title_en": "Confident of Parliamentary Majority, Eisenkot Outlines Four-Point Plan to Form National Emergency Government",
-      "title_zh": "艾森科特对议会多数充满信心，概述了组建国家紧急政府的四点计划",
-      "summary_en": "Gadi Eisenkot claims 67 Knesset endorsements and expects the mandate to form Israel&#39;s next government. He has proposed a four-point national emergency plan.",
-      "summary_zh": "加迪·艾森科特 (Gadi Eisenkot) 获得 67 名以色列议会的支持，并期望获得授权组建以色列下一届政府。他提出了四点国家紧急计划。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/israel-election-exit-polls-show-netanyahu-and-opposition-short-of-majority-arab-parties-hold-key-1793152735271-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T23:54:09+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "d1111bcd65a7f14c",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -98,31 +74,10 @@
       "source_region": "印度",
       "cluster_id": "10da823e084934a8",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "45f5dfb985605e5f",
-      "url": "https://www.timesnownews.com/videos/times-now/shows/cristiano-ronaldo-announces-retirement-from-international-football-amid-controversy-video-156475703",
-      "title_en": "Ronaldo's Portugal Farewell: 146 Goals, 23 Years & Bitter Rift With Coach Jorge Jesus: Decoding Now",
-      "title_zh": "C罗的葡萄牙告别：146个进球，23年以及与教练豪尔赫·热苏斯的痛苦裂痕：现在解码",
-      "summary_en": "Cristiano Ronaldo has finally drawn the curtains on his 23-year international career, leaving behind an extraordinary legacy of 146 goals and 234 appearances for Portugal. But the legendary No. 7's farewell comes amid a bitter fallout with head coach Jorge Jesus. From being benched against Norway to walking out of Portugal's training camp, what really happened between CR7 and his former Al Nassr coach?",
-      "summary_zh": "C罗终于结束了他23年的国家队生涯，为葡萄牙队留下了146个进球和234场比赛的非凡遗产。但这位传奇七号球员的告别是在与主教练豪尔赫·热苏斯的激烈争吵中发生的。从对阵挪威的比赛中被坐在替补席到走出葡萄牙的训练营，CR7和他的前阿尔纳斯尔教练之间究竟发生了什么？",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156475703,thumbsize-790785,width-1280,height-720,resizemode-75/156475703.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T23:13:20+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "45f5dfb985605e5f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 38,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xpfcz9"
     },
     {
       "id": "11c5af5bfb4c9a51",
@@ -144,9 +99,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "11c5af5bfb4c9a51",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "cec2fc95ac667e16",
@@ -170,7 +125,10 @@
       "source_region": "印度",
       "cluster_id": "cec2fc95ac667e16",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 128,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xpf4hp"
     },
     {
       "id": "a592dcf7f6390164",
@@ -274,30 +232,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "a80bcf289f8fa845",
-      "url": "https://www.timesnownews.com/world/middle-east/trump-calls-qatars-emir-amid-fears-of-renewed-us-iran-war-discusses-de-escalation-article-156475442",
-      "title_en": "Trump Calls Qatar's Emir Amid Fears Of Renewed US-Iran War, Discusses De-Escalation",
-      "title_zh": "特朗普因担心美伊战争重燃而致电卡塔尔埃米尔，讨论缓和局势",
-      "summary_en": "Donald Trump spoke with Qatar's Emir Sheikh Tamim bin Hamad Al-Thani on diplomatic efforts to de-escalate Middle East tensions and prevent renewed conflict with Iran., Middle East, Times Now",
-      "summary_zh": "唐纳德·特朗普与卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼就缓和中东紧张局势并防止与伊朗再次发生冲突的外交努力进行了交谈。, 中东, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156475501,thumbsize-1505073,width-1280,height-720,resizemode-75/156475501.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T22:33:14+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "a80bcf289f8fa845",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "3a4dae2e915f681f",
       "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayana-gets-major-relief-bombay-hc-orders-takedown-of-pirated-links-within-three-hours-of-notice-article-156475488",
       "title_en": "Ramayana Gets Major Relief, Bombay HC Orders Takedown Of Pirated Links Within Three Hours Of Notice",
@@ -376,7 +310,11 @@
         "ytdlp_command": "yt-dlp https://x.com/gujratsamachar/status/2118712529400799241",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/comments.png",
         "replies": [],
-        "content_sha": "f727b94f33767dda1062ae220a278febd6283917"
+        "content_sha": "f727b94f33767dda1062ae220a278febd6283917",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "deca54ba8b960e01",
       "cluster_item_count": 1,
@@ -402,9 +340,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "f10ce3b55cdc2dc2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "182d3a1ba5b1d2ad",
@@ -483,30 +421,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "f9a72e332afbbf78",
-      "url": "https://www.republicworld.com/world-news/yemen-market-airstrikes-kill-at-least-20-injure-15-houthis-blame-saudi-led-coalition-amid-conflicting-claims-2026-11-06-140565",
-      "title_en": "Yemen Market Airstrikes Kill At Least 20, Injure 15; Houthis Blame Saudi-Led Coalition Amid Conflicting Claims",
-      "title_zh": "也门市场空袭造成至少 20 人死亡、15 人受伤；胡塞武装指责沙特领导的联盟在相互矛盾的主张中",
-      "summary_en": "At least 20 people were killed and 15 injured in airstrikes on a market in Yemen&#39;s Taiz province, according to Houthi officials. The Houthis blamed the Saudi-led coalition, while local authorities accused the rebels and denied that airstrikes had taken place.",
-      "summary_zh": "据胡塞武装官员称，也门塔伊兹省一个市场遭到空袭，造成至少 20 人死亡、15 人受伤。胡塞武装指责沙特领导的联军，而地方当局则指责叛军，并否认发生了空袭。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-20-houthis-1793973713620-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T22:01:58+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f9a72e332afbbf78",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "2b93c3c358feec22",
       "url": "https://youtu.be/x4yPETH6D6k?si=1KA1UklhfC7gcXM0",
       "title_en": "Why Did Indians Send $20 Billion Abroad In Just 8 Months? RBI Is Worried | Indian Express Special",
@@ -529,7 +443,10 @@
       "source_region": "印度",
       "cluster_id": "2b93c3c358feec22",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 22,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xpdh4w"
     },
     {
       "id": "eca3596780547601",
@@ -605,7 +522,10 @@
       "source_region": "印度",
       "cluster_id": "89dfb4d729e95dc1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 13,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xshbht"
     },
     {
       "id": "d435a32586e59878",
@@ -627,9 +547,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "d435a32586e59878",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "aeeed40b0bd2597c",
@@ -657,30 +577,6 @@
       "reddit_score": 63,
       "reddit_comments": 2,
       "reddit_id": "t3_1xpcx3x"
-    },
-    {
-      "id": "2dad0a2a61007bf7",
-      "url": "https://www.timesnownews.com/sports/why-is-liv-golf-shutting-down-the-5-billion-pga-tour-gamble-fell-apart-article-156475054",
-      "title_en": "Why is LIV Golf Shutting Down? The $5 Billion PGA Tour Gamble Fell Apart",
-      "title_zh": "LIV Golf 为何关闭？价值 50 亿美元的 PGA 巡回赛赌博失败了",
-      "summary_en": "Backed by billions and built to challenge the PGA Tour, LIV Golf promised a revolution in professional golf. Four years later, financial troubles, the loss of Saudi backing and the prospect of star exits have brought the ambitious project to the brink of liquidation., Sports, Times Now",
-      "summary_zh": "LIV Golf 获得数十亿美元的支持，旨在挑战 PGA 巡回赛，承诺为职业高尔夫带来一场革命。四年后，财务问题、沙特支持的丧失以及明星退出的前景使这个雄心勃勃的项目濒临清算。, 体育, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156475297,thumbsize-151411,width-1280,height-720,resizemode-75/156475297.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T21:33:43+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "2dad0a2a61007bf7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "56e1b83258a656a0",
@@ -753,7 +649,10 @@
       "source_region": "印度",
       "cluster_id": "d80b216baed861f2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 154,
+      "reddit_comments": 22,
+      "reddit_id": "t3_1xpbu3g"
     },
     {
       "id": "9cd9aa702d6985de",
@@ -804,30 +703,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "bdf97b2fcfb72dc3",
-      "url": "https://www.republicworld.com/world-news/trump-holds-talks-with-qatar-s-emir-on-middle-east-de-escalation-as-iran-steps-up-diplomatic-outreach-2026-11-06-140559",
-      "title_en": "Trump Holds Talks With Qatar's Emir On Middle East De-Escalation As Iran Steps Up Diplomatic Outreach",
-      "title_zh": "随着伊朗加强外交外展，特朗普与卡塔尔埃米尔就中东局势缓和举行会谈",
-      "summary_en": "Trump discussed Middle East de-escalation with Qatar&#39;s emir as Iran pursued diplomatic talks with Egypt and other regional nations to prevent further escalation.",
-      "summary_zh": "特朗普与卡塔尔埃米尔讨论了中东局势缓和问题，而伊朗正在与埃及和其他地区国家进行外交谈判，以防止局势进一步升级。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/trump-qatar-emir-discuss-middle-east-de-escalation-amid-iran-tensions-1793968100959-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T20:28:26+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "bdf97b2fcfb72dc3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "7455b84052afc228",
       "url": "https://www.timesnownews.com/business-economy/markets/nses-electronic-gold-receipts-segment-records-rs-26-46-crore-turnover-on-dhanteras-article-156474941",
       "title_en": "NSE's Electronic Gold Receipts Segment Records Rs 26.46 Crore Turnover On Dhanteras",
@@ -848,30 +723,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "7455b84052afc228",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "081d4fb055023462",
-      "url": "https://www.republicworld.com/world-news/russian-security-council-says-starlinkoneweb-satellite-services-pose-risk-to-sovereign-countries-ria-reports-2026-11-06-140557",
-      "title_en": "Russian Security Council Says Starlink/Oneweb Satellite Services Pose Risk to Sovereign Countries: RIA Reports",
-      "title_zh": "俄罗斯安全委员会称 Starlink/Oneweb 卫星服务对主权国家构成风险：RIA 报告",
-      "summary_en": "Russia&#39;s Security Council has flagged Starlink and OneWeb as potential risks to sovereign nations, alleging their services could be used to destabilise countries.",
-      "summary_zh": "俄罗斯安理会已将 Starlink 和 OneWeb 标记为对主权国家的潜在风险，声称它们的服务可能被用来破坏国家稳定。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/russia-flags-starlink-oneweb-as-risks-to-sovereign-countries-report-1793967086407-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T20:11:31+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "081d4fb055023462",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -924,7 +775,10 @@
       "source_region": "印度",
       "cluster_id": "91ba6016275841a9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 26,
+      "reddit_id": "t3_1xpayc0"
     },
     {
       "id": "4887adc2c4624637",
@@ -946,9 +800,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "4887adc2c4624637",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "62025f7df98adbed",
@@ -1024,7 +878,10 @@
       "source_region": "印度",
       "cluster_id": "71328416ad549204",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 10,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xpabdx"
     },
     {
       "id": "1d4ebee72db6ceba",
@@ -1195,7 +1052,10 @@
       "source_region": "印度",
       "cluster_id": "725ec362ac815301",
       "cluster_item_count": 10,
-      "cluster_source_count": 3
+      "cluster_source_count": 3,
+      "reddit_score": 658,
+      "reddit_comments": 14,
+      "reddit_id": "t3_1xp9ge5"
     },
     {
       "id": "fd98360a0bcfaf9e",
@@ -1347,7 +1207,10 @@
       "source_region": "印度",
       "cluster_id": "d8503eb36a100cbc",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 25,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xp8qfq"
     },
     {
       "id": "0c423b3bb715561c",
@@ -1396,7 +1259,10 @@
       "source_region": "印度",
       "cluster_id": "725ec362ac815301",
       "cluster_item_count": 10,
-      "cluster_source_count": 3
+      "cluster_source_count": 3,
+      "reddit_score": 754,
+      "reddit_comments": 32,
+      "reddit_id": "t3_1xp8mum"
     },
     {
       "id": "d9887d9f231e296a",
@@ -1444,7 +1310,10 @@
       "source_region": "印度",
       "cluster_id": "5e2d7809a857a8d5",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 28,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xp88av"
     },
     {
       "id": "30db36ebf71a1793",
@@ -1565,7 +1434,10 @@
       "source_region": "印度",
       "cluster_id": "bf578d389d928a04",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xp7mtk"
     },
     {
       "id": "725ec362ac815301",
@@ -1590,7 +1462,10 @@
       "source_region": "印度",
       "cluster_id": "725ec362ac815301",
       "cluster_item_count": 10,
-      "cluster_source_count": 3
+      "cluster_source_count": 3,
+      "reddit_score": 356,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xp7gsj"
     },
     {
       "id": "c9945009d6fc43fe",
@@ -1615,7 +1490,10 @@
       "source_region": "印度",
       "cluster_id": "c9945009d6fc43fe",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 91,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xp7b7f"
     },
     {
       "id": "2c7fec27d46b3c57",
@@ -1638,9 +1516,9 @@
       "tag_source": "rules",
       "page_fetched": true,
       "source_region": "印度",
-      "cluster_id": "2c7fec27d46b3c57",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "9d0ba322e5c0737b",
@@ -1713,9 +1591,12 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "8bcef47ad4cbf00c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 277,
+      "reddit_comments": 23,
+      "reddit_id": "t3_1xp6ckq"
     },
     {
       "id": "acf50d4ad9757262",
@@ -1842,30 +1723,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "f8ac468fd560f628",
-      "url": "https://www.republicworld.com/world-news/trump-meets-with-national-security-team-as-us-prepares-for-possible-new-strikes-on-iran-report-2026-11-06-140537",
-      "title_en": "Trump Meets with National Security Team as US Prepares for Possible New Strikes on Iran: Report",
-      "title_zh": "特朗普会见国家安全团队，美国准备对伊朗进行新的打击：报告",
-      "summary_en": "Elaborating on the potential objectives, he questioned whether Washington should proceed with further strikes to guarantee that Iran&#39;s nuclear programme is permanently dismantled and that “it will never happen again”.",
-      "summary_zh": "在阐述潜在目标时，他质疑华盛顿是否应该继续发动进一步打击，以保证伊朗的核计划被永久拆除，并且“这种情况永远不会再次发生”。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/we-have-time-trump-says-us-in-no-hurry-to-end-iran-war-claims-tehran-wants-talks-1793412075366-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T13:09:20+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f8ac468fd560f628",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "b79074312d91ff1b",
       "url": "https://indianexpress.com/article/trending/trending-in-india/astrotalk-1000-air-purifiers-diwali-gift-delhi-aqi-10952998/",
       "title_en": "As Delhi AQI worsens, company’s Diwali gift of air purifiers draws attention",
@@ -1885,9 +1742,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "b79074312d91ff1b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "ca7a95cd721fd328",
@@ -1910,9 +1767,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "ca7a95cd721fd328",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "daa7503d5a94b52c",
@@ -1992,54 +1849,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "52ddda0bb2b4b3be",
-      "url": "https://www.republicworld.com/world-news/would-rather-not-destroy-rest-of-the-country-trump-s-iran-war-tone-changes-after-midterm-drubbing-2026-11-06-140536",
-      "title_en": "'Would Rather Not Destroy Rest of the Country': Trump's Iran War Tone Changes After Midterm Drubbing",
-      "title_zh": "“宁愿不摧毁国家其他地区”：特朗普的伊朗战争基调在中期惨败后发生变化",
-      "summary_en": "Addressing reporters in the Oval Office on Thursday (local time), Trump noted that a final decision on whether the war was close to escalating was imminent. &quot;I would rather not destroy the rest of the country if possible, but maybe I&#39;ll have to,&quot; he stated, adding, “You&#39;ll know soon enough.”",
-      "summary_zh": "周四（当地时间），特朗普在椭圆形办公室对记者发表讲话时指出，即将就战争是否接近升级做出最终决定。 “如果可能的话，我宁愿不摧毁这个国家的其他地区，但也许我不得不这样做，”他补充道，“你很快就会知道。”",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/would-rather-not-destroy-rest-of-the-country-trump-s-iran-war-tone-changes-after-midterm-drubbing-1793936764837-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T11:46:13+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "52ddda0bb2b4b3be",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "4f745f40bec9c882",
-      "url": "https://www.republicworld.com/world-news/no-negotiations-till-us-fulfils-seven-conditions-iran-security-chief-says-russia-condemned-us-israel-strikes-2026-11-06-140535",
-      "title_en": "'No Negotiations Till US Fulfils Seven Conditions': Iran Security Chief Says Russia Condemned US-Israel Strikes",
-      "title_zh": "“在美国满足七个条件之前不要进行谈判”：伊朗安全负责人称俄罗斯谴责美以袭击",
-      "summary_en": "During the meeting, the Russian President stated that Moscow is ready to make every possible effort to bring the ongoing US-Iran war to an end. &quot;Mr Putin said he will do everything he can to help bring the war to an end,&quot; Rezaei said, according to Press TV.",
-      "summary_zh": "会议期间，俄罗斯总统表示，莫斯科准备尽一切努力结束正在进行的美伊战争。据 Press TV 报道，雷扎伊表示：“普京先生表示，他将尽一切努力帮助结束战争。”",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/no-negotiations-till-us-fulfils-seven-conditions-iran-security-chief-says-russia-condemned-us-israel-strikes-1793936637096-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T11:44:07+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "4f745f40bec9c882",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "907e0e3a5e435f3b",
       "url": "https://www.ndtv.com/offbeat/man-stopped-from-watching-film-in-meta-glasses-argues-with-security-guard-12290762",
       "title_en": "Man Stopped From Watching Film In Meta Glasses, Argues With Security Guard",
@@ -2086,54 +1895,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "86aa1843894d26a2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5d408819f209e262",
-      "url": "https://www.timesnownews.com/world/middle-east/iran-sent-nuclear-proposal-to-us-via-qatar-sets-7-conditions-for-talks-report-article-156472570",
-      "title_en": "Iran Sent Nuclear Proposal To US Via Qatar, Sets 7 Conditions For Talks: Report",
-      "title_zh": "伊朗通过卡塔尔向美国发送核提案，为会谈设定了7个条件：报告",
-      "summary_en": "Iran has reportedly sent a nuclear proposal via Qatar, setting seven conditions for talks, while Trump warned Tehran that Washington remains prepared for renewed military action., Middle East, Times Now",
-      "summary_zh": "据报道，伊朗已通过卡塔尔提出核提议，为谈判设定了七个条件，而特朗普则警告德黑兰，华盛顿仍准备采取新的军事行动。, 中东, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156472588,thumbsize-89167,width-1280,height-720,resizemode-75/156472588.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T11:19:44+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "5d408819f209e262",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5da9004b501d60f4",
-      "url": "https://www.republicworld.com/world-news/marco-rubio-denies-exit-plans-vows-to-serve-trump-s-full-second-term-2026-11-06-140532",
-      "title_en": "Marco Rubio Denies Exit Plans, Vows to Serve Trump's Full Second Term",
-      "title_zh": "马可·卢比奥否认退出计划，誓言为特朗普的第二个任期服务",
-      "summary_en": "In an interview with The New York Times, Rubio rejected speculation that he might step down to prepare for a 2028 presidential campaign, clarifying his long-term professional intentions within the executive branch.",
-      "summary_zh": "在接受《纽约时报》采访时，卢比奥否认了有关他可能辞职准备 2028 年总统竞选的猜测，澄清了他在行政部门的长期职业意图。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/marco-rubio-denies-exit-plans-vows-to-serve-trump-s-full-second-term-1793934863716-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T11:14:34+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "5da9004b501d60f4",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2238,30 +1999,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "ef9f3a2dca2ee9a9",
-      "url": "https://www.republicworld.com/world-news/long-road-ahead-eisenkot-says-determined-to-form-govt-after-securing-67-endorsements-in-prime-ministerial-race-2026-11-06-140531",
-      "title_en": "'Long Road Ahead': Eisenkot Says 'Determined' to Form Govt After Securing 67 Endorsements in Prime Ministerial Race",
-      "title_zh": "“前方路漫漫其修远兮”：艾森科特在总理竞选中获得 67 票支持后表示“决心”组建政府",
-      "summary_en": "The Joint List chairman Yousef Jabareen defended the decision to back Eisenkot, stating on X, “We will do everything to remove the greatest threat to all of us, which is the continuation of the rule of Netanyahu and his Kahanist partners.”",
-      "summary_zh": "联合名单主席优素福·贾巴林为支持艾森科特的决定进行了辩护，他在 X 上表示，“我们将尽一切努力消除对我们所有人的最大威胁，即内塔尼亚胡及其卡汉主义伙伴统治的延续。”",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/long-road-ahead-eisenkot-says-determined-to-form-govt-after-securing-67-endorsements-in-prime-ministerial-race-1793934058642-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T11:01:24+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "ef9f3a2dca2ee9a9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "4710f0a1daa7cb99",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xp23lg/rindiaspeaks_any_questions_stupid_too_afraidshy/",
       "title_en": "r/Indiaspeaks - Any Questions - Stupid , Too Afraid/Shy to Ask, Now is the Time",
@@ -2314,30 +2051,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "44738ea9f94191f6",
-      "url": "https://www.republicworld.com/world-news/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments-2026-11-06-140528",
-      "title_en": "Trump Signs Proclamation to Preserve Oval Office, Cabinet Room as National Monuments",
-      "title_zh": "特朗普签署公告将椭圆形办公室和内阁会议室保留为国家古迹",
-      "summary_en": "Speaking to reporters at the Oval Office before signing the document, Trump described the two spaces as important symbols of American history and government, saying their historical significance must be preserved for future generations.",
-      "summary_zh": "在签署文件之前，特朗普在椭圆形办公室对记者表示，这两个空间是美国历史和政府的重要象征，并表示必须为子孙后代保留它们的历史意义。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments-1793932126266-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T10:28:55+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "44738ea9f94191f6",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "db64d70436d03bb7",
       "url": "https://www.ndtv.com/offbeat/watch-woman-gifts-iphone-duo-to-all-female-employees-many-break-down-in-tears-12290543",
       "title_en": "Watch: Woman Gifts iPhone Duo To All Female Employees, Many Break Down In Tears",
@@ -2359,54 +2072,6 @@
       "source_region": "印度",
       "cluster_id": "db64d70436d03bb7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0f8965fd6ed07211",
-      "url": "https://www.republicworld.com/world-news/trump-warns-of-disaster-as-democratic-socialists-secure-mayoral-wins-in-los-angeles-washington-2026-11-06-140525",
-      "title_en": "Trump Warns of 'Disaster' as Democratic Socialists Secure Mayoral Wins in Los Angeles, Washington",
-      "title_zh": "民主社会主义者在华盛顿洛杉矶赢得市长职位，特朗普警告称“灾难”",
-      "summary_en": "Commenting on the victories, Trump said voters might eventually seek political change if they became dissatisfied with the new leadership, but cautioned that the consequences of such policies could become difficult to reverse.",
-      "summary_zh": "特朗普在评论这些胜利时表示，如果选民对新领导层不满意，他们最终可能会寻求政治变革，但他警告说，此类政策的后果可能会变得难以扭转。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/never-surrender-white-house-shares-trump-picture-after-republican-midterm-rout-iran-war-blamed-for-defeat-1793841432319-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T10:08:44+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "0f8965fd6ed07211",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f3340b2493c49357",
-      "url": "https://www.republicworld.com/world-news/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful-2026-11-06-140524",
-      "title_en": "Trump Defends Hegseth Amid Impeachment Threat, Says US Military Operations in Iran, Venezuela Successful",
-      "title_zh": "特朗普在弹劾威胁中为赫格斯辩护，称美国在伊朗和委内瑞拉的军事行动取得成功",
-      "summary_en": "Trump acknowledged American casualties during the Iran conflict, saying 18 US service members had lost their lives, while maintaining that the number was considerably lower than losses suffered during previous American military engagements in Vietnam and Afghanistan.",
-      "summary_zh": "特朗普承认伊朗冲突期间有美国人伤亡，称有 18 名美国军人丧生，同时坚称这一数字远低于美国此前在越南和阿富汗的军事行动中遭受的损失。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful-1793930495324-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T10:01:42+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f3340b2493c49357",
-      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -2434,30 +2099,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "a60cba22c1b9e76f",
-      "url": "https://www.republicworld.com/world-news/trump-displays-red-veto-cap-on-oval-office-desk-as-democrats-take-control-of-congress-2026-11-06-140522",
-      "title_en": "Trump Displays Red 'Veto' Cap on Oval Office Desk as Democrats Take Control of Congress",
-      "title_zh": "随着民主党控制国会，特朗普在椭圆形办公室桌上展示红色“否决”帽",
-      "summary_en": "The prominent display of the cap came as Trump addressed reporters during the signing of a proclamation seeking to preserve the Oval Office and the Cabinet Room as national monuments under the Antiquities Act.",
-      "summary_zh": "特朗普在签署一份公告时向记者发表讲话，寻求根据《古物法》将椭圆形办公室和内阁会议室保留为国家古迹，而这顶帽子的显眼展示正是在特朗普签署公告时出现的。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/trump-displays-red-veto-cap-on-oval-office-desk-as-democrats-take-control-of-congress-1793929721388-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T09:48:50+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "a60cba22c1b9e76f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "3c749785711778b0",
       "url": "https://www.republicworld.com/world-news/india-calls-for-better-resourced-protected-un-peacekeeping-missions-cites-300000-troop-deployments-2026-11-06-140521",
       "title_en": "India Calls for Better-Resourced, Protected UN Peacekeeping Missions, Cites 300,000 Troop Deployments",
@@ -2478,30 +2119,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "3c749785711778b0",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ae5cc909eb8d8ef6",
-      "url": "https://www.republicworld.com/world-news/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge-2026-11-06-140520",
-      "title_en": "'It Wasn’t Republicans, It Was Dumocrats': Trump Blames Election Results for Stock Market Plunge",
-      "title_zh": "“这不是共和党，而是杜民主”：特朗普将股市暴跌归咎于选举结果",
-      "summary_en": "In a post on Truth Social, Trump described the market decline as one of the worst in history and attributed the losses to the election outcome, while claiming that retirement savings had also been affected.",
-      "summary_zh": "在《Truth Social》上发表的一篇文章中，特朗普将市场下跌描述为历史上最严重的下跌之一，并将损失归因于选举结果，同时声称退休储蓄也受到了影响。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/it-wasnt-republicans-it-was-dumocrats-trump-blames-election-results-for-stock-market-plunge-1793929294983-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T09:41:44+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "ae5cc909eb8d8ef6",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2655,30 +2272,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "0db0c9024737c8e2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "183e718899670d37",
-      "url": "https://www.republicworld.com/world-news/arab-led-parties-back-gadi-eisenkot-for-israel-pm-giving-him-support-of-67-lawmakers-against-netanyahu-2026-11-05-140518",
-      "title_en": "Arab-Led Parties Back Gadi Eisenkot For Israel PM, Giving Him Support Of 67 Lawmakers Against Netanyahu",
-      "title_zh": "阿拉伯领导的政党支持加迪·艾森科特担任以色列总理，让他获得 67 名议员反对内塔尼亚胡的支持",
-      "summary_en": "Arab-led parties have backed former military chief Gadi Eisenkot to form Israel&#39;s next government, bringing his potential support to 67 lawmakers and challenging Benjamin Netanyahu&#39;s political future.",
-      "summary_zh": "阿拉伯领导的政党支持前军事首长加迪·艾森科特组建以色列下一届政府，这为 67 名议员带来了潜在的支持，并对本杰明·内塔尼亚胡的政治未来构成了挑战。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/israel-election-benjamin-netanyahu-and-gadi-eisenkot-1793091526323-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T01:29:34+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "183e718899670d37",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2927,57 +2520,13 @@
             "in_reply_to_id": "2118394539861746129"
           }
         ],
-        "content_sha": "b18cdb92dc1188582411cdcca1031add41bf4c6e"
+        "content_sha": "b18cdb92dc1188582411cdcca1031add41bf4c6e",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "f9ecb346e3003e95",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "5baf6ea41dcee28f",
-      "url": "https://www.timesnownews.com/world/paraguay-president-santiago-pea-resigns-following-bank-collapse-article-156471238",
-      "title_en": "Paraguay President Santiago Peña Resigns Following Bank Collapse",
-      "title_zh": "巴拉圭总统圣地亚哥·佩尼亚因银行倒闭而辞职",
-      "summary_en": "Paraguayan President Santiago Peña resigned amid growing demands for his removal following the collapse of digital lender ueno, which impacted millions of customers. , World News, Times Now",
-      "summary_zh": "数字借贷公司 ueno 倒闭影响了数百万客户，巴拉圭总统圣地亚哥·佩纳 (Santiago Peña) 辞职，要求其下台的呼声越来越高。 , 世界新闻, 时代现在",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156471237,thumbsize-739616,width-1280,height-720,resizemode-75/156471237.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T00:42:56+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "5baf6ea41dcee28f",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "93dc888e358eeb60",
-      "url": "https://www.republicworld.com/world-news/oman-iran-seek-resuming-navigation-through-hormuz-without-obstacles-amid-regional-tensions-2026-11-05-140515",
-      "title_en": "Oman, Iran Seek 'Resuming Navigation' Through Hormuz 'Without Obstacles' Amid Regional Tensions",
-      "title_zh": "在地区紧张局势中，阿曼和伊朗寻求“无障碍”地“恢复”通过霍尔木兹海峡的航行",
-      "summary_en": "Omani Foreign Minister Badr bin Hamad bin Hamoud Al-Busaidi held a telephone conversation with Iranian Foreign Minister Abbas Araghchi. Both &quot;affirmed the importance of transitioning from a phase of de-escalating tensions to a phase of consolidating sustainable understandings.&quot;",
-      "summary_zh": "阿曼外交部长巴德尔·本·哈马德·本·哈穆德·布赛迪与伊朗外长阿巴斯·阿拉格奇进行了电话交谈。两人“都确认了从紧张局势缓和阶段过渡到巩固可持续理解阶段的重要性”。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/oman-iran-seek-resuming-navigation-through-hormuz-without-obstacles-amid-regional-tensions-1793895838047-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-06T00:24:06+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "93dc888e358eeb60",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

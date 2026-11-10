@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "f303bcc0de2829fb",
@@ -49,31 +49,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "9d13b6e582662424",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "b4c04cdbd58f3aa4",
-      "url": "https://indianexpress.com/article/trending/trending-globally/mark-zuckerberg-react-viral-guinness-beer-sipping-video-thats-just-my-face-10922661/",
-      "title_en": "Zuckerberg reacts to viral Guinness beer-sipping video: ‘That’s just my face’",
-      "title_zh": "扎克伯格对疯传的吉尼斯啤酒视频做出反应：“这就是我的脸”",
-      "summary_en": "Mark Zuckerberg appeared on Irish billionaire John Collison’s Cheeky Pint show alongside Alexandr Wang, Meta’s chief AI officer, for a conversation over drinks.",
-      "summary_zh": "马克·扎克伯格 (Mark Zuckerberg) 出现在爱尔兰亿万富翁约翰·科里森 (John Collison) 的 Cheeky Pint 秀上，与 Meta 的首席人工智能官亚历山大·王 (Alexandr Wang) 一起喝酒聊天。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Mark-Zuckerberg-Guinness-reaction.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-15T15:03:14+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "奇人奇事",
-        "商业套路"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "b4c04cdbd58f3aa4",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

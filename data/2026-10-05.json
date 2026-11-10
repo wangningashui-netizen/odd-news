@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "id": "eb3dc9e516f8e5f3",
@@ -51,30 +51,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "908cdf26dbd6ab52",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "c6c3d5682ad44a26",
-      "url": "https://indianexpress.com/article/trending/trending-globally/egyptian-shopkeeper-catches-child-falling-from-balcony-video-10907296/",
-      "title_en": "Egyptian shopkeeper catches child falling from balcony: ‘Had no time to think’",
-      "title_zh": "埃及店主抓住从阳台坠落的孩子：“没有时间思考”",
-      "summary_en": "CTV footage from Giza Governorate captured the moment shopkeeper Ahmed Ragab sprang into action to catch a 4-year-old boy who fell from a second-floor balcony after briefly tangling in a washing line.",
-      "summary_zh": "吉萨省的中央电视台镜头捕捉到了店主艾哈迈德·拉加布 (Ahmed Ragab) 立即采取行动去接住一名 4 岁男孩的瞬间，该男孩因短暂地被晾衣绳缠住而从二楼阳台坠落。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Man-saves-kid-falling-from-balcony-video.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-05T16:02:22+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "商业套路"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c6c3d5682ad44a26",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

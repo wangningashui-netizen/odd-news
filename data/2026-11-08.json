@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Shanghai",
-  "count": 221,
+  "count": 211,
   "items": [
     {
       "id": "245bf51c8ed3b22d",
@@ -26,7 +26,10 @@
       "source_region": "印度",
       "cluster_id": "245bf51c8ed3b22d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xr1jzu"
     },
     {
       "id": "73efb2c52e7ae5d7",
@@ -51,7 +54,10 @@
       "source_region": "印度",
       "cluster_id": "73efb2c52e7ae5d7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 265,
+      "reddit_comments": 19,
+      "reddit_id": "t3_1xr0yfn"
     },
     {
       "id": "a9d0e4d2fe64641e",
@@ -101,7 +107,10 @@
       "source_region": "印度",
       "cluster_id": "aa2a2c3ec52f2b66",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 46,
+      "reddit_id": "t3_1xr0uej"
     },
     {
       "id": "500b267934bfefaf",
@@ -149,7 +158,10 @@
       "source_region": "印度",
       "cluster_id": "292923e148cdff7f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xr0pts"
     },
     {
       "id": "2a7d1b4d752f14eb",
@@ -173,7 +185,10 @@
       "source_region": "印度",
       "cluster_id": "2a7d1b4d752f14eb",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 9,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xr0miy"
     },
     {
       "id": "cca2060cdc84e2fd",
@@ -198,7 +213,10 @@
       "source_region": "印度",
       "cluster_id": "cca2060cdc84e2fd",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xr0jm2"
     },
     {
       "id": "f8a687c068c3ad9f",
@@ -272,7 +290,10 @@
       "source_region": "印度",
       "cluster_id": "43b2bec3676aa560",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqzxv9"
     },
     {
       "id": "6c2a740df15bbb1a",
@@ -296,7 +317,10 @@
       "source_region": "印度",
       "cluster_id": "6c2a740df15bbb1a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqzxor"
     },
     {
       "id": "629690ced1ea535b",
@@ -321,7 +345,10 @@
       "source_region": "印度",
       "cluster_id": "629690ced1ea535b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 13,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xshbht"
     },
     {
       "id": "c6f9c19552dadffe",
@@ -345,33 +372,10 @@
       "source_region": "印度",
       "cluster_id": "c6f9c19552dadffe",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "c5f4a1a5d5e83fbf",
-      "url": "https://www.republicworld.com/world-news/train-collision-in-egypt-s-giza-province-injures-64-as-crews-rush-to-clear-wreckage-2026-11-08-140667",
-      "title_en": "Egypt Train Collision: 4 Killed, 88 Injured As Two Passenger Trains Collide In Giza Province",
-      "title_zh": "埃及火车相撞：吉萨省两列旅客列车相撞，4人死亡、88人受伤",
-      "summary_en": "At least 7 people were killed and over 100 injured after two passenger trains collided in Egypt&#39;s Giza province, south of Cairo. One train derailed in the crash. President Abdel-Fattah el-Sissi ordered a prompt investigation as rescue teams rushed to clear the wreckage.",
-      "summary_zh": "埃及开罗南部吉萨省两列旅客列车相撞，造成至少 7 人死亡、100 多人受伤。一列火车在事故中脱轨。总统阿卜杜勒-法塔赫·塞西下令立即展开调查，救援队迅速清理残骸。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/egypt-train-collision-64-injured-as-passenger-train-derails-in-giza-1794147663040-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T22:21:10+08:00",
-      "fetched_at": "2026-11-09T10:31:09+08:00",
-      "page_fetched": true,
-      "tags": [
-        "交通火车",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c5f4a1a5d5e83fbf",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 13,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xqzler"
     },
     {
       "id": "901e8eaf0a7a3ffe",
@@ -395,7 +399,10 @@
       "source_region": "印度",
       "cluster_id": "901e8eaf0a7a3ffe",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 15,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqzgh0"
     },
     {
       "id": "ba97ffc136f6a2bb",
@@ -496,7 +503,10 @@
       "source_region": "印度",
       "cluster_id": "1e532f693fca192a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 33,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xqysne"
     },
     {
       "id": "f501872689b43842",
@@ -545,7 +555,10 @@
       "source_region": "印度",
       "cluster_id": "401a3a9703da5eb6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 10,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqylr5"
     },
     {
       "id": "14e5b0bcd83dd9eb",
@@ -594,8 +607,8 @@
       "cluster_id": "13168127ac03a0c5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 19,
-      "reddit_comments": 0,
+      "reddit_score": 24,
+      "reddit_comments": 4,
       "reddit_id": "t3_1xqyf47"
     },
     {
@@ -620,7 +633,10 @@
       "source_region": "印度",
       "cluster_id": "2506b7441126447e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 22,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqyd2a"
     },
     {
       "id": "1e6509cb65cd9c00",
@@ -668,9 +684,12 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "4c14e95297826ad3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 305,
+      "reddit_comments": 31,
+      "reddit_id": "t3_1xqy5i2"
     },
     {
       "id": "8bc486234f2b882b",
@@ -695,7 +714,10 @@
       "source_region": "印度",
       "cluster_id": "8bc486234f2b882b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 3,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqy2xk"
     },
     {
       "id": "083d2f2847a92ae9",
@@ -719,7 +741,10 @@
       "source_region": "印度",
       "cluster_id": "083d2f2847a92ae9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 136,
+      "reddit_comments": 9,
+      "reddit_id": "t3_1xqxyb6"
     },
     {
       "id": "36f93a8e6cd8befc",
@@ -769,7 +794,10 @@
       "source_region": "印度",
       "cluster_id": "30277b91ca6787f0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqxuuc"
     },
     {
       "id": "0ce497e51d52d1f5",
@@ -817,7 +845,10 @@
       "source_region": "印度",
       "cluster_id": "f41833735414f053",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 24,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xqxmfs"
     },
     {
       "id": "451476497bf73e72",
@@ -841,7 +872,10 @@
       "source_region": "印度",
       "cluster_id": "451476497bf73e72",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 9,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqx70u"
     },
     {
       "id": "65ce97273c1f7b5f",
@@ -866,7 +900,10 @@
       "source_region": "印度",
       "cluster_id": "65ce97273c1f7b5f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 82,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xqx6va"
     },
     {
       "id": "b1149a59c61f59b9",
@@ -890,7 +927,10 @@
       "source_region": "印度",
       "cluster_id": "b1149a59c61f59b9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 386,
+      "reddit_comments": 8,
+      "reddit_id": "t3_1xqx561"
     },
     {
       "id": "ea7147775744f849",
@@ -914,7 +954,10 @@
       "source_region": "印度",
       "cluster_id": "ea7147775744f849",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 64,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xqx2vg"
     },
     {
       "id": "bfeb4bbb55150504",
@@ -987,7 +1030,10 @@
       "source_region": "印度",
       "cluster_id": "a51cfa1b1809eefd",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 10,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqwv1z"
     },
     {
       "id": "ad277b4d60823ea3",
@@ -1036,7 +1082,10 @@
       "source_region": "印度",
       "cluster_id": "392a62e84cc27dc0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqwtsm"
     },
     {
       "id": "93d36599eacefb7b",
@@ -1061,7 +1110,10 @@
       "source_region": "印度",
       "cluster_id": "93d36599eacefb7b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 53,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xqwsqc"
     },
     {
       "id": "e8579df17ff21baf",
@@ -1086,7 +1138,10 @@
       "source_region": "印度",
       "cluster_id": "e8579df17ff21baf",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 16,
+      "reddit_comments": 21,
+      "reddit_id": "t3_1xqwpgs"
     },
     {
       "id": "98d39c89628827b0",
@@ -1111,7 +1166,10 @@
       "source_region": "印度",
       "cluster_id": "98d39c89628827b0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 664,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xqwp84"
     },
     {
       "id": "85af4e16821bdc73",
@@ -1136,8 +1194,8 @@
       "cluster_id": "85af4e16821bdc73",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 418,
-      "reddit_comments": 27,
+      "reddit_score": 849,
+      "reddit_comments": 48,
       "reddit_id": "t3_1xqwogr"
     },
     {
@@ -1312,8 +1370,8 @@
       "cluster_id": "06a85d5276e47f8c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 102,
-      "reddit_comments": 8,
+      "reddit_score": 155,
+      "reddit_comments": 10,
       "reddit_id": "t3_1xqwalj"
     },
     {
@@ -1363,7 +1421,10 @@
       "source_region": "印度",
       "cluster_id": "7f633bd4830539c7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqw5i0"
     },
     {
       "id": "1c3bc266524e2309",
@@ -1437,7 +1498,10 @@
       "source_region": "印度",
       "cluster_id": "cb827bc450aad0bd",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 7,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqw2aa"
     },
     {
       "id": "899b1cc5c62c88a1",
@@ -1486,7 +1550,10 @@
       "source_region": "印度",
       "cluster_id": "54bd1b2477dd5225",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 19,
+      "reddit_comments": 9,
+      "reddit_id": "t3_1xqvt45"
     },
     {
       "id": "96ee3e457a5b68e9",
@@ -1511,7 +1578,10 @@
       "source_region": "印度",
       "cluster_id": "96ee3e457a5b68e9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1271,
+      "reddit_comments": 376,
+      "reddit_id": "t3_1xqvson"
     },
     {
       "id": "2b831ce9a1ef8d63",
@@ -1535,7 +1605,10 @@
       "source_region": "印度",
       "cluster_id": "2b831ce9a1ef8d63",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqvsn4"
     },
     {
       "id": "e79a91907b5db4bd",
@@ -1584,7 +1657,10 @@
       "source_region": "印度",
       "cluster_id": "94f288bdbd54b582",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqvm6a"
     },
     {
       "id": "870713ed9ffa1e48",
@@ -1608,7 +1684,10 @@
       "source_region": "印度",
       "cluster_id": "870713ed9ffa1e48",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 186,
+      "reddit_comments": 14,
+      "reddit_id": "t3_1xqvlhn"
     },
     {
       "id": "af217f86c1092dce",
@@ -1632,7 +1711,10 @@
       "source_region": "印度",
       "cluster_id": "af217f86c1092dce",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqvivx"
     },
     {
       "id": "bdad2acb65268295",
@@ -1683,31 +1765,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "181a2741ce9d9bf0",
-      "url": "https://www.republicworld.com/world-news/saudi-aramco-tower-in-riyadh-damaged-by-falling-debris-after-attempted-missile-attack-no-casualties-2026-11-08-140658",
-      "title_en": "Saudi Aramco Tower in Riyadh Damaged by Falling Debris After Attempted Missile Attack, No Casualties",
-      "title_zh": "利雅得沙特阿美石油公司塔楼遭导弹袭击未遂后坠落碎片受损，无人伤亡",
-      "summary_en": "The incident followed the interception of two cruise missiles reportedly fired towards Riyadh by Yemen&#39;s Houthi rebels. Saudi authorities issued security alerts amid escalating regional hostilities. The Saudi-led coalition said the missiles were intercepted and destroyed.",
-      "summary_zh": "据报道，也门胡塞叛军拦截了两枚向利雅得发射的巡航导弹。沙特当局在地区敌对行动不断升级之际发布安全警报。沙特领导的联军表示，这些导弹被拦截并摧毁。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/saudi-aramco-facility-hit-in-attack-as-houthi-saudi-clashes-escalate-1791940540192-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T18:29:36+08:00",
-      "fetched_at": "2026-11-09T10:31:09+08:00",
-      "page_fetched": true,
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "181a2741ce9d9bf0",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "f4e4b84c3a211a4c",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xqvept/deport_all_dot_heads_farright_american_activist/",
       "title_en": "'Deport all dot heads': Far-right American activist Jake Lang targets Indian-American Hindus at Seattle Diwali event",
@@ -1730,8 +1787,8 @@
       "cluster_id": "f4e4b84c3a211a4c",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 961,
-      "reddit_comments": 104,
+      "reddit_score": 1179,
+      "reddit_comments": 128,
       "reddit_id": "t3_1xqvept"
     },
     {
@@ -1880,7 +1937,10 @@
       "source_region": "印度",
       "cluster_id": "07dabac4e23554d9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 14,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xquzlf"
     },
     {
       "id": "b871119289e854ff",
@@ -1905,7 +1965,10 @@
       "source_region": "印度",
       "cluster_id": "b871119289e854ff",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 288,
+      "reddit_comments": 27,
+      "reddit_id": "t3_1xquxqb"
     },
     {
       "id": "7417557f7bdd419d",
@@ -1929,7 +1992,10 @@
       "source_region": "印度",
       "cluster_id": "7417557f7bdd419d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xquwdl"
     },
     {
       "id": "b12655b16f16d0c1",
@@ -1953,7 +2019,10 @@
       "source_region": "印度",
       "cluster_id": "b12655b16f16d0c1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 11,
+      "reddit_comments": 53,
+      "reddit_id": "t3_1xquvs8"
     },
     {
       "id": "7810bc32298534f3",
@@ -1977,7 +2046,10 @@
       "source_region": "印度",
       "cluster_id": "7810bc32298534f3",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 5,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xquuan"
     },
     {
       "id": "db600df2a83de904",
@@ -2051,7 +2123,10 @@
       "source_region": "印度",
       "cluster_id": "46b6395d5883da9d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 475,
+      "reddit_comments": 33,
+      "reddit_id": "t3_1xquiyc"
     },
     {
       "id": "81a0f99877865468",
@@ -2172,7 +2247,10 @@
       "source_region": "印度",
       "cluster_id": "9db986301206cea5",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 39,
+      "reddit_comments": 33,
+      "reddit_id": "t3_1xqtyqj"
     },
     {
       "id": "e5950b5e472a78e9",
@@ -2221,7 +2299,10 @@
       "source_region": "印度",
       "cluster_id": "50b16f3b759cc5ba",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xqtvs5"
     },
     {
       "id": "3e25bc3ad41c6ef0",
@@ -2246,7 +2327,10 @@
       "source_region": "印度",
       "cluster_id": "3e25bc3ad41c6ef0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqtvl7"
     },
     {
       "id": "063a79dc800776ae",
@@ -2322,7 +2406,10 @@
       "source_region": "印度",
       "cluster_id": "077e63c11e829be1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xqtphp"
     },
     {
       "id": "ea9e72f0ec71edbc",
@@ -2371,7 +2458,10 @@
       "source_region": "印度",
       "cluster_id": "91b512bb9e1b6fe7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 280,
+      "reddit_comments": 65,
+      "reddit_id": "t3_1xqtkhu"
     },
     {
       "id": "b5061142de61ea40",
@@ -2393,10 +2483,10 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "b5061142de61ea40",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 65,
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 69,
       "reddit_comments": 4,
       "reddit_id": "t3_1xqtkan"
     },
@@ -2471,7 +2561,10 @@
       "source_region": "印度",
       "cluster_id": "d269bef16ba94ae6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 15,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqth1j"
     },
     {
       "id": "4f305270d83d1435",
@@ -2496,8 +2589,8 @@
       "cluster_id": "4f305270d83d1435",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 401,
-      "reddit_comments": 38,
+      "reddit_score": 439,
+      "reddit_comments": 40,
       "reddit_id": "t3_1xqtcwf"
     },
     {
@@ -2523,7 +2616,10 @@
       "source_region": "印度",
       "cluster_id": "91804b973b81b91f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1073,
+      "reddit_comments": 99,
+      "reddit_id": "t3_1xqt46t"
     },
     {
       "id": "6460a311bc8d9a2a",
@@ -2571,7 +2667,10 @@
       "source_region": "印度",
       "cluster_id": "e460f46d2f930a33",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 255,
+      "reddit_comments": 20,
+      "reddit_id": "t3_1xqt022"
     },
     {
       "id": "5e1e2611083ebc22",
@@ -2596,7 +2695,10 @@
       "source_region": "印度",
       "cluster_id": "5e1e2611083ebc22",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqsyu3"
     },
     {
       "id": "a3d6a23cb5f3b6db",
@@ -2621,7 +2723,10 @@
       "source_region": "印度",
       "cluster_id": "a3d6a23cb5f3b6db",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 77,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqsx73"
     },
     {
       "id": "bd34f63e8447d006",
@@ -2669,7 +2774,10 @@
       "source_region": "印度",
       "cluster_id": "20ee83323b6ce439",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 23,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqsrhj"
     },
     {
       "id": "10442d9c7bcf58b0",
@@ -2718,7 +2826,10 @@
       "source_region": "印度",
       "cluster_id": "d079a11f80fbaa22",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xqsjpq"
     },
     {
       "id": "eb0ebb72ca8cba3a",
@@ -2791,7 +2902,10 @@
       "source_region": "印度",
       "cluster_id": "d9cc247c64301409",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 26,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqsb0t"
     },
     {
       "id": "d634bc3f3e85a7a2",
@@ -2815,7 +2929,10 @@
       "source_region": "印度",
       "cluster_id": "d634bc3f3e85a7a2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqsa25"
     },
     {
       "id": "f234b81825ac9dee",
@@ -2866,7 +2983,10 @@
       "source_region": "印度",
       "cluster_id": "754460078ecc0155",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 715,
+      "reddit_comments": 36,
+      "reddit_id": "t3_1xqs2f8"
     },
     {
       "id": "3b3048679c177191",
@@ -2891,7 +3011,10 @@
       "source_region": "印度",
       "cluster_id": "3b3048679c177191",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 19,
+      "reddit_comments": 12,
+      "reddit_id": "t3_1xqs1u2"
     },
     {
       "id": "3050ba112f3235b1",
@@ -2915,7 +3038,10 @@
       "source_region": "印度",
       "cluster_id": "3050ba112f3235b1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 60,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqryum"
     },
     {
       "id": "3fc519251829a170",
@@ -2943,8 +3069,8 @@
       "cluster_id": "3fc519251829a170",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 165,
-      "reddit_comments": 3,
+      "reddit_score": 167,
+      "reddit_comments": 5,
       "reddit_id": "t3_1xqryio"
     },
     {
@@ -2971,7 +3097,10 @@
       "source_region": "印度",
       "cluster_id": "bd6f631371ceda9c",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 36,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqrxxl"
     },
     {
       "id": "e0b6b9197f52a187",
@@ -2997,7 +3126,10 @@
       "source_region": "印度",
       "cluster_id": "e0b6b9197f52a187",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 49,
+      "reddit_comments": 19,
+      "reddit_id": "t3_1xqrwd9"
     },
     {
       "id": "c28045b24e82457b",
@@ -3021,7 +3153,10 @@
       "source_region": "印度",
       "cluster_id": "c28045b24e82457b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1355,
+      "reddit_comments": 19,
+      "reddit_id": "t3_1xqrt1y"
     },
     {
       "id": "e128f60c67e6b839",
@@ -3070,7 +3205,10 @@
       "source_region": "印度",
       "cluster_id": "ee1af7348b23ed40",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 7,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqro3t"
     },
     {
       "id": "78ee9b43f895679f",
@@ -3095,7 +3233,10 @@
       "source_region": "印度",
       "cluster_id": "78ee9b43f895679f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 3,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqrjpa"
     },
     {
       "id": "78d81a32f68b34a7",
@@ -3144,7 +3285,10 @@
       "source_region": "印度",
       "cluster_id": "f889b1b0061c8b61",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqrfr4"
     },
     {
       "id": "982e3d0e15e2bef2",
@@ -3217,7 +3361,10 @@
       "source_region": "印度",
       "cluster_id": "45bf1626910aff03",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 51,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqramx"
     },
     {
       "id": "cd482c19efb5ed1b",
@@ -3241,7 +3388,10 @@
       "source_region": "印度",
       "cluster_id": "cd482c19efb5ed1b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqr8uh"
     },
     {
       "id": "c996eb568cff9cd9",
@@ -3265,7 +3415,10 @@
       "source_region": "印度",
       "cluster_id": "c996eb568cff9cd9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 28,
+      "reddit_id": "t3_1xqr59q"
     },
     {
       "id": "f8c29de9c460fb95",
@@ -3289,7 +3442,10 @@
       "source_region": "印度",
       "cluster_id": "f8c29de9c460fb95",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 171,
+      "reddit_comments": 14,
+      "reddit_id": "t3_1xqr28b"
     },
     {
       "id": "951ade520a6ee336",
@@ -3337,7 +3493,10 @@
       "source_region": "印度",
       "cluster_id": "119e39fdcd7b1ed1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 29,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xqr0yf"
     },
     {
       "id": "bc256b7f3c813eb8",
@@ -3435,7 +3594,10 @@
       "source_region": "印度",
       "cluster_id": "e57ece3533b0c9c0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 623,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xqqdq4"
     },
     {
       "id": "9c8ba5b9632d27bb",
@@ -3510,7 +3672,10 @@
       "source_region": "印度",
       "cluster_id": "68d504cb21b5b2cf",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 208,
+      "reddit_comments": 14,
+      "reddit_id": "t3_1xqq4q7"
     },
     {
       "id": "9ed47dbde13d669c",
@@ -3584,7 +3749,10 @@
       "source_region": "印度",
       "cluster_id": "94d58faf49094c1f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 34,
+      "reddit_comments": 13,
+      "reddit_id": "t3_1xqpvqz"
     },
     {
       "id": "15baa6022daa6ac9",
@@ -3608,7 +3776,10 @@
       "source_region": "印度",
       "cluster_id": "15baa6022daa6ac9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 26,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xqpsru"
     },
     {
       "id": "052f98053f313cad",
@@ -3632,7 +3803,10 @@
       "source_region": "印度",
       "cluster_id": "052f98053f313cad",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 99,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xqps3j"
     },
     {
       "id": "b1c46b5282a7421a",
@@ -3656,7 +3830,10 @@
       "source_region": "印度",
       "cluster_id": "b1c46b5282a7421a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 34,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xqpq8l"
     },
     {
       "id": "a3542268aa0abf6d",
@@ -3681,7 +3858,10 @@
       "source_region": "印度",
       "cluster_id": "a3542268aa0abf6d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xqple9"
     },
     {
       "id": "f0122ae211b69546",
@@ -3706,7 +3886,10 @@
       "source_region": "印度",
       "cluster_id": "f0122ae211b69546",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 23,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xqpk49"
     },
     {
       "id": "aaec43946304dd09",
@@ -3731,7 +3914,10 @@
       "source_region": "印度",
       "cluster_id": "aaec43946304dd09",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 84,
+      "reddit_comments": 24,
+      "reddit_id": "t3_1xqpiel"
     },
     {
       "id": "bc74d6034dbb7871",
@@ -3757,7 +3943,10 @@
       "source_region": "印度",
       "cluster_id": "4b5c6afaa06eabcb",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqpfib"
     },
     {
       "id": "8b43aa1e5031de1a",
@@ -3781,7 +3970,10 @@
       "source_region": "印度",
       "cluster_id": "58be9e2e48303bc9",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 5,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqpd61"
     },
     {
       "id": "b258c73feb556c9c",
@@ -3806,7 +3998,10 @@
       "source_region": "印度",
       "cluster_id": "b258c73feb556c9c",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqpd03"
     },
     {
       "id": "8397a3034df9d3ab",
@@ -3831,7 +4026,10 @@
       "source_region": "印度",
       "cluster_id": "8397a3034df9d3ab",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xqpcsn"
     },
     {
       "id": "4b5c6afaa06eabcb",
@@ -3857,7 +4055,10 @@
       "source_region": "印度",
       "cluster_id": "4b5c6afaa06eabcb",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 0,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqpb51"
     },
     {
       "id": "bf9ba877586ce7f2",
@@ -3930,7 +4131,10 @@
       "source_region": "印度",
       "cluster_id": "1ba9d12be765b830",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 49,
+      "reddit_comments": 28,
+      "reddit_id": "t3_1xqp5li"
     },
     {
       "id": "dc94e22277d2df95",
@@ -3980,7 +4184,10 @@
       "source_region": "印度",
       "cluster_id": "b8e811fd19b8dc44",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqorjq"
     },
     {
       "id": "081e017c79b3066b",
@@ -4056,7 +4263,10 @@
       "source_region": "印度",
       "cluster_id": "8aa3a90a5dc1f005",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xqoq5c"
     },
     {
       "id": "1209af0e3ff5c5b9",
@@ -4081,7 +4291,10 @@
       "source_region": "印度",
       "cluster_id": "1209af0e3ff5c5b9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqojf6"
     },
     {
       "id": "711197569525ea9a",
@@ -4157,7 +4370,10 @@
       "source_region": "印度",
       "cluster_id": "a79241fa65bbe6c6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 53,
+      "reddit_comments": 26,
+      "reddit_id": "t3_1xqod8y"
     },
     {
       "id": "ce03238ce5b2b988",
@@ -4206,7 +4422,10 @@
       "source_region": "印度",
       "cluster_id": "c7144d01ce481505",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqo566"
     },
     {
       "id": "eb63156b3e357cb9",
@@ -4281,7 +4500,10 @@
       "source_region": "印度",
       "cluster_id": "e866f0408c9a6c02",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 111,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xqnqdk"
     },
     {
       "id": "94f27645152079c3",
@@ -4306,7 +4528,10 @@
       "source_region": "印度",
       "cluster_id": "94f27645152079c3",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 36,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqnhkw"
     },
     {
       "id": "bdcb0212763236e8",
@@ -4329,9 +4554,12 @@
       "tag_source": "rules",
       "page_attempts": 2,
       "source_region": "印度",
-      "cluster_id": "bdcb0212763236e8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "3d1c65c82f404907",
+      "cluster_item_count": 3,
+      "cluster_source_count": 1,
+      "reddit_score": 9,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqnfva"
     },
     {
       "id": "220cba8108e905b6",
@@ -4377,9 +4605,12 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "e84f42beb2f4aa30",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "3d1c65c82f404907",
+      "cluster_item_count": 3,
+      "cluster_source_count": 1,
+      "reddit_score": 43,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqmnj4"
     },
     {
       "id": "37fa9b61ea8eca47",
@@ -4481,31 +4712,10 @@
       "source_region": "印度",
       "cluster_id": "b76fda4a16fe9634",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "66387deae4b081d6",
-      "url": "https://www.republicworld.com/global-news/after-hormuz-blockade-trumps-iron-gate-tasked-to-choke-tehrans-northern-escape-through-roads-and-railways-2026-11-08-140647",
-      "title_en": "After Hormuz Blockade, Trump’s Iron Gate Tasked To Choke Tehran’s Northern Escape Through Roads And Railways",
-      "title_zh": "霍尔木兹封锁后，特朗普的铁门任务是通过公路和铁路扼杀德黑兰的北方逃亡",
-      "summary_en": "The US has created Task Force Iron Gate to disrupt Iran&#39;s land and Caspian Sea routes for weapons, technology and sanctioned goods as its naval blockade tightens.",
-      "summary_zh": "随着海上封锁收紧，美国成立了铁门特遣部队，以扰乱伊朗的陆地和里海武器、技术和受制裁商品的运输路线。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/response-inadequate-iran-claims-us-agreed-to-some-of-its-seven-conditions-1791770292893-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T09:09:21+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "66387deae4b081d6",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqm9w9"
     },
     {
       "id": "9d25d1fd5641604f",
@@ -5063,7 +5273,11 @@
             "in_reply_to_id": "2119234084899803326"
           }
         ],
-        "content_sha": "8a4fe650cfabb93dcdddfb8df1cba55829f03fc5"
+        "content_sha": "8a4fe650cfabb93dcdddfb8df1cba55829f03fc5",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "cfd0437741e6b118",
       "cluster_item_count": 1,
@@ -5091,153 +5305,10 @@
       "source_region": "印度",
       "cluster_id": "c9cd5c4c863dfa7b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "24a620e618446a94",
-      "url": "https://www.timesnownews.com/world/trump-ally-ousted-paraguays-former-president-faces-corruption-charges-over-1-6-billion-banking-scandal-article-156481102",
-      "title_en": "Trump Ally Ousted: Paraguay’s Former President Faces Corruption Charges Over $1.6 Billion Banking Scandal",
-      "title_zh": "特朗普盟友被赶下台：巴拉圭前总统因 16 亿美元银行丑闻面临腐败指控",
-      "summary_en": "Santiago Peña, the former president of Paraguay, faces serious charges including embezzlement and influence peddling linked to the Ueno bank collapse, which affected over three million citizens. , World News, Times Now",
-      "summary_zh": "巴拉圭前总统圣地亚哥·佩纳面临严重指控，包括与上野银行倒闭有关的贪污罪和以权谋私罪，该银行倒闭影响了超过 300 万公民。 , 世界新闻, 时代现在",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156481112,thumbsize-60408,width-1280,height-720,resizemode-75/156481112.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T08:22:39+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "24a620e618446a94",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d31b43c549d4b744",
-      "url": "https://www.republicworld.com/global-news/multiple-blasts-rock-qeshm-island-and-jask-port-amid-strait-of-hormuz-tensions-2026-11-08-140645",
-      "title_en": "Multiple Blasts Rock Qeshm Island And Jask Port Amid Strait Of Hormuz Tensions",
-      "title_zh": "霍尔木兹海峡紧张局势中，格什姆岛和贾斯克港发生多次爆炸",
-      "summary_en": "Multiple explosions were heard on Qeshm Island and Jask as 2 tankers hit mines near the Strait of Hormuz, while the US forces disabled a cargo vessel breaching the Iran blockade.",
-      "summary_zh": "格什姆岛和贾斯克发生多起爆炸，两艘油轮在霍尔木兹海峡附近触雷，而美军则摧毁了一艘突破伊朗封锁的货船。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/us-strikes-iran-s-qeshm-island-ahead-of-midterms-after-trump-hints-at-tehran-deal-1793669153040-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T08:07:33+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "d31b43c549d4b744",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "82f204ff929db5ee",
-      "url": "https://www.republicworld.com/global-news/these-sleazebags-should-go-to-jail-trump-orders-doj-to-investigate-democrats-over-alleged-threats-to-gop-donors-2026-11-07-140642",
-      "title_en": "'These Sleazebags Should Go To Jail': Trump Orders DOJ To Investigate Democrats Over Alleged Threats To GOP Donors",
-      "title_zh": "“这些卑鄙小人应该入狱”：特朗普命令司法部调查民主党对共和党捐助者的威胁",
-      "summary_en": "Donald Trump ordered the DOJ to investigate Democrats for alleged extortion and threats against GOP donors, Attorney General, and young Republicans after Democrats swept Congress.",
-      "summary_zh": "在民主党横扫国会后，唐纳德·特朗普命令司法部调查民主党对共和党捐助者、司法部长和年轻共和党人的勒索和威胁行为。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/g7-agrees-to-release-100-million-barrels-of-oil-with-immediate-diesel-surge-as-us-prices-hit-record-1790954493713-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T07:29:14+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "82f204ff929db5ee",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "9ea001c75d78c8aa",
-      "url": "https://www.republicworld.com/global-news/president-herzog-hands-eisenkot-mandate-to-form-next-israeli-government-in-major-blow-to-netanyahu-2026-11-07-140641",
-      "title_en": "President Herzog Hands Eisenkot Mandate To Form Next Israeli Government In Major Blow To Netanyahu",
-      "title_zh": "赫尔佐格总统授权艾森科特组建下一届以色列政府，这对内塔尼亚胡造成重大打击",
-      "summary_en": "President Herzog has tasked Gadi Eisenkot with forming Israel&#39;s next government after he secured 67 Knesset recommendations, leaving Netanyahu with 46 as Arab parties emerged as kingmakers.",
-      "summary_zh": "赫尔佐格总统在获得议会 67 项建议后，责成加迪·艾森科特组建以色列下一届政府，而内塔尼亚胡则获得了 46 项建议，因为阿拉伯政党逐渐成为国王拥护者。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/president-herzog-hands-eisenkot-mandate-to-form-next-israeli-government-in-major-blow-to-netanyahu-1794093559186-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T07:19:25+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "9ea001c75d78c8aa",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "eab1da14a336107a",
-      "url": "https://www.republicworld.com/global-news/drone-strike-hits-military-base-in-northern-colombia-3-soldiers-killed-and-8-injured-2026-11-07-140640",
-      "title_en": "Drone Strike Hits Military Base In Northern Colombia, Killing 3 Soldiers And Injuring 8",
-      "title_zh": "哥伦比亚北部军事基地遭无人机袭击 造成 3 名士兵死亡、8 人受伤",
-      "summary_en": "A drone attack on a military base in Santa Rosa del Sur killed 3 Colombian soldiers and injured at least 8 as violence intensifies under President Abelardo de la Espriella.",
-      "summary_zh": "随着总统阿韦拉多·德拉埃斯普里埃拉领导下的暴力活动加剧，南圣罗莎军事基地遭到无人机袭击，造成 3 名哥伦比亚士兵死亡，至少 8 人受伤。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/drone-strike-hits-military-base-in-northern-colombia-killing-3-soldiers-and-injuring-8-1794091406417-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T06:43:32+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治",
-        "科技发明",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "eab1da14a336107a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a3e3a18a1a54c09f",
-      "url": "https://www.timesnownews.com/world/too-close-to-call-new-zealand-faces-weeks-of-political-uncertainty-as-election-remains-deadlocked-article-156481002",
-      "title_en": "‘Too Close To Call’: New Zealand Faces Weeks Of Political Uncertainty As Election Remains Deadlocked",
-      "title_zh": "“势均力敌”：选举仍陷入僵局，新西兰面临数周的政治不确定性",
-      "summary_en": "New Zealand is experiencing political instability after its November 7 election resulted in no clear winner. Preliminary results indicate that Prime Minister Christopher Luxon's National Party is the largest, potentially allowing it to continue governing with its coalition partners, ACT Party and New Zealand First. , World News, Times Now",
-      "summary_zh": "11 月 7 日的选举没有产生明显的获胜者后，新西兰正经历政治不稳定。初步结果表明，总理克里斯托弗·卢克森 (Christopher Luxon) 领导的国家党是最大的，这可能使其能够继续与其联盟伙伴行动党 (ACT Party) 和新西兰优先党 (New Zealand First) 一起执政。 , 世界新闻, 时代现在",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156481003,thumbsize-309634,width-1280,height-720,resizemode-75/156481003.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T04:58:38+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "a3e3a18a1a54c09f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqljwz"
     },
     {
       "id": "57b8ae3dc577e722",
@@ -5262,7 +5333,10 @@
       "source_region": "印度",
       "cluster_id": "57b8ae3dc577e722",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqgnmz"
     },
     {
       "id": "8ef4473d481aa1d9",
@@ -5287,7 +5361,10 @@
       "source_region": "印度",
       "cluster_id": "8ef4473d481aa1d9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xqfrbs"
     },
     {
       "id": "58be9e2e48303bc9",
@@ -5311,7 +5388,10 @@
       "source_region": "印度",
       "cluster_id": "58be9e2e48303bc9",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 33,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqenrm"
     },
     {
       "id": "fcd003a5b738809e",
@@ -5336,7 +5416,10 @@
       "source_region": "印度",
       "cluster_id": "fcd003a5b738809e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 7,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xqen2d"
     },
     {
       "id": "c5dbb1ec8c035b56",
@@ -5360,7 +5443,10 @@
       "source_region": "印度",
       "cluster_id": "c5dbb1ec8c035b56",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 350,
+      "reddit_comments": 30,
+      "reddit_id": "t3_1xqemok"
     },
     {
       "id": "040e7372a92575c1",
@@ -5385,7 +5471,10 @@
       "source_region": "印度",
       "cluster_id": "040e7372a92575c1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xqel6b"
     },
     {
       "id": "7dece834fae91673",
@@ -5409,7 +5498,10 @@
       "source_region": "印度",
       "cluster_id": "7dece834fae91673",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 59,
+      "reddit_comments": 37,
+      "reddit_id": "t3_1xqebdd"
     },
     {
       "id": "da4f2c1d2e4e4a54",
@@ -5458,7 +5550,10 @@
       "source_region": "印度",
       "cluster_id": "fe5d2744aa33311e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 33,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xqdixz"
     },
     {
       "id": "cff48df67f2cec48",
@@ -5483,7 +5578,10 @@
       "source_region": "印度",
       "cluster_id": "cff48df67f2cec48",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 11,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xqdaoy"
     },
     {
       "id": "a3212e3ca689146d",
@@ -5507,7 +5605,10 @@
       "source_region": "印度",
       "cluster_id": "a3212e3ca689146d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 12,
+      "reddit_id": "t3_1xqd4m3"
     },
     {
       "id": "cac32f492bee32f6",
@@ -5531,7 +5632,10 @@
       "source_region": "印度",
       "cluster_id": "7f8aab862392bfdb",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 17,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqcxul"
     },
     {
       "id": "3445c9d4b6b345c0",
@@ -5555,31 +5659,10 @@
       "source_region": "印度",
       "cluster_id": "3445c9d4b6b345c0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3e16b9c5dc3c9270",
-      "url": "https://www.timesnownews.com/sports/nba/man-arrested-at-lebron-james-residence-makes-bizarre-claim-about-being-his-son-article-156480511",
-      "title_en": "Man Arrested At LeBron James' Residence, Makes Bizarre Claim About Being His Son",
-      "title_zh": "男子在勒布朗·詹姆斯的住所被捕，奇怪地声称自己是他的儿子",
-      "summary_en": "A man was arrested outside LeBron James' Los Angeles home for stalking and allegedly claimed to be the NBA star's son., NBA, Times Now",
-      "summary_zh": "一名男子因跟踪勒布朗·詹姆斯在洛杉矶的家外被捕，据称他自称是这位 NBA 球星的儿子。, NBA, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156480562,thumbsize-911884,width-1280,height-720,resizemode-75/156480562.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-08T02:07:44+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "3e16b9c5dc3c9270",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 14,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqcutq"
     },
     {
       "id": "bd1f98e3c8279a8b",
@@ -5603,7 +5686,10 @@
       "source_region": "印度",
       "cluster_id": "bd1f98e3c8279a8b",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 265,
+      "reddit_comments": 27,
+      "reddit_id": "t3_1xqcq8k"
     },
     {
       "id": "544f0c9704532317",
@@ -5651,7 +5737,10 @@
       "source_region": "印度",
       "cluster_id": "f6767ce73afe8ad4",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xqc0h3"
     },
     {
       "id": "e792930022a998fe",
@@ -5699,7 +5788,10 @@
       "source_region": "印度",
       "cluster_id": "ac94e9bf4dbef8b5",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 5,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xqbyn4"
     },
     {
       "id": "ba8bd1c5fb0dd6ad",
@@ -5772,7 +5864,10 @@
       "source_region": "印度",
       "cluster_id": "5d493676013cb7e6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xqbg8u"
     },
     {
       "id": "229ad5d8c1b7546c",
@@ -5821,7 +5916,10 @@
       "source_region": "印度",
       "cluster_id": "3aaec68ba1a165ee",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 91,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xqberq"
     },
     {
       "id": "bbb6f89bf5a026e1",
@@ -5846,7 +5944,10 @@
       "source_region": "印度",
       "cluster_id": "bbb6f89bf5a026e1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 104,
+      "reddit_comments": 50,
+      "reddit_id": "t3_1xqb5fi"
     },
     {
       "id": "2b6fee74dfc24141",
@@ -5870,7 +5971,10 @@
       "source_region": "印度",
       "cluster_id": "2b6fee74dfc24141",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 34,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xqb1jy"
     },
     {
       "id": "00e4fd9a1752f0c6",
@@ -5895,7 +5999,10 @@
       "source_region": "印度",
       "cluster_id": "00e4fd9a1752f0c6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 129,
+      "reddit_comments": 12,
+      "reddit_id": "t3_1xqaz7l"
     },
     {
       "id": "17cebfe9d5fdf2e2",
@@ -5920,7 +6027,10 @@
       "source_region": "印度",
       "cluster_id": "17cebfe9d5fdf2e2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 21,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xqauga"
     },
     {
       "id": "5deae01940efe4f5",
@@ -5967,9 +6077,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "11c5af5bfb4c9a51",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     }
   ]
 }

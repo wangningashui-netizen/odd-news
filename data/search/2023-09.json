@@ -1,6 +1,6 @@
 {
   "month": "2023-09",
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "id": "a6045cd2475bfffe",
@@ -19,28 +19,6 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/alligator-ally-oops-phillies-fan-denied-entry-with-emotional-support-gator/articleshow/104043227.cms",
       "translation_status": "fallback",
       "cluster_id": "a6045cd2475bfffe",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": null,
-      "reddit_comments": null
-    },
-    {
-      "id": "60db02a0a57ff952",
-      "date": "2023-09-15",
-      "published_at": "2023-09-15T17:10:58+08:00",
-      "title_zh": "“获得卡拉奇站资格”：巴基斯坦退出亚洲杯引发memefest",
-      "title_en": "'Qualified for Karachi station': Pakistan's exit from Asia Cup sparks memefest",
-      "summary_zh": "斯里兰卡以两场比赛惊心动魄地击败巴基斯坦，进入亚洲杯决赛。由于降雨中断了比赛，巴基斯坦队设定了在 42 轮比赛中取得 252 分的目标。斯里兰卡的中流击球手表现异常出色，查里斯·阿萨兰卡以49分不败的成绩帮助他们在最后一球赢得了比赛。尽管缺少关键的投球手，斯里兰卡在比赛中再次证明了自己的实力。",
-      "summary_en": "Sri Lanka secured a thrilling two-wicket victory over Pakistan to reach the final of the Asia Cup. Pakistan set a target of 252 runs in 42 overs after rain interrupted the match. Sri Lanka's middle-order batsmen performed exceptionally well, with Charith Asalanka's unbeaten 49 helping them win the match on the last ball. Despite missing key bowlers, Sri Lanka has once again proven their strength in the tournament.",
-      "image": "https://static.toiimg.com/photo/msid-103750897,imgsize-47378.cms",
-      "source": "Times of India Viral News",
-      "region": "印度",
-      "tags": [
-        "其他"
-      ],
-      "url": "https://timesofindia.indiatimes.com/viral-news/qualified-for-karachi-station-pakistans-exit-from-asia-cup-sparks-memefest/articleshow/103687163.cms",
-      "translation_status": "fallback",
-      "cluster_id": "60db02a0a57ff952",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

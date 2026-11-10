@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "timezone": "Asia/Shanghai",
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "id": "64974357e9847699",
@@ -24,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "64974357e9847699",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "c5f4ffe18d2b3057",
-      "url": "https://indianexpress.com/article/trending/trending-globally/thailand-queen-suthida-gripen-fighter-jet-solo-flight-10915755/",
-      "title_en": "Watch: Thailand’s Queen Suthida’s first solo flight in fighter jet wows social media",
-      "title_zh": "观看：泰国王后苏提达首次单独驾驶战斗机飞行令社交媒体惊叹不已",
-      "summary_en": "Queen Suthida Bajrasudhabimalalakshana’s experience in aviation goes back more than a decade. She became a pilot in May 2010.",
-      "summary_zh": "苏蒂达·巴杰拉苏达比马拉拉克沙纳 (Suthida Bajrasudhabimalalakshana) 王后在航空领域的经验可以追溯到十多年前。她于2010年5月成为一名飞行员。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Thailand-Queen-Suthida-Gripen-fighter-jet.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-10T20:16:04+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "航空出行"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c5f4ffe18d2b3057",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -120,30 +96,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "b7cf117b971db267",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "e92c55e700f35193",
-      "url": "https://indianexpress.com/article/trending/trending-globally/navi-pillay-nobel-peace-prize-2026-donald-trump-joke-10915250/",
-      "title_en": "Nobel Peace Prize winner Navi Pillay jokes about sharing award with Trump: ‘Clap a little bit more’",
-      "title_zh": "诺贝尔和平奖获得者纳维·皮莱开玩笑说与特朗普分享奖项：“多鼓掌一点”",
-      "summary_en": "Navanethem ‘Navi’ Pillay admitted that she initially thought the Nobel award announcement was a joke. ‘Being a lawyer and a judge, I still want to verify this,’ she said.",
-      "summary_zh": "纳瓦尼特姆·“纳维”·皮莱承认，她最初认为诺贝尔奖的宣布是一个笑话。 “作为一名律师和法官，我仍然想验证这一点，”她说。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Navi-Pillay-Nobel-Peace-Prize-2026.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-10T14:21:44+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "e92c55e700f35193",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

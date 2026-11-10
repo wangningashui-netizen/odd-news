@@ -1,6 +1,6 @@
 {
   "month": "2024-01",
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "id": "63ecd3f77cd3a987",
@@ -42,29 +42,6 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/flyer-hits-indigo-pilot-announcing-flight-delay-due-to-dense-fog-conditions-video-goes-viral/articleshow/106851189.cms",
       "translation_status": "fallback",
       "cluster_id": "d5cf862a07ced80e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": null,
-      "reddit_comments": null
-    },
-    {
-      "id": "ddc1bfc9c65921e0",
-      "date": "2024-01-05",
-      "published_at": "2024-01-05T18:18:52+08:00",
-      "title_zh": "新西兰最年轻议员在议会发出本土“战争呐喊”，视频疯传",
-      "title_en": "New Zealand's youngest MP performs native 'war cry' in Parliament, video goes viral",
-      "summary_zh": "一段广为流传的视频展示了 21 岁的新西兰毛利裔议员、新西兰 170 年来最年轻的国会议员哈纳-拉维蒂·迈皮-克拉克 (Hana-Rawhiti Maipi-Clarke) 发表的富有影响力的演讲。 10 月当选后，她取代了受人尊敬的现任议员 Nanaia Mahuta，后者自 2008 年以来因代表豪拉基-怀卡托选区而闻名。 Maipi-Clarke 专注于倡导新西兰原住民社区的权利，并从她的祖父 Taitimu Maipi 那里汲取灵感。",
-      "summary_en": "A viral video showcases the impactful speech given by Hana-Rawhiti Maipi-Clarke, a 21-year-old Maori Member of Parliament in New Zealand and the country's youngest MP in 170 years. Elected in October, she unseated the respected incumbent Nanaia Mahuta, known for representing the Hauraki-Waikato seat since 2008. Maipi-Clarke focuses on advocating for the rights of New Zealand's indigenous communities and draws inspiration from her grandfather, Taitimu Maipi, a member of the Maori activist group Nga Tamatoa.",
-      "image": "https://static.toiimg.com/photo/msid-106573661,imgsize-31882.cms",
-      "source": "Times of India Viral News",
-      "region": "印度",
-      "tags": [
-        "奇人奇事",
-        "军事政治"
-      ],
-      "url": "https://timesofindia.indiatimes.com/viral-news/new-zealands-youngest-mp-performs-native-war-cry-in-parliament-video-goes-viral/articleshow/106572179.cms",
-      "translation_status": "fallback",
-      "cluster_id": "ddc1bfc9c65921e0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

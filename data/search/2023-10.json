@@ -1,6 +1,6 @@
 {
   "month": "2023-10",
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "id": "00ae9c18c79cfdc7",
@@ -19,30 +19,6 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/escaped-monkey-momo-captured-after-it-drinks-beer-and-runs-riot-in-indianapolis/articleshow/104208644.cms",
       "translation_status": "fallback",
       "cluster_id": "00ae9c18c79cfdc7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": null,
-      "reddit_comments": null
-    },
-    {
-      "id": "7952f707f3f8e2d3",
-      "date": "2023-10-05",
-      "published_at": "2023-10-05T19:44:34+08:00",
-      "title_zh": "动物走私：水獭、老鼠和28只海龟在曼谷飞往台北的航班上造成混乱",
-      "title_en": "Animal smuggling: Otter, rat and 28 turtles cause chaos on Bangkok to Taipei flight",
-      "summary_zh": "在从曼谷飞往台北的航班上，一名乘客的手提行李中发现了一只水獭和一只老鼠。乘客和机组人员对这一发现感到震惊，引起飞机上的恐慌。机组人员迅速控制了局势，随后在机场的一个集装箱中发现了这些动物。目前该事件正在调查中，怀疑是一名女乘客走私动物通过安检。",
-      "summary_en": "An otter and a rat were discovered stowed away in a passenger's hand luggage during a flight from Bangkok to Taipei. Passengers and crew members were shocked by the discovery, causing panic onboard the aircraft. The crew swiftly contained the situation and the animals were later found in a container at the airport. The incident is currently under investigation, with suspicions that a female passenger smuggled the animals through security checks.",
-      "image": "https://static.toiimg.com/photo/msid-104188793,imgsize-1093261.cms",
-      "source": "Times of India Viral News",
-      "region": "印度",
-      "tags": [
-        "航空出行",
-        "动物",
-        "科学发现"
-      ],
-      "url": "https://timesofindia.indiatimes.com/viral-news/animal-smuggling-otter-rat-and-28-turtles-cause-chaos-on-bangkok-to-taipei-flight/articleshow/104208771.cms",
-      "translation_status": "fallback",
-      "cluster_id": "7952f707f3f8e2d3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

@@ -6,6 +6,12 @@ and summaries share enough content words, character 3-grams, or a distinctive
 token plus a number. Generic words (india, viral, police, diwali) do not
 merge stories by themselves.
 
+Ongoing stories that share a topic signature use a longer window: Delhi air
+pollution (a place plus AQI, smog, GRAP, or pollution) spans 14 days, and
+the India lobbying / FARA filings span 10 days. A signature is not enough
+when the other story lacks it, so a September city-comparison piece does
+not join the November smog week, and "Farah" does not match "FARA".
+
 cluster_id is the id of the earliest item in the group, so it stays put as
 long as that item remains.
 """
@@ -16,6 +22,8 @@ import re
 from datetime import datetime
 
 WINDOW_DAYS = 3
+DELHI_AIR_WINDOW = 14
+LOBBY_WINDOW = 10
 # Tuned on the Nov 2026 corpus: E20/ethanol stories join; the 45 LPA job
 # story does not join the 37 LPA resignation; separate Diwali bonus videos
 # stay apart unless they share the Surat businessman details.
@@ -96,6 +104,41 @@ def _ethanol_story(text: str) -> bool:
     return "ethanol" in lowered or bool(re.search(r"\be[23]0\b", lowered))
 
 
+def story_text(item: dict) -> str:
+    return f"{item.get('title_en') or ''} {item.get('summary_en') or ''}"
+
+
+def topic_tags(text: str) -> set[str]:
+    """Shared labels for ongoing stories whose headlines barely overlap."""
+    lowered = (text or "").lower()
+    found: set[str] = set()
+    place = re.search(r"\b(?:delhi|ncr)\b", lowered)
+    event = re.search(
+        r"\b(?:aqi|smog|grap|pollution|polluted|stubble)\b|\bair quality\b|\btoxic air\b|\bpm\s?2\.5\b",
+        lowered,
+    )
+    if place and event:
+        found.add("delhi-air")
+    if re.search(r"\b(?:lobbying|lobbyist|lobbyists|fara)\b", lowered):
+        found.add("india-lobby")
+    return found
+
+
+def shared_topics(left: dict, right: dict) -> set[str]:
+    return topic_tags(story_text(left)) & topic_tags(story_text(right))
+
+
+def group_window(group: list[dict], item: dict) -> int:
+    tags = topic_tags(story_text(item))
+    for member in group:
+        tags &= topic_tags(story_text(member))
+    if "delhi-air" in tags:
+        return DELHI_AIR_WINDOW
+    if "india-lobby" in tags:
+        return LOBBY_WINDOW
+    return WINDOW_DAYS
+
+
 def ngrams(text: str, size: int = 3) -> set[str]:
     compact = re.sub(r"[^a-z0-9]+", "", (text or "").lower())
     if len(compact) < size:
@@ -112,6 +155,8 @@ def _jaccard(left: set[str], right: set[str]) -> float:
 def same_event(left: dict, right: dict) -> bool:
     left_text = f"{left.get('title_en') or ''} {left.get('summary_en') or ''}"
     right_text = f"{right.get('title_en') or ''} {right.get('summary_en') or ''}"
+    if shared_topics(left, right) & {"delhi-air", "india-lobby"}:
+        return True
     if _ethanol_story(left_text) and _ethanol_story(right_text):
         # "e20" and "ethanol" are the same fuel story only when the headlines
         # also share a concrete word such as petrol. Two headlines that both
@@ -150,15 +195,15 @@ def same_event(left: dict, right: dict) -> bool:
     return False
 
 
-def _span_ok(group: list[dict], item: dict) -> bool:
+def _span_ok(group: list[dict], item: dict, limit: int) -> bool:
     days = [_parse_day(member.get("published_at") or "") for member in group]
     item_day = _parse_day(item.get("published_at") or "")
-    known = [day for day in days if day] 
+    known = [day for day in days if day]
     if item_day:
         known.append(item_day)
     if len(known) < 2:
         return True
-    return (max(known) - min(known)).days <= WINDOW_DAYS
+    return (max(known) - min(known)).days <= limit
 
 
 def cluster_items(items: list[dict]) -> list[list[dict]]:
@@ -169,10 +214,11 @@ def cluster_items(items: list[dict]) -> list[list[dict]]:
         placed = False
         item_day = _parse_day(item.get("published_at") or "")
         for group in groups:
+            limit = group_window(group, item)
             newest = _parse_day(group[-1].get("published_at") or "")
-            if item_day and newest and (item_day - newest).days > WINDOW_DAYS:
+            if item_day and newest and (item_day - newest).days > limit:
                 continue
-            if not _span_ok(group, item):
+            if not _span_ok(group, item, limit):
                 continue
             if all(same_event(item, member) for member in group):
                 group.append(item)

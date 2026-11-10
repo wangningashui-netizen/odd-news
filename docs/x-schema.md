@@ -39,6 +39,7 @@
 | `title_zh` | string | 中文标题 |
 | `summary_zh` | string | 中文概要。可以和标题相同，也可以更长 |
 | `tags` | string[] | 1 到 3 个，必须是站点已有标签。不在列表里的会被丢掉；一个都不留时，入库脚本用关键词规则补 |
+| `angle` | string | 可选。`官方` / `official`，或 `离谱` / `oddity`。不写时，入库脚本用 `data/x/targets.json` 推断：作者在已核实账号里，或正文命中关键词，就是 `官方`，否则是 `离谱`。旧收件箱没有这个字段也合法 |
 | `replies` | object[] | 见下方。没有就 `[]` |
 
 `public_metrics` 使用这些键（回复也用同一套）：
@@ -148,6 +149,9 @@
 - `x.photos` 图片
 - `x.video_thumbnail` 封面
 - `x.comments_image` 评论长图 PNG
+- `x.comments_image_note` 说明这张图是按真实回复渲染的，不是 X 截图
+- `x.replies_omitted` 渲染前去掉的回复条数
+- `x.angle` `官方` 或 `离谱`。`x.angle_source` 是 `inbox`（收件箱写了）或 `inferred`（按 targets 推断）
 - `x.video_url` 直链，会过期；`x.video_url_note` 写明这一点
 - `x.post_url` 原帖
 - `x.ytdlp_command` 形如 `yt-dlp https://x.com/.../status/...`
@@ -155,3 +159,17 @@
 - `x.video_url_resolved_at` 上次解析时间
 
 每天 07:00（北京时间）的抓取会把最近 7 天 X 条目的 `video_url` 再用 `yt-dlp -g` 解析一次。
+
+## 收集目标
+
+关键词和账号只写在 `data/x/targets.json`。仓库外的收集任务读这个文件，本仓库的 Actions 不抓 X。`accounts` 里 `verified: true` 的句柄核过公开资料；`unverified` 里的先不要抓。
+
+## 评论过滤
+
+渲染评论长图之前会丢掉这些回复（收集端可以先滤一遍，渲染端仍会再滤）：
+
+- 贬损国籍、民族、宗教或种姓，包括用谐音、符号拆开的写法
+- 针对这些群体的辱骂
+- 拿一整群人开玩笑的刻板印象，例如「印度人一看到飞机就以为是妖怪」「as India would tell it, the sneaky plane」
+
+留下来的是具体的、好笑但不指向族群的回复，例如把大鼠叫成 Splinter，或问一个尺寸。只骂某一个账号、某一家媒体，不算这条规则。规则写在 `scripts/reply_filter.py`。页面上的说明是「根据真实回复渲染，不是截图」。

@@ -181,14 +181,15 @@ button:disabled {
 
 .filters {
   display: grid;
-  grid-template-columns: 1.4fr 0.7fr 0.5fr;
+  grid-template-columns: 1.4fr 0.7fr 0.45fr 0.55fr;
   gap: 10px;
   padding-top: 8px;
 }
 
 .search input,
 .source-filter select,
-.sort-filter select {
+.sort-filter select,
+.angle-filter select {
   width: 100%;
   min-height: 44px;
   border-radius: 12px;
@@ -353,6 +354,8 @@ button:disabled {
 .badge.region[data-region="爱尔兰"] { background: rgba(40, 120, 80, 0.14); }
 .badge.warn { color: var(--warn); }
 .badge.ok { color: var(--ok); }
+.badge.angle-official { background: rgba(157, 44, 44, 0.14); }
+.badge.angle-oddity { background: rgba(36, 84, 150, 0.12); }
 
 .meta time { margin-left: auto; }
 

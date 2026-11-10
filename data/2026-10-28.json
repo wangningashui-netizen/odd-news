@@ -1,32 +1,8 @@
 {
   "date": "2026-10-28",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 2,
   "items": [
-    {
-      "id": "674a3cdade6bbe09",
-      "url": "https://indianexpress.com/article/trending/trending-globally/obstacle-course-racing-champion-crosses-south-africas-highest-bridge-on-600-monkey-bars-10940086/",
-      "title_en": "Obstacle course racing champion crosses South Africa’s highest bridge on 600 monkey bars",
-      "title_zh": "障碍赛冠军跨越 600 个猴栏跨越南非最高的桥梁",
-      "summary_en": "South African OCR world champion Thomas van Tonder conquers a world-first challenge, crossing the 280-meter arch of Bloukrans Bridge on 600 monkey bars in 47 minutes.",
-      "summary_zh": "南非 OCR 世界冠军 Thomas van Tonder 征服了世界首个挑战，在 47 分钟内跨越 600 个猴栏，穿过 280 米长的 Bloukrans 桥拱门。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/South-African-OCR-world-champion-Thomas-van-Tonder-conquers-a-world-first-challenge-crossing-the-280-meter-arch-of-Bloukrans-Bridge-on-600-monkey-bars-in-47-minutes.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-28T19:41:47+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "674a3cdade6bbe09",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "de8a33b6de4e683d",
       "url": "https://indianexpress.com/article/trending/trending-in-india/kachori-in-hand-rs-20-lakh-gone-jaipur-businessman-chases-thieves-in-viral-video-10940002/",

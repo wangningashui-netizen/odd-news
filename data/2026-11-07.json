@@ -1,32 +1,8 @@
 {
   "date": "2026-11-07",
   "timezone": "Asia/Shanghai",
-  "count": 178,
+  "count": 158,
   "items": [
-    {
-      "id": "86ec94da8fba184d",
-      "url": "https://www.republicworld.com/world-news/gunman-opens-fire-in-polish-city-of-krakow-killing-5-people-and-injuring-at-least-12-2026-11-07-140631",
-      "title_en": "Poland Mass Shooting: 6 Killed, 15 Injured as Gunman Opens Fire in Krakow's Busy Main Square",
-      "title_zh": "波兰大规模枪击事件：枪手在克拉科夫繁忙的主广场开枪，造成 6 人死亡、15 人受伤",
-      "summary_en": "Six people were killed and 15 wounded after a gunman opened fire in Krakow&#39;s busy Main Square in Poland. Police said the Polish citizen acted alone and was shot during a confrontation. Investigators recovered multiple weapons and ammunition from his car. Police said the public was safe.",
-      "summary_zh": "一名枪手在波兰克拉科夫繁忙的主广场开枪，造成 6 人死亡、15 人受伤。警方称，这名波兰公民单独行动，并在冲突中被枪杀。调查人员从他的车里找到了多件武器和弹药。警方称公众安全。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say-1794066758032-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T23:52:43+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "86ec94da8fba184d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "181765e5e48e5881",
       "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayana-deleted-viral-scene-rama-rescues-sita-lakshman-wolves-fans-internet-reaction-article-156479820",
@@ -73,31 +49,10 @@
       "source_region": "印度",
       "cluster_id": "1802842c4ad4dcce",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6f1eccc091e106e7",
-      "url": "https://www.hindustantimes.com/trending/malaysian-man-jailed-for-stealing-rolex-jewellery-from-drunk-men-in-singapore-continued-thefts-while-on-bail-101794064241936.html",
-      "title_en": "Malaysian man jailed for stealing Rolex, jewellery from drunk men in Singapore, continued thefts while on bail",
-      "title_zh": "马来西亚男子因新加坡醉酒男子盗窃劳力士珠宝入狱，保释期间继续盗窃",
-      "summary_en": "A Malaysian man was jailed for a year in Singapore after stealing expensive watches, jewellery and phones from intoxicated strangers.",
-      "summary_zh": "一名马来西亚男子因从醉酒的陌生人那里偷走昂贵的手表、珠宝和手机而在新加坡被判入狱一年。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Late-Night_Bus_Stop_Encounter_1794065088332_Znog_1794065095928_vMbq_7a59a894-7651-4f82-8ce2-5da617f0e026_Ybpz.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "印度",
-      "published_at": "2026-11-07T23:26:16+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "6f1eccc091e106e7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xq8zo9"
     },
     {
       "id": "33b1a53e9939f25b",
@@ -122,7 +77,10 @@
       "source_region": "印度",
       "cluster_id": "33b1a53e9939f25b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xq8rb6"
     },
     {
       "id": "c8c9332ad32915ad",
@@ -146,7 +104,10 @@
       "source_region": "印度",
       "cluster_id": "c8c9332ad32915ad",
       "cluster_item_count": 3,
-      "cluster_source_count": 3
+      "cluster_source_count": 3,
+      "reddit_score": 0,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xq8jxg"
     },
     {
       "id": "7a533aa897e07f92",
@@ -170,7 +131,10 @@
       "source_region": "印度",
       "cluster_id": "f73c756ae3e8ef95",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 773,
+      "reddit_comments": 27,
+      "reddit_id": "t3_1xq8irf"
     },
     {
       "id": "9155b73fd402825a",
@@ -193,33 +157,12 @@
       "tag_source": "rules",
       "page_attempts": 2,
       "source_region": "印度",
-      "cluster_id": "9155b73fd402825a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "1ae6b94136257f34",
-      "url": "https://www.republicworld.com/world-news/us-centcom-establishes-task-force-iron-gate-to-disrupt-iranian-ground-transit-routes-curb-illegal-shipments-2026-11-07-140628",
-      "title_en": "US CENTCOM Establishes Task Force 'Iron Gate' to Disrupt Iranian Ground Transit Routes, Curb Illegal Shipments",
-      "title_zh": "美国中央司令部成立“铁门”特遣部队以扰乱伊朗地面运输路线，遏制非法运输",
-      "summary_en": "US CENTCOM has established Task Force Iron Gate to disrupt Iran&#39;s alleged weapons shipments and sanctioned trade through land borders and the Caspian Sea, tightening pressure on Tehran.",
-      "summary_zh": "美国中央司令部成立了铁门特遣部队，以破坏伊朗所谓的武器运输，并制裁通过陆地边界和里海的贸易，加大了对德黑兰的压力。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/08/us-forces-redirect-70-vessels-disable-3-board-2-during-iran-blockade-centcom-1787537537275-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T22:43:56+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "1ae6b94136257f34",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 55,
+      "reddit_comments": 52,
+      "reddit_id": "t3_1xq89by"
     },
     {
       "id": "f743037a086739a6",
@@ -244,7 +187,10 @@
       "source_region": "印度",
       "cluster_id": "f743037a086739a6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xq7zcf"
     },
     {
       "id": "24b276bfa9eed24a",
@@ -268,7 +214,10 @@
       "source_region": "印度",
       "cluster_id": "24b276bfa9eed24a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 14,
+      "reddit_comments": 23,
+      "reddit_id": "t3_1xq7wg7"
     },
     {
       "id": "d28090363c258f74",
@@ -293,7 +242,10 @@
       "source_region": "印度",
       "cluster_id": "d28090363c258f74",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xq7vcc"
     },
     {
       "id": "f73c756ae3e8ef95",
@@ -345,7 +297,10 @@
       "source_region": "印度",
       "cluster_id": "6b8b9643c17059c2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xq7tkz"
     },
     {
       "id": "3d1c65c82f404907",
@@ -369,8 +324,11 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "3d1c65c82f404907",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 3,
+      "cluster_source_count": 1,
+      "reddit_score": 13,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xshbht"
     },
     {
       "id": "d3c374bd1f2feedc",
@@ -394,7 +352,10 @@
       "source_region": "印度",
       "cluster_id": "d3c374bd1f2feedc",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 141,
+      "reddit_comments": 43,
+      "reddit_id": "t3_1xq7mvd"
     },
     {
       "id": "60e9cb15d586f15b",
@@ -443,7 +404,10 @@
       "source_region": "印度",
       "cluster_id": "c72145adcd03a15e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 66,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xq7l1y"
     },
     {
       "id": "1e95516acfb7c711",
@@ -495,7 +459,10 @@
       "source_region": "印度",
       "cluster_id": "f070780f56a78c7e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xq7bcj"
     },
     {
       "id": "256997cc393795ba",
@@ -519,7 +486,10 @@
       "source_region": "印度",
       "cluster_id": "256997cc393795ba",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 89,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xq7ab3"
     },
     {
       "id": "7f8aab862392bfdb",
@@ -543,7 +513,10 @@
       "source_region": "印度",
       "cluster_id": "7f8aab862392bfdb",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xq743d"
     },
     {
       "id": "f34088642368feea",
@@ -592,7 +565,10 @@
       "source_region": "印度",
       "cluster_id": "3944a32890e03de5",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 17,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xq70ks"
     },
     {
       "id": "ad800038a0a9b246",
@@ -640,7 +616,10 @@
       "source_region": "印度",
       "cluster_id": "6ae8113ddd0f021a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 31,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xq6wbx"
     },
     {
       "id": "bf966448c7822a1e",
@@ -665,7 +644,10 @@
       "source_region": "印度",
       "cluster_id": "bf966448c7822a1e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 141,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xq6po4"
     },
     {
       "id": "284a2478ec65c0cd",
@@ -689,7 +671,10 @@
       "source_region": "印度",
       "cluster_id": "284a2478ec65c0cd",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 9,
+      "reddit_id": "t3_1xq6ken"
     },
     {
       "id": "7df505eef32126e6",
@@ -713,7 +698,10 @@
       "source_region": "印度",
       "cluster_id": "7df505eef32126e6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 42,
+      "reddit_comments": 32,
+      "reddit_id": "t3_1xq6crg"
     },
     {
       "id": "954e26ab3be0cdf2",
@@ -737,7 +725,10 @@
       "source_region": "印度",
       "cluster_id": "954e26ab3be0cdf2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xq6a5j"
     },
     {
       "id": "e10f558afd7942e8",
@@ -786,7 +777,10 @@
       "source_region": "印度",
       "cluster_id": "2dac34caf1ef55df",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 5,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xq675l"
     },
     {
       "id": "4296f978549ee1f6",
@@ -836,7 +830,10 @@
       "source_region": "印度",
       "cluster_id": "d3514d3f64bb4713",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 13,
+      "reddit_id": "t3_1xq5nxl"
     },
     {
       "id": "cf9410b1999ee52e",
@@ -887,31 +884,10 @@
       "source_region": "印度",
       "cluster_id": "d8bb096893e8e9b1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "89935cb40f37dcb3",
-      "url": "https://www.hindustantimes.com/trending/argentina-launches-public-recruitment-for-spies-receives-over-40-000-applications-in-one-day-101794054506756.html",
-      "title_en": "Argentina launches public recruitment for spies, receives over 40,000 applications in one day",
-      "title_zh": "阿根廷公开招募间谍 一天收到超4万份申请",
-      "summary_en": "Argentina's intelligence agency received over 40,000 applications in 24 hours after launching its first public recruitment drive.",
-      "summary_zh": "阿根廷情报机构在启动首次公开招聘活动后 24 小时内收到了 4 万多份申请。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/reeeeeeefb_1794055070110_rYZ3_1794055075086_eAUH_83ace74e-46d1-4f0b-bdb5-66ba8de7e7fd_WVpb.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "印度",
-      "published_at": "2026-11-07T20:41:53+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "89935cb40f37dcb3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 5,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xq5hzc"
     },
     {
       "id": "d70e2941e34bcdc5",
@@ -1013,7 +989,10 @@
       "source_region": "印度",
       "cluster_id": "418cf01f6475b6e4",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xq5anu"
     },
     {
       "id": "a5486801aa7747cc",
@@ -1240,7 +1219,11 @@
             "in_reply_to_id": "2119041751449248172"
           }
         ],
-        "content_sha": "0261fba3c6f803652087de0f1d061fcac4e8af3f"
+        "content_sha": "0261fba3c6f803652087de0f1d061fcac4e8af3f",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "a5486801aa7747cc",
       "cluster_item_count": 1,
@@ -1317,31 +1300,10 @@
       "source_region": "印度",
       "cluster_id": "6746d6e292b0f02e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6c88224462ee3bd3",
-      "url": "https://www.republicworld.com/global-news/iran-lifts-self-imposed-2000-km-missile-range-limit-amid-fears-of-renewed-war-with-us-and-israel-2026-11-07-140615",
-      "title_en": "Iran Lifts Self-Imposed 2,000-Km Missile Range Limit Amid Fears of Renewed War With US And Israel",
-      "title_zh": "由于担心与美国和以色列重新爆发战争，伊朗取消了自行设定的 2000 公里导弹射程限制",
-      "summary_en": "Iran&#39;s Revolutionary Guard says Tehran has lifted its self-imposed 2,000-km ballistic missile range limit amid fears of renewed war with the US and Israel, raising concerns over regional secu",
-      "summary_zh": "伊朗革命卫队表示，由于担心与美国和以色列重新爆发战争，德黑兰已经取消了自行设定的2000公里弹道导弹射程限制，引发了对地区安全的担忧",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/03/irgc-unleashes-27th-wave-of-operation-true-promise-4-with-new-solid-fuel-missiles-against-us-and-israeli-targets-1772938978788-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T19:49:10+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "6c88224462ee3bd3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xq4je8"
     },
     {
       "id": "c916bf6a0b757c61",
@@ -1366,7 +1328,10 @@
       "source_region": "印度",
       "cluster_id": "c916bf6a0b757c61",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 312,
+      "reddit_comments": 113,
+      "reddit_id": "t3_1xq4hh7"
     },
     {
       "id": "cd04c476201bd99a",
@@ -1441,7 +1406,10 @@
       "source_region": "印度",
       "cluster_id": "b18c418d85d5486e",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 111,
+      "reddit_comments": 28,
+      "reddit_id": "t3_1xq4f44"
     },
     {
       "id": "a5cb8d018c982f5f",
@@ -1490,7 +1458,10 @@
       "source_region": "印度",
       "cluster_id": "39c0bd0cf82a7f78",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 39,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xq4841"
     },
     {
       "id": "b2f9ae0ae5da30ba",
@@ -1515,7 +1486,10 @@
       "source_region": "印度",
       "cluster_id": "b2f9ae0ae5da30ba",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 27,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xq41km"
     },
     {
       "id": "62acc29aae926754",
@@ -1564,7 +1538,10 @@
       "source_region": "印度",
       "cluster_id": "f56c71d89243da78",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 133,
+      "reddit_comments": 10,
+      "reddit_id": "t3_1xq3z6u"
     },
     {
       "id": "81cfff14dfe2a677",
@@ -1662,7 +1639,10 @@
       "source_region": "印度",
       "cluster_id": "6f13be39c0bd5df4",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 15,
+      "reddit_id": "t3_1xq3p22"
     },
     {
       "id": "8b08c843a2e6e15c",
@@ -1735,7 +1715,10 @@
       "source_region": "印度",
       "cluster_id": "c51b9600e573beb2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 13,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xshbht"
     },
     {
       "id": "d4768e28d2fe7832",
@@ -1759,30 +1742,6 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "d4768e28d2fe7832",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0fbacaf93fdcbf06",
-      "url": "https://www.timesnownews.com/world/us/us-news/small-potatoes-to-not-a-war-trump-again-downplays-iran-conflict-says-us-taking-out-more-oil-article-156479145",
-      "title_en": "'Small Potatoes' To 'Not A War': Trump Again Downplays Iran Conflict, Says US 'Taking Out More Oil'",
-      "title_zh": "从“小土豆”到“不是战争”：特朗普再次淡化伊朗冲突，称美国“拿出更多石油”",
-      "summary_en": "US President Donald Trump has dismissed the Iran confrontation as a war, calling it a minor military operation, even as fears of renewed US strikes pushed crude prices higher., US News, Times Now",
-      "summary_zh": "美国总统唐纳德·特朗普将伊朗对抗视为一场战争，称其为一次小型军事行动，尽管对美国再次发动袭击的担忧推高了原油价格。, 美国新闻, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156479156,thumbsize-1334261,width-1280,height-720,resizemode-75/156479156.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T18:29:01+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "0fbacaf93fdcbf06",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1937,30 +1896,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "6a7485ee1423fa3b",
-      "url": "https://www.hindustantimes.com/trending/apples-autocomplete-restrictions-include-dictator-trump-and-sleepy-joe-researcher-finds-101794044581299.html",
-      "title_en": "Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",
-      "title_zh": "研究人员发现，苹果的自动填充限制包括“独裁者特朗普”和“瞌睡乔”",
-      "summary_en": "A researcher uncovered a multilingual list of words and phrases Apple’s iPhone keyboard will not suggest through autocomplete or swipe-typing.",
-      "summary_zh": "一位研究人员发现了苹果 iPhone 键盘不会通过自动完成或滑动输入提示的多语言单词和短语列表。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Untitled_design_1794045236873_Fj7I_1794045240108_CYs4_2d293ed1-dc21-40d8-a623-9c1a17b0269f_z8i0.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "印度",
-      "published_at": "2026-11-07T17:55:10+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "6a7485ee1423fa3b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "0d7eb250740e6463",
       "url": "https://www.reddit.com/r/india/comments/1xq2g9h/spains_transport_minister_resigns_six_days_after/",
       "title_en": "Spain's Transport Minister resigns six days after a train crash. India isn't behind on accountability, we're just running a little late. Accountability expected by 2047!",
@@ -1985,7 +1920,10 @@
       "source_region": "印度",
       "cluster_id": "0d7eb250740e6463",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 81,
+      "reddit_comments": 17,
+      "reddit_id": "t3_1xq2g9h"
     },
     {
       "id": "b3d347236727791c",
@@ -2158,7 +2096,10 @@
       "source_region": "印度",
       "cluster_id": "5d6337c21e95590d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1318,
+      "reddit_comments": 31,
+      "reddit_id": "t3_1xq1zrm"
     },
     {
       "id": "ce7b4f61cd4408b8",
@@ -2289,31 +2230,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "eb891d530131298e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7ba4bdd32b5f0026",
-      "url": "https://www.republicworld.com/world-news/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran-2026-11-07-140608",
-      "title_en": "'Nobody Hurt or Killed in 5 Months': Trump Says US is Not at War with Iran",
-      "title_zh": "“5个月内没有人受伤或死亡”：特朗普表示美国没有与伊朗交战",
-      "summary_en": "These assertions come amid persistent ambiguity regarding the trajectory of the US military campaign targeting Iran, alongside ongoing deliberations concerning fresh air strikes.",
-      "summary_zh": "这些断言是在美国针对伊朗的军事行动轨迹持续模糊以及有关新的空袭的持续审议之际提出的。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/us-forces-ready-for-major-strikes-on-iran-within-96-hours-of-trump-s-order-report-1793004969804-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T16:39:43+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "7ba4bdd32b5f0026",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2949,7 +2865,11 @@
             "in_reply_to_id": "2118984802179092499"
           }
         ],
-        "content_sha": "d977d9310261f4738aa5ceb36c7174feaaa92734"
+        "content_sha": "d977d9310261f4738aa5ceb36c7174feaaa92734",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "5b42ba3469891e47",
       "cluster_item_count": 1,
@@ -3051,7 +2971,10 @@
       "source_region": "印度",
       "cluster_id": "725ec362ac815301",
       "cluster_item_count": 10,
-      "cluster_source_count": 3
+      "cluster_source_count": 3,
+      "reddit_score": 494,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xq19bp"
     },
     {
       "id": "14cf2d34b099800d",
@@ -3171,9 +3094,12 @@
       "tag_source": "rules",
       "page_attempts": 2,
       "source_region": "印度",
-      "cluster_id": "b8e42c24ea72db9b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 201,
+      "reddit_comments": 8,
+      "reddit_id": "t3_1xq0m3w"
     },
     {
       "id": "aca692213cd1b919",
@@ -3223,7 +3149,10 @@
       "source_region": "印度",
       "cluster_id": "433055a229a5e9d9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 24,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xq0fv7"
     },
     {
       "id": "f56c71d89243da78",
@@ -3247,7 +3176,10 @@
       "source_region": "印度",
       "cluster_id": "f56c71d89243da78",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 402,
+      "reddit_comments": 37,
+      "reddit_id": "t3_1xq03q8"
     },
     {
       "id": "f71f8a32a32bd5da",
@@ -3548,7 +3480,10 @@
       "source_region": "印度",
       "cluster_id": "ef3a718645b10961",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 342,
+      "reddit_comments": 21,
+      "reddit_id": "t3_1xpybif"
     },
     {
       "id": "c26b889b4366db80",
@@ -3669,7 +3604,10 @@
       "source_region": "印度",
       "cluster_id": "5504f9edba7d108a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 83,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xpxquz"
     },
     {
       "id": "e0eb37396164e698",
@@ -3720,31 +3658,6 @@
       "cluster_source_count": 3
     },
     {
-      "id": "ff545599a67ce7b2",
-      "url": "https://www.hindustantimes.com/trending/giant-3-9-kg-prehistoric-bird-related-to-modern-chickens-identified-in-indonesian-cave-101794022122617.html",
-      "title_en": "Giant 3.9-kg prehistoric bird related to modern chickens identified in Indonesian cave",
-      "title_zh": "印度尼西亚洞穴中发现与现代鸡有亲缘关系的巨型史前鸟类，重3.9公斤",
-      "summary_en": "A fossil found in an Indonesian cave known for its ancient ‘hobbit’ remains has revealed a previously unknown bird species.",
-      "summary_zh": "在印度尼西亚一个以其古代“霍比特人”遗骸而闻名的洞穴中发现的化石揭示了一种以前未知的鸟类物种。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/bdekrhflef_1794022555468_klTJ_1794022555597_wmgp_1e7a9397-c779-41d1-ad1d-08b6c5385108_iTtV.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "印度",
-      "published_at": "2026-11-07T12:38:45+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现",
-        "历史考古"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "ff545599a67ce7b2",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "8b529fb59055af55",
       "url": "https://www.news18.com/viral/indian-tourists-organise-bhandara-at-vietnam-airport-internet-says-poore-duniya-mai-desh-ko-badnaam-karo-ws-l-10416449.html",
       "title_en": "Indian Tourists Organise 'Bhandara' At Vietnam Airport; Internet Says 'Poore Duniya Mai Desh Ko Badnaam Kar",
@@ -3791,7 +3704,10 @@
       "source_region": "印度",
       "cluster_id": "0ffa94e4d4a7f398",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 489,
+      "reddit_comments": 13,
+      "reddit_id": "t3_1xpxc3s"
     },
     {
       "id": "aae76e78c6160ffe",
@@ -3837,9 +3753,12 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "4abecd0d68113971",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 236,
+      "reddit_comments": 36,
+      "reddit_id": "t3_1xpwx67"
     },
     {
       "id": "c814dc19dfaa342e",
@@ -3862,9 +3781,12 @@
       "tag_source": "rules",
       "page_fetched": true,
       "source_region": "印度",
-      "cluster_id": "c814dc19dfaa342e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 13,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xshbht"
     },
     {
       "id": "b531c2013e530eba",
@@ -3890,30 +3812,6 @@
       "cluster_id": "b531c2013e530eba",
       "cluster_item_count": 3,
       "cluster_source_count": 3
-    },
-    {
-      "id": "55eab9d19a0ae84c",
-      "url": "https://www.republicworld.com/world-news/can-t-wait-for-perfect-moment-qatari-pm-urges-us-iran-peace-deal-as-trump-confirms-talks-says-doing-well-2026-11-07-140599",
-      "title_en": "'Can't Wait for Perfect Moment': Qatari PM Urges US-Iran Peace Deal as Trump Confirms Talks; Says 'Doing Well'",
-      "title_zh": "“等不及完美时刻”：特朗普确认会谈，卡塔尔总理敦促美伊达成和平协议；说“干得好”",
-      "summary_en": "The remarks come after Trump indicated that he would rather not destroy what remains of Iran but acknowledged that he may have to, adopting a more hesitant line than his previous threats against Tehran following his Republican Party&#39;s setback in the US midterm elections.",
-      "summary_zh": "在此之前，特朗普表示他宁愿不摧毁伊朗的残余势力，但也承认他可能不得不这样做，在共和党在美国中期选举中受挫后，他对德黑兰的威胁采取了比之前更加犹豫的路线。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/06/us-iran-deal-latest-news-1781625655436-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T11:33:18+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "55eab9d19a0ae84c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "8daa3377a8d3a796",
@@ -3942,30 +3840,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "c0435883766804da",
-      "url": "https://www.republicworld.com/world-news/us-offers-20-million-reward-for-information-on-iran-s-nuclear-programme-2026-11-07-140598",
-      "title_en": "US Offers $20 Million Reward for Information on 'Iran's Nuclear Programme'",
-      "title_zh": "美国悬赏2000万美元征集“伊朗核计划”信息",
-      "summary_en": "The initiative was originally founded in 1984 under the national security rewards programme managed by the State Department to provide financial incentives for intelligence that safeguards American lives and interests.",
-      "summary_zh": "该计划最初于 1984 年根据国务院管理的国家安全奖励计划创立，旨在为维护美国人生命和利益的情报提供经济激励。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/us-imposes-fresh-iran-sanctions-targets-27-companies-six-individuals-and-22-vessels-1791521228675-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T11:29:54+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c0435883766804da",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "259e9d20b3e7b3f1",
       "url": "https://www.thehindu.com/news/national/time-has-come-to-reclaim-noakhali-chittagong-and-sylhet-nishikant-dubey/article71675791.ece",
       "title_en": "Time has come to ‘reclaim’ Noakhali, Chittagong and Sylhet: Nishikant Dubey",
@@ -3987,31 +3861,10 @@
       "source_region": "印度",
       "cluster_id": "259e9d20b3e7b3f1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f03b54d0e7ae5043",
-      "url": "https://www.republicworld.com/world-news/zelenskyy-warns-against-russia-europe-security-deal-says-it-could-be-dangerous-for-eu-2026-11-07-140596",
-      "title_en": "Zelenskyy Warns Against Russia-Europe Security Deal, Says It Could Be 'Dangerous' for EU",
-      "title_zh": "泽伦斯基警告俄罗斯与欧洲安全协议，称这对欧盟可能“危险”",
-      "summary_en": "Pointing out that Ukraine is neither a member of the European Union nor NATO, although it is seeking EU membership, Zelenskyy said any arrangement affecting European security would have implications for all countries in the region.",
-      "summary_zh": "泽连斯基指出，乌克兰虽然正在寻求加入欧盟，但既不是欧盟也不是北约成员，任何影响欧洲安全的安排都会对该地区所有国家产生影响。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/russias-new-doctrine-targets-civilian-sites-in-ukraine-says-zelenskyy-1791098101306-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T11:22:30+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f03b54d0e7ae5043",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 27,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xpwc2z"
     },
     {
       "id": "8028ad6ee425ce1e",
@@ -4034,30 +3887,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "8028ad6ee425ce1e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "14ca846528c6894d",
-      "url": "https://www.republicworld.com/world-news/us-military-carries-out-new-targeted-strikes-on-iran-as-tehran-s-leaders-weigh-mediator-s-proposals-2026-11-07-140595",
-      "title_en": "US Military Carries Out New Targeted Strikes on Iran as Tehran's Leaders Weigh Mediator's Proposals",
-      "title_zh": "德黑兰领导人权衡调解人的提议，美国军方对伊朗进行新的有针对性的打击",
-      "summary_en": "Defense Secretary Pete Hegseth spoke on Friday with his Qatari counterpart, Sheikh Saoud bin Abdulrahman Al Thani, about developments, according to the Qatari government.",
-      "summary_zh": "据卡塔尔政府称，国防部长皮特·赫格斯周五与卡塔尔国防部长谢赫·萨乌德·本·阿卜杜勒拉赫曼·阿勒萨尼就事态发展进行了交谈。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/big-beautiful-agreement-trump-expresses-confidence-in-russia-ukraine-peace-deal-says-agreement-could-involve-all-of-europe-1793930060049-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T11:12:27+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "14ca846528c6894d",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4107,7 +3936,10 @@
       "source_region": "印度",
       "cluster_id": "f002b66e5c5bc8ae",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 557,
+      "reddit_comments": 15,
+      "reddit_id": "t3_1xpvmdk"
     },
     {
       "id": "f28674f1de24192d",
@@ -4130,33 +3962,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "f28674f1de24192d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d7d28ddab97c4aa5",
-      "url": "https://www.timesnownews.com/world/middle-east/united-states-announces-usd-20-million-reward-for-iran-nuclear-intel-as-donald-trump-weighs-deal-or-all-out-war-after-midterm-loss-article-156477186",
-      "title_en": "US Announces $20M Reward For Iran Nuke Intel As Trump Weighs Deal Or All-Out War",
-      "title_zh": "特朗普权衡交易还是全面战争，美国宣布悬赏 2000 万美元奖励伊朗核情报",
-      "summary_en": "The US Central Command declared a reward of up to $20 million for information regarding Iran's nuclear program on Friday., Middle East, Times Now",
-      "summary_zh": "美国中央司令部周五宣布悬赏高达 2000 万美元，以征集有关伊朗核计划的信息。, 中东, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156477185,thumbsize-224752,width-1280,height-720,resizemode-75/156477185.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T10:44:11+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "d7d28ddab97c4aa5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "0cc2fb947c1f5a29",
@@ -4259,30 +4067,6 @@
       "cluster_source_count": 3
     },
     {
-      "id": "ef1a3e4245b9cca1",
-      "url": "https://www.republicworld.com/global-news/trump-declares-he-alone-prevented-iran-from-wiping-out-israel-and-the-middle-east-2026-11-07-140587",
-      "title_en": "Trump Declares He Alone Prevented Iran From Wiping Out Israel And The Middle East",
-      "title_zh": "特朗普宣称他独自阻止了伊朗消灭以色列和中东",
-      "summary_en": "Donald Trump claims Israel and the Middle East would not exist if he had not stopped Iran from getting a nuclear weapon, as he weighs resuming strikes while CENTCOM finalises preparations.",
-      "summary_zh": "唐纳德·特朗普声称，如果他没有阻止伊朗获得核武器，以色列和中东就不会存在，他在中央司令部完成准备工作时考虑恢复打击。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/imresizer-resizecompress-ap26305782942875-1793784551350-file_16_9-1794011270556.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T08:27:52+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "ef1a3e4245b9cca1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "03d7d67ebb241109",
       "url": "https://www.deccanherald.com/amp/story/india/gujarat/journalist-ravi-nair-moves-gujarat-high-court-for-anticipatory-bail-judge-recuses-self-from-hearing-4210244",
       "title_en": "Journalist Ravi Nair moves Gujarat High Court for anticipatory bail, judge recuses self from hearing",
@@ -4304,31 +4088,10 @@
       "source_region": "印度",
       "cluster_id": "03d7d67ebb241109",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7cd9553e1560b067",
-      "url": "https://www.timesnownews.com/world/paraguay-senate-impeaches-president-pena-amid-bank-collapse-scandal-article-156476824",
-      "title_en": "Paraguay Senate Impeaches President Pena Amid Bank Collapse Scandal",
-      "title_zh": "巴拉圭参议院因银行倒闭丑闻弹劾总统佩纳",
-      "summary_en": "Paraguay’s Senate voted on Friday to remove President Santiago Peña over his links to the collapse of Ueno Bank, a day after he resigned. The crisis has frozen millions of accounts and pushed the country’s currency sharply lower. , World News, Times Now",
-      "summary_zh": "巴拉圭参议院周五投票罢免总统圣地亚哥·佩纳，理由是他与上野银行倒闭有关，一天后他就辞职了。这场危机已冻结了数百万账户，并导致该国货币大幅贬值。 , 世界新闻, 时代现在",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156476850,thumbsize-91521,width-1280,height-720,resizemode-75/156476850.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T06:55:27+08:00",
-      "fetched_at": "2026-11-08T23:16:15+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "5baf6ea41dcee28f",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 112,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xpr8mc"
     },
     {
       "id": "70676a424d7467d2",
@@ -4353,7 +4116,10 @@
       "source_region": "印度",
       "cluster_id": "70676a424d7467d2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 34,
+      "reddit_id": "t3_1xppkxo"
     },
     {
       "id": "6d1ed5cc708cbdd8",
@@ -4408,33 +4174,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "43912042db9b7795",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xpmiro/resonant_news_reported_pakistans_let_scubadiving/",
-      "title_en": "Resonant News Reported Pakistan’s LeT Scuba-Diving Training First, While Larger Mainstream Media Outlets Picked Up the Story Without Giving Proper Credit.",
-      "title_zh": "《共鸣新闻》首先报道了巴基斯坦的虔诚军水肺潜水训练，而较大的主流媒体则在没有给予适当的认可的情况下报道了这个故事。",
-      "summary_en": "Pls. Such such underrated geopolitics channels [link] [comments]",
-      "summary_zh": "请。这种被低估的地缘政治渠道[链接][评论]",
-      "translation_status": "fallback",
-      "image": "https://external-preview.redd.it/aHlyOWp4MWVzMTBpMWup-2-3Es4HpCpoKLgeqDR149B9xqJfQtcfHcgaQ6R0.png?width=640&crop=smart&auto=webp&s=e9a0adc0e8b3bc8ac4e88eb2de71c34a7b0d4b1a",
-      "image_checked": true,
-      "source": "Reddit r/IndiaSpeaks",
-      "source_id": "reddit-indiaspeaks",
-      "region": "印度",
-      "published_at": "2026-11-07T03:58:23+08:00",
-      "fetched_at": "2026-11-08T23:16:42+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "43912042db9b7795",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 198,
-      "reddit_comments": 1,
-      "reddit_id": "t3_1xpmiro"
-    },
-    {
       "id": "819f8d8ac0dad63d",
       "url": "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/breach-of-promise-to-marry-is-not-always-rape-jaspal-singh-kaural-v-the-state-of-nct-of-delhi/",
       "title_en": "Breach of Promise to Marry is Not Always Rape - Supreme Court Observer",
@@ -4457,7 +4196,10 @@
       "source_region": "印度",
       "cluster_id": "819f8d8ac0dad63d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 107,
+      "reddit_comments": 12,
+      "reddit_id": "t3_1xplnb9"
     },
     {
       "id": "3a10023068a10a44",
@@ -4481,7 +4223,10 @@
       "source_region": "印度",
       "cluster_id": "363df1bcc6cdc55a",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 33,
+      "reddit_comments": 21,
+      "reddit_id": "t3_1xplipn"
     },
     {
       "id": "1742308e2c561f54",
@@ -4505,7 +4250,10 @@
       "source_region": "印度",
       "cluster_id": "1742308e2c561f54",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 30,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xplczp"
     },
     {
       "id": "363df1bcc6cdc55a",
@@ -4529,7 +4277,10 @@
       "source_region": "印度",
       "cluster_id": "363df1bcc6cdc55a",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 356,
+      "reddit_comments": 36,
+      "reddit_id": "t3_1xplc46"
     },
     {
       "id": "68292153b04c2092",
@@ -4553,7 +4304,10 @@
       "source_region": "印度",
       "cluster_id": "68292153b04c2092",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 37,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xpla84"
     },
     {
       "id": "3b628bd90b3afdb8",
@@ -4650,7 +4404,10 @@
       "source_region": "印度",
       "cluster_id": "cd41ab6c7cf2fcba",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 46,
+      "reddit_comments": 66,
+      "reddit_id": "t3_1xpjsgo"
     },
     {
       "id": "cb5ce1d24d3257f5",
@@ -4675,7 +4432,10 @@
       "source_region": "印度",
       "cluster_id": "cb5ce1d24d3257f5",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xpjp25"
     },
     {
       "id": "0d13d78028c34f94",
@@ -4702,30 +4462,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "c6e336368c1b369d",
-      "url": "https://www.hindustantimes.com/trending/nasas-swift-space-telescope-crashes-back-to-earth-over-indonesia-after-22-years-in-orbit-101793980209989.html",
-      "title_en": "NASA’s Swift space telescope crashes back to Earth over Indonesia after 22 years in orbit",
-      "title_zh": "NASA 的 Swift 太空望远镜在轨道运行 22 年后在印度尼西亚上空坠毁返回地球",
-      "summary_en": "NASA’s Neil Gehrels Swift Observatory re-entered Earth’s atmosphere over Indonesia after a failed rescue attempt.",
-      "summary_zh": "美国宇航局尼尔·格尔尔斯·斯威夫特天文台在救援尝试失败后重新进入印度尼西亚上空的地球大气层。",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Untitled_design_1793983680377_zreV_1793983683558_oVeq_d508fa28-50d9-462b-978e-6da0b783a6ff_94Z4.png",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "印度",
-      "published_at": "2026-11-07T01:34:27+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c6e336368c1b369d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "8a54f22e9ef2663f",
       "url": "https://www.reddit.com/r/india/comments/1xpisas/caught_redhanded_iti_principal_busted_for_bribes/",
       "title_en": "Caught Red-Handed: ITI Principal busted for bribes. We expect it from IAS/IPS, but what are some other \"low-profile\" government jobs that secretly pull in massive corruption money?",
@@ -4748,7 +4484,10 @@
       "source_region": "印度",
       "cluster_id": "8a54f22e9ef2663f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 22,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xpisas"
     },
     {
       "id": "14d313fef92af334",
@@ -4772,7 +4511,10 @@
       "source_region": "印度",
       "cluster_id": "14d313fef92af334",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 25,
+      "reddit_comments": 11,
+      "reddit_id": "t3_1xpinos"
     },
     {
       "id": "ed39db191c8fdbe4",
@@ -4799,30 +4541,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "a64c0be788f774eb",
-      "url": "https://www.republicworld.com/world-news/protesters-break-into-microsoft-data-center-site-in-amsterdam-as-europes-backlash-spreads-2026-11-06-140578",
-      "title_en": "Protesters Break Into Microsoft Data Center Site in Amsterdam as Europe’s Backlash Spreads",
-      "title_zh": "随着欧洲的强烈反对蔓延，抗议者闯入阿姆斯特丹的微软数据中心",
-      "summary_en": "Protesters stormed a Microsoft data centre construction site in Amsterdam amid growing European opposition to AI infrastructure and its environmental impact.",
-      "summary_zh": "随着欧洲日益反对人工智能基础设施及其对环境的影响，抗议者冲进了阿姆斯特丹的微软数据中心建筑工地。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/protesters-storm-microsoft-data-centre-site-in-amsterdam-amid-backlash-1793985669772-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T01:21:15+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "a64c0be788f774eb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "5926990a5ffed24d",
       "url": "https://www.reddit.com/r/india/comments/1xpi7zp/if_the_opposition_in_india_ever_gets_control_of/",
       "title_en": "If the Opposition in India ever gets control of both Houses of Parliament, what investigations would you want to see?",
@@ -4845,7 +4563,10 @@
       "source_region": "印度",
       "cluster_id": "5926990a5ffed24d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xpi7zp"
     },
     {
       "id": "df00f4d300549164",
@@ -4898,7 +4619,10 @@
       "source_region": "印度",
       "cluster_id": "c948ed8fee63d7e4",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 846,
+      "reddit_comments": 143,
+      "reddit_id": "t3_1xpi0t0"
     },
     {
       "id": "423fcc1bb309f6d7",
@@ -4922,7 +4646,10 @@
       "source_region": "印度",
       "cluster_id": "423fcc1bb309f6d7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 164,
+      "reddit_comments": 14,
+      "reddit_id": "t3_1xphu8d"
     },
     {
       "id": "add4691878018181",
@@ -4946,7 +4673,10 @@
       "source_region": "印度",
       "cluster_id": "add4691878018181",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 18,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xphiab"
     },
     {
       "id": "080c440f0e58977d",
@@ -4970,31 +4700,10 @@
       "source_region": "印度",
       "cluster_id": "725ec362ac815301",
       "cluster_item_count": 10,
-      "cluster_source_count": 3
-    },
-    {
-      "id": "e04f3655ba8b8762",
-      "url": "https://www.republicworld.com/world-news/netanyahu-frames-trump-s-military-aid-cutoff-decision-as-shift-to-equal-economic-partnership-with-us-2026-11-06-140571",
-      "title_en": "Netanyahu Frames Trump's Military Aid Cutoff Decision as Shift to Equal Economic Partnership With US",
-      "title_zh": "内塔尼亚胡将特朗普的军事援助切断决定视为向与美国平等经济伙伴关系的转变",
-      "summary_en": "Netanyahu says Israel is ready to move away from US military aid, calling it a shift towards an equal partnership after Trump&#39;s decision to end $4 billion in annual assistance.",
-      "summary_zh": "内塔尼亚胡表示，在特朗普决定终止每年 40 亿美元的援助后，以色列准备放弃美国的军事援助，称这是向平等伙伴关系的转变。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/netanyahu-to-meet-trump-in-washington-on-wednesday-to-discuss-negotiations-with-iran-1770551418278-16_9.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-07T00:23:02+08:00",
-      "fetched_at": "2026-11-08T23:16:18+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "e04f3655ba8b8762",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 3,
+      "reddit_score": 492,
+      "reddit_comments": 15,
+      "reddit_id": "t3_1xph5yu"
     },
     {
       "id": "daee309954401b89",
@@ -5044,7 +4753,10 @@
       "source_region": "印度",
       "cluster_id": "402938ffd0db8384",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 15,
+      "reddit_id": "t3_1xpgrvf"
     },
     {
       "id": "cf077e5431baf9f9",
@@ -5069,7 +4781,10 @@
       "source_region": "印度",
       "cluster_id": "cf077e5431baf9f9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 213,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xpgmx3"
     },
     {
       "id": "10ceb85efb3de6ac",
@@ -5094,7 +4809,10 @@
       "source_region": "印度",
       "cluster_id": "87b086dd39e7f65f",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 176,
+      "reddit_comments": 50,
+      "reddit_id": "t3_1xpgmbc"
     },
     {
       "id": "69fedc06a3d2c8cf",

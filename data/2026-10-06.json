@@ -1,32 +1,8 @@
 {
   "date": "2026-10-06",
   "timezone": "Asia/Shanghai",
-  "count": 6,
+  "count": 5,
   "items": [
-    {
-      "id": "76ead6bbcb4428ed",
-      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-for-retirement-report-and-index-2026-how-uruguay-beat-spain-and-portugal-to-top-spot-10908737/",
-      "title_en": "Top 10 countries for retirement report and index 2026: How Uruguay beat Spain and Portugal to top spot",
-      "title_zh": "2026 年退休报告和指数排名前 10 的国家：乌拉圭如何击败西班牙和葡萄牙登上榜首",
-      "summary_en": "Top 10 countries for retirement report and index 2026 list: Know more about the world's 10 best countries for retirees seeking financial security, superior healthcare, and an exceptional lifestyle.",
-      "summary_zh": "2026 年退休报告和指数排名前 10 的国家/地区列表：详细了解世界上最适合寻求财务安全、优质医疗保健和卓越生活方式的退休人员的 10 个国家。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Uruguay-ranked-1-among-the-top-10-countries-for-retirement-around-the-world.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-06T20:42:46+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "76ead6bbcb4428ed",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "17779494efea745c",
       "url": "https://indianexpress.com/article/trending/trending-globally/wins-nobel-prize-makes-school-sandwiches-scientist-karl-deisseroth-shares-moment-with-children-10909231/",
