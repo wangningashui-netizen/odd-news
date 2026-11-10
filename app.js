@@ -33,6 +33,14 @@
   var activeRegion = "";
   var activeTags = [];
   var sortMode = "time";
+  var detailId = "";
+  var PAGES_ORIGIN = "https://wangningashui-netizen.github.io/odd-news/";
+  var initialSource = "";
+  try {
+    initialSource = new URLSearchParams(window.location.search).get("source") || "";
+  } catch (err) {
+    initialSource = "";
+  }
 
   function el(tag, className, text) {
     var node = document.createElement(tag);
@@ -41,15 +49,46 @@
     return node;
   }
 
+  function mediaUrl(url) {
+    if (!url) return "";
+    if (url.indexOf(PAGES_ORIGIN) === 0 && window.location.host !== "wangningashui-netizen.github.io") {
+      return url.slice(PAGES_ORIGIN.length);
+    }
+    return url;
+  }
+
   function safeHttp(url) {
     if (!url) return "";
     try {
-      var parsed = new URL(url, window.location.href);
+      var parsed = new URL(mediaUrl(url), window.location.href);
       if (parsed.protocol === "http:" || parsed.protocol === "https:") return parsed.href;
     } catch (err) {
       return "";
     }
     return "";
+  }
+
+  function hashValue() {
+    return (window.location.hash || "").replace(/^#/, "");
+  }
+
+  function hashDetail() {
+    var hash = hashValue();
+    if (hash.indexOf("x=") === 0) return decodeURIComponent(hash.slice(2));
+    return "";
+  }
+
+  function hashDate() {
+    var hash = hashValue();
+    if (!hash || hash.indexOf("x=") === 0) return "";
+    return hash;
+  }
+
+  function heatScore(item) {
+    if (item.reddit_score != null && item.reddit_score !== "") return Number(item.reddit_score) || 0;
+    var metrics = item.x && item.x.public_metrics;
+    if (metrics && metrics.like_count != null) return Number(metrics.like_count) || 0;
+    return 0;
   }
 
   function formatDay(iso) {
@@ -70,7 +109,9 @@
   }
 
   function haystack(item) {
-    return [item.title_zh, item.title_en, item.summary_zh, item.summary_en]
+    var extra = item.x || {};
+    var author = extra.author || {};
+    return [item.title_zh, item.title_en, item.summary_zh, item.summary_en, extra.text, author.name, author.username]
       .filter(Boolean)
       .join("\n")
       .toLowerCase();
@@ -82,6 +123,9 @@
   }
 
   function baseFiltered() {
+    if (detailId) {
+      return allItems.filter(function (item) { return item.id === detailId; });
+    }
     var query = searchEl.value.trim().toLowerCase();
     var source = sourceEl.value;
     return scopedItems().filter(function (item) {
@@ -122,7 +166,7 @@
       if (sortMode === "heat") {
         var size = (b.rep.cluster_item_count || b.members.length || 1) - (a.rep.cluster_item_count || a.members.length || 1);
         if (size) return size;
-        var score = (b.rep.reddit_score || 0) - (a.rep.reddit_score || 0);
+        var score = heatScore(b.rep) - heatScore(a.rep);
         if (score) return score;
       }
       return String(b.rep.published_at || "").localeCompare(String(a.rep.published_at || ""));
@@ -182,6 +226,130 @@
     document.body.style.overflow = "";
   }
 
+  function copyText(text, button) {
+    function done() {
+      button.textContent = "已复制";
+      window.setTimeout(function () { button.textContent = "复制"; }, 1600);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done, function () { fallback(); });
+      return;
+    }
+    fallback();
+    function fallback() {
+      var area = document.createElement("textarea");
+      area.value = text;
+      document.body.appendChild(area);
+      area.select();
+      try { document.execCommand("copy"); done(); } catch (err) { button.textContent = "请手动复制"; }
+      area.remove();
+    }
+  }
+
+  function zoomImage(src, caption) {
+    return function () { openLightbox(src, caption); };
+  }
+
+  function appendXMaterial(body, item) {
+    var extra = item.x || {};
+    var block = el("div", "x-block");
+    if (item.summary_zh && item.summary_zh !== (item.title_zh || "")) {
+      var summary = el("p", "summary");
+      summary.appendChild(el("span", "summary-label", "概要"));
+      summary.appendChild(document.createTextNode(item.summary_zh));
+      block.appendChild(summary);
+    } else if (item.summary_zh && !item.title_zh) {
+      var only = el("p", "summary");
+      only.appendChild(el("span", "summary-label", "概要"));
+      only.appendChild(document.createTextNode(item.summary_zh));
+      block.appendChild(only);
+    }
+    var original = extra.text || item.summary_en || "";
+    if (original) {
+      var textWrap = el("div", "x-text");
+      textWrap.lang = extra.lang || "und";
+      textWrap.appendChild(el("span", "summary-label", "原文"));
+      textWrap.appendChild(document.createTextNode(original));
+      block.appendChild(textWrap);
+    }
+    var photos = extra.photos || [];
+    if (photos.length) {
+      var gallery = el("div", "x-photos");
+      photos.forEach(function (photo, index) {
+        var src = safeHttp(photo);
+        if (!src) return;
+        var button = el("button", "x-photo");
+        button.type = "button";
+        var image = document.createElement("img");
+        image.src = src;
+        image.alt = "配图 " + (index + 1);
+        image.referrerPolicy = "no-referrer";
+        image.loading = "lazy";
+        button.appendChild(image);
+        button.addEventListener("click", zoomImage(src, item.title_zh || "配图"));
+        gallery.appendChild(button);
+      });
+      if (gallery.childNodes.length) block.appendChild(gallery);
+    }
+    var actions = el("div", "x-actions");
+    var postUrl = safeHttp(extra.post_url || item.url);
+    if (postUrl) {
+      var postLink = el("a", "read", "原帖");
+      postLink.href = postUrl;
+      postLink.target = "_blank";
+      postLink.rel = "noopener noreferrer";
+      actions.appendChild(postLink);
+    }
+    if (extra.has_video) {
+      var videoUrl = safeHttp(extra.video_url);
+      if (videoUrl) {
+        var videoLink = el("a", "read warn-link", "视频直链（可能过期）");
+        videoLink.href = videoUrl;
+        videoLink.target = "_blank";
+        videoLink.rel = "noopener noreferrer";
+        actions.appendChild(videoLink);
+      } else {
+        actions.appendChild(el("span", "x-label", "这次没有解析到视频直链"));
+      }
+    }
+    if (!detailId) {
+      var alone = el("a", "read", "单独查看");
+      alone.href = "#x=" + encodeURIComponent(item.id);
+      actions.appendChild(alone);
+    }
+    block.appendChild(actions);
+    var command = extra.ytdlp_command || (postUrl ? "yt-dlp " + (extra.post_url || item.url) : "");
+    if (command) {
+      var row = el("div", "x-cmd");
+      var code = el("code", null, command);
+      var copy = el("button", "copy", "复制");
+      copy.type = "button";
+      copy.addEventListener("click", function () { copyText(command, copy); });
+      row.appendChild(code);
+      row.appendChild(copy);
+      block.appendChild(row);
+      block.appendChild(el("p", "x-note", "视频直链会过期。失效时用上面的命令重新解析，不要把视频文件放进仓库。"));
+    }
+    if (extra.comments_image) {
+      var sheetSrc = safeHttp(extra.comments_image);
+      if (sheetSrc) {
+        block.appendChild(el("p", "x-label", "评论区长图"));
+        var sheetBtn = el("button", "x-sheet");
+        sheetBtn.type = "button";
+        var sheet = document.createElement("img");
+        sheet.src = sheetSrc;
+        sheet.alt = "评论区长图";
+        sheet.referrerPolicy = "no-referrer";
+        sheet.loading = "lazy";
+        sheet.className = "x-comments";
+        sheetBtn.appendChild(sheet);
+        sheetBtn.addEventListener("click", zoomImage(sheetSrc, "评论区长图"));
+        block.appendChild(sheetBtn);
+      }
+    }
+    body.appendChild(block);
+  }
+
   function makeCard(group, hero) {
     var item = group.rep || group;
     var members = group.members || [item];
@@ -198,6 +366,8 @@
     img.decoding = "async";
     img.width = 640;
     img.height = 360;
+    if (item.kind === "x") card.classList.add("x-card");
+    if (item.x && item.x.has_video) thumb.classList.add("has-video");
     if (imageUrl) {
       img.src = imageUrl;
       img.addEventListener("error", function () {
@@ -233,7 +403,15 @@
     time.dateTime = item.published_at || "";
     time.textContent = formatTime(item.published_at);
     meta.appendChild(time);
-    if (item.reddit_score != null || item.reddit_comments != null) {
+    if (item.kind === "x" && item.x && item.x.public_metrics) {
+      var xm = item.x.public_metrics;
+      var bits = [];
+      if (xm.like_count != null) bits.push("赞 " + xm.like_count);
+      if (xm.repost_count != null) bits.push("转 " + xm.repost_count);
+      if (xm.reply_count != null) bits.push("评 " + xm.reply_count);
+      if (xm.impression_count != null) bits.push("看 " + xm.impression_count);
+      if (bits.length) meta.appendChild(el("span", "heat-line", bits.join(" · ")));
+    } else if (item.reddit_score != null || item.reddit_comments != null) {
       meta.appendChild(el("span", "heat-line", "▲ " + (item.reddit_score || 0) + " · 💬 " + (item.reddit_comments || 0)));
     }
 
@@ -250,26 +428,29 @@
     body.appendChild(meta);
     if (tagRow.childNodes.length) body.appendChild(tagRow);
     body.appendChild(heading);
-    if (item.title_zh && item.title_en) {
+    if (item.kind !== "x" && item.title_zh && item.title_en) {
       var en = el("p", "title-en", item.title_en);
       en.lang = "en";
       body.appendChild(en);
     }
     var summaryText = item.summary_zh || item.summary_en || "";
-    if (summaryText && summaryText !== title) {
+    if (item.kind !== "x" && summaryText && summaryText !== title) {
       var summary = el("p", "summary");
       var label = el("span", "summary-label", "概要");
       summary.appendChild(label);
       summary.appendChild(document.createTextNode(summaryText));
       body.appendChild(summary);
     }
-    var link = safeHttp(item.url);
-    if (link) {
-      var anchor = el("a", "read", "阅读原文");
-      anchor.href = link;
-      anchor.target = "_blank";
-      anchor.rel = "noopener noreferrer";
-      body.appendChild(anchor);
+    if (item.kind === "x" && item.x) appendXMaterial(body, item);
+    else {
+      var link = safeHttp(item.url);
+      if (link) {
+        var anchor = el("a", "read", "阅读原文");
+        anchor.href = link;
+        anchor.target = "_blank";
+        anchor.rel = "noopener noreferrer";
+        body.appendChild(anchor);
+      }
     }
     var clusterCount = item.cluster_item_count || members.length;
     var clusterSources = item.cluster_source_count || 1;
@@ -311,7 +492,8 @@
     var unfiltered = !searchEl.value.trim() && !sourceEl.value && !activeRegion && !activeTags.length;
     var next = filtered.slice(shown, shown + PAGE);
     next.forEach(function (group, index) {
-      var hero = unfiltered && shown === 0 && index === 0;
+      var heroItem = next[index].rep || next[index];
+      var hero = unfiltered && shown === 0 && index === 0 && heroItem.kind !== "x";
       gridEl.appendChild(makeCard(group, hero));
     });
     shown += next.length;
@@ -337,7 +519,10 @@
     names.forEach(function (name) {
       sourceEl.appendChild(new Option(name, name));
     });
-    if (seen[previous]) sourceEl.value = previous;
+    if (initialSource && seen[initialSource]) {
+      sourceEl.value = initialSource;
+      initialSource = "";
+    } else if (seen[previous]) sourceEl.value = previous;
   }
 
   function renderRegions() {
@@ -402,8 +587,38 @@
     newerBtn.disabled = !scopeDate;
   }
 
+  function updateDetailBar() {
+    var bar = document.getElementById("detail-bar");
+    if (!bar) return;
+    document.body.classList.toggle("detail", !!detailId);
+    if (!detailId) {
+      bar.hidden = true;
+      bar.replaceChildren();
+      return;
+    }
+    bar.hidden = false;
+    bar.replaceChildren();
+    var back = el("a", "detail-back", "返回全部");
+    back.href = "#";
+    back.addEventListener("click", function (event) {
+      event.preventDefault();
+      if (window.history && window.history.pushState) window.history.pushState(null, "", window.location.pathname + window.location.search);
+      else window.location.hash = "";
+      detailId = "";
+      refreshView();
+    });
+    bar.appendChild(back);
+    var item = null;
+    allItems.forEach(function (candidate) {
+      if (candidate.id === detailId) item = candidate;
+    });
+    if (item) bar.appendChild(document.createTextNode(" · " + (item.title_zh || item.title_en || "这条素材")));
+    else bar.appendChild(document.createTextNode(" · 没有这条素材"));
+  }
+
   function refreshView() {
-    headingEl.textContent = scopeDate ? formatDay(scopeDate) : "全部日期";
+    updateDetailBar();
+    headingEl.textContent = detailId ? "这条素材" : (scopeDate ? formatDay(scopeDate) : "全部日期");
     renderDates();
     fillSources();
     if (activeRegion && !scopedItems().some(function (item) { return item.region === activeRegion; })) {
@@ -432,7 +647,8 @@
     allItems.sort(function (a, b) {
       return String(b.published_at || "").localeCompare(String(a.published_at || ""));
     });
-    var hash = (location.hash || "").replace(/^#/, "");
+    detailId = hashDetail();
+    var hash = hashDate();
     var known = indexDates.some(function (entry) { return entry.date === hash; });
     selectScope(known ? hash : "", false);
   }
@@ -479,9 +695,15 @@
   }
 
   window.addEventListener("hashchange", function () {
-    var hash = (location.hash || "").replace(/^#/, "");
+    detailId = hashDetail();
+    if (detailId) {
+      refreshView();
+      return;
+    }
+    var hash = hashDate();
     if (!hash) {
       if (scopeDate) selectScope("", false);
+      else refreshView();
       return;
     }
     if (hash !== scopeDate && indexDates.some(function (entry) { return entry.date === hash; })) {

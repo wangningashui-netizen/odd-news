@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "timezone": "Asia/Shanghai",
-  "count": 12,
+  "count": 7,
   "items": [
     {
       "id": "d049d62c04f7101a",
@@ -169,126 +169,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "5a670efd53348f7a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "8a12b781a8045c57",
-      "url": "https://indianexpress.com/article/trending/trending-globally/chinese-doctor-quits-medicine-steamed-bun-shop-10890108/",
-      "title_en": "‘Never too late to make a change’: Chinese doctor leaves medicine for bun shop",
-      "title_zh": "“改变永远不晚”：中医把药留给包子店",
-      "summary_en": "Despite initial family opposition, the former doctor has since expanded her bun business to two outlets.",
-      "summary_zh": "尽管最初遭到家人的反对，这位前医生还是将她的包子生意扩大到了两家分店。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/09/China-doctor-steam-bun-shop.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "中国",
-      "published_at": "2026-09-23T13:07:03+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "健康医疗"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "8a12b781a8045c57",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "215197f0f7cf4fed",
-      "url": "https://allthatsinteresting.com/jon-erik-hexum",
-      "title_en": "Jon-Erik Hexum, The Up-And-Coming Actor Who Was Killed In One Of Hollywood’s Most Tragic On-Set Accidents",
-      "title_zh": "乔恩-埃里克·赫克瑟姆 (Jon-Erik Hexum)，在好莱坞最悲惨的片场事故之一中丧生的新晋演员",
-      "summary_en": "Harry Langdon/Flickr Celebrated as the next big Hollywood actor in the 1980s, an on-set gun accident cost Jon-Erik Hexum his life. The death and violence portrayed in shows and movies is fake. But real-life fatalities have occured in Hollywood. In 1993, actor Brandon Lee was accidentally shot to death; in 2021, so was cinematographer Halyna Hutchins.",
-      "summary_zh": "哈里·兰登 (Harry Langdon)/Flickr 被誉为 20 世纪 80 年代下一位好莱坞大牌演员的乔恩·埃里克·赫克萨姆 (Jon-Erik Hexum) 因一场现场枪击事故丧生。电视剧和电影中描绘的死亡和暴力都是假的。但现实生活中的死亡事件却在好莱坞发生过。 1993年，演员李国豪意外被枪杀； 2021 年，电影摄影师 Halyna Hutchins 也是如此。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/jon-erik-hexum-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-09-23T09:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "215197f0f7cf4fed",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "6ac5ce5a3d86f0ad",
-      "url": "https://allthatsinteresting.com/green-boots",
-      "title_en": "Who Was Green Boots? The Story Of The Man Behind Mt. Everest’s Most Famous Body",
-      "title_zh": "谁是绿靴子？珠穆朗玛峰最著名的身体背后的人的故事",
-      "summary_en": "Maxwelljo40/Wikimedia Commons The corpse known as “Green Boots” has sat on Mt. Everest for more than 30 years. More than 200 bodies litter Mount Everest. They are the corpses of ambitious climbers ranging from amateur dreamers to experienced mountaineers.",
-      "summary_zh": "Maxwelljo40/Wikimedia Commons 这具被称为“绿靴子”的尸体已经在珠穆朗玛峰上躺了 30 多年。珠穆朗玛峰上有超过 200 具尸体。他们是雄心勃勃的登山者的尸体，从业余梦想家到经验丰富的登山者。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/green-boots-alongside-dorje-morup-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-09-23T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "6ac5ce5a3d86f0ad",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "dfdc9eb1d2667eac",
-      "url": "https://allthatsinteresting.com/south-korea-medieval-hand-cannon",
-      "title_en": "Soldiers In South Korea Were Sweeping For Landmines And Uncovered The Oldest Gunpowder Weapon Ever Found In The Country’s History",
-      "title_zh": "韩国士兵正在扫雷并发现了该国历史上最古老的火药武器",
-      "summary_en": "Korea Heritage Service South Korean soldiers on a mine-detection operation discovered a small bronze hand cannon, the oldest gunpowder weapon ever found in the country. South Korean soldiers sweeping Mount Geumseong for landmines unexpectedly discovered a small bronze cannon that dates back 600 years, making it the country’s oldest-known gunpowder weapon ever found. The weapon, known as “Hwangja Hwatong,” also features an inscription that records its name, weight, age, provenance, and manufacturer. This…",
-      "summary_zh": "韩国文化遗产厅的韩国士兵在一次探雷行动中发现了一门小型青铜手炮，这是该国迄今为止发现的最古老的火药武器。韩国士兵在金城山扫雷时意外发现了一门小青铜大炮，其历史可以追溯到 600 年前，是该国迄今为止发现的最古老的火药武器。该武器被称为“Hwangja Hwatong”，还刻有铭文，记录了其名称、重量、年龄、经证实的",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/featured-oldest-gunpowder-weapon-in-korea.jpeg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "韩国",
-      "published_at": "2026-09-23T05:45:35+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "dfdc9eb1d2667eac",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7b9c9b28703af568",
-      "url": "https://www.atlasobscura.com/articles/podcast-on-the-trail-of-the-mothman",
-      "title_en": "On the Trail of the Mothman",
-      "title_zh": "追寻天蛾人的踪迹",
-      "summary_en": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Amanda McGowan : Every small town has that one spot where people sneak off to at night. In Point Pleasant, West Virginia, back in the 1960s, that place was the McClintic Wildlife Management Area. The locals called it the TNT area.",
-      "summary_zh": "在 Apple 播客、Spotify 和所有主要播客应用程序上收听和订阅。阿曼达·麦高恩：每个小镇都有一个人们晚上偷偷去的地方。早在 20 世纪 60 年代，西弗吉尼亚州的波因特普莱森特 (Point Pleasant) 就是麦克林蒂克野生动物管理区 (McClintic Wildlife Management Area)。当地人称其为TNT地区。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/M-XklCzivcA4T3M6CA66y04SHp7k2mZUrYovN_6rIVY/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xYWU3MWUwZTcw/MTdmNGQ3MjRfTW90/aG1hbl9BcnRpc3Qn/c19JbXByZXNzaW9u/LnBuZw.png",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-09-23T05:15:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "7b9c9b28703af568",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

@@ -1,33 +1,8 @@
 {
   "date": "2026-10-13",
   "timezone": "Asia/Shanghai",
-  "count": 11,
+  "count": 7,
   "items": [
-    {
-      "id": "8fcbc890fb652528",
-      "url": "https://nypost.com/2026/10/13/science/former-nasa-astronaut-claims-ufos-are-demons-in-disguise/",
-      "title_en": "Youngest NASA astronaut to walk the moon says UFOs are ‘demonic’ aircraft sent by the devil",
-      "title_zh": "美国宇航局最年轻的月球漫步宇航员称不明飞行物是魔鬼派来的“恶魔”飞机",
-      "summary_en": "Many grey aliens with scary glowing orange eyes stand in dark. They look forward menacingly, ready for invasion or attack. Their skeletal faces appear sinister and threatening.",
-      "summary_zh": "许多有着可怕的橙色眼睛的灰色外星人站在黑暗中。他们充满威胁地向前看，准备迎接入侵或攻击。他们的骷髅脸显得阴险而具有威胁性。",
-      "translation_status": "fallback",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F144864437.jpg?quality%3D90%26strip%3Dall",
-      "image_checked": true,
-      "source": "New York Post Weird But True",
-      "source_id": "nypost-weird",
-      "region": "美国",
-      "published_at": "2026-10-13T21:59:55+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "航空出行",
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "8fcbc890fb652528",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "8f9b07a3a1159211",
       "url": "https://indianexpress.com/article/trending/trending-globally/jeff-bezos-ai-three-day-workweek-10920004/",
@@ -125,30 +100,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "7c5f00d71a1708e3",
-      "url": "https://www.express.co.uk/news/world/2256729/woman-96-marries-18-teenager",
-      "title_en": "Woman, 96, marries 18-year-old teenager in record-breaking ceremony",
-      "title_zh": "96岁女子与18岁少女破纪录结婚",
-      "summary_en": "The unnamed woman married an 18-year-old man in what is said to be the widest-age-gap wedding in the entire country A 96-year-old woman has broken marriage records after tying the knot with a teenager nearly 80 years her junior. The unnamed woman married an 18-year-old man in what is said to be the widest age gap wedding in Mexico - a staggering 78 years. The ceremony was held in Quintana Roo, a state on the Yucatán Peninsula in southeastern Mexico - the same state that's home to Cancún, a popular holiday…",
-      "summary_zh": "这名未透露姓名的女子与一名18岁男子结婚，据说这是全国年龄差距最大的婚礼。一名96岁的女子与一名比她小近80岁的青少年喜结连理，打破了婚姻记录。这名不愿透露姓名的女子与一名 18 岁男子结婚，据称这是墨西哥年龄差距最大的婚礼——年龄差距惊人，长达 78 年。仪式在墨西哥东南部尤卡坦半岛的金塔纳罗奥州举行，该州也是本州",
-      "translation_status": "fallback",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2256729_1.jpg",
-      "image_checked": true,
-      "source": "Express Weird News",
-      "source_id": "express-weird",
-      "region": "英国",
-      "published_at": "2026-10-13T16:21:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "婚俗宗教"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "7c5f00d71a1708e3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "1aac2e5620280e22",
       "url": "https://indianexpress.com/article/trending/trending-in-india/richa-chadhas-surveillance-makeup-hack-goes-viral-amid-anti-cec-protests-10919091/",
       "title_en": "Richa Chadha’s surveillance makeup hack goes viral amid anti-CEC protests",
@@ -197,31 +148,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "0d8aa5ace48b9903",
-      "url": "https://indianexpress.com/article/trending/trending-globally/robot-gropes-16-year-old-girl-in-germany-10919051/",
-      "title_en": "‘Just bad owners’: Robot gropes 16-year-old girl in Germany",
-      "title_zh": "“只是坏主人”：机器人在德国猥亵 16 岁女孩",
-      "summary_en": "The Cologne police have launched an investigation to determine how the robot operated during the alleged incident and whether its movements were deliberately controlled remotely.",
-      "summary_zh": "科隆警方已展开调查，以确定该机器人在涉嫌事件中的操作方式以及其动作是否受到故意远程控制。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Robot-harasses-girl-in-Germany.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "德国",
-      "published_at": "2026-10-13T13:37:46+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "科技发明",
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "0d8aa5ace48b9903",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "2135423f5e6daed1",
       "url": "https://indianexpress.com/article/trending/trending-in-india/decades-in-it-no-job-offer-indian-origin-techie-considers-returning-to-india-10918990/",
       "title_en": "Decades in IT, no job offer: Indian-Origin techie considers returning to India",
@@ -242,30 +168,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2135423f5e6daed1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "371d28039e7b6dde",
-      "url": "https://indianexpress.com/article/trending/trending-globally/china-breaking-bad-drug-network-etomidate-bust-10918877/",
-      "title_en": "China busts ‘Breaking Bad’-style drug racket led by retired chemistry professor",
-      "title_zh": "中国捣毁由退休化学教授领导的《绝命毒师》式的贩毒团伙",
-      "summary_en": "The police first noticed that a pharmaceutical company had purchased unusually large quantities of six chemicals used to make a substance illegally used in e-cigarettes.",
-      "summary_zh": "警方首先注意到一家制药公司购买了异常大量的六种化学品，用于制造非法用于电子烟的物质。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Breaking-Bad-China-drug-1-1.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "中国",
-      "published_at": "2026-10-13T11:36:40+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "371d28039e7b6dde",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

@@ -7,6 +7,8 @@ stored on each story (first 16 hex chars of the sha1 of the normalized URL).
 A translation matches that id on any day, not only the day in the file name.
 
 Applied items get ``translation_status`` ``ai``, which removes the 机翻 badge.
+``title_zh`` is required. ``summary_zh`` is optional: an empty summary does not
+wipe a summary already stored on the item.
 Running this again with the same files changes nothing.
 
 Also refreshes ``data/untranslated/latest.json`` so the latest day's remaining
@@ -48,10 +50,13 @@ def load_translation_map(directory: Path) -> dict[str, dict[str, str]]:
                 continue
             title = str(fields.get("title_zh") or "").strip()
             summary = str(fields.get("summary_zh") or "").strip()
-            if not item_id or not title or not summary:
-                print(f"skip {item_id or '?'} in {path.name}: title_zh and summary_zh are required", flush=True)
+            if not item_id or not title:
+                print(f"skip {item_id or '?'} in {path.name}: title_zh is required", flush=True)
                 continue
-            mapping[str(item_id)] = {"title_zh": title, "summary_zh": summary}
+            row = {"title_zh": title}
+            if summary:
+                row["summary_zh"] = summary
+            mapping[str(item_id)] = row
     return mapping
 
 
@@ -85,14 +90,18 @@ def apply_map(days: dict[str, list[dict]], mapping: dict[str, dict[str, str]]) -
             missing.append(item_id)
             continue
         for date, item in hits:
+            summary_same = True
+            if "summary_zh" in fields:
+                summary_same = item.get("summary_zh") == fields["summary_zh"]
             if (
                 item.get("title_zh") == fields["title_zh"]
-                and item.get("summary_zh") == fields["summary_zh"]
+                and summary_same
                 and item.get("translation_status") == "ai"
             ):
                 continue
             item["title_zh"] = fields["title_zh"]
-            item["summary_zh"] = fields["summary_zh"]
+            if "summary_zh" in fields:
+                item["summary_zh"] = fields["summary_zh"]
             item["translation_status"] = "ai"
             dirty.add(date)
             changed += 1

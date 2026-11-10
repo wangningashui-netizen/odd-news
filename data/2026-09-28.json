@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 3,
   "items": [
     {
       "id": "509d6302658a1e6d",
@@ -24,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "509d6302658a1e6d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "fefea26075bb0552",
-      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-for-travel-and-tourism-japan-knocks-us-off-top-spot-in-wef-tourism-index-10897203/",
-      "title_en": "Top 10 countries for travel and tourism: Japan knocks US off top spot in WEF tourism index",
-      "title_zh": "旅行和旅游排名前十的国家：日本在世界经济论坛旅游指数中取代美国位居榜首",
-      "summary_en": "Japan ranked No. 1 in the Travel and Tourism index released by World Economic Forum",
-      "summary_zh": "日本在世界经济论坛发布的旅行和旅游指数中排名第一",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/09/Japan-ranked-No.-1-in-the-Travel-and-Tourism-index-released-by-World-Economic-Forum.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "日本",
-      "published_at": "2026-09-28T18:03:11+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "fefea26075bb0552",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -97,30 +73,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2abc388f6ca7525a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f3823e3bfac89fca",
-      "url": "https://www.unilad.com/news/world-news/man-dressed-as-batman-returns-stolen-purse-on-night-out-249523-20260927",
-      "title_en": "Man dressed as Batman scales towering wall to return stolen purse on night out",
-      "title_zh": "男子装扮成蝙蝠侠爬上高墙，晚上外出归还被盗钱包",
-      "summary_en": "A fancy-dress night out in Norwich, UK took an unexpectedly heroic turn when a group of costumed revellers dressed as comic book icons sprinted into action to chase down an opportunistic thief and retrieve a stolen handbag. Sonni Mason, a 25-year-old cafe worker and creative from London, was celebrating a friend’s birthday on Saturday night while outfitted head-to-toe in an authentic Batman suit. The evening shifted from a standard weekend celebration into real-life crime-fighting when Mason witnessed a woman’s…",
-      "summary_zh": "英国诺威奇的一个化装舞会之夜发生了意想不到的英雄转变，一群盛装打扮成漫画人物的狂欢者冲刺起来，追捕一个投机取巧的小偷并找回被盗的手提包。周六晚上，来自伦敦的 25 岁咖啡馆工作人员兼创意人士索尼·梅森 (Sonni Mason) 从头到脚都穿着正宗的蝙蝠侠套装，正在庆祝一位朋友的生日。当晚从标准的周末庆祝活动变成了现实生活中的犯罪图",
-      "translation_status": "fallback",
-      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQyMDUwMGU5MTI1YTliOTljLzZhYjk5ODI1MmVhYzQ5ODFlOGVkNGU0YS9wYXJ0eWdvZXItZHJlc3MtMTYwODI3Ny5qcGc.jpg",
-      "image_checked": true,
-      "source": "UNILAD Weird",
-      "source_id": "unilad-weird",
-      "region": "英国",
-      "published_at": "2026-09-28T06:27:14+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "f3823e3bfac89fca",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

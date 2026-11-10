@@ -1,19 +1,23 @@
 # 奇闻日报
 
-给中文读者找故事选题用的静态奇闻聚合。页面只做收集和去重，不排名、不筛选“最怪的那几条”。每个来源当天发出的条目都会留下。
+给创作工具直接读的印度素材库。页面只收集和打包，不替 Claude / Codex 做二次加工。中文界面、选题标签、跨日搜索、按热度排序、`data/translations/` 这条翻译流都还在。
 
-界面上的名字用的是 **奇闻日报**。如果想换一个更短的刊名，**异闻录** 比较合适：三个字，能看出来是在记奇怪的事，也不像日报那样绑死“一天一刊”。
+只留内容地区是 **印度** 的条目。判断用的是正文里的地区（`scripts/content_region.py`），不是发布方。印度媒体转载的外国新闻不会入库。X 这条通道收的是外面任务已经圈定的印度帖，地区固定为印度。
+
+界面上的名字仍是 **奇闻日报**。
 
 ## 页面上有什么
 
-每条都有：
+新闻条目：
 
 - 中文标题，英文原标题用小一号字留在下面
 - 概要（两到四句；翻译失败时先显示英文原文，并标成「待翻译」）
-- 主图（只存图片地址，热链接，不把图片文件放进仓库）
-- 来源、地区（按来源判断，例如印度、英国、美国、日本、全球）
+- 主图（新闻仍是热链接，不把新闻图片放进仓库）
+- 来源、地区
 - 北京时间
-- 「阅读原文」（新标签页打开）
+- 「阅读原文」
+
+X 条目另外有：中文标题和概要、原文全文、图片、评论区长图、视频直链（标明会过期）、原帖链接，以及可以直接复制的 `yt-dlp <原帖 URL>`。点「单独查看」只看这一条。
 
 图片用 `referrerpolicy="no-referrer"` 和懒加载。加载失败或来源没有主图时，换成站内的占位图。点图片可以看大图。
 
@@ -33,7 +37,11 @@
 | `data/YYYY-MM-DD.json` | 某一天的条目，日期按发布时间的北京时间计算 |
 | `data/index.json` | 日期列表，新的在前，带每天的条数 |
 | `scripts/fetch_news.py` | 抓取、去重、翻译、写 JSON。只用 Python 标准库 |
-| `.github/workflows/daily-fetch.yml` | 每天自动跑上面的脚本并提交 |
+| `.github/workflows/daily-fetch.yml` | 每天自动跑上面的脚本，并刷新最近 7 天的 X 视频直链 |
+| `data/x/inbox/YYYY-MM-DD.json` | 外面的任务提交的 X 原始帖。格式见 `docs/x-schema.md` |
+| `scripts/ingest_x.py` | 下载图片和头像、解析视频直链、渲染评论长图、写入站点数据和 AI 月文件 |
+| `.github/workflows/ingest-x.yml` | `data/x/inbox/**` 有推送时跑上面的脚本，也可手动跑 |
+| `assets/x/<推文 id>/` | 图片、头像、视频封面、评论长图。没有视频文件 |
 
 条目按规范化后的原文链接去重（忽略 `utm_*` 之类的跟踪参数，`www` 和协议差异也算同一条）。同一条故事如果先出现在通讯社、后出现在 Reddit，会留下先抓到的那条。
 
@@ -72,6 +80,19 @@ python3 scripts/retranslate.py
 python3 scripts/export_untranslated.py
 ```
 
+## X 素材
+
+外面的任务把原始 JSON 提交到 `data/x/inbox/YYYY-MM-DD.json`。字段、回复结构和一条真样例写在 [`docs/x-schema.md`](docs/x-schema.md)。仓库里不保存 X 的 API 密钥。
+
+推送这个路径会跑 `.github/workflows/ingest-x.yml`（也可以手动跑）。它对每条帖子：
+
+1. 用浏览器 User-Agent 把图片、视频封面、头像下载到 `assets/x/<推文 id>/`（`pbs.twimg.com` 对默认 UA 返回 403）
+2. `yt-dlp -g -f "b[ext=mp4]/best[ext=mp4]/best"` 解析直链，不下载视频，不用 cookie
+3. 用无头 Chrome 按 2 倍缩放渲染白底评论长图，裁掉底部空白，存成 `comments.png`
+4. 写入当天数据和 `data/search/YYYY-MM.json`。图片用 `https://wangningashui-netizen.github.io/odd-news/...` 绝对地址
+
+直链会过期。每天 07:00（北京时间）的抓取会再解析最近 7 天 X 条目的直链。页面上同时留着原帖和 `yt-dlp <原帖 URL>`。
+
 ## 自动更新
 
 工作流同时支持定时和手动：
@@ -79,7 +100,9 @@ python3 scripts/export_untranslated.py
 - 定时：`0 23 * * *`（GitHub 的 cron 用 UTC）。23:00 UTC 是北京时间第二天早上 7:00。中国不实行夏令时，所以全年都是这个点。
 - 手动：Actions 页面里的 **Run workflow**。
 
-抓取里的中文默认仍是机器翻译（`fallback`）。可选的 `MODELS_API_URL` / `MODELS_API_KEY` / `MODELS_MODEL` 还在，不设置就不会调用。日常的中文稿由 `data/translations/` 提供，套用后状态是 `ai`。
+抓取里的中文默认仍是机器翻译（`fallback`）。可选的 `MODELS_API_URL` / `MODELS_API_KEY` / `MODELS_MODEL` 还在，不设置就不会调用。日常的中文稿由 `data/translations/` 提供，套用后状态是 `ai`。`summary_zh` 可以空着，只要有 `title_zh` 就会套用，空概要不会把已有概要清掉。
+
+同一次定时任务还会刷新最近 7 天 X 视频直链。这一步需要 Actions 能装 `yt-dlp`，不需要密钥。X 收件箱的工作流另外需要 Chrome（工作流里会装）。
 
 提交发生在 `main`（或你手动运行时所在的分支）上。GitHub Pages 如果选的是「从分支部署 / main / 根目录」，这次提交会触发重新部署，不需要单独的构建。
 
@@ -99,40 +122,26 @@ python3 scripts/export_untranslated.py
 
 ## 来源
 
-2026-11-08 在这台环境里逐个请求过。下面的「窗口条数」是当时一条 feed 里返回的条目数，不是去重后的每日新增。
+只抓印度媒体和印度子版。2026-11-08 核对过的窗口条数仍写在表里，那是当时一条 feed 的返回数，不是去重后的每日新增。
+
+已经停抓、历史里也不再展示内容地区不是印度的条目：Oddity Central、All That's Interesting、Oddee、UPI Odd News、Atlas Obscura、Mirror Weird News、Daily Star Weird News、Irish Mirror Weird News、Metro Weird、Express Weird News、New York Post Weird But True、SoraNews24、Neatorama、LADbible Weird、UNILAD Weird、Reddit r/nottheonion、Reddit r/Offbeat。以前从这些来源抓到、但正文地区仍是印度的旧条目留着；以后不会再抓。
 
 ### 在用
 
-| 来源 | 地区 | 地址 | 窗口条数 |
-| --- | --- | --- | --- |
-| Oddity Central | 全球 | `https://www.odditycentral.com/feed` | 10 |
-| All That's Interesting | 全球 | `https://allthatsinteresting.com/feed` | 100 |
-| Oddee | 全球 | `https://www.oddee.com/feed/` | 10 |
-| UPI Odd News | 美国 | `https://rss.upi.com/news/odd_news.rss` | 25 |
-| Atlas Obscura | 全球 | `https://www.atlasobscura.com/feeds/latest` | 27 |
-| Mirror Weird News | 英国 | `https://www.mirror.co.uk/news/weird-news/?service=rss` | 25 |
-| Daily Star Weird News | 英国 | `https://www.dailystar.co.uk/news/weird-news/?service=rss` | 24 |
-| Irish Mirror Weird News | 爱尔兰 | `https://www.irishmirror.ie/news/weird-news/?service=rss` | 2 |
-| Metro Weird | 英国 | `https://metro.co.uk/news/weird/feed/` | 23 |
-| Express Weird News | 英国 | `https://www.express.co.uk/news/weird?service=rss` | 10 |
-| New York Post Weird But True | 美国 | `https://nypost.com/weird-but-true/feed/` | 20 |
-| Hindustan Times Trending | 印度 | `https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml` | 32 |
-| India Today Trending | 印度 | `https://www.indiatoday.in/rss/1797650` | 20 |
-| Times of India Viral News | 印度 | `https://timesofindia.indiatimes.com/rssfeeds/59016670.cms` | 20 |
-| SoraNews24 | 日本 | `https://soranews24.com/feed/` | 20 |
-| Neatorama | 全球 | `https://www.neatorama.com/feed/` | 15 |
-| LADbible Weird | 英国 | `https://www.ladbible.com/weird.rss` | 25 |
-| UNILAD Weird | 英国 | `https://www.unilad.com/weird.rss` | 25 |
-| NDTV Offbeat | 印度 | 见下方说明 | 27 |
-| Indian Express Trending | 印度 | `https://indianexpress.com/section/trending/feed/` | 200 |
-| News18 Viral | 印度 | Google News：`site:news18.com/viral OR site:news18.com/buzz when:2d`，解回 news18.com | 43 |
-| Times Now Viral | 印度 | Google News：`site:timesnownews.com (viral OR bizarre OR offbeat) when:3d` | 100 |
-| Republic World Viral | 印度 | Google News：`site:republicworld.com (viral OR buzz OR offbeat) when:3d`，只保留 republicworld.com | 52（93 条里解开并核对域名的） |
-| Reddit r/india | 印度 | `https://www.reddit.com/r/india/new/.rss?limit=100` | 100 |
-| Reddit r/IndiaSpeaks | 印度 | `https://www.reddit.com/r/IndiaSpeaks/new/.rss?limit=100` | 99 |
-| Reddit r/indiasocial | 印度 | `https://www.reddit.com/r/indiasocial/new/.rss?limit=100` | 99 |
-| Reddit r/nottheonion | 全球 | `https://www.reddit.com/r/nottheonion/new/.rss?limit=100` | 100 |
-| Reddit r/Offbeat | 全球 | `https://www.reddit.com/r/Offbeat/new/.rss?limit=100` | 100 |
+| 来源 | 地址 | 窗口条数 |
+| --- | --- | --- |
+| Hindustan Times Trending | `https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml` | 32 |
+| India Today Trending | `https://www.indiatoday.in/rss/1797650` | 20 |
+| Times of India Viral News | `https://timesofindia.indiatimes.com/rssfeeds/59016670.cms` | 20 |
+| NDTV Offbeat | 见下方说明 | 27 |
+| Indian Express Trending | `https://indianexpress.com/section/trending/feed/` | 200 |
+| News18 Viral | Google News：`site:news18.com/viral OR site:news18.com/buzz when:2d`，解回 news18.com | 43 |
+| Times Now Viral | Google News：`site:timesnownews.com (viral OR bizarre OR offbeat) when:3d` | 100 |
+| Republic World Viral | Google News：`site:republicworld.com (viral OR buzz OR offbeat) when:3d`，只保留 republicworld.com | 52（93 条里解开并核对域名的） |
+| Reddit r/india | `https://www.reddit.com/r/india/new/.rss?limit=100` | 100 |
+| Reddit r/IndiaSpeaks | `https://www.reddit.com/r/IndiaSpeaks/new/.rss?limit=100` | 99 |
+| Reddit r/indiasocial | `https://www.reddit.com/r/indiasocial/new/.rss?limit=100` | 99 |
+| X | 外面的任务写入 `data/x/inbox/YYYY-MM-DD.json`，见 `docs/x-schema.md` | — |
 
 Reddit 使用固定的 User-Agent：`linux:odd-news-daily:1.0.0 (by /u/odd-news-daily)`。外链帖打开原文，站内自帖丢掉。不要把这个标识改成编程语言的默认值，否则会被拒绝。
 
@@ -185,6 +194,7 @@ Reach 旗下的地方版（WalesOnline、Manchester Evening News 等）大量转
 
 ```bash
 python3 scripts/fetch_news.py
+python3 scripts/ingest_x.py
 python3 -m http.server 8765
 ```
 

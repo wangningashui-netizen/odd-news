@@ -1,32 +1,8 @@
 {
   "date": "2026-10-04",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 3,
   "items": [
-    {
-      "id": "0ef84893d9ad637a",
-      "url": "https://allthatsinteresting.com/amazonian-guard",
-      "title_en": "Inside The Amazonian Guards, The Elite All-Female Unit That Protected Libyan Dictator Muammar Gaddafi",
-      "title_zh": "亚马逊卫队内部，保护利比亚独裁者穆阿迈尔·卡扎菲的精锐全女性部队",
-      "summary_en": "Libyan dictator Muammar Gaddafi relied on an elite group of women as his personal bodyguards. In 1969, Muammar Gaddafi led a coup that overthrew Libya’s government. A decade later, Gaddafi declared himself the Brotherly Leader and Guide of the Revolution. And at around this same time, he began to employe an elite cadre of bodyguards to flock him at all times — a group of tall, beautiful women known as Gaddafi’s Amazonian bodyguards.",
-      "summary_zh": "利比亚独裁者穆阿迈尔·卡扎菲依靠一群女性精英作为他的私人保镖。 1969年，穆阿迈尔·卡扎菲领导政变，推翻了利比亚政府。十年后，卡扎菲宣布自己为兄弟领袖和革命指南。大约在同一时间，他开始雇佣一支精锐的保镖骨干随时监视他——一群身材高大、美丽的女性，被称为卡扎菲的亚马逊保镖。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/amazonian-guards-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-04T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "0ef84893d9ad637a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "49c95f731b5af7aa",
       "url": "https://indianexpress.com/article/trending/trending-in-india/bengaluru-woman-leaves-it-job-rapido-auto-driver-10906329/",
@@ -96,30 +72,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "429a893832224a33",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "c5baa8d8135bd0a5",
-      "url": "https://nypost.com/2026/10/03/health/6-human-body-parts-we-dont-really-need-and-could-easily-live-without/",
-      "title_en": "6 human body parts we don’t really need — and could easily live without",
-      "title_zh": "我们并不真正需要的 6 个人体部位，没有也能轻松生活",
-      "summary_en": "We have a number of body parts that served an important purpose for our distant ancestors but are essentially useless now, yet continue to take up space.",
-      "summary_zh": "我们有许多身体部位，它们对我们遥远的祖先有重要的用途，但现在基本上毫无用处，但仍继续占据空间。",
-      "translation_status": "fallback",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-032xe5w3s-1791047493676.jpg?quality%3D90%26strip%3Dall%261791033146",
-      "image_checked": true,
-      "source": "New York Post Weird But True",
-      "source_id": "nypost-weird",
-      "region": "美国",
-      "published_at": "2026-10-04T01:12:41+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "c5baa8d8135bd0a5",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

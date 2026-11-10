@@ -1,32 +1,8 @@
 {
   "date": "2026-10-09",
   "timezone": "Asia/Shanghai",
-  "count": 9,
+  "count": 4,
   "items": [
-    {
-      "id": "6bcee033cee42b42",
-      "url": "https://www.atlasobscura.com/articles/america-haunted-cemeteries",
-      "title_en": "Atlas Obscura’s Guide to America’s Most Haunted Cemeteries",
-      "title_zh": "Atlas Obscura 的美国最闹鬼墓地指南",
-      "summary_en": "It’s nice to imagine death as an endless deep sleep, but not everyone is so lucky. In cemeteries across the U.S., you’ll find souls whose final resting places are not, in fact, restful at all. Perhaps they died with scores unsettled or, perhaps, their graves were ravaged by greedy developers. Sometimes, heartbreak rendered them unable to move on peacefully; in other cases, they simply couldn’t resist the chance to toy with their living visitors.",
-      "summary_zh": "将死亡想象成无尽的深度睡眠是件好事，但并不是每个人都那么幸运。事实上，在美国各地的墓地里，你会发现灵魂的最后安息之地根本无法安息。或许他们死后的恩怨未了，又或许，他们的坟墓被贪婪的开发商毁坏了。有时，心碎让他们无法平静地前行；在其他情况下，他们根本无法抗拒玩弄活着的访客的机会。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/8C6cOkQ07C6hx4_0SYNJkgiOqJ3VGYNt_-JJM0UlHso/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84ZmFlZGYzMC0x/ZGUxLTQ1Y2MtODRm/ZS0yNGEwZjI3Y2Vl/ZDEwODc0ZDE3MDU4/NzkyYWMzZWJfU2Ny/ZWVuc2hvdCAyMDI2/LTEwLTA1IGF0IDEw/LjIzLjUwIEFNLnBu/Zw.png",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "美国",
-      "published_at": "2026-10-09T20:54:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "6bcee033cee42b42",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "362f4b3f2270107c",
       "url": "https://indianexpress.com/article/trending/trending-in-india/baghpat-gym-fight-cctv-video-up-police-investigation-10914318/",
@@ -76,31 +52,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "02171f9603d2385c",
-      "url": "https://indianexpress.com/article/trending/trending-globally/china-restaurant-owner-gifts-bmws-employees-10914118/",
-      "title_en": "Boss in China sees employee arrive shivering in cold, gifts 2 staffers BMWs",
-      "title_zh": "中国老板看到员工冷得瑟瑟发抖，送了2辆宝马给员工",
-      "summary_en": "The idea took shape last winter when Ma Yanli saw Li Jie, an employee who had been with her restaurant for eight years, arrive at work after riding her electric scooter in the cold.",
-      "summary_zh": "去年冬天，当马艳丽看到在她餐厅工作了八年的员工李杰在寒冷中骑着电动滑板车上班时，这个想法就成形了。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/China-restaurant-owner-gifts-BMWs-to-employees.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "中国",
-      "published_at": "2026-10-09T18:45:35+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "街头食物",
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "02171f9603d2385c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "31679a5b0025737f",
       "url": "https://indianexpress.com/article/trending/top-10-listing/skyscanner-travel-trends-2027-top-destinations-and-what-indians-want-10913640/",
       "title_en": "Skyscanner travel trends 2027: Top destinations and what Indians want",
@@ -145,78 +96,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "95c04d40f86cb590",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "9fae32812dd0cc8b",
-      "url": "https://allthatsinteresting.com/robert-wagner",
-      "title_en": "The Controversial Life Of Robert Wagner And His Troubled Marriage To Natalie Wood",
-      "title_zh": "罗伯特·瓦格纳备受争议的生活以及他与娜塔莉·伍德的婚姻问题",
-      "summary_en": "Public Domain Robert Wagner, pictured here in 1967, is best known for his roles in A Kiss Before Dying , The Pink Panther , Austin Powers , and the TV show Hart to Hart . Robert Wagner spent more than seven decades in Hollywood, becoming one of the industry’s most recognizable leading men. He starred in dozens of films and television shows, including It Takes a Thief , Hart to Hart , and the Austin Powers movies, while his marriages to actresses Natalie Wood and Jill St. John kept him in the public eye.",
-      "summary_zh": "罗伯特·瓦格纳 (罗伯特·瓦格纳，摄于 1967 年) 因其在《死前之吻》、《粉红豹》、《王牌大贱谍》和电视节目《Hart to Hart》中的角色而闻名。罗伯特·瓦格纳在好莱坞度过了七十多年，成为业界最知名的男主角之一。他主演了数十部电影和电视节目，包括《小偷大盗》、《雄心勃勃》和《王牌大贱谍》电影，同时他还与女演员娜塔莉·伍德和吉尔·圣约翰结婚。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/robert-wagner-with-natalie-wood-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-09T07:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "婚俗宗教"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "9fae32812dd0cc8b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3915fdb7450822fa",
-      "url": "https://allthatsinteresting.com/norway-prehistoric-arrows",
-      "title_en": "Melting Ice In Southern Norway Just Revealed Dozens Of Prehistoric Arrows Dating As Far Back As 6,000 Years",
-      "title_zh": "挪威南部融化的冰层刚刚发现了数十支可追溯到 6000 年前的史前箭",
-      "summary_en": "Secrets of the Ice Researchers excavating Norway’s glaciers discovered 48 prehistoric arrowheads. Archaeologists in Norway just made a series of astonishing discoveries while exploring the Jotunheimen mountains about 200 miles northwest of Oslo. In all, researchers recovered 48 prehistoric arrows from the melting ice, including one that dates as far back as 6,000 years. Not only is this discovery significant because of what it could reveal about how prehistoric people hunted in Norway several millennia ago, but…",
-      "summary_zh": "冰的秘密 研究人员在挖掘挪威冰川时发现了 48 个史前箭头。挪威考古学家在探索奥斯陆西北约 200 英里的尤通黑门山脉时刚刚取得了一系列惊人的发现。研究人员总共从融化的冰层中回收了 48 支史前箭，其中一支的历史可以追溯到 6000 年前。这一发现不仅具有重要意义，还因为它可以揭示史前人类的狩猎方式",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/featured-prehistoric-arrows-found-in-norway.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-09T05:45:24+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "3915fdb7450822fa",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f048e0c1979ef89a",
-      "url": "https://www.atlasobscura.com/articles/it-all-comes-together-in-chattanooga",
-      "title_en": "It All Comes Together in Chattanooga",
-      "title_zh": "一切尽在查塔努加",
-      "summary_en": "Chattanooga may be best known for its natural beauty, surrounded by mountains, valleys, and the Tennessee River. This charming Appalachian city is also home to annual music festivals like the IBMA World of Bluegrass and the 3 Sisters Bluegrass Festival . The streets and venues fill with musicians and fans dedicated to upholding the traditions of bluegrass music. Chattanooga has always been a city of convergence.",
-      "summary_zh": "查塔努加可能以其自然美景而闻名，周围环绕着山脉、山谷和田纳西河。这座迷人的阿巴拉契亚城市也是一年一度的音乐节的举办地，如 IBMA 蓝草世界和三姐妹蓝草音乐节。街道和场馆里挤满了致力于维护蓝草音乐传统的音乐家和粉丝。查塔努加一直是一座融合的城市。",
-      "translation_status": "fallback",
-      "image": "https://img.atlasobscura.com/GpOcqtFCI_xfjSieQEyIjHlUcOpWd-YqwZBK9qJ2hmg/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85YTEwZDQzOC1j/OWI3LTQ0YzYtOWQx/NC1lN2Y3YTAzY2Vk/YmM5NTI4ZmVlMjgw/ZTFmZTcwOWNfSU1H/XzE0MDMuanBlZw.jpg",
-      "image_checked": true,
-      "source": "Atlas Obscura",
-      "source_id": "atlas-obscura",
-      "region": "全球",
-      "published_at": "2026-10-09T02:51:00+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "婚俗宗教"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "f048e0c1979ef89a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

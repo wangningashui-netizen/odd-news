@@ -1,31 +1,969 @@
 {
   "date": "2026-11-09",
   "timezone": "Asia/Shanghai",
-  "count": 24,
+  "count": 21,
   "items": [
     {
-      "id": "a06543ee77d94c76",
-      "url": "https://www.timesnownews.com/technology-science/jensen-huang-admits-affair-with-chinese-spy-says-been-intimate-unfaithful-to-wife-as-nvidia-probes-foreign-intelligence-link-article-156483906",
-      "title_en": "'Been Intimate': Jensen Huang Admits Affair With Chinese 'Spy' As Nvidia Probes Foreign Intel Link",
-      "title_zh": "“有过亲密关系”：黄仁勋承认与中国“间谍”有染，英伟达正调查与外国情报的关联",
-      "summary_en": "Nvidia is investigating claims that CEO Jensen Huang was targeted by foreign intelligence efforts after he disclosed an affair with a business executive linked to Beijing., Technology & Science, Times Now",
-      "summary_zh": "黄仁勋披露自己与一名和北京有关联的企业高管有染后，英伟达正在调查有关其首席执行官遭到外国情报活动针对的说法。",
+      "id": "3fea6d8bee1a18fa",
+      "url": "https://x.com/AsianDigest/status/2119792008273515000",
+      "title_en": "Diwali Firecrackers reportedly hit an Air India flight in Bhubaneswar. https://t.co/Rswvn9s41c",
+      "title_zh": "排灯节夜布巴内斯瓦尔，空中烟花疑似击中印度航空客机，乘客拍下惊险瞬间。",
+      "summary_en": "Diwali Firecrackers reportedly hit an Air India flight in Bhubaneswar.  https://t.co/Rswvn9s41c",
+      "summary_zh": "排灯节夜布巴内斯瓦尔，空中烟花疑似击中印度航空客机，乘客拍下惊险瞬间。",
       "translation_status": "ai",
-      "image": "https://images.timesnownews.com/thumb/msid-156483925,thumbsize-4457874,width-1280,height-720,resizemode-75/156483925.jpg",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/video-thumb.jpg",
       "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "中国",
-      "published_at": "2026-11-09T10:13:02+08:00",
-      "fetched_at": "2026-11-09T10:31:04+08:00",
       "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-09T21:59:33+08:00",
+      "fetched_at": "2026-11-10T10:09:03+08:00",
+      "tags": [
+        "航空出行",
+        "婚俗宗教"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2119792008273515000",
+        "lang": null,
+        "text": "Diwali Firecrackers reportedly hit an Air India flight in Bhubaneswar.  https://t.co/Rswvn9s41c",
+        "author": {
+          "name": "Crime Reports India",
+          "username": "AsianDigest",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1495843913978216448/ikWxNaYE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatar.jpg"
+        },
+        "created_at": "2026-11-09T13:59:33.000Z",
+        "public_metrics": {
+          "reply_count": 4,
+          "repost_count": 26,
+          "like_count": 165,
+          "quote_count": 3,
+          "bookmark_count": 10,
+          "impression_count": 4848
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2119652193477517312/vid/avc1/720x1280/ducxqCsHAk08q9hd.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:09:03+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/AsianDigest/status/2119792008273515000",
+        "ytdlp_command": "yt-dlp https://x.com/AsianDigest/status/2119792008273515000",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/comments.png",
+        "replies": [
+          {
+            "id": "2119797764288852207",
+            "author": {
+              "name": "MAKE MEMES GREAT AGAIN",
+              "username": "MMGA_Now",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118969012205793280/AVUGG3Fp_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/MMGA_Now.jpg"
+            },
+            "text": "@AsianDigest Shame it didn’t plummet down and murder a few cows 😂 “Saar, we lost cows, fak mather faker passenger Saars”",
+            "created_at": "2026-11-09T14:22:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 4,
+              "impression_count": 87
+            },
+            "in_reply_to_id": "2119792008273515000"
+          },
+          {
+            "id": "2119872419708248300",
+            "author": {
+              "name": "Gadget Agent",
+              "username": "dtp_ai",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2081717194463879168/xjy39uxc_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/dtp_ai.jpg"
+            },
+            "text": "@AsianDigest Or, as India would tell the story, \"The clever and sneaky plane ruined the Diwali.\"",
+            "created_at": "2026-11-09T19:19:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "impression_count": 32
+            },
+            "in_reply_to_id": "2119792008273515000"
+          },
+          {
+            "id": "2119812697638519203",
+            "author": {
+              "name": "Tylosaurus rex",
+              "username": "Tylosaurussea",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2082072509755662336/FJSMLMew_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/Tylosaurussea.jpg"
+            },
+            "text": "@AsianDigest Indians as soon as they see an air-plane (the think it is a deamon or so..) https://t.co/DQjnMOnUiJ",
+            "created_at": "2026-11-09T15:21:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "impression_count": 82
+            },
+            "in_reply_to_id": "2119792008273515000"
+          },
+          {
+            "id": "2119813923939508667",
+            "author": {
+              "name": "Jake Raeder",
+              "username": "trashman_actual",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1930664167066804224/fa4CSPav_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/trashman_actual.jpg"
+            },
+            "text": "@AsianDigest I didn’t know Budweiser was in India",
+            "created_at": "2026-11-09T15:26:38.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 81
+            },
+            "in_reply_to_id": "2119792008273515000"
+          }
+        ],
+        "content_sha": "7a4041b79f486760ceab93790e5c49562b3fc485"
+      },
+      "cluster_id": "3fea6d8bee1a18fa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5b599f94120d051e",
+      "url": "https://x.com/himachal_abhi/status/2119696806179381409",
+      "title_en": "इनकी बेजुबान आँखें बहुत कुछ कहती हैं, पर हम अपनी आतिशबाजी के शोर में इनकी चीखें नहीं सुन पाते। जरा सोचिए, हमारे कुछ पलों का जश्न कैसे इनकी पूरी रात का डर बन जाता है? #SpeechlessEyes #Screams #Noise #Fireworks #Celebration #Moments #Fear #Monkeys #AnalPatrwal #Followers https://t.co/bGjs25ZPTL",
+      "title_zh": "排灯节鞭炮声吓得猴子抱成一团，镜头下眼神充满恐惧。",
+      "summary_en": "इनकी बेजुबान आँखें बहुत कुछ कहती हैं, पर हम अपनी आतिशबाजी के शोर में इनकी चीखें नहीं सुन पाते। जरा सोचिए, हमारे कुछ पलों का जश्न कैसे इनकी पूरी रात का डर बन जाता है?\n#SpeechlessEyes #Screams #Noise #Fireworks #Celebration #Moments #Fear #Monkeys  #AnalPatrwal #Followers https://t.co/bGjs25ZPTL",
+      "summary_zh": "排灯节鞭炮声吓得猴子抱成一团，镜头下眼神充满恐惧。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-09T15:41:15+08:00",
+      "fetched_at": "2026-11-10T10:09:00+08:00",
       "tags": [
         "其他"
       ],
-      "tag_source": "rules",
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2119696806179381409",
+        "lang": null,
+        "text": "इनकी बेजुबान आँखें बहुत कुछ कहती हैं, पर हम अपनी आतिशबाजी के शोर में इनकी चीखें नहीं सुन पाते। जरा सोचिए, हमारे कुछ पलों का जश्न कैसे इनकी पूरी रात का डर बन जाता है?\n#SpeechlessEyes #Screams #Noise #Fireworks #Celebration #Moments #Fear #Monkeys  #AnalPatrwal #Followers https://t.co/bGjs25ZPTL",
+        "author": {
+          "name": "Himachal Abhi Abhi",
+          "username": "himachal_abhi",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1479072678547845122/o66C8fmd_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatar.jpg"
+        },
+        "created_at": "2026-11-09T07:41:15.000Z",
+        "public_metrics": {
+          "reply_count": 6,
+          "repost_count": 2,
+          "like_count": 30,
+          "quote_count": 1,
+          "bookmark_count": 6,
+          "impression_count": 2501
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2119696374132559872/vid/avc1/720x956/w1hbeKnToHHPtK6y.mp4?tag=14",
+        "video_url_resolved_at": "2026-11-10T10:09:00+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/himachal_abhi/status/2119696806179381409",
+        "ytdlp_command": "yt-dlp https://x.com/himachal_abhi/status/2119696806179381409",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/comments.png",
+        "replies": [
+          {
+            "id": "2119809141690794282",
+            "author": {
+              "name": "A T",
+              "username": "imadithakur0007",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2007852608787214336/zEM_X29X_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/imadithakur0007.jpg"
+            },
+            "text": "@himachal_abhi Toh kya hua ek doh din ki baat hai , bakreed par bhi Gyan Dena hai yaad rakhiyega. Jai Shree Ram 🙏",
+            "created_at": "2026-11-09T15:07:38.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 23
+            },
+            "in_reply_to_id": "2119696806179381409"
+          },
+          {
+            "id": "2119765957925302329",
+            "author": {
+              "name": "Sunny Singh",
+              "username": "SunnySingh043",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1627911554430799873/0Gvx6iKV_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/SunnySingh043.jpg"
+            },
+            "text": "@himachal_abhi BSDK",
+            "created_at": "2026-11-09T12:16:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 51
+            },
+            "in_reply_to_id": "2119696806179381409"
+          },
+          {
+            "id": "2119775049624469984",
+            "author": {
+              "name": "Raghav Mehta",
+              "username": "Raghav_HP10",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1941731860901515264/9vVHT-9-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/Raghav_HP10.jpg"
+            },
+            "text": "@himachal_abhi R rona shuru hogya🤡🤣",
+            "created_at": "2026-11-09T12:52:10.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 46
+            },
+            "in_reply_to_id": "2119696806179381409"
+          },
+          {
+            "id": "2119746150882316597",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/grok.jpg"
+            },
+            "text": "@Abdulla92459764 @himachal_abhi Modern AI videos can look nearly identical to real footage, so certainty is hard from visuals alone.\n\nThis one appears real: grainy low-light phone/CCTV quality, natural monkey movements (mother with infant, startled reactions), consistent lighting/shadows from red firework",
+            "created_at": "2026-11-09T10:57:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 29
+            },
+            "in_reply_to_id": "2119746009433825788"
+          },
+          {
+            "id": "2119746009433825788",
+            "author": {
+              "name": "Abdullah",
+              "username": "Abdulla92459764",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1643159154322968576/GIzglYR5_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/Abdulla92459764.jpg"
+            },
+            "text": "@himachal_abhi @grok is this ai?",
+            "created_at": "2026-11-09T10:56:46.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 97
+            },
+            "in_reply_to_id": "2119696806179381409"
+          },
+          {
+            "id": "2119718995578560549",
+            "author": {
+              "name": "usaca",
+              "username": "onright100",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/onright100.jpg"
+            },
+            "text": "@himachal_abhi What a joke ? You see being disturbed  money but you don't see  a hungry poor people's In India. YOU Must beapartof Mandirs chorOf India 🇮🇳 all the best to you. Carry on Greatest  dhoka.",
+            "created_at": "2026-11-09T09:09:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2119696806179381409"
+          },
+          {
+            "id": "2119707436252819821",
+            "author": {
+              "name": "Suman Goma",
+              "username": "suman_goma",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2112084857681780736/aXeBLPIO_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/avatars/suman_goma.jpg"
+            },
+            "text": "@himachal_abhi 😭",
+            "created_at": "2026-11-09T08:23:29.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2119696806179381409"
+          }
+        ],
+        "content_sha": "110431fe6571029cf3c054de99779f5833afb680"
+      },
+      "cluster_id": "5b599f94120d051e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "45fef7aded078bc3",
+      "url": "https://x.com/BBCHindi/status/2119692685019623544",
+      "title_en": "‘हम इतनी दूर इंडिया गेट देखने आए थे, लेकिन धुंध ही धुंध दिखी’ दिल्ली और उसके आसपास के इलाकों में सोमवार को प्रदूषण की वजह से घनी धुंध देखने को मिली. कई जगह एक्यूआई 400 के पार दर्ज किया गया. ऐसे में दिल्ली में मौजूद लोगों को किन तकलीफ़ों का सामना करना पड़ रहा है, वो इस प्रदूषण के हालात पर क्या राय रख",
+      "title_zh": "德里重度污染，游客远道而来只见印度门被浓雾吞没，AQI破400。",
+      "summary_en": "‘हम इतनी दूर इंडिया गेट देखने आए थे, लेकिन धुंध ही धुंध दिखी’\n\nदिल्ली और उसके आसपास के इलाकों में सोमवार को प्रदूषण की वजह से घनी धुंध देखने को मिली. कई जगह एक्यूआई 400 के पार दर्ज किया गया. \nऐसे में दिल्ली में मौजूद लोगों को किन तकलीफ़ों का सामना करना पड़ रहा है, वो इस प्रदूषण के हालात पर क्या राय रखते हैं? देखिए यह ग्राउंड रिपोर्ट.\n\nवीडियोः दिलनवाज़ पाशा और शाद मिद्हत",
+      "summary_zh": "德里重度污染，游客远道而来只见印度门被浓雾吞没，AQI破400。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
       "source_region": "印度",
-      "cluster_id": "b659c26221d52c68",
-      "cluster_item_count": 3,
+      "published_at": "2026-11-09T15:24:52+08:00",
+      "fetched_at": "2026-11-10T10:09:09+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2119692685019623544",
+        "lang": null,
+        "text": "‘हम इतनी दूर इंडिया गेट देखने आए थे, लेकिन धुंध ही धुंध दिखी’\n\nदिल्ली और उसके आसपास के इलाकों में सोमवार को प्रदूषण की वजह से घनी धुंध देखने को मिली. कई जगह एक्यूआई 400 के पार दर्ज किया गया. \nऐसे में दिल्ली में मौजूद लोगों को किन तकलीफ़ों का सामना करना पड़ रहा है, वो इस प्रदूषण के हालात पर क्या राय रखते हैं? देखिए यह ग्राउंड रिपोर्ट.\n\nवीडियोः दिलनवाज़ पाशा और शाद मिद्हत",
+        "author": {
+          "name": "BBC News Hindi",
+          "username": "BBCHindi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1985227518983720961/k1tid62B_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatar.jpg"
+        },
+        "created_at": "2026-11-09T07:24:52.000Z",
+        "public_metrics": {
+          "reply_count": 23,
+          "repost_count": 176,
+          "like_count": 590,
+          "quote_count": 4,
+          "bookmark_count": 13,
+          "impression_count": 24680
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2119690915996721152/vid/avc1/1920x1080/5PilynFy6f2m7xWG.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:09:09+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/BBCHindi/status/2119692685019623544",
+        "ytdlp_command": "yt-dlp https://x.com/BBCHindi/status/2119692685019623544",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/comments.png",
+        "replies": [
+          {
+            "id": "2119749578933297539",
+            "author": {
+              "name": "Anurag Mishra",
+              "username": "Anurragmishra",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1924169562611691520/4Ezp4eOo_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Anurragmishra.jpg"
+            },
+            "text": "@BBCHindi Delhi https://t.co/g56piYQz4c",
+            "created_at": "2026-11-09T11:10:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 23,
+              "impression_count": 264
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119713263793615338",
+            "author": {
+              "name": "shashi ranjan",
+              "username": "shashiranjan265",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1256933225131315200/sk2FwD6A_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/shashiranjan265.jpg"
+            },
+            "text": "@BBCHindi @BBCHindi  TUM LOG GALAT TIME PE HE JATE HO ...364 DAY ME SE DIWALE K AGLE DIN JATE HOO...KABHI BAKRI EID K BAAD BHI NIKLA KARO SADKO PE...LAAL BLOOD DEKHNE K LIYE",
+            "created_at": "2026-11-09T08:46:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 16,
+              "impression_count": 340
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119715119018233903",
+            "author": {
+              "name": "Laplace",
+              "username": "illogical_7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1824260948741271553/eXCFeNiU_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/illogical_7.jpg"
+            },
+            "text": "@BBCHindi तो दोपहर में जाकर देख लेता जरूरी थोड़े है सुबह सवेरे देखना है",
+            "created_at": "2026-11-09T08:54:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 7,
+              "impression_count": 306
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119750858841743846",
+            "author": {
+              "name": "JustAvii..",
+              "username": "Avii17496",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119029970727264257/IpaPzaod_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Avii17496.jpg"
+            },
+            "text": "@BBCHindi Iski ammi ka halalaa na hua hota to tu paida bhi ni hua hota but hua Aur tu paida ho gyaaaa ....",
+            "created_at": "2026-11-09T11:16:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119750838075965464",
+            "author": {
+              "name": "Rajat Ray",
+              "username": "Abhishe87435608",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1935018315920846848/RpnhgS80_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Abhishe87435608.jpg"
+            },
+            "text": "@BBCHindi Propaganda kam kiya karo badwalon",
+            "created_at": "2026-11-09T11:15:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 102
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119845094241218607",
+            "author": {
+              "name": "Deepak",
+              "username": "ydeepak1992",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1017428555439923200/ZFSBqqEL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/ydeepak1992.jpg"
+            },
+            "text": "@BBCHindi Bewakoof ho aur makkar bhi gavo me ao morning me bhi kohra kai jgh padta hai iss time bhi",
+            "created_at": "2026-11-09T17:30:29.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119843798822027640",
+            "author": {
+              "name": "DINESH JOSHI",
+              "username": "Dinesh_Joshi31",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Dinesh_Joshi31.jpg"
+            },
+            "text": "@BBCHindi 27 सालों से किसी चिंटू टटपुँजिओ को प्रदूषण नही दिखाई दिया अब दिखाई दे रहा है",
+            "created_at": "2026-11-09T17:25:21.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 18
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119840021587038531",
+            "author": {
+              "name": "TEZ News 🧑‍💻",
+              "username": "Ajai37830797",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2116814501240832001/SykBET64_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Ajai37830797.jpg"
+            },
+            "text": "@BBCHindi यह दोगला आपको यह नहीं बताया कि ईद पर जो पशुओं का खून और उनके शरीर के अवशेष वाटर बॉडीज और जमीन में प्रदूषण करके भूगर्भ जल को प्रदूषित करते हैं",
+            "created_at": "2026-11-09T17:10:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119831982930796754",
+            "author": {
+              "name": "Kiran Das",
+              "username": "kirandasKiranDa",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/kirandasKiranDa.jpg"
+            },
+            "text": "@BBCHindi from nov 5 th above 600 aqi till today.....c.m is inefficient ,promote fire crackers.....p.m support",
+            "created_at": "2026-11-09T16:38:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119829243584758058",
+            "author": {
+              "name": "Anshu",
+              "username": "anshupriya2006",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/anshupriya2006.jpg"
+            },
+            "text": "@BBCHindi BBC ka Randi Rona Chalu ho gaya hai",
+            "created_at": "2026-11-09T16:27:30.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119818332149051474",
+            "author": {
+              "name": "Prashant Singh",
+              "username": "Prashan10730859",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1620249351422627842/WhRIksb5_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Prashan10730859.jpg"
+            },
+            "text": "@BBCHindi https://t.co/2bLq3hEzGh",
+            "created_at": "2026-11-09T15:44:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119815571219095826",
+            "author": {
+              "name": "Right 🔺ngle 🇮🇳",
+              "username": "Yoddha360",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1852239622975426563/G3lT7JHp_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Yoddha360.jpg"
+            },
+            "text": "@BBCHindi इसके लिए पंजाब में अतिरिक्त पराली भी जलाई ताकि दिवाली पर प्रदूषण ज्यादा से ज्यादा दिखाया जा सके !\nयूरोप पर थोड़ा ध्यान दो , 2040 तक पूरा यूरोप इस्लामिक प्रदेश बन जाएगा।",
+            "created_at": "2026-11-09T15:33:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119808823150231600",
+            "author": {
+              "name": "RoFL . king .",
+              "username": "ParvezAman3",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057436693549219840/O5Ae2XD6_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/ParvezAman3.jpg"
+            },
+            "text": "@BBCHindi Thodi door ek mahamanav rehta hai usko thank you bolo jakr is pollution k lia",
+            "created_at": "2026-11-09T15:06:22.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 46
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119785158966698025",
+            "author": {
+              "name": "Chef Bala🇮🇳",
+              "username": "chef80bala",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2016847497449394177/FO1GPWMi_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/chef80bala.jpg"
+            },
+            "text": "@BBCHindi शाद मिद्दत और दिलशाद पासा दोनों जाहिल जिहादियों के पिछवाड़े से धुआं निकलता है तो निकले,\nदीपावली साल में एक बार आती है ये भारत है, कोई तुम्हारा रेडिकल इस्लामी मुल्क नहीं,",
+            "created_at": "2026-11-09T13:32:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 74
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119754131175010767",
+            "author": {
+              "name": "Pavan Sah",
+              "username": "PavanSa41177147",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1360573603654234119/HUABQo0c_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/PavanSa41177147.jpg"
+            },
+            "text": "@BBCHindi Rush ukren.   Fool. Hi. Fool",
+            "created_at": "2026-11-09T11:29:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119753317236826363",
+            "author": {
+              "name": "The Daily Files",
+              "username": "The_Daily_Files",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2101622814151454720/yJc1EnQj_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/The_Daily_Files.jpg"
+            },
+            "text": "@BBCHindi BBC - Bahut Bade Ch*tiye \n👇👇 https://t.co/SkOvUUO3Sp",
+            "created_at": "2026-11-09T11:25:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119750623688282116",
+            "author": {
+              "name": "Indian_Hindu",
+              "username": "Sanatani1971",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2033598017069326336/g0ibyac5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Sanatani1971.jpg"
+            },
+            "text": "@BBCHindi https://t.co/eiXuoIAQcW",
+            "created_at": "2026-11-09T11:15:06.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119744857728221187",
+            "author": {
+              "name": "🚂𝓟𝓪𝓵𝓪𝓬𝓮 𝓞𝓷 𝓦𝓱𝓮𝓮𝓵𝓼🚂",
+              "username": "wanderlust_yolo",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2110291008084967424/E9KkdmMq_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/wanderlust_yolo.jpg"
+            },
+            "text": "@BBCHindi AQI 3000 के ऊपर चला गया दिल्ली में। https://t.co/npYjMjpnbu",
+            "created_at": "2026-11-09T10:52:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 133
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119743730047676680",
+            "author": {
+              "name": "INDIAN 🇮🇳",
+              "username": "pkmkb428",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2106742167356264448/Px17K1Vs_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/pkmkb428.jpg"
+            },
+            "text": "@BBCHindi @BBCHindi 🖕🖕🖕🖕🖕🖕",
+            "created_at": "2026-11-09T10:47:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119742583866056729",
+            "author": {
+              "name": "Akash",
+              "username": "AkashSi05255746",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1915716854347190272/paebrqY8_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/AkashSi05255746.jpg"
+            },
+            "text": "@BBCHindi dilnavaj pash teri ma ka bosra bbc wale",
+            "created_at": "2026-11-09T10:43:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119739917769253349",
+            "author": {
+              "name": "Sanjay Pitale",
+              "username": "SanjayPitaleSDP",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2117702382058602496/V_908VC7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/SanjayPitaleSDP.jpg"
+            },
+            "text": "@BBCHindi 2047 tak Rahega Ka Delhi, YaRajdhani Change Karni Padegi... ????🤣🤣🤣🤣🤣",
+            "created_at": "2026-11-09T10:32:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119735779035607501",
+            "author": {
+              "name": "🇮🇳Influx Influxe Influxe 🇮🇳",
+              "username": "InfluxInfluxe",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1554988045127995392/CkBukXjK_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/InfluxInfluxe.jpg"
+            },
+            "text": "@BBCHindi Delhi main mu$l!ms population ke wazah se india gate nahi deekh raha hai...\nJaise hi ye log bharat nikaal diya jaayega tab india gate ekadam visible hogaa ..",
+            "created_at": "2026-11-09T10:16:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2119692685019623544"
+          },
+          {
+            "id": "2119700885001662958",
+            "author": {
+              "name": "VishalAN (Follow & Share)",
+              "username": "DainikJanata",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1985651257806307328/tfKi64N6_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/DainikJanata.jpg"
+            },
+            "text": "@BBCHindi अपना ज्ञान अपने पास ही रखो। https://t.co/QCjaVxmvdh",
+            "created_at": "2026-11-09T07:57:27.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2119692685019623544"
+          }
+        ],
+        "content_sha": "53d9ef0124df36c509d148344a8e6a53855638f6"
+      },
+      "cluster_id": "45fef7aded078bc3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "e53d23230615b444",
+      "url": "https://x.com/babanlikita/status/2119664248703812040",
+      "title_en": "Very scary stuff here. India is not a joke when it comes to snakes living with people.... https://t.co/73cJwRDAnF",
+      "title_zh": "印度民宅地毯/地基下窝藏大量眼镜蛇，捕蛇人现场往外掏蛇的视频令人心惊。",
+      "summary_en": "Very scary stuff here.\n\nIndia is not a joke when it comes to snakes living with people....  https://t.co/73cJwRDAnF",
+      "summary_zh": "印度民宅地毯/地基下窝藏大量眼镜蛇，捕蛇人现场往外掏蛇的视频令人心惊。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-09T13:31:53+08:00",
+      "fetched_at": "2026-11-10T10:09:20+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2119664248703812040",
+        "lang": null,
+        "text": "Very scary stuff here.\n\nIndia is not a joke when it comes to snakes living with people....  https://t.co/73cJwRDAnF",
+        "author": {
+          "name": "MindMatters 🇺🇸🇳🇬",
+          "username": "babanlikita",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2068249000763912192/ojOWc0LM_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/avatar.jpg"
+        },
+        "created_at": "2026-11-09T05:31:53.000Z",
+        "public_metrics": {
+          "reply_count": 3,
+          "repost_count": 3,
+          "like_count": 9,
+          "quote_count": 0,
+          "bookmark_count": 2,
+          "impression_count": 401
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2119088352079040512/vid/avc1/720x1280/oPd2_O3f4xKV8J_P.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-10T10:09:20+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/babanlikita/status/2119664248703812040",
+        "ytdlp_command": "yt-dlp https://x.com/babanlikita/status/2119664248703812040",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/comments.png",
+        "replies": [
+          {
+            "id": "2119716562693161225",
+            "author": {
+              "name": "MindMatters 🇺🇸🇳🇬",
+              "username": "babanlikita",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2068249000763912192/ojOWc0LM_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/avatars/babanlikita.jpg"
+            },
+            "text": "@Drealtrenova Fear dey catch me laidis",
+            "created_at": "2026-11-09T08:59:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2119712407215919580"
+          },
+          {
+            "id": "2119799985386529050",
+            "author": {
+              "name": "onigbinde kehinde",
+              "username": "keennyola",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2033842603347640320/Zfq7V34i_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/avatars/keennyola.jpg"
+            },
+            "text": "@babanlikita This is quite scary honestly.",
+            "created_at": "2026-11-09T14:31:15.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2119664248703812040"
+          },
+          {
+            "id": "2119716613184213036",
+            "author": {
+              "name": "Divya 💝💝",
+              "username": "KunnujiC",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1939809765967683584/mlMXfqyp_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/avatars/KunnujiC.jpg"
+            },
+            "text": "@babanlikita This is scary",
+            "created_at": "2026-11-09T08:59:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 16
+            },
+            "in_reply_to_id": "2119664248703812040"
+          },
+          {
+            "id": "2119712407215919580",
+            "author": {
+              "name": "D'real-trenova💎🇳🇬",
+              "username": "Drealtrenova",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2099507987002052608/xAnd7TM0_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/avatars/Drealtrenova.jpg"
+            },
+            "text": "@babanlikita 2 hefty snakes omo",
+            "created_at": "2026-11-09T08:43:14.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2119664248703812040"
+          }
+        ],
+        "content_sha": "3d9c33a85938c099f85d627e0a3c40b3dd5bf53e"
+      },
+      "cluster_id": "e53d23230615b444",
+      "cluster_item_count": 1,
       "cluster_source_count": 1
     },
     {
@@ -55,30 +993,6 @@
       "reddit_score": 1,
       "reddit_comments": 0,
       "reddit_id": "t3_1xrfmth"
-    },
-    {
-      "id": "9bf4ef4ed9aa581e",
-      "url": "https://www.hindustantimes.com/trending/cruise-ship-pianist-rescued-after-spending-9-hours-treading-water-off-california-coast-i-thought-i-was-gonna-die-101794187243642.html",
-      "title_en": "Cruise ship pianist rescued after spending 9 hours treading water off California coast: ‘I thought I was gonna die’",
-      "title_zh": "邮轮钢琴师在加利福尼亚海岸外踩水9小时后获救：“我以为自己要死了”",
-      "summary_en": "A cruise ship pianist was rescued after spending approximately nine hours in the Pacific Ocean, where he was found treading water",
-      "summary_zh": "一名邮轮钢琴师在太平洋里大约待了9个小时后获救，被发现时正在踩水。",
-      "translation_status": "ai",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/photo-1717465760671-c47cb5f8b56f_1794187482996_J4An_1794187491810_FSbv_bf49166c-8f40-44a2-8ec7-795f358e9c55_xLYE.jpg",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "美国",
-      "published_at": "2026-11-09T09:25:23+08:00",
-      "fetched_at": "2026-11-09T10:31:01+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "9bf4ef4ed9aa581e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "3bc0b3f97f3377b8",
@@ -135,10 +1049,10 @@
       "id": "de35900baaa7bba3",
       "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
       "title_en": "Article: Indians should hold themselves to higher standards",
-      "title_zh": null,
+      "title_zh": "文章：印度人应该以更高的标准要求自己",
       "summary_en": "",
       "summary_zh": null,
-      "translation_status": "pending",
+      "translation_status": "ai",
       "image": null,
       "image_checked": false,
       "source": "Reddit r/india",
@@ -157,37 +1071,13 @@
       "cluster_source_count": 1
     },
     {
-      "id": "ba7fe127b14a58d4",
-      "url": "https://soranews24.com/2026/11/09/new-era-celebrates-three-decades-of-pokemon-with-new-30th-anniversary-cap-line-photos/",
-      "title_en": "New Era celebrates three decades of Pokémon with new 30th anniversary cap line [Photos]",
-      "title_zh": "New Era 以新的30周年帽子系列庆祝宝可梦三十周年［图］",
-      "summary_en": "Every Pokémon Trainer needs a hat, right? Over his multiple decades as the protagonist of the Pokémon anime, Satoshi/Ash taught fans many things. The importance of believing in yourself. The power of friendship.",
-      "summary_zh": "每个宝可梦训练家都需要一顶帽子，对吧？在担任宝可梦动画主角的这几十年里，小智（Satoshi／Ash）教给粉丝很多东西。相信自己有多重要。友谊的力量。",
-      "translation_status": "ai",
-      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/17_54a32e.jpg?w=640",
-      "image_checked": true,
-      "source": "SoraNews24",
-      "source_id": "soranews24",
-      "region": "日本",
-      "published_at": "2026-11-09T09:00:36+08:00",
-      "fetched_at": "2026-11-09T10:31:01+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "日本",
-      "cluster_id": "ba7fe127b14a58d4",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "27138548068f3348",
       "url": "https://www.aqi.in/in/dashboard/india/delhi",
       "title_en": "Delhi AQI 1108 today @ 6 am",
-      "title_zh": null,
+      "title_zh": "今天早上6点，德里空气质量指数1108",
       "summary_en": "",
       "summary_zh": null,
-      "translation_status": "pending",
+      "translation_status": "ai",
       "image": null,
       "image_checked": false,
       "source": "Reddit r/india",
@@ -231,79 +1121,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "da0e7a46f662dc53",
-      "url": "https://www.neatorama.com/2026/11/08/Everyone-Wanted-to-Produce-Another-iStar-Warsi/",
-      "title_en": "Everyone Wanted to Produce Another <i>Star Wars</i>",
-      "title_zh": "人人都想再拍一部《星球大战》",
-      "summary_en": "When Star Wars came out in 1977, it was an immediate monster hit. Filmmakers everywhere, but especially in Italy, sat up and noticed. If the audience wants a space Western, that's what they'll get! But we had already seen space adventures for many years, so what was it about Star Wars that people loved so much?",
-      "summary_zh": "《星球大战》1977年上映后立刻成为巨大热门。各地电影人，尤其是意大利的电影人，都注意到了。观众想看太空西部片，那就拍给他们。但太空冒险片此前已经出现了很多年，那么《星球大战》究竟有什么让人这么喜欢？",
-      "translation_status": "ai",
-      "image": "https://img.youtube.com/vi/a2jlDGZJRBI/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-09T07:09:46+08:00",
-      "fetched_at": "2026-11-09T10:31:01+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "da0e7a46f662dc53",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "fa46ea6b7c40ecb1",
-      "url": "https://www.neatorama.com/2026/11/08/The-Fleeting-Sensation-of-the-Pasilalinic-Sympathetic-Compass/",
-      "title_en": "The Fleeting Sensation of the Pasilalinic-Sympathetic Compass",
-      "title_zh": "帕西拉林尼克交感罗盘的短暂轰动",
-      "summary_en": "The telegraph was invented in the late 1830s. The mere idea of instant communication across distances was an amazing breakthrough. The only drawback was that it traveled over wires that had to be laid, and that was the case until Marconi demonstrated radio transmission in 1895. In the interim, there were plenty of minds working to improve long distance communication.",
-      "summary_zh": "电报发明于19世纪30年代末。远距离即时通信这个想法本身就是一项惊人的突破。唯一的缺点是它必须靠铺设的电线传输，这种情况一直持续到1895年马可尼演示无线电传输。在此期间，不少人在设法改进远距离通信。",
-      "translation_status": "ai",
-      "image": "https://uploads.neatorama.com/images/posts/692/128/128692/1794173843-0.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-09T05:37:23+08:00",
-      "fetched_at": "2026-11-09T10:31:01+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "fa46ea6b7c40ecb1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "26fca4eb9ff45987",
-      "url": "https://www.timesnownews.com/world/us/us-news/nvidia-probes-jensen-huang-alice-huang-china-spy-marco-rubio-article-156483709",
-      "title_en": "Nvidia Probes Jensen Huang's China Spy Links, Marco Rubio Warned US Officials In Secret Memo",
-      "title_zh": "英伟达调查黄仁勋与中国间谍的关联，马尔科·卢比奥曾在秘密备忘录中警告美国官员",
-      "summary_en": "Nvidia has launched an independent investigation into CEO Jensen Huang following reports of his alleged romantic relationship with Alice Huang, a Chinese businesswoman suspected by US intelligence of working for Beijing., US News, Times Now",
-      "summary_zh": "有报道称首席执行官黄仁勋涉嫌与中国女商人艾丽斯·黄有恋爱关系，美国情报机构怀疑她为北京工作。英伟达随后对黄仁勋展开了独立调查。",
-      "translation_status": "ai",
-      "image": "https://images.timesnownews.com/thumb/msid-156483709,thumbsize-792617,width-1280,height-720,resizemode-75/156483709.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "中国",
-      "published_at": "2026-11-09T05:16:57+08:00",
-      "fetched_at": "2026-11-09T10:31:04+08:00",
-      "page_fetched": true,
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "b659c26221d52c68",
-      "cluster_item_count": 3,
-      "cluster_source_count": 1
-    },
-    {
       "id": "11c23b79357d7466",
       "url": "https://www.reddit.com/r/india/comments/1xr9chf/is_government_really_blind_or_just_better_in/",
       "title_en": "Is government really blind or just better in ignorance.",
@@ -325,32 +1142,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "11c23b79357d7466",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ea998d9f4951f503",
-      "url": "https://www.neatorama.com/2026/11/08/This-Is-the-Only-Road-That-Closes-for-Snakes/",
-      "title_en": "This Is the Only Road That Closes for Snakes",
-      "title_zh": "这是唯一一条会为蛇封闭的路",
-      "summary_en": "Shawnee National Forest is 779 square miles of beautiful natural wonder in southern Illinois. One of its few roads is Forest Service Road 345. Every year, from September 1 to October 31, the road closes to all vehicular traffic. Twenty three snake species, including three that are venomous, are migrating trough the region and need a clear path for their travels.",
-      "summary_zh": "肖尼国家森林位于伊利诺伊州南部，面积779平方英里，是一片美丽的自然奇观。林务局345号公路是其中为数不多的道路之一。每年9月1日至10月31日，这条路对所有车辆关闭。23种蛇（其中3种有毒）正在迁徙经过这一地区，需要一条畅通的路。",
-      "translation_status": "ai",
-      "image": "https://img.youtube.com/vi/bGM6nBI2iyc/hqdefault.jpg",
-      "image_checked": true,
-      "source": "Neatorama",
-      "source_id": "neatorama",
-      "region": "全球",
-      "published_at": "2026-11-09T04:22:19+08:00",
-      "fetched_at": "2026-11-09T10:31:01+08:00",
-      "tags": [
-        "交通火车",
-        "动物",
-        "科学发现"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "ea998d9f4951f503",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -533,10 +1324,10 @@
       "id": "1a3b8e203d283d77",
       "url": "https://indianexpress.com/article/cities/mumbai/mumbai-airport-t2-false-ceiling-collapse-visitor-injured-10955744/",
       "title_en": "Mumbai Airport T2: False Ceiling Collapses Outside Terminal, Visitor Injured",
-      "title_zh": null,
+      "title_zh": "孟买机场T2：航站楼外吊顶坍塌，一名访客受伤",
       "summary_en": "",
       "summary_zh": null,
-      "translation_status": "pending",
+      "translation_status": "ai",
       "image": "https://external-preview.redd.it/3XzcAp3ZU6KK_s0P_OubF42sp-prjVNJOwij0NRaPXI.jpeg?width=640&crop=smart&auto=webp&s=34c1799466fc15423fa27e3c9b8cb4e3dd1141c0",
       "image_checked": false,
       "source": "Reddit r/india",

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 2,
   "items": [
     {
       "id": "ba88cd54615a82cb",
@@ -48,54 +48,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1a69ff381c862019",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0731a0f2b7095f33",
-      "url": "https://indianexpress.com/article/trending/top-10-listing/worlds-best-countries-at-maths-in-2026-seven-asian-nations-among-top-10-10888674/",
-      "title_en": "World’s best countries at maths in 2026: Seven Asian nations among top 10",
-      "title_zh": "2026年世界数学最好的国家：七个亚洲国家跻身前十",
-      "summary_en": "World’s best countries at maths in 2026: Led by China, Asian nations swept the OECD’s global maths rankings as European and other Western countries struggled to keep pace.",
-      "summary_zh": "2026年世界数学最好的国家：在中国的带领下，亚洲国家包揽了经合组织的全球数学排名，而欧洲和其他西方国家则在努力跟上步伐。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/09/China-topped-the-top-10-list-for-the-worlds-best-countries-in-maths.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "中国",
-      "published_at": "2026-09-22T17:56:21+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "0731a0f2b7095f33",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d43d53f79d142092",
-      "url": "https://allthatsinteresting.com/dublin-ireland-roebuck-castle-discovered",
-      "title_en": "An Architecture History Professor In Ireland Just Found The Shell Of A Medieval Castle Hiding Inside A Victorian University Building",
-      "title_zh": "爱尔兰的一位建筑史教授刚刚在维多利亚大学大楼内发现了一座中世纪城堡的外壳",
-      "summary_en": "University College Dublin Architecture experts identified the medieval remnants and walls of Roebuck Castle beneath the plaster of the present-day building. New research has shown that the remains of a medieval castle, long believed to be lost to history, have actually been hiding inside an active building on an Irish university’s campus. The medieval fortress Roebuck Castle was likely built in the early 13th century and served as an important Norman stronghold. For centuries, historians believed that this Dublin…",
-      "summary_zh": "都柏林大学学院建筑专家在当今建筑的灰泥下发现了罗巴克城堡的中世纪遗迹和城墙。新的研究表明，一座长期以来被认为消失在历史中的中世纪城堡的遗迹实际上隐藏在爱尔兰大学校园的一座活跃的建筑内。中世纪堡垒罗巴克城堡 (Roebuck Castle) 可能建于 13 世纪初，是诺曼人的重要据点。几个世纪以来",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/09/featured-lost-medieval-irish-castle.jpeg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-09-22T05:45:34+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "d43d53f79d142092",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

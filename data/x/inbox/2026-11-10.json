@@ -1,0 +1,2492 @@
+{
+  "date": "2026-11-10",
+  "posts": [
+    {
+      "id": "2118250999898882303",
+      "url": "https://x.com/PressSecretary7/status/2118250999898882303",
+      "author": {
+        "name": "The Press Secretary",
+        "username": "PressSecretary7",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-05T07:56:08.000Z",
+      "text": "Indian police wrestle a giant rat in a crowded street. Half the internet says it's real, half says it's AI.\nHey @grok, real or fake? And by what year will nobody be able to tell? Give a year. https://t.co/eqSq7TDHWI",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 7,
+        "repost_count": 3,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1791
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2118250974997360640/img/1TsCt9gT80zsGn5q.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2118250974997360640/vid/avc1/720x1280/uxgz6mbTN1TpmlCG.mp4",
+      "title_zh": "印度警察街头用绳子制服巨型大鼠（班迪库鼠），网民争论是不是AI造假。",
+      "summary_zh": "印度警察街头用绳子制服巨型大鼠（班迪库鼠），网民争论是不是AI造假。",
+      "tags": [
+        "街头食物",
+        "犯罪法律"
+      ],
+      "replies": [
+        {
+          "id": "2118330706921193841",
+          "author": {
+            "name": "Gandalf",
+            "username": "leje5411",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2094534203064954880/zdjwXhBz_normal.jpg",
+            "verified": false
+          },
+          "text": "@PressSecretary7 @grok Master Splinter?",
+          "created_at": "2026-11-05T13:12:51.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 33
+          },
+          "in_reply_to_id": "2118250999898882303"
+        },
+        {
+          "id": "2118437441703161875",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "@grok @grok you didn’t answer",
+          "created_at": "2026-11-05T20:16:59.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 41
+          },
+          "in_reply_to_id": "2118326998900916238"
+        },
+        {
+          "id": "2118331728238629270",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "@leje5411 @grok They are looking for the Ninja Turtles 🐢😄",
+          "created_at": "2026-11-05T13:16:55.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 38
+          },
+          "in_reply_to_id": "2118330706921193841"
+        },
+        {
+          "id": "2118326998900916238",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "Hey @grok, if this rat is Splinter, Mumbai's sewers must be hiding the Ninja Turtles too. When will the city find them? Give a date and the first turtle they catch.",
+          "created_at": "2026-11-05T12:58:07.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 78
+          },
+          "in_reply_to_id": "2118250999898882303"
+        },
+        {
+          "id": "2118298415775797427",
+          "author": {
+            "name": "Grok",
+            "username": "grok",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+            "verified": true
+          },
+          "text": "@PressSecretary7 70 cm (max body ~45 cm + tail ~28 cm for a large adult).",
+          "created_at": "2026-11-05T11:04:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 21
+          },
+          "in_reply_to_id": "2118298230752772350"
+        },
+        {
+          "id": "2118298230752772350",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "Hey @grok, in the video the rat is standing up and looks almost human-sized. How tall is a greater bandicoot rat standing on its back legs, tail included? Give a number in cm.",
+          "created_at": "2026-11-05T11:03:48.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 85
+          },
+          "in_reply_to_id": "2118250999898882303"
+        },
+        {
+          "id": "2118296508667707745",
+          "author": {
+            "name": "Grok",
+            "username": "grok",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+            "verified": true
+          },
+          "text": "@PressSecretary7 Healthy greater bandicoot rat (left) vs normal Norway city rat (right), accurate relative scale. Body length ~25-35 cm vs ~20-25 cm, weight up to 1 kg vs 0.3-0.5 kg. Larger and bulkier than a city rat, but not as big as a full-grown cat (more like a large kitten in length, far https://t.co/TVrVMbJbnH",
+          "created_at": "2026-11-05T10:56:58.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 25
+          },
+          "in_reply_to_id": "2118296185127444964"
+        },
+        {
+          "id": "2118296185127444964",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "Hey @grok, show us what a healthy greater bandicoot rat looks like next to a normal city rat, side by side, real size. Is it really as big as a cat?",
+          "created_at": "2026-11-05T10:55:41.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 92
+          },
+          "in_reply_to_id": "2118250999898882303"
+        },
+        {
+          "id": "2118252872911487457",
+          "author": {
+            "name": "Grok",
+            "username": "grok",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+            "verified": true
+          },
+          "text": "@PressSecretary7 China. \n\nIt mandated visible + machine-readable AI labels on all synthetic video (and other content) starting September 2025—well ahead of the EU (2026), India, or anyone else.",
+          "created_at": "2026-11-05T08:03:34.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 10
+          },
+          "in_reply_to_id": "2118252683949961691"
+        },
+        {
+          "id": "2118252683949961691",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "So it's real, and by 2028 nobody will be able to tell real from AI. Hey @grok, which will be the first country to make AI labels mandatory on every video by 2028? One name.",
+          "created_at": "2026-11-05T08:02:49.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 115
+          },
+          "in_reply_to_id": "2118250999898882303"
+        },
+        {
+          "id": "2118252145380085926",
+          "author": {
+            "name": "Grok",
+            "username": "grok",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+            "verified": true
+          },
+          "text": "@PressSecretary7 City rats won't balloon in size by 2050. Norway rats stay ~20-25 cm body (40-45 cm total with tail). Greater bandicoots already hit 30-45 cm body. Better food and warmer cities boost numbers, not individual bulk—studies show no real size gain over a century. Expect the same",
+          "created_at": "2026-11-05T08:00:41.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 16
+          },
+          "in_reply_to_id": "2118251953482326292"
+        },
+        {
+          "id": "2118251953482326292",
+          "author": {
+            "name": "The Press Secretary",
+            "username": "PressSecretary7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2111364443057561600/vZi6BnIy_normal.jpg",
+            "verified": false
+          },
+          "text": "A rat the size of a cat in an Indian street, and Grok says it's real. Hey @grok, how big will city rats get by 2050 if nothing changes? Give a size in cm.",
+          "created_at": "2026-11-05T07:59:55.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 156
+          },
+          "in_reply_to_id": "2118250999898882303"
+        },
+        {
+          "id": "2118251196834005495",
+          "author": {
+            "name": "Grok",
+            "username": "grok",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+            "verified": true
+          },
+          "text": "@PressSecretary7 Modern AI videos can be virtually indistinguishable from real ones, so visuals alone rarely confirm 100%.\n\nThis looks genuine. Indian police hold a greater bandicoot rat (Bandicota indica) with severe mange—sparse fur, wrinkled skin, red eyes. Near-cat size; forced perspective",
+          "created_at": "2026-11-05T07:56:55.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 91
+          },
+          "in_reply_to_id": "2118250999898882303"
+        }
+      ]
+    },
+    {
+      "id": "2119696806179381409",
+      "url": "https://x.com/himachal_abhi/status/2119696806179381409",
+      "author": {
+        "name": "Himachal Abhi Abhi",
+        "username": "himachal_abhi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1479072678547845122/o66C8fmd_normal.jpg",
+        "verified": false
+      },
+      "created_at": "2026-11-09T07:41:15.000Z",
+      "text": "इनकी बेजुबान आँखें बहुत कुछ कहती हैं, पर हम अपनी आतिशबाजी के शोर में इनकी चीखें नहीं सुन पाते। जरा सोचिए, हमारे कुछ पलों का जश्न कैसे इनकी पूरी रात का डर बन जाता है?\n#SpeechlessEyes #Screams #Noise #Fireworks #Celebration #Moments #Fear #Monkeys  #AnalPatrwal #Followers https://t.co/bGjs25ZPTL",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 6,
+        "repost_count": 2,
+        "like_count": 30,
+        "quote_count": 1,
+        "bookmark_count": 6,
+        "impression_count": 2501
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119696374132559872/img/n7YEOm4FmZfp8qK1.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2119696374132559872/vid/avc1/720x956/w1hbeKnToHHPtK6y.mp4?tag=14",
+      "title_zh": "排灯节鞭炮声吓得猴子抱成一团，镜头下眼神充满恐惧。",
+      "summary_zh": "排灯节鞭炮声吓得猴子抱成一团，镜头下眼神充满恐惧。",
+      "tags": [
+        "其他"
+      ],
+      "replies": [
+        {
+          "id": "2119809141690794282",
+          "author": {
+            "name": "A T",
+            "username": "imadithakur0007",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2007852608787214336/zEM_X29X_normal.jpg",
+            "verified": false
+          },
+          "text": "@himachal_abhi Toh kya hua ek doh din ki baat hai , bakreed par bhi Gyan Dena hai yaad rakhiyega. Jai Shree Ram 🙏",
+          "created_at": "2026-11-09T15:07:38.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 23
+          },
+          "in_reply_to_id": "2119696806179381409"
+        },
+        {
+          "id": "2119765957925302329",
+          "author": {
+            "name": "Sunny Singh",
+            "username": "SunnySingh043",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1627911554430799873/0Gvx6iKV_normal.jpg",
+            "verified": false
+          },
+          "text": "@himachal_abhi BSDK",
+          "created_at": "2026-11-09T12:16:02.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 51
+          },
+          "in_reply_to_id": "2119696806179381409"
+        },
+        {
+          "id": "2119775049624469984",
+          "author": {
+            "name": "Raghav Mehta",
+            "username": "Raghav_HP10",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1941731860901515264/9vVHT-9-_normal.jpg",
+            "verified": false
+          },
+          "text": "@himachal_abhi R rona shuru hogya🤡🤣",
+          "created_at": "2026-11-09T12:52:10.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 46
+          },
+          "in_reply_to_id": "2119696806179381409"
+        },
+        {
+          "id": "2119746150882316597",
+          "author": {
+            "name": "Grok",
+            "username": "grok",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+            "verified": true
+          },
+          "text": "@Abdulla92459764 @himachal_abhi Modern AI videos can look nearly identical to real footage, so certainty is hard from visuals alone.\n\nThis one appears real: grainy low-light phone/CCTV quality, natural monkey movements (mother with infant, startled reactions), consistent lighting/shadows from red firework",
+          "created_at": "2026-11-09T10:57:20.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 29
+          },
+          "in_reply_to_id": "2119746009433825788"
+        },
+        {
+          "id": "2119746009433825788",
+          "author": {
+            "name": "Abdullah",
+            "username": "Abdulla92459764",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1643159154322968576/GIzglYR5_normal.png",
+            "verified": false
+          },
+          "text": "@himachal_abhi @grok is this ai?",
+          "created_at": "2026-11-09T10:56:46.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 97
+          },
+          "in_reply_to_id": "2119696806179381409"
+        },
+        {
+          "id": "2119718995578560549",
+          "author": {
+            "name": "usaca",
+            "username": "onright100",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@himachal_abhi What a joke ? You see being disturbed  money but you don't see  a hungry poor people's In India. YOU Must beapartof Mandirs chorOf India 🇮🇳 all the best to you. Carry on Greatest  dhoka.",
+          "created_at": "2026-11-09T09:09:25.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 4
+          },
+          "in_reply_to_id": "2119696806179381409"
+        },
+        {
+          "id": "2119707436252819821",
+          "author": {
+            "name": "Suman Goma",
+            "username": "suman_goma",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2112084857681780736/aXeBLPIO_normal.jpg",
+            "verified": false
+          },
+          "text": "@himachal_abhi 😭",
+          "created_at": "2026-11-09T08:23:29.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 5
+          },
+          "in_reply_to_id": "2119696806179381409"
+        }
+      ]
+    },
+    {
+      "id": "2119792008273515000",
+      "url": "https://x.com/AsianDigest/status/2119792008273515000",
+      "author": {
+        "name": "Crime Reports India",
+        "username": "AsianDigest",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1495843913978216448/ikWxNaYE_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-09T13:59:33.000Z",
+      "text": "Diwali Firecrackers reportedly hit an Air India flight in Bhubaneswar.  https://t.co/Rswvn9s41c",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 4,
+        "repost_count": 26,
+        "like_count": 165,
+        "quote_count": 3,
+        "bookmark_count": 10,
+        "impression_count": 4848
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119652193477517312/img/6L2CUhHmMHCC9B_o.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2119652193477517312/vid/avc1/720x1280/ducxqCsHAk08q9hd.mp4",
+      "title_zh": "排灯节夜布巴内斯瓦尔，空中烟花疑似击中印度航空客机，乘客拍下惊险瞬间。",
+      "summary_zh": "排灯节夜布巴内斯瓦尔，空中烟花疑似击中印度航空客机，乘客拍下惊险瞬间。",
+      "tags": [
+        "航空出行",
+        "婚俗宗教"
+      ],
+      "replies": [
+        {
+          "id": "2119797764288852207",
+          "author": {
+            "name": "MAKE MEMES GREAT AGAIN",
+            "username": "MMGA_Now",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2118969012205793280/AVUGG3Fp_normal.jpg",
+            "verified": false
+          },
+          "text": "@AsianDigest Shame it didn’t plummet down and murder a few cows 😂 “Saar, we lost cows, fak mather faker passenger Saars”",
+          "created_at": "2026-11-09T14:22:25.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 4,
+            "impression_count": 87
+          },
+          "in_reply_to_id": "2119792008273515000"
+        },
+        {
+          "id": "2119872419708248300",
+          "author": {
+            "name": "Gadget Agent",
+            "username": "dtp_ai",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2081717194463879168/xjy39uxc_normal.jpg",
+            "verified": false
+          },
+          "text": "@AsianDigest Or, as India would tell the story, \"The clever and sneaky plane ruined the Diwali.\"",
+          "created_at": "2026-11-09T19:19:04.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 2,
+            "impression_count": 32
+          },
+          "in_reply_to_id": "2119792008273515000"
+        },
+        {
+          "id": "2119812697638519203",
+          "author": {
+            "name": "Tylosaurus rex",
+            "username": "Tylosaurussea",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2082072509755662336/FJSMLMew_normal.jpg",
+            "verified": false
+          },
+          "text": "@AsianDigest Indians as soon as they see an air-plane (the think it is a deamon or so..) https://t.co/DQjnMOnUiJ",
+          "created_at": "2026-11-09T15:21:45.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 2,
+            "impression_count": 82
+          },
+          "in_reply_to_id": "2119792008273515000"
+        },
+        {
+          "id": "2119813923939508667",
+          "author": {
+            "name": "Jake Raeder",
+            "username": "trashman_actual",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1930664167066804224/fa4CSPav_normal.jpg",
+            "verified": false
+          },
+          "text": "@AsianDigest I didn’t know Budweiser was in India",
+          "created_at": "2026-11-09T15:26:38.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 81
+          },
+          "in_reply_to_id": "2119792008273515000"
+        }
+      ]
+    },
+    {
+      "id": "2119234084899803326",
+      "url": "https://x.com/AjitYadav260/status/2119234084899803326",
+      "author": {
+        "name": "Ajit Yadav",
+        "username": "AjitYadav260",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2043572102855524352/CjRP4eXN_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-08T01:02:33.000Z",
+      "text": "कुंभ मेले में फेमस हुए आकाश यादव दातुन बाय ने आज अपनी बाबू से शादी कर लिया है \n\nजब कुम्भ मेला लगा था तब आकाश यादव को यही उनकी बाबू ने बोला था आप वहां जाके निम का दातुन बेचो \n\nफिर अकाश यादव जौनपुर से सीधा दातुन लेके प्रयागराज मेले में गए......1/2 https://t.co/RzzVhpHSUS",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 31,
+        "repost_count": 28,
+        "like_count": 70,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 10224
+      },
+      "photos": [
+        "https://pbs.twimg.com/media/HWkIJwMa0AA5p_j.jpg",
+        "https://pbs.twimg.com/media/HWkIKdeagAA2JYA.jpg"
+      ],
+      "video_thumbnail": "",
+      "has_video": false,
+      "video_direct_url": "",
+      "title_zh": "大壶节卖牙签走红的「牙签男孩」与女友私奔结婚，称遭女方家人威胁要保护。",
+      "summary_zh": "大壶节卖牙签走红的「牙签男孩」与女友私奔结婚，称遭女方家人威胁要保护。",
+      "tags": [
+        "其他"
+      ],
+      "replies": [
+        {
+          "id": "2119326982483702105",
+          "author": {
+            "name": "Karam Yadav 2.0💛",
+            "username": "KaramD_2",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2028497026355499010/UDIyjJOP_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 ये नहीं थी दूसरी थी",
+          "created_at": "2026-11-08T07:11:42.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 113
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119312452873777547",
+          "author": {
+            "name": "Ajit Yadav",
+            "username": "AjitYadav260",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2043572102855524352/CjRP4eXN_normal.jpg",
+            "verified": false
+          },
+          "text": "@Ankit_Voicee यही इसकी बाबू है जो हर जगह कहता था मेरी बाबू ने ये कहा वो कहा है 🤣",
+          "created_at": "2026-11-08T06:13:58.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 90
+          },
+          "in_reply_to_id": "2119301606990856327"
+        },
+        {
+          "id": "2119297508509733259",
+          "author": {
+            "name": "Meghna Jain",
+            "username": "meghajain1113",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2100308804047167489/ulU2xIcu_normal.jpg",
+            "verified": false
+          },
+          "text": "@cutesneha57 @AjitYadav260 Ye socho paisa ladke k paas aaya ladki k paas aata to kisi or k sath bhag jati..... Ladke nahi badlete usi ka example h ye..... Baki ladkiyo neto paise k liye pata nahi kyabkya badla h",
+          "created_at": "2026-11-08T05:14:35.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 3
+          },
+          "in_reply_to_id": "2119290124320268610"
+        },
+        {
+          "id": "2119255444376244304",
+          "author": {
+            "name": "Nunu",
+            "username": "Dreams_realites",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2098583551646244865/Vm5z7UDG_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बहुत ही अच्छा लगा",
+          "created_at": "2026-11-08T02:27:26.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 45
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119327108908687606",
+          "author": {
+            "name": "Ajit Yadav",
+            "username": "AjitYadav260",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2043572102855524352/CjRP4eXN_normal.jpg",
+            "verified": false
+          },
+          "text": "@KaramD_2 शादी इसी से किया है कल",
+          "created_at": "2026-11-08T07:12:12.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 93
+          },
+          "in_reply_to_id": "2119326982483702105"
+        },
+        {
+          "id": "2119315330279621118",
+          "author": {
+            "name": "Abdul Jabbar",
+            "username": "SagriAbdul",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1987457748272029696/_B3rpcwa_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बहुत बिडिया किया भाई ने",
+          "created_at": "2026-11-08T06:25:24.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 20
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119314646201156005",
+          "author": {
+            "name": "AMIT Yadav",
+            "username": "amitsocialist11",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1928412458009382912/qMyK0psg_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 Congratulations",
+          "created_at": "2026-11-08T06:22:41.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 24
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119312672789553442",
+          "author": {
+            "name": "Ankit Yadavv",
+            "username": "Ankit_Voicee",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2094424501492797440/acVElt9R_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बाबू गांव मार देगी इसकी अब देखते रहिए",
+          "created_at": "2026-11-08T06:14:50.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 9
+          },
+          "in_reply_to_id": "2119312452873777547"
+        },
+        {
+          "id": "2119301606990856327",
+          "author": {
+            "name": "Ankit Yadavv",
+            "username": "Ankit_Voicee",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2094424501492797440/acVElt9R_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 ये पागल है इसकी यही हरकतों की वजह से",
+          "created_at": "2026-11-08T05:30:52.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 94
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119297252699365661",
+          "author": {
+            "name": "Meghna Jain",
+            "username": "meghajain1113",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2100308804047167489/ulU2xIcu_normal.jpg",
+            "verified": false
+          },
+          "text": "@Nutantiwari339 @AjitYadav260 Shadi k baad khushali kaha milti h",
+          "created_at": "2026-11-08T05:13:34.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 4
+          },
+          "in_reply_to_id": "2119267611037118612"
+        },
+        {
+          "id": "2119290124320268610",
+          "author": {
+            "name": "Sneha",
+            "username": "cutesneha57",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2102583947129741312/kfit9nKb_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 ये हैं पैसा आते ही बाबू नहीं बदला वर्ना लड़कों का फ़ितरत हैं कि पैसा आते ही बाबू बदल देते हैं",
+          "created_at": "2026-11-08T04:45:14.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 109
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119274849575240175",
+          "author": {
+            "name": "Omkar Yadav",
+            "username": "Omkaryadavup",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1962737650366119936/mRIDSzn-_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 सराहनीय कार्य है अपने बाबू से शादी करने में ही भलाई है \n\nवरना दूसरे की बाबू आएगी तो जीवन नर्क बना देगी🤭",
+          "created_at": "2026-11-08T03:44:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 121
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119273751401623955",
+          "author": {
+            "name": "Jamil Ansari",
+            "username": "jamil2832",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1883187977381187584/0rxgiiLW_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बाबू bahiya को शादी का बहुत बहुत मुबारक बाद",
+          "created_at": "2026-11-08T03:40:11.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 42
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119273206892880115",
+          "author": {
+            "name": "Jeetendra Rana",
+            "username": "ranajeetendra4",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2098272786494189568/rf_aCeMk_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बिज़नस माइंडेड है लड़की",
+          "created_at": "2026-11-08T03:38:01.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 42
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119270193482670572",
+          "author": {
+            "name": "Kavya",
+            "username": "Kavyamishra93",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2107010991980740608/hSIvikHR_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 कुंभ के मेले में नीम का दातुन बेचकर बहुत पैसे कमाए",
+          "created_at": "2026-11-08T03:26:02.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 81
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119267611037118612",
+          "author": {
+            "name": "Nutan tiwari",
+            "username": "Nutantiwari339",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2118184843859353600/2yCCPDVL_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 गर्ल फ्रेंड हो ऐसी जिसने एक बेरोजगार लड़के को बिना बजट के रोजगार के बारे में ऐसा तरीका बताया कि वह इतना अमीर हो गया।\nअब इन का जीवन बहुत ही खुशहाल रहे।",
+          "created_at": "2026-11-08T03:15:47.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 164
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119265793590628707",
+          "author": {
+            "name": "Subhajit Das",
+            "username": "SantaniSubhajit",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1963221242754019328/JA_H2teZ_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 The meeting that started with hard work has today turned into a beautiful relationship of marriage. Best wishes to both of you for a happy married life.",
+          "created_at": "2026-11-08T03:08:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 75
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119264780431294844",
+          "author": {
+            "name": "Santoshi Pal",
+            "username": "Santoshi_P_",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2107689227442139137/CJAymeTk_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 अच्छा किया दोनों ने शादी कर ली है। ये भी कुंभ मेले में खूब फेमस हुए थे।",
+          "created_at": "2026-11-08T03:04:32.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 108
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119259344915382374",
+          "author": {
+            "name": "Manish Yadav",
+            "username": "itsmanish80",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1838836383860846592/s_cZveqV_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 चलो अच्छी बात है इतना फेमस होने के बाद अपने बाबू को छोड़ नहीं है, वरना लोगों का दिमाग खराब हो जाता है",
+          "created_at": "2026-11-08T02:42:56.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 64
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119258048602734946",
+          "author": {
+            "name": "Dilip Damor Damor",
+            "username": "DilipDamorDamo1",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2081930281624461312/UXS0kY8o_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बाबू भैया को शादी करने के लिए बहुत-बहुत बधाई इसीलिए तो कहते हैं एक व्यक्ति के पीछे किसी महिला का हाथ होता है वही हुआ",
+          "created_at": "2026-11-08T02:37:47.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 74
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119256830081970343",
+          "author": {
+            "name": "Ishika",
+            "username": "ishika_2995",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2096569440217583616/vpem1tp9_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 Chalo ganga maa ne inko sath la diya hai",
+          "created_at": "2026-11-08T02:32:56.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 63
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119256134737678710",
+          "author": {
+            "name": "its Queen 🦋🦋",
+            "username": "YourAnchalX",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2101611849326501888/xqwec_EE_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 यह सच में शादी है या कोईप्रैंक",
+          "created_at": "2026-11-08T02:30:11.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 32
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119256011966193993",
+          "author": {
+            "name": "ABKASH YADAV",
+            "username": "abkashyadav",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2080727396626677760/YGgX0Ff1_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बहुत ही अच्छा किया शादी कर लिया।",
+          "created_at": "2026-11-08T02:29:41.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 24
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119251385703338313",
+          "author": {
+            "name": "Pintu Fauzdar",
+            "username": "PintuFauzdar_",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1941036978721435648/H4jtS39O_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 दातुन बाॅय ने अपनी बाबू से शादी कर लिया बधाई हो दोनों को शुभकामनाएं।",
+          "created_at": "2026-11-08T02:11:18.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 71
+          },
+          "in_reply_to_id": "2119234084899803326"
+        },
+        {
+          "id": "2119251212629594243",
+          "author": {
+            "name": "Gurdayal Singh",
+            "username": "Gurdayal_1984",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1337931181334020096/imwJW043_normal.jpg",
+            "verified": false
+          },
+          "text": "@AjitYadav260 बताया तो जा रहा है की शादी के बाद उन्हें परेशान किया जा रहा है",
+          "created_at": "2026-11-08T02:10:37.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 97
+          },
+          "in_reply_to_id": "2119234084899803326"
+        }
+      ]
+    },
+    {
+      "id": "2119692685019623544",
+      "url": "https://x.com/BBCHindi/status/2119692685019623544",
+      "author": {
+        "name": "BBC News Hindi",
+        "username": "BBCHindi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1985227518983720961/k1tid62B_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-09T07:24:52.000Z",
+      "text": "‘हम इतनी दूर इंडिया गेट देखने आए थे, लेकिन धुंध ही धुंध दिखी’\n\nदिल्ली और उसके आसपास के इलाकों में सोमवार को प्रदूषण की वजह से घनी धुंध देखने को मिली. कई जगह एक्यूआई 400 के पार दर्ज किया गया. \nऐसे में दिल्ली में मौजूद लोगों को किन तकलीफ़ों का सामना करना पड़ रहा है, वो इस प्रदूषण के हालात पर क्या राय रखते हैं? देखिए यह ग्राउंड रिपोर्ट.\n\nवीडियोः दिलनवाज़ पाशा और शाद मिद्हत",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 23,
+        "repost_count": 176,
+        "like_count": 590,
+        "quote_count": 4,
+        "bookmark_count": 13,
+        "impression_count": 24680
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119690915996721152/img/WWjUDAtimxPFw20l.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2119690915996721152/vid/avc1/1920x1080/5PilynFy6f2m7xWG.mp4",
+      "title_zh": "德里重度污染，游客远道而来只见印度门被浓雾吞没，AQI破400。",
+      "summary_zh": "德里重度污染，游客远道而来只见印度门被浓雾吞没，AQI破400。",
+      "tags": [
+        "其他"
+      ],
+      "replies": [
+        {
+          "id": "2119749578933297539",
+          "author": {
+            "name": "Anurag Mishra",
+            "username": "Anurragmishra",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1924169562611691520/4Ezp4eOo_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Delhi https://t.co/g56piYQz4c",
+          "created_at": "2026-11-09T11:10:57.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 23,
+            "impression_count": 264
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119713263793615338",
+          "author": {
+            "name": "shashi ranjan",
+            "username": "shashiranjan265",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1256933225131315200/sk2FwD6A_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi @BBCHindi  TUM LOG GALAT TIME PE HE JATE HO ...364 DAY ME SE DIWALE K AGLE DIN JATE HOO...KABHI BAKRI EID K BAAD BHI NIKLA KARO SADKO PE...LAAL BLOOD DEKHNE K LIYE",
+          "created_at": "2026-11-09T08:46:39.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 16,
+            "impression_count": 340
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119715119018233903",
+          "author": {
+            "name": "Laplace",
+            "username": "illogical_7",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1824260948741271553/eXCFeNiU_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi तो दोपहर में जाकर देख लेता जरूरी थोड़े है सुबह सवेरे देखना है",
+          "created_at": "2026-11-09T08:54:01.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 7,
+            "impression_count": 306
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119750858841743846",
+          "author": {
+            "name": "JustAvii..",
+            "username": "Avii17496",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2119029970727264257/IpaPzaod_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Iski ammi ka halalaa na hua hota to tu paida bhi ni hua hota but hua Aur tu paida ho gyaaaa ....",
+          "created_at": "2026-11-09T11:16:02.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 2
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119750838075965464",
+          "author": {
+            "name": "Rajat Ray",
+            "username": "Abhishe87435608",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1935018315920846848/RpnhgS80_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Propaganda kam kiya karo badwalon",
+          "created_at": "2026-11-09T11:15:57.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 102
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119845094241218607",
+          "author": {
+            "name": "Deepak",
+            "username": "ydeepak1992",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1017428555439923200/ZFSBqqEL_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Bewakoof ho aur makkar bhi gavo me ao morning me bhi kohra kai jgh padta hai iss time bhi",
+          "created_at": "2026-11-09T17:30:29.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 5
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119843798822027640",
+          "author": {
+            "name": "DINESH JOSHI",
+            "username": "Dinesh_Joshi31",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@BBCHindi 27 सालों से किसी चिंटू टटपुँजिओ को प्रदूषण नही दिखाई दिया अब दिखाई दे रहा है",
+          "created_at": "2026-11-09T17:25:21.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 18
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119840021587038531",
+          "author": {
+            "name": "TEZ News 🧑‍💻",
+            "username": "Ajai37830797",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2116814501240832001/SykBET64_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi यह दोगला आपको यह नहीं बताया कि ईद पर जो पशुओं का खून और उनके शरीर के अवशेष वाटर बॉडीज और जमीन में प्रदूषण करके भूगर्भ जल को प्रदूषित करते हैं",
+          "created_at": "2026-11-09T17:10:20.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 2
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119831982930796754",
+          "author": {
+            "name": "Kiran Das",
+            "username": "kirandasKiranDa",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@BBCHindi from nov 5 th above 600 aqi till today.....c.m is inefficient ,promote fire crackers.....p.m support",
+          "created_at": "2026-11-09T16:38:23.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 11
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119829243584758058",
+          "author": {
+            "name": "Anshu",
+            "username": "anshupriya2006",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@BBCHindi BBC ka Randi Rona Chalu ho gaya hai",
+          "created_at": "2026-11-09T16:27:30.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 12
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119818332149051474",
+          "author": {
+            "name": "Prashant Singh",
+            "username": "Prashan10730859",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1620249351422627842/WhRIksb5_normal.png",
+            "verified": false
+          },
+          "text": "@BBCHindi https://t.co/2bLq3hEzGh",
+          "created_at": "2026-11-09T15:44:09.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 20
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119815571219095826",
+          "author": {
+            "name": "Right 🔺ngle 🇮🇳",
+            "username": "Yoddha360",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1852239622975426563/G3lT7JHp_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi इसके लिए पंजाब में अतिरिक्त पराली भी जलाई ताकि दिवाली पर प्रदूषण ज्यादा से ज्यादा दिखाया जा सके !\nयूरोप पर थोड़ा ध्यान दो , 2040 तक पूरा यूरोप इस्लामिक प्रदेश बन जाएगा।",
+          "created_at": "2026-11-09T15:33:11.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 0
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119808823150231600",
+          "author": {
+            "name": "RoFL . king .",
+            "username": "ParvezAman3",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2057436693549219840/O5Ae2XD6_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Thodi door ek mahamanav rehta hai usko thank you bolo jakr is pollution k lia",
+          "created_at": "2026-11-09T15:06:22.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 46
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119785158966698025",
+          "author": {
+            "name": "Chef Bala🇮🇳",
+            "username": "chef80bala",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2016847497449394177/FO1GPWMi_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi शाद मिद्दत और दिलशाद पासा दोनों जाहिल जिहादियों के पिछवाड़े से धुआं निकलता है तो निकले,\nदीपावली साल में एक बार आती है ये भारत है, कोई तुम्हारा रेडिकल इस्लामी मुल्क नहीं,",
+          "created_at": "2026-11-09T13:32:20.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 74
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119754131175010767",
+          "author": {
+            "name": "Pavan Sah",
+            "username": "PavanSa41177147",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1360573603654234119/HUABQo0c_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Rush ukren.   Fool. Hi. Fool",
+          "created_at": "2026-11-09T11:29:02.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 0
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119753317236826363",
+          "author": {
+            "name": "The Daily Files",
+            "username": "The_Daily_Files",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2101622814151454720/yJc1EnQj_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi BBC - Bahut Bade Ch*tiye \n👇👇 https://t.co/SkOvUUO3Sp",
+          "created_at": "2026-11-09T11:25:48.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 4
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119750623688282116",
+          "author": {
+            "name": "Indian_Hindu",
+            "username": "Sanatani1971",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2033598017069326336/g0ibyac5_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi https://t.co/eiXuoIAQcW",
+          "created_at": "2026-11-09T11:15:06.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 3
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119744857728221187",
+          "author": {
+            "name": "🚂𝓟𝓪𝓵𝓪𝓬𝓮 𝓞𝓷 𝓦𝓱𝓮𝓮𝓵𝓼🚂",
+            "username": "wanderlust_yolo",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2110291008084967424/E9KkdmMq_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi AQI 3000 के ऊपर चला गया दिल्ली में। https://t.co/npYjMjpnbu",
+          "created_at": "2026-11-09T10:52:11.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 133
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119743730047676680",
+          "author": {
+            "name": "INDIAN 🇮🇳",
+            "username": "pkmkb428",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2106742167356264448/Px17K1Vs_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi @BBCHindi 🖕🖕🖕🖕🖕🖕",
+          "created_at": "2026-11-09T10:47:42.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 1
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119742583866056729",
+          "author": {
+            "name": "Akash",
+            "username": "AkashSi05255746",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1915716854347190272/paebrqY8_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi dilnavaj pash teri ma ka bosra bbc wale",
+          "created_at": "2026-11-09T10:43:09.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 2
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119739917769253349",
+          "author": {
+            "name": "Sanjay Pitale",
+            "username": "SanjayPitaleSDP",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2117702382058602496/V_908VC7_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi 2047 tak Rahega Ka Delhi, YaRajdhani Change Karni Padegi... ????🤣🤣🤣🤣🤣",
+          "created_at": "2026-11-09T10:32:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 5
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119735779035607501",
+          "author": {
+            "name": "🇮🇳Influx Influxe Influxe 🇮🇳",
+            "username": "InfluxInfluxe",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1554988045127995392/CkBukXjK_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi Delhi main mu$l!ms population ke wazah se india gate nahi deekh raha hai...\nJaise hi ye log bharat nikaal diya jaayega tab india gate ekadam visible hogaa ..",
+          "created_at": "2026-11-09T10:16:07.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 2
+          },
+          "in_reply_to_id": "2119692685019623544"
+        },
+        {
+          "id": "2119700885001662958",
+          "author": {
+            "name": "VishalAN (Follow & Share)",
+            "username": "DainikJanata",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1985651257806307328/tfKi64N6_normal.jpg",
+            "verified": false
+          },
+          "text": "@BBCHindi अपना ज्ञान अपने पास ही रखो। https://t.co/QCjaVxmvdh",
+          "created_at": "2026-11-09T07:57:27.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 1
+          },
+          "in_reply_to_id": "2119692685019623544"
+        }
+      ]
+    },
+    {
+      "id": "2119041751449248172",
+      "url": "https://x.com/DeepaSharma132/status/2119041751449248172",
+      "author": {
+        "name": "Deepa Sharma",
+        "username": "DeepaSharma132",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2111288864451268608/kkaxpgYU_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-07T12:18:18.000Z",
+      "text": "🚨 SHOCKING NEWS 😱\n\nAlmost 150 Chinese WeChat streamers came to Dhaka, Bangladesh & spent the entire day livestreaming while showing the city's slums. When locals noticed the unusual number they started investigating why so many of them were doing this. Turns out, they were presenting it as New Delhi, India 🇮🇳",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 8,
+        "repost_count": 43,
+        "like_count": 95,
+        "quote_count": 5,
+        "bookmark_count": 4,
+        "impression_count": 8498
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119041672692871168/img/1mFahywWFaUqJomB.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2119041672692871168/vid/avc1/720x900/6jTcZwA1U32NFd6m.mp4",
+      "title_zh": "约150名中国主播在达卡贫民窟直播，却对外宣称拍的是新德里印度。",
+      "summary_zh": "约150名中国主播在达卡贫民窟直播，却对外宣称拍的是新德里印度。",
+      "tags": [
+        "其他"
+      ],
+      "replies": [
+        {
+          "id": "2119311423339909174",
+          "author": {
+            "name": "Yong Tiam Kui",
+            "username": "timothy38554883",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1800597267759652864/UQFhylmT_normal.jpg",
+            "verified": false
+          },
+          "text": "@DeepaSharma132 Ridiculous! As if anyone would need to go to Bangladesh to film slums to make India look bad. There are, in fact, many many slums in India, including in New Delhi itself, that are much worse than those found in Bangladesh. 😂 😂 😂",
+          "created_at": "2026-11-08T06:09:52.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 26
+          },
+          "in_reply_to_id": "2119041751449248172"
+        },
+        {
+          "id": "2119106196720230764",
+          "author": {
+            "name": "Jai Hind 🇮🇳",
+            "username": "RajeshChanstgf",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2082458852885164032/PSeDPmpT_normal.jpg",
+            "verified": false
+          },
+          "text": "I suspect someone seriously misled these Chinese streamers! They thought they were visiting India, but somehow ended up filming Bangladesh, apparently without recognising the difference. Imagine travelling so far, recording everything confidently, and not even knowing where you are! What a sightseeing adventure! 😂",
+          "created_at": "2026-11-07T16:34:23.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 174
+          },
+          "in_reply_to_id": "2119041751449248172"
+        },
+        {
+          "id": "2119396691799601659",
+          "author": {
+            "name": "Yong Tiam Kui",
+            "username": "timothy38554883",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1800597267759652864/UQFhylmT_normal.jpg",
+            "verified": false
+          },
+          "text": "@ManishKuma11667 @DeepaSharma132 😂😂😂😂😂 https://t.co/LDdmfteFSh",
+          "created_at": "2026-11-08T11:48:42.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 15
+          },
+          "in_reply_to_id": "2119328259460780355"
+        },
+        {
+          "id": "2119328259460780355",
+          "author": {
+            "name": "Manish Kumar",
+            "username": "ManishKuma11667",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2100626808077189121/_AECBVA4_normal.jpg",
+            "verified": false
+          },
+          "text": "@timothy38554883 @DeepaSharma132 I thought 🤔 this is china China and bengaldeshi is same type of idiot person",
+          "created_at": "2026-11-08T07:16:46.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 31
+          },
+          "in_reply_to_id": "2119311423339909174"
+        },
+        {
+          "id": "2119292378779652304",
+          "author": {
+            "name": "🪐",
+            "username": "tanmay_907",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2101050491967029248/CRlKywlu_normal.jpg",
+            "verified": false
+          },
+          "text": "@DeepaSharma132 Their viewers are brainless",
+          "created_at": "2026-11-08T04:54:12.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 49
+          },
+          "in_reply_to_id": "2119041751449248172"
+        },
+        {
+          "id": "2119101362923622875",
+          "author": {
+            "name": "Superman",
+            "username": "Supermanlzql",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2061734835404918784/BJubDtHq_normal.jpg",
+            "verified": false
+          },
+          "text": "@DeepaSharma132 Not 150, there are literally thousands in nepal, bangladesh, pakistan",
+          "created_at": "2026-11-07T16:15:10.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 119
+          },
+          "in_reply_to_id": "2119041751449248172"
+        },
+        {
+          "id": "2119043024911302978",
+          "author": {
+            "name": "Conflict Era",
+            "username": "thewarzone81",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2117085744397438976/PKHAIXMn_normal.jpg",
+            "verified": false
+          },
+          "text": "@DeepaSharma132 Go India for livestreaming",
+          "created_at": "2026-11-07T12:23:21.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 88
+          },
+          "in_reply_to_id": "2119041751449248172"
+        },
+        {
+          "id": "2119042833915273701",
+          "author": {
+            "name": "RAW",
+            "username": "theraw_in",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2118404334971125760/3MmOwXVg_normal.jpg",
+            "verified": false
+          },
+          "text": "@DeepaSharma132 Need to expose China",
+          "created_at": "2026-11-07T12:22:36.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 103
+          },
+          "in_reply_to_id": "2119041751449248172"
+        },
+        {
+          "id": "2119042565916025057",
+          "author": {
+            "name": "Delta Plus",
+            "username": "the_deltaplus",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2118389997200134144/L04pZzvN_normal.jpg",
+            "verified": false
+          },
+          "text": "@DeepaSharma132 They are trying to ruin Indian Image in the global stage.",
+          "created_at": "2026-11-07T12:21:32.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 134
+          },
+          "in_reply_to_id": "2119041751449248172"
+        }
+      ]
+    },
+    {
+      "id": "2118984802179092499",
+      "url": "https://x.com/ShoneeKapoor/status/2118984802179092499",
+      "author": {
+        "name": "ShoneeKapoor",
+        "username": "ShoneeKapoor",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2074751724120846336/CZiRGZEL_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-07T08:32:00.000Z",
+      "text": "महिला होने की छूट का घमंड?\n\nमुंबई में कथित तौर पर नशे में धुत एक लड़की का पुलिसकर्मी से बदसलूकी करने और सड़क पर हंगामा करने का वीडियो सामने आया है।\n\nरिपोर्ट के मुताबिक, लड़की ने पुलिसकर्मी के साथ अभद्र व्यवहार किया। लोगों से उलझने और गाली-गलौज करने के भी आरोप हैं।\n\nये कैसी बदतमीजी है? न कानून का डर, न वर्दी का सम्मान!\n\nयही हरकत कोई पुरुष करता तो क्या प्रतिक्रिया इतनी ही नरम होती?\n\nSource: PTC Punjabi\n\n[Mumbai Police, Drunk Woman Viral Video, Mumbai Viral News, Woman Misbehaves With Police, Police Viral Video, Women's Accountability, Gender Equality, Men's Rights India, Shonee Kapoor, Equal Laws]",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 26,
+        "repost_count": 96,
+        "like_count": 159,
+        "quote_count": 4,
+        "bookmark_count": 24,
+        "impression_count": 5995
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2118981339341094912/img/8ewlU9_J4M5Ukn0b.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2118981339341094912/vid/avc1/864x1536/amqXW3pWJvaEVv4H.mp4",
+      "title_zh": "孟买醉酒女子街头与警察冲突、对路人谩骂的视频走红，引发性别双标争论。",
+      "summary_zh": "孟买醉酒女子街头与警察冲突、对路人谩骂的视频走红，引发性别双标争论。",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "replies": [
+        {
+          "id": "2119044487783870653",
+          "author": {
+            "name": "kiran",
+            "username": "garikipatikiran",
+            "avatar_url": "https://pbs.twimg.com/profile_images/903644567173455872/RAm980nG_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor @Resonant_News @LevinaNeythiri \nThis is how women empowerment is unfolding in India. \n\nWe can take on Pakistan, China, and even the opposition parties in India. \n\nWomen in India today are on a different level, they are no longer innocent as those of previous generations.",
+          "created_at": "2026-11-07T12:29:10.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 1,
+            "like_count": 5,
+            "impression_count": 86
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119037181423702205",
+          "author": {
+            "name": "Sandeep J",
+            "username": "sandyjune1988",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1561394137005715456/w9iOUNcw_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Our legal system is a complete failure.",
+          "created_at": "2026-11-07T12:00:08.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 1,
+            "like_count": 3,
+            "impression_count": 49
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119126407683154365",
+          "author": {
+            "name": "Harsha Irugu",
+            "username": "harsha_irugu",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1725987075017875456/kZI52NTu_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor That police should be ashamed to not react properly with the drunk woman!",
+          "created_at": "2026-11-07T17:54:41.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 2,
+            "impression_count": 36
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119094161437786507",
+          "author": {
+            "name": "A S",
+            "username": "ankush_sin4693",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2050373724684288001/Q-5dIiJ4_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor If #indian police acts like simp then it is their choice . \n@IPS_Association shame on such thing where ur police is getting beaten for doing duty 🙏",
+          "created_at": "2026-11-07T15:46:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 2,
+            "impression_count": 39
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119058886615515239",
+          "author": {
+            "name": "Vruksh",
+            "username": "Sukhoi789",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1903650569308471296/DQPwACGn_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Feku Vishwaguru aur Woku Mialoadas ka bigada hua Abala Naari hai ye..",
+          "created_at": "2026-11-07T13:26:23.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 2,
+            "impression_count": 40
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2118987010543378720",
+          "author": {
+            "name": "Ek onkar Om❤🇮🇳",
+            "username": "EkonkarOm1",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1603619907647610880/QkIFxFhC_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor बदतमीज़ कोई भी हो,,,,,,अगर उसे रोक न जाए,,,,,तो यही हाल  होगा,,,,,rapido ऑटो buses,,,, taxis घर बाहर  हर जगह यही सब देखने को मिल र है ,,,,,कहीं कैसे कहीं कैसे,,,,,",
+          "created_at": "2026-11-07T08:40:46.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 9
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119332925191901573",
+          "author": {
+            "name": "kumud basu",
+            "username": "KumudBasu",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor https://t.co/KPYel6DfxM",
+          "created_at": "2026-11-08T07:35:19.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 1,
+            "like_count": 1,
+            "impression_count": 1
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119280545981198831",
+          "author": {
+            "name": "Hemang Patel",
+            "username": "HemangPate18736",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1813337597328203776/V2rSZEyU_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor That’s the women empowerment in Modi Government Era. Wonderful beautiful and cool gesture by this aggressive woman. Laws always be equal in every countries except INDIA. What a shame",
+          "created_at": "2026-11-08T04:07:11.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 1,
+            "like_count": 1,
+            "impression_count": 16
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119259577627885766",
+          "author": {
+            "name": "News Update",
+            "username": "sherigara",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2016766035836432384/25iWVEEv_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor 56 inch ka women empowerment hai",
+          "created_at": "2026-11-08T02:43:51.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 15
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119128114135789932",
+          "author": {
+            "name": "Prashant Mallannavar",
+            "username": "PrashantGMH",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1650790198404317184/PYkoQcQY_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor @AnmolDang1997 Ghar ke Lakshmi hai !!\n\n#gharkelakshmi",
+          "created_at": "2026-11-07T18:01:28.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 35
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119109472148979773",
+          "author": {
+            "name": "Sreedhar Reddy",
+            "username": "SreedharReddyyy",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1820849720073289728/mg9k4uud_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor She will be shot in the USA and down with taser in the UK,",
+          "created_at": "2026-11-07T16:47:23.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 1,
+            "like_count": 1,
+            "impression_count": 25
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119065975077347589",
+          "author": {
+            "name": "Gaurav Sharma",
+            "username": "gauravsmart0018",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1651482173915148289/KedTzsnH_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Bahot bada video h\n\nPoora post karo\n\nFulll galiya\n\nLadke ke upar fake blame\n\nPhir last me piyakkad gir jati h.\n\nIski sath wali sahara deti h",
+          "created_at": "2026-11-07T13:54:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 56
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119047110423396416",
+          "author": {
+            "name": "Kishor Gade",
+            "username": "SIFF_KishorGade",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Ab police ko samjh aaye woman kaise fayda uthati hai",
+          "created_at": "2026-11-07T12:39:35.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 56
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119383337810984997",
+          "author": {
+            "name": "neiloneil26",
+            "username": "neiloneil26",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor JAAAAAGOOOOO\n\nJUDICIARY \n\nNETA\n\nJANTA\n\nJAAAAAAGGGGGOOOOORRREEEE\n\nSUPREME COURT PLEASE TAKE SU MOTO COGNIZANCE, \n\nCHANGE BIASED MATRIMONIAL LAW\n\nSUPARNAKHA BHI NARI THI\n\nSAB NARI , ABLA NARI NAHI HOTI.",
+          "created_at": "2026-11-08T10:55:38.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 0
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119332400681644339",
+          "author": {
+            "name": "kumud basu",
+            "username": "KumudBasu",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@harsha_irugu @ShoneeKapoor https://t.co/KPYel6DfxM",
+          "created_at": "2026-11-08T07:33:14.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 0
+          },
+          "in_reply_to_id": "2119126407683154365"
+        },
+        {
+          "id": "2119332359061557504",
+          "author": {
+            "name": "kumud basu",
+            "username": "KumudBasu",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@garikipatikiran @ShoneeKapoor @Resonant_News @LevinaNeythiri https://t.co/KPYel6DfxM",
+          "created_at": "2026-11-08T07:33:04.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 0
+          },
+          "in_reply_to_id": "2119044487783870653"
+        },
+        {
+          "id": "2119329290537840836",
+          "author": {
+            "name": "Gaurav Ghosh",
+            "username": "GauravGhosh_Ind",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2099137421208399873/binjVsBn_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor This is when someone  become touch educated",
+          "created_at": "2026-11-08T07:20:52.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 10
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119325019448991828",
+          "author": {
+            "name": "ole ole",
+            "username": "infosecgyan",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2099805311381254144/n-taBogQ_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor pootnA",
+          "created_at": "2026-11-08T07:03:54.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 4
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119316159162143124",
+          "author": {
+            "name": "Arvind Kr",
+            "username": "rvndkr",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2078347896664297472/ODgxMveU_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Jb system biased ho you yeh hota h",
+          "created_at": "2026-11-08T06:28:41.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 6
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119133147489239492",
+          "author": {
+            "name": "Gender Justice",
+            "username": "JusticeGender",
+            "avatar_url": "https://pbs.twimg.com/profile_images/515565938855276544/EswatL1F_normal.jpeg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor पुलिस वाले की औकात नहीं की इस महिला पर कार्यवाही कर दे ... हा हा हा",
+          "created_at": "2026-11-07T18:21:28.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 20
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119095336224674008",
+          "author": {
+            "name": "Shaurya",
+            "username": "Shaurya_Courage",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Police should not take any action as she was drunk. \n\nWhen she can't give consent for aex while drunk phir ye toh bachcho ka khel hai. She is innocent. \n\n#sarcasm",
+          "created_at": "2026-11-07T15:51:13.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 20
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119084346388926538",
+          "author": {
+            "name": "Rahul2708",
+            "username": "Rahul27082",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Bewadi lafangi nashedi chinnar spotted 😂",
+          "created_at": "2026-11-07T15:07:33.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 14
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119061746388439149",
+          "author": {
+            "name": "தீபக்_ஈசன்_தாசன்",
+            "username": "DeepakR_Eesan",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2050516558250942465/hSRdKmEv_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor All men are silent of their own ethics....",
+          "created_at": "2026-11-07T13:37:45.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 22
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119038232134348908",
+          "author": {
+            "name": "Dushyant Sharma",
+            "username": "Dushyan92713030",
+            "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor Lost senses,playing with law",
+          "created_at": "2026-11-07T12:04:19.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 48
+          },
+          "in_reply_to_id": "2118984802179092499"
+        },
+        {
+          "id": "2119011129234174016",
+          "author": {
+            "name": "RJRJ",
+            "username": "Jeevandhar1995",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2107538088188903424/v4GMptG2_normal.jpg",
+            "verified": false
+          },
+          "text": "@ShoneeKapoor यही कोई मर्द किसी महिला पुलिस को लात मार दे तो न जाने कितने सारे हिजड़ों की गांड में लात पड़ने वाली जलन हो जाएगी जिन्हें इसे देखकर फर्क नहीं पड़ रहा। लेकिन हमें कोई आपत्ति नहीं होगी तब भी।",
+          "created_at": "2026-11-07T10:16:37.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 42
+          },
+          "in_reply_to_id": "2118984802179092499"
+        }
+      ]
+    },
+    {
+      "id": "2118393270770302994",
+      "url": "https://x.com/yuradeniis/status/2118393270770302994",
+      "author": {
+        "name": "Mijurei",
+        "username": "yuradeniis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-05T17:21:28.000Z",
+      "text": "Crypto exchange founder Gerald Cotten was 30 when he died in India, owing about 76,000 customers C$215 million. Ontario's regulator later called his exchange a Ponzi scheme. Then it said most of the missing money went on his own trading.\n\nCotten ran QuadrigaCX, once Canada's largest crypto exchange. He died on December 9, 2018, in Jaipur. His wife Jennifer Robertson says he was the only person with the passwords.\n\nIn April 2020 the Ontario Securities Commission finished its review of the exchange's data. It found Cotten had made fake accounts and credited them with crypto that did not exist.\n\nIt put the shortfall at no less than C$169 million. Staff attributed about C$115 million to his fraudulent trading on the platform and about C$28 million to losses on outside exchanges. It also said he took client money for his own lifestyle.\n\nIn October 2019 Robertson agreed to hand over about C$12 million in assets, including properties, a boat and a plane. A first payout reportedly returned about 13% of their claims.\n\nSome investors say she was too close to the cash not to know. She says she trusted him and did not know.\n\nCustomers lost their money. His widow lost her husband and has carried the blame ever since.\n\nWas Jennifer Robertson a victim of Gerald Cotten, or did she live off what he took?",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 5,
+        "repost_count": 2,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 15,
+        "impression_count": 1216
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2118393200767361024/img/45eJ2zesgdJNRX1F.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2118393200767361024/vid/avc1/1280x720/SiyLO5gbZzFyxBVe.mp4",
+      "title_zh": "加拿大加密交易所创始人在斋浦尔去世，2.15亿加元客户资金下落成谜。",
+      "summary_zh": "加拿大加密交易所创始人在斋浦尔去世，2.15亿加元客户资金下落成谜。",
+      "tags": [
+        "诈骗骗局",
+        "航空出行"
+      ],
+      "replies": [
+        {
+          "id": "2118404946475286973",
+          "author": {
+            "name": "Oleksandr Mykhailenko",
+            "username": "MykhailenkoFin",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2104529099901337601/tdmg5axi_normal.jpg",
+            "verified": false
+          },
+          "text": "@yuradeniis The auditors later found the wallets were already empty before he died. So the lost password story covered a hole that was already there",
+          "created_at": "2026-11-05T18:07:51.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 17
+          },
+          "in_reply_to_id": "2118393270770302994"
+        },
+        {
+          "id": "2118397165467062698",
+          "author": {
+            "name": "Athens",
+            "username": "athensxbt",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2116507157352820736/9WPF7mwu_normal.jpg",
+            "verified": false
+          },
+          "text": "@yuradeniis She handed over about C$12 million in assets and got paid-out claims of about 13%. Does a person who knew do that, or a person who panicked? The post gives both readings. The numbers don’t pick one",
+          "created_at": "2026-11-05T17:36:56.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 16
+          },
+          "in_reply_to_id": "2118393270770302994"
+        },
+        {
+          "id": "2118396073576444308",
+          "author": {
+            "name": "Callum",
+            "username": "callumxbt",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108232840026464256/dWL9NLF5_normal.jpg",
+            "verified": false
+          },
+          "text": "@yuradeniis in 2019 investors’ lawyers asked police to exhume the body just to prove it was him. that’s how much trust was left",
+          "created_at": "2026-11-05T17:32:36.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 21
+          },
+          "in_reply_to_id": "2118393270770302994"
+        },
+        {
+          "id": "2118395251958128892",
+          "author": {
+            "name": "Koa",
+            "username": "koaxbt",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108226979866591232/vSqv1pX2_normal.jpg",
+            "verified": false
+          },
+          "text": "@yuradeniis Most of the shortfall was his own trading. C$115 million on the platform, C$28 million on outside exchanges",
+          "created_at": "2026-11-05T17:29:20.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 25
+          },
+          "in_reply_to_id": "2118393270770302994"
+        },
+        {
+          "id": "2118394539861746129",
+          "author": {
+            "name": "Jake",
+            "username": "0xjakke",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108229501071040512/DqKoHmX7_normal.jpg",
+            "verified": false
+          },
+          "text": "@yuradeniis he died on December 9, 2018 in Jaipur. his wife says he was the only person with the passwords",
+          "created_at": "2026-11-05T17:26:30.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 49
+          },
+          "in_reply_to_id": "2118393270770302994"
+        },
+        {
+          "id": "2118408824348717414",
+          "author": {
+            "name": "Mijurei",
+            "username": "yuradeniis",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+            "verified": false
+          },
+          "text": "@MykhailenkoFin The regulator found he credited fake accounts with crypto that did not exist",
+          "created_at": "2026-11-05T18:23:16.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 13
+          },
+          "in_reply_to_id": "2118404946475286973"
+        },
+        {
+          "id": "2118397549526806684",
+          "author": {
+            "name": "Mijurei",
+            "username": "yuradeniis",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+            "verified": false
+          },
+          "text": "@athensxbt The 13% was what customers got back",
+          "created_at": "2026-11-05T17:38:28.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 10
+          },
+          "in_reply_to_id": "2118397165467062698"
+        },
+        {
+          "id": "2118397441959399713",
+          "author": {
+            "name": "Mijurei",
+            "username": "yuradeniis",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+            "verified": false
+          },
+          "text": "@callumxbt when the only person with the passwords is dead, people want proof right",
+          "created_at": "2026-11-05T17:38:02.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 13
+          },
+          "in_reply_to_id": "2118396073576444308"
+        },
+        {
+          "id": "2118395723003703699",
+          "author": {
+            "name": "Mijurei",
+            "username": "yuradeniis",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+            "verified": false
+          },
+          "text": "@koaxbt C$115 million on the platform, C$28 million elsewhere. Of a shortfall of at least C$169 million",
+          "created_at": "2026-11-05T17:31:12.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 11
+          },
+          "in_reply_to_id": "2118395251958128892"
+        },
+        {
+          "id": "2118395549648908731",
+          "author": {
+            "name": "Mijurei",
+            "username": "yuradeniis",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2108231334850142208/R5bMiDcI_normal.jpg",
+            "verified": false
+          },
+          "text": "@0xjakke If only he had the passwords, how did the regulator rebuild the accounts afterwards?",
+          "created_at": "2026-11-05T17:30:31.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 13
+          },
+          "in_reply_to_id": "2118394539861746129"
+        }
+      ]
+    },
+    {
+      "id": "2119664248703812040",
+      "url": "https://x.com/babanlikita/status/2119664248703812040",
+      "author": {
+        "name": "MindMatters 🇺🇸🇳🇬",
+        "username": "babanlikita",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2068249000763912192/ojOWc0LM_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-09T05:31:53.000Z",
+      "text": "Very scary stuff here.\n\nIndia is not a joke when it comes to snakes living with people....  https://t.co/73cJwRDAnF",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 3,
+        "repost_count": 3,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 401
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2119088352079040512/img/Q3ZQFFtx3XBgLqnR.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2119088352079040512/vid/avc1/720x1280/oPd2_O3f4xKV8J_P.mp4",
+      "title_zh": "印度民宅地毯/地基下窝藏大量眼镜蛇，捕蛇人现场往外掏蛇的视频令人心惊。",
+      "summary_zh": "印度民宅地毯/地基下窝藏大量眼镜蛇，捕蛇人现场往外掏蛇的视频令人心惊。",
+      "tags": [
+        "其他"
+      ],
+      "replies": [
+        {
+          "id": "2119716562693161225",
+          "author": {
+            "name": "MindMatters 🇺🇸🇳🇬",
+            "username": "babanlikita",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2068249000763912192/ojOWc0LM_normal.jpg",
+            "verified": false
+          },
+          "text": "@Drealtrenova Fear dey catch me laidis",
+          "created_at": "2026-11-09T08:59:45.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 1,
+            "impression_count": 7
+          },
+          "in_reply_to_id": "2119712407215919580"
+        },
+        {
+          "id": "2119799985386529050",
+          "author": {
+            "name": "onigbinde kehinde",
+            "username": "keennyola",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2033842603347640320/Zfq7V34i_normal.jpg",
+            "verified": false
+          },
+          "text": "@babanlikita This is quite scary honestly.",
+          "created_at": "2026-11-09T14:31:15.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 11
+          },
+          "in_reply_to_id": "2119664248703812040"
+        },
+        {
+          "id": "2119716613184213036",
+          "author": {
+            "name": "Divya 💝💝",
+            "username": "KunnujiC",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1939809765967683584/mlMXfqyp_normal.jpg",
+            "verified": false
+          },
+          "text": "@babanlikita This is scary",
+          "created_at": "2026-11-09T08:59:57.000Z",
+          "public_metrics": {
+            "reply_count": 0,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 16
+          },
+          "in_reply_to_id": "2119664248703812040"
+        },
+        {
+          "id": "2119712407215919580",
+          "author": {
+            "name": "D'real-trenova💎🇳🇬",
+            "username": "Drealtrenova",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2099507987002052608/xAnd7TM0_normal.jpg",
+            "verified": false
+          },
+          "text": "@babanlikita 2 hefty snakes omo",
+          "created_at": "2026-11-09T08:43:14.000Z",
+          "public_metrics": {
+            "reply_count": 1,
+            "repost_count": 0,
+            "like_count": 0,
+            "impression_count": 11
+          },
+          "in_reply_to_id": "2119664248703812040"
+        }
+      ]
+    },
+    {
+      "id": "2118712529400799241",
+      "url": "https://x.com/gujratsamachar/status/2118712529400799241",
+      "author": {
+        "name": "Gujarat Samachar",
+        "username": "gujratsamachar",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1620326720724410369/HRsnrumc_normal.jpg",
+        "verified": true
+      },
+      "created_at": "2026-11-06T14:30:05.000Z",
+      "text": "નોળિયાએ દીપડીને બે ગુલાંટ ખવડાવી દીધી, ડરીને નાસી છૂટી! સુરતની દુર્લભ ઘટના કેમેરામાં કેદ!\n\nSurat Mongoose vs Leopard, Indian Grey Mongoose, Leopard Attack Video, Mongoose Chases Leopard, Rare Wildlife Encounter, Surat Viral Video, Gujarat Wildlife News, Mongoose vs Big Cat, Leopard Runs Away, Wildlife Battle Caught on Camera, Rare Animal Fight, Indian Wildlife Video, Forest Wildlife Footage, Nature Viral Video, Gujarat Samachar",
+      "lang": null,
+      "public_metrics": {
+        "reply_count": 0,
+        "repost_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2096
+      },
+      "photos": [],
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2118711873361317888/img/Fn4eL34HdgOikOjH.jpg",
+      "has_video": true,
+      "video_direct_url": "https://video.twimg.com/amplify_video/2118711873361317888/vid/avc1/1080x1920/kmclP0zMu2nfcC4K.mp4",
+      "title_zh": "苏拉特乡下，一只2.5尺獴把猎豹打得翻滚逃窜，罕见对决被摄像头拍下。",
+      "summary_zh": "苏拉特乡下，一只2.5尺獴把猎豹打得翻滚逃窜，罕见对决被摄像头拍下。",
+      "tags": [
+        "动物",
+        "奇人奇事"
+      ],
+      "replies": []
+    }
+  ]
+}

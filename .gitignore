@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 data/*.tmp
+assets/x/**/_sheet/
+assets/x/**/chrome-profile/

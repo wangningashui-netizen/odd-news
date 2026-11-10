@@ -1,32 +1,8 @@
 {
   "date": "2026-10-11",
   "timezone": "Asia/Shanghai",
-  "count": 8,
+  "count": 3,
   "items": [
-    {
-      "id": "8bef591b53f488ec",
-      "url": "https://allthatsinteresting.com/jack-mccall",
-      "title_en": "How Jack McCall Murdered Wild Bill Hickok, One Of The Most Legendary Lawmen Of The Old West",
-      "title_zh": "杰克·麦考尔如何谋杀狂野的比尔·希科克，旧西部最传奇的执法者之一",
-      "summary_en": "Public Domain Jack McCall, the little-known drifter who fatally shot Wild Bill Hickok in 1876. On Aug. 2, 1876, Jack McCall walked into a Deadwood saloon, approached Wild Bill Hickok from behind, and shot him in the back of the head. Hickok died instantly, and McCall was arrested for murder.",
-      "summary_zh": "公共领域 杰克·麦考尔 (Jack McCall)，一位鲜为人知的漂流者，于 1876 年射杀了狂野比尔·希科克 (Wild Bill Hickok)。1876 年 8 月 2 日，杰克·麦考尔 (Jack McCall) 走进戴德伍德的一家酒吧，从后面接近狂野比尔·希科克 (Wild Bill Hickok)，朝他的后脑勺开了一枪。希科克当场死亡，麦考尔因谋杀罪被捕。",
-      "translation_status": "fallback",
-      "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2026/10/death-of-wild-bill-hickok-alongside-jack-mccall-featured.jpg",
-      "image_checked": true,
-      "source": "All That's Interesting",
-      "source_id": "all-thats-interesting",
-      "region": "全球",
-      "published_at": "2026-10-11T23:00:00+08:00",
-      "fetched_at": "2026-11-08T20:59:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "全球",
-      "cluster_id": "8bef591b53f488ec",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
     {
       "id": "bf573cdc73d57e62",
       "url": "https://indianexpress.com/article/trending/top-10-listing/jpmorgan-clinches-top-spot-again-see-10-banks-leading-ai-race-in-2026-10916519/",
@@ -76,55 +52,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "aec51402cc09e257",
-      "url": "https://indianexpress.com/article/trending/trending-globally/founder-of-free-run-club-in-new-york-city-makes-640000-in-a-year-10916380/",
-      "title_en": "Founder of free run club in New York City makes $640,000 in a year",
-      "title_zh": "纽约自由跑步俱乐部创始人一年赚 64 万美元",
-      "summary_en": "Akhibi started the fitness group as a way to build community beyond nightlife—for himself and others.",
-      "summary_zh": "阿克比创办健身小组是为了在夜生活之外为自己和他人建立社区。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Akhibi-started-the-fitness-group-as-a-way-to-build-community-beyond-nightlife—for-himself-and-others.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "美国",
-      "published_at": "2026-10-11T16:23:59+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "aec51402cc09e257",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "0f170e9a8727e939",
-      "url": "https://indianexpress.com/article/trending/trending-globally/tiger-mauls-man-to-death-at-uk-yorkshire-wildlife-park-video-10916482/",
-      "title_en": "Tiger mauls man to death at UK wildlife park; disturbing video goes viral",
-      "title_zh": "英国野生动物园老虎咬死男子；令人不安的视频疯传",
-      "summary_en": "It remains unclear how the man entered the enclosure or the circumstances that led to the incident.",
-      "summary_zh": "目前尚不清楚该男子如何进入围栏或导致事件发生的情况。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Tiger-attacks-man-UK.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "英国",
-      "published_at": "2026-10-11T15:15:55+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "动物",
-        "奇人奇事"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "0f170e9a8727e939",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "b6409a14121c093f",
       "url": "https://indianexpress.com/article/trending/trending-in-india/imran-khan-detention-cjp-protest-jaane-tu-ya-jaane-ne-moment-in-police-van-10916426/",
       "title_en": "CJP protest: Imran Khan recreates ‘Jaane Tu… Ya Jaane Na’ moment in police van after being detained",
@@ -145,54 +72,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "b6409a14121c093f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "a46247aabbc7d33b",
-      "url": "https://nypost.com/2026/10/10/lifestyle/pastor-who-botched-doomsday-prophecy-predicts-new-date/",
-      "title_en": "‘No other date’: Pastor who botched Rapture prophecy claims world will now end on October 12 or 13",
-      "title_zh": "“没有其他日期”：搞砸了被提预言的牧师声称世界将于 10 月 12 日或 13 日结束",
-      "summary_en": "A South African pastor named Joshua Mhlakela has predicted a new date for The Rapture after previously claiming it would go down on September 23.",
-      "summary_zh": "一位名叫 Joshua Mhlakela 的南非牧师此前曾声称《The Rapture》将于 9 月 23 日停播，但他预测了《The Rapture》的新日期。",
-      "translation_status": "fallback",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F144494272.jpg?quality%3D90%26strip%3Dall",
-      "image_checked": true,
-      "source": "New York Post Weird But True",
-      "source_id": "nypost-weird",
-      "region": "美国",
-      "published_at": "2026-10-11T04:44:53+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "美国",
-      "cluster_id": "a46247aabbc7d33b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "267012f67e570cb3",
-      "url": "https://www.ladbible.com/news/world-news/treadmill-history-prison-torture-device-649221-20261010",
-      "title_en": "Horrifying simulation shows treadmill torture method that was banned from British prisons for being too brutal",
-      "title_zh": "令人毛骨悚然的模拟展示了英国监狱禁止使用的跑步机酷刑",
-      "summary_en": "Ask someone what pops into their head when you mention the word 'treadmill' and they'll probably think of the cardio machine in most gyms around the world. But did you know the treadmill actually originated as a labour device used to punish prisoners ? Invented by Victorian engineer Sir William Cubitt in 1818, the treadmill - or everlasting staircase as it was known then - was designed as a way to punish inmates by subjecting them to hours of hard labour. That's right, the exercise machine that very much feels…",
-      "summary_zh": "如果你问别人，当你提到“跑步机”这个词时，他们的脑海中浮现出什么，他们可能会想到世界上大多数健身房里的有氧运动器械。但你知道跑步机实际上起源于一种用来惩罚囚犯的劳动器具吗？跑步机（当时称为“永久楼梯”）由维多利亚时代的工程师威廉·库比特爵士 (Sir William Cubitt) 于 1818 年发明，其设计初衷是让囚犯进行数小时的苦役来惩罚他们。没错，就是前任",
-      "translation_status": "fallback",
-      "image": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1204:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHQ3ODEwZjIzN2UyYTAwYTNjLzZhY2E2NDE3OTY3OGU5NzhmZDA5ODA5Ni90cmVhZG1pbGxfLnBuZw.jpg",
-      "image_checked": true,
-      "source": "LADbible Weird",
-      "source_id": "ladbible-weird",
-      "region": "英国",
-      "published_at": "2026-10-11T00:14:21+08:00",
-      "fetched_at": "2026-11-08T21:06:41+08:00",
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "英国",
-      "cluster_id": "267012f67e570cb3",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }
