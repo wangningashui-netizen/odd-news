@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "timezone": "Asia/Shanghai",
-  "count": 6,
+  "count": 5,
   "items": [
     {
       "id": "661fa7c4e2eefd82",
@@ -120,30 +120,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "92a212b9ab32d687",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "9b789b73722c2938",
-      "url": "https://indianexpress.com/article/trending/trending-globally/messi-cryin-in-bus-as-he-makes-his-final-argentina-appearance-emotional-farewell-video-10910162/",
-      "title_en": "‘Going to hurt a lot’: Tears flow as Messi makes his final Argentina appearance",
-      "title_zh": "“会很受伤”：梅西最后一次代表阿根廷队出场时泪流满面",
-      "summary_en": "Lionel Messi was seen in tears on the Argentina team bus as thousands of fans gathered in Buenos Aires for his final national team appearance.",
-      "summary_zh": "当数千名球迷聚集在布宜诺斯艾利斯观看他最后一次国家队出场时，梅西在阿根廷队大巴上流下了眼泪。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Messi-crying-in-the-bus.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-07T12:31:47+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "9b789b73722c2938",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

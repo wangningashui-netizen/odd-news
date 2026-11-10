@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "timezone": "Asia/Shanghai",
-  "count": 7,
+  "count": 6,
   "items": [
     {
       "id": "befeb04c30aba107",
@@ -121,30 +121,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "cd5a4439adf31bfe",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "284e17d825508982",
-      "url": "https://indianexpress.com/article/trending/trending-globally/the-orange-plague-naked-trump-statue-unveiled-near-european-parliament-10911862/",
-      "title_en": "‘The Orange Plague’: Naked Trump statue unveiled near European Parliament",
-      "title_zh": "“橙色瘟疫”：特朗普裸体雕像在欧洲议会附近揭幕",
-      "summary_en": "Created by Danish sculptor Jens Galschiøt, the eight-foot-long sculpture depicts US President Donald Trump holding a golf club in one hand and the scales of justice in the other.",
-      "summary_zh": "这座八英尺长的雕塑由丹麦雕塑家 Jens Galschiøt 创作，描绘了美国总统唐纳德·特朗普一手拿着高尔夫球杆，另一只手拿着正义的天平。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Trump-naked-statue.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-08T12:51:19+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "284e17d825508982",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

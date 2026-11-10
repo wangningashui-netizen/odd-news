@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "count": 43,
+  "count": 41,
   "items": [
     {
       "id": "2b5839571a333b4e",
@@ -792,50 +792,6 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/nri-entrepreneur-h1b-visa-salary-cost-of-living-us-cities-10890687/",
       "translation_status": "fallback",
       "cluster_id": "1f625baaf25b0482",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": null,
-      "reddit_comments": null
-    },
-    {
-      "id": "6207fc55b01ce6db",
-      "date": "2026-09-23",
-      "published_at": "2026-09-23T18:13:17+08:00",
-      "title_zh": "全球最佳航空公司前10名：新加坡航空排名第一；检查完整列表",
-      "title_en": "Top 10 best airlines in the world: Singapore Airlines ranks No. 1; check full list",
-      "summary_zh": "新加坡航空取代卡塔尔航空，成为 2026 年全球最佳航空公司。",
-      "summary_en": "Singapore Airlines dethrones Qatar Airways to be named as the World's best airline in 2026.",
-      "image": "https://images.indianexpress.com/2026/09/Singapore-Airlines-dethrones-Qatar-Airways-to-be-named-as-the-Worlds-best-airline-in-2026.png",
-      "source": "Indian Express Trending",
-      "region": "印度",
-      "tags": [
-        "航空出行"
-      ],
-      "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-best-airlines-in-the-world-singapore-airlines-ranks-no-1-check-full-list-10890234/",
-      "translation_status": "fallback",
-      "cluster_id": "6207fc55b01ce6db",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": null,
-      "reddit_comments": null
-    },
-    {
-      "id": "e1ffe9896b418826",
-      "date": "2026-09-23",
-      "published_at": "2026-09-23T16:27:45+08:00",
-      "title_zh": "“他们说我疯了”：为什么这位巴基斯坦男子在他的小家里种植了 5,700 株植物",
-      "title_en": "‘They called me crazy’: Why this Pakistani man grew 5,700 plants in his tiny home",
-      "summary_zh": "对于阿斯加尔来说，绿化不仅仅是一个雄心勃勃的园艺项目。这是实现他母亲曾经与他分享的愿望的一种方式。",
-      "summary_en": "For Asghar, the greenery is more than an ambitious gardening project. It is a way of keeping alive a wish his mother once shared with him.",
-      "image": "https://images.indianexpress.com/2026/09/Pakistan-man-5700-plants.jpg",
-      "source": "Indian Express Trending",
-      "region": "印度",
-      "tags": [
-        "其他"
-      ],
-      "url": "https://indianexpress.com/article/trending/trending-globally/pakistan-pattoki-man-turns-home-into-5000-plant-forest-mother-wish-10890443/",
-      "translation_status": "fallback",
-      "cluster_id": "e1ffe9896b418826",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

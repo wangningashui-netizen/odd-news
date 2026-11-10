@@ -12,6 +12,8 @@ from pathlib import Path
 import fetch_news
 import ingest_x
 import render_comments
+import reply_filter
+import x_targets
 
 
 def raw_trial_post() -> dict:
@@ -169,6 +171,63 @@ class InboxTests(unittest.TestCase):
                 self.assertTrue((data / "search-index.json").exists())
             finally:
                 fetch_news.DATA = old
+
+    def test_optional_angle_and_reply_filter(self) -> None:
+        bare = ingest_x.normalize_post(raw_trial_post())
+        self.assertNotIn("angle", bare)
+        flagged = dict(raw_trial_post())
+        flagged["angle"] = "official"
+        self.assertEqual(ingest_x.normalize_post(flagged)["angle"], "official")
+        self.assertEqual(x_targets.infer_angle("Indian police wrestle a giant rat", "PressSecretary7"), "离谱")
+        self.assertEqual(x_targets.infer_angle("Petroleum ministry defends E20 petrol", "someguy"), "官方")
+        self.assertEqual(x_targets.infer_angle("a cobra under the carpet", "narendramodi"), "官方")
+        self.assertTrue(reply_filter.reply_excluded(
+            "@AsianDigest Indians as soon as they see an air-plane (the think it is a deamon or so..)"
+        ))
+        self.assertTrue(reply_filter.reply_excluded(
+            'Or, as India would tell the story, "The clever and sneaky plane ruined the Diwali."'
+        ))
+        self.assertFalse(reply_filter.reply_excluded("@PressSecretary7 @grok Master Splinter?"))
+        self.assertFalse(reply_filter.reply_excluded("@AsianDigest I didn’t know Budweiser was in India"))
+        kept, removed = reply_filter.filter_replies(
+            [{"text": "Master Splinter?"}, {"text": "Indians as soon as they see a plane"}]
+        )
+        self.assertEqual(removed, 1)
+        self.assertEqual(len(kept), 1)
+
+    def test_reddit_stats_match_archive_posts_without_inventing_zeros(self) -> None:
+        self.assertEqual(
+            fetch_news.reddit_base_id({"url": "https://www.reddit.com/r/india/comments/1xqyf47/hello/"}),
+            "1xqyf47",
+        )
+        self.assertEqual(fetch_news.reddit_base_id({"reddit_id": "t3_AbC123"}), "abc123")
+        item = {
+            "source": "Reddit r/india",
+            "url": "https://example.com/story?utm_source=reddit",
+            "reddit_score": None,
+        }
+        untouched = {
+            "source": "Reddit r/india",
+            "url": "https://example.com/other",
+            "reddit_score": 4,
+            "reddit_comments": 1,
+        }
+        changed = fetch_news.apply_reddit_posts(
+            [item, untouched],
+            [{
+                "id": "zzz",
+                "score": 12,
+                "num_comments": 3,
+                "url": "https://www.example.com/story",
+                "name": "t3_zzz",
+            }],
+        )
+        self.assertEqual(changed, 1)
+        self.assertEqual(item["reddit_score"], 12)
+        self.assertEqual(item["reddit_comments"], 3)
+        self.assertEqual(item["reddit_id"], "t3_zzz")
+        self.assertEqual(untouched["reddit_score"], 4)
+        self.assertIsNone(fetch_news._stat_tuple({"id": "x", "score": None, "num_comments": None}))
 
 
 if __name__ == "__main__":

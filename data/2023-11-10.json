@@ -1,7 +1,7 @@
 {
   "date": "2023-11-10",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "id": "cafe902341643932",
@@ -24,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "cafe902341643932",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "aa5f0131587d1c67",
-      "url": "https://timesofindia.indiatimes.com/viral-news/brazilian-influencer-vanessa-mancini-dies-at-41-from-massive-heart-attack/articleshow/105110853.cms",
-      "title_en": "Brazilian influencer Vanessa Mancini dies at 41 from massive heart attack",
-      "title_zh": "巴西影响者凡妮莎·曼奇尼 (Vanessa Mancini) 因严重心脏病去世，享年 41 岁",
-      "summary_en": "Viral News News: Vanessa Mancini, a 41-year-old Brazil influencer known for her infectious happiness and good humor, met an untimely demise that shocked her 30,000 soc.",
-      "summary_zh": "病毒新闻新闻：41 岁的巴西网红瓦妮莎·曼奇尼 (Vanessa Mancini) 因富有感染力的快乐和幽默而闻名，她的过早去世令她的 30,000 名社交媒体感到震惊。",
-      "translation_status": "fallback",
-      "image": "https://static.toiimg.com/photo/msid-105110904,imgsize-30320.cms",
-      "image_checked": true,
-      "source": "Times of India Viral News",
-      "source_id": "toi-viral",
-      "region": "印度",
-      "published_at": "2023-11-10T11:52:28+08:00",
-      "fetched_at": "2026-11-08T20:59:14+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "aa5f0131587d1c67",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

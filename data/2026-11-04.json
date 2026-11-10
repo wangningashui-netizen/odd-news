@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "Asia/Shanghai",
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "id": "46eb83c4c2910d2b",
@@ -26,7 +26,10 @@
       "source_region": "印度",
       "cluster_id": "46eb83c4c2910d2b",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 12,
+      "reddit_id": "t3_1xnqz1n"
     },
     {
       "id": "fb06502b7ef6d85c",
@@ -50,7 +53,10 @@
       "source_region": "印度",
       "cluster_id": "fb06502b7ef6d85c",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 63,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xnqgdi"
     },
     {
       "id": "429933cfe7b05f57",
@@ -74,7 +80,10 @@
       "source_region": "印度",
       "cluster_id": "429933cfe7b05f57",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 39,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xnqcns"
     },
     {
       "id": "20a0e34db59c4a05",
@@ -98,7 +107,10 @@
       "source_region": "印度",
       "cluster_id": "20a0e34db59c4a05",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 138,
+      "reddit_comments": 32,
+      "reddit_id": "t3_1xnoris"
     },
     {
       "id": "fab68fa1487db376",
@@ -122,7 +134,10 @@
       "source_region": "印度",
       "cluster_id": "fab68fa1487db376",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 152,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xnlwls"
     },
     {
       "id": "7ea7ee25f5f1e71e",
@@ -170,7 +185,10 @@
       "source_region": "印度",
       "cluster_id": "3bedbbe20d22d14a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 162,
+      "reddit_comments": 34,
+      "reddit_id": "t3_1xnkha1"
     },
     {
       "id": "ca206f570211897c",
@@ -195,7 +213,10 @@
       "source_region": "印度",
       "cluster_id": "ca206f570211897c",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xnj9wv"
     },
     {
       "id": "6c49f71d23f1e59d",
@@ -219,31 +240,10 @@
       "source_region": "印度",
       "cluster_id": "6c49f71d23f1e59d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "274a6a88a54dfd41",
-      "url": "https://indianexpress.com/article/trending/trending-globally/us-midterm-election-results-trump-memes-10950127/",
-      "title_en": "‘Hazardous waste’: Democrats’ midterm wins spark memes targeting Trump, Republicans",
-      "title_zh": "“危险废物”：民主党中期选举胜利引发针对特朗普和共和党的迷因",
-      "summary_en": "Reacting to the US midterm results, Trump said he was “absolutely willing” to accept the results and was prepared to work with Democrats.",
-      "summary_zh": "针对美国中期选举结果，特朗普表示，他“绝对愿意”接受结果，并准备与民主党合作。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/11/US-mid-term-elections-memes.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-11-04T15:21:15+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "274a6a88a54dfd41",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 146,
+      "reddit_comments": 8,
+      "reddit_id": "t3_1xniav7"
     },
     {
       "id": "25ea01b3c70cbb1b",
@@ -340,7 +340,10 @@
       "source_region": "印度",
       "cluster_id": "77158e98dc1b3945",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 137,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xncm4d"
     },
     {
       "id": "c48b0801a3466ca2",
@@ -364,7 +367,10 @@
       "source_region": "印度",
       "cluster_id": "c48b0801a3466ca2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 9,
+      "reddit_id": "t3_1xn3krc"
     },
     {
       "id": "efd55e6302bc54a2",
@@ -388,7 +394,10 @@
       "source_region": "印度",
       "cluster_id": "efd55e6302bc54a2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xn215n"
     },
     {
       "id": "5b70db0e9bffe34d",
@@ -412,7 +421,10 @@
       "source_region": "印度",
       "cluster_id": "5b70db0e9bffe34d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 29,
+      "reddit_comments": 4,
+      "reddit_id": "t3_1xn1gfn"
     },
     {
       "id": "b2e94996b77b7e14",
@@ -436,7 +448,10 @@
       "source_region": "印度",
       "cluster_id": "b2e94996b77b7e14",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 285,
+      "reddit_comments": 71,
+      "reddit_id": "t3_1xmzwqz"
     },
     {
       "id": "87b086dd39e7f65f",
@@ -460,7 +475,10 @@
       "source_region": "印度",
       "cluster_id": "87b086dd39e7f65f",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 0,
+      "reddit_comments": 24,
+      "reddit_id": "t3_1xmysv4"
     },
     {
       "id": "cd10da6705ab59eb",
@@ -484,7 +502,10 @@
       "source_region": "印度",
       "cluster_id": "cd10da6705ab59eb",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 66,
+      "reddit_comments": 16,
+      "reddit_id": "t3_1xmyan9"
     },
     {
       "id": "040224c443361c8a",
@@ -509,7 +530,10 @@
       "source_region": "印度",
       "cluster_id": "040224c443361c8a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 27,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xmy9sz"
     }
   ]
 }

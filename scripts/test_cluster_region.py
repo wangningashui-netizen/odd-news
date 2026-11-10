@@ -41,6 +41,32 @@ class ClusterTests(unittest.TestCase):
         diwali = [group for group in groups if any(item["title_en"].startswith("Happy") for item in group)]
         self.assertTrue(all(len(group) == 1 for group in diwali))
 
+    def test_delhi_air_joins_across_the_smog_week_and_lobbying_joins(self) -> None:
+        items = [
+            story("Delhi AQI hits 400 as smog returns", "GRAP stage III.", "2026-11-02"),
+            story("Supreme Court quip on Delhi pollution", "The bench asked about the weather.", "2026-11-06"),
+            story("Monitoring stations go blank in Delhi", "Air quality data missing on Diwali night.", "2026-11-09"),
+            story("Metro vs AQI couple compare Delhi and Bengaluru", "They moved cities years earlier.", "2026-09-22"),
+            story("India Paid $150,000 Monthly For Trump Aide's Lobbying Firm", "FARA filings reveal 8 White House calls.", "2026-11-07"),
+            story("FARA filing of the lobbyist on Trump tweet on Modi", "The filing covers the longest-serving claim.", "2026-11-08"),
+            story("8 calls between Delhi and Washington: US lobbying firm", "Miller's firm was terminated in June.", "2026-11-08"),
+            story("Farah Khan Mumbai residence fire on Diwali", "The filmmaker denied the clip.", "2026-11-09"),
+        ]
+        groups = cluster_items(items)
+        delhi = [group for group in groups if any("AQI" in item["title_en"] or "pollution" in item["title_en"].lower() or "Air quality" in item["summary_en"] for item in group)]
+        november = [group for group in delhi if any(item["published_at"].startswith("2026-11") for item in group)]
+        self.assertEqual(len(november), 1)
+        self.assertEqual(len(november[0]), 3)
+        september = [group for group in groups if any(item["published_at"].startswith("2026-09") for item in group)]
+        self.assertEqual(len(september), 1)
+        self.assertEqual(len(september[0]), 1)
+        lobby = [group for group in groups if any("FARA" in item["title_en"] or "lobbying" in item["title_en"] for item in group)]
+        self.assertEqual(len(lobby), 1)
+        self.assertEqual(len(lobby[0]), 3)
+        farah = [group for group in groups if any("Farah" in item["title_en"] for item in group)]
+        self.assertEqual(len(farah), 1)
+        self.assertEqual(len(farah[0]), 1)
+
     def test_region_follows_the_story_not_the_publisher(self) -> None:
         self.assertEqual(
             classify_region("Seattle man wins the state lottery", "The drawing was held in Washington.", "印度"),
@@ -61,6 +87,30 @@ class ClusterTests(unittest.TestCase):
                 "美国",
             ),
             "美国",
+        )
+        self.assertEqual(
+            classify_region(
+                "Paraguay Senate Impeaches President Pena Amid Bank Collapse Scandal",
+                "The senate voted to remove Santiago Pena after he resigned.",
+                "印度",
+            ),
+            "巴拉圭",
+        )
+        self.assertEqual(
+            classify_region(
+                "Trump Defends Pete Hegseth Amid Impeachment Push",
+                "The president called the defense secretary responsible for the Iran campaign.",
+                "印度",
+            ),
+            "美国",
+        )
+        self.assertEqual(
+            classify_region(
+                "FARA filing of the lobbyist on Trump’s tweet on Modi as longest standing PM",
+                "The filing is about the prime minister.",
+                "印度",
+            ),
+            "印度",
         )
 
 

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "timezone": "Asia/Shanghai",
-  "count": 16,
+  "count": 15,
   "items": [
     {
       "id": "ab177dd8c3ffd233",
@@ -26,31 +26,10 @@
       "source_region": "印度",
       "cluster_id": "ab177dd8c3ffd233",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "05f6b07f34f1a2be",
-      "url": "https://indianexpress.com/article/trending/trending-globally/mid-chase-courtesy-as-fleeing-van-driver-stops-to-pay-highway-toll-in-malaysia-10948800/",
-      "title_en": "Mid-chase courtesy as fleeing van driver stops to pay highway toll in Malaysia",
-      "title_zh": "马来西亚，逃跑的货车司机停下来支付高速公路通行费，追捕过程中礼貌",
-      "summary_en": "Dashcam footage captures a Malaysian suspect pausing mid-car-chase to tap his toll card.",
-      "summary_zh": "行车记录仪的镜头捕捉到一名马来西亚嫌疑人在汽车追逐中停下来窃听他的收费卡。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/11/Dashcam-footage-captures-a-Malaysian-suspect-pausing-mid-car-chase-to-tap-his-toll-card.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-11-03T21:07:28+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "交通火车"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "05f6b07f34f1a2be",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1668,
+      "reddit_comments": 48,
+      "reddit_id": "t3_1xmuotz"
     },
     {
       "id": "ce178983835e3357",
@@ -74,7 +53,10 @@
       "source_region": "印度",
       "cluster_id": "ce178983835e3357",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 23,
+      "reddit_comments": 7,
+      "reddit_id": "t3_1xmr7x4"
     },
     {
       "id": "4ec421c5798a36d6",
@@ -98,7 +80,10 @@
       "source_region": "印度",
       "cluster_id": "4ec421c5798a36d6",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 571,
+      "reddit_comments": 14,
+      "reddit_id": "t3_1xmo633"
     },
     {
       "id": "9e3d094a2c0e9e66",
@@ -122,7 +107,10 @@
       "source_region": "印度",
       "cluster_id": "9e3d094a2c0e9e66",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 182,
+      "reddit_comments": 29,
+      "reddit_id": "t3_1xmn8g6"
     },
     {
       "id": "407b0f1a333ca7d8",
@@ -146,7 +134,10 @@
       "source_region": "印度",
       "cluster_id": "407b0f1a333ca7d8",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 66,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xmmzbn"
     },
     {
       "id": "0008b312235a2400",
@@ -171,7 +162,10 @@
       "source_region": "印度",
       "cluster_id": "0008b312235a2400",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 972,
+      "reddit_comments": 58,
+      "reddit_id": "t3_1xmmt8d"
     },
     {
       "id": "9a0b324cc3f176ca",
@@ -219,7 +213,10 @@
       "source_region": "印度",
       "cluster_id": "8f09d68f2baf5b38",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 427,
+      "reddit_comments": 21,
+      "reddit_id": "t3_1xmlamf"
     },
     {
       "id": "a1a19b1babfc1e19",
@@ -292,7 +289,10 @@
       "source_region": "印度",
       "cluster_id": "c7cdb448f89955b8",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 18,
+      "reddit_comments": 5,
+      "reddit_id": "t3_1xmiamg"
     },
     {
       "id": "3b2c670b1ab053fd",
@@ -316,7 +316,10 @@
       "source_region": "印度",
       "cluster_id": "3b2c670b1ab053fd",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 154,
+      "reddit_comments": 27,
+      "reddit_id": "t3_1xmbsjw"
     },
     {
       "id": "6c7f355e12f2de79",
@@ -340,7 +343,10 @@
       "source_region": "印度",
       "cluster_id": "6c7f355e12f2de79",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 432,
+      "reddit_comments": 34,
+      "reddit_id": "t3_1xm4n5g"
     },
     {
       "id": "081c3a5d398ef151",
@@ -365,7 +371,10 @@
       "source_region": "印度",
       "cluster_id": "081c3a5d398ef151",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 13,
+      "reddit_id": "t3_1xm40cq"
     },
     {
       "id": "616bfaf4458c4865",

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
   "timezone": "Asia/Shanghai",
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "id": "20e991dcf009c04a",
@@ -25,7 +25,10 @@
       "source_region": "印度",
       "cluster_id": "20e991dcf009c04a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 181,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xlxok1"
     },
     {
       "id": "c3318fe465f5fea8",
@@ -49,7 +52,10 @@
       "source_region": "印度",
       "cluster_id": "c3318fe465f5fea8",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 150,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xlwmaz"
     },
     {
       "id": "a1d443d7dfd90351",
@@ -72,32 +78,11 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "d48e0b9c3035e2d9",
-      "url": "https://indianexpress.com/article/trending/trending-globally/finland-free-blind-dating-trip-singles-2027-10947226/",
-      "title_en": "Free Finland trip for singles? World’s happiest country is offering an all-expenses-paid blind dating experience",
-      "title_zh": "单身人士免费芬兰之旅？世界上最幸福的国家正在提供免费相亲体验",
-      "summary_en": "The campaign, called the ‘Finnish Dinner Date’, has been launched by Finland’s tourism board.",
-      "summary_zh": "这项名为“芬兰晚餐约会”的活动由芬兰旅游局发起。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/11/Finland-free-trip-for-singles.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-11-02T17:54:10+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "d48e0b9c3035e2d9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 824,
+      "reddit_comments": 123,
+      "reddit_id": "t3_1xlthd8"
     },
     {
       "id": "fdef50283d52abed",
@@ -147,7 +132,10 @@
       "source_region": "印度",
       "cluster_id": "a6af220e8e98c32d",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1020,
+      "reddit_comments": 61,
+      "reddit_id": "t3_1xlrlha"
     },
     {
       "id": "35883258bcbbfe3c",
@@ -171,7 +159,10 @@
       "source_region": "印度",
       "cluster_id": "35883258bcbbfe3c",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 116,
+      "reddit_comments": 6,
+      "reddit_id": "t3_1xlqsyc"
     },
     {
       "id": "84251f1e4e3abed1",
@@ -195,7 +186,10 @@
       "source_region": "印度",
       "cluster_id": "84251f1e4e3abed1",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 707,
+      "reddit_comments": 18,
+      "reddit_id": "t3_1xlqr4p"
     },
     {
       "id": "390567365f90b6be",
@@ -219,7 +213,10 @@
       "source_region": "印度",
       "cluster_id": "390567365f90b6be",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 19,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xlpxb4"
     },
     {
       "id": "f569b277d0269b29",
@@ -268,7 +265,10 @@
       "source_region": "印度",
       "cluster_id": "199bb10b0d84fcf9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 9,
+      "reddit_comments": 3,
+      "reddit_id": "t3_1xlp67y"
     },
     {
       "id": "fd43c150894615c6",
@@ -316,31 +316,10 @@
       "source_region": "印度",
       "cluster_id": "a8a936f9ddb798a7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "85196f8a4861d1c1",
-      "url": "https://indianexpress.com/article/trending/trending-globally/mate-rimac-stolen-bugatti-chiron-porsche-chase-10946700/",
-      "title_en": "Bugatti CEO chases job-seeker who stole his Chiron in a Porsche 911, refuses to press charges",
-      "title_zh": "布加迪首席执行官追捕偷走保时捷 911 Chiron 的求职者，但拒绝提出指控",
-      "summary_en": "A job inquiry turned into a police chase after a man drove off in Mate Rimac's Bugatti Chiron, leading to a multi-agency recovery in Austria.",
-      "summary_zh": "一名男子驾驶 Mate Rimac 的布加迪 Chiron 逃跑后，一次工作调查变成了警方追捕，奥地利多个机构共同展开追捕行动。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/11/Bugatti-CEO-car-stolen.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-11-02T11:51:15+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "85196f8a4861d1c1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1295,
+      "reddit_comments": 22,
+      "reddit_id": "t3_1xlo4rc"
     },
     {
       "id": "9c8402955dfae77a",
@@ -364,7 +343,10 @@
       "source_region": "印度",
       "cluster_id": "9c8402955dfae77a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1211,
+      "reddit_comments": 38,
+      "reddit_id": "t3_1xl8i7l"
     },
     {
       "id": "09b943fd1defe081",
@@ -388,7 +370,10 @@
       "source_region": "印度",
       "cluster_id": "09b943fd1defe081",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 83,
+      "reddit_comments": 15,
+      "reddit_id": "t3_1xl6qvs"
     }
   ]
 }

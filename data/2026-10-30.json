@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "65716567a4cf77e2",
@@ -72,30 +72,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "465afcbb73fb7a5e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f2d57a29d4a7c8d6",
-      "url": "https://indianexpress.com/article/trending/trending-globally/indonesian-firefighters-jump-with-joy-as-rain-falls-amid-brutal-wildfires-watch-video-10943000/",
-      "title_en": "Indonesian firefighters jump with joy as rain falls amid brutal wildfires. Watch video",
-      "title_zh": "印度尼西亚消防员在残酷的野火中下雨时高兴地跳了起来。观看视频",
-      "summary_en": "Indonesian firefighters celebrate as downpours bring relief to brutal wildfire blazes. (photo credit instagram)",
-      "summary_zh": "印度尼西亚消防队员庆祝倾盆大雨缓解了残酷的野火。 （照片来源Instagram）",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Indonesian-firefighters-celebrate-as-downpours-bring-relief-to-brutal-wildfire-blazes.-photo-credit-instagram.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-30T14:48:22+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f2d57a29d4a7c8d6",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

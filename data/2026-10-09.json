@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "362f4b3f2270107c",
@@ -24,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "362f4b3f2270107c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "080d2190ffdb8284",
-      "url": "https://indianexpress.com/article/trending/trending-globally/susan-dell-mar-a-lago-face-explained-10914254/",
-      "title_en": "Susan Dell’s appearance at Oval Office sparks ‘Mar-a-Lago Face’ debate",
-      "title_zh": "苏珊·戴尔出现在椭圆形办公室引发“海湖庄园脸”争论",
-      "summary_en": "Susan Dell’s Oval Office appearance with husband Michael Dell to discuss their Trump Accounts pledge sparked online debate over her looks, with users invoking ‘Mar-a-Lago face’.",
-      "summary_zh": "苏珊·戴尔 (Susan Dell) 与丈夫迈克尔·戴尔 (Michael Dell) 出现在椭圆形办公室，讨论他们的特朗普账户承诺，引发了网上关于她外表的争论，用户称其为“海湖庄园脸”。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Susan-Dell-Mar-a-Lago-face.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-09T19:48:26+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "080d2190ffdb8284",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

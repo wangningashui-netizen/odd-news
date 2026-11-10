@@ -28,7 +28,9 @@ from pathlib import Path
 
 import fetch_news
 import render_comments
+from reply_filter import COMMENTS_IMAGE_NOTE, FILTER_VERSION, filter_replies
 from topics import TAG_ORDER, classify_text
+from x_targets import assign_angle
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -153,7 +155,7 @@ def normalize_post(raw: dict) -> dict:
                 "in_reply_to_id": reply_parent(reply),
             }
         )
-    return {
+    normalized = {
         "id": tweet_id,
         "url": url,
         "author": author_of(raw.get("author")),
@@ -170,6 +172,10 @@ def normalize_post(raw: dict) -> dict:
         "tags": tags,
         "replies": replies,
     }
+    angle = raw.get("angle")
+    if isinstance(angle, str) and angle.strip():
+        normalized["angle"] = angle.strip()
+    return normalized
 
 
 def load_inbox(path: Path) -> list[dict]:
@@ -203,6 +209,7 @@ def content_sha(post: dict) -> str:
         "summary_zh": post.get("summary_zh"),
         "tags": post.get("tags"),
         "replies": post.get("replies"),
+        "reply_filter": FILTER_VERSION,
     }
     blob = json.dumps(payload, ensure_ascii=False, sort_keys=True)
     return hashlib.sha1(blob.encode("utf-8")).hexdigest()
@@ -366,7 +373,7 @@ def build_item(post: dict, x_payload: dict, tags: list[str], tag_source: str) ->
         image = photos[0]
     elif x_payload.get("video_thumbnail"):
         image = x_payload["video_thumbnail"]
-    return {
+    item = {
         "id": site_id(post["url"]),
         "url": post["url"],
         "title_en": short_title(text),
@@ -388,6 +395,8 @@ def build_item(post: dict, x_payload: dict, tags: list[str], tag_source: str) ->
         "kind": "x",
         "x": x_payload,
     }
+    assign_angle(item, inbox_angle=post.get("angle"))
+    return item
 
 
 def upsert(days: dict[str, list[dict]], item: dict) -> set[str]:
@@ -448,6 +457,7 @@ def x_payload(post: dict, photo_rels: list[str], thumb_rel: str | None, replies:
     comments_rel = f"assets/x/{post['id']}/comments.png"
     comments = pages_url(comments_rel) if (ASSETS / post["id"] / "comments.png").exists() else None
     now = datetime.now(SHANGHAI).isoformat(timespec="seconds")
+    kept_replies, omitted = filter_replies(replies)
     payload = {
         "post_id": post["id"],
         "lang": post.get("lang"),
@@ -465,7 +475,9 @@ def x_payload(post: dict, photo_rels: list[str], thumb_rel: str | None, replies:
         "post_url": post["url"],
         "ytdlp_command": "yt-dlp " + post["url"],
         "comments_image": comments,
-        "replies": replies,
+        "comments_image_note": COMMENTS_IMAGE_NOTE,
+        "replies": kept_replies,
+        "replies_omitted": omitted,
         "content_sha": content_sha(post),
     }
     return payload
@@ -599,13 +611,46 @@ def refresh_videos(days_back: int) -> int:
     return 0
 
 
+def rerender_comments() -> int:
+    """Redraw comment sheets from the inbox and files already in assets/x.
+
+    Does not download media and does not resolve video URLs. Replies that
+    fail the comment filter are left out of the image.
+    """
+    if not render_comments.find_chrome():
+        log("google-chrome not found; set CHROME_BIN")
+        return 1
+    drawn = 0
+    for path in inbox_files(None):
+        posts = load_inbox(path)
+        log(f"rerender {path.name}: {len(posts)} posts")
+        for post in posts:
+            media = ASSETS / post["id"]
+            if not media.exists():
+                log(f"skip render {post['id']}: no local media")
+                continue
+            thumb = media / "video-thumb.jpg"
+            local_photos = sorted(media.glob("photo-*.jpg"))
+            try:
+                render_sheet(post, media, local_photos, thumb if thumb.exists() else None)
+            except Exception as exc:  # noqa: BLE001
+                log(f"render fail {post['id']}: {exc}")
+                return 1
+            drawn += 1
+    log(f"rerendered {drawn} comment sheet(s)")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Ingest X inbox posts into the India library")
     parser.add_argument("--inbox", help="One inbox JSON path or file name. Default: every data/x/inbox/YYYY-MM-DD.json")
     parser.add_argument("--refresh-videos", type=int, metavar="DAYS", help="Re-resolve direct mp4 URLs for X items in the last N days")
     parser.add_argument("--force-render", action="store_true", help="Render comment sheets even when the post body is unchanged")
+    parser.add_argument("--rerender-comments", action="store_true", help="Redraw comment sheets from local files. Does not download or resolve video.")
     parser.add_argument("--skip-retranslate", action="store_true")
     args = parser.parse_args()
+    if args.rerender_comments and not args.inbox and args.refresh_videos is None and not args.force_render:
+        return rerender_comments()
     if args.refresh_videos is not None and not args.inbox and not args.force_render:
         # Refresh-only when that flag is the operation. Combining both is allowed
         # by passing --inbox as well; the default with only --refresh-videos

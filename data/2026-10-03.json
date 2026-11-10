@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "7565cf149bf9ec04",
@@ -72,30 +72,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a2c9c99568d6d7e3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "79c2a9ffd4c6bf92",
-      "url": "https://indianexpress.com/article/trending/trending-globally/comando-chihuahua-mexico-national-guard-10904972/",
-      "title_en": "Mexico’s National Guard has a new recruit: An 8-inch Chihuahua",
-      "title_zh": "墨西哥国民警卫队招募新兵：8英寸吉娃娃犬",
-      "summary_en": "The tiny dog recently took part in a training session in Mexico City, where he was seen wearing a miniature tactical vest, goggles and a small camera mounted on his head.",
-      "summary_zh": "这只小狗最近参加了墨西哥城的一次训练，人们看到它穿着微型战术背心，戴着护目镜，头上安装了一个小型相机。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Comando-Chihuahua-Mexico-National-Guard.jpg",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-03T15:39:17+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "动物"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "79c2a9ffd4c6bf92",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

@@ -82,7 +82,9 @@ python3 scripts/export_untranslated.py
 
 ## X 素材
 
-外面的任务把原始 JSON 提交到 `data/x/inbox/YYYY-MM-DD.json`。字段、回复结构和一条真样例写在 [`docs/x-schema.md`](docs/x-schema.md)。仓库里不保存 X 的 API 密钥。
+外面的任务把原始 JSON 提交到 `data/x/inbox/YYYY-MM-DD.json`。字段、回复结构和一条真样例写在 [`docs/x-schema.md`](docs/x-schema.md)。要抓哪些关键词和账号写在 [`data/x/targets.json`](data/x/targets.json)，本仓库的 Actions 不抓 X，也不保存 X 的 API 密钥。收件箱可以不写 `angle`；不写就按那个文件推断成「官方」或「离谱」。
+
+评论长图是按真实回复渲染的，不是截图。渲染前会去掉贬损国籍、民族、宗教、种姓或套用族群刻板印象的回复，规则在 `scripts/reply_filter.py`。
 
 推送这个路径会跑 `.github/workflows/ingest-x.yml`（也可以手动跑）。它对每条帖子：
 
@@ -143,7 +145,7 @@ python3 scripts/export_untranslated.py
 | Reddit r/indiasocial | `https://www.reddit.com/r/indiasocial/new/.rss?limit=100` | 99 |
 | X | 外面的任务写入 `data/x/inbox/YYYY-MM-DD.json`，见 `docs/x-schema.md` | — |
 
-Reddit 使用固定的 User-Agent：`linux:odd-news-daily:1.0.0 (by /u/odd-news-daily)`。外链帖打开原文，站内自帖丢掉。不要把这个标识改成编程语言的默认值，否则会被拒绝。
+Reddit 使用固定的 User-Agent：`linux:odd-news-daily:1.0.0 (by /u/odd-news-daily)`。外链帖打开原文，站内自帖丢掉。不要把这个标识改成编程语言的默认值，否则会被拒绝。赞和评论数在云端 IP 上经常拿不到 Reddit 自己的 JSON（403），所以按帖子 id 和原文链接去 Arctic Shift 公开存档补，补不到的保持原样，不补 0。
 
 NDTV：`https://feeds.feedburner.com/ndtvnews-offbeat` 返回的是首页 HTML，不是 RSS；`ndtv.com` 的栏目页从很多数据中心 IP 返回 403。现在用 Google News 的栏目查询 `site:ndtv.com/offbeat when:3d`，再把 `news.google.com` 的跳转解回 `www.ndtv.com` 的文章地址。解不开的条目不会入库。
 

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "timezone": "Asia/Shanghai",
-  "count": 132,
+  "count": 122,
   "items": [
     {
       "id": "e280396baf6398e7",
@@ -131,7 +131,7 @@
       "cluster_id": "29387a300d8cc796",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 61,
+      "reddit_score": 71,
       "reddit_comments": 0
     },
     {
@@ -185,31 +185,6 @@
       "cluster_source_count": 1,
       "reddit_score": 51,
       "reddit_comments": 16
-    },
-    {
-      "id": "89c33e1d36fae619",
-      "url": "https://www.republicworld.com/world-news/israeli-prime-minister-benjamin-netanyahu-calls-for-overhaul-of-israel-s-police-state-attorney-s-office-2026-11-09-140714",
-      "title_en": "Netanyahu Calls for Overhaul of Israel's Police, State Attorney's Office",
-      "title_zh": "内塔尼亚胡呼吁对以色列警察和国家检察官办公室进行彻底改革",
-      "summary_en": "Israeli PM Benjamin Netanyahu called for a comprehensive overhaul of the State Attorney&#39;s Office and the police following the publication of recordings of Israel Police Investigations and Intelligence Division chief Boaz Balet, alleging politicisation of the country&#39;s law enforcement system.",
-      "summary_zh": "在以色列警察调查和情报部门负责人博阿斯·巴莱特的录音发布后，以色列总理本杰明·内塔尼亚胡呼吁对国家检察官办公室和警察进行全面改革，指控该国执法系统政治化。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/03/israel-prime-minister-benjamin-netanyahu-1773394179300-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T22:27:16+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "犯罪法律"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "89c33e1d36fae619",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "7649b11743d9a04f",
@@ -282,9 +257,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "c917a5c07d6b5069",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "d941b7d6f8fa084b",
@@ -308,36 +283,11 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "d941b7d6f8fa084b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
       "reddit_score": 432,
       "reddit_comments": 24
-    },
-    {
-      "id": "b7a9f3d4ca8080fb",
-      "url": "https://www.republicworld.com/world-news/pezeshkian-says-iran-is-open-to-dialogue-but-will-not-surrender-to-force-and-bullying-us-iran-war-2026-11-09-140712",
-      "title_en": "'Can Have Dialogue With Dignity, But Will Not Surrender to Force and Bullying': Iraninan President Pezeshkian",
-      "title_zh": "伊朗总统佩泽什基安：“可以有尊严地对话，但不会屈服于武力和欺凌”",
-      "summary_en": "&quot;We can talk with dignity and end the issue with dignity. We are people of dialogue & negotiation, and logic dictates that if we can get our rights through dialogue, we should not get ourselves involved in war. But we will not surrender to force & bullying,&quot; Iranian President Masoud Pezeshkian said.",
-      "summary_zh": "伊朗总统马苏德·佩泽什基安表示：“我们可以有尊严地对话，有尊严地结束问题。我们是对话和谈判的人民，逻辑表明，如果我们能够通过对话获得我们的权利，我们就不应该卷入战争。但我们不会屈服于武力和欺凌。”",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/iran-president-masoud-pezeshkian-condemns-ayatollah-khamenei-s-killing-1772342975934-16_9.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T22:04:31+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "b7a9f3d4ca8080fb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
     },
     {
       "id": "3fea6d8bee1a18fa",
@@ -394,63 +344,6 @@
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/comments.png",
         "replies": [
           {
-            "id": "2119797764288852207",
-            "author": {
-              "name": "MAKE MEMES GREAT AGAIN",
-              "username": "MMGA_Now",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118969012205793280/AVUGG3Fp_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/MMGA_Now.jpg"
-            },
-            "text": "@AsianDigest Shame it didn’t plummet down and murder a few cows 😂 “Saar, we lost cows, fak mather faker passenger Saars”",
-            "created_at": "2026-11-09T14:22:25.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 4,
-              "impression_count": 87
-            },
-            "in_reply_to_id": "2119792008273515000"
-          },
-          {
-            "id": "2119872419708248300",
-            "author": {
-              "name": "Gadget Agent",
-              "username": "dtp_ai",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/2081717194463879168/xjy39uxc_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/dtp_ai.jpg"
-            },
-            "text": "@AsianDigest Or, as India would tell the story, \"The clever and sneaky plane ruined the Diwali.\"",
-            "created_at": "2026-11-09T19:19:04.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 2,
-              "impression_count": 32
-            },
-            "in_reply_to_id": "2119792008273515000"
-          },
-          {
-            "id": "2119812697638519203",
-            "author": {
-              "name": "Tylosaurus rex",
-              "username": "Tylosaurussea",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/2082072509755662336/FJSMLMew_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/avatars/Tylosaurussea.jpg"
-            },
-            "text": "@AsianDigest Indians as soon as they see an air-plane (the think it is a deamon or so..) https://t.co/DQjnMOnUiJ",
-            "created_at": "2026-11-09T15:21:45.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 2,
-              "impression_count": 82
-            },
-            "in_reply_to_id": "2119792008273515000"
-          },
-          {
             "id": "2119813923939508667",
             "author": {
               "name": "Jake Raeder",
@@ -470,34 +363,13 @@
             "in_reply_to_id": "2119792008273515000"
           }
         ],
-        "content_sha": "7a4041b79f486760ceab93790e5c49562b3fc485"
+        "content_sha": "7a4041b79f486760ceab93790e5c49562b3fc485",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 3,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "3fea6d8bee1a18fa",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "db4460f1d232e7c1",
-      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-prices-slide-as-trump-signals-restraint-on-iran-despite-fresh-shipping-attacks-article-156486685",
-      "title_en": "Crude Oil Prices Slide As Trump Signals Restraint On Iran Despite Fresh Shipping Attacks",
-      "title_zh": "尽管遭遇新的航运袭击，特朗普仍暗示对伊朗实施限制，原油价格下滑",
-      "summary_en": "The oil market remains sensitive to developments in US-Iran talks and potential disruptions in energy supply routes., Economy, Times Now",
-      "summary_zh": "石油市场仍然对美伊谈判的进展和能源供应路线的潜在中断敏感。, 经济, Times Now",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156486684,thumbsize-41376,width-1280,height-720,resizemode-75/156486684.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T21:55:57+08:00",
-      "fetched_at": "2026-11-10T12:33:52+08:00",
-      "page_fetched": true,
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "db4460f1d232e7c1",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -547,9 +419,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "6ac08a276b8a985e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "2a52847ce513bd5f",
@@ -644,7 +516,7 @@
       "region": "印度",
       "published_at": "2026-11-09T21:15:57+08:00",
       "fetched_at": "2026-11-10T12:33:59+08:00",
-      "reddit_id": "t3_1xrrdpz",
+      "reddit_id": "t3_1xrv440",
       "page_fetched": true,
       "tags": [
         "影视神剧"
@@ -654,8 +526,8 @@
       "cluster_id": "aee2384026d69003",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1057,
-      "reddit_comments": 41
+      "reddit_score": 96,
+      "reddit_comments": 3
     },
     {
       "id": "7791064f3426a4b0",
@@ -752,9 +624,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "54c4ed25e2158e02",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "dbf6dbac80ba8d65",
@@ -832,9 +704,11 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "beefa1562974e74c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 407,
+      "reddit_comments": 32
     },
     {
       "id": "21a85f2c5cf263c3",
@@ -1010,7 +884,9 @@
       "source_region": "印度",
       "cluster_id": "fe7acca1e4509aa7",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 11,
+      "reddit_comments": 1
     },
     {
       "id": "02d0705b770f9960",
@@ -1033,9 +909,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "833243a86de61cf6",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_id": "02d0705b770f9960",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "86ef16165ddd723d",
@@ -1188,7 +1064,9 @@
       "source_region": "印度",
       "cluster_id": "93cee4589253db9b",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 53,
+      "reddit_comments": 8
     },
     {
       "id": "4972332e87caeb89",
@@ -1313,7 +1191,9 @@
       "source_region": "印度",
       "cluster_id": "fde75d5857ff1e72",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 536,
+      "reddit_comments": 29
     },
     {
       "id": "ffc9cff4cac66afb",
@@ -1414,9 +1294,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "bdc060a8e3739745",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "5c9bc9ab14121578",
@@ -1439,9 +1319,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "5c9bc9ab14121578",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "97af945ebd93dfde",
@@ -1465,31 +1345,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "97af945ebd93dfde",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "7c40b25cde58f72f",
-      "url": "https://www.republicworld.com/global-news/48-hours-to-restore-hormuz-security-iran-says-two-day-proposal-still-on-table-sets-conditions-for-us-2026-11-09-140702",
-      "title_en": "'48 Hours To Restore Hormuz Security': Iran Says Two-Day Proposal Still On Table, Sets Conditions For US",
-      "title_zh": "“48小时内恢复霍尔木兹安全”：伊朗称为期两天的提案仍在讨论中，为美国设定了条件",
-      "summary_en": "Iran says security in the Strait of Hormuz could be restored within 48 hours if the US meets Tehran&#39;s demands, including lifting the economic blockade and ending hostilities.",
-      "summary_zh": "伊朗表示，如果美国满足德黑兰的要求，包括解除经济封锁和结束敌对行动，霍尔木兹海峡的安全可以在48小时内恢复。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran-1792842561401-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T17:08:16+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "7c40b25cde58f72f",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1519,31 +1374,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "52987bc7220fccdd",
-      "url": "https://www.republicworld.com/global-news/zelenskyy-secures-eu-emergency-aid-mechanism-as-russian-strikes-disrupt-power-water-in-ukraine-2026-11-09-140701",
-      "title_en": "EU To Activate Emergency Funding For Ukraine's Power, Water Needs After Russian Strikes: Zelenskyy",
-      "title_zh": "泽连斯基：欧盟将在俄罗斯袭击后为乌克兰的电力和水需求启动紧急资金",
-      "summary_en": "Ukrainian President Volodymyr Zelenskyy says the EU will activate an emergency mechanism to provide funding as Russian strikes disrupt electricity, water and heating supplies across several regions.",
-      "summary_zh": "乌克兰总统泽连斯基表示，由于俄罗斯的袭击扰乱了多个地区的电力、水和供暖供应，欧盟将启动紧急机制提供资金。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/10/zelenskyy-says-russia-attacked-ukrainian-energy-sector-76-times-in-past-week-1792323201803-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T17:04:09+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "52987bc7220fccdd",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "9fb84a5c6f7ff0a8",
       "url": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/shahjahanpur-girls-bodies-found-hanging-tree-investigation-139635180.html",
       "title_en": "Two girls' bodies found hanging from a tree in Shahjahanpur: 17 & 15 years old, both were friends",
@@ -1567,7 +1397,9 @@
       "source_region": "印度",
       "cluster_id": "9fb84a5c6f7ff0a8",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 202,
+      "reddit_comments": 6
     },
     {
       "id": "51de632d72768b34",
@@ -1595,31 +1427,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "5c7598fe7bd732f5",
-      "url": "https://www.republicworld.com/global-news/very-close-to-a-deal-trump-says-zelenskyy-putin-hatred-biggest-hurdle-to-ukraine-peace-2026-11-09-140699",
-      "title_en": "'Very Close To A Deal': Trump Says Zelenskyy-Putin Hatred Biggest Hurdle To Ukraine Peace",
-      "title_zh": "“非常接近达成协议”：特朗普称泽连斯基与普京的仇恨是乌克兰和平的最大障碍",
-      "summary_en": "US President Donald Trump says a Russia-Ukraine peace deal is near, blaming the personal animosity between Zelenskyy and Putin as the biggest obstacle to ending the war.",
-      "summary_zh": "美国总统唐纳德·特朗普表示，俄罗斯与乌克兰即将达成和平协议，并指责泽连斯基和普京之间的个人恩怨是结束战争的最大障碍。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/very-close-to-a-deal-trump-says-zelenskyy-putin-hatred-biggest-hurdle-to-ukraine-peace-1794213676061-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T16:41:22+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "5c7598fe7bd732f5",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "055cc76d3d030763",
       "url": "https://thewire.in/article/government/election-commission-bengal-electoral-rolls-muslim-names-nine-of-ten",
       "title_en": "9 in 10 Voters the Election Commission Wants Removed From Bengal’s Rolls Have Muslim Names",
@@ -1643,7 +1450,9 @@
       "source_region": "印度",
       "cluster_id": "055cc76d3d030763",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 174,
+      "reddit_comments": 11
     },
     {
       "id": "8b63f79964083e37",
@@ -1669,7 +1478,9 @@
       "source_region": "印度",
       "cluster_id": "8b63f79964083e37",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 2
     },
     {
       "id": "934e5d09072ccd5d",
@@ -1693,31 +1504,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "934e5d09072ccd5d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "3e27b93bc984f770",
-      "url": "https://www.timesnownews.com/sports/pickleball/vietnam-set-to-make-app-asia-tour-debut-with-ho-chi-minh-city-open-2026-article-156485255",
-      "title_en": "Vietnam Set To Make APP Asia Tour Debut With Ho Chi Minh City Open 2026",
-      "title_zh": "APP 亚洲巡回赛越南站首秀 2026 年胡志明市公开赛",
-      "summary_en": "Vietnam will host its first APP Asia Tour event, the Ho Chi Minh City Open 2026, from December 10 to 13 at the AIAS Pickleball Academy. , Pickleball, Times Now",
-      "summary_zh": "越南将于 12 月 10 日至 13 日在 AIAS Pickleball Academy 举办首届 APP 亚洲巡回赛赛事——2026 年胡志明市公开赛。 ，匹克球，时代现在",
-      "translation_status": "fallback",
-      "image": "https://images.timesnownews.com/thumb/msid-156485265,thumbsize-1636357,width-1280,height-720,resizemode-75/156485265.jpg",
-      "image_checked": true,
-      "source": "Times Now Viral",
-      "source_id": "timesnow-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T16:33:35+08:00",
-      "fetched_at": "2026-11-10T12:33:52+08:00",
-      "page_fetched": true,
-      "tags": [
-        "科技发明"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "3e27b93bc984f770",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1768,9 +1554,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "833243a86de61cf6",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "1e9d166ad94739cd",
@@ -1796,7 +1582,9 @@
       "source_region": "印度",
       "cluster_id": "57b8ae3dc577e722",
       "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 1
     },
     {
       "id": "d8b5417e3e85c953",
@@ -1820,9 +1608,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "d8b5417e3e85c953",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "5b599f94120d051e",
@@ -2011,7 +1799,11 @@
             "in_reply_to_id": "2119696806179381409"
           }
         ],
-        "content_sha": "110431fe6571029cf3c054de99779f5833afb680"
+        "content_sha": "110431fe6571029cf3c054de99779f5833afb680",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "5b599f94120d051e",
       "cluster_item_count": 1,
@@ -2041,7 +1833,9 @@
       "source_region": "印度",
       "cluster_id": "1de193dc82730575",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 424,
+      "reddit_comments": 24
     },
     {
       "id": "80de027f664d7953",
@@ -2067,7 +1861,9 @@
       "source_region": "印度",
       "cluster_id": "80de027f664d7953",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 24,
+      "reddit_comments": 7
     },
     {
       "id": "0ae5f5c0862f738a",
@@ -2217,25 +2013,6 @@
             "in_reply_to_id": "2119692685019623544"
           },
           {
-            "id": "2119713263793615338",
-            "author": {
-              "name": "shashi ranjan",
-              "username": "shashiranjan265",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/1256933225131315200/sk2FwD6A_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/shashiranjan265.jpg"
-            },
-            "text": "@BBCHindi @BBCHindi  TUM LOG GALAT TIME PE HE JATE HO ...364 DAY ME SE DIWALE K AGLE DIN JATE HOO...KABHI BAKRI EID K BAAD BHI NIKLA KARO SADKO PE...LAAL BLOOD DEKHNE K LIYE",
-            "created_at": "2026-11-09T08:46:39.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 16,
-              "impression_count": 340
-            },
-            "in_reply_to_id": "2119692685019623544"
-          },
-          {
             "id": "2119715119018233903",
             "author": {
               "name": "Laplace",
@@ -2251,25 +2028,6 @@
               "repost_count": 0,
               "like_count": 7,
               "impression_count": 306
-            },
-            "in_reply_to_id": "2119692685019623544"
-          },
-          {
-            "id": "2119750858841743846",
-            "author": {
-              "name": "JustAvii..",
-              "username": "Avii17496",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119029970727264257/IpaPzaod_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Avii17496.jpg"
-            },
-            "text": "@BBCHindi Iski ammi ka halalaa na hua hota to tu paida bhi ni hua hota but hua Aur tu paida ho gyaaaa ....",
-            "created_at": "2026-11-09T11:16:02.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 1,
-              "impression_count": 2
             },
             "in_reply_to_id": "2119692685019623544"
           },
@@ -2331,25 +2089,6 @@
             "in_reply_to_id": "2119692685019623544"
           },
           {
-            "id": "2119840021587038531",
-            "author": {
-              "name": "TEZ News 🧑‍💻",
-              "username": "Ajai37830797",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/2116814501240832001/SykBET64_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Ajai37830797.jpg"
-            },
-            "text": "@BBCHindi यह दोगला आपको यह नहीं बताया कि ईद पर जो पशुओं का खून और उनके शरीर के अवशेष वाटर बॉडीज और जमीन में प्रदूषण करके भूगर्भ जल को प्रदूषित करते हैं",
-            "created_at": "2026-11-09T17:10:20.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 0,
-              "impression_count": 2
-            },
-            "in_reply_to_id": "2119692685019623544"
-          },
-          {
             "id": "2119831982930796754",
             "author": {
               "name": "Kiran Das",
@@ -2407,25 +2146,6 @@
             "in_reply_to_id": "2119692685019623544"
           },
           {
-            "id": "2119815571219095826",
-            "author": {
-              "name": "Right 🔺ngle 🇮🇳",
-              "username": "Yoddha360",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/1852239622975426563/G3lT7JHp_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/Yoddha360.jpg"
-            },
-            "text": "@BBCHindi इसके लिए पंजाब में अतिरिक्त पराली भी जलाई ताकि दिवाली पर प्रदूषण ज्यादा से ज्यादा दिखाया जा सके !\nयूरोप पर थोड़ा ध्यान दो , 2040 तक पूरा यूरोप इस्लामिक प्रदेश बन जाएगा।",
-            "created_at": "2026-11-09T15:33:11.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 0,
-              "impression_count": 0
-            },
-            "in_reply_to_id": "2119692685019623544"
-          },
-          {
             "id": "2119808823150231600",
             "author": {
               "name": "RoFL . king .",
@@ -2441,25 +2161,6 @@
               "repost_count": 0,
               "like_count": 0,
               "impression_count": 46
-            },
-            "in_reply_to_id": "2119692685019623544"
-          },
-          {
-            "id": "2119785158966698025",
-            "author": {
-              "name": "Chef Bala🇮🇳",
-              "username": "chef80bala",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/2016847497449394177/FO1GPWMi_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/chef80bala.jpg"
-            },
-            "text": "@BBCHindi शाद मिद्दत और दिलशाद पासा दोनों जाहिल जिहादियों के पिछवाड़े से धुआं निकलता है तो निकले,\nदीपावली साल में एक बार आती है ये भारत है, कोई तुम्हारा रेडिकल इस्लामी मुल्क नहीं,",
-            "created_at": "2026-11-09T13:32:20.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 0,
-              "impression_count": 74
             },
             "in_reply_to_id": "2119692685019623544"
           },
@@ -2597,25 +2298,6 @@
             "in_reply_to_id": "2119692685019623544"
           },
           {
-            "id": "2119735779035607501",
-            "author": {
-              "name": "🇮🇳Influx Influxe Influxe 🇮🇳",
-              "username": "InfluxInfluxe",
-              "verified": false,
-              "avatar_source_url": "https://pbs.twimg.com/profile_images/1554988045127995392/CkBukXjK_normal.jpg",
-              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/avatars/InfluxInfluxe.jpg"
-            },
-            "text": "@BBCHindi Delhi main mu$l!ms population ke wazah se india gate nahi deekh raha hai...\nJaise hi ye log bharat nikaal diya jaayega tab india gate ekadam visible hogaa ..",
-            "created_at": "2026-11-09T10:16:07.000Z",
-            "public_metrics": {
-              "reply_count": 0,
-              "repost_count": 0,
-              "like_count": 0,
-              "impression_count": 2
-            },
-            "in_reply_to_id": "2119692685019623544"
-          },
-          {
             "id": "2119700885001662958",
             "author": {
               "name": "VishalAN (Follow & Share)",
@@ -2635,7 +2317,11 @@
             "in_reply_to_id": "2119692685019623544"
           }
         ],
-        "content_sha": "53d9ef0124df36c509d148344a8e6a53855638f6"
+        "content_sha": "53d9ef0124df36c509d148344a8e6a53855638f6",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 6,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "45fef7aded078bc3",
       "cluster_item_count": 1,
@@ -2713,9 +2399,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "06598e5a7f3864e7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "93a1a5e3323e2dfb",
@@ -2766,7 +2452,9 @@
       "source_region": "印度",
       "cluster_id": "4a596f7814b47538",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 12,
+      "reddit_comments": 1
     },
     {
       "id": "34a73765269f7a81",
@@ -2920,30 +2608,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "c95dc9fcd6d07218",
-      "url": "https://www.hindustantimes.com/trending/hong-kong-domestic-worker-arrested-for-spitting-into-4-year-old-girl-s-food-101794205172541.html",
-      "title_en": "Hong Kong domestic worker arrested for spitting into 4-year-old girl’s food",
-      "title_zh": "香港家庭佣工向4岁女孩食物吐口水被捕",
-      "summary_en": "A 37-year-old Filipino domestic helper has been arrested in Hong Kong on suspicion of child abuse after allegedly spitting into the milk of a four-year-old girl",
-      "summary_zh": "一名37岁菲律宾女佣涉嫌虐待儿童，因涉嫌向一名四岁女孩吐奶而被捕",
-      "translation_status": "fallback",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/photo-1556911220-e15b29be8c8f_1794205268230_qw15_1794205281639_HsJD_69662c45-257d-4611-a59a-0d1a05aed561_Dw1u.jpg",
-      "image_checked": true,
-      "source": "Hindustan Times Trending",
-      "source_id": "ht-trending",
-      "region": "印度",
-      "published_at": "2026-11-09T14:24:13+08:00",
-      "fetched_at": "2026-11-10T12:33:49+08:00",
-      "tags": [
-        "街头食物"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "c95dc9fcd6d07218",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "4c32f28a875ef7ab",
       "url": "https://www.news18.com/viral/woman-calls-out-chennai-office-for-celebrating-onam-but-skipping-diwali-asks-is-this-selective-celebration-internet-reacts-ws-l-10418208.html",
       "title_en": "Woman Calls Out Chennai Office For Celebrating Onam But Skipping Diwali, Asks 'Is This Selective Celebratio",
@@ -2992,32 +2656,9 @@
       "source_region": "印度",
       "cluster_id": "dce3626ca6d24198",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "ad2a0b8cd846a48f",
-      "url": "https://www.republicworld.com/global-news/trump-defends-pete-hegseth-amid-impeachment-push-calls-him-most-responsible-for-iran-war-2026-11-09-140686",
-      "title_en": "Trump Defends Pete Hegseth Amid Impeachment Push, Calls Him 'Most Responsible' For Iran War",
-      "title_zh": "特朗普在弹劾推动中为皮特·赫格斯辩护，称他对伊朗战争“负有最大责任”",
-      "summary_en": "US President Donald Trump has defended War Secretary Pete Hegseth against impeachment calls backed by Democrat Hakeem Jeffries, arguing that the official played a key role in the US military campaign against Iran.",
-      "summary_zh": "美国总统唐纳德·特朗普为战争部长皮特·赫格斯辩护，反对民主党哈基姆·杰弗里斯支持的弹劾呼吁，称该官员在美国针对伊朗的军事行动中发挥了关键作用。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/11/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments-1793932126266-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T14:14:02+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f3340b2493c49357",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 5
     },
     {
       "id": "d4eced7ebea6c497",
@@ -3045,31 +2686,6 @@
       "cluster_source_count": 1
     },
     {
-      "id": "2f93cfde7cd22f7b",
-      "url": "https://www.republicworld.com/global-news/marco-rubio-says-no-breakthrough-in-us-iran-talks-calls-tehran-s-demands-outrageous-and-ridiculous-2026-11-09-140685",
-      "title_en": "Marco Rubio Says No Breakthrough In US-Iran Talks, Calls Tehran's Demands 'Outrageous And Ridiculous'",
-      "title_zh": "马可·卢比奥表示美伊谈判没有取得突破，称德黑兰的要求“令人愤慨且荒谬”",
-      "summary_en": "US Secretary of State Marco Rubio says there is no breakthrough in efforts to end the Iran conflict, accusing Tehran of making &#39;outrageous&#39; and &#39;unrealistic&#39; demands as Iran warns Washington of severe military retaliation.",
-      "summary_zh": "美国国务卿卢比奥表示，结束伊朗冲突的努力没有取得突破，并指责德黑兰提出“无耻”和“不切实际”的要求，而伊朗警告华盛顿将进行严厉的军事报复。",
-      "translation_status": "fallback",
-      "image": "https://img.republicworld.com/all_images/2026/06/us-will-judge-iran-by-its-actions-on-the-water-not-maximalist-rhetoric-secretary-of-state-marco-rubio-1782389381705-1280x720.webp",
-      "image_checked": true,
-      "source": "Republic World Viral",
-      "source_id": "republic-viral",
-      "region": "印度",
-      "published_at": "2026-11-09T14:06:51+08:00",
-      "fetched_at": "2026-11-10T12:33:56+08:00",
-      "page_fetched": true,
-      "tags": [
-        "军事政治"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "2f93cfde7cd22f7b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
       "id": "2ec38a0998a07e17",
       "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-44-900-basic-pay-could-mean-5-14-lakh-in-arrears-at-2-57-fitment-factor/amp-11794187378924.html",
       "title_en": "8th Pay Commission: ₹44,900 basic pay could mean ₹5.14 lakh in arrears at 2.57 fitment factor",
@@ -3093,7 +2709,9 @@
       "source_region": "印度",
       "cluster_id": "2ec38a0998a07e17",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 18,
+      "reddit_comments": 8
     },
     {
       "id": "5857c63f64317595",
@@ -3119,7 +2737,9 @@
       "source_region": "印度",
       "cluster_id": "5857c63f64317595",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 3
     },
     {
       "id": "dcaea66d9d6e4dba",
@@ -3168,9 +2788,11 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "a5140ce96bc92bcf",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 7,
+      "reddit_comments": 23
     },
     {
       "id": "21cad68d2af517af",
@@ -3352,7 +2974,11 @@
             "in_reply_to_id": "2119664248703812040"
           }
         ],
-        "content_sha": "3d9c33a85938c099f85d627e0a3c40b3dd5bf53e"
+        "content_sha": "3d9c33a85938c099f85d627e0a3c40b3dd5bf53e",
+        "angle": "离谱",
+        "angle_source": "inferred",
+        "replies_omitted": 0,
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
       },
       "cluster_id": "e53d23230615b444",
       "cluster_item_count": 1,
@@ -3455,7 +3081,9 @@
       "source_region": "印度",
       "cluster_id": "2fad902cf46009b9",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 55,
+      "reddit_comments": 3
     },
     {
       "id": "8423787c45afd4f5",
@@ -3497,7 +3125,7 @@
       "region": "印度",
       "published_at": "2026-11-09T12:48:30+08:00",
       "fetched_at": "2026-11-10T12:33:59+08:00",
-      "reddit_id": "t3_1xriolj",
+      "reddit_id": "t3_1xripax",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -3506,7 +3134,9 @@
       "source_region": "印度",
       "cluster_id": "7120bac35b2f04db",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 76,
+      "reddit_comments": 1
     },
     {
       "id": "e168ab70b4aa71cb",
@@ -3532,7 +3162,9 @@
       "source_region": "印度",
       "cluster_id": "e168ab70b4aa71cb",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 145,
+      "reddit_comments": 23
     },
     {
       "id": "0adfd1f80dd2246a",
@@ -3558,7 +3190,9 @@
       "source_region": "印度",
       "cluster_id": "0adfd1f80dd2246a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 12
     },
     {
       "id": "e7f951ac9b1bc421",
@@ -3630,9 +3264,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "3a9c48a4b9f942f3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "866b7cf72d2b6120",
@@ -3682,7 +3316,9 @@
       "source_region": "印度",
       "cluster_id": "79c53c1121d31eee",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 63,
+      "reddit_comments": 0
     },
     {
       "id": "fe9541a6d0c0048d",
@@ -3780,11 +3416,11 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "475ff819741df40b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
-      "reddit_score": 1,
-      "reddit_comments": 0,
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 130,
+      "reddit_comments": 17,
       "reddit_id": "t3_1xrfmth"
     },
     {
@@ -3808,9 +3444,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "3bc0b3f97f3377b8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7
     },
     {
       "id": "b88b158ab1cd7a08",
@@ -3836,7 +3472,10 @@
       "source_region": "印度",
       "cluster_id": "f4e4b84c3a211a4c",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "reddit_score": 347,
+      "reddit_comments": 55,
+      "reddit_id": "t3_1xregke"
     },
     {
       "id": "de35900baaa7bba3",
@@ -3861,7 +3500,10 @@
       "source_region": "印度",
       "cluster_id": "de35900baaa7bba3",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xreeeb"
     },
     {
       "id": "27138548068f3348",
@@ -3884,9 +3526,12 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "27138548068f3348",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 37,
+      "cluster_source_count": 7,
+      "reddit_score": 8,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xrdxde"
     },
     {
       "id": "19c42a3b544d6a80",
@@ -3937,7 +3582,10 @@
       "source_region": "印度",
       "cluster_id": "ce95f3bb2ad08a7f",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 33,
+      "reddit_id": "t3_1xrbzrm"
     },
     {
       "id": "11c23b79357d7466",
@@ -3962,7 +3610,10 @@
       "source_region": "印度",
       "cluster_id": "11c23b79357d7466",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 4,
+      "reddit_comments": 1,
+      "reddit_id": "t3_1xr9chf"
     },
     {
       "id": "5ab9add312763a25",
@@ -3987,7 +3638,10 @@
       "source_region": "印度",
       "cluster_id": "5ab9add312763a25",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1,
+      "reddit_comments": 0,
+      "reddit_id": "t3_1xr6yn9"
     },
     {
       "id": "3b1a19d09de7451d",
@@ -4037,7 +3691,10 @@
       "source_region": "印度",
       "cluster_id": "841bb3b7e7bc22d0",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 413,
+      "reddit_comments": 92,
+      "reddit_id": "t3_1xr5kz6"
     },
     {
       "id": "ed199b6ecd4ef666",
@@ -4062,7 +3719,10 @@
       "source_region": "印度",
       "cluster_id": "ed199b6ecd4ef666",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 1232,
+      "reddit_comments": 286,
+      "reddit_id": "t3_1xr5cn1"
     },
     {
       "id": "b90ceae5777af5ad",
@@ -4137,7 +3797,10 @@
       "source_region": "印度",
       "cluster_id": "2da62e12bafd48b3",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 110,
+      "reddit_comments": 69,
+      "reddit_id": "t3_1xr325n"
     },
     {
       "id": "1a3b8e203d283d77",
@@ -4162,7 +3825,10 @@
       "source_region": "印度",
       "cluster_id": "1a3b8e203d283d77",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 150,
+      "reddit_comments": 13,
+      "reddit_id": "t3_1xr2wdd"
     },
     {
       "id": "d6aff4649643135a",
@@ -4189,7 +3855,10 @@
       "source_region": "印度",
       "cluster_id": "d6aff4649643135a",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 211,
+      "reddit_comments": 40,
+      "reddit_id": "t3_1xr2e6y"
     },
     {
       "id": "2a4d6f23e42063db",
@@ -4214,7 +3883,10 @@
       "source_region": "印度",
       "cluster_id": "2a4d6f23e42063db",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 227,
+      "reddit_comments": 52,
+      "reddit_id": "t3_1xr1x26"
     }
   ]
 }

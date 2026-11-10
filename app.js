@@ -10,6 +10,7 @@
   var newerBtn = document.getElementById("newer-day");
   var regionsEl = document.getElementById("regions");
   var sortEl = document.getElementById("sort");
+  var angleEl = document.getElementById("angle");
   var sourceEl = document.getElementById("source");
   var topicsEl = document.getElementById("topics");
   var searchEl = document.getElementById("search");
@@ -31,6 +32,7 @@
   var filtered = [];
   var shown = 0;
   var activeRegion = "";
+  var activeAngle = "";
   var activeTags = [];
   var sortMode = "time";
   var detailId = "";
@@ -131,6 +133,10 @@
     return scopedItems().filter(function (item) {
       if (source && item.source !== source) return false;
       if (activeRegion && item.region !== activeRegion) return false;
+      if (activeAngle) {
+        var angle = item.x && item.x.angle;
+        if (item.kind !== "x" || angle !== activeAngle) return false;
+      }
       if (query && haystack(item).indexOf(query) === -1) return false;
       return true;
     });
@@ -333,7 +339,10 @@
     if (extra.comments_image) {
       var sheetSrc = safeHttp(extra.comments_image);
       if (sheetSrc) {
-        block.appendChild(el("p", "x-label", "评论区长图"));
+        block.appendChild(el("p", "x-label", "评论区长图（根据真实回复渲染，不是截图）"));
+        if (extra.replies_omitted) {
+          block.appendChild(el("p", "x-note", "已去掉贬损国籍、民族、宗教、种姓，或套用族群刻板印象的回复。"));
+        }
         var sheetBtn = el("button", "x-sheet");
         sheetBtn.type = "button";
         var sheet = document.createElement("img");
@@ -403,6 +412,10 @@
     time.dateTime = item.published_at || "";
     time.textContent = formatTime(item.published_at);
     meta.appendChild(time);
+    if (item.kind === "x" && item.x && item.x.angle) {
+      var angleClass = item.x.angle === "官方" ? "badge angle-official" : "badge angle-oddity";
+      meta.appendChild(el("span", angleClass, item.x.angle === "官方" ? "官方" : "离谱合集"));
+    }
     if (item.kind === "x" && item.x && item.x.public_metrics) {
       var xm = item.x.public_metrics;
       var bits = [];
@@ -489,7 +502,7 @@
   }
 
   function appendMore() {
-    var unfiltered = !searchEl.value.trim() && !sourceEl.value && !activeRegion && !activeTags.length;
+    var unfiltered = !searchEl.value.trim() && !sourceEl.value && !activeRegion && !activeTags.length && !activeAngle;
     var next = filtered.slice(shown, shown + PAGE);
     next.forEach(function (group, index) {
       var heroItem = next[index].rep || next[index];
@@ -678,6 +691,12 @@
     sortMode = sortEl.value || "time";
     applyFilters();
   });
+  if (angleEl) {
+    angleEl.addEventListener("change", function () {
+      activeAngle = angleEl.value || "";
+      applyFilters();
+    });
+  }
   moreEl.addEventListener("click", appendMore);
   document.getElementById("lightbox-close").addEventListener("click", closeLightbox);
   document.getElementById("lightbox-backdrop").addEventListener("click", closeLightbox);

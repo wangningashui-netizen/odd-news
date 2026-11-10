@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "id": "67878266af379ebe",
@@ -24,30 +24,6 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "67878266af379ebe",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
-    },
-    {
-      "id": "f0cef269f512de7f",
-      "url": "https://indianexpress.com/article/trending/trending-globally/komanche-dies-at-30-salvadoran-streamers-death-draws-tributes-from-gaming-community-10938630/",
-      "title_en": "Komanche dies at 30: Salvadoran streamer’s death draws tributes from gaming community",
-      "title_zh": "科曼奇去世，享年 30 岁：萨尔瓦多主播的去世引起了游戏界的悼念",
-      "summary_en": "Spanish-language gaming community in shock as 30-year-old Salvadoran content creator Carlos Mauricio Gómez, known as Komanche, is found dead in Monterrey, Mexico.",
-      "summary_zh": "30 岁的萨尔瓦多内容创作者卡洛斯·毛里西奥·戈麦斯（绰号 Komanche）在墨西哥蒙特雷被发现死亡，西班牙语游戏界震惊不已。",
-      "translation_status": "fallback",
-      "image": "https://images.indianexpress.com/2026/10/Spanish-language-gaming-community-in-shock-as-30-year-old-Salvadoran-content-creator-Carlos-Mauricio-Gomez-known-as-Komanche-is-found-dead-in-Monterrey-Mexico.png",
-      "image_checked": true,
-      "source": "Indian Express Trending",
-      "source_id": "indian-express-trending",
-      "region": "印度",
-      "published_at": "2026-10-27T18:24:26+08:00",
-      "fetched_at": "2026-11-08T23:16:13+08:00",
-      "tags": [
-        "其他"
-      ],
-      "tag_source": "rules",
-      "source_region": "印度",
-      "cluster_id": "f0cef269f512de7f",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
