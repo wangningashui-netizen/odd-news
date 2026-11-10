@@ -4757,7 +4757,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-08T09:02:33+08:00",
-      "fetched_at": "2026-11-10T10:17:44+08:00",
+      "fetched_at": "2026-11-11T06:53:57+08:00",
       "tags": [
         "其他"
       ],
@@ -4796,6 +4796,7 @@
         "post_url": "https://x.com/AjitYadav260/status/2119234084899803326",
         "ytdlp_command": "yt-dlp https://x.com/AjitYadav260/status/2119234084899803326",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119234084899803326/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
         "replies": [
           {
             "id": "2119326982483702105",
@@ -5273,11 +5274,10 @@
             "in_reply_to_id": "2119234084899803326"
           }
         ],
-        "content_sha": "8a4fe650cfabb93dcdddfb8df1cba55829f03fc5",
-        "angle": "离谱",
-        "angle_source": "inferred",
         "replies_omitted": 0,
-        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
+        "content_sha": "6a01b6c8639276bd3311a673b713a6073c551317",
+        "angle": "离谱",
+        "angle_source": "inferred"
       },
       "cluster_id": "cfd0437741e6b118",
       "cluster_item_count": 1,

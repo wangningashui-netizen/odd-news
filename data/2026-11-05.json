@@ -250,7 +250,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-05T15:56:08+08:00",
-      "fetched_at": "2026-11-10T10:17:42+08:00",
+      "fetched_at": "2026-11-11T06:53:50+08:00",
       "tags": [
         "街头食物",
         "犯罪法律"
@@ -281,12 +281,13 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118250974997360640/vid/avc1/720x1280/uxgz6mbTN1TpmlCG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-10T10:17:42+08:00",
+        "video_url_resolved_at": "2026-11-11T06:53:50+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/PressSecretary7/status/2118250999898882303",
         "ytdlp_command": "yt-dlp https://x.com/PressSecretary7/status/2118250999898882303",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
         "replies": [
           {
             "id": "2118330706921193841",
@@ -536,11 +537,10 @@
             "in_reply_to_id": "2118250999898882303"
           }
         ],
-        "content_sha": "41ac3d38ca9b202eab4a1c9fe8f0e613dde652a0",
-        "angle": "离谱",
-        "angle_source": "inferred",
         "replies_omitted": 0,
-        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
+        "content_sha": "a453ac2f5a1ddf840d1e73ead635d9ba911b8e95",
+        "angle": "离谱",
+        "angle_source": "inferred"
       },
       "cluster_id": "7dcfd47f8cb58071",
       "cluster_item_count": 1,

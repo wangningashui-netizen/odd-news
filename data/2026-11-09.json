@@ -305,7 +305,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-09T21:59:33+08:00",
-      "fetched_at": "2026-11-10T10:17:44+08:00",
+      "fetched_at": "2026-11-11T06:53:54+08:00",
       "tags": [
         "航空出行",
         "婚俗宗教"
@@ -336,12 +336,13 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119652193477517312/vid/avc1/720x1280/ducxqCsHAk08q9hd.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-10T10:17:44+08:00",
+        "video_url_resolved_at": "2026-11-11T06:53:54+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AsianDigest/status/2119792008273515000",
         "ytdlp_command": "yt-dlp https://x.com/AsianDigest/status/2119792008273515000",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
         "replies": [
           {
             "id": "2119813923939508667",
@@ -363,11 +364,10 @@
             "in_reply_to_id": "2119792008273515000"
           }
         ],
-        "content_sha": "7a4041b79f486760ceab93790e5c49562b3fc485",
-        "angle": "离谱",
-        "angle_source": "inferred",
         "replies_omitted": 3,
-        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
+        "content_sha": "84e595be434a4c24f59ca9588f2eb782d7cdc2eb",
+        "angle": "离谱",
+        "angle_source": "inferred"
       },
       "cluster_id": "3fea6d8bee1a18fa",
       "cluster_item_count": 1,
@@ -1628,7 +1628,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-09T15:41:15+08:00",
-      "fetched_at": "2026-11-10T10:17:43+08:00",
+      "fetched_at": "2026-11-11T06:53:52+08:00",
       "tags": [
         "其他"
       ],
@@ -1658,12 +1658,13 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119696374132559872/vid/avc1/720x956/w1hbeKnToHHPtK6y.mp4?tag=14",
-        "video_url_resolved_at": "2026-11-10T10:17:43+08:00",
+        "video_url_resolved_at": "2026-11-11T06:53:52+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/himachal_abhi/status/2119696806179381409",
         "ytdlp_command": "yt-dlp https://x.com/himachal_abhi/status/2119696806179381409",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
         "replies": [
           {
             "id": "2119809141690794282",
@@ -1799,11 +1800,10 @@
             "in_reply_to_id": "2119696806179381409"
           }
         ],
-        "content_sha": "110431fe6571029cf3c054de99779f5833afb680",
-        "angle": "离谱",
-        "angle_source": "inferred",
         "replies_omitted": 0,
-        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
+        "content_sha": "dc2501782e0c11debafb97adf679739e71dfa1d4",
+        "angle": "离谱",
+        "angle_source": "inferred"
       },
       "cluster_id": "5b599f94120d051e",
       "cluster_item_count": 1,
@@ -1956,7 +1956,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-09T15:24:52+08:00",
-      "fetched_at": "2026-11-10T10:17:45+08:00",
+      "fetched_at": "2026-11-11T06:53:59+08:00",
       "tags": [
         "其他"
       ],
@@ -1986,12 +1986,13 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119690915996721152/vid/avc1/1920x1080/5PilynFy6f2m7xWG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-10T10:17:45+08:00",
+        "video_url_resolved_at": "2026-11-11T06:53:59+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BBCHindi/status/2119692685019623544",
         "ytdlp_command": "yt-dlp https://x.com/BBCHindi/status/2119692685019623544",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
         "replies": [
           {
             "id": "2119749578933297539",
@@ -2317,11 +2318,10 @@
             "in_reply_to_id": "2119692685019623544"
           }
         ],
-        "content_sha": "53d9ef0124df36c509d148344a8e6a53855638f6",
-        "angle": "离谱",
-        "angle_source": "inferred",
         "replies_omitted": 6,
-        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
+        "content_sha": "a3a73d7544306b3335c391dc257f355e284993a8",
+        "angle": "离谱",
+        "angle_source": "inferred"
       },
       "cluster_id": "45fef7aded078bc3",
       "cluster_item_count": 1,
@@ -2860,7 +2860,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-09T13:31:53+08:00",
-      "fetched_at": "2026-11-10T10:17:48+08:00",
+      "fetched_at": "2026-11-11T06:54:10+08:00",
       "tags": [
         "其他"
       ],
@@ -2890,12 +2890,13 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119088352079040512/vid/avc1/720x1280/oPd2_O3f4xKV8J_P.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-10T10:17:48+08:00",
+        "video_url_resolved_at": "2026-11-11T06:54:10+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/babanlikita/status/2119664248703812040",
         "ytdlp_command": "yt-dlp https://x.com/babanlikita/status/2119664248703812040",
         "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
         "replies": [
           {
             "id": "2119716562693161225",
@@ -2974,11 +2975,10 @@
             "in_reply_to_id": "2119664248703812040"
           }
         ],
-        "content_sha": "3d9c33a85938c099f85d627e0a3c40b3dd5bf53e",
-        "angle": "离谱",
-        "angle_source": "inferred",
         "replies_omitted": 0,
-        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。"
+        "content_sha": "f765779ae0586df30ac3356c158a4362cc2857c5",
+        "angle": "离谱",
+        "angle_source": "inferred"
       },
       "cluster_id": "e53d23230615b444",
       "cluster_item_count": 1,
