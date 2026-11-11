@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-14",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "69016baa25807bd7",
+      "url": "https://www.news18.com/viral/samay-rainas-alleged-rs-140-210-crore-net-worth-goes-viral-internet-questions-tax-bharta-hai-ye-ws-l-10031942.html",
+      "title_en": "Samay Raina’s Alleged Rs 140-210 Crore Net Worth Goes Viral, Internet Questions ‘Tax Bharta Hai Ye?’",
+      "title_zh": "Samay Raina 据称拥有 140-210 千万卢比的净资产疯传，互联网质疑“向 Bharta Hai Ye 征税？”",
+      "summary_en": "A viral post estimating Samay Raina’s net worth at Rs 140-210 crore has sparked a debate online, with users questioning the figures while others praise his creator economy success",
+      "summary_zh": "一篇病毒式帖子估计 Samay Raina 的净资产为 140-21 亿卢比，在网上引发了一场争论，用户质疑这些数字，而其他人则赞扬他的创造者经济成功",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/Untitled-design-14-2026-04-751635476feb74a9eb2f07d6480dd3e8-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-14T14:21:50+08:00",
+      "fetched_at": "2026-11-11T10:39:11+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "69016baa25807bd7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

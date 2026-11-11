@@ -1,0 +1,32 @@
+{
+  "date": "2024-01-05",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "9e476a1e764492c2",
+      "url": "https://www.news18.com/viral/can-you-make-purple-pink-gold-at-home-this-youtuber-claims-so-8729460.html",
+      "title_en": "Can You Make ‘Purple-Pink’ Gold At Home? This YouTuber Claims So",
+      "title_zh": "你能在家制作“紫粉色”金吗？这位 YouTuber 如此声称",
+      "summary_en": "Purple gold has about 75% pure gold and 20% aluminium.",
+      "summary_zh": "紫金大约含有 75% 的纯金和 20% 的铝。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/01/untitled-design-2024-01-05t191456.969-2024-01-68005b82e7fccd1d7c4d01d2aaa9f742-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-01-05T21:47:23+08:00",
+      "fetched_at": "2026-11-11T10:39:11+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9e476a1e764492c2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

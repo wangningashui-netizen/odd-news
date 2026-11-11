@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Shanghai",
-  "count": 211,
+  "count": 212,
   "items": [
     {
       "id": "245bf51c8ed3b22d",
@@ -55,8 +55,8 @@
       "cluster_id": "73efb2c52e7ae5d7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 265,
-      "reddit_comments": 19,
+      "reddit_score": 268,
+      "reddit_comments": 22,
       "reddit_id": "t3_1xr0yfn"
     },
     {
@@ -189,6 +189,31 @@
       "reddit_score": 9,
       "reddit_comments": 0,
       "reddit_id": "t3_1xr0miy"
+    },
+    {
+      "id": "98d88da76184d252",
+      "url": "https://www.republicworld.com/entertainment/kareena-kapoor-shares-adorable-diwali-family-photos-taimur-hugs-grandpa-randhir-2026-11-08-140669",
+      "title_en": "Kareena Kapoor Shares Adorable Diwali Family Photos, Taimur Hugs Grandpa Randhir",
+      "title_zh": "卡琳娜·卡普尔分享可爱的排灯节家庭照片，泰穆尔拥抱爷爷兰德希尔",
+      "summary_en": "Kareena Kapoor Khan celebrated Diwali with parents Randhir and Babita, sister Karisma and son Taimur, sharing family photos and a heartfelt note on loving your parents always, as Karisma reacted with love.",
+      "summary_zh": "卡琳娜·卡普尔·汗 (Kareena Kapoor Khan) 与父母兰德希尔 (Randhir) 和巴比塔 (Babita)、妹妹卡里斯玛 (Karisma) 和儿子泰穆尔 (Taimur) 一起庆祝排灯节，分享家庭照片，并衷心地表达永远爱父母的心声，卡里斯玛 (Karisma) 也用爱做出了回应。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/kareena-kapoor-shares-adorable-diwali-family-photos-taimur-hugs-grandpa-randhir-1794150481592-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-08T23:08:07+08:00",
+      "fetched_at": "2026-11-11T10:39:16+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "98d88da76184d252",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "cca2060cdc84e2fd",
@@ -346,7 +371,7 @@
       "cluster_id": "629690ced1ea535b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 13,
+      "reddit_score": 17,
       "reddit_comments": 0,
       "reddit_id": "t3_1xshbht"
     },
@@ -401,7 +426,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 15,
-      "reddit_comments": 3,
+      "reddit_comments": 4,
       "reddit_id": "t3_1xqzgh0"
     },
     {
@@ -504,7 +529,7 @@
       "cluster_id": "1e532f693fca192a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 33,
+      "reddit_score": 32,
       "reddit_comments": 10,
       "reddit_id": "t3_1xqysne"
     },
@@ -607,7 +632,7 @@
       "cluster_id": "13168127ac03a0c5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 24,
+      "reddit_score": 25,
       "reddit_comments": 4,
       "reddit_id": "t3_1xqyf47"
     },
@@ -685,7 +710,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 37,
+      "cluster_item_count": 48,
       "cluster_source_count": 7,
       "reddit_score": 305,
       "reddit_comments": 31,
@@ -901,7 +926,7 @@
       "cluster_id": "65ce97273c1f7b5f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 82,
+      "reddit_score": 84,
       "reddit_comments": 7,
       "reddit_id": "t3_1xqx6va"
     },
@@ -928,7 +953,7 @@
       "cluster_id": "b1149a59c61f59b9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 386,
+      "reddit_score": 397,
       "reddit_comments": 8,
       "reddit_id": "t3_1xqx561"
     },
@@ -955,7 +980,7 @@
       "cluster_id": "ea7147775744f849",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 64,
+      "reddit_score": 65,
       "reddit_comments": 10,
       "reddit_id": "t3_1xqx2vg"
     },
@@ -2484,7 +2509,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 37,
+      "cluster_item_count": 48,
       "cluster_source_count": 7,
       "reddit_score": 69,
       "reddit_comments": 4,
@@ -4396,7 +4421,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ce03238ce5b2b988",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 1
     },
     {
@@ -5525,7 +5550,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "229ad5d8c1b7546c",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 1
     },
     {
@@ -5890,7 +5915,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "229ad5d8c1b7546c",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 1
     },
     {
@@ -6078,7 +6103,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 37,
+      "cluster_item_count": 48,
       "cluster_source_count": 7
     }
   ]

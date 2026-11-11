@@ -1,4 +1,285 @@
 {
   "date": "2026-11-11",
-  "items": []
+  "items": [
+    {
+      "id": "d261187b9de4c1a4",
+      "title_en": "Better chats, easier payments and smarter AI: Kunal Shah outlines 3 priorities for WhatsApp",
+      "summary_en": "Kunal Shah stressed that WhatsApp's focus on new features would not come at the cost of user privacy and security.",
+      "title_zh": "更好的聊天、更轻松的支付和更智能的人工智能：Kunal Shah 概述了 WhatsApp 的 3 个优先事项",
+      "summary_zh": "Kunal Shah 强调，WhatsApp 对新功能的关注不会以牺牲用户隐私和安全为代价。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/better-chats-easier-payments-and-smarter-ai-kunal-shah-outlines-3-priorities-for-whatsapp-101794331025031.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "f40e2329c5ff241e",
+      "title_en": "Detroit officials investigate after two horses board a public bus",
+      "summary_en": "Transport officials in Detroit are investigating an unusual incident in which two horses were led onto a public bus before exiting through its rear doors.",
+      "title_zh": "底特律官员对两匹马登上公共汽车进行调查",
+      "summary_zh": "底特律的交通官员正在调查一起不寻常的事件，两匹马被牵上公共汽车，然后从后门下车。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/us/detroit-officials-investigate-after-two-horses-board-a-public-bus-101794363597394.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "8d664fa862549dbb",
+      "title_en": "Viral Raccoon Who Passed Out In Liquor Store Helps Raise Rs 2.3 Crore For Local Animal Shelter",
+      "summary_en": "A raccoon's liquor store rampage raised Rs 2.34 crore ($250,000) for Hanover County Animal Shelter.",
+      "title_zh": "在酒品店昏倒的病毒浣熊为当地动物收容所筹集了 2.3 亿卢比",
+      "summary_zh": "一只浣熊在酒类商店的暴行为汉诺威县动物收容所筹集了 23.4 亿卢比（25 万美元）。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/viral-raccoon-who-passed-out-in-liquor-store-helps-raise-rs-2-3-crore-for-local-animal-shelter-12310515",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "3552b6182fd39d23",
+      "title_en": "I compared NDA rule vs UPA rule on different aspects on a fixed 10 year tenure",
+      "summary_en": "UPA 1 - 2004-5 to 2008-9 UPA 2 - 2009-10 to 2013-14 NDA 1 - 2014-15 to 2018-19 NDA 2 - 2019-20 to 2023-24 Let’s start ! 1) ECONOMIC GROWTH A) Real GDP growth : Adminis. Avg annual gdp growth UPA 1. 7.9% UPA 2.",
+      "title_zh": "我在固定 10 年任期的不同方面比较了 NDA 规则与 UPA 规则",
+      "summary_zh": "UPA 1 - 2004-5 至 2008-9 UPA 2 - 2009-10 至 2013-14 NDA 1 - 2014-15 至 2018-19 NDA 2 - 2019-20 至 2023-24 让我们开始吧！ 1) 经济增长 A) 实际 GDP 增长：管理。年平均 GDP 增长率 UPA 1. 7.9% UPA 2.",
+      "translation_status": "fallback",
+      "url": "https://www.reddit.com/r/india/comments/1xsvss3/i_compared_nda_rule_vs_upa_rule_on_different/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "3a0783f35df6bf42",
+      "title_en": "Meerut boy, 6, trips while running away from exploding cracker, dies next day",
+      "summary_en": "The child was standing near the entrance of his house when a neighbour was bursting firecrackers. A sudden and loud explosion startled him, prompting him to run inside.",
+      "title_zh": "密拉特六岁男孩在躲避爆炸的饼干时绊倒，第二天死亡",
+      "summary_zh": "当邻居在放鞭炮时，孩子正站在自家门口附近。突然的巨大爆炸声把他吓了一跳，他赶紧跑了进去。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/cities/meerut/story/meerut-boy-trips-while-running-away-from-firecracker-on-diwali-dies-later-3035844-2026-11-10",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "3c7a8d869f0c8342",
+      "title_en": "10/10 movie tbh , I hope everyone watches ramayana because apart from CGI this movie is absolutely amazing",
+      "summary_en": "",
+      "title_zh": "10/10 电影说实话，我希望每个人都看《罗摩衍那》，因为除了 CGI 之外，这部电影绝对很棒",
+      "summary_zh": "10/10 电影说实话，我希望每个人都看《罗摩衍那》，因为除了 CGI 之外，这部电影绝对很棒",
+      "translation_status": "fallback",
+      "url": "https://youtu.be/tvH-GBBWRuw?si=PtkT4K22szvDY7YP",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "3da8c7111f593325",
+      "title_en": "Maktoob - “Today I have killed one mulla, now I will kill more”: 322 hate crimes, 54 killed in nine months as police, army took part in one in three attacks on Muslims, Christians, APCR report finds",
+      "summary_en": "APCR’s Hate Crime Tracker documented 322 hate crimes against Muslims and Christians across 24 states and union territories between January and September 2026, k...",
+      "title_zh": "Maktoob - “今天我杀了一名穆拉，现在我要杀更多”：APCR 报告发现，警察和军队参与了三分之一针对穆斯林、基督徒的袭击，九个月内发生了 322 起仇恨犯罪，其中 54 人被杀",
+      "summary_zh": "APCR 的仇恨犯罪追踪记录了 2026 年 1 月至 9 月期间在 24 个州和中央直辖区发生的 322 起针对穆斯林和基督徒的仇恨犯罪，k...",
+      "translation_status": "fallback",
+      "url": "https://maktoobmedia.com/post?id=116909&slug=today-i-have-killed-one-mulla-now-i-will-kill-more-322-hate-crimes-54-killed-in-nine-months-as-police-army-took-part-in-one-in-three-attacks-on-muslims-%C2%A0christians-apcr-report-finds",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "40f97b87b0d1daf1",
+      "title_en": "TVK MLA Accused Of Sending Obscene Texts To Collector. Party Assures Probe",
+      "summary_en": "In a social media post, DMK MP Kanimozhi claimed that the Kallakurichi district collector had allegedly received obscene text messages from the MLA. She also referred to reports claiming that the MLA, allegedly under the influence of alcohol, had visited the collector's residence and harassed her.",
+      "title_zh": "TVK MLA 被指控向收藏家发送淫秽短信。党保证调查",
+      "summary_zh": "DMK 议员卡尼莫日在社交媒体帖子中声称，卡拉库里奇地区收税员据称收到了来自 MLA 的淫秽短信。她还提到了一些报道，称司法部据称在酒精的影响下拜访了收藏家的住所并骚扰了她。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/india-news/tvk-mla-arul-vignesh-accused-of-sending-obscene-texts-to-collector-party-assures-probe-12307879",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "45c70925f7e48829",
+      "title_en": "Community dog feeder hacked to death after argument over bursting firecrackers in Chennai",
+      "summary_en": "Chennai man who fed stray dogs hacked to death after clash over firecrackers; police arrest suspects, with further related incident reported.",
+      "title_zh": "钦奈社区狗喂食者因燃放鞭炮发生争执，被砍死",
+      "summary_zh": "钦奈一名喂流浪狗的男子因燃放鞭炮发生冲突，被砍死；警方逮捕了嫌疑人，并报告了进一步的相关事件。",
+      "translation_status": "fallback",
+      "url": "https://www.thehindu.com/news/cities/chennai/community-dog-feeder-hacked-to-death-after-argument-over-bursting-firecrackers-in-chennai/article71685505.ece",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "4774941115ed0fd8",
+      "title_en": "BJP attempting hostile takeover of Gokul Dairy after losing polls: Dipke",
+      "summary_en": "BJP accused of a \"hostile takeover\" of Gokul Dairy after polls, alleging constitutional violations and power grabs by appointing four members.",
+      "title_zh": "印度人民党在民调失利后试图敌意收购戈库尔乳业：迪普克",
+      "summary_zh": "印度人民党在民意调查后被指控对戈库尔乳业进行“敌意收购”，指控其任命四名成员违反宪法并夺取权力。",
+      "translation_status": "fallback",
+      "url": "https://www.thehindu.com/news/national/maharashtra/bjp-attempting-hostile-takeover-of-gokul-dairy-after-losing-polls-dipke/article71682789.ece/amp/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "4a0115464bc954e5",
+      "title_en": "Modi Promised to Clean the Ganges. This Is What Happened",
+      "summary_en": "",
+      "title_zh": "莫迪承诺清理恒河。这就是发生的事情",
+      "summary_zh": "莫迪承诺清理恒河。这就是发生的事情",
+      "translation_status": "fallback",
+      "url": "https://www.youtube.com/watch?v=gDBO-B__oLk",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "74a36b97bda89dda",
+      "title_en": "Looking for a 1-on-1 Communication / Articulation Coach (India) for weekly live sessions",
+      "summary_en": "Hi everyone, ​I’m looking for recommendations for a 1-on-1 articulation / communication coach from India to help me improve my presence and speaking clarity in work meetings. ​My specific issues: ​Repetition: I tend to repeat the same sentence multiple times trying to make my point clear. ​Word Choice: Poor choice of words or struggling to find the right concise vocabulary on the spot. ​Presence: I want to sound structured, authoritative, and articulate so people actually listen when I speak in professional…",
+      "title_zh": "寻找每周现场课程的一对一沟通/表达教练（印度）",
+      "summary_zh": "大家好，​我正在寻找来自印度的一对一表达/沟通教练的建议，以帮助我提高在工作会议中的表现和演讲清晰度。​我的具体问题：​重复：我倾向于多次重复同一句话，试图阐明我的观点。​词语选择：词语选择不当或难以当场找到正确的简洁词汇。存在感：我希望听起来有条理、有权威、口齿清晰，这样人们才能真正感受到",
+      "translation_status": "fallback",
+      "url": "https://www.reddit.com/r/india/comments/1xt0q4d/looking_for_a_1on1_communication_articulation/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "881eef64afa5b885",
+      "title_en": "What if we celebrated Diwali a different way?",
+      "summary_en": "I am thinking of a way where we can limit crackers use , combat pollution, improve business and don't hurt the religious crowd Call it a middle way For the sake of simplicity lets assume our police do their job properly corruption is a myth and this is actually enforced , for reduction of friction lets give vendors a 2 year runaway after which this is enforced So here is the solution i came up with, what if we say burning crackers on road or neighborhood is strictly prohibited ,if people want to burst crackers…",
+      "title_zh": "如果我们以不同的方式庆祝排灯节会怎么样？",
+      "summary_zh": "我正在考虑一种方法，我们可以限制鞭炮的使用，打击污染，改善业务，不伤害宗教人群，称之为中间道路。为了简单起见，让我们假设我们的警察正确地完成他们的工作，腐败是一个神话，这实际上是强制执行的，为了减少摩擦，让摊贩两年失控，然后强制执行。所以这是我想出的解决方案，如果我们说严格禁止在道路或社区燃烧鞭炮，会怎么样？",
+      "translation_status": "fallback",
+      "url": "https://www.reddit.com/r/india/comments/1xst7xh/what_if_we_celebrated_diwali_a_different_way/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "8a185bfcf97e9f8c",
+      "title_en": "Raising money for medical treatment",
+      "summary_en": "*A Critical Medication Can Save 31 Year Old Himanshu’s Life. Please Support.* *My name is Dr. Shivani Malasi, and I am raising funds for my 31 year old cousin, Himanshu Bharti, who is battling a life threatening medical condition involving severe kidney injury and other critical complications. He is undergoing treatment at Max Super Speciality Hospital, Dehradun, and urgently needs Injection Eculizumab along with continued ICU care.* *🔗 Fundraiser link:* https://www.impactguru.com/s/FVL1lB *💳 UPI…",
+      "title_zh": "筹集医疗资金",
+      "summary_zh": "*一种急救药物可以挽救 31 岁 Himanshu 的生命。请支持。* *我的名字是 Shivani Malasi 博士，我正在为我 31 岁的表弟 Himanshu Bharti 筹集资金，他正在与危及生命的疾病作斗争，包括严重的肾损伤和其他严重并发症。他正在德拉敦 Max Super Specialty 医院接受治疗，迫切需要注射 Eculizumab 以及持续的 ICU 护理。* *🔗 筹款链接：* https://www.impactgur",
+      "translation_status": "fallback",
+      "url": "https://www.reddit.com/r/india/comments/1xss1c2/raising_money_for_medical_treatment/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "9e8d1ac40e6cdedf",
+      "title_en": "The 2026 Gokul Cooperative Election: How a 13-12 majority was overturned by government intervention and quorum rules.",
+      "summary_en": "The 2026 Gokul Cooperative Election: How a 13-12 majority was overturned by government intervention and quorum rules. Gokul (Kolhapur District Cooperative Milk Producers Union) is one of Maharashtra's largest and most financially significant dairy cooperatives. **The Initial Voting (Oct 2026):** The election for 25 director posts saw a 99.96% turnout, featuring a direct contest between MLA Satej Patil's Samvichari Aghadi and the Mahayuti-backed alliance. **The Numbers Game:** In the initial election for the…",
+      "title_zh": "2026 年 Gokul 合作选举：13 比 12 的多数如何被政府干预和法定人数规则推翻。",
+      "summary_zh": "2026 年 Gokul 合作选举：13 比 12 的多数如何被政府干预和法定人数规则推翻。 Gokul（科尔哈布尔地区牛奶生产合作社联盟）是马哈拉施特拉邦最大、最具财务意义的乳制品合作社之一。 **初步投票（2026 年 10 月）：** 25 名董事职位的选举投票率为 99.96%，其中 MLA Satej Patil 的 Samvichari Aghadi 与 Mahayuti 支持的联盟之间进行直接竞争。 **数字游戏：**",
+      "translation_status": "fallback",
+      "url": "https://www.reddit.com/r/india/comments/1xstcrc/the_2026_gokul_cooperative_election_how_a_1312/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "b8e895df9c2641c2",
+      "title_en": "Considering a significant chunk of population have no definitive way to prove their citizenship, how do government determine who is legal and illegal?",
+      "summary_en": "I read recently that Aadhar card and Voter ID card aren't proof of citizenship, so I was curious how is it determined, particularly in a country so decentralised? A lot of births don't happen at hospital particularly in tribal area and birth certificate are issued years later for most people so how do they determine who he is Indian or not when one can born in an impoverished village, never attended and never got documented in childhood or could a orphan raised on street after he got dumped by parents like there…",
+      "title_zh": "考虑到很大一部分人口没有明确的方法来证明自己的公民身份，政府如何确定谁是合法的，谁是非法的？",
+      "summary_zh": "我最近读到，阿德哈卡和选民身份证不是公民身份证明，所以我很好奇它是如何确定的，特别是在一个如此分散的国家？很多出生都不是在医院进行的，特别是在部落地区，对于大多数人来说，出生证明是在几年后才签发的，所以当一个人出生在一个贫困的村庄，童年时从未上过学，也从未获得过记录，或者一个孤儿长大后可能在街头长大时，他们如何确定他是谁是印度人。",
+      "translation_status": "fallback",
+      "url": "https://www.reddit.com/r/india/comments/1xsvs0k/considering_a_significant_chunk_of_population/",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "c1c7ff38928c08f6",
+      "title_en": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
+      "summary_en": "",
+      "title_zh": "巴基斯坦指责印度排灯节烟花造成拉合尔空气有毒",
+      "summary_zh": "巴基斯坦指责印度排灯节烟花造成拉合尔空气有毒",
+      "translation_status": "fallback",
+      "url": "https://www.reuters.com/business/environment/pakistan-blames-indias-diwali-fireworks-lahores-toxic-air-2026-11-10/?taid=6af2fcbad0eea10001e9ab03",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "c34a778da711b3c1",
+      "title_en": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
+      "summary_en": "Sonia Gandhi’s memoir reveals Pranab Mukherjee’s shock candid remark about becoming PM, amid Congress-era power dynamics and ambitious politics.",
+      "title_zh": "索尼娅·甘地写道，普拉纳布·慕克吉暗示希望成为总理，这让我“震惊”",
+      "summary_zh": "索尼娅·甘地的回忆录揭示了普拉纳布·慕克吉在国大党时代的权力动态和雄心勃勃的政治背景下关于成为总理的令人震惊的坦率言论。",
+      "translation_status": "fallback",
+      "url": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "c991e82557880d5c",
+      "title_en": "80% of Delhi's pollution Monday due to crackers",
+      "summary_en": "Firecracker emissions accounted for more than 80% of Delhi's pollution load on Monday, a day after Diwali, according to the Indian Institute of Tropical Meteorology's models, highlighting the sharp impact of fireworks on the capital's air quality. The contribution came even as the city was already battling high pollution levels from multiple sources.",
+      "title_zh": "周一德里 80% 的污染是由爆竹造成的",
+      "summary_zh": "根据印度热带气象研究所的模型，周一排灯节后的第二天，烟花爆竹排放量占德里污染负荷的80%以上，突显烟花爆竹对首都空气质量的巨大影响。尽管该市已经在与多种来源的高污染水平作斗争，但这笔捐款还是出现了。",
+      "translation_status": "fallback",
+      "url": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
+      "source": "Reddit r/india"
+    },
+    {
+      "id": "4d38d70cb2a93fca",
+      "title_en": "Car Ploughs Into Pedestrians On Busy Glasgow Road, West End Sealed Off",
+      "summary_en": "Emergency services closed Hyndland Road in Glasgow&#39;s west end after a car struck several pedestrians on Tuesday, with police urging drivers to avoid the area, and the number of casualties still unknown.",
+      "title_zh": "汽车在繁忙的格拉斯哥路上冲撞行人，西区被封锁",
+      "summary_zh": "周二，一辆汽车撞到几名行人后，紧急服务部门关闭了格拉斯哥西区的海德兰路，警方敦促司机避开该地区，伤亡人数仍不清楚。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/global-news/car-ploughs-into-pedestrians-on-busy-glasgow-road-west-end-sealed-off-2026-11-10-140783",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "71b47588d865470d",
+      "title_en": "Gokul Krishnaswamy: Taking Computer Science Beyond Traditional Boundaries",
+      "summary_en": "Gokul’s professional and research experience has taken him across telecommunications and healthcare, with work ranging from developing software systems for network infrastructure and testing at AT&T to conducting artificial intelligence and data-driven research at Cleveland Clinic.",
+      "title_zh": "Gokul Krishnaswamy：让计算机科学超越传统界限",
+      "summary_zh": "Gokul 的专业和研究经验使他涉足电信和医疗保健领域，工作范围从在 AT&T 开发网络基础设施软件系统和测试到在克利夫兰诊所进行人工智能和数据驱动研究。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/info/gokul-krishnaswamy-taking-computer-science-beyond-traditional-boundaries-2026-11-10-140782",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "ec3af321fd5c628f",
+      "title_en": "The Science of Bonding: Why Adhesive Technology Matters in Modern Furniture Manufacturing",
+      "summary_en": "The performance of an adhesive can influence bond strength, moisture resistance, application time and the durability of finished furniture.",
+      "title_zh": "粘合科学：为什么粘合技术在现代家具制造中很重要",
+      "summary_zh": "粘合剂的性能会影响粘合强度、防潮性、使用时间和成品家具的耐用性。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/info/the-science-of-bonding-why-adhesive-technology-matters-in-modern-furniture-manufacturing-2026-11-10-140781",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "37e5320e299a3187",
+      "title_en": "Punjab Recorded Nearly 95% Drop In Stubble Burning Incidents This Year, Claims Minister Aman Arora",
+      "summary_en": "Aman Arora asserted that stubble contributed only 5% to Delhi’s PM2.5 pollution and criticised the BJP for targeting farmers instead of addressing local pollution sources. , India News, Times Now",
+      "title_zh": "部长阿曼·阿罗拉 (Aman Arora) 称，今年旁遮普邦焚烧秸秆事件下降了近 95%",
+      "summary_zh": "阿曼·阿罗拉 (Aman Arora) 声称，秸秆仅对德里 PM2.5 污染造成 5% 的影响，并批评印度人民党针对农民而不是解决当地污染源。 ，印度新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/punjab-recorded-nearly-95-drop-in-stubble-burning-incidents-this-year-claims-minister-aman-arora-article-156491300",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "7f0937a2093bb457",
+      "title_en": "Delhi AQI: Why Children Are Hit Hardest By Toxic Air, Paediatric Pulmonologist Tells Times Now Digital",
+      "summary_en": "With Delhi’s AQI in the “very poor” range, Dr Nikhil Rajvanshi explains how toxic air affects young lungs, which symptoms parents should not ignore and the five steps that can lower a child’s exposure., Health, Times Now",
+      "title_zh": "德里 AQI：儿科肺科专家告诉 Times Now Digital，为什么儿童受到有毒空气的影响最严重",
+      "summary_zh": "由于德里的空气质量指数处于“非常差”的范围，尼基尔·拉吉万希 (Nikhil Rajvanshi) 博士解释了有毒空气如何影响幼小的肺部、父母不应忽视的症状以及可以降低儿童接触空气质量的五个步骤。, 健康, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/health/delhi-aqi-why-children-are-hit-hardest-by-toxic-air-paediatric-pulmonologist-tells-times-now-digital-article-156489742",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "931d3ca49ea30316",
+      "title_en": "Sonia Gandhi Remembers Anti-Sikh Riots In Memoir, Clean Chits Rajiv | HS Phoolka Hits Back | WATCH",
+      "summary_en": "Sonia Gandhi has spoken her mind in her memoir, however, it has sparked massive controversy as far as 1984 anti-Sikh riots are concerned. Sonia Gandhi has give n clean chit to Rajiv Gandhi. HS Phoolka, BJP leader & senior advocate who fought the case, has hit back at Sonia Gandhi during exclusive conversation with Madhavdas G on Times Now's show, Briefing Room., Shows, Times Now",
+      "title_zh": "索尼娅·甘地在回忆录《Clean Chits》中回忆起反锡克教骚乱HS Phooka 反击 |手表",
+      "summary_zh": "索尼娅·甘地在回忆录中直言不讳，但1984年的反锡克教骚乱却引发了巨大争议。索尼娅·甘地向拉吉夫·甘地坦白了一切。印度人民党领导人兼高级倡导者 HS Phoolka 在《Times Now》节目《简报室》中与 Madhavdas G 进行独家对话时回击了索尼娅·甘地。, 节目, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/sonia-gandhis-memoir-ignites-political-debate-over-1984-riots-video-156491502",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "95777a640f18eea3",
+      "title_en": "H-1B Visa Update: IBM Halts Green Card Sponsorship For Consulting Employees",
+      "summary_en": "IBM has decided to stop sponsoring H-1B visas and green cards for most roles in its US consulting division, impacting foreign workers seeking permanent residency. , US News, Times Now",
+      "title_zh": "H-1B 签证更新：IBM 停止为咨询员工提供绿卡赞助",
+      "summary_zh": "IBM 决定停止为其美国咨询部门的大多数职位提供 H-1B 签证和绿卡，这对寻求永久居留权的外国工人产生了影响。 ，美国新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/world/us/us-news/h-1b-visa-update-ibm-halts-green-card-sponsorship-for-consulting-employees-article-156492098",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "980c1ed0afd5fbcc",
+      "title_en": "S Gurumurthy Opens 22 'Sonia Files' | Thuglak Editor's Articles Vs Sonia's 544 Pages | EXCLUSIVE",
+      "summary_en": "The controversy over Sonia Gandhi's memoir escalated with the mention of Godhra & 1984 riots, Modi-RSS, 1984 Sikh Riots & Godhra violence, Indira, Sanjay, Rajiv & more. Thuglak Editor S Gurumurthy spoke to Navika Kumar on Times Now's show Newshour Debate & revealed \"secrets\" that were missing from memoir., Newshour, Times Now",
+      "title_zh": "S Gurumurthy 打开 22 个“索尼娅档案” | S Gurumurthy Thuglak 编辑文章与 Sonia 的 544 页 |独家",
+      "summary_zh": "关于索尼娅·甘地回忆录的争议随着提及戈德拉和 1984 年骚乱、莫迪-RSS、1984 年锡克教骚乱和戈德拉暴力、英迪拉、桑贾伊、拉吉夫等内容而升级。 Thuglak 编辑 S Gurumurthy 在 Times Now 节目《Newshour Debate》中与 Navika Kumar 进行了交谈，并透露了回忆录中缺失的“秘密”。, Newshour, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/newshour/s-gurumurthy-critiques-sonia-gandhis-memoir-and-political-legacy-video-156491415",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "edc0fd0d0fad993a",
+      "title_en": "Modi, Emergency, Godhra, Babri & 1984 In Sonia Gandhi's Booked| The Sonia Story: Memoir Or Makeover?",
+      "summary_en": "Massive political controversy erupted with war of words escalating between Congress & BJP leaders after Sonia Gandhi's memoir hit the shelves. The book includes Godhra & 1984 riots, Modi-RSS, 1984 Sikh Riots & Godhra violence, Indira, Sanjay, Rajiv & more. The question here arises is - The Sonia Story: Memoir Or Makeover? Watch panel discussion on Times Now's show, Newshour Debate with Navika Kumar., Newshour, Times Now",
+      "title_zh": "莫迪、紧急情况、戈德拉、巴布里和 1984 年索尼娅·甘地的预订|索尼娅的故事：回忆录还是改头换面？",
+      "summary_zh": "索尼娅·甘地的回忆录上架后，国大党和印度人民党领导人之间的口水战不断升级，引发了大规模的政治争议。该书包括 Godhra 和 1984 年骚乱、Modi-RSS、1984 年锡克教骚乱和 Godhra 暴力、Indira、Sanjay、Rajiv 等。这里出现的问题是 - 索尼娅的故事：回忆录还是改头换面？观看 Times Now 节目《Newshour Debate with Navika Kumar》的小组讨论。、Newshour、Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/newshour/sonia-gandhis-memoir-sparks-political-debate-over-historical-events-video-156491402",
+      "source": "Times Now Viral"
+    }
+  ]
 }
