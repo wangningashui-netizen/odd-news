@@ -100,8 +100,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "cec2fc95ac667e16",
@@ -272,7 +272,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-06T22:30:05+08:00",
-      "fetched_at": "2026-11-11T06:54:12+08:00",
+      "fetched_at": "2026-11-12T06:56:08+08:00",
       "tags": [
         "动物",
         "奇人奇事"
@@ -303,7 +303,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118711873361317888/vid/avc1/1080x1920/kmclP0zMu2nfcC4K.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:12+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:08+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/gujratsamachar/status/2118712529400799241",
@@ -341,8 +341,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "182d3a1ba5b1d2ad",
@@ -548,8 +548,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "aeeed40b0bd2597c",
@@ -801,8 +801,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "62025f7df98adbed",
@@ -1517,8 +1517,8 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "9d0ba322e5c0737b",
@@ -1592,8 +1592,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 277,
       "reddit_comments": 23,
       "reddit_id": "t3_1xp6ckq"
@@ -1743,8 +1743,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "ca7a95cd721fd328",
@@ -1768,8 +1768,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7
+      "cluster_item_count": 49,
+      "cluster_source_count": 8
     },
     {
       "id": "daa7503d5a94b52c",
@@ -2291,7 +2291,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-06T01:21:28+08:00",
-      "fetched_at": "2026-11-11T06:54:08+08:00",
+      "fetched_at": "2026-11-12T06:56:06+08:00",
       "tags": [
         "诈骗骗局",
         "航空出行"
@@ -2322,7 +2322,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118393200767361024/vid/avc1/1280x720/SiyLO5gbZzFyxBVe.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:08+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:06+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yuradeniis/status/2118393270770302994",

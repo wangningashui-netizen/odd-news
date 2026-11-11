@@ -1,7 +1,1839 @@
 {
   "month": "2026-11",
-  "count": 862,
+  "count": 872,
   "items": [
+    {
+      "id": "e4d6dab46aba5283",
+      "date": "2026-11-12",
+      "published_at": "2026-11-12T01:48:05+08:00",
+      "title_zh": "特伦甘纳首席部长：海得拉巴一湖泊从14英亩扩到30英亩后重新开放",
+      "title_en": "Today, I inaugurated the rejuvenated #ThammidikuntaLake in Madhapur, expanding it from 14 acres to 30 acres and dedicating it to the people. Hyderabad’s identity must extend beyond its impressive skyline. Its lakes, green spaces and natural ecosystems are equally integral to the city’s character and",
+      "summary_zh": "特伦甘纳邦首席部长雷万斯·雷迪称，他为海得拉巴Madhapur修复后的Thammidikunta湖揭幕，湖面从14英亩扩大到30英亩，并表示城市不能让水体消失、居民却在短时降雨后就遭受内涝，目标是恢复穆西河。",
+      "summary_en": "Today, I inaugurated the rejuvenated #ThammidikuntaLake in Madhapur, expanding it from 14 acres to 30 acres and dedicating it to the people.\n\nHyderabad’s identity must extend beyond its impressive skyline. Its lakes, green spaces and natural ecosystems are equally integral to the city’s character and future. We cannot allow these precious water bodies to disappear while families continue to suffer from urban flooding even after brief spells of rainfall. \n\nOur vision is to restore the Musi, and transform #Hyderabad into a truly world-class global city — one that balances economic progress with environmental responsibility.",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "卫生环境",
+        "军事政治"
+      ],
+      "url": "https://x.com/revanth_anumula/status/2120574296259223746",
+      "translation_status": "ai",
+      "cluster_id": "e4d6dab46aba5283",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120574296259223746",
+        "lang": "en",
+        "text": "Today, I inaugurated the rejuvenated #ThammidikuntaLake in Madhapur, expanding it from 14 acres to 30 acres and dedicating it to the people.\n\nHyderabad’s identity must extend beyond its impressive skyline. Its lakes, green spaces and natural ecosystems are equally integral to the city’s character and future. We cannot allow these precious water bodies to disappear while families continue to suffer from urban flooding even after brief spells of rainfall. \n\nOur vision is to restore the Musi, and transform #Hyderabad into a truly world-class global city — one that balances economic progress with environmental responsibility.",
+        "author": {
+          "name": "Revanth Reddy",
+          "username": "revanth_anumula",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1864514389703053312/D4oSzZr6_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatar.jpg"
+        },
+        "created_at": "2026-11-11T17:48:05.000Z",
+        "public_metrics": {
+          "reply_count": 12,
+          "repost_count": 87,
+          "like_count": 398,
+          "quote_count": 1,
+          "bookmark_count": 6,
+          "impression_count": 15142
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/photo-4.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/revanth_anumula/status/2120574296259223746",
+        "ytdlp_command": "yt-dlp https://x.com/revanth_anumula/status/2120574296259223746",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120574691769499863",
+            "author": {
+              "name": "Rajashekar Reddy",
+              "username": "Rajashekar__1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2101394528704008192/3_BjJfAJ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/Rajashekar__1.jpg"
+            },
+            "text": "@revanth_anumula అన్న నేను అక్కడే ఉన్నాను https://t.co/MqfD6Zr02J",
+            "created_at": "2026-11-11T17:49:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 360
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120600401909268588",
+            "author": {
+              "name": "Roni RC🐎🦚",
+              "username": "alwayscharan0O7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1964990244450934784/-73YvfOP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/alwayscharan0O7.jpg"
+            },
+            "text": "@revanth_anumula @INCTelangana Two things I really liked about government \n1. Hydra \n2.restaurants quality inspection 👏👏👏",
+            "created_at": "2026-11-11T19:31:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 140
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120579093360263227",
+            "author": {
+              "name": "Kotha Anilkumar - Poet",
+              "username": "KothaAnilkumar8",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1028584662849839104/fNIVhSli_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/KothaAnilkumar8.jpg"
+            },
+            "text": "@revanth_anumula విశాలమైన తన నీటి తనువుపై\nజీవజాతి మనుగడను ప్రతిబింబిస్తూ \nఊరికి చేరువగా తాను నిలిచి\nనేలను అద్దంలా పెనవేసుకుంది చెరువు.  \n\nhttps://t.co/49524YAoWp",
+            "created_at": "2026-11-11T18:07:08.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 345
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120584991222702574",
+            "author": {
+              "name": "Sandeep",
+              "username": "SANDEEP91535231",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111142305658998784/-msajYHy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/SANDEEP91535231.jpg"
+            },
+            "text": "@revanth_anumula Nature protection is Unimaginable Wealth..\nThank you @revanth_anumula anna..HYDRAA Ranganath garu  and Team @Comm_HYDRAA",
+            "created_at": "2026-11-11T18:30:35.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 209
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120577652163793131",
+            "author": {
+              "name": "Harsh Vedula 🦁",
+              "username": "SriHarsha1995",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2038636666546716673/NqY2lrPj_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/SriHarsha1995.jpg"
+            },
+            "text": "@revanth_anumula ❤️‍🔥✊🏻🌍",
+            "created_at": "2026-11-11T18:01:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 167
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120603900084723985",
+            "author": {
+              "name": "Shashi",
+              "username": "SPunagasela",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1394469284340846593/9ccBaKnz_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/SPunagasela.jpg"
+            },
+            "text": "@revanth_anumula Great work Anna garu, Come up with a policy to have mandatory water pit in all houses and apartments, also ensure no big apartments are built within same radius or few metres away.. happy to meet and discuss in person if given an opportunity",
+            "created_at": "2026-11-11T19:45:43.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 62
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120580296051728511",
+            "author": {
+              "name": "Brand babu",
+              "username": "brandbabu_0",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119848779830681600/W0jF5K2U_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/brandbabu_0.jpg"
+            },
+            "text": "@revanth_anumula https://t.co/POWbGXVDth anna motham river's lakes next elections lopu aipovalli 5 years lo half chesa ante janallu oppukoru motham complete chesi .new generation ki nature gurinchi example evu .5 years lo cheyagalamm floods api hyd ni manchiga abivrudhi cheyochu ani prove cheyi",
+            "created_at": "2026-11-11T18:11:55.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 9
+            },
+            "in_reply_to_id": "2120574296259223746"
+          },
+          {
+            "id": "2120647585560215807",
+            "author": {
+              "name": "TaxPayer",
+              "username": "skr4486",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1245313239753175040/j5OWN6_a_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120574296259223746/avatars/skr4486.jpg"
+            },
+            "text": "@revanth_anumula Sir ji great work please make sure they are well maintained and similar way make sure to  zero tolerance policy towards encroachments and providing pedestrian #footpath #cycling lanes across #CURE region.",
+            "created_at": "2026-11-11T22:39:18.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2120574296259223746"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "bc3052b169c51f71ded18adbafa2bdbc591a8f1d",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "2d8a0e1e9ed1b52d",
+      "date": "2026-11-12",
+      "published_at": "2026-11-12T00:23:06+08:00",
+      "title_zh": "莫迪：北区、南区秘书处大楼将改建为“世界最大展陈面积”博物馆",
+      "title_en": "Imagine New Delhi becoming home to the world’s largest museum display area? Think scale. Think culture. That is the vision behind the Yuge Yugeen Bharat Museum! Today’s Cabinet decision will give impetus to transform historic North and South Block buildings into a magnificent celebration of Bharat’s",
+      "summary_zh": "印度总理莫迪发帖称，内阁当天的决定将推动把新德里历史悠久的北区和南区秘书处大楼改造成“Yuge Yugeen Bharat”博物馆，号称将拥有世界最大的博物馆展陈面积，用沉浸式展厅呈现印度数千年的知识、数学、天文、建筑、艺术、语言与宗教传统。",
+      "summary_en": "Imagine New Delhi becoming home to the world’s largest museum display area?\n\nThink scale. Think culture. \n\nThat is the vision behind the Yuge Yugeen Bharat Museum!\n\nToday’s Cabinet decision will give impetus to transform historic North and South Block buildings into a magnificent celebration of Bharat’s civilisational journey.\n\nFrom ancient knowledge systems, mathematics and astronomy to architecture, art, languages and spirituality, the museum will bring thousands of years of our heritage to life through immersive experiences and world-class galleries.\n\nBuildings that have been centres of governance will now become a place where millions can discover, experience and celebrate the timeless richness of our civilisation.\n\nA historic new chapter for India’s cultural heritage!\n\nhttps://t.co/lV7gjJ0iXk*",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "历史考古",
+        "军事政治"
+      ],
+      "url": "https://x.com/narendramodi/status/2120552910933405942",
+      "translation_status": "ai",
+      "cluster_id": "2d8a0e1e9ed1b52d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120552910933405942",
+        "lang": "en",
+        "text": "Imagine New Delhi becoming home to the world’s largest museum display area?\n\nThink scale. Think culture. \n\nThat is the vision behind the Yuge Yugeen Bharat Museum!\n\nToday’s Cabinet decision will give impetus to transform historic North and South Block buildings into a magnificent celebration of Bharat’s civilisational journey.\n\nFrom ancient knowledge systems, mathematics and astronomy to architecture, art, languages and spirituality, the museum will bring thousands of years of our heritage to life through immersive experiences and world-class galleries.\n\nBuildings that have been centres of governance will now become a place where millions can discover, experience and celebrate the timeless richness of our civilisation.\n\nA historic new chapter for India’s cultural heritage!\n\nhttps://t.co/lV7gjJ0iXk*",
+        "author": {
+          "name": "Narendra Modi",
+          "username": "narendramodi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2090480155240378368/suu43duO_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatar.jpg"
+        },
+        "created_at": "2026-11-11T16:23:06.000Z",
+        "public_metrics": {
+          "reply_count": 301,
+          "repost_count": 1607,
+          "like_count": 7999,
+          "quote_count": 98,
+          "bookmark_count": 170,
+          "impression_count": 302887
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/narendramodi/status/2120552910933405942",
+        "ytdlp_command": "yt-dlp https://x.com/narendramodi/status/2120552910933405942",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120609623640322108",
+            "author": {
+              "name": "kesava Ananth ramakrishnan",
+              "username": "kesava_ananth",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1616797638225199107/-vDrzjA6_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatars/kesava_ananth.jpg"
+            },
+            "text": "@narendramodi Sir, in your rule people are having to use too much imagination only. 😜",
+            "created_at": "2026-11-11T20:08:27.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 293
+            },
+            "in_reply_to_id": "2120552910933405942"
+          },
+          {
+            "id": "2120624069695385748",
+            "author": {
+              "name": "Amit 𝚇",
+              "username": "xplorable",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2092022626172424192/UcVcWIaB_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatars/xplorable.jpg"
+            },
+            "text": "@narendramodi First image in the Museum should be of the brown sepoy of the century continuing the communal divide and conquer rule of the Raj for Raj 2.0 (USA/UK/Israel) https://t.co/DNhixPP3p0",
+            "created_at": "2026-11-11T21:05:52.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 125
+            },
+            "in_reply_to_id": "2120552910933405942"
+          },
+          {
+            "id": "2120600181318312420",
+            "author": {
+              "name": "࿐༆༒राधे राधे༒༆࿐ 𝕏 ",
+              "username": "p511qo",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2063942145560743936/XeNiryQb_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatars/p511qo.jpg"
+            },
+            "text": "@narendramodi Screenshot…😎 https://t.co/ueooXyMo17",
+            "created_at": "2026-11-11T19:30:56.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 8
+            },
+            "in_reply_to_id": "2120552910933405942"
+          },
+          {
+            "id": "2120616222152950252",
+            "author": {
+              "name": "Sachin Mohapatra",
+              "username": "SachinMoha74723",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2052257609001095169/Wb_S5IY9_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatars/SachinMoha74723.jpg"
+            },
+            "text": "@narendramodi Modi hai toh mumkin hai",
+            "created_at": "2026-11-11T20:34:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 6
+            },
+            "in_reply_to_id": "2120552910933405942"
+          },
+          {
+            "id": "2120604459185422713",
+            "author": {
+              "name": "Guru Prasath A",
+              "username": "guruprasath",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1138837368/11595_c_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatars/guruprasath.jpg"
+            },
+            "text": "@narendramodi World's largest museum in Delhi?\n\nDo you mean the British museums going to be empty?",
+            "created_at": "2026-11-11T19:47:56.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 169
+            },
+            "in_reply_to_id": "2120552910933405942"
+          },
+          {
+            "id": "2120601562196156546",
+            "author": {
+              "name": "Cosmic Dancer",
+              "username": "CosmicDancer58",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1966436960311934977/mTqcU2ME_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120552910933405942/avatars/CosmicDancer58.jpg"
+            },
+            "text": "@narendramodi Shukhur hai Bhagwan and shukhur to those involved. I’ve been dreaming for this to happen for a long time. I hope to see it in my lifetime ☺️🙏🏽",
+            "created_at": "2026-11-11T19:36:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 128
+            },
+            "in_reply_to_id": "2120552910933405942"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "8f617f13e0f2574d5fb7fd0c9a899d718c9a2459",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "ddbf4241c262e5ce",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T23:50:46+08:00",
+      "title_zh": "《今日印度》暗访：每个关卡给1500到2000卢比，污染禁令下大巴照跑",
+      "title_en": "\"Rs 1,500 to Rs 2,000 at every point, and the buses keep rolling!\" India Today's Operation Smog Syndicate by @ojasjain11 uncovers more shocking claims from bus operators who allege that payments, phone calls and connections help them run buses despite pollution restrictions. Is Delhi's anti-pollutio",
+      "summary_zh": "《今日印度》“雾霾黑幕行动”暗访中，大巴运营方声称在每个检查点付1500到2000卢比、打电话找关系，就能在德里反污染限制下继续跑车，节目追问德里治污是否被有组织的利益网络架空。",
+      "summary_en": "\"Rs 1,500 to Rs 2,000 at every point, and the buses keep rolling!\" India Today's Operation Smog Syndicate by @ojasjain11 uncovers more shocking claims from bus operators who allege that payments, phone calls and connections help them run buses despite pollution restrictions. Is Delhi's anti-pollution crackdown being defeated by an organised nexus?\n\n#DelhiPollution #OperationSmogSyndicate #AirPollution #DelhiNCR #NewsToday | @sardesairajdeep",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120544772498800837/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "卫生环境",
+        "犯罪法律",
+        "交通火车"
+      ],
+      "url": "https://x.com/IndiaToday/status/2120544772498800837",
+      "translation_status": "ai",
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120544772498800837",
+        "lang": "en",
+        "text": "\"Rs 1,500 to Rs 2,000 at every point, and the buses keep rolling!\" India Today's Operation Smog Syndicate by @ojasjain11 uncovers more shocking claims from bus operators who allege that payments, phone calls and connections help them run buses despite pollution restrictions. Is Delhi's anti-pollution crackdown being defeated by an organised nexus?\n\n#DelhiPollution #OperationSmogSyndicate #AirPollution #DelhiNCR #NewsToday | @sardesairajdeep",
+        "author": {
+          "name": "IndiaToday",
+          "username": "IndiaToday",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2018221822471495680/N4dSGrXM_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120544772498800837/avatar.jpg"
+        },
+        "created_at": "2026-11-11T15:50:46.000Z",
+        "public_metrics": {
+          "reply_count": 2,
+          "repost_count": 8,
+          "like_count": 26,
+          "quote_count": 2,
+          "bookmark_count": 0,
+          "impression_count": 15660
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120544772498800837/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/ext_tw_video/2120544517665546241/pu/vid/avc1/1280x720/l-ckdt2aRWGIm5Ow.mp4?tag=12",
+        "video_url_resolved_at": "2026-11-12T06:56:54+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/IndiaToday/status/2120544772498800837",
+        "ytdlp_command": "yt-dlp https://x.com/IndiaToday/status/2120544772498800837",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120544772498800837/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120557698676932833",
+            "author": {
+              "name": "Dinning_Partners",
+              "username": "SathyaVadlamudi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2085600914417803266/IdGZbwdk_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120544772498800837/avatars/SathyaVadlamudi.jpg"
+            },
+            "text": "@IndiaToday @ojasjain11 #DelhiPollution",
+            "created_at": "2026-11-11T16:42:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 177
+            },
+            "in_reply_to_id": "2120544772498800837"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "837d1225e6d9bb5e962e06e6a6dcff46ff822839",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "751f8d62c84699d3",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T23:42:58+08:00",
+      "title_zh": "国大党发视频：从脱轨到脏厕所，莫迪政府下的印度铁路“真相”",
+      "title_en": "𝐅𝐫𝐨𝐦 𝐃𝐞𝐫𝐚𝐢𝐥𝐦𝐞𝐧𝐭𝐬 𝐭𝐨 𝐃𝐢𝐫𝐭𝐲 𝐓𝐨𝐢𝐥𝐞𝐭𝐬: 𝐓𝐡𝐞 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐨𝐟 𝐈𝐧𝐝𝐢𝐚𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲𝐬 𝐔𝐧𝐝𝐞𝐫 𝐌𝐨𝐝𝐢 𝐆𝐨𝐯𝐭. https://t.co/xBpzlSD1hr",
+      "summary_zh": "印度国民大会党官方账号发布视频，标题为“从脱轨到脏厕所：莫迪政府治下印度铁路的现实”，批评铁路安全与卫生状况。评论区有人@grok要两届政府的事故数据，引发对比争论。",
+      "summary_en": "𝐅𝐫𝐨𝐦 𝐃𝐞𝐫𝐚𝐢𝐥𝐦𝐞𝐧𝐭𝐬 𝐭𝐨 𝐃𝐢𝐫𝐭𝐲 𝐓𝐨𝐢𝐥𝐞𝐭𝐬: 𝐓𝐡𝐞 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐨𝐟 𝐈𝐧𝐝𝐢𝐚𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲𝐬 𝐔𝐧𝐝𝐞𝐫 𝐌𝐨𝐝𝐢 𝐆𝐨𝐯𝐭. https://t.co/xBpzlSD1hr",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "军事政治",
+        "卫生环境"
+      ],
+      "url": "https://x.com/INCIndia/status/2120542809405194361",
+      "translation_status": "ai",
+      "cluster_id": "751f8d62c84699d3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120542809405194361",
+        "lang": "en",
+        "text": "𝐅𝐫𝐨𝐦 𝐃𝐞𝐫𝐚𝐢𝐥𝐦𝐞𝐧𝐭𝐬 𝐭𝐨 𝐃𝐢𝐫𝐭𝐲 𝐓𝐨𝐢𝐥𝐞𝐭𝐬: 𝐓𝐡𝐞 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐨𝐟 𝐈𝐧𝐝𝐢𝐚𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲𝐬 𝐔𝐧𝐝𝐞𝐫 𝐌𝐨𝐝𝐢 𝐆𝐨𝐯𝐭. https://t.co/xBpzlSD1hr",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatar.jpg"
+        },
+        "created_at": "2026-11-11T15:42:58.000Z",
+        "public_metrics": {
+          "reply_count": 36,
+          "repost_count": 184,
+          "like_count": 784,
+          "quote_count": 5,
+          "bookmark_count": 14,
+          "impression_count": 41548
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120542590227673089/vid/avc1/1920x1080/1TV2Al1t7ZayKT2i.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-12T06:56:33+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2120542809405194361",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2120542809405194361",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120593070714732979",
+            "author": {
+              "name": "Samyavada Sthapanartham",
+              "username": "DarthVader67872",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2109233922693644288/Idb9DjTB_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/DarthVader67872.jpg"
+            },
+            "text": "@INCIndia We don’t have this problem during congress era as there are less trains and no toilets",
+            "created_at": "2026-11-11T19:02:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 4,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 241
+            },
+            "in_reply_to_id": "2120542809405194361"
+          },
+          {
+            "id": "2120575433217282228",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/grok.jpg"
+            },
+            "text": "@Anubhvrocks_lht @INCIndia Official data from Railway Ministry/Parliament:\n\n2004-05 to 2013-14: 1,711 consequential accidents, 904 deaths.\n\n2014-15 to 2023-24: 678 accidents, 748 deaths.\n\nAccidents fell ~60%, deaths ~17%. Later years (2024-26) show further drops (31 then 14 accidents).",
+            "created_at": "2026-11-11T17:52:36.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 4,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 144
+            },
+            "in_reply_to_id": "2120575259497971886"
+          },
+          {
+            "id": "2120575259497971886",
+            "author": {
+              "name": "Anubhav Rai",
+              "username": "Anubhvrocks_lht",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1752951906635546624/-YCn4dDC_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/Anubhvrocks_lht.jpg"
+            },
+            "text": "@INCIndia @grok tell these morons the death bw 2003 to 2014 and in 2014 till date compared",
+            "created_at": "2026-11-11T17:51:54.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 580
+            },
+            "in_reply_to_id": "2120542809405194361"
+          },
+          {
+            "id": "2120584526061867390",
+            "author": {
+              "name": "Katyusha",
+              "username": "SoryuLied",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1745554875684143104/DsXdh82D_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/SoryuLied.jpg"
+            },
+            "text": "@INCIndia that reminds me\naren't these from your era?\nSuch beauties, right? https://t.co/K9rNZ8MLHd",
+            "created_at": "2026-11-11T18:28:44.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 323
+            },
+            "in_reply_to_id": "2120542809405194361"
+          },
+          {
+            "id": "2120575838383137209",
+            "author": {
+              "name": "Anubhav Rai",
+              "username": "Anubhvrocks_lht",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1752951906635546624/-YCn4dDC_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/Anubhvrocks_lht.jpg"
+            },
+            "text": "@grok @INCIndia Happy ? @INCIndia",
+            "created_at": "2026-11-11T17:54:12.000Z",
+            "public_metrics": {
+              "reply_count": 2,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 119
+            },
+            "in_reply_to_id": "2120575433217282228"
+          },
+          {
+            "id": "2120576214255702129",
+            "author": {
+              "name": "महादेव भक्त!🔱",
+              "username": "Eternal_light22",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1101843668908957697/KD8865ZP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/Eternal_light22.jpg"
+            },
+            "text": "@INCIndia Have you no shame?🤔 https://t.co/72iCOdWuej",
+            "created_at": "2026-11-11T17:55:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 339
+            },
+            "in_reply_to_id": "2120542809405194361"
+          },
+          {
+            "id": "2120609236271214694",
+            "author": {
+              "name": "Dipa",
+              "username": "SadafAkhta91507",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1912780432845819904/4tRirQD2_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/SadafAkhta91507.jpg"
+            },
+            "text": "@INCIndia It's easy to tweet \"dirty toilets\" and \"derailments\" from your phone. Modi Ji is actually on the ground clearing decades of Congress's railway mess. We stand with the families of the victims, but we reject your attempt to exploit their pain for political hate.",
+            "created_at": "2026-11-11T20:06:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 87
+            },
+            "in_reply_to_id": "2120542809405194361"
+          },
+          {
+            "id": "2120638876041757070",
+            "author": {
+              "name": "Indian 🇮🇳",
+              "username": "JaiHind08151947",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1964861645462904832/ebmx5mNL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/avatars/JaiHind08151947.jpg"
+            },
+            "text": "@INCIndia @INCIndia Congress lectures on derailments? Under you, 3,275 train accidents in 2000-14 — 473 in 2000-01 alone. You left railways broken for decades; Modi is fixing it. Clean your record first. #WhyIHateCongress https://t.co/cgi5vgGubL",
+            "created_at": "2026-11-11T22:04:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 9
+            },
+            "in_reply_to_id": "2120542809405194361"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "40dd5565a60367fc759f8a066775ff8d0f8124f4",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "b624c8b6b61bfcc6",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T23:11:41+08:00",
+      "title_zh": "国大党发言人晒索尼娅视频：“我喜欢古吉拉特菜，但离不开豆汤米饭”",
+      "title_en": "मुझे गुजराती खाना बहुत पसंद है लेकिन दाल चावल के बिना मेरा काम नहीं चलता शादी से लेकर आजतक हमारे यहाँ रोज़ अरहर की दाल बनती है @SoniaGandhi जी https://t.co/VAv1UxEqSq",
+      "summary_zh": "国大党发言人苏普里亚·什里纳特发布索尼娅·甘地的视频片段，配文引用她的话：喜欢古吉拉特菜，但离不开豆汤米饭，结婚至今家里每天都做木豆汤。评论区有人调侃，也有人借机挑索尼娅新书里的错。",
+      "summary_en": "मुझे गुजराती खाना बहुत पसंद है \n\nलेकिन दाल चावल के बिना मेरा काम नहीं चलता \n\nशादी से लेकर आजतक हमारे यहाँ रोज़ अरहर की दाल बनती है\n\n@SoniaGandhi जी  https://t.co/VAv1UxEqSq",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "街头食物",
+        "军事政治"
+      ],
+      "url": "https://x.com/SupriyaShrinate/status/2120534938705596885",
+      "translation_status": "ai",
+      "cluster_id": "b624c8b6b61bfcc6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120534938705596885",
+        "lang": "hi",
+        "text": "मुझे गुजराती खाना बहुत पसंद है \n\nलेकिन दाल चावल के बिना मेरा काम नहीं चलता \n\nशादी से लेकर आजतक हमारे यहाँ रोज़ अरहर की दाल बनती है\n\n@SoniaGandhi जी  https://t.co/VAv1UxEqSq",
+        "author": {
+          "name": "Supriya Shrinate",
+          "username": "SupriyaShrinate",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1743912155081252864/t7b97Co3_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatar.jpg"
+        },
+        "created_at": "2026-11-11T15:11:41.000Z",
+        "public_metrics": {
+          "reply_count": 257,
+          "repost_count": 269,
+          "like_count": 1744,
+          "quote_count": 18,
+          "bookmark_count": 31,
+          "impression_count": 39901
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120460091556331520/vid/avc1/1080x1920/zyRFTkocDMkS64qg.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-12T06:56:44+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/SupriyaShrinate/status/2120534938705596885",
+        "ytdlp_command": "yt-dlp https://x.com/SupriyaShrinate/status/2120534938705596885",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120580221590216804",
+            "author": {
+              "name": "सौम्या!",
+              "username": "_somu17nov",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1833878324864569344/J6uU9A_5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/_somu17nov.jpg"
+            },
+            "text": "@SupriyaShrinate @SoniaGandhi Aur gujrati pm ?",
+            "created_at": "2026-11-11T18:11:37.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 70
+            },
+            "in_reply_to_id": "2120534938705596885"
+          },
+          {
+            "id": "2120578682758861299",
+            "author": {
+              "name": "Sangam",
+              "username": "Sangamah1947",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1553660488227393536/3YGcNBtD_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/Sangamah1947.jpg"
+            },
+            "text": "@SupriyaShrinate @SoniaGandhi 😂😂😂😂😂😂 https://t.co/9Knoeexdtz",
+            "created_at": "2026-11-11T18:05:31.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2120534938705596885"
+          },
+          {
+            "id": "2120590254155661426",
+            "author": {
+              "name": "Abdul Rehman Shaikh",
+              "username": "AbdulRehmahwh",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/AbdulRehmahwh.jpg"
+            },
+            "text": "@SupriyaShrinate @SoniaGandhi Thankyou Supriya ji for posting nice video of Sonia Gandhi 👌",
+            "created_at": "2026-11-11T18:51:29.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2120534938705596885"
+          },
+          {
+            "id": "2120620679532060995",
+            "author": {
+              "name": "Dr.Santosh vyas---🌶🌶",
+              "username": "dr_santoshvyas1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1884125653857112064/3kKIXfgu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/dr_santoshvyas1.jpg"
+            },
+            "text": "@SupriyaShrinate @SoniaGandhi *****महत्वपूर्ण सूचना*****\n\nजिस प्रकार रामलीला मैदान में कांग्रेस के पदाधिकारी को प्रदर्शन में नहीं आने पर निष्कासित कर दिया गया !!\nउसी प्रकार इस BELONGING किताब को नहीं खरीदने वाले पार्टी से निकाल दिए जाएंगे.....\nकृपया अपने नाम की \nरसीद संभाल कर रखें !! https://t.co/ZxdDchp13o",
+            "created_at": "2026-11-11T20:52:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2120534938705596885"
+          },
+          {
+            "id": "2120579991859757493",
+            "author": {
+              "name": "Ravs 🇮🇳",
+              "username": "SRSK2014",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1873750110720430080/jQ7gtO7R_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/SRSK2014.jpg"
+            },
+            "text": "@SupriyaShrinate @SoniaGandhi गुजराती खाना पसंद है और गुजरात की राजधानी अहमदाबाद है (पुस्तक में लिखा है)\n\nकांग्रेस पार्टी जितना ज्यादा PR कर रही है उतना ज्यादा नुकसान कर रही है। \nआगामी चुनावों में समझ आजायेगा। अरहर या राजमा। जो भी है।",
+            "created_at": "2026-11-11T18:10:43.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 137
+            },
+            "in_reply_to_id": "2120534938705596885"
+          },
+          {
+            "id": "2120600489553543532",
+            "author": {
+              "name": "Jaskirat Singh Rangi 🇮🇳",
+              "username": "jaskirat2611",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2077979987605618688/8O306wnt_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/jaskirat2611.jpg"
+            },
+            "text": "Sonia Gandhi wrote a 544-page memoir and still couldn’t get the death year of her own political secretary right. Ahmed Patel died in 2020. She wrote 2022.\n\nRSS founded in 1925. She wrote 1921. Anna Hazare movement started in 2011. She wrote 2012. Gujarat’s capital is Gandhinagar. She wrote Ahmedabad. One coach burned at Godhra. She wrote four. Rajya Sabha members are mostly elected. She wrote nominated.\n\nThis is the woman who spent years telling India what history means. When she finally writes her own book, even the basic timeline of her closest aide and the organisation she has attacked for decades is wrong.\n\nIf this is the level of accuracy from the top of the Congress dynasty, the rest of their political storytelling starts looking exactly as careless as critics always said it was.",
+            "created_at": "2026-11-11T19:32:10.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 37
+            },
+            "in_reply_to_id": "2120534938705596885"
+          },
+          {
+            "id": "2120583382057005232",
+            "author": {
+              "name": "Joseph Tamang",
+              "username": "woodsmanpsg",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2099179609048903680/vSpun32R_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/avatars/woodsmanpsg.jpg"
+            },
+            "text": "@SupriyaShrinate @SoniaGandhi Mujhe chawal aur tori ki sabzi aur ghee wala chawal pasand hai...\n\nKisi ko bhi is baat me thodi si bhi ruchi hai ki mujhe kya khana pasand hai??\n\nHadd hai...",
+            "created_at": "2026-11-11T18:24:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 33
+            },
+            "in_reply_to_id": "2120534938705596885"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "b1c027607d33a8e474540cfb1fb70134c65d5744",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "15ce3fc49c6b6dd6",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T22:16:05+08:00",
+      "title_zh": "阿基莱什晒“废钞令当天出生的男孩”满十岁：废钞到底带来了什么？",
+      "title_en": "दस साल का हुआ नोटबंदी के समय जन्मा खजांची लेकिन नोटबंदी से क्या मिला ये सवाल है आज भी? https://t.co/J1Fnwa07kk",
+      "summary_zh": "社会党主席阿基莱什·亚达夫发视频称，废钞时期出生、名叫“Khajanchi（出纳）”的孩子如今已满十岁，并借此追问：废钞到底带来了什么？这个问题至今仍在。",
+      "summary_en": "दस साल का हुआ नोटबंदी के समय जन्मा खजांची \nलेकिन नोटबंदी से क्या मिला ये सवाल है आज भी? https://t.co/J1Fnwa07kk",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "url": "https://x.com/yadavakhilesh/status/2120520945857400981",
+      "translation_status": "ai",
+      "cluster_id": "15ce3fc49c6b6dd6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120520945857400981",
+        "lang": null,
+        "text": "दस साल का हुआ नोटबंदी के समय जन्मा खजांची \nलेकिन नोटबंदी से क्या मिला ये सवाल है आज भी? https://t.co/J1Fnwa07kk",
+        "author": {
+          "name": "Akhilesh Yadav",
+          "username": "yadavakhilesh",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1364807128683143168/Q2hcCtVT_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatar.jpg"
+        },
+        "created_at": "2026-11-11T14:16:05.000Z",
+        "public_metrics": {
+          "reply_count": 142,
+          "repost_count": 710,
+          "like_count": 4470,
+          "quote_count": 27,
+          "bookmark_count": 82,
+          "impression_count": 333993
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120520864156549120/vid/avc1/720x1280/8tNySzaDR7UIekS_.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-12T06:56:27+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/yadavakhilesh/status/2120520945857400981",
+        "ytdlp_command": "yt-dlp https://x.com/yadavakhilesh/status/2120520945857400981",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120547594204283354",
+            "author": {
+              "name": "पं. सुधांशु भट्ट",
+              "username": "bhattshivsena",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2025476770875801600/JJm50FoF_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/bhattshivsena.jpg"
+            },
+            "text": "अखिलेश भैया कुछ करना चाहते हो तो खजांची जैसे बच्चों की शिक्षा पर ध्यान दो, इसे देखकर नहीं लगता कि ये स्कूल भी जाता होगा. \nबच्चों को आगे रखकर राजनीति करना कितना उचित है? उम्मीद करता हूं भविष्य में कुछ बदलाव की तरफ अपना ध्यान आकर्षित कराएंगे न की ये मूर्खतापूर्ण काम करके हंसी कराएंगे",
+            "created_at": "2026-11-11T16:01:58.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 351
+            },
+            "in_reply_to_id": "2120520945857400981"
+          },
+          {
+            "id": "2120546812545384517",
+            "author": {
+              "name": "Dinesh shukla (Journalist) 🇮🇳",
+              "username": "Dinehshukla",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1912947934850842624/aVd3VTQy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/Dinehshukla.jpg"
+            },
+            "text": "@yadavakhilesh अखिलेश जी आप गरीबों की मदद करते हैं बड़ी खुशी होती है। यह जिम्मेदारी आपने बहुत अच्छी ली है। मैं उम्मीद करता हूं खजांची भविष्य में एक बढ़िया नेता बनेगा।।",
+            "created_at": "2026-11-11T15:58:52.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 127
+            },
+            "in_reply_to_id": "2120520945857400981"
+          },
+          {
+            "id": "2120548693426507908",
+            "author": {
+              "name": "🇮🇳 देशभक्त राज 🇮🇳 वंदे मातरम 🚩हर हर महादेव🕉️",
+              "username": "raj_powai_wale",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1571713572648157184/-sIH3_qN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/raj_powai_wale.jpg"
+            },
+            "text": "@yadavakhilesh वो पाकिस्तान से पूछिए और लुटेरे नेताओं से इनकमटैक्स चोरों से और अपने आप से कि क्या मिला....",
+            "created_at": "2026-11-11T16:06:21.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 78
+            },
+            "in_reply_to_id": "2120520945857400981"
+          },
+          {
+            "id": "2120549780116111393",
+            "author": {
+              "name": "राजदेव सिंह",
+              "username": "RAJDEVS26",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1836666258877480960/ktRoRbdG_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/RAJDEVS26.jpg"
+            },
+            "text": "@yadavakhilesh तुझे समझ आता तो दुबारा मुख्यमंत्री नहीं बन गया होता???",
+            "created_at": "2026-11-11T16:10:40.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 122
+            },
+            "in_reply_to_id": "2120520945857400981"
+          },
+          {
+            "id": "2120550530032566434",
+            "author": {
+              "name": "सच कहूँ",
+              "username": "pradeepv21",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1631191634716291072/jtl5JGUR_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/pradeepv21.jpg"
+            },
+            "text": "@yadavakhilesh नोट बंदी से माफिया की कमर टूट गई ।\n\nजो कभी तुम्हारे बड़े रिश्तेदार हुआ करते थे।\n\nआतंकियों की कमर टूट गई।\n\nपाकिस्तान घुटनों पे आगया।\n\nजो हमें परमाणु बम्ब दिखाता था।\nकहां है पाकिस्तान?\n\n2014 में भारत की अर्थव्यवस्था  दुनिया में 11वें स्थान पर थी।\n\nआज दुनिया की छठी सबसे बड़ी ?",
+            "created_at": "2026-11-11T16:13:38.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 101
+            },
+            "in_reply_to_id": "2120520945857400981"
+          },
+          {
+            "id": "2120570005159047317",
+            "author": {
+              "name": "Dominic",
+              "username": "_NationFirst217",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2087519009529024512/rgkE0L29_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/_NationFirst217.jpg"
+            },
+            "text": "@yadavakhilesh Akhilesh bhaiya ke dard ko dekh ke pta chlta h kuch mila ho ya na mila ho inka kuch bacha nhi",
+            "created_at": "2026-11-11T17:31:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 91
+            },
+            "in_reply_to_id": "2120520945857400981"
+          },
+          {
+            "id": "2120577040546160684",
+            "author": {
+              "name": "Kushal Deotale",
+              "username": "kddeotale",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1708501424320258049/5mYHDH2D_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/avatars/kddeotale.jpg"
+            },
+            "text": "@yadavakhilesh Khajanchi BJP ko demonetization kabhi bhulne nahi dega",
+            "created_at": "2026-11-11T17:58:59.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 38
+            },
+            "in_reply_to_id": "2120520945857400981"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "2f639e81728c00ff011a3b71387d01c28f14e512",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "23dbe7d9a625fa1d",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T21:21:50+08:00",
+      "title_zh": "继Mother Dairy之后，Amul也涨奶价最多6卢比，国大党批“节日季通胀电击”",
+      "title_en": "दिल्ली-NCR वालों को एक और झटका! मदर डेयरी के बाद अमूल ने भी दूध के दाम 6 रुपए तक बढ़ाए। त्योहारों के सीजन में मोदी सरकार जनता को महंगाई का करंट देने से बाज नहीं आ रही। मोदी की वसूली जारी है... https://t.co/NC40hSnvK7 https://t.co/tEQ8Lh1TDO",
+      "summary_zh": "国大党发帖称，德里-NCR地区继Mother Dairy之后，Amul也把牛奶价格最多上调了6卢比，指责莫迪政府在节日季给民众“通胀电击”，称“莫迪的收割仍在继续”。",
+      "summary_en": "दिल्ली-NCR वालों को एक और झटका!  \n\nमदर डेयरी के बाद अमूल ने भी दूध के दाम 6 रुपए तक बढ़ाए।\n\nत्योहारों के सीजन में मोदी सरकार जनता को महंगाई का करंट देने से बाज नहीं आ रही। \n\nमोदी की वसूली जारी है... https://t.co/NC40hSnvK7 https://t.co/tEQ8Lh1TDO",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "商业套路",
+        "军事政治"
+      ],
+      "url": "https://x.com/INCIndia/status/2120507295096602980",
+      "translation_status": "ai",
+      "cluster_id": "23dbe7d9a625fa1d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120507295096602980",
+        "lang": "hi",
+        "text": "दिल्ली-NCR वालों को एक और झटका!  \n\nमदर डेयरी के बाद अमूल ने भी दूध के दाम 6 रुपए तक बढ़ाए।\n\nत्योहारों के सीजन में मोदी सरकार जनता को महंगाई का करंट देने से बाज नहीं आ रही। \n\nमोदी की वसूली जारी है... https://t.co/NC40hSnvK7 https://t.co/tEQ8Lh1TDO",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatar.jpg"
+        },
+        "created_at": "2026-11-11T13:21:50.000Z",
+        "public_metrics": {
+          "reply_count": 38,
+          "repost_count": 208,
+          "like_count": 507,
+          "quote_count": 4,
+          "bookmark_count": 8,
+          "impression_count": 24167
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/INCIndia/status/2120507295096602980",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2120507295096602980",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120528569650852337",
+            "author": {
+              "name": "विजय यादव 🇮🇳",
+              "username": "vij_80",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2053489986784423936/rygVwkwi_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/vij_80.jpg"
+            },
+            "text": "@INCIndia sahi hai Khangressi Pidi ka https://t.co/sUctO4er6q",
+            "created_at": "2026-11-11T14:46:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 195
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120525714076418107",
+            "author": {
+              "name": "Deepak Kumar",
+              "username": "ddmishra77",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1822120033058738176/ovlIkBgW_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/ddmishra77.jpg"
+            },
+            "text": "@INCIndia दुग्ध व्यवसाय वालों की कमाई बढ़े कांग्रेस कभी नहीं चाहती",
+            "created_at": "2026-11-11T14:35:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 170
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120542174194573818",
+            "author": {
+              "name": "Denish",
+              "username": "Denish222",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1558644982541479936/190PLCB1_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/Denish222.jpg"
+            },
+            "text": "@INCIndia .\n शुरुआत कांग्रेसी डेयरी ने किया, अब पूरे भारत की डेयरी बढ़ाएंगी!",
+            "created_at": "2026-11-11T15:40:26.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 101
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120567720358162437",
+            "author": {
+              "name": "Just Chill",
+              "username": "justchill_09",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2115109912590401536/0VWxMzWa_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/justchill_09.jpg"
+            },
+            "text": "@INCIndia तुम लोग तो हर साल दूध की कीमत कम करते थे तुम्हारे 50 साल की सरकार में, फिर भी दूध की किस्मत बढ़ती रहती थी...पता नहीं कौन सा गणित लगाते थे...किसी ने सही कहा है \"मूर्ख चुप ही रहे तो अच्छा है, बोलते ही पोल खुल जाती है\" .पर ये कांग्रेस वाले कभी नहीं समझेंगे",
+            "created_at": "2026-11-11T17:21:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 68
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120537992653861214",
+            "author": {
+              "name": "Abhishek Shrivastava",
+              "username": "Skies_Raider",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1950862862060040192/3rhUwAMA_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/Skies_Raider.jpg"
+            },
+            "text": "@INCIndia इसी बात पे 5 किलो राशन बंद करो",
+            "created_at": "2026-11-11T15:23:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 15
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120581231876423792",
+            "author": {
+              "name": "Devesh Nayak",
+              "username": "deveshnayak",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1569590126967406600/1g_OSWTV_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/deveshnayak.jpg"
+            },
+            "text": "@INCIndia https://t.co/0AUNsiK5et\n\nThis you bro?",
+            "created_at": "2026-11-11T18:15:38.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120547545659367486",
+            "author": {
+              "name": "tushar mishra",
+              "username": "tusharmishra675",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/tusharmishra675.jpg"
+            },
+            "text": "@INCIndia 100 rs ltr beekega kya doodh bhi abhi. Petrol ke jitna ho jaega ????",
+            "created_at": "2026-11-11T16:01:47.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 83
+            },
+            "in_reply_to_id": "2120507295096602980"
+          },
+          {
+            "id": "2120566375752286688",
+            "author": {
+              "name": "सनातन धर्म से ही रौनक है !!!",
+              "username": "yahoonewluv123",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2100645215002656769/e-CoBUqY_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120507295096602980/avatars/yahoonewluv123.jpg"
+            },
+            "text": "@INCIndia कांग्रेस को फिर भी, वोट नहीं देंगे !!",
+            "created_at": "2026-11-11T17:16:36.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 50
+            },
+            "in_reply_to_id": "2120507295096602980"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "4a46815b622f0172acb904006eef45fd82b8bc32",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "922960968d4157f9",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T21:14:47+08:00",
+      "title_zh": "印度选举委员会发辟谣：称“2024年大选投票数与计票数不一致”帖子误导",
+      "title_en": "#ECIFactCheck : MISLEADING SOCIAL MEDIA POST CLAIMING INCONSISTENCIES IN VOTES POLLED AND VOTES COUNTED IN THE GENERAL ELECTIONS TO THE LOK SABHA, 2024 AND GENERAL ELECTIONS TO LEGISLATIVE ASSEMBLIES OF STATES HELD IN 2024. (1/3) https://t.co/2RCxXFPyli",
+      "summary_zh": "印度选举委员会（ECI）以 #ECIFactCheck 发帖，称社交媒体上关于2024年人民院大选及多邦议会选举“投票数与计票数不一致”的说法具有误导性，并附四张说明图（共三条连帖）。",
+      "summary_en": "#ECIFactCheck : MISLEADING SOCIAL MEDIA POST CLAIMING\nINCONSISTENCIES IN VOTES POLLED AND VOTES COUNTED IN THE GENERAL ELECTIONS TO THE LOK SABHA, 2024 AND GENERAL ELECTIONS TO LEGISLATIVE ASSEMBLIES OF STATES HELD IN 2024.\n\n(1/3) https://t.co/2RCxXFPyli",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://x.com/ECISVEEP/status/2120505517361840418",
+      "translation_status": "ai",
+      "cluster_id": "922960968d4157f9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120505517361840418",
+        "lang": "en",
+        "text": "#ECIFactCheck : MISLEADING SOCIAL MEDIA POST CLAIMING\nINCONSISTENCIES IN VOTES POLLED AND VOTES COUNTED IN THE GENERAL ELECTIONS TO THE LOK SABHA, 2024 AND GENERAL ELECTIONS TO LEGISLATIVE ASSEMBLIES OF STATES HELD IN 2024.\n\n(1/3) https://t.co/2RCxXFPyli",
+        "author": {
+          "name": "Election Commission of India",
+          "username": "ECISVEEP",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1720886372784123904/dCI3RoY5_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/avatar.jpg"
+        },
+        "created_at": "2026-11-11T13:14:47.000Z",
+        "public_metrics": {
+          "reply_count": 279,
+          "repost_count": 474,
+          "like_count": 1059,
+          "quote_count": 76,
+          "bookmark_count": 90,
+          "impression_count": 83500
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/photo-4.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/ECISVEEP/status/2120505517361840418",
+        "ytdlp_command": "yt-dlp https://x.com/ECISVEEP/status/2120505517361840418",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120599007634559443",
+            "author": {
+              "name": "Think",
+              "username": "ThinkX9",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/707853979841986560/Ch7sUzb5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/avatars/ThinkX9.jpg"
+            },
+            "text": "@ECISVEEP Put out the actual figures instead of statements.",
+            "created_at": "2026-11-11T19:26:16.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 54
+            },
+            "in_reply_to_id": "2120505517361840418"
+          },
+          {
+            "id": "2120595334392930486",
+            "author": {
+              "name": "Balaji🇮🇳",
+              "username": "balatweets",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2059288507168780289/Wio95YOE_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/avatars/balatweets.jpg"
+            },
+            "text": "@ECISVEEP @ravish_journo Why bother with proof when you think you are the law legislature and judiciary https://t.co/inTI5AEVxT",
+            "created_at": "2026-11-11T19:11:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 19
+            },
+            "in_reply_to_id": "2120505517361840418"
+          },
+          {
+            "id": "2120595858882531352",
+            "author": {
+              "name": "Suman",
+              "username": "ssur2007",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/818041759305302016/n-OABpP5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/avatars/ssur2007.jpg"
+            },
+            "text": "@ECISVEEP What is stopping the #ElectionCommission of #India from publishing booth level  Form 17A and Form 17C data of 2024 General Elections which they had been doing till 2019\n#ReportersCollective #Haryana #Maharashtra #Kashmir\nhttps://t.co/DK0TzyS7JI",
+            "created_at": "2026-11-11T19:13:46.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2120505517361840418"
+          },
+          {
+            "id": "2120585275202293860",
+            "author": {
+              "name": "Assad Khan",
+              "username": "AssadKhanRuze",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2095858390857920512/j5sX2ZqQ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120505517361840418/avatars/AssadKhanRuze.jpg"
+            },
+            "text": "@ECISVEEP Hey @grok fact check of the claims made by ECI",
+            "created_at": "2026-11-11T18:31:42.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2120505517361840418"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "85c91399c64fde789fa4bbb74454110d977f5c19",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "eced54a590b5c1ea",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T16:33:17+08:00",
+      "title_zh": "普拉亚格拉杰清洁工10年不动工资攒下70多万卢比，却拒绝花钱治病死于结核",
+      "title_en": "प्रयागराज के एक सफाई कर्मचारी ने करीब 10 साल तक अपनी पूरी सैलरी खर्च किए बिना बचाई और बैंक खाते में 70 लाख रुपये से अधिक जमा कर लिए। लेकिन उनकी बचत की यह असाधारण कहानी एक दर्दनाक अंत के साथ खत्म हुई। धीरज कुमार नाम के इस व्यक्ति ने 2012 में अपने पिता की मृत्यु के बाद अनुकंपा के आधार पर जिला कुष्ठ रो",
+      "summary_zh": "帖子称，普拉亚格拉杰一名叫Dheeraj Kumar的清洁工2012年接替亡父岗位后，近十年不碰工资，靠母亲养老金和借钱度日，账户攒下超过70万卢比（70 lakh）；2022年9月死于晚期结核，据称生前拒绝花钱治疗，还担心将来妻子只为钱嫁给他。",
+      "summary_en": "प्रयागराज के एक सफाई कर्मचारी ने करीब 10 साल तक अपनी पूरी सैलरी खर्च किए बिना बचाई और बैंक खाते में 70 लाख रुपये से अधिक जमा कर लिए। लेकिन उनकी बचत की यह असाधारण कहानी एक दर्दनाक अंत के साथ खत्म हुई।\n\nधीरज कुमार नाम के इस व्यक्ति ने 2012 में अपने पिता की मृत्यु के बाद अनुकंपा के आधार पर जिला कुष्ठ रोग विभाग में सफाई कर्मचारी (स्वीपर) की नौकरी हासिल की थी।\n\nरिपोर्ट्स के मुताबिक, वह अपनी सैलरी को हाथ तक नहीं लगाते थे। अपना खर्च चलाने के लिए वह मां की पेंशन पर निर्भर रहते थे, दोस्तों और सहकर्मियों से पैसे उधार लेते थे और कभी-कभी उनकी आर्थिक मदद भी लेते थे। इस तरह उन्होंने अपनी पूरी कमाई बचाकर रखी।\n\nसितंबर 2022 में धीरज कुमार की उन्नत अवस्था की टीबी (तपेदिक) से मौत हो गई। हैरानी की बात यह थी कि बैंक खाते में लाखों रुपये होने के बावजूद उन्होंने कथित तौर पर अपने इलाज पर पैसे खर्च करने से इनकार कर दिया था।\n\nउनकी इस अजीबोगरीब बचत की आदत के पीछे एक डर भी बताया गया। उन्हें आशंका थी कि भविष्य में उनकी पत्नी उनसे केवल उनकी संपत्ति और पैसों के लिए शादी कर सकती है।\n\nइस घटना ने समाज में कई सवाल खड़े कर दिए हैं।\n\nक्या बचत करना ही समझदारी है, चाहे उसके लिए अपनी जिंदगी से समझौता क्यों न करना पड़े?\n\nआखिर पैसे का असली उद्देश्य क्या है?\n\nपैसा जिंदगी को सुरक्षित बनाने के लिए होता है, जिंदगी को दांव पर लगाने के लिए नहीं।",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://x.com/Ninja_Warrior11/status/2120434676741619829",
+      "translation_status": "ai",
+      "cluster_id": "eced54a590b5c1ea",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120434676741619829",
+        "lang": "hi",
+        "text": "प्रयागराज के एक सफाई कर्मचारी ने करीब 10 साल तक अपनी पूरी सैलरी खर्च किए बिना बचाई और बैंक खाते में 70 लाख रुपये से अधिक जमा कर लिए। लेकिन उनकी बचत की यह असाधारण कहानी एक दर्दनाक अंत के साथ खत्म हुई।\n\nधीरज कुमार नाम के इस व्यक्ति ने 2012 में अपने पिता की मृत्यु के बाद अनुकंपा के आधार पर जिला कुष्ठ रोग विभाग में सफाई कर्मचारी (स्वीपर) की नौकरी हासिल की थी।\n\nरिपोर्ट्स के मुताबिक, वह अपनी सैलरी को हाथ तक नहीं लगाते थे। अपना खर्च चलाने के लिए वह मां की पेंशन पर निर्भर रहते थे, दोस्तों और सहकर्मियों से पैसे उधार लेते थे और कभी-कभी उनकी आर्थिक मदद भी लेते थे। इस तरह उन्होंने अपनी पूरी कमाई बचाकर रखी।\n\nसितंबर 2022 में धीरज कुमार की उन्नत अवस्था की टीबी (तपेदिक) से मौत हो गई। हैरानी की बात यह थी कि बैंक खाते में लाखों रुपये होने के बावजूद उन्होंने कथित तौर पर अपने इलाज पर पैसे खर्च करने से इनकार कर दिया था।\n\nउनकी इस अजीबोगरीब बचत की आदत के पीछे एक डर भी बताया गया। उन्हें आशंका थी कि भविष्य में उनकी पत्नी उनसे केवल उनकी संपत्ति और पैसों के लिए शादी कर सकती है।\n\nइस घटना ने समाज में कई सवाल खड़े कर दिए हैं।\n\nक्या बचत करना ही समझदारी है, चाहे उसके लिए अपनी जिंदगी से समझौता क्यों न करना पड़े?\n\nआखिर पैसे का असली उद्देश्य क्या है?\n\nपैसा जिंदगी को सुरक्षित बनाने के लिए होता है, जिंदगी को दांव पर लगाने के लिए नहीं।",
+        "author": {
+          "name": "Ninja",
+          "username": "Ninja_Warrior11",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1873628845066129408/PyyxBVGP_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatar.jpg"
+        },
+        "created_at": "2026-11-11T08:33:17.000Z",
+        "public_metrics": {
+          "reply_count": 54,
+          "repost_count": 139,
+          "like_count": 148,
+          "quote_count": 1,
+          "bookmark_count": 30,
+          "impression_count": 1110
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/Ninja_Warrior11/status/2120434676741619829",
+        "ytdlp_command": "yt-dlp https://x.com/Ninja_Warrior11/status/2120434676741619829",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120438668079022142",
+            "author": {
+              "name": "Vivek Shukla",
+              "username": "VivekshuklaLive",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1658468983031607297/p-B3_Vs3_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/VivekshuklaLive.jpg"
+            },
+            "text": "@Ninja_Warrior11 धरती वीरों से खाली नहीं है भाई, यहां बहुत धुरंधर हैं।",
+            "created_at": "2026-11-11T08:49:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120438800027648120",
+            "author": {
+              "name": "Moris Samuel",
+              "username": "morissamuel02",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2099404889961185280/3toBA06l_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/morissamuel02.jpg"
+            },
+            "text": "@Ninja_Warrior11 @Know_me_9m पूरी जिंदगी पैसा जोड़ते रहे, लेकिन उस पैसे से अपनी जिंदगी नहीं बचा पाए। इससे बड़ी विडंबना क्या होगी।",
+            "created_at": "2026-11-11T08:49:40.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120438580682064126",
+            "author": {
+              "name": "CʀɪᴍᴇメLᴏʀᴅ",
+              "username": "Destroyer_crime",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2107848087981248512/QjaaXqjj_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/Destroyer_crime.jpg"
+            },
+            "text": "@Ninja_Warrior11 पैसा जिंदगी जीने के लिए है, जिंदगी से बढ़कर नहीं। 💔",
+            "created_at": "2026-11-11T08:48:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120440055408087459",
+            "author": {
+              "name": "Anurag Singh",
+              "username": "AnuragSingh_of",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2065704829352386560/99YhJYbv_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/AnuragSingh_of.jpg"
+            },
+            "text": "@Ninja_Warrior11 Paisa bacho mat paise ka upbhog karo",
+            "created_at": "2026-11-11T08:54:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 17
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120438474650337351",
+            "author": {
+              "name": "Amresh Gupta ji",
+              "username": "Amarexri",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2067613568384770048/cJJohPuf_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/Amarexri.jpg"
+            },
+            "text": "@Ninja_Warrior11 इसलिए कहते है कि कमाओ और जिंदगी जियो",
+            "created_at": "2026-11-11T08:48:22.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120438416995504403",
+            "author": {
+              "name": "Alexa Lyra",
+              "username": "BushraMaliccg2",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2091507470846107648/iqerZZ8y_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/BushraMaliccg2.jpg"
+            },
+            "text": "@Ninja_Warrior11 That's why spend money own self",
+            "created_at": "2026-11-11T08:48:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120439231927714015",
+            "author": {
+              "name": "Maneesh Yadav",
+              "username": "Yad41263Yadav",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1983466595705081856/f8Qx9eWK_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/Yad41263Yadav.jpg"
+            },
+            "text": "@Ninja_Warrior11 That's why they say, earn money and live life.",
+            "created_at": "2026-11-11T08:51:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2120434676741619829"
+          },
+          {
+            "id": "2120438676543221875",
+            "author": {
+              "name": "M.P Singh",
+              "username": "mp_singh95",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2104470233658568704/WPY79US5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120434676741619829/avatars/mp_singh95.jpg"
+            },
+            "text": "@Ninja_Warrior11 A person should live his life happily, what is the use of saving money?",
+            "created_at": "2026-11-11T08:49:10.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2120434676741619829"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "67bd35df35d0a4c5427295e2ec6778a0cfbd6636",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "e12964e7a711d819",
+      "date": "2026-11-11",
+      "published_at": "2026-11-11T12:30:21+08:00",
+      "title_zh": "印度少年“土法”搭出不联网也能用的智能家居系统，视频走红",
+      "title_en": "🇮🇳💡 भारतीय टीनएजर का अनोखा जुगाड़: बिना इंटरनेट चलता है उसका स्मार्ट होम सिस्टम, वीडियो हुआ वायरल इसने तो शर्मा जी के बेटे को भी फेल कर दिया है। 😎💪 📹 The_coder_16 / IG https://t.co/B8rPCdmzA8",
+      "summary_zh": "RT印地语账号转发一段走红视频：一名印度少年（视频来源Instagram账号The_coder_16）自制了一套无需互联网即可运行的智能家居系统，被调侃“连邻居家的乖孩子都比下去了”。",
+      "summary_en": "🇮🇳💡 भारतीय टीनएजर का अनोखा जुगाड़: बिना इंटरनेट चलता है उसका स्मार्ट होम सिस्टम, वीडियो हुआ वायरल\n\nइसने तो शर्मा जी के बेटे को भी फेल कर दिया है। 😎💪\n\n📹 The_coder_16 / IG https://t.co/B8rPCdmzA8",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120373541631869415/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "科技发明",
+        "奇人奇事"
+      ],
+      "url": "https://x.com/RT_hindi_/status/2120373541631869415",
+      "translation_status": "ai",
+      "cluster_id": "e12964e7a711d819",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2120373541631869415",
+        "lang": "hi",
+        "text": "🇮🇳💡 भारतीय टीनएजर का अनोखा जुगाड़: बिना इंटरनेट चलता है उसका स्मार्ट होम सिस्टम, वीडियो हुआ वायरल\n\nइसने तो शर्मा जी के बेटे को भी फेल कर दिया है। 😎💪\n\n📹 The_coder_16 / IG https://t.co/B8rPCdmzA8",
+        "author": {
+          "name": "RT Hindi",
+          "username": "RT_hindi_",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2095399789383045120/z9a1Cjxz_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120373541631869415/avatar.jpg"
+        },
+        "created_at": "2026-11-11T04:30:21.000Z",
+        "public_metrics": {
+          "reply_count": 1,
+          "repost_count": 7,
+          "like_count": 48,
+          "quote_count": 1,
+          "bookmark_count": 7,
+          "impression_count": 1408
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120373541631869415/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120373351382482944/vid/avc1/720x1280/Jjg-6bsfOi6LFB3L.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-12T06:56:52+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/RT_hindi_/status/2120373541631869415",
+        "ytdlp_command": "yt-dlp https://x.com/RT_hindi_/status/2120373541631869415",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120373541631869415/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [],
+        "replies_omitted": 0,
+        "content_sha": "d8799c5359274b25c00ccb97a52237651b4056e1",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      }
+    },
     {
       "id": "f40e2329c5ff241e",
       "date": "2026-11-11",
@@ -85,8 +1917,8 @@
       "url": "https://www.timesnownews.com/health/delhi-aqi-why-children-are-hit-hardest-by-toxic-air-paediatric-pulmonologist-tells-times-now-digital-article-156489742",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -107,8 +1939,8 @@
       "url": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 1,
       "reddit_comments": 0
     },
@@ -765,8 +2597,8 @@
       "url": "https://www.timesnownews.com/india/punjab-recorded-nearly-95-drop-in-stubble-burning-incidents-this-year-claims-minister-aman-arora-article-156491300",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -949,7 +2781,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120167577595134334/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120167492362625024/vid/avc1/1918x1058/so10RYKB1Ezzh2ii.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:25+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:10+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/SupriyaShrinate/status/2120167577595134334",
@@ -1117,7 +2949,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120165437958934701/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119884270655209474/vid/avc1/1276x720/w7H4hrmLuCaftUhE.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:37+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:12+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/thebayyinat/status/2120165437958934701",
@@ -1431,7 +3263,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120162059346121012/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120127908593508352/vid/avc1/480x854/nNiorW0WU_pxdxR6.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:19+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:10+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2120162059346121012",
@@ -1589,8 +3421,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/debate-on-pollution-in-delhi-firecrackers-vs-farm-fires-on-diwali-video-156491027",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -1611,8 +3443,8 @@
       "url": "https://www.newindianexpress.com/cities/delhi/2026/Nov/09/delhi-releases-missing-diwali-night-data-pm25-levels-cross-3700-over-60-times-national-standard",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 716,
       "reddit_comments": 38
     },
@@ -1906,7 +3738,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120136581826990113/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120136488415543296/vid/avc1/720x1280/O6LJ9EJVMHkcVNfI.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:39+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:13+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/themojostory/status/2120136581826990113",
@@ -2281,8 +4113,8 @@
       "url": "https://www.timesnownews.com/india/delhi-chokes-parliamentary-panel-drops-air-pollution-hearing-from-nov-17-agenda-congress-mp-objects-article-156490538",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -3204,8 +5036,8 @@
       "url": "https://www.timesnownews.com/viral/welcome-to-pollutyens-delhi-shashi-tharoor-sarcastic-jibe-at-capital-toxic-air-is-viral-article-156489728",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -3448,8 +5280,8 @@
       "url": "https://www.ndtv.com/offbeat/pollutyens-delhi-chandni-choke-shashi-tharoor-shares-hilarious-names-for-delhi-areas-amid-pollution-crisis-12307183",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -3567,7 +5399,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120067832675213398/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120067740295913473/vid/avc1/720x900/Rnj2Iu0csVVim7aJ.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:35+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:11+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/Sanatani_sevak/status/2120067832675213398",
@@ -4192,8 +6024,8 @@
       "url": "https://www.indiatoday.in/trending-news/story/shashi-tharoor-gives-delhi-map-a-smoggy-rewrite-in-sarcastic-jibe-at-air-pollution-3035850-2026-11-10",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -4346,8 +6178,8 @@
       "url": "https://www.timesnownews.com/delhi/delhi-missing-diwali-pollution-data-pm25-3744-dpcc-mundka-article-156488854",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -4523,8 +6355,8 @@
       "url": "https://www.ndtv.com/india-news/just-30-km-from-delhi-air-in-this-up-town-is-among-most-polluted-in-world-12303487",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 36,
       "reddit_comments": 4
     },
@@ -4575,7 +6407,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120021278510006545/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120021251129503744/vid/avc1/720x1280/nL9n29mC4GbY5Qz5.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:16+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:09+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/tehseenp/status/2120021278510006545",
@@ -4908,8 +6740,8 @@
       "url": "https://www.telegraphindia.com/india/from-sikkim-to-saudi-arabia-where-union-ministers-were-on-diwali-as-delhis-air-worsened/cid/2188625",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 190,
       "reddit_comments": 8
     },
@@ -5063,8 +6895,8 @@
       "url": "https://www.timesnownews.com/viral/breaking-news-today-city-news-live-updates-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-pune-weather-forecast-crime-traffic-latest-news-liveblog-156488475",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -5284,8 +7116,8 @@
       "url": "https://timesofindia.indiatimes.com/india/delhi-pollution-on-diwali-rockets-to-worst-in-5-years/articleshow/135692723.cms",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 0,
       "reddit_comments": 1
     },
@@ -5306,8 +7138,8 @@
       "url": "https://www.timesnownews.com/delhi/delhi-air-quality-aqi-remains-very-poor-at-311-on-november-10-minimum-temperature-to-stay-around-15c-article-156488096",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -5416,8 +7248,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/shows/delhi-ncr-faces-severe-air-pollution-crisis-post-diwali-video-156487347",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -5814,8 +7646,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/delhis-pollution-crisis-missing-air-quality-data-sparks-political-blame-game-video-156486774",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -5836,8 +7668,8 @@
       "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece/amp/",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 542,
       "reddit_comments": 26
     },
@@ -5888,7 +7720,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119652193477517312/vid/avc1/720x1280/ducxqCsHAk08q9hd.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:53:54+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:03+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AsianDigest/status/2119792008273515000",
@@ -5961,8 +7793,8 @@
       "url": "https://www.timesnownews.com/delhi/i-am-surprised-we-are-still-alive-aiims-doctors-grim-warning-as-delhi-chokes-on-toxic-air-article-156486608",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -6137,8 +7969,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/shows/delhis-pollution-crisis-political-fallout-over-diwali-celebrations-video-156486417",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -6204,8 +8036,8 @@
       "url": "https://www.deccanherald.com/india/west-bengal/diwali-firecrackers-can-help-cure-several-diseases-claims-bengal-bjp-mla-papia-adhikari-4212555",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 488,
       "reddit_comments": 36
     },
@@ -6718,8 +8550,8 @@
       "url": "https://www.timesnownews.com/india/abhijeet-dipke-swipe-as-delhi-mumbai-wake-up-to-thick-smog-says-never-seen-people-so-determined-to-make-their-lives-miserable-article-156485479",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -6740,8 +8572,8 @@
       "url": "https://www.news18.com/viral/delhi-techie-questions-firecracker-celebrations-as-aqi-crosses-1500-in-his-area-why-are-we-doing-this-ws-l-10418720.html",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -6939,8 +8771,8 @@
       "url": "https://www.indiatoday.in/trending-news/story/canadian-man-shares-post-diwali-pic-of-clear-mizoram-sky-amid-delhis-aqi-spike-3035209-2026-11-09",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -6984,8 +8816,8 @@
       "url": "https://www.timesnownews.com/india/1200-stubble-fires-in-punjab-delhi-minister-alleges-conspiracy-to-defame-diwali-farmers-as-aqi-worsens-article-156485043",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -7058,7 +8890,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119696374132559872/vid/avc1/720x956/w1hbeKnToHHPtK6y.mp4?tag=14",
-        "video_url_resolved_at": "2026-11-11T06:53:52+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:02+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/himachal_abhi/status/2119696806179381409",
@@ -7362,7 +9194,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119690915996721152/vid/avc1/1920x1080/5PilynFy6f2m7xWG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:53:59+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:04+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BBCHindi/status/2119692685019623544",
@@ -7762,8 +9594,8 @@
       "url": "https://www.timesnownews.com/india/aqi-data-fraud-congress-aap-target-delhi-government-over-missing-pollution-readings-on-diwali-night-article-156484699",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -8094,8 +9926,8 @@
       "url": "https://www.reddit.com/r/india/comments/1xrjte9/is_there_any_hope_left_for_our_country/",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 6,
       "reddit_comments": 24
     },
@@ -8189,7 +10021,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119088352079040512/vid/avc1/720x1280/oPd2_O3f4xKV8J_P.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:10+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:07+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/babanlikita/status/2119664248703812040",
@@ -8517,8 +10349,8 @@
       "url": "https://www.indiatoday.in/trending-news/story/delhi-entrepreneur-asks-if-diwali-celebrations-come-at-too-high-a-cost-as-aqi-rises-3035056-2026-11-09",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -8649,8 +10481,8 @@
       "url": "https://timesofindia.indiatimes.com/city/delhi/delhis-air-quality-slips-into-severe-category-on-diwali-aqi-at-404/articleshow/135667552.cms",
       "translation_status": "ai",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 130,
       "reddit_comments": 18
     },
@@ -8671,8 +10503,8 @@
       "url": "https://www.timesnownews.com/delhi/delhi-chokes-after-diwali-aqi-hits-366-several-areas-record-severe-air-quality-article-156483806",
       "translation_status": "ai",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -8738,8 +10570,8 @@
       "url": "https://www.aqi.in/in/dashboard/india/delhi",
       "translation_status": "ai",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 8,
       "reddit_comments": 1
     },
@@ -9626,8 +11458,8 @@
       "url": "https://www.livelaw.in/top-stories/supreme-court-air-pollution-delhi-ncr-vehicular-pollution-stubble-burning-children-lungs-not-pink-grap-expert-view-valid-diwali-awareness-programmes-557825",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 305,
       "reddit_comments": 31
     },
@@ -11154,8 +12986,8 @@
       "url": "https://www.barandbench.com/amp/story/news/litigation/advocates-and-court-staff-perform-essential-duties-delhi-hc-says-while-exempting-them-from-non-bs-vi-vehicle-ban",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 69,
       "reddit_comments": 4
     },
@@ -14242,8 +16074,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/delhi-chokes-aqi-soars-past-400-political-blame-game-video-156480344",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -14374,8 +16206,8 @@
       "url": "https://www.reddit.com/r/india/comments/1xq89by/why_no_outrage_on_pollution_levels/",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 55,
       "reddit_comments": 52
     },
@@ -15110,7 +16942,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119041672692871168/vid/avc1/720x900/6jTcZwA1U32NFd6m.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:02+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:05+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/DeepaSharma132/status/2119041751449248172",
@@ -16295,7 +18127,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118981339341094912/vid/avc1/864x1536/amqXW3pWJvaEVv4H.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:05+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:06+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ShoneeKapoor/status/2118984802179092499",
@@ -16979,8 +18811,8 @@
       "url": "https://www.reuters.com/business/environment/delhi-worlds-most-polluted-major-city-eve-diwali-swiss-group-says-2026-11-07/",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 201,
       "reddit_comments": 8
     },
@@ -17555,8 +19387,8 @@
       "url": "https://www.newindianexpress.com/india/2026/Nov/06/aqi-is-already-touching-400-sc-flags-vehicular-emissions-as-major-source-of-delhi-ncr-pollution",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 236,
       "reddit_comments": 36
     },
@@ -17577,8 +19409,8 @@
       "url": "https://www.youtube.com/watch?v=SkDFVCN_6z4",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 17,
       "reddit_comments": 0
     },
@@ -17734,8 +19566,8 @@
       "url": "https://www.timesnownews.com/india/589-farm-fires-in-a-day-nasa-satellite-image-captures-widespread-stubble-burning-across-north-india-article-156477160",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -18548,8 +20380,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/delhi-faces-severe-air-pollution-crisis-political-blame-game-escalates-video-156475690",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -18733,7 +20565,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118711873361317888/vid/avc1/1080x1920/kmclP0zMu2nfcC4K.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:12+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:08+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/gujratsamachar/status/2118712529400799241",
@@ -18764,8 +20596,8 @@
       "url": "https://www.timesnownews.com/videos/times-now/shows/political-tensions-rise-as-digvijay-singh-targets-hindutva-ahead-of-diwali-video-156475493",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -18941,8 +20773,8 @@
       "url": "https://www.timesnownews.com/health/can-air-pollution-make-you-anxious-depressed-article-156475294",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -19163,8 +20995,8 @@
       "url": "https://www.timesnownews.com/delhi/grap-stage-iii-curbs-kick-in-across-delhi-ncr-as-air-quality-worsens-ahead-of-diwali-article-156474797",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -19784,8 +21616,8 @@
       "url": "https://www.ndtv.com/offbeat/i-have-been-a-good-parent-viral-tweet-comparing-delhis-aqi-with-helsinkis-strikes-a-chord-12291713",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -19850,8 +21682,8 @@
       "url": "https://www.ndtv.com/delhi-news/hope-youre-enjoying-weather-supreme-courts-quip-on-delhi-pollution-12291427?pfrom=home-ndtv_topscroll",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 277,
       "reddit_comments": 23
     },
@@ -19983,8 +21815,8 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/astrotalk-1000-air-purifiers-diwali-gift-delhi-aqi-10952998/",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -20005,8 +21837,8 @@
       "url": "https://www.timesnownews.com/delhi/delhi-aqi-severe-november-6-8-nasa-map-stubble-burning-punjab-pakistan-article-156472881",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -20499,7 +22331,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118393200767361024/vid/avc1/1280x720/SiyLO5gbZzFyxBVe.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:54:08+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:06+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yuradeniis/status/2118393270770302994",
@@ -20949,7 +22781,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118250974997360640/vid/avc1/720x1280/uxgz6mbTN1TpmlCG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-11T06:53:50+08:00",
+        "video_url_resolved_at": "2026-11-12T06:56:02+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/PressSecretary7/status/2118250999898882303",
@@ -22350,8 +24182,8 @@
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xlthd8/look_at_this_pollution_all_this_is_happening/",
       "translation_status": "fallback",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 48,
-      "cluster_source_count": 7,
+      "cluster_item_count": 49,
+      "cluster_source_count": 8,
       "reddit_score": 824,
       "reddit_comments": 123
     },
