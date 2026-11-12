@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>奇闻日报</title>
   <meta name="description" content="奇闻日报：只收集印度新闻和 X 素材，供选题和创作工具直接取用。">
   <meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)">
@@ -22,8 +22,17 @@
     </div>
   </header>
 
-  <div class="toolbar">
+  <div class="mobile-bar" id="mobile-bar" hidden>
     <div class="wrap">
+      <button type="button" class="mobile-bar-hit" id="filter-toggle" aria-expanded="false" aria-controls="filter-panel">
+        <span class="mobile-bar-title">奇闻日报</span>
+        <span class="filter-toggle-label">筛选</span>
+      </button>
+    </div>
+  </div>
+  <div id="toolbar-spacer" class="toolbar-spacer" hidden aria-hidden="true"></div>
+  <div class="toolbar" id="toolbar">
+    <div class="wrap" id="filter-panel">
       <div class="date-switch">
         <button type="button" id="older-day">上一天</button>
         <label class="date-picker">
@@ -83,6 +92,8 @@
       <p><a href="https://github.com/wangningashui-netizen/odd-news">仓库与数据</a></p>
     </div>
   </footer>
+
+  <button type="button" class="filter-backdrop" id="filter-backdrop" hidden tabindex="-1" aria-label="关闭筛选"></button>
 
   <div id="lightbox" class="lightbox" hidden>
     <button type="button" class="lightbox-backdrop" id="lightbox-backdrop" aria-label="关闭大图"></button>
