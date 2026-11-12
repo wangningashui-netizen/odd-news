@@ -1,6 +1,6 @@
 {
   "month": "2022-12",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "96ab02feee382b6a",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/buzz/this-historians-twitter-thread-saying-winston-churchill-didnt-cause-famine-is-getting-flak-6697135.html",
       "translation_status": "fallback",
       "cluster_id": "96ab02feee382b6a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9af8f631007b6fe9",
+      "date": "2022-12-23",
+      "published_at": "2022-12-23T10:52:22+08:00",
+      "title_zh": "莱昂内尔·梅西 (Lionel Messi) 佩戴着球迷在 FIFA 世界杯上送给他的四岁幸运丝带",
+      "title_en": "Lionel Messi Wears Four-year-old Lucky Ribbon Gifted to Him by Fan in FIFA World Cup",
+      "summary_zh": "在 2022 年 FIFA 世界杯上，人们看到莱昂内尔·梅西的左脚踝上系着四年前一位阿根廷记者送给他的红丝带，以示好运",
+      "summary_en": "In FIFA World Cup 2022, Lionel Messi was seen wearing the same red ribbon on his left ankle that was given to him by an Argentinian journalist four years back as token of good luck",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/12/untitled-54-2-167176584316x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/lionel-messi-wears-four-year-old-lucky-ribbon-gifted-to-him-by-fan-in-fifa-world-cup-6676273.html",
+      "translation_status": "fallback",
+      "cluster_id": "9af8f631007b6fe9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

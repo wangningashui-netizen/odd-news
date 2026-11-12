@@ -1,0 +1,32 @@
+{
+  "date": "2023-04-16",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "128038cb6ce398d3",
+      "url": "https://www.news18.com/viral/mumbai-indians-fans-share-photos-as-19000-girls-attend-kkr-match-in-heartfelt-initiative-7562287.html",
+      "title_en": "Mumbai Indians Fans Share Photos As 19,000 Girls Attend KKR Match in Heartfelt Initiative",
+      "title_zh": "孟买印第安人队球迷在 19,000 名女孩观看 KKR 比赛时分享照片",
+      "summary_en": "As the MI vs KKR match takes on with the #ESADay initiative, Twitter is buzzing with excitement as fans share photos and praise for the players, turning the platform into a sea of ‘blue’ enthusiasm!",
+      "summary_zh": "随着 MI 与 KKR 比赛在 #ESADay 活动中展开，Twitter 上沸腾了，粉丝们分享照片和对选手的赞扬，将平台变成了一片“蓝色”热情的海洋！",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/04/untitled-11-168164077616x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-04-16T18:29:47+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "128038cb6ce398d3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

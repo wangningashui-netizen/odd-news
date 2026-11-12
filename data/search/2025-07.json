@@ -1,6 +1,6 @@
 {
   "month": "2025-07",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "49b855011a8ebf7e",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/mumbai-atal-setu-creates-history-as-india-longest-sea-bridge-cost-rs-17840-crore-aa-9461090.html",
       "translation_status": "fallback",
       "cluster_id": "49b855011a8ebf7e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f2aca41d2b5a4c42",
+      "date": "2025-07-16",
+      "published_at": "2025-07-16T12:51:59+08:00",
+      "title_zh": "为什么印度人在商店外挂柠檬和辣椒？这不仅仅是纳扎尔",
+      "title_en": "Why Do Indians Hang Lemon and Chilies Outside Shops? It's More Than Just Nazar",
+      "summary_zh": "对于印度人来说，这种古老的习俗提供了一种奇怪的融合，融合了舒适、文化认同和希望，一些东西能够生存下来，不是因为它必须存在，而是因为它仍然有意义。",
+      "summary_en": "For Indians, this age-old practice offers a curious blend of comfort, cultural identity, and hope something that survives not because it must, but because it still makes sense.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Lemon-Chilli-2025-07-37f0c0ff8cc5bad3d3635acf4d331bf5-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/why-do-indians-hang-lemon-and-chilies-outside-shops-its-more-than-just-nazar-ws-l-9443312.html",
+      "translation_status": "fallback",
+      "cluster_id": "f2aca41d2b5a4c42",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

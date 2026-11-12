@@ -1,0 +1,32 @@
+{
+  "date": "2025-07-16",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "f2aca41d2b5a4c42",
+      "url": "https://www.news18.com/viral/why-do-indians-hang-lemon-and-chilies-outside-shops-its-more-than-just-nazar-ws-l-9443312.html",
+      "title_en": "Why Do Indians Hang Lemon and Chilies Outside Shops? It's More Than Just Nazar",
+      "title_zh": "为什么印度人在商店外挂柠檬和辣椒？这不仅仅是纳扎尔",
+      "summary_en": "For Indians, this age-old practice offers a curious blend of comfort, cultural identity, and hope something that survives not because it must, but because it still makes sense.",
+      "summary_zh": "对于印度人来说，这种古老的习俗提供了一种奇怪的融合，融合了舒适、文化认同和希望，一些东西能够生存下来，不是因为它必须存在，而是因为它仍然有意义。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Lemon-Chilli-2025-07-37f0c0ff8cc5bad3d3635acf4d331bf5-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-16T12:51:59+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f2aca41d2b5a4c42",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

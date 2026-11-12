@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "timezone": "Asia/Shanghai",
-  "count": 123,
+  "count": 124,
   "items": [
     {
       "id": "e280396baf6398e7",
@@ -131,7 +131,7 @@
       "cluster_id": "29387a300d8cc796",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 77,
+      "reddit_score": 79,
       "reddit_comments": 0
     },
     {
@@ -258,7 +258,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -284,9 +284,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
-      "reddit_score": 542,
+      "reddit_score": 554,
       "reddit_comments": 26
     },
     {
@@ -420,8 +420,33 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
+    },
+    {
+      "id": "cd14bd4d82b793a2",
+      "url": "https://www.timesnownews.com/sports/ioa-president-pt-usha-loses-som-elections-saina-nehwal-anju-bobby-george-among-4-women-elected-article-156486540",
+      "title_en": "IOA President PT Usha Loses SOM Elections, Saina Nehwal, Anju Bobby George Among 4 Women Elected",
+      "title_zh": "IOA 主席 PT Usha 在 SOM 选举中失利，Saina Nehwal、Anju Bobby George 等 4 名女性当选",
+      "summary_en": "IOA PT Usha has lost the Sportsperson of Outstanding Merit (SOM) elections, which has all but ended her chances of staying as IOA President when voting takes place in December. , Sports, Times Now",
+      "summary_zh": "IOA PT Usha 输掉了杰出运动员 (SOM) 选举，这几乎终止了她在 12 月投票时继续担任 IOA 主席的机会。 , 体育, 时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156486609,thumbsize-644972,width-1280,height-720,resizemode-75/156486609.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-09T21:32:48+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cd14bd4d82b793a2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "2a52847ce513bd5f",
@@ -526,7 +551,7 @@
       "cluster_id": "aee2384026d69003",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 116,
+      "reddit_score": 127,
       "reddit_comments": 3
     },
     {
@@ -625,7 +650,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -705,7 +730,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 488,
       "reddit_comments": 36
@@ -1295,7 +1320,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1320,7 +1345,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1398,7 +1423,7 @@
       "cluster_id": "9fb84a5c6f7ff0a8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 204,
+      "reddit_score": 205,
       "reddit_comments": 6
     },
     {
@@ -1555,7 +1580,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1609,7 +1634,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1860,7 +1885,7 @@
       "cluster_id": "1de193dc82730575",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 438,
+      "reddit_score": 441,
       "reddit_comments": 24
     },
     {
@@ -2426,7 +2451,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -2479,7 +2504,7 @@
       "cluster_id": "4a596f7814b47538",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
+      "reddit_score": 16,
       "reddit_comments": 1
     },
     {
@@ -2736,7 +2761,7 @@
       "cluster_id": "2ec38a0998a07e17",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 21,
+      "reddit_score": 36,
       "reddit_comments": 8
     },
     {
@@ -2815,10 +2840,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
-      "reddit_score": 6,
-      "reddit_comments": 24
+      "reddit_score": 8,
+      "reddit_comments": 27
     },
     {
       "id": "21cad68d2af517af",
@@ -3161,7 +3186,7 @@
       "cluster_id": "7120bac35b2f04db",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 78,
+      "reddit_score": 80,
       "reddit_comments": 1
     },
     {
@@ -3291,7 +3316,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -3343,7 +3368,7 @@
       "cluster_id": "79c53c1121d31eee",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 63,
+      "reddit_score": 64,
       "reddit_comments": 0
     },
     {
@@ -3443,7 +3468,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 130,
       "reddit_comments": 18,
@@ -3471,7 +3496,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -3553,7 +3578,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 8,
       "reddit_comments": 1,

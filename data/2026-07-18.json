@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-18",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "ec9cd3d5db257200",
+      "url": "https://www.news18.com/viral/signed-by-the-people-who-built-it-skyroots-vikram-1-rocket-wins-hearts-ahead-of-historic-launch-pm-modi-calls-it-historic-new-frontier-10219695.html",
+      "title_en": "'Signed By The People Who Built It': Skyroot's Vikram-1 Rocket Wins Hearts Ahead Of Historic Launch",
+      "title_zh": "“由建造者签名”：Skyroot 的 Vikram-1 火箭在历史性发射前赢得人心",
+      "summary_en": "Prime Minister Narendra Modi hailed Vikram-1 as a milestone for India's private space sector, while social media celebrated the engineers behind the mission.",
+      "summary_zh": "总理纳伦德拉·莫迪称赞“维克拉姆一号”是印度私营航天领域的里程碑，而社交媒体则赞扬了该任务背后的工程师。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/sana-saeed-2-2026-07-53b465b2f4debe34385308180086ac81-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-07-18T14:39:38+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ec9cd3d5db257200",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

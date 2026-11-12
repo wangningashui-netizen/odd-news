@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T06:57:46+08:00",
+  "updated_at": "2026-11-12T11:47:44+08:00",
   "tags": [
     "街头食物",
     "卫生环境",
@@ -22,7 +22,7 @@
   "months": [
     {
       "month": "2026-11",
-      "count": 872,
+      "count": 1031,
       "file": "data/search/2026-11.json"
     },
     {
@@ -41,13 +41,18 @@
       "file": "data/search/2026-08.json"
     },
     {
+      "month": "2026-07",
+      "count": 2,
+      "file": "data/search/2026-07.json"
+    },
+    {
       "month": "2026-05",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2026-05.json"
     },
     {
       "month": "2026-04",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2026-04.json"
     },
     {
@@ -66,14 +71,39 @@
       "file": "data/search/2025-12.json"
     },
     {
+      "month": "2025-11",
+      "count": 1,
+      "file": "data/search/2025-11.json"
+    },
+    {
       "month": "2025-09",
       "count": 1,
       "file": "data/search/2025-09.json"
     },
     {
       "month": "2025-07",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2025-07.json"
+    },
+    {
+      "month": "2025-05",
+      "count": 2,
+      "file": "data/search/2025-05.json"
+    },
+    {
+      "month": "2025-03",
+      "count": 1,
+      "file": "data/search/2025-03.json"
+    },
+    {
+      "month": "2025-01",
+      "count": 1,
+      "file": "data/search/2025-01.json"
+    },
+    {
+      "month": "2024-11",
+      "count": 1,
+      "file": "data/search/2024-11.json"
     },
     {
       "month": "2024-05",
@@ -121,8 +151,13 @@
       "file": "data/search/2023-05.json"
     },
     {
-      "month": "2023-03",
+      "month": "2023-04",
       "count": 1,
+      "file": "data/search/2023-04.json"
+    },
+    {
+      "month": "2023-03",
+      "count": 2,
       "file": "data/search/2023-03.json"
     },
     {
@@ -132,13 +167,18 @@
     },
     {
       "month": "2023-01",
-      "count": 1,
+      "count": 3,
       "file": "data/search/2023-01.json"
     },
     {
       "month": "2022-12",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2022-12.json"
+    },
+    {
+      "month": "2022-11",
+      "count": 1,
+      "file": "data/search/2022-11.json"
     }
   ]
 }

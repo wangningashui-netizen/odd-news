@@ -1,0 +1,28 @@
+{
+  "month": "2025-01",
+  "count": 1,
+  "items": [
+    {
+      "id": "5824d34fc91780fc",
+      "date": "2025-01-15",
+      "published_at": "2025-01-15T14:09:45+08:00",
+      "title_zh": "印度裔首席执行官支持布莱恩·约翰逊停止“抗衰老”药物的决定：“继续前进”",
+      "title_en": "Indian-Origin CEO Supports Bryan Johnson’s Decision To Stop ‘Anti-Ageing’ Drug: ‘Keep Going’",
+      "summary_zh": "Perplexity AI 的印度裔首席执行官 Aravind Srinivas 对因服用雷帕霉素而受到批评的布莱恩·约翰逊表示支持。",
+      "summary_en": "Indian-origin CEO of Perplexity AI, Aravind Srinivas, showed his support to Bryan Johnson who faced criticism for taking rapamycin.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/01/wp-image-2025-01-d32590b7feaa6d288f1eb6cdafab1531-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/indian-origin-ceo-supports-bryan-johnsons-decision-to-stop-anti-ageing-drug-keep-going-aa-9189232.html",
+      "translation_status": "fallback",
+      "cluster_id": "5824d34fc91780fc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    }
+  ]
+}

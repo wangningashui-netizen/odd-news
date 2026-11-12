@@ -1,0 +1,32 @@
+{
+  "date": "2023-01-19",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "f7937cfa1d0576c0",
+      "url": "https://www.news18.com/buzz/sonam-bajwa-dismisses-rumours-of-dating-shubhman-gill-with-a-sara-tweet-6870697.html",
+      "title_en": "Sonam Bajwa Dismisses Rumours of Dating Shubhman Gill With a 'Sara' Tweet",
+      "title_zh": "索南·巴杰瓦 (Sonam Bajwa) 通过“萨拉”推文驳斥了与舒布曼·吉尔 (Shubhman Gill) 约会的谣言",
+      "summary_en": "Amid all of these controversies, an image of the cricketer Shubhman Gil shaking hands with model Sonam Bajwa has gone viral on social media and attracted hilarious responses.",
+      "summary_zh": "在所有这些争议中，板球运动员舒布曼·吉尔 (Shubhman Gil) 与模特索南·巴杰瓦 (Sonam Bajwa) 握手的照片在社交媒体上疯传，并引起了热烈的反响。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/sonam-bajwa-167413149716x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-19T20:33:06+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f7937cfa1d0576c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

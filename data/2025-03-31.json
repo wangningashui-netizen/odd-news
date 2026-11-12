@@ -1,0 +1,33 @@
+{
+  "date": "2025-03-31",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "edcebe345a9ed607",
+      "url": "https://www.news18.com/viral/never-search-these-4-things-on-google-you-could-get-into-trouble-even-end-up-in-jail-ws-abde-9281360.html",
+      "title_en": "Never Search These 4 Things On Google, You Could Get Into Trouble, Even End Up In Jail!",
+      "title_zh": "永远不要在谷歌上搜索这四件事，你可能会遇到麻烦，甚至会入狱！",
+      "summary_en": "Avoid searching for illegal topics like bomb-making, movie piracy, hacking, abortion, or child pornography on Google. These can lead to severe legal consequences",
+      "summary_zh": "避免在 Google 上搜索非法主题，例如制造炸弹、盗版电影、黑客攻击、堕胎或儿童色情内容。这些可能会导致严重的法律后果",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/03/image-2025-03-cf488dd7e77a3851a1f42a294cc6ce3e-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-03-31T14:55:14+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律",
+        "影视神剧"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "edcebe345a9ed607",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

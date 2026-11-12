@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "Asia/Shanghai",
-  "count": 167,
+  "count": 178,
   "items": [
     {
       "id": "1f9dae8f7cf1dc51",
@@ -78,8 +78,8 @@
       "cluster_id": "5f3313e729fa00cd",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 283,
-      "reddit_comments": 36
+      "reddit_score": 488,
+      "reddit_comments": 45
     },
     {
       "id": "dfe5d938712f040a",
@@ -131,7 +131,7 @@
       "cluster_id": "a8fdd0852efe999c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 27,
+      "reddit_score": 54,
       "reddit_comments": 3
     },
     {
@@ -324,7 +324,7 @@
       "published_at": "2026-11-10T22:43:41+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xsonq8",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "犯罪法律"
       ],
@@ -333,7 +333,7 @@
       "cluster_id": "eb293fba0e372f5d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 34,
+      "reddit_score": 51,
       "reddit_comments": 5
     },
     {
@@ -872,7 +872,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -898,10 +898,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
-      "reddit_score": 716,
-      "reddit_comments": 38
+      "reddit_score": 1062,
+      "reddit_comments": 52
     },
     {
       "id": "ca827fec84194830",
@@ -1102,6 +1102,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "3cc4a3fb0c956850",
+      "url": "https://www.timesnownews.com/business-economy/economy/higher-borrowing-costs-to-weigh-on-global-credit-conditions-in-2027-moodys-article-156490747",
+      "title_en": "Higher Borrowing Costs To Weigh On Global Credit Conditions In 2027: Moody's",
+      "title_zh": "穆迪：2027 年借贷成本上升将影响全球信贷状况",
+      "summary_en": "Moody's predicts the landscape for borrowers will become more complex, with significant pressures on high-leverage entities and rising energy-related expenditures., Economy, Times Now",
+      "summary_zh": "穆迪预测，借款人的情况将变得更加复杂，高杠杆实体面临巨大压力，能源相关支出不断增加。, 经济, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156490745,thumbsize-38776,width-1280,height-720,resizemode-75/156490745.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T21:19:35+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3cc4a3fb0c956850",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "96317584dbb6b96c",
       "url": "https://www.timesnownews.com/videos/times-now/shows/sonia-gandhis-memoir-ignites-political-controversy-amid-public-health-crisis-video-156490741",
       "title_en": "Breaking Ground: Sonia Gandhi Memoir Row | NVIDIA Scandal | Pawan Kalyan, Wife End 13-Yr Marriage",
@@ -1168,7 +1193,7 @@
       "published_at": "2026-11-10T21:16:22+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xsmmtr",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -1177,8 +1202,8 @@
       "cluster_id": "d6208742ff439521",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 48,
-      "reddit_comments": 41
+      "reddit_score": 67,
+      "reddit_comments": 47
     },
     {
       "id": "3e9d279ac8d4d3fe",
@@ -1241,6 +1266,31 @@
         "angle_source": "inbox"
       },
       "cluster_id": "3e9d279ac8d4d3fe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "d172cd001ed56445",
+      "url": "https://www.timesnownews.com/sports/dhinidhi-desinghu-opens-up-on-record-breaking-youth-olympics-swim-exclusive-article-156490661",
+      "title_en": "Dhinidhi Desinghu Opens Up On Record-Breaking Youth Olympics Swim | EXCLUSIVE",
+      "title_zh": "迪尼迪·德辛胡 (Dhinidhi Desinghu) 开启破纪录的青奥会游泳比赛独家",
+      "summary_en": "Dhinidhi Desinghu, a 16-year-old swimmer, achieved remarkable success at the Dakar Youth Olympics, clinching bronze in both the 100m and 200m freestyle events., Sports, Times Now",
+      "summary_zh": "16岁游泳运动员Dhinidhi Desinghu在达喀尔青年奥运会上取得了骄人的成绩，在100m和200m自由泳比赛中均获得铜牌。, 体育, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156490659,thumbsize-112044,width-1280,height-720,resizemode-75/156490659.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T20:47:47+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d172cd001ed56445",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1525,7 +1575,7 @@
       "published_at": "2026-11-10T20:38:01+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xslu0i",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "婚俗宗教"
       ],
@@ -1534,8 +1584,8 @@
       "cluster_id": "f518a94ef52b845d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 437,
-      "reddit_comments": 17
+      "reddit_score": 551,
+      "reddit_comments": 19
     },
     {
       "id": "3bfb639fec65f4d0",
@@ -1633,7 +1683,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1686,8 +1736,8 @@
       "cluster_id": "32407d0eb773a3bc",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 41,
-      "reddit_comments": 0
+      "reddit_score": 46,
+      "reddit_comments": 1
     },
     {
       "id": "e452740fda880a53",
@@ -1713,6 +1763,31 @@
       "cluster_id": "e452740fda880a53",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "6cb142c85d3e7d7c",
+      "url": "https://www.timesnownews.com/delhi/delhi-gasps-for-air-as-aqi-worsens-student-group-calls-for-protest-march-article-156490447",
+      "title_en": "Delhi Gasps For Air As AQI Worsens, Student Group Calls For Protest March",
+      "title_zh": "随着空气质量指数恶化，德里喘不过气来，学生团体呼吁举行抗议游行",
+      "summary_en": "The student organization DISHA plans a protest on November 11 against rising air pollution in Delhi, targeting the Central Government and the BJP., Delhi News, Times Now",
+      "summary_zh": "学生组织 DISHA 计划于 11 月 11 日举行抗议活动，抗议德里空气污染加剧，目标是中央政府和人民党。, 德里新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156490461,thumbsize-560164,width-1280,height-720,resizemode-75/156490461.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T19:57:24+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 56,
+      "cluster_source_count": 8
     },
     {
       "id": "44a4f9ebc69817eb",
@@ -1840,6 +1915,31 @@
         "angle_source": "inbox"
       },
       "cluster_id": "44a4f9ebc69817eb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "d8267a272e9801fd",
+      "url": "https://www.timesnownews.com/health/flu-like-symptoms-could-indicate-the-new-covid-variant-who-warns-article-156490429",
+      "title_en": "Flu-Like Symptoms Could Indicate The New COVID Variant, WHO Warns: How To Tell The Difference",
+      "title_zh": "世界卫生组织警告说，流感样症状可能表明新冠病毒变种：如何区分",
+      "summary_en": "Flu, common cold and COVID-19 can share remarkably similar signs. WHO warns against confusing the infections as a new variant raises concerns. Here's what you need to know., Health, Times Now",
+      "summary_zh": "流感、普通感冒和 COVID-19 的症状非常相似。世卫组织警告不要混淆感染，因为一种新的变种引起了人们的担忧。这是你需要知道的。, 健康, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156490453,thumbsize-1619779,width-1280,height-720,resizemode-75/156490453.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T19:52:40+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d8267a272e9801fd",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2118,6 +2218,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "89242647f51fbb60",
+      "url": "https://www.timesnownews.com/delhi/delhi-pins-hope-on-cloud-seeding-as-pollution-chokes-capital-action-in-2-3-days-article-156490140",
+      "title_en": "Delhi Pins Hope On Cloud Seeding As Pollution Chokes Capital, Action In 2-3 Days",
+      "title_zh": "首都污染严重，德里寄希望于播云，并在 2-3 天内采取行动",
+      "summary_en": "Delhi is preparing for another cloud-seeding attempt in the next 2-3 days as toxic air chokes the capital. A previous trial in October 2025 failed to trigger rainfall due to unsuitable cloud conditions., Delhi News, Times Now",
+      "summary_zh": "由于有毒空气窒息首都，德里正准备在未来 2-3 天内再次进行播云尝试。由于云层条件不合适，2025 年 10 月的一次试验未能引发降雨。, 德里新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156490231,thumbsize-48010,width-1280,height-720,resizemode-75/156490231.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T18:51:28+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 56,
+      "cluster_source_count": 8
+    },
+    {
       "id": "f079b860778a92e0",
       "url": "https://www.indiatoday.in/trending-news/story/what-is-the-400-year-old-patthar-ka-khel-ritual-held-after-diwali-in-shimla-3036031-2026-11-10",
       "title_en": "What is the 400-year-old Patthar Ka Khel ritual held after Diwali in Shimla?",
@@ -2182,7 +2307,7 @@
       "published_at": "2026-11-10T18:44:48+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xsjsii",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "婚俗宗教"
       ],
@@ -2192,7 +2317,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 2,
-      "reddit_comments": 1
+      "reddit_comments": 2
     },
     {
       "id": "f9388a2389360b13",
@@ -2210,7 +2335,7 @@
       "published_at": "2026-11-10T18:42:50+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xsjr1d",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -2219,7 +2344,7 @@
       "cluster_id": "f9388a2389360b13",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 31,
+      "reddit_score": 33,
       "reddit_comments": 1
     },
     {
@@ -2294,6 +2419,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "129f6ca92fc0e97a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "4adbd8522f1b79c2",
+      "url": "https://www.timesnownews.com/auto/car-news/5-best-selling-sedans-october-2026-maruti-suzuki-dzire-tata-aeris-and-more-article-156489090",
+      "title_en": "5 Best-Selling Sedans In October 2026: Maruti Suzuki Dzire, Tata Aeris And More",
+      "title_zh": "2026 年 10 月 5 款最畅销轿车：Maruti Suzuki Dzire、Tata Aeris 等",
+      "summary_en": "The top-selling sedans in India in October 2026 include the Maruti Suzuki Dzire, Hyundai Aura, and Tata Aeris. Here's how the top 5 models performed during the month., Car News, Times Now",
+      "summary_zh": "2026 年 10 月印度最畅销的轿车包括马鲁蒂铃木 Dzire、现代 Aura 和塔塔 Aeris。以下是本月前 5 名车型的表现。, 汽车新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156489222,thumbsize-107638,width-1280,height-720,resizemode-75/156489222.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T18:30:00+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4adbd8522f1b79c2",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2451,6 +2601,31 @@
       "cluster_source_count": 2
     },
     {
+      "id": "20636b2409555999",
+      "url": "https://www.timesnownews.com/business-economy/markets/asian-stocks-extend-gains-after-wall-streets-best-day-since-april-oil-prices-ease-article-156490012",
+      "title_en": "Asian Stocks Extend Gains After Wall Street's Best Day Since April; Oil Prices Ease",
+      "title_zh": "华尔街股市自四月份以来表现最好的一天后，亚洲股市延续涨势；油价下跌",
+      "summary_en": "The decline in crude oil prices relieved concerns about energy supply disruptions, benefiting major oil-importing nations. Technology stocks thrived, with SoftBank Group and Samsung Electronics leading the way., Markets, Times Now",
+      "summary_zh": "原油价格下跌缓解了人们对能源供应中断的担忧，使主要石油进口国受益。科技股蓬勃发展，软银集团和三星电子领涨。, 市场, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156490014,thumbsize-2144103,width-1280,height-720,resizemode-75/156490014.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T18:07:30+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "20636b2409555999",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "704fa69b02fdb7f5",
       "url": "https://www.bhaskarenglish.in/national/news/sonia-gandhi-belonging-memoir-book-launch-no-event-market-release-139641911.html",
       "title_en": "Sonia’s ‘Belonging’ hits shelves: 544 pages, 7 chapters trace her journey from falling for Rajiv to giving ...",
@@ -2475,7 +2650,7 @@
       "cluster_id": "704fa69b02fdb7f5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 18,
+      "reddit_score": 36,
       "reddit_comments": 1
     },
     {
@@ -2579,8 +2754,8 @@
       "cluster_id": "bc6b1908deb626f8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 295,
-      "reddit_comments": 23
+      "reddit_score": 331,
+      "reddit_comments": 24
     },
     {
       "id": "12a7aba90b9cfb66",
@@ -2657,8 +2832,33 @@
       "cluster_id": "9bb8f34d31ae0dd4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 203,
-      "reddit_comments": 9
+      "reddit_score": 233,
+      "reddit_comments": 16
+    },
+    {
+      "id": "66f2650b68239244",
+      "url": "https://www.timesnownews.com/business-economy/companies/boeing-layoffs-airline-to-cut-2500-job-as-production-delays-force-aerospace-giant-to-restructure-article-156489330",
+      "title_en": "Boeing Layoffs: Airline To Cut 2,500 Job As Production Delays Force Aerospace Giant To Restructure",
+      "title_zh": "波音裁员：由于生产延误迫使航空航天巨头进行重组，航空公司将裁员 2,500 人",
+      "summary_en": "Boeing plans to cut 2,500 commercial aircraft jobs as production delays hit its 737, 787 and other jet programmes, pushing back recovery targets., Companies, Times Now",
+      "summary_zh": "由于 737、787 和其他喷气式飞机项目的生产延迟，波音计划削减 2,500 个商用飞机工作岗位，从而推迟了复苏目标。, 公司, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156489552,thumbsize-1337750,width-1280,height-720,resizemode-75/156489552.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T17:24:26+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "66f2650b68239244",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "ea4485545212a008",
@@ -2682,7 +2882,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -2707,6 +2907,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "5527cd6d5690db51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "d1212460d8698946",
+      "url": "https://www.timesnownews.com/lifestyle/books/sonia-gandhis-book-belonging-released-12-biggest-revelations-from-her-memoir-article-156489617",
+      "title_en": "Sonia Gandhi's Book 'Belonging' Released: 12 Biggest Revelations From Her Memoir",
+      "title_zh": "索尼娅·甘地的书《归属》出版：她回忆录中的 12 个最大启示",
+      "summary_en": "Sonia Gandhi's newly released memoir 'Belonging' offers intimate accounts of family relationships, political tensions, personal struggles and defining moments. Here are 12 significant revelations that stand out., Books, Times Now",
+      "summary_zh": "索尼娅·甘地新出版的回忆录《归属》详细描述了家庭关系、政治紧张局势、个人斗争和决定性时刻。以下是 12 条引人注目的重大启示。, 书籍, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156489753,thumbsize-1690586,width-1280,height-720,resizemode-75/156489753.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T17:12:19+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d1212460d8698946",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2957,7 +3182,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -3035,6 +3260,34 @@
       "cluster_id": "a499374e48d69baf",
       "cluster_item_count": 2,
       "cluster_source_count": 2
+    },
+    {
+      "id": "856d4906634f29d1",
+      "url": "https://www.reddit.com/r/india/comments/1xshipb/athiti_devo_bhava_but_not_when_your_western/",
+      "title_en": "\"Athiti Devo Bhava\", but not when your western nations keep bulldozing the rest of the world.",
+      "title_zh": "“Athiti Devo Bhava”，但当你们的西方国家不断推倒世界其他地区时就不是这样了。",
+      "summary_en": "\"Athiti Devo Bhava\", but not when your western nations keep bulldozing the rest of the world. Fix the monetary systems and historical loot of INDIA. Then lets TALK https://drive.google.com/file/d/1WftiIDIvtFvy5XyzzYxlMK8UQMNhY5Xb/view RIVER's: https://drive.google.com/file/d/1bVTAfZlBITgLSNbQpaw36TPRgw3afJyn/view?usp=drive_link (Predating TheOriginal to 2010-2015): https://drive.google.com/file/d/1nk0w8Db4_sifVIjav6nxkKyKIUSQJyoE/view?usp=drive_link…",
+      "summary_zh": "“Athiti Devo Bhava”，但当你们的西方国家不断推倒世界其他地区时就不是这样了。修复印度的货币体系和历史掠夺。然后让我们谈谈 https://drive.google.com/file/d/1WftiIDIvtFvy5XyzzYxlMK8UQMNhY5Xb/view RIVER 的：https://drive.google.com/file/d/1bVTAfZlBITgLSNbQpaw36TPRgw3afJyn/view?usp=drive_link （原版之前为2010-2015）：https://drive.google.com/file/d/1nk0w8Db4_sifVIjav6nxkKyKIUSQJyoE/view?usp=drive_link…",
+      "translation_status": "fallback",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/india",
+      "source_id": "reddit-india",
+      "region": "印度",
+      "published_at": "2026-11-10T16:19:45+08:00",
+      "fetched_at": "2026-11-12T11:43:06+08:00",
+      "reddit_id": "t3_1xshipb",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "856d4906634f29d1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 0
     },
     {
       "id": "b2456ec8a12bb3ef",
@@ -3172,7 +3425,7 @@
       "cluster_id": "7d9e75d02c0b0a5a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 77,
+      "reddit_score": 88,
       "reddit_comments": 12
     },
     {
@@ -3215,7 +3468,7 @@
       "region": "印度",
       "published_at": "2026-11-10T16:06:28+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
-      "reddit_id": "t3_1xshbht",
+      "reddit_id": "t3_1xtiy72",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -3225,8 +3478,8 @@
       "cluster_id": "65362ade65c0c979",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 17,
-      "reddit_comments": 0
+      "reddit_score": 28,
+      "reddit_comments": 2
     },
     {
       "id": "821a2527f47edfd2",
@@ -3244,7 +3497,7 @@
       "published_at": "2026-11-10T15:41:29+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xsgxem",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -3271,7 +3524,7 @@
       "region": "印度",
       "published_at": "2026-11-10T15:38:09+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
-      "reddit_id": "t3_1xsgvji",
+      "reddit_id": "t3_1xtiy72",
       "page_fetched": true,
       "tags": [
         "动物"
@@ -3281,8 +3534,8 @@
       "cluster_id": "097e11ab7d129664",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 9,
-      "reddit_comments": 0
+      "reddit_score": 28,
+      "reddit_comments": 2
     },
     {
       "id": "c2525f24a9c48360",
@@ -3374,7 +3627,7 @@
       "published_at": "2026-11-10T15:32:38+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xsgslr",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -3383,7 +3636,7 @@
       "cluster_id": "6038218211ab7a0f",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 85,
+      "reddit_score": 91,
       "reddit_comments": 6
     },
     {
@@ -3436,7 +3689,7 @@
       "cluster_id": "7a749a589672038e",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 762,
+      "reddit_score": 943,
       "reddit_comments": 11
     },
     {
@@ -3487,10 +3740,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "07524246b6d6f6c8",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2,
-      "reddit_score": 232,
-      "reddit_comments": 16
+      "reddit_score": 300,
+      "reddit_comments": 19
     },
     {
       "id": "ebc57cb9e0a063a9",
@@ -3517,7 +3770,7 @@
       "cluster_id": "ebc57cb9e0a063a9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 11,
+      "reddit_score": 12,
       "reddit_comments": 0
     },
     {
@@ -3569,8 +3822,8 @@
       "cluster_id": "f94409c99cd4efa0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 530,
-      "reddit_comments": 50
+      "reddit_score": 606,
+      "reddit_comments": 52
     },
     {
       "id": "9c6cb7bb5e310085",
@@ -3644,8 +3897,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1086851cd7e2e695",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "840de97a2f5c21a9",
@@ -3818,7 +4071,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -3992,7 +4245,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -4070,7 +4323,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2a5ecb962d4088d6",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -4195,9 +4448,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
-      "reddit_score": 36,
+      "reddit_score": 38,
       "reddit_comments": 4
     },
     {
@@ -4430,7 +4683,7 @@
         "angle_source": "inbox"
       },
       "cluster_id": "07524246b6d6f6c8",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2
     },
     {
@@ -4449,7 +4702,7 @@
       "published_at": "2026-11-10T12:59:11+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
       "reddit_id": "t3_1xse6p5",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -4458,7 +4711,7 @@
       "cluster_id": "58bf6d9fbf86167e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 7,
+      "reddit_score": 9,
       "reddit_comments": 4
     },
     {
@@ -4610,9 +4863,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
-      "reddit_score": 190,
+      "reddit_score": 239,
       "reddit_comments": 8
     },
     {
@@ -4640,8 +4893,8 @@
       "cluster_id": "db83035fbb3bd5b4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 170,
-      "reddit_comments": 21
+      "reddit_score": 188,
+      "reddit_comments": 23
     },
     {
       "id": "6cd1b70ee82d488a",
@@ -4793,7 +5046,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -4895,8 +5148,8 @@
       "cluster_id": "93cee4589253db9b",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 221,
-      "reddit_comments": 68
+      "reddit_score": 227,
+      "reddit_comments": 69
     },
     {
       "id": "46c3f93f360651f0",
@@ -4973,7 +5226,7 @@
       "cluster_id": "9bb7ce99d4f5d546",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 121,
+      "reddit_score": 132,
       "reddit_comments": 5
     },
     {
@@ -5001,8 +5254,8 @@
       "cluster_id": "af733db0fabf0be5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 344,
-      "reddit_comments": 25
+      "reddit_score": 367,
+      "reddit_comments": 26
     },
     {
       "id": "678fa8ccd4e2e880",
@@ -5055,7 +5308,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 0,
       "reddit_comments": 1
@@ -5082,8 +5335,33 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
+    },
+    {
+      "id": "3e80a4d7d60b9195",
+      "url": "https://www.timesnownews.com/sports/cricket/hamilton-weather-will-rain-wash-out-3rd-india-vs-new-zealand-odi-article-156488029",
+      "title_en": "Hamilton Weather: Will Rain Wash Out 3rd India vs New Zealand ODI?",
+      "title_zh": "汉密尔顿天气：雨水会冲走第三届印度 vs 新西兰 ODI 比赛吗？",
+      "summary_en": "India and New Zealand will square off in the third ODI of the five-match series at Seddon Park in Hamilton on Tuesday (November 10). Here, we have a look at Hamilton's weather report for the day., Cricket, Times Now",
+      "summary_zh": "印度和新西兰将于周二（11 月 10 日）在汉密尔顿的塞登公园进行五场系列赛的第三场 ODI 比赛。在这里，我们来看看汉密尔顿当天的天气预报。, 板球, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156488030,thumbsize-55478,width-1280,height-720,resizemode-75/156488030.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T08:22:01+08:00",
+      "fetched_at": "2026-11-12T11:42:57+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3e80a4d7d60b9195",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "be513954252d159d",
@@ -5166,8 +5444,8 @@
       "cluster_id": "08b79a33dbf72adf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 441,
-      "reddit_comments": 24
+      "reddit_score": 454,
+      "reddit_comments": 25
     },
     {
       "id": "dfd08c305518713a",
@@ -5216,7 +5494,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -5272,8 +5550,8 @@
       "cluster_id": "d03965265faea2be",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 105,
-      "reddit_comments": 17
+      "reddit_score": 119,
+      "reddit_comments": 18
     },
     {
       "id": "39b39924f81255ce",

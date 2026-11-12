@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-27",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "da6ddfd32e681d13",
+      "url": "https://www.news18.com/viral/rs-1200-food-with-rs-40-order-viral-post-claims-zomato-loophole-lets-users-avoid-platform-fees-ws-l-10115418.html",
+      "title_en": "‘Rs 1,200 Food With Rs 40 Order’: Viral Post Claims Zomato Loophole Lets Users Avoid Platform Fees",
+      "title_zh": "“40 卢比订单 1,200 卢比的食物”：病毒帖子声称 Zomato 漏洞可让用户避免平台费用",
+      "summary_en": "An X post claimed some customers may be using a Zomato loophole by placing tiny app orders while paying restaurants directly for bigger meals.",
+      "summary_zh": "一篇 X 帖子声称，一些顾客可能会利用 Zomato 漏洞，在应用程序上下小订单，同时直接向餐厅支付大餐费用。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5846288_untitleddesign20260527t141612410_1-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-05-27T18:11:18+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "da6ddfd32e681d13",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

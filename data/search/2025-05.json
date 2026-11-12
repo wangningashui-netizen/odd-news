@@ -1,0 +1,51 @@
+{
+  "month": "2025-05",
+  "count": 2,
+  "items": [
+    {
+      "id": "67516011e3badb5b",
+      "date": "2025-05-21",
+      "published_at": "2025-05-21T12:15:50+08:00",
+      "title_zh": "MrBeast 净资产达 10 亿美元，成为第八位最年轻的亿万富翁",
+      "title_en": "MrBeast Becomes 8th-Youngest Billionaire With $1 Billion Net Worth",
+      "summary_zh": "吉米·唐纳森（Jimmy Donaldson），俗称 MrBeast，开始在北卡罗来纳州的家中制作视频。",
+      "summary_en": "Jimmy Donaldson, popularly known as MrBeast, began making videos from his home in North Carolina.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/Untitled-design-2025-05-21T094445.091-2025-05-b409ef3b1231662dc5bd0fae49a0e254-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.news18.com/viral/mrbeast-becomes-8th-youngest-billionaire-with-1-billion-net-worth-aa-9345813.html",
+      "translation_status": "fallback",
+      "cluster_id": "67516011e3badb5b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "47a69a15d5361e87",
+      "date": "2025-05-19",
+      "published_at": "2025-05-19T19:30:27+08:00",
+      "title_zh": "这是印度最被误解的蛇，它为它的外表付出了代价",
+      "title_en": "This Is India’s Most Misunderstood Snake That Pays The Price For Its Looks",
+      "summary_zh": "大多数人将狼蛇误认为是普通金环蛇，出于对自身安全的恐惧而将其杀死。因此，尽管狼蛇无害，但经常被不必要地杀死。",
+      "summary_en": "Most people mistake the wolf snake for the common krait and kill it out of fear for their safety. As a result, despite being harmless, the wolf snake is often killed unnecessarily",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/Wolf-Snake-2025-05-4ce5be29503f7ce5bd8722f56c2fb460-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "动物",
+        "犯罪法律"
+      ],
+      "url": "https://www.news18.com/viral/this-is-indias-most-misunderstood-snake-that-pays-the-price-for-its-looks-ws-akl-9343352.html",
+      "translation_status": "fallback",
+      "cluster_id": "47a69a15d5361e87",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    }
+  ]
+}

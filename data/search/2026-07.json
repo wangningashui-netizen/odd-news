@@ -1,0 +1,50 @@
+{
+  "month": "2026-07",
+  "count": 2,
+  "items": [
+    {
+      "id": "ec9cd3d5db257200",
+      "date": "2026-07-18",
+      "published_at": "2026-07-18T14:39:38+08:00",
+      "title_zh": "“由建造者签名”：Skyroot 的 Vikram-1 火箭在历史性发射前赢得人心",
+      "title_en": "'Signed By The People Who Built It': Skyroot's Vikram-1 Rocket Wins Hearts Ahead Of Historic Launch",
+      "summary_zh": "总理纳伦德拉·莫迪称赞“维克拉姆一号”是印度私营航天领域的里程碑，而社交媒体则赞扬了该任务背后的工程师。",
+      "summary_en": "Prime Minister Narendra Modi hailed Vikram-1 as a milestone for India's private space sector, while social media celebrated the engineers behind the mission.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/sana-saeed-2-2026-07-53b465b2f4debe34385308180086ac81-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.news18.com/viral/signed-by-the-people-who-built-it-skyroots-vikram-1-rocket-wins-hearts-ahead-of-historic-launch-pm-modi-calls-it-historic-new-frontier-10219695.html",
+      "translation_status": "fallback",
+      "cluster_id": "ec9cd3d5db257200",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5c9eb073e1a6a4c0",
+      "date": "2026-07-12",
+      "published_at": "2026-07-12T14:35:02+08:00",
+      "title_zh": "路易威登尿布在好奇对峙后走红，互联网称“现在他可以拉黄金了”",
+      "title_en": "Louis Vuitton Diaper Goes Viral After Huggies Face-Off, Internet Says 'Now He Can Poop Gold'",
+      "summary_zh": "Instagram 上一条比较 LV 尿布和 Huggies 尿布的视频在网上疯传，在网上引发了争论，社交媒体用户拿奢侈品、育儿和奢侈消费开玩笑",
+      "summary_en": "A viral Instagram reel comparing a LV diaper with a Huggies diaper has sparked debate online, with social media users joking about luxury, parenting and extravagant spending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Vs.-1-2026-07-33039c44e3efd9fa980144a1afbe93c0-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/louis-vuitton-diaper-goes-viral-after-huggies-face-off-internet-says-now-he-can-poop-gold-ws-l-10206627.html",
+      "translation_status": "fallback",
+      "cluster_id": "5c9eb073e1a6a4c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-12",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "5c9eb073e1a6a4c0",
+      "url": "https://www.news18.com/viral/louis-vuitton-diaper-goes-viral-after-huggies-face-off-internet-says-now-he-can-poop-gold-ws-l-10206627.html",
+      "title_en": "Louis Vuitton Diaper Goes Viral After Huggies Face-Off, Internet Says 'Now He Can Poop Gold'",
+      "title_zh": "路易威登尿布在好奇对峙后走红，互联网称“现在他可以拉黄金了”",
+      "summary_en": "A viral Instagram reel comparing a LV diaper with a Huggies diaper has sparked debate online, with social media users joking about luxury, parenting and extravagant spending",
+      "summary_zh": "Instagram 上一条比较 LV 尿布和 Huggies 尿布的视频在网上疯传，在网上引发了争论，社交媒体用户拿奢侈品、育儿和奢侈消费开玩笑",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Vs.-1-2026-07-33039c44e3efd9fa980144a1afbe93c0-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-07-12T14:35:02+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5c9eb073e1a6a4c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

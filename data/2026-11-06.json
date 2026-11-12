@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "count": 89,
+  "count": 90,
   "items": [
     {
       "id": "72a66f446ae70b61",
@@ -100,7 +100,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -341,7 +341,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -523,9 +523,9 @@
       "cluster_id": "89dfb4d729e95dc1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 17,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xshbht"
+      "reddit_score": 28,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xtiy72"
     },
     {
       "id": "d435a32586e59878",
@@ -548,7 +548,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -801,7 +801,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1237,6 +1237,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "9efa4047592f32f8",
+      "url": "https://www.news18.com/viral/i-joined-just-a-month-ago-employee-asked-to-resign-after-new-company-loses-client-shares-ordeal-ws-l-10415346.html",
+      "title_en": "‘I Joined Just A Month Ago’: Employee Asked To Resign After New Company Loses Client, Shares Ordeal",
+      "title_zh": "“我一个月前才加入”：新公司失去客户、遭遇磨难后，员工被要求辞职",
+      "summary_en": "The employee shared that they had paid out notice period at their previous organisation for the new role but within a month in the company, they were asked to hand in resignation",
+      "summary_zh": "该员工透露，他们在之前的组织中已经为新职位支付了通知期，但在公司一个月内，他们被要求递交辞职信",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-3-2026-11-e097c3ba73929bb8c9035cb237cf6699-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-06T17:32:33+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9efa4047592f32f8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "edbe91d459e76f2f",
       "url": "https://www.cartoq.com/car-news/karnataka-ethanol-blending-test-results/",
       "title_en": "E30 Petrol Being Sold As E20: Karnataka Govt Releases Test Data",
@@ -1517,7 +1542,7 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1592,7 +1617,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 277,
       "reddit_comments": 23,
@@ -1743,7 +1768,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {
@@ -1768,7 +1793,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {

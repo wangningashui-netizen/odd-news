@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-25",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "1188751e57161940",
+      "url": "https://www.news18.com/viral/vaishno-devi-500-crore-silver-scam-5-simple-tests-to-check-if-your-silver-is-real-before-you-spend-a-rupee-ws-e-10056988.html",
+      "title_en": "Vaishno Devi ₹500 Crore Silver Scam: 5 Simple Tests To Check If Your Silver Is Real Before You Spend A Rupe",
+      "title_zh": "Vaishno Devi 50 亿卢比白银骗局：在您花费卢比之前检查您的白银是否真实的 5 个简单测试",
+      "summary_en": "Financial experts warn of a \"fake silver\" crisis in India after a massive temple fraud comes to light.",
+      "summary_zh": "大规模寺庙欺诈案曝光后，金融专家警告印度将出现“假银”危机。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/image-2026-04-e1ca52df0fa3e15279fa4f50033f0a5f-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-25T16:54:34+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "诈骗骗局",
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1188751e57161940",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

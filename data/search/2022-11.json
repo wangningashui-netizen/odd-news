@@ -1,0 +1,28 @@
+{
+  "month": "2022-11",
+  "count": 1,
+  "items": [
+    {
+      "id": "5cbd76f1ab3dc3a7",
+      "date": "2022-11-28",
+      "published_at": "2022-11-28T16:30:35+08:00",
+      "title_zh": "IFS 官员要求用户区分捷豹和豹。你能认出猫吗？",
+      "title_en": "IFS Officer Asks Users to Differentiate Between Jaguar and Leopard. Can You Identify the Cats?",
+      "summary_zh": "印度林务局官员在推特上分享了两张这些雄伟动物的照片，并要求用户区分豹子和美洲虎。看看“知识渊博”的观众有何反应！",
+      "summary_en": "Indian Forest Service Officer shared a tweet with two pics of the majestic animals and asked users to differentiate between the leopard and the jaguar. See how the 'knowledgeable' audience reacted!",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/11/untitled-design-19-166962409016x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "动物"
+      ],
+      "url": "https://www.news18.com/buzz/ifs-officer-asks-users-to-differentiate-between-jaguar-and-leopard-can-you-identify-the-cats-6488017.html",
+      "translation_status": "fallback",
+      "cluster_id": "5cbd76f1ab3dc3a7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    }
+  ]
+}

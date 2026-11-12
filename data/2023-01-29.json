@@ -1,0 +1,32 @@
+{
+  "date": "2023-01-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "305d2cda4c9ad703",
+      "url": "https://www.news18.com/buzz/guys-never-look-good-in-zigzag-hairband-twitter-users-remark-attracts-trolls-online-6944023.html",
+      "title_en": "‘Guys Never Look Good in Zigzag Hairband’: Twitter User’s Remark Attracts Trolls Online",
+      "title_zh": "“男人戴锯齿形发带从来不好看”：推特用户的言论吸引了网上的恶搞",
+      "summary_en": "An internet user was slammed for his negative remark on men wearing the zigzag hairband. He posted a picture of the headband and wrote, 'no guy has ever looked good wearing this thing'.",
+      "summary_zh": "一名网友因对戴锯齿形发带的男性发表负面言论而遭到猛烈抨击。他贴出了一张头带的照片，并写道，“没有人戴过这个东西看起来很好看”。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/untitled-83-167498535416x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-29T17:49:18+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "305d2cda4c9ad703",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

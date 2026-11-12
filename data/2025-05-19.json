@@ -1,0 +1,33 @@
+{
+  "date": "2025-05-19",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "47a69a15d5361e87",
+      "url": "https://www.news18.com/viral/this-is-indias-most-misunderstood-snake-that-pays-the-price-for-its-looks-ws-akl-9343352.html",
+      "title_en": "This Is India’s Most Misunderstood Snake That Pays The Price For Its Looks",
+      "title_zh": "这是印度最被误解的蛇，它为它的外表付出了代价",
+      "summary_en": "Most people mistake the wolf snake for the common krait and kill it out of fear for their safety. As a result, despite being harmless, the wolf snake is often killed unnecessarily",
+      "summary_zh": "大多数人将狼蛇误认为是普通金环蛇，出于对自身安全的恐惧而将其杀死。因此，尽管狼蛇无害，但经常被不必要地杀死。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/Wolf-Snake-2025-05-4ce5be29503f7ce5bd8722f56c2fb460-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-05-19T19:30:27+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "47a69a15d5361e87",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

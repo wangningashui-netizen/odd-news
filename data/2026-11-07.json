@@ -158,7 +158,7 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 55,
       "reddit_comments": 52,
@@ -326,9 +326,9 @@
       "cluster_id": "3d1c65c82f404907",
       "cluster_item_count": 3,
       "cluster_source_count": 1,
-      "reddit_score": 17,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xshbht"
+      "reddit_score": 28,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xtiy72"
     },
     {
       "id": "d3c374bd1f2feedc",
@@ -1716,9 +1716,9 @@
       "cluster_id": "c51b9600e573beb2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 17,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xshbht"
+      "reddit_score": 28,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xtiy72"
     },
     {
       "id": "d4768e28d2fe7832",
@@ -3095,7 +3095,7 @@
       "page_attempts": 2,
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 201,
       "reddit_comments": 8,
@@ -3754,7 +3754,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
       "reddit_score": 236,
       "reddit_comments": 36,
@@ -3782,11 +3782,11 @@
       "page_fetched": true,
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8,
-      "reddit_score": 17,
-      "reddit_comments": 0,
-      "reddit_id": "t3_1xshbht"
+      "reddit_score": 28,
+      "reddit_comments": 2,
+      "reddit_id": "t3_1xtiy72"
     },
     {
       "id": "b531c2013e530eba",
@@ -3963,7 +3963,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 49,
+      "cluster_item_count": 56,
       "cluster_source_count": 8
     },
     {

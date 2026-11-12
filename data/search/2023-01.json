@@ -1,7 +1,29 @@
 {
   "month": "2023-01",
-  "count": 1,
+  "count": 3,
   "items": [
+    {
+      "id": "305d2cda4c9ad703",
+      "date": "2023-01-29",
+      "published_at": "2023-01-29T17:49:18+08:00",
+      "title_zh": "“男人戴锯齿形发带从来不好看”：推特用户的言论吸引了网上的恶搞",
+      "title_en": "‘Guys Never Look Good in Zigzag Hairband’: Twitter User’s Remark Attracts Trolls Online",
+      "summary_zh": "一名网友因对戴锯齿形发带的男性发表负面言论而遭到猛烈抨击。他贴出了一张头带的照片，并写道，“没有人戴过这个东西看起来很好看”。",
+      "summary_en": "An internet user was slammed for his negative remark on men wearing the zigzag hairband. He posted a picture of the headband and wrote, 'no guy has ever looked good wearing this thing'.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/untitled-83-167498535416x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/guys-never-look-good-in-zigzag-hairband-twitter-users-remark-attracts-trolls-online-6944023.html",
+      "translation_status": "fallback",
+      "cluster_id": "305d2cda4c9ad703",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "235f3e1ebb85ed33",
       "date": "2023-01-25",
@@ -19,6 +41,28 @@
       "url": "https://www.news18.com/buzz/microsoft-teams-down-memes-take-over-as-office-employees-celebrate-break-6913849.html",
       "translation_status": "fallback",
       "cluster_id": "235f3e1ebb85ed33",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f7937cfa1d0576c0",
+      "date": "2023-01-19",
+      "published_at": "2023-01-19T20:33:06+08:00",
+      "title_zh": "索南·巴杰瓦 (Sonam Bajwa) 通过“萨拉”推文驳斥了与舒布曼·吉尔 (Shubhman Gill) 约会的谣言",
+      "title_en": "Sonam Bajwa Dismisses Rumours of Dating Shubhman Gill With a 'Sara' Tweet",
+      "summary_zh": "在所有这些争议中，板球运动员舒布曼·吉尔 (Shubhman Gil) 与模特索南·巴杰瓦 (Sonam Bajwa) 握手的照片在社交媒体上疯传，并引起了热烈的反响。",
+      "summary_en": "Amid all of these controversies, an image of the cricketer Shubhman Gil shaking hands with model Sonam Bajwa has gone viral on social media and attracted hilarious responses.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/sonam-bajwa-167413149716x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/sonam-bajwa-dismisses-rumours-of-dating-shubhman-gill-with-a-sara-tweet-6870697.html",
+      "translation_status": "fallback",
+      "cluster_id": "f7937cfa1d0576c0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

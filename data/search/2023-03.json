@@ -1,7 +1,29 @@
 {
   "month": "2023-03",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "6640a0624f55a749",
+      "date": "2023-03-28",
+      "published_at": "2023-03-28T12:08:14+08:00",
+      "title_zh": "RCB 的丹麦人 Sait Aka Mr Nags 已经赢得了 IPL 奖杯，这是证据",
+      "title_en": "Danish Sait Aka Mr Nags of RCB Has Already Won an IPL Trophy, Here's Proof",
+      "summary_zh": "丹麦赛特（Danish Sait），也被称为纳格斯先生，最近在推特上发布了一张自己坐在 IPL 奖杯上的照片，证明他已经赢得了冠军，这与其他 RCB 明星不同。",
+      "summary_en": "Danish Sait, who is also known as Mr. Nags, recently tweeted a photo of himself sitting with an IPL trophy, proving that he has already won one, unlike the other RCB stars.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/03/untitled-design-51-1-167997636916x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/danish-sait-aka-mr-nags-of-rcb-has-already-won-an-ipl-trophy-heres-proof-7401259.html",
+      "translation_status": "fallback",
+      "cluster_id": "6640a0624f55a749",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "2897fa32b2dd35cb",
       "date": "2023-03-27",

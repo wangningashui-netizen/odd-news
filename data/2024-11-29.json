@@ -1,0 +1,32 @@
+{
+  "date": "2024-11-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "7d6b77fd9867d236",
+      "url": "https://www.news18.com/viral/onlyfans-star-sophie-rain-earns-over-rs-367-crore-a-year-thats-rs-99-lakh-a-day-9139647.html",
+      "title_en": "OnlyFans Star Sophie Rain Earns Over Rs 367 Crore A Year. That’s More Than Rs 1 Crore A Day",
+      "title_zh": "OnlyFans 明星 Sophie Rain 年收入超过 36.7 亿卢比。每天超过 1 千万卢比",
+      "summary_en": "OnlyFans Star Sophie Rain, who made more than Rs 367 crore in a year, used a part of her earnings to pay off her parents' debt.",
+      "summary_zh": "OnlyFans 明星索菲·雷恩 (Sophie Rain) 年收入超过 36.7 亿卢比，她用部分收入偿还了父母的债务。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/11/onlyfans-star-sophie-rain-viral-2024-11-91b85cfed7f4c12d6d930ff101269ca2-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-11-29T18:28:29+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7d6b77fd9867d236",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

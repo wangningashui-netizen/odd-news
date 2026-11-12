@@ -1,0 +1,32 @@
+{
+  "date": "2022-12-23",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "9af8f631007b6fe9",
+      "url": "https://www.news18.com/buzz/lionel-messi-wears-four-year-old-lucky-ribbon-gifted-to-him-by-fan-in-fifa-world-cup-6676273.html",
+      "title_en": "Lionel Messi Wears Four-year-old Lucky Ribbon Gifted to Him by Fan in FIFA World Cup",
+      "title_zh": "莱昂内尔·梅西 (Lionel Messi) 佩戴着球迷在 FIFA 世界杯上送给他的四岁幸运丝带",
+      "summary_en": "In FIFA World Cup 2022, Lionel Messi was seen wearing the same red ribbon on his left ankle that was given to him by an Argentinian journalist four years back as token of good luck",
+      "summary_zh": "在 2022 年 FIFA 世界杯上，人们看到莱昂内尔·梅西的左脚踝上系着四年前一位阿根廷记者送给他的红丝带，以示好运",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/12/untitled-54-2-167176584316x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2022-12-23T10:52:22+08:00",
+      "fetched_at": "2026-11-12T11:42:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9af8f631007b6fe9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
