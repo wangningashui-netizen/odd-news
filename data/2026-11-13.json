@@ -1,0 +1,472 @@
+{
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "cac2d23664b11bca",
+      "url": "https://x.com/BJP4India/status/2120930008302825950",
+      "title_en": "Deepawali Milan: Moments from PM Modi’s interaction with journalists at BJP HQ, New Delhi. ⬇️📷 https://t.co/StjjgJM6oW",
+      "title_zh": "BJP晒莫迪在党总部与记者的排灯节联欢瞬间",
+      "summary_en": "Deepawali Milan: Moments from PM Modi’s interaction with journalists at BJP HQ, New Delhi. ⬇️📷 https://t.co/StjjgJM6oW",
+      "summary_zh": "印度人民党官方账号发布视频，展示莫迪总理在新德里BJP总部“排灯节联欢”（Deepawali Milan）上与记者互动的画面。评论区有人质疑为何没看到部分批评政府的记者，也有人称赞莫迪。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T01:21:33+08:00",
+      "fetched_at": "2026-11-13T06:57:09+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2120930008302825950",
+        "lang": "en",
+        "text": "Deepawali Milan: Moments from PM Modi’s interaction with journalists at BJP HQ, New Delhi. ⬇️📷 https://t.co/StjjgJM6oW",
+        "author": {
+          "name": "BJP",
+          "username": "BJP4India",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2053703215859077120/IH9nn6qD_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatar.jpg"
+        },
+        "created_at": "2026-11-12T17:21:33.000Z",
+        "public_metrics": {
+          "reply_count": 24,
+          "repost_count": 118,
+          "like_count": 647,
+          "quote_count": 1,
+          "bookmark_count": 8,
+          "impression_count": 17837
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120928878399311872/vid/avc1/720x1280/-i4LL5OTplbKtc97.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-13T06:57:09+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/BJP4India/status/2120930008302825950",
+        "ytdlp_command": "yt-dlp https://x.com/BJP4India/status/2120930008302825950",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120981158431514649",
+            "author": {
+              "name": "Dharanidhar Bag",
+              "username": "bag_dharan58580",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2093932036067295232/Xmmc2IG__normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/bag_dharan58580.jpg"
+            },
+            "text": "@BJP4India https://t.co/ZpTVOrdVP4",
+            "created_at": "2026-11-12T20:44:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120940501914489178",
+            "author": {
+              "name": "Kaushal Baghel",
+              "username": "Kaushalbaghel01",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2105505738521288704/DiFXT42v_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/Kaushalbaghel01.jpg"
+            },
+            "text": "@BJP4India उत्तर प्रदेश में सपा ने PDA परिवार के कार्यकर्ताओं  साथ किया घोटाला\nराज्यसभा की एक सीट अपने परिवार में ओर दूसरी सीट अन्य राज्य के व्यक्ति को बेचकर कार्यकर्ताओं को य झुनझुना पकड़ा दिया बोलते है कि 2027 मेंआरहे हैं।इसका जवाब ओबीसी  पिछड़े कार्यकर्ता 2027 में कमल का फूल खिलाकर देंगे",
+            "created_at": "2026-11-12T18:03:15.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 58
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120936861489393857",
+            "author": {
+              "name": "मैं भी चौकीदार 2.0",
+              "username": "AdyAl08",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1650590612213895169/S5J08oRg_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/AdyAl08.jpg"
+            },
+            "text": "@BJP4India They seemed caged 🐕 🤣",
+            "created_at": "2026-11-12T17:48:47.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 65
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120934247829840297",
+            "author": {
+              "name": "बकैत बिलौटा",
+              "username": "BakaitBilauta",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1947615508997820416/kkndqrJp_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/BakaitBilauta.jpg"
+            },
+            "text": "@BJP4India Why can't I see Ravish, Abhishar, Arfa etc. ? Are they not journalists?",
+            "created_at": "2026-11-12T17:38:24.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 63
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120936639363179001",
+            "author": {
+              "name": "मैं भी चौकीदार 2.0",
+              "username": "AdyAl08",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1650590612213895169/S5J08oRg_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/AdyAl08.jpg"
+            },
+            "text": "@BJP4India दलाली मिलन !! 🪔",
+            "created_at": "2026-11-12T17:47:54.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 61
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120956572063187220",
+            "author": {
+              "name": "Vish-dom 🏴‍☠️ 🏴‍☠️",
+              "username": "twitvishy",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1921926535247761408/Kxod3oUR_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/twitvishy.jpg"
+            },
+            "text": "@BJP4India Democracy is insulted when media started bootlicking instead of asking questions....what a shame..",
+            "created_at": "2026-11-12T19:07:06.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 54
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120971663382892567",
+            "author": {
+              "name": "DABENDRA NATH KARAN",
+              "username": "kiru_debu",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/693156253560733696/Y3-VR9NM_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/kiru_debu.jpg"
+            },
+            "text": "@BJP4India Tremendous gesture befitting to the occasion. Our country is truly blessed to have him as Prime Minister. God give him long &amp; healthy life.",
+            "created_at": "2026-11-12T20:07:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 37
+            },
+            "in_reply_to_id": "2120930008302825950"
+          },
+          {
+            "id": "2120953132549292507",
+            "author": {
+              "name": "san♕",
+              "username": "San_miracles",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111513638423212032/LW5ctykP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/avatars/San_miracles.jpg"
+            },
+            "text": "@BJP4India 🇲‌🇴‌🇩‌🇮‌ 🇴‌🇳‌  🇬‌🇱‌🇴‌🇧‌🇦‌🇱‌ 🇸‌🇹‌🇦‌🇬‌🇪‌ https://t.co/z4ufBxcDBz",
+            "created_at": "2026-11-12T18:53:26.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 35
+            },
+            "in_reply_to_id": "2120930008302825950"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "22862e718ccd8a80f01b922ada74444af1c06ef9",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "cac2d23664b11bca",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "e8fc2bf8cc8c78c1",
+      "url": "https://x.com/BJP4India/status/2120927339085541397",
+      "title_en": "पश्चिम एशिया में जब युद्ध का संकट बढ़ रहा था, तब कच्चे तेल की कीमतें कुछ ही हफ्तों में 70 डॉलर से बढ़कर 122 डॉलर प्रति बैरल तक पहुंच गई थीं। तब भारत के सामने मजबूरी थी कि कम से कम एक लीटर डीजल पर 50 रुपये बढ़ाए जाएं। तब सरकार ने अपने किसानों के हित में निर्णय लिया। हमने तय किया कि अंतरराष्ट्रीय बाजा",
+      "title_zh": "莫迪：原油从70涨到122美元，柴油本该涨50卢比，政府只涨7卢比、每月亏1400亿卢比",
+      "summary_en": "पश्चिम एशिया में जब युद्ध का संकट बढ़ रहा था, तब कच्चे तेल की कीमतें कुछ ही हफ्तों में 70 डॉलर से बढ़कर 122 डॉलर प्रति बैरल तक पहुंच गई थीं। तब भारत के सामने मजबूरी थी कि कम से कम एक लीटर डीजल पर 50 रुपये बढ़ाए जाएं।\n\nतब सरकार ने अपने किसानों के हित में निर्णय लिया। हमने तय किया कि अंतरराष्ट्रीय बाजारों के झटके का पूरा बोझ देश के नागरिकों और किसानों पर नहीं डाला जाएगा।\n\nसरकार ने डीजल के दाम सिर्फ 7 रुपये बढ़ाए और 43 रुपये प्रति लीटर का बोझ खुद उठाया।\n\nतब से लेकर अब तक, सरकार हर महीने 14,000 करोड़ रुपये का नुकसान उठा रही है। लेकिन हमने देश के किसानों पर आंच नहीं आने दी।\n\n- पीएम श्री @narendramodi \n\nपूरा देखें:\nhttps://t.co/5iaNsqbEGw",
+      "summary_zh": "BJP发布莫迪讲话视频：西亚战事期间原油价格几周内从每桶70美元涨到122美元，柴油本需每升至少上涨50卢比；政府只涨了7卢比，自行承担每升43卢比，此后每月承受1400亿卢比（14,000 crore）损失，以保护农民。评论区有人反驳并提到汽油“掺假”伤发动机。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T01:10:57+08:00",
+      "fetched_at": "2026-11-13T06:57:29+08:00",
+      "tags": [
+        "军事政治",
+        "交通火车"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2120927339085541397",
+        "lang": "hi",
+        "text": "पश्चिम एशिया में जब युद्ध का संकट बढ़ रहा था, तब कच्चे तेल की कीमतें कुछ ही हफ्तों में 70 डॉलर से बढ़कर 122 डॉलर प्रति बैरल तक पहुंच गई थीं। तब भारत के सामने मजबूरी थी कि कम से कम एक लीटर डीजल पर 50 रुपये बढ़ाए जाएं।\n\nतब सरकार ने अपने किसानों के हित में निर्णय लिया। हमने तय किया कि अंतरराष्ट्रीय बाजारों के झटके का पूरा बोझ देश के नागरिकों और किसानों पर नहीं डाला जाएगा।\n\nसरकार ने डीजल के दाम सिर्फ 7 रुपये बढ़ाए और 43 रुपये प्रति लीटर का बोझ खुद उठाया।\n\nतब से लेकर अब तक, सरकार हर महीने 14,000 करोड़ रुपये का नुकसान उठा रही है। लेकिन हमने देश के किसानों पर आंच नहीं आने दी।\n\n- पीएम श्री @narendramodi \n\nपूरा देखें:\nhttps://t.co/5iaNsqbEGw",
+        "author": {
+          "name": "BJP",
+          "username": "BJP4India",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2053703215859077120/IH9nn6qD_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatar.jpg"
+        },
+        "created_at": "2026-11-12T17:10:57.000Z",
+        "public_metrics": {
+          "reply_count": 9,
+          "repost_count": 32,
+          "like_count": 72,
+          "quote_count": 0,
+          "bookmark_count": 2,
+          "impression_count": 3761
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120925799713034240/vid/avc1/1920x1080/B9LRzCAF59-gy1nh.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-13T06:57:29+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/BJP4India/status/2120927339085541397",
+        "ytdlp_command": "yt-dlp https://x.com/BJP4India/status/2120927339085541397",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2120935394061832217",
+            "author": {
+              "name": "mukadar ali",
+              "username": "mukadarali2005",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/mukadarali2005.jpg"
+            },
+            "text": "@BJP4India Modi ji 2014 se pahle क्रूड ऑयल की कीमत 110 पल्स थी तब पेट्रोल 60 से कम रुपए में मिलता था",
+            "created_at": "2026-11-12T17:42:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120949251144601902",
+            "author": {
+              "name": "विश्व गुरु फेंकू...",
+              "username": "GenZAplha1",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/GenZAplha1.jpg"
+            },
+            "text": "@BJP4India बीजेपी की पिछले सालों में औसतन आय 600 करोड़ से 4700+ करोड़ हो गई। इन 10 सालों में इतना पैसा कहां से आया।\n\nदेश की बरबादी देखनी है तो सरकारी हॉस्पिटल ओर स्कूल \n\nविकाश देखना है तो बीजेपी के हाई टेक फैसिलिटी ऑफिस ओर नेताओं के घर।\n\nये बीजेपी हाई टेक फैसिलिटी ऑफिस है । https://t.co/bsUyqSbCQl",
+            "created_at": "2026-11-12T18:38:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120947337736695959",
+            "author": {
+              "name": "विश्व गुरु फेंकू...",
+              "username": "GenZAplha1",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/GenZAplha1.jpg"
+            },
+            "text": "@BJP4India साकार नुकसान उठा रही है।  \n\nजिस प्रधानमंत्री मंत्री को इज्जत भी जनता के tax के पैसे खरीदनी पड़े उस 🐴 कुछ नहीं कर सकते\n\nबीजेपी ने ब्लैक से व्हाइट में चंदा वसूली करने के लिए  इलेक्ट्रॉल बोंड निकाला जिसमें illigal चंदा का पैसा आता है ये बीजेपी का हाई टेक ऑफिस इतना पैसा कहां से आया https://t.co/UY3bYNknbK",
+            "created_at": "2026-11-12T18:30:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120942097754931431",
+            "author": {
+              "name": "MJK",
+              "username": "MosawirJ",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1944110750986797056/dYHemGzN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/MosawirJ.jpg"
+            },
+            "text": "@BJP4India You sided izrael in war and encouraged izrael also...\nCalled them Fathers...\n\nAnd that war caused devastation for whole world ...",
+            "created_at": "2026-11-12T18:09:35.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 6
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120942328835879171",
+            "author": {
+              "name": "MJK",
+              "username": "MosawirJ",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1944110750986797056/dYHemGzN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/MosawirJ.jpg"
+            },
+            "text": "@BJP4India You are a big liar.... and drama...\n\nYou even polluted petrol and damaged cars engine of 100s of thousands ...",
+            "created_at": "2026-11-12T18:10:31.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120980521048232338",
+            "author": {
+              "name": "Indian : problem solver",
+              "username": "Vishalovi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/917025138360467457/tN3snA09_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/Vishalovi.jpg"
+            },
+            "text": "@BJP4India Govt just needs strategy to save loss without increasing price and tax. This is the problem of beaurcracy when govt selection hires an ineligible person. I easily know what to do in such situations to make no loss no profit situations.",
+            "created_at": "2026-11-12T20:42:16.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120962872566305220",
+            "author": {
+              "name": "Jatinder",
+              "username": "Jt_robot",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/591314161587642368/Rsr8NOTS_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/Jt_robot.jpg"
+            },
+            "text": "@BJP4India सही बात: किसानों को ₹50 के डीज़ल झटके से बचाना सही फ़ैसला था।\n\nपर सरकार का पैसा जनता का ही पैसा है, इसलिए ₹43 का बोझ आख़िर किसी ने तो उठाया: टैक्स, कर्ज़ या तेल कंपनियों के घाटे से। हिसाब दीजिए: कुल ख़र्च कितना, किसने चुकाया, और कच्चा तेल सस्ता होने पर दाम उतनी ही तेज़ी से",
+            "created_at": "2026-11-12T19:32:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2120927339085541397"
+          },
+          {
+            "id": "2120930163265593791",
+            "author": {
+              "name": "Anshu Chudasama",
+              "username": "anshuchudasama_",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2017939682416640000/jafNuxYF_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/avatars/anshuchudasama_.jpg"
+            },
+            "text": "@BJP4India Kal se PR ka Mela laga tha, Modi ji ke ek Tweet ne poora Tamasha hi badal diya! 🤣\n\n#NarendraModi #Congress #ModiKahinNahiJayega https://t.co/nV44W3QJ3I",
+            "created_at": "2026-11-12T17:22:10.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2120927339085541397"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "66b38f0f564a3aa7db0da3bcd7d946a8282af8c7",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "e8fc2bf8cc8c78c1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -250,7 +250,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-05T15:56:08+08:00",
-      "fetched_at": "2026-11-12T06:56:02+08:00",
+      "fetched_at": "2026-11-13T06:56:36+08:00",
       "tags": [
         "街头食物",
         "犯罪法律"
@@ -281,7 +281,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118250974997360640/vid/avc1/720x1280/uxgz6mbTN1TpmlCG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-12T06:56:02+08:00",
+        "video_url_resolved_at": "2026-11-13T06:56:36+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/PressSecretary7/status/2118250999898882303",
