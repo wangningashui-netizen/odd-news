@@ -755,7 +755,194 @@
     return next();
   }
 
+  setupMobileChrome();
+
   statusEl.textContent = "正在加载选题库…";
+
+  function setupMobileChrome() {
+    var toolbar = document.getElementById("toolbar");
+    var spacer = document.getElementById("toolbar-spacer");
+    var bar = document.getElementById("mobile-bar");
+    var toggle = document.getElementById("filter-toggle");
+    var label = toggle ? toggle.querySelector(".filter-toggle-label") : null;
+    var backdrop = document.getElementById("filter-backdrop");
+    if (!toolbar || !spacer || !bar || !toggle || !label || !backdrop) return;
+
+    var mq = window.matchMedia("(max-width: 719px), (max-height: 520px)");
+    var overlay = false;
+    var scrollAtOpen = 0;
+    var lockUntil = 0;
+    var wasMobile = false;
+    var barShown = false;
+    var ticking = false;
+    var relockTimer = 0;
+
+    function mobile() { return !!mq.matches; }
+
+    function setLabel(open) {
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      label.textContent = open ? "收起" : "筛选";
+    }
+
+    function filtersActive() {
+      var search = document.getElementById("search");
+      var source = document.getElementById("source");
+      var sort = document.getElementById("sort");
+      var angle = document.getElementById("angle");
+      var regionOn = false;
+      var regionButtons = document.querySelectorAll("#regions button[aria-pressed='true']");
+      var i;
+      for (i = 0; i < regionButtons.length; i += 1) {
+        if ((regionButtons[i].textContent || "").indexOf("全部地区") !== 0) regionOn = true;
+      }
+      var tagOn = !!document.querySelector("#topics button[aria-pressed='true']");
+      return !!((search && search.value.trim()) ||
+        (source && source.value) ||
+        (sort && sort.value && sort.value !== "time") ||
+        (angle && angle.value) ||
+        regionOn || tagOn);
+    }
+
+    function markActive() {
+      toggle.classList.toggle("has-active", filtersActive());
+    }
+
+    function showBar(show) {
+      barShown = !!show && mobile();
+      bar.hidden = !barShown;
+    }
+
+    function syncPin() {
+      var vv = window.visualViewport;
+      var top = vv ? (vv.offsetTop || 0) : 0;
+      var shift = top ? "translate3d(0," + top + "px,0)" : "";
+      bar.style.transform = shift;
+      toolbar.style.transform = overlay ? shift : "";
+    }
+
+    function closeOverlay() {
+      if (!overlay) return;
+      overlay = false;
+      toolbar.classList.remove("is-overlay");
+      spacer.hidden = true;
+      spacer.style.height = "0px";
+      backdrop.hidden = true;
+      setLabel(false);
+      syncPin();
+      lockUntil = Date.now() + 350;
+    }
+
+    function openOverlay() {
+      if (overlay || !mobile()) return;
+      showBar(true);
+      var barHeight = bar.getBoundingClientRect().height || 48;
+      document.documentElement.style.setProperty("--mobile-bar-offset", barHeight + "px");
+      var height = toolbar.getBoundingClientRect().height;
+      if (height < 1) return;
+      spacer.style.height = height + "px";
+      spacer.hidden = false;
+      toolbar.classList.add("is-overlay");
+      toolbar.scrollTop = 0;
+      overlay = true;
+      backdrop.hidden = false;
+      setLabel(true);
+      scrollAtOpen = window.scrollY || window.pageYOffset || 0;
+      syncPin();
+      lockUntil = Date.now() + 350;
+    }
+
+    function resetDesktop() {
+      closeOverlay();
+      showBar(false);
+      toolbar.classList.remove("is-overlay");
+      spacer.hidden = true;
+      spacer.style.height = "0px";
+      toolbar.style.transform = "";
+      setLabel(false);
+    }
+
+    function naturalBottom() {
+      return (overlay ? spacer : toolbar).getBoundingClientRect().bottom;
+    }
+
+    function update() {
+      if (!mobile()) {
+        if (wasMobile || overlay || barShown) resetDesktop();
+        wasMobile = false;
+        return;
+      }
+      wasMobile = true;
+      syncPin();
+      markActive();
+      var y = window.scrollY || window.pageYOffset || 0;
+      if (overlay && Date.now() < lockUntil) {
+        if (!relockTimer) {
+          relockTimer = window.setTimeout(function () {
+            relockTimer = 0;
+            update();
+          }, Math.max(16, lockUntil - Date.now() + 16));
+        }
+      } else if (overlay) {
+        var spacerBottom = spacer.getBoundingClientRect().bottom;
+        var dy = y - scrollAtOpen;
+        if (spacerBottom > 48 || dy > 48 || dy < -48) closeOverlay();
+      }
+      var bottom = naturalBottom();
+      if (overlay) showBar(true);
+      else if (bottom < -4) showBar(true);
+      else if (bottom > 20) showBar(false);
+    }
+
+    function requestUpdate() {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(function () {
+        ticking = false;
+        update();
+      });
+    }
+
+    toggle.addEventListener("click", function () {
+      if (!mobile()) return;
+      if (overlay) closeOverlay();
+      else openOverlay();
+      update();
+    });
+    backdrop.addEventListener("click", function () {
+      closeOverlay();
+      update();
+    });
+    backdrop.addEventListener("touchmove", function () {
+      if (!overlay) return;
+      closeOverlay();
+      update();
+    }, { passive: true });
+    backdrop.addEventListener("wheel", function () {
+      if (!overlay) return;
+      closeOverlay();
+      update();
+    }, { passive: true });
+    document.addEventListener("keydown", function (event) {
+      if (event.key !== "Escape" || !overlay) return;
+      var box = document.getElementById("lightbox");
+      if (box && !box.hidden) return;
+      closeOverlay();
+      update();
+    });
+    toolbar.addEventListener("input", markActive);
+    toolbar.addEventListener("change", markActive);
+    toolbar.addEventListener("click", function () { window.setTimeout(markActive, 0); });
+    window.addEventListener("scroll", requestUpdate, { passive: true });
+    window.addEventListener("resize", requestUpdate);
+    window.addEventListener("pageshow", requestUpdate);
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener("resize", requestUpdate);
+      window.visualViewport.addEventListener("scroll", requestUpdate);
+    }
+    if (mq.addEventListener) mq.addEventListener("change", requestUpdate);
+    else if (mq.addListener) mq.addListener(requestUpdate);
+    update();
+  }
   Promise.all([loadJson("data/index.json"), loadJson("data/search-index.json")])
     .then(function (pair) {
       var index = pair[0];
