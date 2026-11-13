@@ -1,8 +1,1067 @@
 {
   "date": "2026-11-13",
   "timezone": "Asia/Shanghai",
-  "count": 27,
+  "count": 33,
   "items": [
+    {
+      "id": "053915c2844b203d",
+      "url": "https://x.com/BJP4India/status/2121271100646752600",
+      "title_en": "अंतरराष्ट्रीय बाजार में ₹3,000 की यूरिया बोरी किसानों को भारत में सिर्फ ₹300 में मिल रही है। सस्ती खाद उपलब्ध कराने के लिए मोदी सरकार ने 12 वर्षों में ₹16 लाख करोड़ खर्च किए हैं। 💰",
+      "title_zh": "BJP：国际市场3000卢比一袋的尿素，印度农民只花300卢比",
+      "summary_en": "अंतरराष्ट्रीय बाजार में ₹3,000 की यूरिया बोरी किसानों को भारत में सिर्फ ₹300 में मिल रही है।\n\nसस्ती खाद उपलब्ध कराने के लिए मोदी सरकार ने 12 वर्षों में ₹16 लाख करोड़ खर्च किए हैं। 💰",
+      "summary_zh": "印度人民党发视频称，国际市场上3000卢比一袋的尿素，在印度农民只需300卢比就能买到，莫迪政府12年来为提供廉价化肥花了16拉克克若尔（16万亿卢比）。评论区不少人反驳说国大党执政时尿素同样有补贴，只是没这么高调宣传。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T23:56:56+08:00",
+      "fetched_at": "2026-11-14T06:56:47+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2121271100646752600",
+        "lang": "hi",
+        "text": "अंतरराष्ट्रीय बाजार में ₹3,000 की यूरिया बोरी किसानों को भारत में सिर्फ ₹300 में मिल रही है।\n\nसस्ती खाद उपलब्ध कराने के लिए मोदी सरकार ने 12 वर्षों में ₹16 लाख करोड़ खर्च किए हैं। 💰",
+        "author": {
+          "name": "BJP",
+          "username": "BJP4India",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2053703215859077120/IH9nn6qD_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatar.jpg"
+        },
+        "created_at": "2026-11-13T15:56:56.000Z",
+        "public_metrics": {
+          "reply_count": 77,
+          "repost_count": 168,
+          "like_count": 452,
+          "quote_count": 7,
+          "bookmark_count": 4,
+          "impression_count": 20063
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2121264865709080576/vid/avc1/1080x1920/OTexpdXofCbu5wM2.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-14T06:56:47+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/BJP4India/status/2121271100646752600",
+        "ytdlp_command": "yt-dlp https://x.com/BJP4India/status/2121271100646752600",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2121300504244535621",
+            "author": {
+              "name": "sushil kumar singh",
+              "username": "sushilkr1979",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1864549723668971520/TBNO_WJ9_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/sushilkr1979.jpg"
+            },
+            "text": "@BJP4India मुंह में राम बगल में छुरी l इससे अच्छा उदाहरण यूरेशिया में भी नहीं होगी l अपने मुंह मियां मिट्ठू l",
+            "created_at": "2026-11-13T17:53:46.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 78
+            },
+            "in_reply_to_id": "2121271100646752600"
+          },
+          {
+            "id": "2121308871293858101",
+            "author": {
+              "name": "Manish Jha",
+              "username": "ManishJ57215016",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1397254785347112962/q84p-IRu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/ManishJ57215016.jpg"
+            },
+            "text": "@BJP4India Koi churan kaam nahi karne wala is baar",
+            "created_at": "2026-11-13T18:27:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2121271100646752600"
+          },
+          {
+            "id": "2121308967448215556",
+            "author": {
+              "name": "Satta-Charitra",
+              "username": "Sattacharitra",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2082051407985930240/1FLLS1t-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/Sattacharitra.jpg"
+            },
+            "text": "@BJP4India Similar subsidy was given to farmers during congress regime as well but difference was that they never boast  about it so loud in 70 years. Yahan 12 saal mein hi cheekhen nikal rahi hai. Impact of falling rupee against USD is also a factor. Jai Shri Ram !",
+            "created_at": "2026-11-13T18:27:24.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2121271100646752600"
+          },
+          {
+            "id": "2121304819201925129",
+            "author": {
+              "name": "veerareddyp",
+              "username": "VeeraVijaya",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2100308181604012032/PtYntiQ8_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/VeeraVijaya.jpg"
+            },
+            "text": "@BJP4India A cup of coffee in is ₹20/ in India where as in international market ₹240/-\nIs it not a Modi Ji magic as in the case of urea bag cost?",
+            "created_at": "2026-11-13T18:10:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2121271100646752600"
+          },
+          {
+            "id": "2121302079591625186",
+            "author": {
+              "name": "Anand Pal",
+              "username": "AnandPalAP",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1701209314135080960/pjgkeoYw_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/AnandPalAP.jpg"
+            },
+            "text": "@BJP4India भाजपा वालों मोदी जी अपनी जेब से रकम खर्च कर किसानों को बोरी खरीद कर दे रहे हैं क्या",
+            "created_at": "2026-11-13T18:00:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 14
+            },
+            "in_reply_to_id": "2121271100646752600"
+          },
+          {
+            "id": "2121347575718756571",
+            "author": {
+              "name": "sarvesh",
+              "username": "sarveshhxre",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/sarveshhxre.jpg"
+            },
+            "text": "@BJP4India ऐसे ही जुमले सुनाते रहिए। उत्तर प्रदेश तो हरवा ही दिया लेकिन जब तक लोकसभा चुनाव आएगा भाजपा समाप्ति की कगार पर होगी।",
+            "created_at": "2026-11-13T21:00:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2121271100646752600"
+          },
+          {
+            "id": "2121334539566125497",
+            "author": {
+              "name": "DASARATH ⚡",
+              "username": "HansDashrath",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1489897416216444931/JHhj3maT_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/avatars/HansDashrath.jpg"
+            },
+            "text": "@BJP4India Jholachaap Mantriyo ke chalte aj desh ka bura haal hai.\nThis govt is unable to develop the nation and it's 150cr people.",
+            "created_at": "2026-11-13T20:09:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2121271100646752600"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "90101146033fba883c89310e311819d4957de5fc",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "053915c2844b203d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "4f5f694b2938a225",
+      "url": "https://x.com/AshwiniVaishnaw/status/2121267019282858416",
+      "title_en": "New milestone in Karnataka’s rail connectivity! 🚄 Bengaluru–Mangaluru–Madgaon Vande Bharat flagged off 🚉 4 Amrit Stations inaugurated 🛤️ Doubling &amp; electrification projects dedicated https://t.co/Mh19Gnopju",
+      "title_zh": "铁道部长：班加罗尔—门格洛尔—马德冈“Vande Bharat”开通，4座Amrit车站同日启用",
+      "summary_en": "New milestone in Karnataka’s rail connectivity!\n\n🚄 Bengaluru–Mangaluru–Madgaon Vande Bharat flagged off\n🚉 4 Amrit Stations inaugurated \n🛤️ Doubling &amp; electrification projects dedicated https://t.co/Mh19Gnopju",
+      "summary_zh": "印度铁道部长阿什维尼·瓦伊什瑙发视频称，卡纳塔克邦铁路迎来新里程碑：班加罗尔—门格洛尔—马德冈 Vande Bharat 列车发车，4座“Amrit”车站揭幕，多项复线和电气化工程投入使用。评论区有人追问维沙卡帕特南卫星站迟迟未建，也有人吐槽列车厕所异味和夜间噪音。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T23:40:43+08:00",
+      "fetched_at": "2026-11-14T06:56:37+08:00",
+      "tags": [
+        "交通火车",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2121267019282858416",
+        "lang": "en",
+        "text": "New milestone in Karnataka’s rail connectivity!\n\n🚄 Bengaluru–Mangaluru–Madgaon Vande Bharat flagged off\n🚉 4 Amrit Stations inaugurated \n🛤️ Doubling &amp; electrification projects dedicated https://t.co/Mh19Gnopju",
+        "author": {
+          "name": "Ashwini Vaishnaw",
+          "username": "AshwiniVaishnaw",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054709198148317184/aU5xM1Nx_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatar.jpg"
+        },
+        "created_at": "2026-11-13T15:40:43.000Z",
+        "public_metrics": {
+          "reply_count": 50,
+          "repost_count": 452,
+          "like_count": 3136,
+          "quote_count": 6,
+          "bookmark_count": 54,
+          "impression_count": 47368
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2121266926475415552/vid/avc1/1920x1080/nxax8dEdVoIflBL8.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-14T06:56:37+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/AshwiniVaishnaw/status/2121267019282858416",
+        "ytdlp_command": "yt-dlp https://x.com/AshwiniVaishnaw/status/2121267019282858416",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2121290674964455876",
+            "author": {
+              "name": "Sharan",
+              "username": "sharankalyan424",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1981262621056643072/bORWDuWB_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/sharankalyan424.jpg"
+            },
+            "text": "@AshwiniVaishnaw Visakapatnam still waiting for its official satellite station since 2019 🤡 just zone is given but Uttarandhra people in vizag, Vizianagaram , srikakulam will continue to suffer without train and struck in outskirts of vskp station forever sir 🙏🥹",
+            "created_at": "2026-11-13T17:14:43.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 185
+            },
+            "in_reply_to_id": "2121267019282858416"
+          },
+          {
+            "id": "2121314508589486299",
+            "author": {
+              "name": "Sachin K",
+              "username": "SachinK93862137",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/SachinK93862137.jpg"
+            },
+            "text": "@AshwiniVaishnaw Sir, launching new train is always good, but toilet smell and disturbance from fellow passengers even at night which kills our sleep should be addressed",
+            "created_at": "2026-11-13T18:49:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 90
+            },
+            "in_reply_to_id": "2121267019282858416"
+          },
+          {
+            "id": "2121322956391633042",
+            "author": {
+              "name": "Vinayaka Bhatta",
+              "username": "VinayakVBhatta",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/644476609055973376/MVocR_WZ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/VinayakVBhatta.jpg"
+            },
+            "text": "@AshwiniVaishnaw Thank you sir. We need more trains in Bengaluru Karwar section as Panchaganga express is always overbooked.",
+            "created_at": "2026-11-13T19:22:59.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 75
+            },
+            "in_reply_to_id": "2121267019282858416"
+          },
+          {
+            "id": "2121284755136397795",
+            "author": {
+              "name": "Ashrith Ash",
+              "username": "AshrithAsh12",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1625680226314522624/smNxo-75_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/AshrithAsh12.jpg"
+            },
+            "text": "@AshwiniVaishnaw @Grok This train come Chikmagalur?",
+            "created_at": "2026-11-13T16:51:11.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 400
+            },
+            "in_reply_to_id": "2121267019282858416"
+          },
+          {
+            "id": "2121285917029896293",
+            "author": {
+              "name": "Shubha Shrirama Prasad",
+              "username": "PrasadShrirama",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1530376862480105472/C1CAZL7n_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/PrasadShrirama.jpg"
+            },
+            "text": "@AshwiniVaishnaw Thanks a lot for helping the Mangaloreans.",
+            "created_at": "2026-11-13T16:55:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 377
+            },
+            "in_reply_to_id": "2121267019282858416"
+          },
+          {
+            "id": "2121289160996929556",
+            "author": {
+              "name": "Sj..",
+              "username": "SjayKA2025",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2055915924566511616/NFtgAl_Z_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/SjayKA2025.jpg"
+            },
+            "text": "@AshwiniVaishnaw This is really good route for people around living around coastal region and tourists.",
+            "created_at": "2026-11-13T17:08:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 186
+            },
+            "in_reply_to_id": "2121267019282858416"
+          },
+          {
+            "id": "2121285561084502469",
+            "author": {
+              "name": "Xyz Abcd",
+              "username": "UnfilterdHuman",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2018936625968140288/5NHQD4k4_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/avatars/UnfilterdHuman.jpg"
+            },
+            "text": "@AshwiniVaishnaw when will u start direct bullet train from Bengaluru to Pune",
+            "created_at": "2026-11-13T16:54:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 181
+            },
+            "in_reply_to_id": "2121267019282858416"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "2b216e442da49d8f14eb014d801305c34b7855bd",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "4f5f694b2938a225",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5f845b54434c9f3a",
+      "url": "https://x.com/INCIndia/status/2121256787907412364",
+      "title_en": "ADANI'S LOOT EXPOSED! Decimal-point magic turns ₹5,675 crore into just ₹56.75 crore! https://t.co/ILOwhjC7o6",
+      "title_zh": "国大党：“小数点魔术”把5675克若尔变成56.75克若尔，称阿达尼“掠夺曝光”",
+      "summary_en": "ADANI'S LOOT EXPOSED!\n\nDecimal-point magic turns ₹5,675 crore into just ₹56.75 crore! https://t.co/ILOwhjC7o6",
+      "summary_zh": "印度国民大会党官方账号发视频，标题为“阿达尼的掠夺曝光！”，称一笔5675克若尔（约567.5亿卢比）的金额被“小数点魔术”写成了56.75克若尔。帖子正文没有说明数据出处，评论区有人@grok要求核查，也有人借机吐槽GDP统计。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T23:00:03+08:00",
+      "fetched_at": "2026-11-14T06:56:40+08:00",
+      "tags": [
+        "商业套路",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2121256787907412364",
+        "lang": "en",
+        "text": "ADANI'S LOOT EXPOSED!\n\nDecimal-point magic turns ₹5,675 crore into just ₹56.75 crore! https://t.co/ILOwhjC7o6",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatar.jpg"
+        },
+        "created_at": "2026-11-13T15:00:03.000Z",
+        "public_metrics": {
+          "reply_count": 48,
+          "repost_count": 802,
+          "like_count": 3250,
+          "quote_count": 19,
+          "bookmark_count": 134,
+          "impression_count": 80129
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2121239397458984960/vid/avc1/1920x1080/bqzQfLmY7VkQ4MWt.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-14T06:56:40+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2121256787907412364",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2121256787907412364",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2121279199524618544",
+            "author": {
+              "name": "Aakash Singh",
+              "username": "AakashSingh078",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2060476550907133956/tq21MrlH_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/AakashSingh078.jpg"
+            },
+            "text": "@INCIndia Nirmala my salary is 0.30 lakhs! Sacchi",
+            "created_at": "2026-11-13T16:29:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 16,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1259
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121279421911105792",
+            "author": {
+              "name": "Mohit Gurjar🗡️",
+              "username": "PDASamajwad",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2097526055070568448/f_Wra5lQ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/PDASamajwad.jpg"
+            },
+            "text": "@INCIndia ये तो इसे बिल्कुल भाजपा कि GDP growth कि तरह scam कर दिया, \nअसली GDP 2.8% 2011 base दर से महंगाई दर घटा दे 6.09% तो आती है -3.51% \nमहामानव कि पोल खुल जाती इसलिए base year ही चेंज कर दिया और सीधा 7.8% का जादुई आकड़ा बिना सर पैर के 😂",
+            "created_at": "2026-11-13T16:30:00.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 11,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1125
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121288872101544378",
+            "author": {
+              "name": "gojo dm",
+              "username": "gojodmpz",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/gojodmpz.jpg"
+            },
+            "text": "@INCIndia saab mera wealth hawa hain hawa that is stock market balloon baki fati padhi hai saab mera toh norway wala deal bhi abhi loan mein karunga.",
+            "created_at": "2026-11-13T17:07:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 849
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121330954790961373",
+            "author": {
+              "name": "Harmonivvlifee",
+              "username": "design51836",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2040742521668788224/6bkBP6Bf_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/design51836.jpg"
+            },
+            "text": "@INCIndia . https://t.co/r73XIhWaXA",
+            "created_at": "2026-11-13T19:54:46.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121282327674585264",
+            "author": {
+              "name": "Baba Banaras™",
+              "username": "BabaBanarasReal",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2114849980037070848/8zlJQWGM_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/BabaBanarasReal.jpg"
+            },
+            "text": "@INCIndia Operation Sindoor to SCO invitation in weeks? If we truly blamed Pakistan for Kulgam, why the sudden red carpet? Fear has officially replaced the Modi government's fake arrogance. Explain this U-turn!\nhttps://t.co/rI1btN59Ys",
+            "created_at": "2026-11-13T16:41:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 6
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121302734641213892",
+            "author": {
+              "name": "technopahadi",
+              "username": "techno_pahadi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1861277476976017408/zqRIPApL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/techno_pahadi.jpg"
+            },
+            "text": "@INCIndia @grok fact check",
+            "created_at": "2026-11-13T18:02:38.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 305
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121285097408397416",
+            "author": {
+              "name": "Amar.Gupta",
+              "username": "amargupta999",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/3066964180/246f3ee1b0c62b9bd73e8662f98147b8_normal.jpeg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/amargupta999.jpg"
+            },
+            "text": "@INCIndia Kab chale Rashtrapati Bhawan?? Roz naya mudda... Par purana mudda to salta do. https://t.co/eCgGpnqDLp",
+            "created_at": "2026-11-13T16:52:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 192
+            },
+            "in_reply_to_id": "2121256787907412364"
+          },
+          {
+            "id": "2121302000520585473",
+            "author": {
+              "name": "Buzz",
+              "username": "131_Clip",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108875775634272257/cmD-viz2_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/avatars/131_Clip.jpg"
+            },
+            "text": "@INCIndia Lol your leaders are enjoying with him and you making such stupid posta",
+            "created_at": "2026-11-13T17:59:43.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 191
+            },
+            "in_reply_to_id": "2121256787907412364"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "3fd8dc18f2a5af3a91e7e876b1491a843fa8e2bc",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "5f845b54434c9f3a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "c2345573908127e8",
+      "url": "https://x.com/INCIndia/status/2121231192314003729",
+      "title_en": "कुछ पत्रकारों को Visa मिला लेकिन उसके बाद भी MHA ने उन्हें भारत आने से मना कर दिया। मोदी जी से सवाल पूछना गुनाह है क्या? पत्रकारों की जिम्मेदारी है सवाल पूछना। जवाब देना है या नहीं यह मोदी जी की इच्छा है। लेकिन जिसने सवाल पूछा, उनको हिंदुस्तान में आने के लिए मना कर दिया क्योंकि मोदी को तानाशाही पसंद",
+      "title_zh": "特伦甘纳首席部长：记者拿到签证仍被内政部拒绝入境，“向莫迪提问就是罪吗？”",
+      "summary_en": "कुछ पत्रकारों को Visa मिला लेकिन उसके बाद भी MHA ने उन्हें भारत आने से मना कर दिया। \n\nमोदी जी से सवाल पूछना गुनाह है क्या? पत्रकारों की जिम्मेदारी है सवाल पूछना। जवाब देना है या नहीं यह मोदी जी की इच्छा है। \n\nलेकिन जिसने सवाल पूछा, उनको हिंदुस्तान में आने के लिए मना कर दिया क्योंकि मोदी को तानाशाही पसंद हैं। वह खुद को डिक्टेटर समझते हैं। \n\nइसी तानाशाही सोच के चलते BJP के नेता Bharat Summit का विरोध कर रहे हैं और इनके साथ BRS भी शामिल हो गई है।\n\nहमारा सवाल है - क्या एक सवाल पूछने से मोदी जी चुनाव हार जाएंगे?\n\nThe Invest Telangana Global Summit 2026 aims to attract investments to the state and create employment opportunities for both skilled and unskilled youth.\n\nWe have invited 1,000 representatives from 70 countries to showcase how Hyderabad has emerged culturally and technologically.\n\n: तेलंगाना के मुख्यमंत्री श्री @revanth_anumula\n \n📍 हैदराबाद",
+      "summary_zh": "国大党发布特伦甘纳邦首席部长雷万斯·雷迪在海得拉巴的讲话视频：他称有些记者拿到了签证，内政部（MHA）仍拒绝其入境印度，质问“向莫迪提问难道是罪吗”，并指责BJP和BRS反对Bharat Summit。他还称这次投资峰会邀请了来自70个国家的1000名代表。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T21:18:21+08:00",
+      "fetched_at": "2026-11-14T06:56:54+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2121231192314003729",
+        "lang": "hi",
+        "text": "कुछ पत्रकारों को Visa मिला लेकिन उसके बाद भी MHA ने उन्हें भारत आने से मना कर दिया। \n\nमोदी जी से सवाल पूछना गुनाह है क्या? पत्रकारों की जिम्मेदारी है सवाल पूछना। जवाब देना है या नहीं यह मोदी जी की इच्छा है। \n\nलेकिन जिसने सवाल पूछा, उनको हिंदुस्तान में आने के लिए मना कर दिया क्योंकि मोदी को तानाशाही पसंद हैं। वह खुद को डिक्टेटर समझते हैं। \n\nइसी तानाशाही सोच के चलते BJP के नेता Bharat Summit का विरोध कर रहे हैं और इनके साथ BRS भी शामिल हो गई है।\n\nहमारा सवाल है - क्या एक सवाल पूछने से मोदी जी चुनाव हार जाएंगे?\n\nThe Invest Telangana Global Summit 2026 aims to attract investments to the state and create employment opportunities for both skilled and unskilled youth.\n\nWe have invited 1,000 representatives from 70 countries to showcase how Hyderabad has emerged culturally and technologically.\n\n: तेलंगाना के मुख्यमंत्री श्री @revanth_anumula\n \n📍 हैदराबाद",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatar.jpg"
+        },
+        "created_at": "2026-11-13T13:18:21.000Z",
+        "public_metrics": {
+          "reply_count": 35,
+          "repost_count": 704,
+          "like_count": 2299,
+          "quote_count": 5,
+          "bookmark_count": 40,
+          "impression_count": 39395
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2121229935927078914/vid/avc1/1906x1080/KCRWYntCyygfGIMe.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-14T06:56:54+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2121231192314003729",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2121231192314003729",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2121249512731578653",
+            "author": {
+              "name": "Shom Raturi (Viksit Bharat)",
+              "username": "shomraturi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1764573259058855936/tcX3l5Y-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/shomraturi.jpg"
+            },
+            "text": "@INCIndia किस मीडिया हाउस की पत्रकार है,\nउसका कोई इंटरनेशनल स्तर पर फेमस आर्टिकल्स प्रोड्यूस करो!\n#RahuGandh #GandhBhakt #HBFP #OmTrialer #Kaxiranga #SoniaGandhiAutobigraphy",
+            "created_at": "2026-11-13T14:31:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 185
+            },
+            "in_reply_to_id": "2121231192314003729"
+          },
+          {
+            "id": "2121262520703107380",
+            "author": {
+              "name": "MEHER GARMENTS",
+              "username": "MEHERGARMENTS",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1554528964160651264/ravSaNHG_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/MEHERGARMENTS.jpg"
+            },
+            "text": "@INCIndia https://t.co/qczSpym4ji",
+            "created_at": "2026-11-13T15:22:50.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 152
+            },
+            "in_reply_to_id": "2121231192314003729"
+          },
+          {
+            "id": "2121282391658693108",
+            "author": {
+              "name": "Lalit",
+              "username": "lalitkitroo",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1657215239404888064/86OT257f_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/lalitkitroo.jpg"
+            },
+            "text": "@INCIndia The pot calling the kettle black. https://t.co/d3wNdJFmQN",
+            "created_at": "2026-11-13T16:41:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 96
+            },
+            "in_reply_to_id": "2121231192314003729"
+          },
+          {
+            "id": "2121288282982207613",
+            "author": {
+              "name": "BJP WAKANDA",
+              "username": "bjp4_Wakanda",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2094729165027278848/f_adZxD9_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/bjp4_Wakanda.jpg"
+            },
+            "text": "@INCIndia @grok इंदिरा गांधी द्वारा लगाए आपातकाल में कितने पत्रकारों को जेल हुई?",
+            "created_at": "2026-11-13T17:05:12.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 81
+            },
+            "in_reply_to_id": "2121231192314003729"
+          },
+          {
+            "id": "2121257033966272727",
+            "author": {
+              "name": "Pushkar Chaudhary",
+              "username": "pc_pushkar",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/468828934314786816/ttZMjKuQ_normal.jpeg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/pc_pushkar.jpg"
+            },
+            "text": "LOL! India has millions of people doing precisely the same job, round the clock. She's hardly some irreplaceable national asset. 🤣. And we're vocal for LOCAL 😅.\n\nAs for the visa, unless she's carrying a DIPLOMATIC passport, that's just tough luck. She can always apply for one in May 2029 to attend Rahul Gandhi's swearing in ceremony. Plenty of time to get the paperwork sorted for a fantasy event! 😂",
+            "created_at": "2026-11-13T15:01:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 68
+            },
+            "in_reply_to_id": "2121231192314003729"
+          },
+          {
+            "id": "2121246869527654836",
+            "author": {
+              "name": "Rahul R Neginhal",
+              "username": "NeginhalR",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1580259887187382272/iGL5_1l7_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/NeginhalR.jpg"
+            },
+            "text": "@INCIndia Let's assume that PM Modi got this lady's Visa canceled. \n\nBut what about Majrooh Sultanpuri, Kuldip Nayar both Indians who were arrested by Nehru &amp; Indira.\n\nBy your logic even Nehru &amp; Indira were dictators. \n\nWe all know that Indira  imposed Emergency &amp; was real dictator.",
+            "created_at": "2026-11-13T14:20:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 63
+            },
+            "in_reply_to_id": "2121231192314003729"
+          },
+          {
+            "id": "2121266576464994682",
+            "author": {
+              "name": "Kiran nayak",
+              "username": "kiran__nayak",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1676503991449174016/bD57UrQ7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/avatars/kiran__nayak.jpg"
+            },
+            "text": "@INCIndia It's better than what you did to journalist jali rekha \nTelangana journo quizzed for hours with baby in hand over claims about Revant Reddy’s daughter - Telangana News | India Today https://t.co/Mar0YUYFAv",
+            "created_at": "2026-11-13T15:38:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 46
+            },
+            "in_reply_to_id": "2121231192314003729"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "c17e4d3f0e45767192637566f57d7adb1d4b86f2",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "c2345573908127e8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "0f26699cb05c0c92",
+      "url": "https://x.com/AamAadmiParty/status/2121226578998784376",
+      "title_en": "𝐃𝐞𝐥𝐡𝐢’𝐬 𝐅𝐫𝐚𝐮𝐝 𝐐𝐮𝐞𝐞𝐧: 𝐑𝐞𝐤𝐡𝐚 𝐆𝐮𝐩𝐭𝐚 https://t.co/0iZPNjYrrL",
+      "title_zh": "AAP发海报，把德里首席部长丽卡·古普塔称作“德里诈骗女王”",
+      "summary_en": "𝐃𝐞𝐥𝐡𝐢’𝐬 𝐅𝐫𝐚𝐮𝐝 𝐐𝐮𝐞𝐞𝐧: 𝐑𝐞𝐤𝐡𝐚 𝐆𝐮𝐩𝐭𝐚 https://t.co/0iZPNjYrrL",
+      "summary_zh": "阿姆·阿德米党（AAP）官方账号发布一张海报，配文“德里的诈骗女王：丽卡·古普塔”，直接攻击现任德里首席部长。评论区大多是反AAP的回怼。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T21:00:01+08:00",
+      "fetched_at": "2026-11-14T06:56:57+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2121226578998784376",
+        "lang": "ca",
+        "text": "𝐃𝐞𝐥𝐡𝐢’𝐬 𝐅𝐫𝐚𝐮𝐝 𝐐𝐮𝐞𝐞𝐧: 𝐑𝐞𝐤𝐡𝐚 𝐆𝐮𝐩𝐭𝐚 https://t.co/0iZPNjYrrL",
+        "author": {
+          "name": "AAP",
+          "username": "AamAadmiParty",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1869651115265896448/bxG_sl3k_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatar.jpg"
+        },
+        "created_at": "2026-11-13T13:00:01.000Z",
+        "public_metrics": {
+          "reply_count": 29,
+          "repost_count": 84,
+          "like_count": 467,
+          "quote_count": 3,
+          "bookmark_count": 3,
+          "impression_count": 24234
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/AamAadmiParty/status/2121226578998784376",
+        "ytdlp_command": "yt-dlp https://x.com/AamAadmiParty/status/2121226578998784376",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2121271894892777683",
+            "author": {
+              "name": "@BharatVibes",
+              "username": "BharatMantra_10",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2079987375095365632/2b-ffWTe_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatars/BharatMantra_10.jpg"
+            },
+            "text": "@AamAadmiParty https://t.co/rMwVZigQCy",
+            "created_at": "2026-11-13T16:00:05.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 5,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 736
+            },
+            "in_reply_to_id": "2121226578998784376"
+          },
+          {
+            "id": "2121262049661727118",
+            "author": {
+              "name": "Manoj Rawat",
+              "username": "MANOJRA92726758",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1623488881520963584/SADi97uU_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatars/MANOJRA92726758.jpg"
+            },
+            "text": "@AamAadmiParty nakli chodo...lekin ye batao aap ne kya kia",
+            "created_at": "2026-11-13T15:20:58.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 511
+            },
+            "in_reply_to_id": "2121226578998784376"
+          },
+          {
+            "id": "2121290691666219426",
+            "author": {
+              "name": "Deepankar Sharma",
+              "username": "THEDEEPANKAR",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1777177329313468416/d1He6Gqx_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatars/THEDEEPANKAR.jpg"
+            },
+            "text": "@AamAadmiParty Kuch to kiya hai usne, Tum to bilkul hi nikamme nikle. Bas blame game khelte rahe aur loot rahe the. \nAAM AADMI PARTY IS CHEATER!!!",
+            "created_at": "2026-11-13T17:14:47.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 396
+            },
+            "in_reply_to_id": "2121226578998784376"
+          },
+          {
+            "id": "2121269059354570905",
+            "author": {
+              "name": "Pankaj",
+              "username": "Pankaj34342525",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1639510198787387393/dkjxnVJE_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatars/Pankaj34342525.jpg"
+            },
+            "text": "@AamAadmiParty AAP  SHOULD  BE BANNED \n\nAAP IS ENEMY OF  DELHI",
+            "created_at": "2026-11-13T15:48:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 242
+            },
+            "in_reply_to_id": "2121226578998784376"
+          },
+          {
+            "id": "2121265116792647766",
+            "author": {
+              "name": "TitanicJackX",
+              "username": "TitanicJackX",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2086302428237107200/aXuOYrzq_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatars/TitanicJackX.jpg"
+            },
+            "text": "@AamAadmiParty Just fraud is better 😂",
+            "created_at": "2026-11-13T15:33:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 306
+            },
+            "in_reply_to_id": "2121226578998784376"
+          },
+          {
+            "id": "2121273894250467402",
+            "author": {
+              "name": "maksneway",
+              "username": "makitheguy",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2041182985828114432/8_GqseBf_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121226578998784376/avatars/makitheguy.jpg"
+            },
+            "text": "@AamAadmiParty Sharm hai kuch\n\nhttps://t.co/U4sjIF3dj9",
+            "created_at": "2026-11-13T16:08:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 304
+            },
+            "in_reply_to_id": "2121226578998784376"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "f43fc5932968e77f6681b8114bcad86f0dd31d30",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "0f26699cb05c0c92",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "a237ef7950fcb0b7",
       "url": "https://www.ndtv.com/offbeat/shah-rukh-khan-kajol-she-is-from-georgia-she-dances-to-bollywood-and-india-cannot-stop-watching-her-12320258",
@@ -230,6 +1289,92 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c1b25efa479ba30b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "bf4a1f56f727bcae",
+      "url": "https://x.com/ndtv/status/2121037831623909541",
+      "title_en": "A biker had a miraculous escape after a wild elephant stepped on him twice on the Haridwar-Dehradun Highway in Uttarakhand. The shocking incident, which took place near Nepali Farm in the early hours of Thursday, was captured on camera and has since gone viral on social media. According to reports, ",
+      "title_zh": "野象在公路上两次踩过摩托车手，他竟自己爬起来走了",
+      "summary_en": "A biker had a miraculous escape after a wild elephant stepped on him twice on the Haridwar-Dehradun Highway in Uttarakhand. The shocking incident, which took place near Nepali Farm in the early hours of Thursday, was captured on camera and has since gone viral on social media.\n\nAccording to reports, the incident happened at around 4 am when the biker encountered the elephant on the highway. In a shocking turn of events, the animal stepped on the man's stomach and chest twice, leaving him pinned beneath its feet.\n\nHowever, what happened next left everyone stunned. Despite the terrifying encounter, the biker managed to get back on his feet immediately after the elephant moved away. He appeared to have escaped without any visible injuries.",
+      "summary_zh": "NDTV报道，北阿坎德邦哈里德瓦尔—德拉敦公路Nepali Farm附近，周四凌晨约4点，一名骑手遇到野象，大象两次踩在他的腹部和胸口；大象离开后他立刻站了起来，看上去没有明显外伤。视频被拍下后走红。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121037831623909541/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-13T08:30:00+08:00",
+      "fetched_at": "2026-11-14T06:57:07+08:00",
+      "tags": [
+        "动物",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2121037831623909541",
+        "lang": "en",
+        "text": "A biker had a miraculous escape after a wild elephant stepped on him twice on the Haridwar-Dehradun Highway in Uttarakhand. The shocking incident, which took place near Nepali Farm in the early hours of Thursday, was captured on camera and has since gone viral on social media.\n\nAccording to reports, the incident happened at around 4 am when the biker encountered the elephant on the highway. In a shocking turn of events, the animal stepped on the man's stomach and chest twice, leaving him pinned beneath its feet.\n\nHowever, what happened next left everyone stunned. Despite the terrifying encounter, the biker managed to get back on his feet immediately after the elephant moved away. He appeared to have escaped without any visible injuries.",
+        "author": {
+          "name": "NDTV",
+          "username": "ndtv",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2088619391072313344/klvKZ14z_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121037831623909541/avatar.jpg"
+        },
+        "created_at": "2026-11-13T00:30:00.000Z",
+        "public_metrics": {
+          "reply_count": 1,
+          "repost_count": 2,
+          "like_count": 10,
+          "quote_count": 1,
+          "bookmark_count": 3,
+          "impression_count": 10030
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121037831623909541/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2120764856223842304/vid/avc1/1080x1920/Fgv8Tr23_aobMIXC.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-14T06:57:07+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ndtv/status/2121037831623909541",
+        "ytdlp_command": "yt-dlp https://x.com/ndtv/status/2121037831623909541",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121037831623909541/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2121046875902181878",
+            "author": {
+              "name": "Dino Vibes Daily",
+              "username": "DinoLeadingNews",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2068161173162512384/7GLkVvw7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121037831623909541/avatars/DinoLeadingNews.jpg"
+            },
+            "text": "@ndtv Incredible that he survived. Wildlife corridors need clear warnings and speed controls—especially before dawn, when visibility and reaction time are limited.",
+            "created_at": "2026-11-13T01:05:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 25
+            },
+            "in_reply_to_id": "2121037831623909541"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "50cd4f0c2465e979100fac821166eeb191b1b42f",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "bf4a1f56f727bcae",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -483,7 +1628,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-13T01:21:33+08:00",
-      "fetched_at": "2026-11-13T06:57:09+08:00",
+      "fetched_at": "2026-11-14T06:56:18+08:00",
       "tags": [
         "军事政治"
       ],
@@ -513,7 +1658,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120928878399311872/vid/avc1/720x1280/-i4LL5OTplbKtc97.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-13T06:57:09+08:00",
+        "video_url_resolved_at": "2026-11-14T06:56:18+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2120930008302825950",
@@ -743,7 +1888,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-13T01:10:57+08:00",
-      "fetched_at": "2026-11-13T06:57:29+08:00",
+      "fetched_at": "2026-11-14T06:56:21+08:00",
       "tags": [
         "军事政治",
         "交通火车"
@@ -774,7 +1919,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120925799713034240/vid/avc1/1920x1080/B9LRzCAF59-gy1nh.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-13T06:57:29+08:00",
+        "video_url_resolved_at": "2026-11-14T06:56:21+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2120927339085541397",
