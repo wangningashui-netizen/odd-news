@@ -1,0 +1,32 @@
+{
+  "date": "2024-06-15",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "acb6b2a72bbf70e8",
+      "url": "https://www.news18.com/viral/watch-bihar-hospital-uses-cardboard-to-plaster-fractured-leg-of-a-man-8933187.html",
+      "title_en": "Bihar Hospital Uses Cardboard To Plaster Fractured Leg Of A Man",
+      "title_zh": "比哈尔邦医院用纸板给一名男子骨折的腿打石膏",
+      "summary_en": "The injured man said that no doctor visited him after he was shifted to Shree Krishna Medical College and Hospital in Muzaffarpur.",
+      "summary_zh": "受伤男子说，在他被转移到穆扎法尔布尔的什里克里希纳医学院和医院后，没有医生来看望他。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/06/untitled-design-2024-06-15t113540.491-2024-06-ae6519bfcc0f5174637717527ba2bcc7-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-06-15T14:09:21+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "acb6b2a72bbf70e8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

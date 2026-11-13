@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-03",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "536d3ce6c067bd4b",
+      "url": "https://www.news18.com/viral/20-year-old-man-cleans-polluted-river-with-his-bare-hands-internet-asks-where-is-the-municipality-10307660.html",
+      "title_en": "20-Year-Old Man Cleans Polluted River With His Bare Hands, Internet Asks 'Where Is The Municipality?'",
+      "title_zh": "20岁男子徒手清理污染河流，网友问“市政府在哪里？”",
+      "summary_en": "Bittu Tabahi, a 20-year-old from Madhya Pradesh, has spent months removing plastic and waste from the polluted Ajnar River using his own hands and money.",
+      "summary_zh": "来自中央邦的 20 岁比特图·塔巴希 (Bittu Tabahi) 花了几个月的时间，用自己的双手和金钱清除了受污染的阿杰纳尔河 (Ajnar River) 中的塑料和废物。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/New-Restaurants-1-2026-09-bf77eb46c103f335a3083fd74e014b75-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-03T13:36:32+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "536d3ce6c067bd4b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

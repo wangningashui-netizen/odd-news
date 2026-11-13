@@ -1,0 +1,33 @@
+{
+  "date": "2022-11-26",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "7a90a98e69b77406",
+      "url": "https://www.news18.com/buzz/meet-frilled-shark-the-over-80-million-year-old-species-6476191.html",
+      "title_en": "Meet Frilled Shark, The Over 80-Million-Year-Old Species",
+      "title_zh": "认识褶皱鲨，这种拥有超过 8000 万年历史的物种",
+      "summary_en": "A creature found in the depths of the ocean, called the Frilling Shark, surfaced in a video recently which went viral on Twitter.",
+      "summary_zh": "最近在推特上疯传的一段视频中出现了一种在海洋深处发现的生物，称为褶边鲨鱼。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/11/untitled-1-266-166945295516x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2022-11-26T16:59:42+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事",
+        "科学发现"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7a90a98e69b77406",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

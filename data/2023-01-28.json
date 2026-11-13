@@ -1,0 +1,32 @@
+{
+  "date": "2023-01-28",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "b6e0afcb9fc1bd94",
+      "url": "https://www.news18.com/buzz/did-you-know-ateshgah-in-azerbaijan-has-this-connection-with-the-hindu-culture-6939349.html",
+      "title_en": "Did You Know Ateshgah In Azerbaijan Has This Connection With The Hindu Culture?",
+      "title_zh": "您知道阿塞拜疆的 Ateshgah 与印度教文化有联系吗？",
+      "summary_en": "The Atesghan was converted into a museum during the 1970s.",
+      "summary_zh": "Atesghan 在 20 世纪 70 年代被改建为博物馆。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/untitled-2-15-167490745216x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-28T20:07:01+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b6e0afcb9fc1bd94",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

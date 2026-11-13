@@ -1,0 +1,32 @@
+{
+  "date": "2023-08-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "0095fa04ddc19b95",
+      "url": "https://www.news18.com/viral/internet-is-unhappy-with-video-of-girls-kissing-on-a-moving-bike-8480485.html",
+      "title_en": "Internet Is Unhappy With Video Of Girls Kissing On A Moving Bike",
+      "title_zh": "互联网对女孩在行驶的自行车上接吻的视频感到不满",
+      "summary_en": "The video of two girls performing romantic stunts on a moving bike has gained attention on social media.",
+      "summary_zh": "两名女孩在移动自行车上表演浪漫特技的视频在社交媒体上引起了关注。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/08/news18-bl-zb-7-169089965216x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-08-01T22:24:08+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0095fa04ddc19b95",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

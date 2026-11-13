@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "Asia/Shanghai",
-  "count": 178,
+  "count": 180,
   "items": [
     {
       "id": "1f9dae8f7cf1dc51",
@@ -78,7 +78,7 @@
       "cluster_id": "5f3313e729fa00cd",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 488,
+      "reddit_score": 503,
       "reddit_comments": 45
     },
     {
@@ -131,7 +131,7 @@
       "cluster_id": "a8fdd0852efe999c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 54,
+      "reddit_score": 57,
       "reddit_comments": 3
     },
     {
@@ -333,7 +333,7 @@
       "cluster_id": "eb293fba0e372f5d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 51,
+      "reddit_score": 56,
       "reddit_comments": 5
     },
     {
@@ -872,8 +872,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "a9d48a060b69126a",
@@ -898,9 +898,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
-      "reddit_score": 1062,
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
+      "reddit_score": 1063,
       "reddit_comments": 52
     },
     {
@@ -1049,8 +1049,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "e40e714c95f33cd7",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "a8fcacf69a1528b2",
@@ -1683,8 +1683,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "57b187aec518d5ec",
@@ -1736,7 +1736,7 @@
       "cluster_id": "32407d0eb773a3bc",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 46,
+      "reddit_score": 47,
       "reddit_comments": 1
     },
     {
@@ -1786,8 +1786,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "44a4f9ebc69817eb",
@@ -2239,8 +2239,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "f079b860778a92e0",
@@ -2344,7 +2344,7 @@
       "cluster_id": "f9388a2389360b13",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 33,
+      "reddit_score": 34,
       "reddit_comments": 1
     },
     {
@@ -2754,8 +2754,8 @@
       "cluster_id": "bc6b1908deb626f8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 331,
-      "reddit_comments": 24
+      "reddit_score": 334,
+      "reddit_comments": 26
     },
     {
       "id": "12a7aba90b9cfb66",
@@ -2832,7 +2832,7 @@
       "cluster_id": "9bb8f34d31ae0dd4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 233,
+      "reddit_score": 236,
       "reddit_comments": 16
     },
     {
@@ -2882,8 +2882,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "5527cd6d5690db51",
@@ -3132,7 +3132,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "6af435375233fe58",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -3182,8 +3182,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "08b9f36ab53c2d3a",
@@ -3277,7 +3277,7 @@
       "published_at": "2026-11-10T16:19:45+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xshipb",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -3425,8 +3425,33 @@
       "cluster_id": "7d9e75d02c0b0a5a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 88,
+      "reddit_score": 89,
       "reddit_comments": 12
+    },
+    {
+      "id": "a428f3e47d00f925",
+      "url": "https://www.ndtv.com/offbeat/slippers-stolen-at-temple-replaced-by-quick-commerce-in-10-minutes-two-indias-collide-12307017?pfrom=",
+      "title_en": "Slippers Stolen At Temple Replaced By Quick Commerce In 10 Minutes: 'Two Indias Collide'",
+      "title_zh": "寺庙被盗的拖鞋十分钟内就被快速商业取代：“两个印度发生冲突”",
+      "summary_en": "Slippers stolen at temple prompt quick commerce delivery, highlighting India’s socioeconomic contrasts.",
+      "summary_zh": "在寺庙被盗的拖鞋促进了快速的商业交付，凸显了印度的社会经济对比。",
+      "translation_status": "fallback",
+      "image": "https://c.ndtvimg.com/2026-11/qu8nij98_as_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "image_checked": true,
+      "source": "NDTV Offbeat",
+      "source_id": "ndtv-offbeat",
+      "region": "印度",
+      "published_at": "2026-11-10T16:06:31+08:00",
+      "fetched_at": "2026-11-13T11:20:18+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "355db76576045691",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "355db76576045691",
@@ -3450,7 +3475,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "355db76576045691",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -3478,7 +3503,7 @@
       "cluster_id": "65362ade65c0c979",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 28,
+      "reddit_score": 42,
       "reddit_comments": 2
     },
     {
@@ -3534,7 +3559,7 @@
       "cluster_id": "097e11ab7d129664",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 28,
+      "reddit_score": 42,
       "reddit_comments": 2
     },
     {
@@ -3636,7 +3661,7 @@
       "cluster_id": "6038218211ab7a0f",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 91,
+      "reddit_score": 93,
       "reddit_comments": 6
     },
     {
@@ -3689,7 +3714,7 @@
       "cluster_id": "7a749a589672038e",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 943,
+      "reddit_score": 956,
       "reddit_comments": 11
     },
     {
@@ -3740,7 +3765,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "07524246b6d6f6c8",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 2,
       "reddit_score": 300,
       "reddit_comments": 19
@@ -3822,7 +3847,7 @@
       "cluster_id": "f94409c99cd4efa0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 606,
+      "reddit_score": 607,
       "reddit_comments": 52
     },
     {
@@ -3847,6 +3872,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "9c6cb7bb5e310085",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "3136e7c126cbbb26",
+      "url": "https://www.timesnownews.com/business-economy/markets/nifty-at-28000-by-2027-citi-sees-12-upside-and-reveals-whats-driving-the-bullish-call-article-156489133",
+      "title_en": "Nifty At 28,000 By 2027? Citi Sees 12% Upside And Reveals What's Driving The Bullish Call",
+      "title_zh": "到 2027 年，Nifty 将达到 28,000 人？花旗预计上涨 12%，并揭示看涨预期的推动因素",
+      "summary_en": "Citi raises its Nifty target to 28,000 by December 2027, citing earnings growth, lower oil prices and improving foreign investment flows., Markets, Times Now",
+      "summary_zh": "花旗将到 2027 年 12 月的 Nifty 目标提高到 28,000 人，理由是盈利增长、油价下跌和外国投资流量改善。, Markets, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156489148,thumbsize-82104,width-1280,height-720,resizemode-75/156489148.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-10T15:08:40+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3136e7c126cbbb26",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -4071,8 +4121,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "ad3be437a6052bf9",
@@ -4245,8 +4295,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "16a97dfc838093f7",
@@ -4348,7 +4398,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "023b0b0c9ce5dd60",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -4448,8 +4498,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
       "reddit_score": 38,
       "reddit_comments": 4
     },
@@ -4683,7 +4733,7 @@
         "angle_source": "inbox"
       },
       "cluster_id": "07524246b6d6f6c8",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 2
     },
     {
@@ -4711,7 +4761,7 @@
       "cluster_id": "58bf6d9fbf86167e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 9,
+      "reddit_score": 8,
       "reddit_comments": 4
     },
     {
@@ -4863,9 +4913,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
-      "reddit_score": 239,
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
+      "reddit_score": 241,
       "reddit_comments": 8
     },
     {
@@ -5046,8 +5096,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "4920c257cb7525b4",
@@ -5308,8 +5358,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
       "reddit_score": 0,
       "reddit_comments": 1
     },
@@ -5335,8 +5385,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "3e80a4d7d60b9195",
@@ -5494,8 +5544,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "8f91905be9be8ccb",

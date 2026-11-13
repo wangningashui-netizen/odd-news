@@ -1,6 +1,6 @@
 {
   "month": "2022-11",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "5cbd76f1ab3dc3a7",
@@ -19,6 +19,29 @@
       "url": "https://www.news18.com/buzz/ifs-officer-asks-users-to-differentiate-between-jaguar-and-leopard-can-you-identify-the-cats-6488017.html",
       "translation_status": "fallback",
       "cluster_id": "5cbd76f1ab3dc3a7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7a90a98e69b77406",
+      "date": "2022-11-26",
+      "published_at": "2022-11-26T16:59:42+08:00",
+      "title_zh": "认识褶皱鲨，这种拥有超过 8000 万年历史的物种",
+      "title_en": "Meet Frilled Shark, The Over 80-Million-Year-Old Species",
+      "summary_zh": "最近在推特上疯传的一段视频中出现了一种在海洋深处发现的生物，称为褶边鲨鱼。",
+      "summary_en": "A creature found in the depths of the ocean, called the Frilling Shark, surfaced in a video recently which went viral on Twitter.",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/11/untitled-1-266-166945295516x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事",
+        "科学发现"
+      ],
+      "url": "https://www.news18.com/buzz/meet-frilled-shark-the-over-80-million-year-old-species-6476191.html",
+      "translation_status": "fallback",
+      "cluster_id": "7a90a98e69b77406",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

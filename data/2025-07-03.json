@@ -1,0 +1,32 @@
+{
+  "date": "2025-07-03",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "5bdf2caa4895db78",
+      "url": "https://www.news18.com/viral/video-infosys-mysore-campus-looks-like-a-mini-city-from-above-ws-l-aa-9418555.html",
+      "title_en": "Video: Infosys Mysore Campus Looks Like A Mini-City From Above",
+      "title_zh": "视频：从上方看印孚瑟斯迈索尔园区就像一座迷你城市",
+      "summary_en": "The aerial footage shows just how massive and well-planned the Infosys Mysore campus really is.",
+      "summary_zh": "航拍镜头显示了印孚瑟斯迈索尔园区的规模有多大，规划也有多么周密。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-03T142330.170-2025-07-1107f96c2ace3d31fecf48cc5160919f-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-03T16:55:19+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5bdf2caa4895db78",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2023-01-24",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a1e745007eca8f52",
+      "url": "https://www.news18.com/buzz/kim-kardashian-gets-brutally-trolled-after-giving-lecture-at-harvard-business-school-6901855.html",
+      "title_en": "Kim Kardashian Gets Brutally Trolled After Giving Lecture at Harvard Business School",
+      "title_zh": "金·卡戴珊 (Kim Kardashian) 在哈佛商学院演讲后遭到残酷攻击",
+      "summary_en": "Kim Kardashian gave a lecture at Harvard Business School where she spoke about the success and challenges of her brand SKIMS.",
+      "summary_zh": "金·卡戴珊 (Kim Kardashian) 在哈佛商学院发表演讲，讲述了她的品牌 SKIMS 的成功和挑战。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/kim-kardashian-harvard-167453953416x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-24T13:55:46+08:00",
+      "fetched_at": "2026-11-13T11:20:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a1e745007eca8f52",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

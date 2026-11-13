@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "timezone": "Asia/Shanghai",
-  "count": 154,
+  "count": 161,
   "items": [
     {
       "id": "5c96acfea218f821",
@@ -112,8 +112,8 @@
         "angle_source": "inbox"
       },
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "751f8d62c84699d3",
@@ -374,8 +374,34 @@
       "cluster_id": "8446ab304a91f8e5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 600,
-      "reddit_comments": 40
+      "reddit_score": 875,
+      "reddit_comments": 44
+    },
+    {
+      "id": "be13f0094b322157",
+      "url": "https://www.timesnownews.com/india/anti-women-party-jnu-professor-accused-in-sexual-harassment-case-appointed-to-congress-panel-bjp-hits-out-article-156495232",
+      "title_en": "'Anti-Women Party': JNU Professor Accused In Sexual Harassment Case Appointed To Congress Panel, BJP Hits Out",
+      "title_zh": "“反妇女党”：暨大教授被控性骚扰案被任命为国会专家组，印度人民党猛烈抨击",
+      "summary_en": "The Congress party has formed its Pradesh Election and Campaign Committees for Manipur, appointing Angomcha Bimol Akoijam, which has sparked backlash from the BJP. , India News, Times Now",
+      "summary_zh": "国大党成立了曼尼普尔邦选举和竞选委员会，任命安戈姆查·比莫尔·阿科伊贾姆为委员，此举引发了印度人民党的强烈反对。 ，印度新闻，时报现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156495313,thumbsize-704819,width-1280,height-720,resizemode-75/156495313.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T23:37:19+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "be13f0094b322157",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b624c8b6b61bfcc6",
@@ -614,8 +640,8 @@
       "cluster_id": "44f3ccf65aae96f9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 18,
-      "reddit_comments": 4
+      "reddit_score": 29,
+      "reddit_comments": 5
     },
     {
       "id": "8986474a39e91244",
@@ -690,10 +716,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "07524246b6d6f6c8",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 2,
-      "reddit_score": 149,
-      "reddit_comments": 17
+      "reddit_score": 261,
+      "reddit_comments": 19
     },
     {
       "id": "448aec12cd3229f4",
@@ -720,7 +746,7 @@
       "cluster_id": "448aec12cd3229f4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 28,
+      "reddit_score": 42,
       "reddit_comments": 2
     },
     {
@@ -748,8 +774,33 @@
       "cluster_id": "26c703efe396e974",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 216,
-      "reddit_comments": 26
+      "reddit_score": 282,
+      "reddit_comments": 28
+    },
+    {
+      "id": "a93fca75fe3c5f67",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/kiara-advani-shuts-trolls-questioning-sidharth-malhotras-response-to-toxic-intimate-scenes-with-yash-article-156495027",
+      "title_en": "Kiara Advani Shuts Trolls Questioning Sidharth Malhotra's Response To Toxic Intimate Scenes With Yash",
+      "title_zh": "Kiara Advani 关闭了巨魔质疑 Sidharth Malhotra 对与 Yash 的有毒亲密场景的反应",
+      "summary_en": "Kiara Advani maintained a dignified silence amid the backlash for her intimate scenes with Yash in Toxic: A Fairytale For Grown-Ups, Bollywood, Times Now",
+      "summary_zh": "基亚拉·阿德瓦尼 (Kiara Advani) 在《有毒：成人童话》、宝莱坞、《Times Now》中与亚什的亲密镜头遭到强烈反对，但她保持了庄严的沉默",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156495094,thumbsize-644605,width-1280,height-720,resizemode-75/156495094.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T22:17:11+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a93fca75fe3c5f67",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "15ce3fc49c6b6dd6",
@@ -988,7 +1039,7 @@
       "cluster_id": "c340b74bd1681baa",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 30,
+      "reddit_score": 48,
       "reddit_comments": 5
     },
     {
@@ -1068,8 +1119,8 @@
       "cluster_id": "72a83c80b3141de9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 80,
-      "reddit_comments": 6
+      "reddit_score": 100,
+      "reddit_comments": 8
     },
     {
       "id": "486cf10db8fe5d18",
@@ -1096,8 +1147,8 @@
       "cluster_id": "486cf10db8fe5d18",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 249,
-      "reddit_comments": 24
+      "reddit_score": 317,
+      "reddit_comments": 32
     },
     {
       "id": "23dbe7d9a625fa1d",
@@ -1653,7 +1704,7 @@
       "region": "印度",
       "published_at": "2026-11-11T19:58:27+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
-      "reddit_id": "t3_1xtfx0s",
+      "reddit_id": "t3_1xtfzf3",
       "page_fetched": true,
       "tags": [
         "婚俗宗教"
@@ -1663,8 +1714,8 @@
       "cluster_id": "7fdae653ffd81789",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 181,
-      "reddit_comments": 30
+      "reddit_score": 80,
+      "reddit_comments": 0
     },
     {
       "id": "ffd0e85e8440ad8f",
@@ -1691,8 +1742,8 @@
       "cluster_id": "ffd0e85e8440ad8f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 31,
-      "reddit_comments": 1
+      "reddit_score": 35,
+      "reddit_comments": 2
     },
     {
       "id": "052cad18c932a848",
@@ -1719,8 +1770,8 @@
       "cluster_id": "052cad18c932a848",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 109,
-      "reddit_comments": 24
+      "reddit_score": 142,
+      "reddit_comments": 32
     },
     {
       "id": "87d38480c4dc52c6",
@@ -2019,8 +2070,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "ee14167f8d0be474",
@@ -2248,6 +2299,32 @@
       "cluster_source_count": 1
     },
     {
+      "id": "1a774d4532c4bfb5",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/deepika-padukone-ranveer-singh-celebrate-first-diwali-after-welcoming-younger-daughter-devi-article-156493970",
+      "title_en": "Deepika Padukone, Ranveer Singh Celebrate First Diwali After Welcoming Younger Daughter Devi",
+      "title_zh": "迪皮卡·帕度柯妮 (Deepika Padukone) 和兰维尔·辛格 (Ranveer Singh) 在欢迎小女儿德维 (Devi) 后庆祝第一个排灯节",
+      "summary_en": "Deepika Padukone and Ranveer Singh’s Diwali was special this year., Bollywood, Times Now",
+      "summary_zh": "迪皮卡·帕度柯妮 (Deepika Padukone) 和兰维尔·辛格 (Ranveer Singh) 的排灯节今年很特别。, 宝莱坞, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156494109,thumbsize-414644,width-1280,height-720,resizemode-75/156494109.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T18:13:44+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧",
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1a774d4532c4bfb5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "793f43283c716f2d",
       "url": "https://www.indiatoday.in/trending-news/story/halfway-through-his-meal-passenger-finds-metal-piece-irctc-penalises-caterer-3036649-2026-11-11",
       "title_en": "Halfway through his meal, passenger finds metal piece. IRCTC penalises caterer",
@@ -2346,7 +2423,7 @@
       "cluster_id": "337f85bd7bd57564",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 46,
+      "reddit_score": 52,
       "reddit_comments": 3
     },
     {
@@ -2399,7 +2476,7 @@
       "cluster_id": "1eb7c7b5f95070bd",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 69,
+      "reddit_score": 73,
       "reddit_comments": 6
     },
     {
@@ -2496,7 +2573,7 @@
       "published_at": "2026-11-11T17:15:37+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xtd9u2",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -2609,8 +2686,8 @@
       "cluster_id": "0cd43261d0ef53be",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 806,
-      "reddit_comments": 72
+      "reddit_score": 898,
+      "reddit_comments": 75
     },
     {
       "id": "9a6951b726e0cf30",
@@ -2995,9 +3072,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
-      "reddit_score": 100,
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
+      "reddit_score": 109,
       "reddit_comments": 3
     },
     {
@@ -3075,6 +3152,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "322456a96020f593",
+      "url": "https://www.timesnownews.com/technology-science/apple-swift-student-challenge-2027-gets-a-major-change-students-can-now-build-apps-for-any-device-article-156493603",
+      "title_en": "Apple Swift Student Challenge 2027 Gets A Major Change, Students Can Now Build Apps For Any Device",
+      "title_zh": "Apple Swift 学生挑战赛 2027 发生重大变化，学生现在可以为任何设备构建应用程序",
+      "summary_en": "Apple’s Swift Student Challenge invites students around the world to showcase their creativity and app development skills. , Technology & Science, Times Now",
+      "summary_zh": "Apple 的 Swift 学生挑战赛邀请世界各地的学生展示他们的创造力和应用程序开发技能。 、技术与科学、时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156493605,thumbsize-138249,width-1280,height-720,resizemode-75/156493605.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T16:20:00+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "322456a96020f593",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "3a603db6c26abe60",
       "url": "https://www.reddit.com/r/india/comments/1xtcbc9/started_earning_as_a_med_student_by_counselling/",
       "title_en": "Started earning as a med student by counselling NEET-ug students.",
@@ -3090,7 +3192,7 @@
       "published_at": "2026-11-11T16:14:34+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xtcbc9",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "健康医疗"
       ],
@@ -3128,7 +3230,7 @@
       "cluster_id": "386ea3b5a10d0732",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 224,
+      "reddit_score": 244,
       "reddit_comments": 30
     },
     {
@@ -3372,7 +3474,7 @@
       "published_at": "2026-11-11T15:23:41+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xtbhog",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "航空出行"
       ],
@@ -3381,7 +3483,7 @@
       "cluster_id": "c161101ae1edadc5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 8,
+      "reddit_score": 11,
       "reddit_comments": 8
     },
     {
@@ -3510,8 +3612,8 @@
       "cluster_id": "f85d17fa243a330b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 8,
-      "reddit_comments": 1
+      "reddit_score": 10,
+      "reddit_comments": 2
     },
     {
       "id": "6ee2e6c15e332d19",
@@ -3539,6 +3641,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "5bd16385db2e3f45",
+      "url": "https://www.timesnownews.com/auto/electric-vehicles/polestar-formula-2030-concept-revealed-gets-radical-design-22inch-wheels-ai-and-more-article-156493059",
+      "title_en": "Polestar Formula 2030 Concept Revealed: Gets Radical Design, 22-Inch Wheels, AI And More",
+      "title_zh": "Polestar Formula 2030 概念车揭晓：激进的设计、22 英寸车轮、人工智能等",
+      "summary_en": "The Polestar Formula 2030 concept has been showcased with a radical design and a modern four-seat cabin. It features 22-inch wheels, sustainable materials, and Google Gemini AI., Electric Vehicles, Times Now",
+      "summary_zh": "Polestar Formula 2030 概念车以激进的设计和现代化的四座座舱展示。它配备 22 英寸车轮、可持续材料和 Google Gemini AI。, 电动汽车, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156493188,thumbsize-1456955,width-1280,height-720,resizemode-75/156493188.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T14:30:00+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5bd16385db2e3f45",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "ab027b2959a5603d",
       "url": "https://www.reddit.com/r/india/comments/1xtae5n/sometimes_i_wonder_if_its_ever_going_to_be_fine/",
       "title_en": "Sometimes I wonder if it's ever going to be fine.",
@@ -3554,7 +3681,7 @@
       "published_at": "2026-11-11T14:17:18+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xtae5n",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -3690,8 +3817,8 @@
       "cluster_id": "7d8625d4c40b0883",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 236,
-      "reddit_comments": 20
+      "reddit_score": 253,
+      "reddit_comments": 21
     },
     {
       "id": "d337206ecd626075",
@@ -3767,6 +3894,31 @@
       "cluster_id": "ef4a90fbd319ce38",
       "cluster_item_count": 2,
       "cluster_source_count": 2
+    },
+    {
+      "id": "60b901ed9db13b5f",
+      "url": "https://www.timesnownews.com/sports/cricket/usman-khawaja-grilled-over-pat-cummins-sandpaper-gate-claims-on-live-tv-article-156492848",
+      "title_en": "Usman Khawaja Grilled Over Pat Cummins, Sandpaper Gate Claims On Live TV",
+      "title_zh": "乌斯曼·卡瓦贾（Usman Khawaja）对帕特·康明斯（Pat Cummins）进行了拷问，砂纸门在电视直播中声称",
+      "summary_en": "Usman Khawaja reportedly called off several media interactions after facing tough questions on live TV., Cricket, Times Now",
+      "summary_zh": "据报道，乌斯曼·卡瓦贾在电视直播中面临棘手问题后取消了几次媒体互动。, 板球, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156492959,thumbsize-34832,width-1280,height-720,resizemode-75/156492959.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T13:08:36+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "60b901ed9db13b5f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f70daf7bd2bb5055",
@@ -3907,7 +4059,7 @@
       "published_at": "2026-11-11T12:51:34+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xt8uhh",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "军事政治"
       ],
@@ -3916,7 +4068,7 @@
       "cluster_id": "c190afd73afe9369",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 8,
+      "reddit_score": 9,
       "reddit_comments": 0
     },
     {
@@ -3935,7 +4087,7 @@
       "published_at": "2026-11-11T12:48:59+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xt8sqz",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "犯罪法律",
         "军事政治"
@@ -3945,7 +4097,7 @@
       "cluster_id": "331fe42e119b732b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 49,
+      "reddit_score": 60,
       "reddit_comments": 4
     },
     {
@@ -4091,8 +4243,8 @@
       "cluster_id": "3da8c7111f593325",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 189,
-      "reddit_comments": 57
+      "reddit_score": 223,
+      "reddit_comments": 59
     },
     {
       "id": "ee064e469ab4e986",
@@ -4134,7 +4286,7 @@
       "published_at": "2026-11-11T11:38:00+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xt7gju",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "婚俗宗教"
       ],
@@ -4143,7 +4295,7 @@
       "cluster_id": "0842c2b2577989a4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 254,
+      "reddit_score": 259,
       "reddit_comments": 17
     },
     {
@@ -4222,7 +4374,7 @@
       "cluster_id": "ca23f4240f5c10f1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 207,
+      "reddit_score": 209,
       "reddit_comments": 18
     },
     {
@@ -4250,7 +4402,7 @@
       "cluster_id": "deafceea54240917",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 11,
+      "reddit_score": 20,
       "reddit_comments": 6
     },
     {
@@ -4269,16 +4421,16 @@
       "published_at": "2026-11-11T10:50:52+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
       "reddit_id": "t3_1xt6iec",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
-      "reddit_score": 4,
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
+      "reddit_score": 5,
       "reddit_comments": 2
     },
     {
@@ -4356,6 +4508,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "a1a6449843696bfe",
+      "url": "https://www.timesnownews.com/sports/cricket/kane-williamson-out-as-new-zealand-name-squad-for-india-tests-article-156492436",
+      "title_en": "New Zealand Name Squad For India Tests; Devon Conway, Rachin Ravindra Return",
+      "title_zh": "新西兰参加印度测试的名单；戴文·康威、拉钦·拉文德拉回归",
+      "summary_en": "New Zealand have announced the squad for the two-match Test series against India., Cricket, Times Now",
+      "summary_zh": "新西兰已经公布了对阵印度的两场测试系列赛的阵容。, 板球, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156492432,thumbsize-1366945,width-1280,height-720,resizemode-75/156492432.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-11T10:15:00+08:00",
+      "fetched_at": "2026-11-13T11:20:23+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a1a6449843696bfe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "8d664fa862549dbb",
       "url": "https://www.ndtv.com/offbeat/viral-raccoon-who-passed-out-in-liquor-store-helps-raise-rs-2-3-crore-for-local-animal-shelter-12310515",
       "title_en": "Viral Raccoon Who Passed Out In Liquor Store Helps Raise Rs 2.3 Crore For Local Animal Shelter",
@@ -4405,7 +4582,7 @@
       "cluster_id": "3a0783f35df6bf42",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 144,
+      "reddit_score": 161,
       "reddit_comments": 17
     },
     {
@@ -4430,8 +4607,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "1fe3029a993961e7",
@@ -4481,10 +4658,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8,
-      "reddit_score": 138,
-      "reddit_comments": 24
+      "cluster_item_count": 59,
+      "cluster_source_count": 9,
+      "reddit_score": 140,
+      "reddit_comments": 26
     },
     {
       "id": "e1b773acc2443215",
@@ -4562,7 +4739,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 0,
-      "reddit_comments": 2
+      "reddit_comments": 3
     },
     {
       "id": "3c7a8d869f0c8342",
@@ -4643,7 +4820,7 @@
       "cluster_id": "45c70925f7e48829",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 223,
+      "reddit_score": 233,
       "reddit_comments": 32
     },
     {
@@ -4671,8 +4848,8 @@
       "cluster_id": "3552b6182fd39d23",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 52,
-      "reddit_comments": 46
+      "reddit_score": 92,
+      "reddit_comments": 72
     },
     {
       "id": "b8e895df9c2641c2",
@@ -4699,8 +4876,8 @@
       "cluster_id": "b8e895df9c2641c2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 10,
-      "reddit_comments": 9
+      "reddit_score": 8,
+      "reddit_comments": 10
     },
     {
       "id": "a14728dde33faf6e",
@@ -4724,8 +4901,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "3da8c7111f593325",
@@ -4754,7 +4931,7 @@
       "cluster_item_count": 2,
       "cluster_source_count": 1,
       "reddit_score": 76,
-      "reddit_comments": 35
+      "reddit_comments": 37
     },
     {
       "id": "4a0115464bc954e5",
@@ -4781,7 +4958,7 @@
       "cluster_id": "4a0115464bc954e5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 28,
+      "reddit_score": 42,
       "reddit_comments": 2
     },
     {
@@ -4858,8 +5035,8 @@
       "cluster_id": "9e8d1ac40e6cdedf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 116,
-      "reddit_comments": 4
+      "reddit_score": 123,
+      "reddit_comments": 6
     },
     {
       "id": "881eef64afa5b885",
@@ -4915,8 +5092,8 @@
       "cluster_id": "c34a778da711b3c1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 677,
-      "reddit_comments": 115
+      "reddit_score": 694,
+      "reddit_comments": 125
     },
     {
       "id": "931d3ca49ea30316",
@@ -4996,7 +5173,7 @@
       "cluster_id": "8a185bfcf97e9f8c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 7,
+      "reddit_score": 6,
       "reddit_comments": 0
     },
     {
@@ -5125,8 +5302,8 @@
       "cluster_id": "7a749a589672038e",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 239,
-      "reddit_comments": 5
+      "reddit_score": 583,
+      "reddit_comments": 13
     },
     {
       "id": "c1c7ff38928c08f6",
@@ -5153,7 +5330,7 @@
       "cluster_id": "c1c7ff38928c08f6",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 129,
+      "reddit_score": 140,
       "reddit_comments": 36
     },
     {
@@ -5329,8 +5506,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 56,
-      "cluster_source_count": 8
+      "cluster_item_count": 59,
+      "cluster_source_count": 9
     },
     {
       "id": "6da9a77cb8d285e2",

@@ -1,7 +1,29 @@
 {
   "month": "2026-08",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "12ce5fa95061a5c9",
+      "date": "2026-08-26",
+      "published_at": "2026-08-26T16:02:23+08:00",
+      "title_zh": "女子在拉达克捕捉到罕见的彩虹云，互联网怀疑照片是否是人工智能",
+      "title_en": "Woman Captures Rare Rainbow Clouds In Ladakh, Internet Wonders If Pics Are AI",
+      "summary_zh": "一名驾车穿过拉达克的女子捕捉到了罕见的彩虹色云彩，闪烁着粉色、绿色、蓝色和紫色的光芒，让许多观众怀疑这些照片是否真实。",
+      "summary_en": "A woman driving through Ladakh captured rare rainbow-coloured clouds glowing in pink, green, blue and violet, leaving many viewers wondering if the pictures were real.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/Untitled-design-2026-08-26T132600.715-2026-08-354746e5b923a62dac55bd98d5a730ec-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/woman-captures-rare-rainbow-clouds-in-ladakh-internet-wonders-if-pics-are-ai-ws-l-10294244.html",
+      "translation_status": "fallback",
+      "cluster_id": "12ce5fa95061a5c9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "daccb8502da62bb5",
       "date": "2026-08-23",

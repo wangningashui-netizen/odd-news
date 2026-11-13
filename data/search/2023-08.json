@@ -1,0 +1,28 @@
+{
+  "month": "2023-08",
+  "count": 1,
+  "items": [
+    {
+      "id": "0095fa04ddc19b95",
+      "date": "2023-08-01",
+      "published_at": "2023-08-01T22:24:08+08:00",
+      "title_zh": "互联网对女孩在行驶的自行车上接吻的视频感到不满",
+      "title_en": "Internet Is Unhappy With Video Of Girls Kissing On A Moving Bike",
+      "summary_zh": "两名女孩在移动自行车上表演浪漫特技的视频在社交媒体上引起了关注。",
+      "summary_en": "The video of two girls performing romantic stunts on a moving bike has gained attention on social media.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/08/news18-bl-zb-7-169089965216x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/internet-is-unhappy-with-video-of-girls-kissing-on-a-moving-bike-8480485.html",
+      "translation_status": "fallback",
+      "cluster_id": "0095fa04ddc19b95",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    }
+  ]
+}
