@@ -112,7 +112,7 @@
         "angle_source": "inbox"
       },
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9
     },
     {
@@ -374,8 +374,8 @@
       "cluster_id": "8446ab304a91f8e5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 875,
-      "reddit_comments": 44
+      "reddit_score": 907,
+      "reddit_comments": 45
     },
     {
       "id": "be13f0094b322157",
@@ -716,9 +716,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "07524246b6d6f6c8",
-      "cluster_item_count": 4,
+      "cluster_item_count": 5,
       "cluster_source_count": 2,
-      "reddit_score": 261,
+      "reddit_score": 277,
       "reddit_comments": 19
     },
     {
@@ -736,7 +736,7 @@
       "region": "印度",
       "published_at": "2026-11-11T22:20:20+08:00",
       "fetched_at": "2026-11-12T11:43:06+08:00",
-      "reddit_id": "t3_1xtiy72",
+      "reddit_id": "t3_1xvge3e",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -746,8 +746,8 @@
       "cluster_id": "448aec12cd3229f4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 42,
-      "reddit_comments": 2
+      "reddit_score": 264,
+      "reddit_comments": 17
     },
     {
       "id": "26c703efe396e974",
@@ -774,7 +774,7 @@
       "cluster_id": "26c703efe396e974",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 282,
+      "reddit_score": 288,
       "reddit_comments": 28
     },
     {
@@ -1039,7 +1039,7 @@
       "cluster_id": "c340b74bd1681baa",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 48,
+      "reddit_score": 50,
       "reddit_comments": 5
     },
     {
@@ -1119,7 +1119,7 @@
       "cluster_id": "72a83c80b3141de9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 100,
+      "reddit_score": 101,
       "reddit_comments": 8
     },
     {
@@ -1147,8 +1147,8 @@
       "cluster_id": "486cf10db8fe5d18",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 317,
-      "reddit_comments": 32
+      "reddit_score": 323,
+      "reddit_comments": 33
     },
     {
       "id": "23dbe7d9a625fa1d",
@@ -1714,7 +1714,7 @@
       "cluster_id": "7fdae653ffd81789",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 80,
+      "reddit_score": 83,
       "reddit_comments": 0
     },
     {
@@ -1742,7 +1742,7 @@
       "cluster_id": "ffd0e85e8440ad8f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 35,
+      "reddit_score": 37,
       "reddit_comments": 2
     },
     {
@@ -2070,7 +2070,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9
     },
     {
@@ -2423,7 +2423,7 @@
       "cluster_id": "337f85bd7bd57564",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 52,
+      "reddit_score": 53,
       "reddit_comments": 3
     },
     {
@@ -2476,7 +2476,7 @@
       "cluster_id": "1eb7c7b5f95070bd",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 73,
+      "reddit_score": 78,
       "reddit_comments": 6
     },
     {
@@ -2504,7 +2504,7 @@
       "cluster_id": "f4ee5a0fda29e0b9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 35,
+      "reddit_score": 36,
       "reddit_comments": 0
     },
     {
@@ -3072,7 +3072,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9,
       "reddit_score": 109,
       "reddit_comments": 3
@@ -3230,7 +3230,7 @@
       "cluster_id": "386ea3b5a10d0732",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 244,
+      "reddit_score": 246,
       "reddit_comments": 30
     },
     {
@@ -3483,7 +3483,7 @@
       "cluster_id": "c161101ae1edadc5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 11,
+      "reddit_score": 13,
       "reddit_comments": 8
     },
     {
@@ -4097,7 +4097,7 @@
       "cluster_id": "331fe42e119b732b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 60,
+      "reddit_score": 65,
       "reddit_comments": 4
     },
     {
@@ -4243,8 +4243,8 @@
       "cluster_id": "3da8c7111f593325",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 223,
-      "reddit_comments": 59
+      "reddit_score": 231,
+      "reddit_comments": 60
     },
     {
       "id": "ee064e469ab4e986",
@@ -4428,7 +4428,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9,
       "reddit_score": 5,
       "reddit_comments": 2
@@ -4607,7 +4607,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9
     },
     {
@@ -4658,7 +4658,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9,
       "reddit_score": 140,
       "reddit_comments": 26
@@ -4820,7 +4820,7 @@
       "cluster_id": "45c70925f7e48829",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 233,
+      "reddit_score": 239,
       "reddit_comments": 32
     },
     {
@@ -4901,7 +4901,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9
     },
     {
@@ -4948,7 +4948,7 @@
       "region": "印度",
       "published_at": "2026-11-11T02:27:38+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
-      "reddit_id": "t3_1xtiy72",
+      "reddit_id": "t3_1xvge3e",
       "page_fetched": true,
       "tags": [
         "军事政治"
@@ -4958,8 +4958,8 @@
       "cluster_id": "4a0115464bc954e5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 42,
-      "reddit_comments": 2
+      "reddit_score": 264,
+      "reddit_comments": 17
     },
     {
       "id": "4d38d70cb2a93fca",
@@ -5506,7 +5506,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 59,
+      "cluster_item_count": 61,
       "cluster_source_count": 9
     },
     {
