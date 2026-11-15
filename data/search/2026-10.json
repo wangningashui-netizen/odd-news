@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "count": 91,
+  "count": 92,
   "items": [
     {
       "id": "443b27a8eddc7635",
@@ -659,6 +659,30 @@
       "url": "https://indianexpress.com/article/trending/trending-globally/us-high-school-graduate-makes-808000-a-year-from-3d-printing-side-hustle-10924092/",
       "translation_status": "fallback",
       "cluster_id": "c60fb5f200e61e72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b4a7cdfe823eecf8",
+      "date": "2026-10-16",
+      "published_at": "2026-10-16T15:33:37+08:00",
+      "title_zh": "病毒视频：Paan 供应商在 3AC 火车车厢下铺准备 25 个 Paan，引发卫生问题",
+      "title_en": "Viral Video: Paan Vendor Prepares 25 Paans On Lower Berth Of 3AC Train Coach, Raises Hygiene Concerns",
+      "summary_zh": "有人看到摊贩坐在下铺，他的临时工作站上铺着一块布，还有其他准备煎饼的必要原料。",
+      "summary_en": "The vendor was seen sitting on the lower berth with his makeshift workstation that featured a cloth spread over the berth and other necessary ingredients to prepare paans",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-3-2026-10-eba7f9e2cc065c448f5d3ea090d157b7-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "卫生环境",
+        "交通火车",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/viral-video-paan-vendor-prepares-25-paans-on-lower-berth-of-3ac-train-coach-raises-hygiene-concerns-ws-l-10384508.html",
+      "translation_status": "fallback",
+      "cluster_id": "b4a7cdfe823eecf8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

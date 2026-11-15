@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "598c2027b6b8b03d",
@@ -48,6 +48,33 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c60fb5f200e61e72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "b4a7cdfe823eecf8",
+      "url": "https://www.news18.com/viral/viral-video-paan-vendor-prepares-25-paans-on-lower-berth-of-3ac-train-coach-raises-hygiene-concerns-ws-l-10384508.html",
+      "title_en": "Viral Video: Paan Vendor Prepares 25 Paans On Lower Berth Of 3AC Train Coach, Raises Hygiene Concerns",
+      "title_zh": "病毒视频：Paan 供应商在 3AC 火车车厢下铺准备 25 个 Paan，引发卫生问题",
+      "summary_en": "The vendor was seen sitting on the lower berth with his makeshift workstation that featured a cloth spread over the berth and other necessary ingredients to prepare paans",
+      "summary_zh": "有人看到摊贩坐在下铺，他的临时工作站上铺着一块布，还有其他准备煎饼的必要原料。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-3-2026-10-eba7f9e2cc065c448f5d3ea090d157b7-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-16T15:33:37+08:00",
+      "fetched_at": "2026-11-15T10:30:02+08:00",
+      "page_fetched": true,
+      "tags": [
+        "卫生环境",
+        "交通火车",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b4a7cdfe823eecf8",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

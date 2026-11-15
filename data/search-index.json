@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T08:09:05+08:00",
+  "updated_at": "2026-11-15T10:33:59+08:00",
   "tags": [
     "街头食物",
     "卫生环境",
@@ -22,12 +22,12 @@
   "months": [
     {
       "month": "2026-11",
-      "count": 1361,
+      "count": 1473,
       "file": "data/search/2026-11.json"
     },
     {
       "month": "2026-10",
-      "count": 91,
+      "count": 92,
       "file": "data/search/2026-10.json"
     },
     {

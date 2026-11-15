@@ -1,26 +1,26 @@
 {
   "site": "奇闻日报",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-15T08:09:05+08:00",
+  "updated_at": "2026-11-15T10:33:59+08:00",
   "dates": [
     {
       "date": "2026-11-15",
-      "count": 2,
+      "count": 18,
       "file": "data/2026-11-15.json"
     },
     {
       "date": "2026-11-14",
-      "count": 42,
+      "count": 134,
       "file": "data/2026-11-14.json"
     },
     {
       "date": "2026-11-13",
-      "count": 146,
+      "count": 147,
       "file": "data/2026-11-13.json"
     },
     {
       "date": "2026-11-12",
-      "count": 162,
+      "count": 165,
       "file": "data/2026-11-12.json"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "date": "2026-10-16",
-      "count": 2,
+      "count": 3,
       "file": "data/2026-10-16.json"
     },
     {

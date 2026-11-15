@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "timezone": "Asia/Shanghai",
-  "count": 162,
+  "count": 165,
   "items": [
     {
       "id": "5b5d1d04f5ed0043",
@@ -28,7 +28,7 @@
       "cluster_id": "5b5d1d04f5ed0043",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 18,
+      "reddit_score": 21,
       "reddit_comments": 4
     },
     {
@@ -56,8 +56,33 @@
       "cluster_id": "8c5a5ff49185dfa1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 4,
+      "reddit_score": 3,
       "reddit_comments": 1
+    },
+    {
+      "id": "d8ffbe41ab44dc9b",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/jensen-huangs-ai-empire-faces-turmoil-amid-scandal-and-succession-questions-video-156500061",
+      "title_en": "Nvidia 'Spy Scandal': Who Will Take Over Jensen Huang's AI Empire? Gurcharan Das Says..",
+      "title_zh": "英伟达“间谍丑闻”：谁将接管黄仁勋的人工智能帝国？古尔恰兰·达斯说..",
+      "summary_en": "In a fresh twist in Nvidia 'Spy Scandal', Jensen Huang was allegedly having two affairs. During an exclusive conversation with Heena Gambhir on Times Now's show, Decoding Now, Author Gurcharan Das said, \"Nvidia's biggest governance failure is the absence of an independent chairman and a clear succession plan. No company should depend on one individual; strong institutions must be built to survive beyond their founders. No leader is irreplaceable, and Nvidia's board failed by becoming overly dependent on Jensen…",
+      "summary_zh": "在英伟达“间谍丑闻”中，黄仁勋据称有两段婚外情。在 Times Now 节目《Decoding Now》中与 Heena Gambhir 的独家对话中，作者 Gurcharan Das 表示：“Nvidia 最大的治理失败是缺乏独立董事长和明确的继任计划。任何公司都不应依赖于一个人；必须建立强大的机构才能超越创始人的生存能力。没有哪个领导者是不可替代的，Nvidia 的董事会失败了",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156500061,thumbsize-120820,width-1280,height-720,resizemode-75/156500061.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-12T23:33:39+08:00",
+      "fetched_at": "2026-11-15T10:30:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "63e8d54667d57d7e",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "0af232769b3aeaf3",
@@ -342,7 +367,7 @@
       "cluster_id": "07524246b6d6f6c8",
       "cluster_item_count": 5,
       "cluster_source_count": 2,
-      "reddit_score": 218,
+      "reddit_score": 246,
       "reddit_comments": 35
     },
     {
@@ -749,7 +774,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "63e8d54667d57d7e",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -799,7 +824,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "249145a7627a9f97",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1,
       "reddit_score": 20,
       "reddit_comments": 22
@@ -856,7 +881,7 @@
       "cluster_id": "1080ac6742f20924",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 491,
+      "reddit_score": 497,
       "reddit_comments": 38
     },
     {
@@ -965,7 +990,7 @@
       "cluster_id": "3741e238605a3f9d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 82,
+      "reddit_score": 81,
       "reddit_comments": 27
     },
     {
@@ -2155,7 +2180,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 63,
-      "reddit_comments": 7
+      "reddit_comments": 8
     },
     {
       "id": "43603a0826f410f9",
@@ -2767,8 +2792,8 @@
       "cluster_id": "f9b7538c54195a3d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 640,
-      "reddit_comments": 64
+      "reddit_score": 650,
+      "reddit_comments": 65
     },
     {
       "id": "c40bf97af2eb08a4",
@@ -2955,8 +2980,8 @@
       "cluster_id": "a8262758e64b6e48",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 315,
-      "reddit_comments": 83
+      "reddit_score": 366,
+      "reddit_comments": 88
     },
     {
       "id": "eeefe13ff818a5f0",
@@ -2983,7 +3008,7 @@
       "cluster_id": "2f0a9fdba5d747c4",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 85,
+      "reddit_score": 86,
       "reddit_comments": 28
     },
     {
@@ -3210,7 +3235,7 @@
       "cluster_id": "4ac26120aa7beac9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 30,
+      "reddit_score": 31,
       "reddit_comments": 1
     },
     {
@@ -3517,7 +3542,7 @@
       "cluster_id": "dc1f6b5aebdc72ce",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 200,
+      "reddit_score": 202,
       "reddit_comments": 25
     },
     {
@@ -3594,6 +3619,31 @@
       "cluster_id": "cce486e2837227bf",
       "cluster_item_count": 2,
       "cluster_source_count": 1
+    },
+    {
+      "id": "7b13f0420159f1e2",
+      "url": "https://www.timesnownews.com/travel/is-clean-air-a-new-luxury-how-urban-recovery-holidays-are-giving-travellers-an-escape-from-pollution-article-156497497",
+      "title_en": "Is Clean Air A New Luxury? How Urban Recovery Holidays Are Giving Travellers An Escape From Pollution",
+      "title_zh": "清洁空气是新奢侈品吗？城市复兴假期如何让旅行者远离污染",
+      "summary_en": "As pollution levels soar across Delhi-NCR, travellers are increasingly swapping city breaks for quieter destinations, seeking cleaner air, better sleep and a much-needed winter escape., Travel, Times Now",
+      "summary_zh": "随着德里首都辖区的污染水平飙升，越来越多的旅行者放弃城市度假，前往更安静的目的地，寻求更清洁的空气、更好的睡眠和急需的冬季逃生。, Travel, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156497498,thumbsize-128610,width-1280,height-720,resizemode-75/156497498.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-12T14:43:04+08:00",
+      "fetched_at": "2026-11-15T10:30:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 64,
+      "cluster_source_count": 9
     },
     {
       "id": "64fde431bd16062e",
@@ -3736,7 +3786,7 @@
       "region": "印度",
       "published_at": "2026-11-12T14:25:32+08:00",
       "fetched_at": "2026-11-13T11:20:32+08:00",
-      "reddit_id": "t3_1xvge3e",
+      "reddit_id": "t3_1xw0zrp",
       "page_fetched": true,
       "tags": [
         "犯罪法律"
@@ -3744,10 +3794,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 61,
+      "cluster_item_count": 64,
       "cluster_source_count": 9,
-      "reddit_score": 264,
-      "reddit_comments": 17
+      "reddit_score": 0,
+      "reddit_comments": 0
     },
     {
       "id": "1487e0e21d51f14f",
@@ -3874,7 +3924,7 @@
       "cluster_id": "630f0cbbeb099e8f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 66,
+      "reddit_score": 71,
       "reddit_comments": 1
     },
     {
@@ -3940,7 +3990,7 @@
       "region": "印度",
       "published_at": "2026-11-12T13:44:23+08:00",
       "fetched_at": "2026-11-13T11:20:32+08:00",
-      "reddit_id": "t3_1xvge3e",
+      "reddit_id": "t3_1xw0zrp",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -3950,8 +4000,8 @@
       "cluster_id": "280e74145d1d89e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 264,
-      "reddit_comments": 17
+      "reddit_score": 0,
+      "reddit_comments": 0
     },
     {
       "id": "692fd210f94816b3",
@@ -4104,7 +4154,7 @@
       "cluster_id": "a4176644ba82ce2b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 92,
+      "reddit_score": 94,
       "reddit_comments": 1
     },
     {
@@ -4131,6 +4181,31 @@
       "cluster_id": "e40e714c95f33cd7",
       "cluster_item_count": 2,
       "cluster_source_count": 2
+    },
+    {
+      "id": "f228ddc469cd3b65",
+      "url": "https://www.timesnownews.com/travel/maharashtra-ladghar-guhagar-and-shrivardhan-beaches-make-the-blue-flag-list-for-2026-27-article-156496843",
+      "title_en": "Maharashtra’s Ladghar, Guhagar and Shrivardhan Beaches Make the Blue Flag List for 2026-27",
+      "title_zh": "马哈拉施特拉邦的 Ladghar、Guhagar 和 Shrivardhan 海滩跻身 2026-27 年蓝旗名单",
+      "summary_en": "The Blue Flag is an international eco-label that recognises beaches meeting strict standards on water quality, cleanliness, safety and environmental management, and the award has to be renewed every season., Travel, Times Now",
+      "summary_zh": "蓝旗是一个国际生态标签，认可海滩在水质、清洁、安全和环境管理方面符合严格标准，并且该奖项每个季节都必须更新。, Travel, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156496838,thumbsize-120179,width-1280,height-720,resizemode-75/156496838.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-12T13:00:08+08:00",
+      "fetched_at": "2026-11-15T10:30:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f228ddc469cd3b65",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "b2cbd7d406d15b8d",
@@ -4185,8 +4260,8 @@
       "cluster_id": "a6538f9b965a6a95",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 31,
-      "reddit_comments": 20
+      "reddit_score": 36,
+      "reddit_comments": 21
     },
     {
       "id": "cce486e2837227bf",
@@ -4291,8 +4366,8 @@
       "cluster_id": "cb4db5c69f58b8e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 546,
-      "reddit_comments": 67
+      "reddit_score": 554,
+      "reddit_comments": 68
     },
     {
       "id": "14cc8daa0d5ab290",
@@ -4547,7 +4622,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 61,
+      "cluster_item_count": 64,
       "cluster_source_count": 9
     },
     {
@@ -4985,7 +5060,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 61,
+      "cluster_item_count": 64,
       "cluster_source_count": 9
     },
     {
