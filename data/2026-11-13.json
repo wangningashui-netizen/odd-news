@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "timezone": "Asia/Shanghai",
-  "count": 147,
+  "count": 149,
   "items": [
     {
       "id": "b45bb191e7388915",
@@ -266,7 +266,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 0,
-      "reddit_comments": 13
+      "reddit_comments": 14
     },
     {
       "id": "cda2c438bad0affb",
@@ -534,7 +534,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 8,
-      "reddit_comments": 0
+      "reddit_comments": 1
     },
     {
       "id": "333c5cc54c39e835",
@@ -559,9 +559,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 64,
+      "cluster_item_count": 67,
       "cluster_source_count": 9,
-      "reddit_score": 19,
+      "reddit_score": 22,
       "reddit_comments": 0
     },
     {
@@ -613,7 +613,7 @@
       "cluster_id": "49bb2c061319ebd8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 19,
+      "reddit_score": 21,
       "reddit_comments": 3
     },
     {
@@ -641,7 +641,7 @@
       "cluster_id": "785aa4db5ab41eb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 316,
+      "reddit_score": 347,
       "reddit_comments": 16
     },
     {
@@ -902,7 +902,7 @@
       "cluster_id": "07524246b6d6f6c8",
       "cluster_item_count": 5,
       "cluster_source_count": 2,
-      "reddit_score": 106,
+      "reddit_score": 111,
       "reddit_comments": 21
     },
     {
@@ -955,8 +955,34 @@
       "cluster_id": "72779237ae6058f8",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 890,
-      "reddit_comments": 60
+      "reddit_score": 909,
+      "reddit_comments": 61
+    },
+    {
+      "id": "b7507a277d36147c",
+      "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/rahul-gandhi-claims-phone-tapped-prime-minister-modi-video-156505882",
+      "title_en": "Rahul Gandhi's Big Charge On Modi Govt: 'My Phone Tapped' | BJP Hits Back| WATCH DEBATE ON NWTK",
+      "title_zh": "拉胡尔·甘地对莫迪政府的严厉指控：“我的电话被窃听”印度人民党反击|观看 NWTK 上的辩论",
+      "summary_en": "Congress' Rahul Gandhi launched a scathing attack on Prime Minister Narendra Modi-led govt of tapping his phone. The LoP claimed that Modi was aware of the surveillance, daring him for the face-to-face public debate. Responding to Rahul Gandhi's allegations, BJP said the phone is but brain is hacked. The question here arises is - 'Proof of the Pudding' in Police F.I.R?",
+      "summary_zh": "国会议员拉胡尔·甘地对总理纳伦德拉·莫迪领导的政府窃听他的电话发起了严厉攻击。人民党声称莫迪知道监控情况，并鼓励他参加面对面的公开辩论。印度人民党在回应拉胡尔·甘地的指控时表示，手机只是大脑被黑了。这里出现的问题是——《Police F.I.R》中的“布丁证明”？",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156505882,thumbsize-112630,width-1280,height-720,resizemode-75/156505882.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-13T22:21:40+08:00",
+      "fetched_at": "2026-11-16T10:39:43+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b7507a277d36147c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "7ce59a566cc73e6a",
@@ -1032,8 +1058,8 @@
       "cluster_id": "5751cbea345ace19",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 440,
-      "reddit_comments": 22
+      "reddit_score": 446,
+      "reddit_comments": 24
     },
     {
       "id": "76eed3e66557dc6f",
@@ -1084,8 +1110,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "e8d2187722ca14c3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "c2345573908127e8",
@@ -1589,7 +1615,7 @@
       "cluster_id": "42993850deeccf27",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 21,
+      "reddit_score": 22,
       "reddit_comments": 0
     },
     {
@@ -2118,6 +2144,32 @@
       "cluster_source_count": 1
     },
     {
+      "id": "27793f74eadad9b7",
+      "url": "https://www.republicworld.com/videos/india/pm-modi-inaugurates-bengaluru-metro-pink-line-launches-projects-worth-rs-15600-crore-2026-11-13-140991",
+      "title_en": "PM Modi Inaugurates Bengaluru Metro Pink Line, Launches Projects Worth Rs 15,600 Crore",
+      "title_zh": "莫迪总理揭幕班加罗尔地铁粉红线，启动价值 1560 亿卢比的项目",
+      "summary_en": "PM Modi Inaugurates Bengaluru Metro Pink Line, Launches Projects Worth Rs 15,600 Crore",
+      "summary_zh": "莫迪总理揭幕班加罗尔地铁粉红线，启动价值 1560 亿卢比的项目",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/bengaluru-metro-1794565673610-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-13T18:28:14+08:00",
+      "fetched_at": "2026-11-16T10:39:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车",
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "27793f74eadad9b7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "c3bca9051575c42e",
       "url": "https://www.ndtv.com/offbeat/tigress-mauls-pak-teen-to-death-at-tiktok-video-shoot-influencer-arrested-12321948",
       "title_en": "Tigress Mauls Pak Teen To Death At TikTok Video Shoot, Influencer Arrested",
@@ -2318,7 +2370,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "95da12dcc8acd835",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -2474,7 +2526,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 17,
-      "reddit_comments": 1
+      "reddit_comments": 2
     },
     {
       "id": "2217c43ad9c3b7d3",
@@ -2553,7 +2605,7 @@
       "cluster_id": "50fc8f18121ede73",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 180,
+      "reddit_score": 184,
       "reddit_comments": 5
     },
     {
@@ -2657,9 +2709,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 64,
+      "cluster_item_count": 67,
       "cluster_source_count": 9,
-      "reddit_score": 142,
+      "reddit_score": 145,
       "reddit_comments": 25
     },
     {
@@ -2838,7 +2890,7 @@
       "cluster_id": "e870459edfb196d9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 41,
+      "reddit_score": 47,
       "reddit_comments": 3
     },
     {
@@ -3043,7 +3095,7 @@
       "cluster_id": "7a39d0a36adb90aa",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 38,
+      "reddit_score": 39,
       "reddit_comments": 0
     },
     {
@@ -3097,8 +3149,8 @@
       "cluster_id": "3c93db5c0b5a86a8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 301,
-      "reddit_comments": 20
+      "reddit_score": 323,
+      "reddit_comments": 21
     },
     {
       "id": "db68a295ec1f0cab",
@@ -3505,7 +3557,7 @@
       "cluster_id": "d523e742f8d0360d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 75,
+      "reddit_score": 76,
       "reddit_comments": 3
     },
     {
@@ -3558,7 +3610,7 @@
       "cluster_id": "4b8b76d5394e9cab",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 19,
+      "reddit_score": 20,
       "reddit_comments": 2
     },
     {
@@ -3878,7 +3930,7 @@
       "cluster_id": "94fd711d3318d6af",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 2,
+      "reddit_score": 3,
       "reddit_comments": 0
     },
     {
@@ -3906,7 +3958,7 @@
       "cluster_id": "61f5fee96bba6a03",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 411,
+      "reddit_score": 421,
       "reddit_comments": 15
     },
     {
@@ -4010,7 +4062,7 @@
       "cluster_id": "42b2b558473ba113",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 139,
+      "reddit_score": 142,
       "reddit_comments": 6
     },
     {
@@ -4059,7 +4111,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "139eba703f172285",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2
     },
     {
@@ -4483,7 +4535,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 64,
+      "cluster_item_count": 67,
       "cluster_source_count": 9,
       "reddit_score": 122,
       "reddit_comments": 18
