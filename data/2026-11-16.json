@@ -1,8 +1,794 @@
 {
   "date": "2026-11-16",
   "timezone": "Asia/Shanghai",
-  "count": 30,
+  "count": 36,
   "items": [
+    {
+      "id": "be2e8883289e9f39",
+      "url": "https://x.com/narendramodi/status/2122342564149985631",
+      "title_en": "A warm welcome by the Indian diaspora in Philippines. Cultural performances. A special Ramayana performance by the Integrated Performing Arts Guild (IPAG) based in Iligan City. Here are highlights from Manila this evening. https://t.co/cry2rBKhnV",
+      "title_zh": "莫迪在马尼拉获侨民欢迎，观看菲律宾剧团演出《罗摩衍那》",
+      "summary_en": "A warm welcome by the Indian diaspora in Philippines. \n\nCultural performances. \n\nA special Ramayana performance by the Integrated Performing Arts Guild (IPAG) based in Iligan City. \n\nHere are highlights from Manila this evening. https://t.co/cry2rBKhnV",
+      "summary_zh": "莫迪抵达菲律宾出席东盟—印度峰会期间，在马尼拉观看伊利甘市综合表演艺术团（IPAG）演出的《罗摩衍那》，并分享当晚侨民欢迎活动的集锦。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-16T22:54:33+08:00",
+      "fetched_at": "2026-11-17T06:39:17+08:00",
+      "tags": [
+        "军事政治",
+        "婚俗宗教"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122342564149985631",
+        "lang": "en",
+        "text": "A warm welcome by the Indian diaspora in Philippines. \n\nCultural performances. \n\nA special Ramayana performance by the Integrated Performing Arts Guild (IPAG) based in Iligan City. \n\nHere are highlights from Manila this evening. https://t.co/cry2rBKhnV",
+        "author": {
+          "name": "Narendra Modi",
+          "username": "narendramodi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2090480155240378368/suu43duO_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/avatar.jpg"
+        },
+        "created_at": "2026-11-16T14:54:33.000Z",
+        "public_metrics": {
+          "reply_count": 232,
+          "repost_count": 1328,
+          "like_count": 6065,
+          "quote_count": 35,
+          "bookmark_count": 67,
+          "impression_count": 283495
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122341742100054017/vid/avc1/1920x1080/XQi1TR2a_qVeGyGj.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:17+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/narendramodi/status/2122342564149985631",
+        "ytdlp_command": "yt-dlp https://x.com/narendramodi/status/2122342564149985631",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122414669579301298",
+            "author": {
+              "name": "GOOD DO GUPTA",
+              "username": "purushotta27033",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1835025091777773568/SGYYiuP2_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/avatars/purushotta27033.jpg"
+            },
+            "text": "@narendramodi हो रहा मोदी मोदी...\nसचमुच गर्व के पल हैं,,\nजय हिन्द 🇮🇳🙏🇮🇳 \nजय भारत 🙏🇮🇳🙏",
+            "created_at": "2026-11-16T19:41:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2122342564149985631"
+          },
+          {
+            "id": "2122421359959793750",
+            "author": {
+              "name": "Deepak Lal",
+              "username": "deepak_laal",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120408422638391296/1pub3m4Q_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/avatars/deepak_laal.jpg"
+            },
+            "text": "@narendramodi Modi ji stop doing unnecessary visits.",
+            "created_at": "2026-11-16T20:07:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2122342564149985631"
+          },
+          {
+            "id": "2122437387590533363",
+            "author": {
+              "name": "Tanveer",
+              "username": "pbt_tanveer",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/781016239405690880/lh6tKqV4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/avatars/pbt_tanveer.jpg"
+            },
+            "text": "@narendramodi diaspora hi kaam kar raha hai bas",
+            "created_at": "2026-11-16T21:11:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2122342564149985631"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "8bb4f5c21f64bc342ac762daccdad2117bdfda5c",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "be2e8883289e9f39",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "098b731c1c186558",
+      "url": "https://x.com/AshwiniVaishnaw/status/2122324403015090469",
+      "title_en": "कानपुर से दिल्ली के लिए ‘कानपुर एक्सप्रेस’ की शुरुआत। https://t.co/E3BkFGImgO",
+      "title_zh": "铁道部长宣布开通坎普尔至德里“坎普尔快车”",
+      "summary_en": "कानपुर से दिल्ली के लिए ‘कानपुर एक्सप्रेस’ की शुरुआत। https://t.co/E3BkFGImgO",
+      "summary_zh": "铁道部长阿什维尼·瓦伊什纳夫发视频宣布，从坎普尔开往德里的“坎普尔快车”正式开通。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-16T21:42:23+08:00",
+      "fetched_at": "2026-11-17T06:39:20+08:00",
+      "tags": [
+        "交通火车",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122324403015090469",
+        "lang": "hi",
+        "text": "कानपुर से दिल्ली के लिए ‘कानपुर एक्सप्रेस’ की शुरुआत। https://t.co/E3BkFGImgO",
+        "author": {
+          "name": "Ashwini Vaishnaw",
+          "username": "AshwiniVaishnaw",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054709198148317184/aU5xM1Nx_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/avatar.jpg"
+        },
+        "created_at": "2026-11-16T13:42:23.000Z",
+        "public_metrics": {
+          "reply_count": 188,
+          "repost_count": 439,
+          "like_count": 2449,
+          "quote_count": 15,
+          "bookmark_count": 79,
+          "impression_count": 75131
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122324272509227008/vid/avc1/1080x1920/0T4ER8XZPie0TnLE.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:20+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/AshwiniVaishnaw/status/2122324403015090469",
+        "ytdlp_command": "yt-dlp https://x.com/AshwiniVaishnaw/status/2122324403015090469",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122426267014508969",
+            "author": {
+              "name": "Sandy",
+              "username": "iambhrama",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1887408414583865344/H_u7DaEL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/avatars/iambhrama.jpg"
+            },
+            "text": "@AshwiniVaishnaw Sir bullet train ka station kanpur nahi araul boliye. Please",
+            "created_at": "2026-11-16T20:27:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 27
+            },
+            "in_reply_to_id": "2122324403015090469"
+          },
+          {
+            "id": "2122404586489364824",
+            "author": {
+              "name": "PawanAnuj🇮🇳",
+              "username": "PawanAnuj81",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1822351335292882945/fKDYUnbO_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/avatars/PawanAnuj81.jpg"
+            },
+            "text": "@AshwiniVaishnaw मेरे जिंदा रहने तक बुलेट ट्रेन देख लूंगा या उसमें सफर कर पाऊंगा  सर या नहीं?",
+            "created_at": "2026-11-16T19:01:00.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 23
+            },
+            "in_reply_to_id": "2122324403015090469"
+          },
+          {
+            "id": "2122421386010644766",
+            "author": {
+              "name": "Sarcastic Boy",
+              "username": "abhiya_19",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1765066499008692224/6GP5Fqcd_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/avatars/abhiya_19.jpg"
+            },
+            "text": "@AshwiniVaishnaw #इटावा जंक्शन  महत्वपूर्ण स्टेशन है। यहां से प्रतिदिन बड़ी संख्या में यात्री #राजस्थान, #गुजरात, उत्तर प्रदेश और अन्य राज्यों की यात्रा करते हैं। \n वाराणसी–साबरमती सुपरफास्ट एक्सप्रेस (12206/12205) का ठहराव इटावा जंक्शन पर भी सुनिश्चित करे। 🙏",
+            "created_at": "2026-11-16T20:07:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 6
+            },
+            "in_reply_to_id": "2122324403015090469"
+          },
+          {
+            "id": "2122402129151451472",
+            "author": {
+              "name": "Mortis",
+              "username": "Ego_mortis",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1781255383690227712/bdK2PGIY_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/avatars/Ego_mortis.jpg"
+            },
+            "text": "@AshwiniVaishnaw #ghutka_Express",
+            "created_at": "2026-11-16T18:51:14.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122324403015090469"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "b11d9fa710c070804de4d3f1e9b63bd628dfcb59",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "098b731c1c186558",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "05292fa6634f8eb4",
+      "url": "https://x.com/asadowaisi/status/2122297379105984670",
+      "title_en": "पहले @myogiadityanath को हराएंगे, फिर दिल्ली जाकर @narendramodi को हटाएंगे। https://t.co/HZiqJxbIC6",
+      "title_zh": "奥瓦西放话：先打败约吉，再去德里拿下莫迪",
+      "summary_en": "पहले @myogiadityanath को हराएंगे, फिर दिल्ली जाकर @narendramodi को हटाएंगे। \n\nhttps://t.co/HZiqJxbIC6",
+      "summary_zh": "全印穆斯林联盟（AIMIM）主席阿萨杜丁·奥瓦西发视频称，将先击败北方邦首席部长约吉·阿迪亚纳特，再前往德里把莫迪赶下台。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-16T19:55:00+08:00",
+      "fetched_at": "2026-11-17T06:39:38+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122297379105984670",
+        "lang": "hi",
+        "text": "पहले @myogiadityanath को हराएंगे, फिर दिल्ली जाकर @narendramodi को हटाएंगे। \n\nhttps://t.co/HZiqJxbIC6",
+        "author": {
+          "name": "Asaduddin Owaisi",
+          "username": "asadowaisi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1313624570679631873/s4wXlC9k_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatar.jpg"
+        },
+        "created_at": "2026-11-16T11:55:00.000Z",
+        "public_metrics": {
+          "reply_count": 109,
+          "repost_count": 149,
+          "like_count": 750,
+          "quote_count": 9,
+          "bookmark_count": 11,
+          "impression_count": 31301
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2121954072991559680/vid/avc1/1080x1920/xBwiCYR8IQcTiB9Q.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:38+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/asadowaisi/status/2122297379105984670",
+        "ytdlp_command": "yt-dlp https://x.com/asadowaisi/status/2122297379105984670",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122387735256375802",
+            "author": {
+              "name": "rana a.d.",
+              "username": "ranaad1519918",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1839268246417022977/fnQRyqz0_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatars/ranaad1519918.jpg"
+            },
+            "text": "@asadowaisi @myogiadityanath @narendramodi कह तो ऐसे रहे हैं जैसे कि योगी और मोदी सडक पर बैठे हों और उनसे कहा जाए चलो हटो और बो सडक से उठ जाएं, अरे ओबैसी सहाब देश की जनता को सब पता है कि आप का काम भाजपा को जो पार्टी हरा सकती है बस उसी पार्टी का बोट काटने के लिए चुनाव लडते हो जिसका सीधा फायदा भाजपा को जाता है,",
+            "created_at": "2026-11-16T17:54:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 47
+            },
+            "in_reply_to_id": "2122297379105984670"
+          },
+          {
+            "id": "2122453252683837665",
+            "author": {
+              "name": "Irshad Ali",
+              "username": "AliAli549547",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1710360143509024768/WkvOgo8N_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatars/AliAli549547.jpg"
+            },
+            "text": "@asadowaisi @myogiadityanath @narendramodi B Team of BJP",
+            "created_at": "2026-11-16T22:14:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2122297379105984670"
+          },
+          {
+            "id": "2122446549246783893",
+            "author": {
+              "name": "DailyDeceit",
+              "username": "ZionistElon",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2106601768406884352/cmtkNvLn_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatars/ZionistElon.jpg"
+            },
+            "text": "@asadowaisi @myogiadityanath @narendramodi Owaisi ka promotion chal rha hai tagda mainstream media par bhi aur Social media par bhi",
+            "created_at": "2026-11-16T21:47:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 6
+            },
+            "in_reply_to_id": "2122297379105984670"
+          },
+          {
+            "id": "2122430946872033519",
+            "author": {
+              "name": "DocNikke 💝",
+              "username": "dassnikhil",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108068397347196928/ymN9OBnN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatars/dassnikhil.jpg"
+            },
+            "text": "@asadowaisi @myogiadityanath @narendramodi #politicaltourist 🤭🤭🤣🤣\n\nराजनीतिक कबूतर 🤣🤣🤣🤣",
+            "created_at": "2026-11-16T20:45:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122297379105984670"
+          },
+          {
+            "id": "2122422047435538560",
+            "author": {
+              "name": "Dr Zameer Khan",
+              "username": "drzameerkhan",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/712961010445979648/8a9B7bEC_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatars/drzameerkhan.jpg"
+            },
+            "text": "@asadowaisi @myogiadityanath @narendramodi BJP people, please don’t troll him, he is from your party.. 😂 encourage him..please.",
+            "created_at": "2026-11-16T20:10:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2122297379105984670"
+          },
+          {
+            "id": "2122392279973536006",
+            "author": {
+              "name": "Tanveer Usmani",
+              "username": "tusmani",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/929325139757432834/bKi4hlND_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/avatars/tusmani.jpg"
+            },
+            "text": "@asadowaisi @myogiadityanath @narendramodi Very wrong move in UP i doubt that you will be able to open your account this time too.",
+            "created_at": "2026-11-16T18:12:06.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122297379105984670"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "15db24bf95988167ba4d62d4e6a71dd9dd3fc418",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "05292fa6634f8eb4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "abadb0b139a3418e",
+      "url": "https://x.com/CNNnews18/status/2122274660234690565",
+      "title_en": "A video showing Tamil Nadu Social Justice Minister Vanni Arasu allegedly pursuing a tiger inside the Mudumalai Tiger Reserve has sparked controversy, with conservationists demanding action against him. The video shows the minister and his family travelling in Forest Department safari vehicles, getti",
+      "title_zh": "泰米尔纳德部长在穆杜马莱保护区“追老虎”、坐引擎盖拍照，保护组织要求立案",
+      "summary_en": "A video showing Tamil Nadu Social Justice Minister Vanni Arasu allegedly pursuing a tiger inside the Mudumalai Tiger Reserve has sparked controversy, with conservationists demanding action against him. The video shows the minister and his family travelling in Forest Department safari vehicles, getting out of vehicles, moving closer to wildlife and trekking inside the reserve. He is also seen sitting on a car bonnet and posing for pictures with forest staff and officials.\n\nThe BJP has criticised the minister, alleging violations of forest rules that prohibit visitors from dismounting, chasing or approaching animals inside the reserve. BJP leader Narayanan Thirupathy called for a transparent inquiry, saying, \"Conservation laws cannot be compromised for those in power.\" Conservationists have also urged the Forest Department to register a case against the minister under the Wildlife (Protection) Act, 1972, for allegedly disturbing wildlife.\n\n#TamilNadu #VanniArasu #Tiger #MudumalaiTigerReserve #BJP",
+      "summary_zh": "News18报道，泰米尔纳德社会公正部长万尼·阿拉斯的视频显示，他和家人在穆杜马莱老虎保护区下车靠近野生动物、徒步，并坐在车引擎盖上与林务人员合影。保护人士和印人党要求按《野生动物保护法》展开调查。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-16T18:24:43+08:00",
+      "fetched_at": "2026-11-17T06:39:49+08:00",
+      "tags": [
+        "动物",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122274660234690565",
+        "lang": "en",
+        "text": "A video showing Tamil Nadu Social Justice Minister Vanni Arasu allegedly pursuing a tiger inside the Mudumalai Tiger Reserve has sparked controversy, with conservationists demanding action against him. The video shows the minister and his family travelling in Forest Department safari vehicles, getting out of vehicles, moving closer to wildlife and trekking inside the reserve. He is also seen sitting on a car bonnet and posing for pictures with forest staff and officials.\n\nThe BJP has criticised the minister, alleging violations of forest rules that prohibit visitors from dismounting, chasing or approaching animals inside the reserve. BJP leader Narayanan Thirupathy called for a transparent inquiry, saying, \"Conservation laws cannot be compromised for those in power.\" Conservationists have also urged the Forest Department to register a case against the minister under the Wildlife (Protection) Act, 1972, for allegedly disturbing wildlife.\n\n#TamilNadu #VanniArasu #Tiger #MudumalaiTigerReserve #BJP",
+        "author": {
+          "name": "News18",
+          "username": "CNNnews18",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1559788694709473280/j1s3zm5m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/avatar.jpg"
+        },
+        "created_at": "2026-11-16T10:24:43.000Z",
+        "public_metrics": {
+          "reply_count": 2,
+          "repost_count": 5,
+          "like_count": 20,
+          "quote_count": 1,
+          "bookmark_count": 2,
+          "impression_count": 7412
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122274484896038912/vid/avc1/1080x1350/bxWWuRzZfZdxAA5i.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:49+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/CNNnews18/status/2122274660234690565",
+        "ytdlp_command": "yt-dlp https://x.com/CNNnews18/status/2122274660234690565",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122300986375188689",
+            "author": {
+              "name": "Narayan Mahadevan",
+              "username": "tmnarayan",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1996133753211727872/IWHY5jnw_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/avatars/tmnarayan.jpg"
+            },
+            "text": "@CNNnews18 @CMOTamilnadu ,Pl pull him as this shows like of empathy towards Animals and also use of one's power due to the position they hold.\nIf anything untoward would have happened then cooly the forest officials would have been taken to task.",
+            "created_at": "2026-11-16T12:09:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 54
+            },
+            "in_reply_to_id": "2122274660234690565"
+          },
+          {
+            "id": "2122280374206333097",
+            "author": {
+              "name": "MayaRao",
+              "username": "MayaRao",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/672769892/twitterProfilePhoto_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/avatars/MayaRao.jpg"
+            },
+            "text": "@CNNnews18 The tiger has class. Steered clear from politicians.",
+            "created_at": "2026-11-16T10:47:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 52
+            },
+            "in_reply_to_id": "2122274660234690565"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "43a68b161a548503e7f93c868cee147e500f2202",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "abadb0b139a3418e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "073260a6f0a8f324",
+      "url": "https://x.com/ndtv/status/2122223373052735551",
+      "title_en": "A tourist bus narrowly escaped a major accident in Gramphu, Lahaul-Spiti, after skidding on a stretch of black ice and crashing into a mountainside. The incident, captured on video and now going viral, highlights the growing dangers posed by freezing temperatures in Himachal Pradesh's high-altitude ",
+      "title_zh": "拉豪尔-斯皮提旅游巴士在黑冰上打滑撞向山壁，幸未坠入峡谷",
+      "summary_en": "A tourist bus narrowly escaped a major accident in Gramphu, Lahaul-Spiti, after skidding on a stretch of black ice and crashing into a mountainside. The incident, captured on video and now going viral, highlights the growing dangers posed by freezing temperatures in Himachal Pradesh's high-altitude regions.\n\nFortunately, the bus slid toward the hill rather than the gorge, preventing what could have been a serious disaster. With black ice forming on roads due to sub-zero temperatures, authorities have urged motorists to exercise extreme caution. Lahaul-Spiti Police have already restricted vehicle movement on the route to specific hours, but the latest incident underscores the continuing risks for tourists and drivers alike.\n\n#LahaulSpiti #HimachalPradesh",
+      "summary_zh": "NDTV发布视频：一辆旅游巴士在喜马偕尔邦拉豪尔-斯皮提的格拉姆普路段因黑冰打滑，撞上山壁。巴士滑向山体而非峡谷，避免了更严重后果；当地已限制该路段通行时段。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-16T15:00:55+08:00",
+      "fetched_at": "2026-11-17T06:39:44+08:00",
+      "tags": [
+        "交通火车",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122223373052735551",
+        "lang": "en",
+        "text": "A tourist bus narrowly escaped a major accident in Gramphu, Lahaul-Spiti, after skidding on a stretch of black ice and crashing into a mountainside. The incident, captured on video and now going viral, highlights the growing dangers posed by freezing temperatures in Himachal Pradesh's high-altitude regions.\n\nFortunately, the bus slid toward the hill rather than the gorge, preventing what could have been a serious disaster. With black ice forming on roads due to sub-zero temperatures, authorities have urged motorists to exercise extreme caution. Lahaul-Spiti Police have already restricted vehicle movement on the route to specific hours, but the latest incident underscores the continuing risks for tourists and drivers alike.\n\n#LahaulSpiti #HimachalPradesh",
+        "author": {
+          "name": "NDTV",
+          "username": "ndtv",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2088619391072313344/klvKZ14z_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/avatar.jpg"
+        },
+        "created_at": "2026-11-16T07:00:55.000Z",
+        "public_metrics": {
+          "reply_count": 4,
+          "repost_count": 23,
+          "like_count": 130,
+          "quote_count": 0,
+          "bookmark_count": 16,
+          "impression_count": 58787
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122223276873363456/vid/avc1/1080x1920/fHTDtlz_BxYMystu.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:44+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ndtv/status/2122223373052735551",
+        "ytdlp_command": "yt-dlp https://x.com/ndtv/status/2122223373052735551",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122335715380101289",
+            "author": {
+              "name": "JD",
+              "username": "JD78741001",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1338400960264040449/SSD525E__normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/avatars/JD78741001.jpg"
+            },
+            "text": "@ndtv Freezing temperatures have always been there.\nThe increase of Social media presence is exposing the harsh reality of negligence when it comes to enforcement and regulations for such climate and region.",
+            "created_at": "2026-11-16T14:27:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 28
+            },
+            "in_reply_to_id": "2122223373052735551"
+          },
+          {
+            "id": "2122320577780449328",
+            "author": {
+              "name": "Bulla...Rakhta hu khulla",
+              "username": "bullashree",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1643181357772808192/BH_aUCmP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/avatars/bullashree.jpg"
+            },
+            "text": "@ndtv Government must must make winter tyres mandatory in hills during winters.",
+            "created_at": "2026-11-16T13:27:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 34
+            },
+            "in_reply_to_id": "2122223373052735551"
+          },
+          {
+            "id": "2122234713515720909",
+            "author": {
+              "name": "mohansson",
+              "username": "mohansson",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2003379348284559360/W_X4mozd_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/avatars/mohansson.jpg"
+            },
+            "text": "@ndtv Are snow chains mandatory?",
+            "created_at": "2026-11-16T07:45:59.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 153
+            },
+            "in_reply_to_id": "2122223373052735551"
+          },
+          {
+            "id": "2122231386103050378",
+            "author": {
+              "name": "Dino Vibes Daily",
+              "username": "DinoLeadingNews",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2068161173162512384/7GLkVvw7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/avatars/DinoLeadingNews.jpg"
+            },
+            "text": "@ndtv Black ice leaves almost no margin for error on mountain roads. Real-time road alerts and closures matter far more than driver reaction once traction is gone.",
+            "created_at": "2026-11-16T07:32:46.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 175
+            },
+            "in_reply_to_id": "2122223373052735551"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "9d1bae18f500e9ae5b870c77986f7268379ae462",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "073260a6f0a8f324",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "2eef829622305519",
+      "url": "https://x.com/ndtv/status/2122169119831409109",
+      "title_en": "A rare wildlife encounter at Satpura Tiger Reserve, Madhya Pradesh, left tourists amazed after a sloth bear's aggressive display forced a tigress to retreat. The dramatic face-off, captured during a safari in the park's core area, quickly went viral on social media. Wildlife experts say sloth bears ",
+      "title_zh": "萨特普拉保护区懒熊示威，当场逼退母虎",
+      "summary_en": "A rare wildlife encounter at Satpura Tiger Reserve, Madhya Pradesh, left tourists amazed after a sloth bear's aggressive display forced a tigress to retreat. The dramatic face-off, captured during a safari in the park's core area, quickly went viral on social media.\n\nWildlife experts say sloth bears are known for their unpredictable and fiercely territorial nature, making even top predators think twice before engaging. The extraordinary sight is a reminder that in the wild, strength isn't always about size, and nature can always surprise.\n\n#SatpuraTigerReserve #Wildlife",
+      "summary_zh": "游客在中央邦萨特普拉老虎保护区核心区拍到罕见对峙：一头懒熊做出攻击性展示，迫使母虎后退。视频在网上热传。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122169119831409109/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-16T11:25:20+08:00",
+      "fetched_at": "2026-11-17T06:39:46+08:00",
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122169119831409109",
+        "lang": "en",
+        "text": "A rare wildlife encounter at Satpura Tiger Reserve, Madhya Pradesh, left tourists amazed after a sloth bear's aggressive display forced a tigress to retreat. The dramatic face-off, captured during a safari in the park's core area, quickly went viral on social media.\n\nWildlife experts say sloth bears are known for their unpredictable and fiercely territorial nature, making even top predators think twice before engaging. The extraordinary sight is a reminder that in the wild, strength isn't always about size, and nature can always surprise.\n\n#SatpuraTigerReserve #Wildlife",
+        "author": {
+          "name": "NDTV",
+          "username": "ndtv",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2088619391072313344/klvKZ14z_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122169119831409109/avatar.jpg"
+        },
+        "created_at": "2026-11-16T03:25:20.000Z",
+        "public_metrics": {
+          "reply_count": 0,
+          "repost_count": 3,
+          "like_count": 26,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 11006
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122169119831409109/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122169062654672896/vid/avc1/1080x1920/kWCq676tw9pD4Jbk.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:46+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ndtv/status/2122169119831409109",
+        "ytdlp_command": "yt-dlp https://x.com/ndtv/status/2122169119831409109",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122169119831409109/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [],
+        "replies_omitted": 0,
+        "content_sha": "ec54c70d763d118d463cd6655172ac09cffea48c",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "2eef829622305519",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "1700885bb199ac1c",
       "url": "https://www.timesnownews.com/viral/man-approaches-foreign-youtuber-in-udaipur-repeatedly-asks-for-a-kiss-despite-her-refusal-article-156516597",

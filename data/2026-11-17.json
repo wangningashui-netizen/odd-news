@@ -1,0 +1,721 @@
+{
+  "date": "2026-11-17",
+  "timezone": "Asia/Shanghai",
+  "count": 4,
+  "items": [
+    {
+      "id": "04ae89cb225b8a4b",
+      "url": "https://x.com/AmitShah/status/2122388296378835175",
+      "title_en": "Andhra Pradesh will become the most developed state in the next 10 years. రాబోయే 10 ఏళ్లలో ఆంధ్రప్రదేశ్ దేశంలోనే అత్యంత అభివృద్ధి చెందిన రాష్ట్రంగా అవతరిస్తుంది! https://t.co/tbn7bYQrn3",
+      "title_zh": "阿米特·沙阿称安得拉邦十年内将成为印度最发达的邦",
+      "summary_en": "Andhra Pradesh will become the most developed state in the next 10 years.\n\nరాబోయే 10 ఏళ్లలో ఆంధ్రప్రదేశ్ దేశంలోనే అత్యంత అభివృద్ధి చెందిన రాష్ట్రంగా అవతరిస్తుంది! https://t.co/tbn7bYQrn3",
+      "summary_zh": "内政部长阿米特·沙阿发视频宣称，安得拉邦将在未来十年成为印度最发达的邦，并同时用泰卢固语重复了这一表态。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T01:56:16+08:00",
+      "fetched_at": "2026-11-17T06:39:34+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122388296378835175",
+        "lang": "en",
+        "text": "Andhra Pradesh will become the most developed state in the next 10 years.\n\nరాబోయే 10 ఏళ్లలో ఆంధ్రప్రదేశ్ దేశంలోనే అత్యంత అభివృద్ధి చెందిన రాష్ట్రంగా అవతరిస్తుంది! https://t.co/tbn7bYQrn3",
+        "author": {
+          "name": "Amit Shah",
+          "username": "AmitShah",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054423554737983489/dhxe-t8m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatar.jpg"
+        },
+        "created_at": "2026-11-16T17:56:16.000Z",
+        "public_metrics": {
+          "reply_count": 23,
+          "repost_count": 212,
+          "like_count": 1990,
+          "quote_count": 2,
+          "bookmark_count": 14,
+          "impression_count": 37858
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122385859521785856/vid/avc1/1920x1080/ZuAj5bZ72Ln1uV6A.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:34+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/AmitShah/status/2122388296378835175",
+        "ytdlp_command": "yt-dlp https://x.com/AmitShah/status/2122388296378835175",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122424900761575667",
+            "author": {
+              "name": "AP with CBN",
+              "username": "I_am_with_cbn",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2023595872802734080/XlSMshL-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatars/I_am_with_cbn.jpg"
+            },
+            "text": "@AmitShah @VKsaysso It will be. Only if TDP (/NDA) remains in power.\n\nIf given power, YSJagan can easily bankrupt the state",
+            "created_at": "2026-11-16T20:21:43.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 6,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 206
+            },
+            "in_reply_to_id": "2122388296378835175"
+          },
+          {
+            "id": "2122391322078142515",
+            "author": {
+              "name": "Yogi RealVsMyth",
+              "username": "realvsmyth",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120380580227362817/UOyqKqgH_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatars/realvsmyth.jpg"
+            },
+            "text": "@AmitShah 10 year timeline doesn't look realistic.\n2047 will be better.\n BTW we will never see this type of remarks for UP or Bihar as those states are for parliament seats not for development.",
+            "created_at": "2026-11-16T18:08:17.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 358
+            },
+            "in_reply_to_id": "2122388296378835175"
+          },
+          {
+            "id": "2122396438286217647",
+            "author": {
+              "name": "D reddy",
+              "username": "DevjyotiJana",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1189063721852604416/EPu4yjm3_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatars/DevjyotiJana.jpg"
+            },
+            "text": "@realvsmyth @AmitShah As as astute politician people expect realistic views from him,the damage bihar and up got by not growing for 20 years (1990-2010).Up percapita was 80  % of tamilnadu in 1990,by 2010 tn grown by 10 times and up hasn't grown even 1.5 times during that time,their lies the problem",
+            "created_at": "2026-11-16T18:28:37.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 26
+            },
+            "in_reply_to_id": "2122391322078142515"
+          },
+          {
+            "id": "2122432074325823867",
+            "author": {
+              "name": "corruptcrusher_IN",
+              "username": "AntiCorruptFist",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2051807428065263620/9eDmUOgd_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatars/AntiCorruptFist.jpg"
+            },
+            "text": "@AmitShah Hope so—but slogans aren’t development. AP’s 2025–26 accounts show capital spending at 66% of budget (₹26,865 cr) and a fiscal deficit of ₹81,532 cr. The 19.3 lakh jobs cited are projected, not delivered. Publish annual targets and audited results sirji.",
+            "created_at": "2026-11-16T20:50:14.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 89
+            },
+            "in_reply_to_id": "2122388296378835175"
+          },
+          {
+            "id": "2122429865362325761",
+            "author": {
+              "name": "Third Force",
+              "username": "naveentheforce",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1910891445457719296/cV50VepX_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatars/naveentheforce.jpg"
+            },
+            "text": "@AmitShah Modi laid Amaravati's foundation stone in 2015. Ten more years? Publish a yearly scorecard first.",
+            "created_at": "2026-11-16T20:41:27.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122388296378835175"
+          },
+          {
+            "id": "2122396078255575182",
+            "author": {
+              "name": "jaysukh gothdiya",
+              "username": "jaysukh44",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2109706796315414528/N2TTRm7f_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/avatars/jaysukh44.jpg"
+            },
+            "text": "@AmitShah Jay hind 🇮🇳",
+            "created_at": "2026-11-16T18:27:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 188
+            },
+            "in_reply_to_id": "2122388296378835175"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "930bfe5ddd55da0260b4dceee460f965e764b255",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "04ae89cb225b8a4b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "39a36395586d87f4",
+      "url": "https://x.com/HardeepSPuri/status/2122386789407363518",
+      "title_en": "India’s skies are turning greener, and a new chapter in our nation’s clean energy journey is taking flight! Under the dynamic leadership of PM Sh @narendramodi Ji, our transition towards greener energy witnesses a landmark stride in sustainable aviation. India has produced its first batch of Sustain",
+      "title_zh": "石油部长：印度首批可持续航空燃料已在帕尼帕特炼厂产出并获准商用",
+      "summary_en": "India’s skies are turning greener, and a new chapter in our nation’s clean energy journey is taking flight! \n\nUnder the dynamic leadership of PM Sh @narendramodi Ji, our transition towards greener energy witnesses a landmark stride in sustainable aviation. India has produced its first batch of Sustainable Aviation Fuel (SAF) through co-processing at @IndianOilcl’s Panipat Refinery, now cleared for commercial supply.\n\nFrom transforming used cooking oil into aviation fuel to securing India’s first ISCC CORSIA certification for SAF production, IndianOil’s pioneering journey reflects the spirit of innovation, self-reliance and environmental stewardship that defines a rising India.\n\nThis milestone brings us closer to our vision of cleaner skies, strengthens our indigenous green fuel capabilities and lends fresh momentum to India's energy transition and Net Zero 2070 aspirations.\n\nFor a nation whose ambitions know no bounds, even the sky is not the limit. And now, every takeoff can carry the promise of a greener tomorrow!\n\n#SustainableAviationFuel #GreenSkies #IndianOil #AtmanirbharBharat #EnergyTransition\n\n@PetroleumMin @PIB_India @MoCA_GoI @AAI_Official @ChairmanIOCL",
+      "summary_zh": "石油部长哈迪普·辛格·普里称，印度石油公司帕尼帕特炼厂通过共处理产出首批可持续航空燃料（SAF），已获准商业供应，并取得印度首个ISCC CORSIA认证，以推进净零2070目标。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T01:50:17+08:00",
+      "fetched_at": "2026-11-17T06:39:40+08:00",
+      "tags": [
+        "航空出行",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122386789407363518",
+        "lang": "en",
+        "text": "India’s skies are turning greener, and a new chapter in our nation’s clean energy journey is taking flight! \n\nUnder the dynamic leadership of PM Sh @narendramodi Ji, our transition towards greener energy witnesses a landmark stride in sustainable aviation. India has produced its first batch of Sustainable Aviation Fuel (SAF) through co-processing at @IndianOilcl’s Panipat Refinery, now cleared for commercial supply.\n\nFrom transforming used cooking oil into aviation fuel to securing India’s first ISCC CORSIA certification for SAF production, IndianOil’s pioneering journey reflects the spirit of innovation, self-reliance and environmental stewardship that defines a rising India.\n\nThis milestone brings us closer to our vision of cleaner skies, strengthens our indigenous green fuel capabilities and lends fresh momentum to India's energy transition and Net Zero 2070 aspirations.\n\nFor a nation whose ambitions know no bounds, even the sky is not the limit. And now, every takeoff can carry the promise of a greener tomorrow!\n\n#SustainableAviationFuel #GreenSkies #IndianOil #AtmanirbharBharat #EnergyTransition\n\n@PetroleumMin @PIB_India @MoCA_GoI @AAI_Official @ChairmanIOCL",
+        "author": {
+          "name": "Hardeep Singh Puri",
+          "username": "HardeepSPuri",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2055490616612810752/O51z3wfc_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/avatar.jpg"
+        },
+        "created_at": "2026-11-16T17:50:17.000Z",
+        "public_metrics": {
+          "reply_count": 6,
+          "repost_count": 18,
+          "like_count": 92,
+          "quote_count": 0,
+          "bookmark_count": 3,
+          "impression_count": 3775
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/photo-2.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/HardeepSPuri/status/2122386789407363518",
+        "ytdlp_command": "yt-dlp https://x.com/HardeepSPuri/status/2122386789407363518",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122394836041162958",
+            "author": {
+              "name": "DHARMENDRA KUMAR",
+              "username": "Editordharm",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1620758903930884096/VhQaJFAw_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/avatars/Editordharm.jpg"
+            },
+            "text": "@HardeepSPuri @narendramodi Remarkable!!! Kudos to govt and @IndianOilcl",
+            "created_at": "2026-11-16T18:22:15.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 28
+            },
+            "in_reply_to_id": "2122386789407363518"
+          },
+          {
+            "id": "2122409874349076519",
+            "author": {
+              "name": "Abhijit Paul",
+              "username": "AbhijitPaul_RSS",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1999477158688034816/zhctywm1_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/avatars/AbhijitPaul_RSS.jpg"
+            },
+            "text": "@HardeepSPuri @narendramodi 🙏🙏🙏🙏",
+            "created_at": "2026-11-16T19:22:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 23
+            },
+            "in_reply_to_id": "2122386789407363518"
+          },
+          {
+            "id": "2122440609239851163",
+            "author": {
+              "name": "Ramesh Singh",
+              "username": "RameshS83883274",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1392804590727335936/QPsj8Szw_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122386789407363518/avatars/RameshS83883274.jpg"
+            },
+            "text": "@HardeepSPuri @narendramodi Keep quiet Hardeep puri . You are a dalaal of Modi",
+            "created_at": "2026-11-16T21:24:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122386789407363518"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "707122d417dc205e5c57dc5d7b64ac4d32cbe69b",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "39a36395586d87f4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "0e0a42bc7c0d487d",
+      "url": "https://x.com/INCIndia/status/2122373864017850753",
+      "title_en": "ECI's affidavit in the Supreme Court has not answered a single question raised on Vote Chori. https://t.co/77NEYTiLLK",
+      "title_zh": "国大党：选举委员会向最高法院提交的誓词未回答任何“选票盗窃”问题",
+      "summary_en": "ECI's affidavit in the Supreme Court has not answered a single question raised on Vote Chori. https://t.co/77NEYTiLLK",
+      "summary_zh": "印度国大党发视频称，选举委员会在最高法院提交的誓词，没有回应围绕“Vote Chori”（选票盗窃）提出的任何一个问题。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T00:58:55+08:00",
+      "fetched_at": "2026-11-17T06:39:24+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122373864017850753",
+        "lang": "en",
+        "text": "ECI's affidavit in the Supreme Court has not answered a single question raised on Vote Chori. https://t.co/77NEYTiLLK",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatar.jpg"
+        },
+        "created_at": "2026-11-16T16:58:55.000Z",
+        "public_metrics": {
+          "reply_count": 24,
+          "repost_count": 283,
+          "like_count": 1036,
+          "quote_count": 5,
+          "bookmark_count": 12,
+          "impression_count": 22363
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122373595284602880/vid/avc1/1920x1080/X2W95QqifTb3a0rD.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-17T06:39:24+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2122373864017850753",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2122373864017850753",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122377436310700392",
+            "author": {
+              "name": "✨ Independent Analysis: Critical Views ✨",
+              "username": "rj3455",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1119197304458584067/FLwrrEpq_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/rj3455.jpg"
+            },
+            "text": "@INCIndia It is susceptible to get any positive from the sold out Judiciary when the later one is itself the protecter of @ECISVEEP and caretaker of its frauds. \nSo this is a futile exercise. It can be seen as okay when nothing is being done on the roads. Outcome is known to everyone.",
+            "created_at": "2026-11-16T17:13:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 91
+            },
+            "in_reply_to_id": "2122373864017850753"
+          },
+          {
+            "id": "2122387140533526614",
+            "author": {
+              "name": "Trading Mantra",
+              "username": "s_pa29593",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/s_pa29593.jpg"
+            },
+            "text": "@INCIndia And you donkeys have still not give a single proof to the public to the court and to the president of India  to prove the shit that you are telling happened in reality",
+            "created_at": "2026-11-16T17:51:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 56
+            },
+            "in_reply_to_id": "2122373864017850753"
+          },
+          {
+            "id": "2122376202853965998",
+            "author": {
+              "name": "A N U S H I ❤️T I W A R I🇮🇳",
+              "username": "cutegirlindia21",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118313053217570816/TNbUh8aR_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/cutegirlindia21.jpg"
+            },
+            "text": "@INCIndia Election commissioner should resign",
+            "created_at": "2026-11-16T17:08:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 49
+            },
+            "in_reply_to_id": "2122373864017850753"
+          },
+          {
+            "id": "2122427458767192479",
+            "author": {
+              "name": "Deepak Lal",
+              "username": "deepak_laal",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120408422638391296/1pub3m4Q_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/deepak_laal.jpg"
+            },
+            "text": "@INCIndia Chief Election Commissioner must give resign.",
+            "created_at": "2026-11-16T20:31:53.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122373864017850753"
+          },
+          {
+            "id": "2122414253382721939",
+            "author": {
+              "name": "Shashidhar S M",
+              "username": "ShashidharSM545",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1786649296932315136/jCqH7CcP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/ShashidharSM545.jpg"
+            },
+            "text": "@INCIndia What else did you expect?",
+            "created_at": "2026-11-16T19:39:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122373864017850753"
+          },
+          {
+            "id": "2122392089153745231",
+            "author": {
+              "name": "Mahesh Thakur",
+              "username": "thakurrr90",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2095450507460714496/G8luPEMZ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/thakurrr90.jpg"
+            },
+            "text": "@INCIndia Hindustan ka Vikas aur 130 Crore Bhaiyon Bahno Ka Koi Kaam Kare Ya Na Kare \n\nLekin Hum aa gaye toh Jarur Karenge \n\nMedical Claim Sabhi Ke Liye Bilkul Free Kar Denge\n\nKisi Ko B\n\nKisi B Ilaj Ke Liye 1 Rupaya Kharch Nahi Karna Padega \n\nAap ka Saathi Mahesh 🙏🏻 https://t.co/3kZGNZ5Eup",
+            "created_at": "2026-11-16T18:11:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122373864017850753"
+          },
+          {
+            "id": "2122390526486003779",
+            "author": {
+              "name": "Diyarajput",
+              "username": "Diya_raajput",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120153907120984065/6JAh09aB_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/avatars/Diya_raajput.jpg"
+            },
+            "text": "@INCIndia Gyanesh Kumar must resign.",
+            "created_at": "2026-11-16T18:05:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122373864017850753"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "c6845c3371c63fd65d5a44d40d049610f4c8acda",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "0e0a42bc7c0d487d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "c09f03fe9a67c5a8",
+      "url": "https://x.com/RahulGandhi/status/2122372820659540014",
+      "title_en": "माँ की किताब Belonging: A Journey of Love के लॉन्च पर अचानक बचपन से अब तक की कितनी ही यादें ताज़ा हो गईं। सोनिया गांधी को जानना हो, तो एक बार उन्हें मेरी नज़रों से देखिए। उनका हौसला, उनकी संवेदनशीलता और तमाम मुश्किलों के बावजूद ज़िंदगी को प्यार से गले लगाने की उनकी खूबसूरत क्षमता - यही है मेरी माँ। ",
+      "title_zh": "拉胡尔在母亲索尼娅自传发布会上：从我的眼睛里认识她",
+      "summary_en": "माँ की किताब Belonging: A Journey of Love के लॉन्च पर अचानक बचपन से अब तक की कितनी ही यादें ताज़ा हो गईं।\n\nसोनिया गांधी को जानना हो, तो एक बार उन्हें मेरी नज़रों से देखिए। उनका हौसला, उनकी संवेदनशीलता और तमाम मुश्किलों के बावजूद ज़िंदगी को प्यार से गले लगाने की उनकी खूबसूरत क्षमता - यही है मेरी माँ।\n\nआज माँ की किताब को इतना प्यार और अपनापन देने के लिए आप सभी का दिल से शुक्रिया। ये मोहब्बत यादगार है। ❤️",
+      "summary_zh": "索尼娅·甘地自传《Belonging: A Journey of Love》举行发布会，拉胡尔发文回忆从童年至今的点滴，称要认识索尼娅，就从他的眼光里看她如何在困境中拥抱生活，并感谢读者对这本书的喜爱。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T00:54:46+08:00",
+      "fetched_at": "2026-11-17T06:39:30+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122372820659540014",
+        "lang": "hi",
+        "text": "माँ की किताब Belonging: A Journey of Love के लॉन्च पर अचानक बचपन से अब तक की कितनी ही यादें ताज़ा हो गईं।\n\nसोनिया गांधी को जानना हो, तो एक बार उन्हें मेरी नज़रों से देखिए। उनका हौसला, उनकी संवेदनशीलता और तमाम मुश्किलों के बावजूद ज़िंदगी को प्यार से गले लगाने की उनकी खूबसूरत क्षमता - यही है मेरी माँ।\n\nआज माँ की किताब को इतना प्यार और अपनापन देने के लिए आप सभी का दिल से शुक्रिया। ये मोहब्बत यादगार है। ❤️",
+        "author": {
+          "name": "Rahul Gandhi",
+          "username": "RahulGandhi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2048691685794930688/AEEaltaE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/avatar.jpg"
+        },
+        "created_at": "2026-11-16T16:54:46.000Z",
+        "public_metrics": {
+          "reply_count": 406,
+          "repost_count": 2941,
+          "like_count": 11801,
+          "quote_count": 86,
+          "bookmark_count": 111,
+          "impression_count": 205064
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-4.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-5.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-6.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-7.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-8.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-9.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-10.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-11.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/photo-12.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/RahulGandhi/status/2122372820659540014",
+        "ytdlp_command": "yt-dlp https://x.com/RahulGandhi/status/2122372820659540014",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122437591937245410",
+            "author": {
+              "name": "Rajini Rao",
+              "username": "Rajini_rao63",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2121926631464050688/Jbsz_60x_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/avatars/Rajini_rao63.jpg"
+            },
+            "text": "@RahulGandhi Misty eyed reading this from a son to his mother 😍❤️🌹🥰\n\nMaa❤️\nOne word says it all💐",
+            "created_at": "2026-11-16T21:12:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2122372820659540014"
+          },
+          {
+            "id": "2122438931476296047",
+            "author": {
+              "name": "🚩हिंदु 🚩",
+              "username": "c_arun24",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2118102804409769985/iT2B1C3V_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/avatars/c_arun24.jpg"
+            },
+            "text": "@RahulGandhi राहुल को अपने परिवार की खुशियों के लम्हे याद आते है।\nऔर\nगरीब परिवार से बड़े हुए बच्चे को अपनी गरीबी के दिन याद आते है।\n\nऐश की जिंदगी vs गरीब की जिंदगी..",
+            "created_at": "2026-11-16T21:17:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2122372820659540014"
+          },
+          {
+            "id": "2122453670512189668",
+            "author": {
+              "name": "Senag",
+              "username": "Senag32",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2116651971604107264/zK8jvvTi_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/avatars/Senag32.jpg"
+            },
+            "text": "@RahulGandhi Koi mere bete ko Kursi do .... https://t.co/cW3zVWHKws",
+            "created_at": "2026-11-16T22:16:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2122372820659540014"
+          },
+          {
+            "id": "2122450027641516524",
+            "author": {
+              "name": "Hem desh",
+              "username": "desh_hem55078",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/avatars/desh_hem55078.jpg"
+            },
+            "text": "@HairyPoppins786 @RahulGandhi @grok are the things written in the pic true?",
+            "created_at": "2026-11-16T22:01:34.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122378409477390735"
+          },
+          {
+            "id": "2122450195241689265",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122372820659540014/avatars/grok.jpg"
+            },
+            "text": "No, the claims are not true. The image comes from an AI-generated video (fact-checked by Aaj Tak today; detectors show ~99% AI probability, with artifacts like garbled titles reading \"SELFISHING\" instead of \"BELONGING\").\n\nSonia Gandhi’s memoir *Belonging: A Journey of Love* (released 10 Nov, first print ~1 lakh) has sold over 2 lakh copies in under a week per HarperCollins, with strong bookstore and quick-commerce demand.",
+            "created_at": "2026-11-16T22:02:14.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122450027641516524"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "906a22d123f12e26a7b4677f12e799bce788661e",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "c09f03fe9a67c5a8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
