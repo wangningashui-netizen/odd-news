@@ -1,6 +1,6 @@
 {
   "month": "2024-01",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "63ecd3f77cd3a987",
@@ -19,6 +19,29 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/he-nitished-me-to-paltu-chacha-nitish-kumars-swing-politics-sparks-humour-fest/articleshow/107236114.cms",
       "translation_status": "fallback",
       "cluster_id": "63ecd3f77cd3a987",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b0baa13060bb6939",
+      "date": "2024-01-23",
+      "published_at": "2024-01-23T16:34:20+08:00",
+      "title_zh": null,
+      "title_en": "'Fauji Weds Doctor' Wedding Invitation Card Has Desis Cringing Hard, Here's Why",
+      "summary_zh": null,
+      "summary_en": "Viral pic of a wedding card flaunting a 'Captain' getting married to a 'Doctor' gets mixed reactions online.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/01/untitled-2024-01-23t135604.880-2024-01-e445af08cadad5c9bf36d11d0956aa14-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教",
+        "健康医疗"
+      ],
+      "url": "https://www.news18.com/viral/fauji-weds-doctor-wedding-invitation-card-has-desis-cringing-hard-heres-why-8751367.html",
+      "translation_status": "pending",
+      "cluster_id": "b0baa13060bb6939",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

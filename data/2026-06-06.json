@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-06",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "1921e2be34733857",
+      "url": "https://www.news18.com/viral/student-asks-ai-for-help-in-the-middle-of-an-exam-gets-unexpected-rejection-internet-says-what-is-this-behaviour-chatgpt-ws-l-10133535.html",
+      "title_en": "Student Asks AI For Help In The Middle Of An Exam, Gets Unexpected Rejection; Internet Says 'What Is This B",
+      "title_zh": null,
+      "summary_en": "A viral LinkedIn post showing ChatGPT refusing to answer a student's live exam question has sparked amusement, with users sharing jokes and witty takes on AI ethics",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/Untitled-design-1-2026-06-718d4b8c665bf2b6e28cb77969acc0f4-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-06-06T13:24:52+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1921e2be34733857",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2023-03-09",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "6ff350e12e029739",
+      "url": "https://www.news18.com/buzz/ranbir-kapoor-sadly-leaving-places-shot-returns-in-tjmm-clip-goes-viral-7252849.html",
+      "title_en": "Ranbir Kapoor 'Sadly Leaving Places' Shot Returns in 'TJMM', Clip Goes Viral",
+      "title_zh": null,
+      "summary_en": "Ranbir Kapoor 'sadly leaving places' roster gets a new addition with this Tu Jhoothi Main Makkar scene, as pointed out by a Twitter user.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-03-09T17:48:58+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6ff350e12e029739",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

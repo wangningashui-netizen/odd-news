@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 5,
   "items": [
     {
       "id": "b4130cee6545352f",
@@ -96,6 +96,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "81db9542a414555b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "db63668da80a979c",
+      "url": "https://www.news18.com/viral/employees-pick-gift-boxes-some-get-chocolates-while-others-find-iphones-then-comes-the-twist-ws-l-10352050.html",
+      "title_en": "Employees Pick Gift Boxes, Some Get Chocolates While Others Find iPhones; Then Comes The Twist",
+      "title_zh": null,
+      "summary_en": "A company’s gift-box game took an unexpected turn when employees who picked chocolates were later surprised with brand-new iPhones, leaving the entire team with the same reward.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2026-09-25T111121.280-2026-09-d260b3898117ae7cfb4521dbb7bae28b-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-25T13:51:39+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "db63668da80a979c",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

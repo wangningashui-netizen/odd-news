@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "601a6602f0ec9134",
+      "url": "https://www.news18.com/viral/only-one-country-on-earth-still-has-both-wild-lions-and-tigers-do-you-know-which-ws-l-10130423.html",
+      "title_en": "Only One Country On Earth Still Has Both Wild Lions And Tigers, Do You Know Which?",
+      "title_zh": null,
+      "summary_en": "From the dry forests of Gujarat to the jungles of Central India, the country remains the last shared home of two of the world’s most iconic big cats.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/TV_5848255_lionsandtigers_1-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-06-07T21:11:02+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "601a6602f0ec9134",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

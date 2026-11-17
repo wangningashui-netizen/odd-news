@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-16",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "7d93e435c4a3eebf",
+      "url": "https://www.news18.com/viral/did-they-boil-it-bengaluru-cafes-5-gas-crisis-fee-on-lemonade-sparks-online-debate-ws-l-9963773.html",
+      "title_en": "'Did They Boil It?': Bengaluru Cafe's 5% 'Gas Crisis' Fee On Lemonade Sparks Online Debate",
+      "title_zh": null,
+      "summary_en": "The unusual fee, applied on a bill for two mint lemonades, has left many users amused and some questioning its fairness.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/GAS-CRISIS-2026-03-c9daa1773e482036415cb7d907d28343-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-03-16T19:04:33+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7d93e435c4a3eebf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

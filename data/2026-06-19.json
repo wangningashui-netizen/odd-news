@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-19",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "5139f5e7a4e6fc6a",
+      "url": "https://www.news18.com/viral/his-first-instinct-was-to-assault-her-knicks-parade-video-shows-revived-fan-trying-to-kiss-woman-who-saved-his-life-10161128.html",
+      "title_en": "‘His First Instinct Was To Assault Her’: Knicks Parade Video Shows Revived Fan Trying To Kiss Woman Who Sav",
+      "title_zh": null,
+      "summary_en": "A viral video from the Knicks championship parade has sparked outrage after a revived fan repeatedly tried kissing the woman helping save him.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/Baharisons-1-2026-06-28c846f5819648502bbbbe0954c1c6bf-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-06-19T18:53:55+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5139f5e7a4e6fc6a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "timezone": "Asia/Shanghai",
-  "count": 141,
+  "count": 150,
   "items": [
     {
       "id": "fc31b49da437d6d2",
@@ -119,8 +119,8 @@
       "cluster_id": "cf3b7ea6bbc2e309",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1888,
-      "reddit_comments": 118
+      "reddit_score": 1968,
+      "reddit_comments": 122
     },
     {
       "id": "dd9fe8013c857ca2",
@@ -458,6 +458,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "ebee85b4fc201413",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xw41aq/thrilling_victory_by_indian_cricket_team_in_under/",
+      "title_en": "Thrilling victory by Indian Cricket team in Under 19 Aisa Cup Final in Oman this evening. Chasing 337 in 50 overs.",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/eTZsbG05b2NibDFpMRrJg8CVr3vEQD_L8MvJa5bWM39BNGYGfIPYxxlpL779.png?width=320&crop=smart&auto=webp&s=b129137fa6af5bc0540ec272623567c8efb7de6e",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T22:42:12+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xw41aq",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ebee85b4fc201413",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 508,
+      "reddit_comments": 13
+    },
+    {
       "id": "50d76a2655c88464",
       "url": "https://x.com/yadavakhilesh/status/2121611951558287800",
       "title_en": "बदलाव की तरफ़ उठते क़दम… लगता है मीडिया ने भी आनेवाले समय की दस्तक सुन ली है, इसीलिए ‘New Rules, New Realities’ की बात होने लगी है… जिसकी शुरुआत उप्र से होगी। #HT_Leadership_Summit_NewDelhi https://t.co/2AEzXtwq47",
@@ -695,6 +723,60 @@
       "cluster_source_count": 1
     },
     {
+      "id": "44b662acd1ae44fc",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xw3lda/indianorigin_phd_student_bilal_kazi_jailed_in_uk/",
+      "title_en": "Indian-origin PhD student Bilal Kazi jailed in UK for 30 years for grooming minors",
+      "title_zh": null,
+      "summary_en": "Source: https://timesofindia.indiatimes.com/world/uk/indian-phd-student-bilal-kazi-jailed-in-uk-for-30-years-for-preying-on-young-girls-on-snapchat-he-was-overstaying-his-student-visa/amp\\_articleshow/135815764.cms [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/x6ogytqy7l1i1.jpeg?width=640&crop=smart&auto=webp&s=1c25e397bb151955d3a958f037a5e78ec93760cc",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T22:23:03+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xw3lda",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "44b662acd1ae44fc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 739,
+      "reddit_comments": 41
+    },
+    {
+      "id": "a139c02cceed2792",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xw39cz/centre_extends_ban_on_controversial_islamic/",
+      "title_en": "Centre Extends Ban On controversial Islamic preacher Zakir Naik's Islamic Foundation For 5 More Years",
+      "title_zh": null,
+      "summary_en": "Source link: https://www.ndtv.com/india-news/centre-extends-ban-on-zakir-naiks-islamic-foundation-for-5-more-years-12324433/amp/1 [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/mvwv9k7a5l1i1.jpeg?width=640&crop=smart&auto=webp&s=3aee9d1cbe914e672e7b88a7f785aa500df80573",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T22:08:01+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xw39cz",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a139c02cceed2792",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 338,
+      "reddit_comments": 25
+    },
+    {
       "id": "d1ec26c4928919c3",
       "url": "https://www.ndtv.com/offbeat/indian-man-praises-thailands-clean-streets-and-traffic-discipline-says-we-can-learn-12327149",
       "title_en": "Indian Man Praises Thailand's Clean Streets, Says We Can Learn From It",
@@ -744,7 +826,7 @@
       "cluster_id": "bab7102716671d5f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 137,
+      "reddit_score": 141,
       "reddit_comments": 17
     },
     {
@@ -772,7 +854,7 @@
       "cluster_id": "114da386950fc0fc",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 371,
+      "reddit_score": 384,
       "reddit_comments": 13
     },
     {
@@ -990,6 +1072,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "426ea7cd193304de",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xw2bar/vote_chor_gaddi_chhod_the_congress_party_built/",
+      "title_en": "“Vote Chor, Gaddi Chhod. The congress party built democratic foundation of modern India and progressives all over the world stand with you”, says Italian politician Giacomo Filibeck at Bharat Summit",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/NHAwZ25mc2J4azFpMSb0pduYu8wrE2pi4SXg9-41NW4oELB1CkrW9GP5zDle.jpeg?width=640&crop=smart&auto=webp&s=077510fc1663b8aedb908d72145bc0ff860c12ec",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T21:23:30+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xw2bar",
+      "page_attempts": 1,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "426ea7cd193304de",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 355,
+      "reddit_comments": 72
+    },
+    {
       "id": "2474885dcc2f5a49",
       "url": "https://www.timesnownews.com/sports/pickleball/ppa-tour-ceo-connor-pardoe-opens-up-on-vision-for-pickleball-world-championships-article-156509633",
       "title_en": "PPA Tour CEO Connor Pardoe Opens Up On Vision For Pickleball World Championships",
@@ -1114,8 +1224,8 @@
       "cluster_id": "7a5ad3914fb818ce",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 43,
-      "reddit_comments": 7
+      "reddit_score": 46,
+      "reddit_comments": 8
     },
     {
       "id": "95be048b58834c2c",
@@ -1323,8 +1433,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c7f3d56867396e39",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1,
+      "cluster_item_count": 3,
+      "cluster_source_count": 2,
       "reddit_score": 316,
       "reddit_comments": 41
     },
@@ -1376,9 +1486,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 74,
+      "reddit_score": 80,
       "reddit_comments": 5
     },
     {
@@ -1456,8 +1566,8 @@
       "cluster_id": "249145a7627a9f97",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 76,
-      "reddit_comments": 11
+      "reddit_score": 82,
+      "reddit_comments": 14
     },
     {
       "id": "af013744fafe774d",
@@ -1537,7 +1647,7 @@
       "cluster_id": "316a0e0a3e849bb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 449,
+      "reddit_score": 459,
       "reddit_comments": 78
     },
     {
@@ -1835,7 +1945,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -1964,8 +2074,8 @@
       "cluster_id": "c124d427110445f8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 6,
-      "reddit_comments": 9
+      "reddit_score": 5,
+      "reddit_comments": 11
     },
     {
       "id": "aa23f1bdfac60422",
@@ -2141,6 +2251,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "691397644d3257ea",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xvxo0k/hindu_rashtra_how_hindus_were_praised_globally_by/",
+      "title_en": "Hindu Rashtra: How Hindus were praised globally by Ancient Travelers!",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/wh6m21vckj1i1.png?width=640&crop=smart&auto=webp&s=3fdae62fe86d504e098fbbde828c27965cb773c9",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T16:48:58+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xvxo0k",
+      "page_attempts": 1,
+      "tags": [
+        "历史考古"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "691397644d3257ea",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 350,
+      "reddit_comments": 48
+    },
+    {
       "id": "6889f71adae99130",
       "url": "https://frontline.thehindu.com/the-nation/nehrus-61st-death-anniversary-humanism-partition-1946-bihar-noakhali/article69625386.ece",
       "title_en": "In his speech at Bihar Sharif on November 4, 1946, Nehru said impassionedly: “I will stand in the way of Hindu-Muslim riots. Members of both the communities will have to tread over my dead body before they can strike at each other.”",
@@ -2165,7 +2303,7 @@
       "cluster_id": "6889f71adae99130",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 112,
+      "reddit_score": 115,
       "reddit_comments": 6
     },
     {
@@ -2315,7 +2453,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "66e5d61248643dbe",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2
     },
     {
@@ -3183,8 +3321,8 @@
       "cluster_id": "4a0961dd03cf6b88",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 65,
-      "reddit_comments": 14
+      "reddit_score": 69,
+      "reddit_comments": 15
     },
     {
       "id": "e9d9525edc479960",
@@ -3235,6 +3373,34 @@
       "cluster_id": "84d44fc097c69152",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "42dcf1271b2e680a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xvubnm/my_diwali_photo_dump/",
+      "title_en": "My Diwali photo dump 🧨",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/0hg2o9luki1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=ec5b0494f8b9e611aa0338b6a4cfc21acc06b15f",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T13:29:56+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xvubnm",
+      "page_attempts": 1,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "42dcf1271b2e680a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 18
     },
     {
       "id": "ad8a9391274f19b0",
@@ -3369,6 +3535,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "f6ebaebed0c00316",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xvt2ag/delivery_workers_arent_movers_customer_argues/",
+      "title_en": "Delivery workers aren't movers: Customer argues with a rider for refusing to haul a 25kg sack upstairs.",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/NWV2YTBmd2c4aTFpMZevwnC3KHd_8-n4utfYSC-kO9Epa1FDFzN0xabWkJ3x.png?width=216&crop=smart&auto=webp&s=ccd092a7921621b9414cdf9c05168dba9ced8f4e",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T12:21:00+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xvt2ag",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f6ebaebed0c00316",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 1125,
+      "reddit_comments": 78
+    },
+    {
       "id": "9deb6e1e261c6b4d",
       "url": "https://www.republicworld.com/world-news/indian-envoy-vinay-mohan-kwatra-slams-uscirf-over-sharjeel-imam-remarks-says-panel-has-no-locus-standi-2026-11-14-141039",
       "title_en": "Indian Envoy Vinay Mohan Kwatra Slams USCIRF Over Sharjeel Imam Remarks, Says Panel Has 'No Locus Standi'",
@@ -3390,8 +3584,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "9deb6e1e261c6b4d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "afaa99c67a00bbf8",
@@ -3468,7 +3662,7 @@
       "cluster_id": "4a6294211bb93617",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 523,
+      "reddit_score": 528,
       "reddit_comments": 20
     },
     {
@@ -3647,7 +3841,7 @@
       "cluster_id": "72649a78bea53349",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 53,
+      "reddit_score": 55,
       "reddit_comments": 3
     },
     {
@@ -4449,7 +4643,7 @@
       "region": "印度",
       "published_at": "2026-11-14T02:56:50+08:00",
       "fetched_at": "2026-11-14T10:59:10+08:00",
-      "reddit_id": "t3_1xw0zrp",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -4459,8 +4653,8 @@
       "cluster_id": "dc95677958283464",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 0,
-      "reddit_comments": 0
+      "reddit_score": 2,
+      "reddit_comments": 1
     },
     {
       "id": "08ed2020766d94e4",
@@ -4509,7 +4703,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "66e5d61248643dbe",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2
     },
     {
@@ -4867,6 +5061,34 @@
       "reddit_comments": 14
     },
     {
+      "id": "3bea53cb59c07efe",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xveq8d/some_positive_stats_on_occasion_of_childrens_day/",
+      "title_en": "Some positive stats on occasion of Children's Day",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/9vj6bjeu4f1i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=d682b743703cf089288b1872fca3e892e1db1613",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T01:54:59+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xveq8d",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3bea53cb59c07efe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 72,
+      "reddit_comments": 2
+    },
+    {
       "id": "237ae8781514640f",
       "url": "https://www.reddit.com/r/india/comments/1xveg07/how_to_book_an_advance_appointment_at_aiims_delhi/",
       "title_en": "How to book an advance appointment at AIIMS Delhi (RPC) or Dr. Shroff Eye Hospital?",
@@ -4969,7 +5191,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -5408,6 +5630,33 @@
       "cluster_id": "06511942f4640f54",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "3f9ae1eaad4a4e38",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xvcsbn/a_comparison_of_indias_metro_rail_network_built/",
+      "title_en": "A comparison of India’s metro rail network built before and after 2014",
+      "title_zh": null,
+      "summary_en": "How much of India's Metro Rail network was built after 2014? • 53% of Delhi NCR Metro • 62% of Kolkata Metro • 93% of Bengaluru Metro • 100% of Mumbai Metro • 100% of Hyderabad Metro • 100% of Chennai Metro • 100% of Ahmedabad Metro • 100% of Pune Metro • 100% of Nagpur Metro • 100% of Kochi Metro • 100% of Lucknow Metro • 100% of Indore Metro • 100% of Kanpur Metro • 100% of Jaipur Metro • 100% of Bhopal Metro • 100% of Patna Metro • 100% of Agra Metro Credits: The Indian Matrix [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/7owo99n5se1i1.jpeg?width=640&crop=smart&auto=webp&s=c5ca4e56dfe48d67e0a20d086dbb16974917f5f8",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-14T00:43:46+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xvcsbn",
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3f9ae1eaad4a4e38",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 219,
+      "reddit_comments": 45
     },
     {
       "id": "73fafa9fd1e2073c",

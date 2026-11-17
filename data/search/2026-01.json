@@ -1,7 +1,29 @@
 {
   "month": "2026-01",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "7e36595f43d20d1a",
+      "date": "2026-01-27",
+      "published_at": "2026-01-27T11:36:35+08:00",
+      "title_zh": null,
+      "title_en": "Woman At 65 Kg Cut Carbs, Walked 10 Km Daily To Slim Down For Best Friend’s Wedding — Next, She Was In Hosp",
+      "summary_zh": null,
+      "summary_en": "The woman only wanted to look her best in her bridesmaid dress. She followed an extreme routine and cut out most food items to lose weight.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/01/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-01-27T090434.768-2026-01-f19a3b08c0418dc31eeb24ea4b51f1cb-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/chinese-woman-extreme-weight-loss-journey-leads-to-prediabetes-aa-ws-l-9857862.html",
+      "translation_status": "pending",
+      "cluster_id": "7e36595f43d20d1a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "513d5761cb581bde",
       "date": "2026-01-06",

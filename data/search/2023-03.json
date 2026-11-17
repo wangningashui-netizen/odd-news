@@ -1,6 +1,6 @@
 {
   "month": "2023-03",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "6640a0624f55a749",
@@ -41,6 +41,28 @@
       "url": "https://www.news18.com/buzz/womans-take-on-19th-century-qawwali-praising-kanhaiya-is-bahut-khoob-7394293.html",
       "translation_status": "fallback",
       "cluster_id": "2897fa32b2dd35cb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "6ff350e12e029739",
+      "date": "2023-03-09",
+      "published_at": "2023-03-09T17:48:58+08:00",
+      "title_zh": null,
+      "title_en": "Ranbir Kapoor 'Sadly Leaving Places' Shot Returns in 'TJMM', Clip Goes Viral",
+      "summary_zh": null,
+      "summary_en": "Ranbir Kapoor 'sadly leaving places' roster gets a new addition with this Tu Jhoothi Main Makkar scene, as pointed out by a Twitter user.",
+      "image": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/buzz/ranbir-kapoor-sadly-leaving-places-shot-returns-in-tjmm-clip-goes-viral-7252849.html",
+      "translation_status": "pending",
+      "cluster_id": "6ff350e12e029739",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

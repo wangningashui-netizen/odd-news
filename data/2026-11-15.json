@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "timezone": "Asia/Shanghai",
-  "count": 104,
+  "count": 114,
   "items": [
     {
       "id": "02ddc1170a26c88e",
@@ -50,8 +50,35 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "bb45bcb52e29510b",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
+      "id": "746807a2757090e2",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwwyec/i_wonder_where_the_saviours_of_democracy_went_now/",
+      "title_en": "I wonder where the saviours of democracy went now.",
+      "title_zh": null,
+      "summary_en": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-bjp-chief-placed-under-house-arrest-party-calls-summit-anti-bharat/amp\\_articleshow/135839326.cms [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/wiad8gznes1i1.jpeg?width=640&crop=smart&auto=webp&s=acd749bac4c9530e541a69ac06eeb0496fda0a31",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T22:33:05+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwwyec",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "746807a2757090e2",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 574,
+      "reddit_comments": 9
     },
     {
       "id": "8a2784b983d71e3f",
@@ -128,6 +155,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "98720647225b5a1f",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwvqpn/a_bunch_of_7_yo_kids_who_where_playing_cricket_on/",
+      "title_en": "A bunch of 7 YO kids who where playing cricket on the streets next to my home had no idea who Sachin Tendulkar was and their fav player was Kohli and Abhishek Sharma",
+      "title_zh": null,
+      "summary_en": "They could not even recognise the pictures of Rahul Dravid or javgal srinath. My point is - Stop making your decision based on what would people think cos if Sachin Tendulkar is not relevant anymore to people in just a decade, people will forget about or not care about any of your mistakes or failures. [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T21:39:45+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwvqpn",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "98720647225b5a1f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 135,
+      "reddit_comments": 29
+    },
+    {
       "id": "efbf5eaf04b1dc50",
       "url": "https://www.news18.com/viral/bengaluru-cafe-owner-regrets-being-too-kind-to-staff-paying-them-in-advance-and-buying-phones-they-dont-value-these-ws-l-10426654.html",
       "title_en": "Bengaluru Cafe Owner ‘Regrets’ Being Too Kind To Staff, Paying Them In Advance And Buying Phones: ‘They Don",
@@ -177,8 +232,8 @@
       "cluster_id": "ea1e8fd595681886",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 318,
-      "reddit_comments": 47
+      "reddit_score": 696,
+      "reddit_comments": 60
     },
     {
       "id": "112e4265861aad65",
@@ -202,8 +257,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "112e4265861aad65",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "65928c3308143f29",
@@ -252,8 +307,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "7b84eb109939374d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "35979ed3628d1ccf",
@@ -279,10 +334,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c7f3d56867396e39",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1,
-      "reddit_score": 587,
-      "reddit_comments": 65
+      "cluster_item_count": 3,
+      "cluster_source_count": 2,
+      "reddit_score": 706,
+      "reddit_comments": 81
     },
     {
       "id": "d3b2e7b05e5dcf23",
@@ -334,8 +389,8 @@
       "cluster_id": "0ca1b15a295fdd8f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 24,
-      "reddit_comments": 4
+      "reddit_score": 38,
+      "reddit_comments": 7
     },
     {
       "id": "82969962c2e2bbbe",
@@ -362,7 +417,7 @@
       "cluster_id": "82969962c2e2bbbe",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 6,
+      "reddit_score": 8,
       "reddit_comments": 0
     },
     {
@@ -430,7 +485,7 @@
       "region": "印度",
       "published_at": "2026-11-15T19:53:25+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
-      "reddit_id": "t3_1xwtn3b",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -440,7 +495,7 @@
       "cluster_id": "4bb84bffbd1f3634",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 59,
+      "reddit_score": 2,
       "reddit_comments": 1
     },
     {
@@ -465,8 +520,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "18bf0907f0665aca",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "b61a0d6960d3a673",
@@ -484,7 +539,7 @@
       "published_at": "2026-11-15T19:38:51+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xwte9x",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "科学发现"
       ],
@@ -493,8 +548,8 @@
       "cluster_id": "b61a0d6960d3a673",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 2,
-      "reddit_comments": 6
+      "reddit_score": 6,
+      "reddit_comments": 16
     },
     {
       "id": "4072c0a0c98a5d4f",
@@ -596,7 +651,7 @@
       "cluster_id": "aa953e0bd847c6f7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 248,
+      "reddit_score": 282,
       "reddit_comments": 54
     },
     {
@@ -698,6 +753,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "0f67ce732943690c",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwscrr/badminton_japan_masters_2026_final_highlights/",
+      "title_en": "[Badminton] Japan Masters 2026 Final Highlights: Lakshya Sen defeated Koki Watanabe 13-21, 21-18, 21-14 to win Japan Masters Men's Singles title, becoming the first Indian to do so.",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/eDNnNnB0aDY4cjFpMah4FjyJpFzlkb0cpBMujGnEhnMM3S-8-qH0vdSQ5-cq.png?width=320&crop=smart&auto=webp&s=e9b2d8be59eddb89ad0348485bf3407fd148c8cd",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T18:34:59+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwscrr",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0f67ce732943690c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 974,
+      "reddit_comments": 13
+    },
+    {
       "id": "e6f92a0914220274",
       "url": "https://www.indiatoday.in/trending-news/story/guwahati-police-gives-guns-n-roses-fans-a-rock-themed-road-safety-reminder-3039374-2026-11-15",
       "title_en": "Guwahati Police gives Guns N' Roses fans a rock-themed road safety reminder",
@@ -723,6 +806,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "8baf1b0ec29653ac",
+      "url": "https://www.financialexpress.com/auto/bike-news/two-out-of-top-3-two-wheeler-cos-globally-are-now-indian/4384810/",
+      "title_en": "Two out of top 3 two-wheeler companies globally are now Indian",
+      "title_zh": null,
+      "summary_en": "",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/JlMpHx1aJqusOn_2QRtv__tvvA9ddRclaX9ZFS5077U.jpeg?width=640&crop=smart&auto=webp&s=f5d0e294a18ed9a3932488b49352d4d53e270a39",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T18:23:20+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xws66u",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8baf1b0ec29653ac",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 133,
+      "reddit_comments": 6
+    },
+    {
       "id": "de2be6c2700e4e12",
       "url": "https://www.reddit.com/r/india/comments/1xws4rd/needed_suggestion_for_resignation/",
       "title_en": "Needed suggestion for resignation",
@@ -738,14 +849,14 @@
       "published_at": "2026-11-15T18:20:48+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xws4rd",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "de2be6c2700e4e12",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1,
       "reddit_score": 8,
       "reddit_comments": 4
@@ -766,7 +877,7 @@
       "published_at": "2026-11-15T18:20:38+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xws4ny",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -777,6 +888,34 @@
       "cluster_source_count": 1,
       "reddit_score": 1,
       "reddit_comments": 0
+    },
+    {
+      "id": "16b9a5f795c4623c",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xws191/metro_ride_rs_20_in_8_mins_which_costs_rs25_for/",
+      "title_en": "Metro Ride - Rs. 20 in 8 mins which costs Rs.25 for the same distance on non-ac BMTC bus and takes 3 times more time. This despite Bengaluru Metro being the most expensive metro in India",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/3khieiuk4r1i1.jpeg?width=640&crop=smart&auto=webp&s=bf8b8d698b79d2dac47c9824deae8a982462e45b",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T18:14:44+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xws191",
+      "page_attempts": 1,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "16b9a5f795c4623c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 78,
+      "reddit_comments": 19
     },
     {
       "id": "4194ed3f826093f2",
@@ -827,6 +966,34 @@
       "cluster_id": "9c6b1e3af00bd6d6",
       "cluster_item_count": 5,
       "cluster_source_count": 1
+    },
+    {
+      "id": "e497105bfb22efa9",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwrp5y/china_aircraft_enters_indian_airspace_over_sikkim/",
+      "title_en": "China aircraft enters Indian airspace over Sikkim, ignores warnings for 25 minutes.",
+      "title_zh": null,
+      "summary_en": "According to a DNA India report, a Chinese military aircraft allegedly entered Indian airspace over Sikkim on November 12 and remained in the area for approximately 20-25 minutes despite repeated warnings from the Indian Air Force (IAF) to return to Chinese territory. The aircraft was reportedly detected around 8 AM at an altitude of approximately 25,000 feet. The incident is particularly significant given the strategic importance of the region, which overlooks the Siliguri Corridor, popularly known as the…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/2bpr4rjt0r1i1.jpeg?width=640&crop=smart&auto=webp&s=b0711ea26383f1267a794ec1923cac854dd1a6b5",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T17:53:41+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwrp5y",
+      "tags": [
+        "军事政治",
+        "航空出行"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c7f3d56867396e39",
+      "cluster_item_count": 3,
+      "cluster_source_count": 2,
+      "reddit_score": 767,
+      "reddit_comments": 41
     },
     {
       "id": "a33ffeffe5de955f",
@@ -894,7 +1061,7 @@
       "published_at": "2026-11-15T17:41:53+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xwrilc",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "犯罪法律"
       ],
@@ -903,7 +1070,7 @@
       "cluster_id": "23398568cb8077ca",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 25,
+      "reddit_score": 26,
       "reddit_comments": 7
     },
     {
@@ -930,6 +1097,34 @@
       "cluster_id": "9ecfb627ea834d77",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "6832c3c60ee82433",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwrdt7/reflections_on_chatt/",
+      "title_en": "Reflections on Chatt",
+      "title_zh": null,
+      "summary_en": "There’s something incredibly grounding about this time of year, especially when we all sit down together in the courtyard to make theukas (thekua) for Chhath Puja. I was sitting there, looking around at everyone completely absorbed in the work, and it really hit me how rare and sacred these moments have become. In a world where we’re constantly rushing, distracted by our phones, and trying to multitask, this ancient custom forces you to just stop and be present. Chhath Puja doesn't rely on grand temples or complex…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/05518rh8xq1i1.jpeg?width=640&crop=smart&auto=webp&s=e5413631cac3d7e204a67100d9f88128e9212de5",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T17:33:36+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwrdt7",
+      "tags": [
+        "婚俗宗教",
+        "历史考古"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6832c3c60ee82433",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 15,
+      "reddit_comments": 1
     },
     {
       "id": "2eaf697a707486ef",
@@ -972,7 +1167,7 @@
       "published_at": "2026-11-15T17:15:44+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xwr3vb",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "犯罪法律"
       ],
@@ -981,7 +1176,7 @@
       "cluster_id": "a0ed73da0b9a7fa5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 42,
+      "reddit_score": 48,
       "reddit_comments": 5
     },
     {
@@ -1031,8 +1226,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "eaf1ff39ef2ad850",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "5ed9524424545771",
@@ -1081,7 +1276,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -1175,7 +1370,7 @@
       "published_at": "2026-11-15T16:05:09+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xwq032",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "历史考古"
       ],
@@ -1184,8 +1379,8 @@
       "cluster_id": "878ae554b7b5435d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 20,
-      "reddit_comments": 7
+      "reddit_score": 18,
+      "reddit_comments": 8
     },
     {
       "id": "cfe0daf76f49c699",
@@ -1238,6 +1433,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "81c6772b8241b403",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwpsld/apple_scores_a_for_record_13_billion_iphone/",
+      "title_en": "Apple scores A+ for record $13 billion iPhone exports from India. iPhone now accounts for 50% of electronic exports",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/k80nfpt8fq1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=6091b3bbdab9fb5a17bd610c3fcfaac32acd0238",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T15:52:45+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwpsld",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "81c6772b8241b403",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 51,
+      "reddit_comments": 2
+    },
+    {
       "id": "9d997580678f0d70",
       "url": "https://www.republicworld.com/defence/india-has-strengthened-indigenous-defence-ecosystem-rajnath-singh-calls-for-quality-assurance-in-defence-manufacturing-2026-11-15-141100",
       "title_en": "'India Has Strengthened Indigenous Defence Ecosystem': Rajnath Singh Calls for Quality Assurance in Defence Manufacturing",
@@ -1287,8 +1510,8 @@
       "cluster_id": "9247b2d92a2a06aa",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 596,
-      "reddit_comments": 38
+      "reddit_score": 713,
+      "reddit_comments": 50
     },
     {
       "id": "aed8323d883233ee",
@@ -1643,7 +1866,7 @@
       "cluster_id": "4a6294211bb93617",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 56,
+      "reddit_score": 64,
       "reddit_comments": 2
     },
     {
@@ -1721,7 +1944,7 @@
       "cluster_id": "61a2444554cb6340",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 163,
+      "reddit_score": 185,
       "reddit_comments": 12
     },
     {
@@ -1740,7 +1963,7 @@
       "published_at": "2026-11-15T12:52:00+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xwmqnc",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "军事政治"
       ],
@@ -1828,8 +2051,8 @@
       "cluster_id": "e8d2187722ca14c3",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 213,
-      "reddit_comments": 27
+      "reddit_score": 240,
+      "reddit_comments": 28
     },
     {
       "id": "e7df427964fa21fa",
@@ -1897,7 +2120,7 @@
       "region": "印度",
       "published_at": "2026-11-15T11:37:33+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
-      "reddit_id": "t3_1xwle0h",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -1907,8 +2130,8 @@
       "cluster_id": "b13facee40834268",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
-      "reddit_comments": 0
+      "reddit_score": 2,
+      "reddit_comments": 1
     },
     {
       "id": "b05fae2f5dbce236",
@@ -2000,7 +2223,7 @@
       "published_at": "2026-11-15T11:11:35+08:00",
       "fetched_at": "2026-11-16T10:39:51+08:00",
       "reddit_id": "t3_1xwkwlm",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -2009,7 +2232,7 @@
       "cluster_id": "6279ec315d23e173",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 103,
+      "reddit_score": 114,
       "reddit_comments": 4
     },
     {
@@ -2087,8 +2310,8 @@
       "cluster_id": "71efbfcf2e7ad77b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 15,
-      "reddit_comments": 2
+      "reddit_score": 29,
+      "reddit_comments": 3
     },
     {
       "id": "f71c2f3c2c9f0114",
@@ -2115,8 +2338,8 @@
       "cluster_id": "f71c2f3c2c9f0114",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 20,
-      "reddit_comments": 2
+      "reddit_score": 81,
+      "reddit_comments": 11
     },
     {
       "id": "3ea118501068a529",
@@ -2268,6 +2491,33 @@
       "cluster_source_count": 1
     },
     {
+      "id": "f41400efc94bd3d5",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xwe7sl/propalestine_activists_harass_indian_american_and/",
+      "title_en": "Pro-Palestine Activists Harass Indian American and Insult Hinduism",
+      "title_zh": null,
+      "summary_en": "From: PaliNewsNetwork on Twitter. Video posted on Sept. 2026. [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/ZWZ1bHIwMnpkbjFpMf4CJlWGSSyw9qqv3kxxgz2h6x7bitIasq4f0_Y6U-29.png?width=640&crop=smart&auto=webp&s=cb121aab9d15c39c886d1aab3b93e5fe1ff79838",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T05:46:27+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xwe7sl",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f41400efc94bd3d5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 574,
+      "reddit_comments": 33
+    },
+    {
       "id": "e150511117afb7f9",
       "url": "https://indianexpress.com/article/explained/explained-history/jawaharlal-nehru-science-vision-scientific-temper-india-10963012/",
       "title_en": "From IITs to India’s nuclear programme: How Nehru shaped modern Indian science",
@@ -2292,8 +2542,8 @@
       "cluster_id": "e150511117afb7f9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 282,
-      "reddit_comments": 35
+      "reddit_score": 293,
+      "reddit_comments": 36
     },
     {
       "id": "cc86d741654033d2",
@@ -2346,7 +2596,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 0,
-      "reddit_comments": 20
+      "reddit_comments": 22
     },
     {
       "id": "f4186ae808ad0e06",
@@ -2613,7 +2863,34 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 6,
-      "reddit_comments": 5
+      "reddit_comments": 6
+    },
+    {
+      "id": "9a438a903a332dad",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xw9jzi/pakistan_to_send_climate_minister_to_delhi_for/",
+      "title_en": "Pakistan to send climate minister to Delhi for SCO meet, first ministerial visit from Pakistan to India in over three years",
+      "title_zh": null,
+      "summary_en": "Source link: https://www.newindianexpress.com/amp/story/world/2026/Nov/14/pakistan-minister-to-visit-india-for-first-time-in-three-years-for-sco-forum [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/9n7bcvqtfm1i1.jpeg?width=640&crop=smart&auto=webp&s=10d4a7bd19d95070e853a108482be1619a52b77c",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-15T02:28:53+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xw9jzi",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9a438a903a332dad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 28,
+      "reddit_comments": 7
     },
     {
       "id": "55a5103e8bc92522",
@@ -2715,8 +2992,8 @@
       "cluster_id": "55f0c8b3e7b87dc2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
-      "reddit_comments": 3
+      "reddit_score": 89,
+      "reddit_comments": 9
     },
     {
       "id": "947280363ee07b30",
@@ -3033,7 +3310,7 @@
       "cluster_id": "e39d52a90ad9e259",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 75,
+      "reddit_score": 84,
       "reddit_comments": 6
     }
   ]

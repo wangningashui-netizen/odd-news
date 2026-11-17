@@ -1,8 +1,37 @@
 {
   "date": "2026-11-12",
   "timezone": "Asia/Shanghai",
-  "count": 165,
+  "count": 173,
   "items": [
+    {
+      "id": "765e9f3e84040959",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xugaeq/til_after_coming_into_power_in_2004upa_govt/",
+      "title_en": "TIL: After coming into power in 2004,UPA govt through railway minister Lalu Prasad Yadav, constituted a committee(later termed illegal by Gujarat HC) to probe into Godhra train fire incident on 27th Feb,2002; which gave a fake report in 2006 that the cause of fire in Sabarmati Express was accidental",
+      "title_zh": null,
+      "summary_en": "On 4th September 2004, Lalu Yadav who was railway cabinet minister then, notified the appointment of retired Supreme Court judge Justice UC Banarjee to inquire into “certain aspects” of the fire in the coach S-6 of the Sabarmati Express at Godhra on 27 February 2002. It gave interim report on 17 Jan 2005 and full report on 3 March 2006. It claimed that there was no involvement of petrol (in contrast with the forensic evidence that found residual petroleum hydrocarbons), it rejected outside miscreant theory and…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/6vo686uvd71i1.jpeg?width=640&crop=smart&auto=webp&s=fc9896c4cd4434c6cd50c3f5a45ee1982531877b",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T23:51:17+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xugaeq",
+      "tags": [
+        "交通火车",
+        "军事政治",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "765e9f3e84040959",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 268,
+      "reddit_comments": 23
+    },
     {
       "id": "5b5d1d04f5ed0043",
       "url": "https://www.reddit.com/r/india/comments/1xug9me/lost_a_checked_in_bag/",
@@ -776,6 +805,33 @@
       "cluster_id": "63e8d54667d57d7e",
       "cluster_item_count": 2,
       "cluster_source_count": 1
+    },
+    {
+      "id": "807b1a8e97b01d84",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xud4o9/the_malabar_massacre_of_hindus_and_congresss/",
+      "title_en": "The Malabar Massacre of Hindus and Congress's Whitewashing of Moplah Atrocities",
+      "title_zh": null,
+      "summary_en": "The Khilafat Movement (1919–1924) was a pan-Islamic political movement launched by Indian Muslim leaders to protect the Ottoman Caliphate following the Ottoman Empire’s defeat in World War I. Its primary objective was to preserve the Ottoman Sultan’s position as Caliph, regarded by many Muslims worldwide as their spiritual and political leader. In 1919, prominent Muslim leaders, including Maulana Muhammad Ali Jauhar, Shaukat Ali, Abul Kalam Azad, Hakim Ajmal Khan, and Mukhtar Ahmed Ansari, established the Central…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/nmd4ks5er61i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=05e4ca12d1566dae4123ddb6600d45eab66f2f49",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T21:45:15+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xud4o9",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "807b1a8e97b01d84",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 265,
+      "reddit_comments": 6
     },
     {
       "id": "736b0732df83c6de",
@@ -3062,6 +3118,33 @@
       "cluster_source_count": 1
     },
     {
+      "id": "a794c1ca264bf849",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xu7sa8/somethings_dont_change/",
+      "title_en": "Somethings don't change.",
+      "title_zh": null,
+      "summary_en": "​ These children were busting crackers in the middle of the road, with moving vehicles, , parked cars and residential buildings just a few metres away. My car was barely 10 metres away. I repeatedly honked them, but they didn't stop. One firecracker landing in the wrong place could damage a car, cause a fire, injure a pedestrian or put an entire building at risk.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/dWNodWJ1Mm1hNTFpMZuUnf3m5Sqfw4IwkdcIOROtfvTQjw-CuD2KnwpcYjXy.png?width=320&crop=smart&auto=webp&s=7abd1900311a70a8f22db7a320ad3d93b933f2b6",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T16:49:35+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xu7sa8",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a794c1ca264bf849",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 18
+    },
+    {
       "id": "9e8185dbb1da1b71",
       "url": "https://www.hindustantimes.com/trending/gaai-gohri-the-gujarat-tradition-where-villagers-let-herds-of-cattle-run-over-them-101794471252919.html",
       "title_en": "Gaai Gohri: The Gujarat tradition where villagers let herds of cattle run over them",
@@ -3444,6 +3527,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "108ff2b24f51cf70",
+      "url": "https://english.mathrubhumi.com/news/india/government-laptop-policy-2026-rules-eligibility-ezyrlen5",
+      "title_en": "Government employees can now get laptops worth Rs 1.8 lakh and take them home after 4 years: Who qualifies?",
+      "title_zh": null,
+      "summary_en": "New Delhi: The Union Finance Ministry has revised the rules governing the purchase and distribution of laptops and other electronic devices for central government officers, increasing the permissible spending limit and allowing employees to retain their offic...",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1v24qdznbjrvdlyzaa2/0/laptop-jpg.jpeg?f=40%3A21&w=1200&q=0.60",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T15:37:40+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xu6nxx",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cb4db5c69f58b8e3",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 99,
+      "reddit_comments": 12
+    },
+    {
       "id": "0183b82048382047",
       "url": "https://www.indiatoday.in/trending-news/story/madhya-pradesh-forest-guard-gets-rs-640-diwali-bonus-shares-how-he-plans-to-spend-it-3037258-2026-11-12",
       "title_en": "Madhya Pradesh forest guard gets Rs 640 Diwali bonus, shares how he plans to spend it",
@@ -3469,6 +3580,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "67eb7043a7ff163e",
+      "url": "https://theshillongtimes.com/2026/11/10/tripura-civic-polls-bjp-wins-77-seats-unopposed-opposition-alleges-intimidation/",
+      "title_en": "Tripura civic polls: BJP wins 77 seats unopposed; Opposition alleges intimidation",
+      "title_zh": null,
+      "summary_en": "Agartala, Nov 10: Ahead of the November 27 Urban Local Body (ULB) elections, 77 ruling Bharatiya Janata Party (BJP) candidates have been declared elected unopposed by the Tripura State Election Commission (SEC) following the conclusion of the withdrawal of candidature process on Tuesday afternoon.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T15:36:25+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xu6n8y",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8446ab304a91f8e5",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 80,
+      "reddit_comments": 3
+    },
+    {
       "id": "d8d030562ee6a5be",
       "url": "https://www.hindustantimes.com/trending/know-your-neighbourhood-the-story-behind-the-name-lodhi-colony-and-its-wartime-origins-101794465627591.html",
       "title_en": "Know Your Neighbourhood: The story behind the name Lodhi Colony and its wartime origins",
@@ -3491,6 +3630,34 @@
       "cluster_id": "d8d030562ee6a5be",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "2eaa96cef84b8bbd",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xu6jlp/rindiaspeaks_what_have_you_been_gaming_listening/",
+      "title_en": "r/IndiaSpeaks - What have you been Gaming, Listening or Watching lately ?",
+      "title_zh": null,
+      "summary_en": "Tell us about what TV Series or Songs/Artists you are hooked onto lately. Which YouTube creator got your attention? What have you planned to watch in the next days. What games have you been playing (old or new, any platform) this weekend?",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T15:30:05+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xu6jlp",
+      "page_attempts": 1,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2eaa96cef84b8bbd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 2,
+      "reddit_comments": 0
     },
     {
       "id": "09b75685d4887c34",
@@ -3642,7 +3809,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -3786,7 +3953,7 @@
       "region": "印度",
       "published_at": "2026-11-12T14:25:32+08:00",
       "fetched_at": "2026-11-13T11:20:32+08:00",
-      "reddit_id": "t3_1xw0zrp",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "犯罪法律"
@@ -3794,10 +3961,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 0,
-      "reddit_comments": 0
+      "reddit_score": 2,
+      "reddit_comments": 1
     },
     {
       "id": "1487e0e21d51f14f",
@@ -3990,7 +4157,7 @@
       "region": "印度",
       "published_at": "2026-11-12T13:44:23+08:00",
       "fetched_at": "2026-11-13T11:20:32+08:00",
-      "reddit_id": "t3_1xw0zrp",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -4000,8 +4167,8 @@
       "cluster_id": "280e74145d1d89e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 0,
-      "reddit_comments": 0
+      "reddit_score": 2,
+      "reddit_comments": 1
     },
     {
       "id": "692fd210f94816b3",
@@ -4364,8 +4531,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "cb4db5c69f58b8e3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": 554,
       "reddit_comments": 68
     },
@@ -4447,6 +4614,35 @@
       "cluster_id": "14053fae925e4783",
       "cluster_item_count": 2,
       "cluster_source_count": 1
+    },
+    {
+      "id": "f4177864057195b4",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xu2r2s/the_god_we_keep_destroying/",
+      "title_en": "The God we keep destroying.",
+      "title_zh": null,
+      "summary_en": "\"Man is the most insane species. He worships an invisible God and destroys a visible Nature. Unaware that this Nature he's destroying is this God he's worshiping.\" — Hubert Reeves There is something deeply peculiar about the way we practise religion in India. We worship rivers but dump our garbage into them.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T11:56:14+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xu2r2s",
+      "page_attempts": 1,
+      "tags": [
+        "卫生环境",
+        "科学发现"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f4177864057195b4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 8,
+      "reddit_comments": 1
     },
     {
       "id": "fcb0eaa8afb4ab1f",
@@ -4622,7 +4818,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -5060,7 +5256,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -5543,6 +5739,34 @@
       "cluster_source_count": 1,
       "reddit_score": 148,
       "reddit_comments": 9
+    },
+    {
+      "id": "c3c934b0dd76cbff",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xtmu1m/just_my_opinion_based_on_what_ive_seen/",
+      "title_en": "Just my opinion based on what I've seen",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/8iajlfmij01i1.png?width=320&crop=smart&auto=webp&s=5e345c1aa60ba9d5624d059cf76a05e4a414cd46",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-12T00:50:32+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xtmu1m",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c3c934b0dd76cbff",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 1037,
+      "reddit_comments": 49
     },
     {
       "id": "9a94f44ec7210091",

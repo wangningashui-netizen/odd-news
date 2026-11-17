@@ -1,0 +1,32 @@
+{
+  "date": "2023-05-26",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "8f63259ea3917fd9",
+      "url": "https://www.news18.com/viral/employee-shares-gopi-bahu-meme-for-late-login-boss-reply-steals-the-show-7919173.html",
+      "title_en": "Employee Shares Gopi Bahu Meme For Late Login, Boss' Reply Steals The Show",
+      "title_zh": null,
+      "summary_en": "The exchange began with the boss inquiring about the reason for Ujjawal's delayed login.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/05/untitled-design-4-13-168508108016x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-05-26T14:08:44+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "8f63259ea3917fd9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

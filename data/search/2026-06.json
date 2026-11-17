@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "count": 1,
+  "count": 4,
   "items": [
     {
       "id": "78ba60bbb292dde1",
@@ -19,6 +19,72 @@
       "url": "https://www.news18.com/viral/would-you-want-a-random-man-next-to-your-daughter-orry-questions-genderless-washrooms-in-viral-interview-watch-10165332.html",
       "translation_status": "fallback",
       "cluster_id": "78ba60bbb292dde1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5139f5e7a4e6fc6a",
+      "date": "2026-06-19",
+      "published_at": "2026-06-19T18:53:55+08:00",
+      "title_zh": null,
+      "title_en": "‘His First Instinct Was To Assault Her’: Knicks Parade Video Shows Revived Fan Trying To Kiss Woman Who Sav",
+      "summary_zh": null,
+      "summary_en": "A viral video from the Knicks championship parade has sparked outrage after a revived fan repeatedly tried kissing the woman helping save him.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/Baharisons-1-2026-06-28c846f5819648502bbbbe0954c1c6bf-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/his-first-instinct-was-to-assault-her-knicks-parade-video-shows-revived-fan-trying-to-kiss-woman-who-saved-his-life-10161128.html",
+      "translation_status": "pending",
+      "cluster_id": "5139f5e7a4e6fc6a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "601a6602f0ec9134",
+      "date": "2026-06-07",
+      "published_at": "2026-06-07T21:11:02+08:00",
+      "title_zh": null,
+      "title_en": "Only One Country On Earth Still Has Both Wild Lions And Tigers, Do You Know Which?",
+      "summary_zh": null,
+      "summary_en": "From the dry forests of Gujarat to the jungles of Central India, the country remains the last shared home of two of the world’s most iconic big cats.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/TV_5848255_lionsandtigers_1-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/only-one-country-on-earth-still-has-both-wild-lions-and-tigers-do-you-know-which-ws-l-10130423.html",
+      "translation_status": "pending",
+      "cluster_id": "601a6602f0ec9134",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1921e2be34733857",
+      "date": "2026-06-06",
+      "published_at": "2026-06-06T13:24:52+08:00",
+      "title_zh": null,
+      "title_en": "Student Asks AI For Help In The Middle Of An Exam, Gets Unexpected Rejection; Internet Says 'What Is This B",
+      "summary_zh": null,
+      "summary_en": "A viral LinkedIn post showing ChatGPT refusing to answer a student's live exam question has sparked amusement, with users sharing jokes and witty takes on AI ethics",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/Untitled-design-1-2026-06-718d4b8c665bf2b6e28cb77969acc0f4-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/student-asks-ai-for-help-in-the-middle-of-an-exam-gets-unexpected-rejection-internet-says-what-is-this-behaviour-chatgpt-ws-l-10133535.html",
+      "translation_status": "pending",
+      "cluster_id": "1921e2be34733857",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

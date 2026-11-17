@@ -1,7 +1,7 @@
 {
   "date": "2023-06-23",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "deec4ba5b6208d0c",
@@ -25,6 +25,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "deec4ba5b6208d0c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "ce88b9ac36fae871",
+      "url": "https://www.news18.com/viral/fetus-in-fetu-this-nagpur-man-thought-to-be-pregnant-carried-his-twin-for-36-years-8151571.html",
+      "title_en": "Fetus In Fetu: This Nagpur Man, Thought To Be ‘Pregnant’, Carried His Twin For 36 Years",
+      "title_zh": null,
+      "summary_en": "He was carrying his twin sibling inside him for 36 years.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/06/news18-1-12-168750128816x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-06-23T14:26:38+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ce88b9ac36fae871",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

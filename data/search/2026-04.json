@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "1188751e57161940",
@@ -42,6 +42,28 @@
       "url": "https://www.news18.com/viral/samay-rainas-alleged-rs-140-210-crore-net-worth-goes-viral-internet-questions-tax-bharta-hai-ye-ws-l-10031942.html",
       "translation_status": "fallback",
       "cluster_id": "69016baa25807bd7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "eab93bc913b7f020",
+      "date": "2026-04-11",
+      "published_at": "2026-04-11T17:48:07+08:00",
+      "title_zh": null,
+      "title_en": "Yuzvendra Chahal Viral Clip Shows 'Smoking And Littering' From Luxury Car, Fans Furious: 'One Bad Fish Can",
+      "summary_zh": null,
+      "summary_en": "A viral video allegedly showing Yuzvendra Chahal smoking and littering from a car has sparked backlash online, though its authenticity and location remain unverified",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/Untitled-design-6-2026-04-65c2556dfea5d12b75e6a31c955ed30f-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/yuzvendra-chahal-viral-clip-shows-smoking-and-littering-from-luxury-car-fans-furious-one-bad-fish-can-spoil-the-pond-ws-l-10027569.html",
+      "translation_status": "pending",
+      "cluster_id": "eab93bc913b7f020",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "b472abd6b1b45d51",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/what-if-the-red-wedding-from-game-of-thrones-went-differently-this-ai-video-is-breaking-the-internet-9982220.html",
       "translation_status": "fallback",
       "cluster_id": "b472abd6b1b45d51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7d93e435c4a3eebf",
+      "date": "2026-03-16",
+      "published_at": "2026-03-16T19:04:33+08:00",
+      "title_zh": null,
+      "title_en": "'Did They Boil It?': Bengaluru Cafe's 5% 'Gas Crisis' Fee On Lemonade Sparks Online Debate",
+      "summary_zh": null,
+      "summary_en": "The unusual fee, applied on a bill for two mint lemonades, has left many users amused and some questioning its fairness.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/GAS-CRISIS-2026-03-c9daa1773e482036415cb7d907d28343-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/did-they-boil-it-bengaluru-cafes-5-gas-crisis-fee-on-lemonade-sparks-online-debate-ws-l-9963773.html",
+      "translation_status": "pending",
+      "cluster_id": "7d93e435c4a3eebf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

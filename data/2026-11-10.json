@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "Asia/Shanghai",
-  "count": 180,
+  "count": 191,
   "items": [
     {
       "id": "1f9dae8f7cf1dc51",
@@ -158,6 +158,34 @@
       "cluster_id": "2a2398bc59476299",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "bbb99809e5ea2a25",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xsp1zr/rice_is_eaten_a_lot_in_kerala_tamil_nadu_and/",
+      "title_en": "Rice is eaten a lot in Kerala, Tamil Nadu, and Bengal. Why don't they have parali burning issue?",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/prvid4ttus0i1.png?width=140&height=98&auto=webp&s=ac9cf00a5a5c2e5ba5b27c2754f933239d99d8c2",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T23:00:01+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsp1zr",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bbb99809e5ea2a25",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 221,
+      "reddit_comments": 39
     },
     {
       "id": "aba1c90e719ac500",
@@ -872,7 +900,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -898,7 +926,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
       "reddit_score": 1063,
       "reddit_comments": 52
@@ -1683,7 +1711,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -1786,7 +1814,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -2039,8 +2067,36 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1f0344e68459c552",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
+      "id": "3186b08ab68043eb",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xskin4/sonia_gandhis_new_book_belonging_a_journey_of/",
+      "title_en": "Sonia Gandhi’s new book - Belonging: A Journey of Love. What should we expect from it?",
+      "title_zh": null,
+      "summary_en": "Just got my copy of Sonia Gandhi’s new book. Quite curious to see what she has to say…. Her journey from Italy to India, life in the Gandhi family, the personal tragedies, and of course, all those years in Indian politics. That’s quite a lot to write about!",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T19:28:23+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xskin4",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3186b08ab68043eb",
       "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 5
     },
     {
       "id": "71358f1398e2ce27",
@@ -2239,7 +2295,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -2290,6 +2346,34 @@
       "cluster_id": "6873876b4a08789e",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "dad359dcdfa14149",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xsjsv2/the_kgmu_medical_college_scandal_how_a_doctor/",
+      "title_en": "The KGMU Medical College Scandal: How a Doctor Exploited 19 Women and the Huge Cover-Up That Followed",
+      "title_zh": null,
+      "summary_en": "A massive scandal at King George’s Medical University (KGMU) in Lucknow has shocked the country. What started as one woman's brave complaint has uncovered a massive network of blackmail, forced religious conversion, and a major cover-up by senior college professors. How it all started In December 2025, a female resident doctor filed a police complaint against Dr. Rameez Uddin Nayak, a resident doctor in the Pathology department.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/M3VheGxrb3hrcjBpMQ0hz1WyZMkyGAojhddX4G4f5bCxncUz3dY4HMou69-C.png?width=640&crop=smart&auto=webp&s=6cc3e2584bd3c8a4d6871c865be700aac528448b",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T18:45:24+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsjsv2",
+      "tags": [
+        "健康医疗",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "dad359dcdfa14149",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 291,
+      "reddit_comments": 12
     },
     {
       "id": "54f7964ec1ac1355",
@@ -2473,6 +2557,34 @@
       "cluster_id": "a499374e48d69baf",
       "cluster_item_count": 2,
       "cluster_source_count": 2
+    },
+    {
+      "id": "140d32fe02f55f3f",
+      "url": "https://www.storyboard18.com/brand-marketing/fssai-seizes-food-products-worth-%e2%82%b982-crore-in-festive-season-crackdown-cancels-52-licences-ws-l-114391.htm",
+      "title_en": "FSSAI seizes food products worth ₹82 crore in festive season crackdown, cancels 52 licences",
+      "title_zh": null,
+      "summary_en": "The food safety regulator inspected over 56,000 establishments between September 1 and November 5, seizing nearly 3,280 tonnes of non-compliant products, including paneer, ghee, milk and sweets.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.storyboard18.com/storyboard18/2026/08/Visuals-Page-2026-08-02T234906.739-2026-08-f0a2c06a640edd2424f704dc18bf1b03-1019x573.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T18:28:12+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsjig0",
+      "page_fetched": true,
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "140d32fe02f55f3f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 25,
+      "reddit_comments": 2
     },
     {
       "id": "82ff1b4bf2c95ec8",
@@ -2783,6 +2895,33 @@
       "cluster_source_count": 1
     },
     {
+      "id": "d7a0ba578d01f6aa",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xsin07/jharkhand_hc_84yearold_man_ordered_to_pay/",
+      "title_en": "Jharkhand HC: 84-Year-Old Man Ordered to Pay Maintenance to Widowed Daughter-in-Law. Do you think this is fair?",
+      "title_zh": null,
+      "summary_en": "Source: Live Law Article The Jharkhand High Court has upheld an order directing an approximately 84-year-old man to pay ₹17,000 every month towards the maintenance of his widowed daughter-in-law and two grandchildren. The court relied on the Hindu Adoptions and Maintenance Act, 1956. The father-in-law receives a pension of over ₹32,000, while rental income brings the combined monthly income to more than ₹50,000. The court held that his advanced age did not extinguish his statutory obligation.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/z4rfc1eh8r0i1.jpeg?width=640&crop=smart&auto=webp&s=104043b4723126871952f668e9f3e0b06635b954",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T17:33:53+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsin07",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d7a0ba578d01f6aa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 222,
+      "reddit_comments": 21
+    },
+    {
       "id": "ae2a3611ba007c48",
       "url": "https://www.republicworld.com/entertainment/bollywood/ramayana-box-office-collection-day-5-ranbir-kapoor-yash-starrer-creates-history-on-first-monday-scores-century-beating-dhurandhar-2-2026-11-10-140762",
       "title_en": "Ramayana Box Office Collection Day 5: Ranbir Kapoor-Yash Starrer Creates History On First Monday, Scores Century Beating Dhurandhar 2",
@@ -2882,7 +3021,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -2986,6 +3125,34 @@
       "cluster_id": "330376e906c031b5",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "2454b3ab8487643c",
+      "url": "https://x.com/vishnundtv/status/2119981608178794813?a=SxPSobCzlMKVTyOHvpE&s=46",
+      "title_en": "4,500 vs 34,000: NASA Scientist Flags Punjab-Haryana Farm Fires Undercount",
+      "title_zh": null,
+      "summary_en": "4,500 vs 34,000: NASA Scientist Flags Punjab-Haryana Farm Fires Undercount https://t.co/72Lu2yRcFe",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://pbs.twimg.com/card_img/2119838404351504384/EKIZHAFp?format=webp&name=medium",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T17:09:24+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsi9pd",
+      "page_fetched": true,
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4cb37625b37a4ffc",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 49,
+      "reddit_comments": 0
     },
     {
       "id": "2e6a3fc0a8f651b5",
@@ -3182,7 +3349,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -3493,7 +3660,7 @@
       "region": "印度",
       "published_at": "2026-11-10T16:06:28+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
-      "reddit_id": "t3_1xw0zrp",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -3503,8 +3670,8 @@
       "cluster_id": "65362ade65c0c979",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 0,
-      "reddit_comments": 0
+      "reddit_score": 2,
+      "reddit_comments": 1
     },
     {
       "id": "821a2527f47edfd2",
@@ -3549,7 +3716,7 @@
       "region": "印度",
       "published_at": "2026-11-10T15:38:09+08:00",
       "fetched_at": "2026-11-11T10:39:20+08:00",
-      "reddit_id": "t3_1xw0zrp",
+      "reddit_id": "t3_1xxveal",
       "page_fetched": true,
       "tags": [
         "动物"
@@ -3559,8 +3726,8 @@
       "cluster_id": "097e11ab7d129664",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 0,
-      "reddit_comments": 0
+      "reddit_score": 2,
+      "reddit_comments": 1
     },
     {
       "id": "c2525f24a9c48360",
@@ -4121,8 +4288,36 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
+    },
+    {
+      "id": "deac37520fdfac0c",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xsfnks/hanuman_ji_rangoli_my_mom_made_this_year/",
+      "title_en": "Hanuman JI Rangoli my mom made this year",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/ok309llgaq0i1.jpeg?width=640&crop=smart&auto=webp&s=038b59a35ef3e717e7b09ae381d5a19a90e1e9d0",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T14:21:55+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsfnks",
+      "page_attempts": 1,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "deac37520fdfac0c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 555,
+      "reddit_comments": 7
     },
     {
       "id": "ad3be437a6052bf9",
@@ -4295,7 +4490,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -4347,8 +4542,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4cb37625b37a4ffc",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": 1,
       "reddit_comments": 0
     },
@@ -4427,6 +4622,33 @@
       "cluster_source_count": 2
     },
     {
+      "id": "9fcc1ff0136997ed",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xseh2j/rajasthan_an_islamic_scholar_in_jaipur_arrested/",
+      "title_en": "Rajasthan: An islamic scholar in jaipur arrested after he married to 18 years old madrasa student while already having 3 kids with his wife.",
+      "title_zh": null,
+      "summary_en": "Source: https://www.bhaskarenglish.in/local/rajasthan/jaipur/news/jaipur-madrasa-maulana-marries-student-controversy-family-protest-139637831.html https://theopenpress.in/article/jaipur-maulana-beaten-court-viral-video-madrasa-student-marriage [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/bDZ4Zmx6aWd5cDBpMQNrQtD9TtqadLmD0igjvNt0qs3JBHwS4-2D9V-Z5ORP.png?width=320&crop=smart&auto=webp&s=a6baf3626c832936c0e60a452a27fca2343515de",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T13:14:34+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xseh2j",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9fcc1ff0136997ed",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 626,
+      "reddit_comments": 32
+    },
+    {
       "id": "4f49a2a82f466991",
       "url": "https://www.hindustantimes.com/trending/nvidia-ceo-jensen-huang-s-net-worth-stands-at-155-billion-as-the-10th-richest-person-in-the-world-101794286903430.html",
       "title_en": "Nvidia CEO Jensen Huang’s net worth stands at $155 billion as the 10th richest person in the world",
@@ -4498,7 +4720,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
       "reddit_score": 38,
       "reddit_comments": 4
@@ -4913,9 +5135,9 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 241,
+      "reddit_score": 262,
       "reddit_comments": 8
     },
     {
@@ -4945,6 +5167,34 @@
       "cluster_source_count": 1,
       "reddit_score": 68,
       "reddit_comments": 10
+    },
+    {
+      "id": "9211f46946fa9303",
+      "url": "https://x.com/TimesNow/status/2119683824103870630?a=Ab4NzWmIJGYaFqauDaw&s=20",
+      "title_en": "TIMES NOW (@TimesNow) on X",
+      "title_zh": null,
+      "summary_en": "AQI 'Manipulation' Row | TIMES NOW Investigation Findings - 'No hourly readings across 52 monitoring stations' - 'Large-scale blackout on Diwali night' - 'Only 7 of 59 stations reported proper data' - 'All 59 stations were fully functional at 8 PM on Nov 8' - 'Data blackout from 9 PM on Nov 8…",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://pbs.twimg.com/profile_images/1354074536925388802/qkHhpnVw_400x400.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T12:19:32+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsdg6e",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9211f46946fa9303",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 6,
+      "reddit_comments": 1
     },
     {
       "id": "6cd1b70ee82d488a",
@@ -5096,7 +5346,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -5174,6 +5424,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "62090cbd0817037a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xsbfn5/the_most_iconic_maa_kali_visarjan_of_boltola_kali/",
+      "title_en": "The Most Iconic Maa Kali Visarjan of Boltola Kali in Rural West Bengal!",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/MnpnMmM3bms1cDBpMfkm8vAm8jgwW0pADiX5Z1uxc2Cg9mF2XivVxF4mNEZy.png?width=640&crop=smart&auto=webp&s=0bbf30be01eda007cb8cf399480fbb5962a200f6",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T10:37:43+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xsbfn5",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "62090cbd0817037a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 192,
+      "reddit_comments": 1
+    },
+    {
       "id": "b51736c996332d19",
       "url": "https://www.tribuneindia.com/news/punjab/punjab-stubble-burning-plunges-95-haryana-records-98-decline-since-2020-indian-agricultural-research-institute",
       "title_en": "Stubble burning drops 95% in Punjab, 98% in Haryana since 2020: Indian Agricultural Research Institute",
@@ -5198,8 +5476,8 @@
       "cluster_id": "93cee4589253db9b",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 227,
-      "reddit_comments": 69
+      "reddit_score": 310,
+      "reddit_comments": 73
     },
     {
       "id": "46c3f93f360651f0",
@@ -5276,7 +5554,7 @@
       "cluster_id": "9bb7ce99d4f5d546",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 132,
+      "reddit_score": 138,
       "reddit_comments": 5
     },
     {
@@ -5304,7 +5582,7 @@
       "cluster_id": "af733db0fabf0be5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 367,
+      "reddit_score": 386,
       "reddit_comments": 26
     },
     {
@@ -5358,7 +5636,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
       "reddit_score": 0,
       "reddit_comments": 1
@@ -5385,7 +5663,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -5494,8 +5772,8 @@
       "cluster_id": "08b79a33dbf72adf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 454,
-      "reddit_comments": 25
+      "reddit_score": 504,
+      "reddit_comments": 30
     },
     {
       "id": "dfd08c305518713a",
@@ -5544,7 +5822,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9
     },
     {
@@ -5576,6 +5854,34 @@
       "reddit_comments": 81
     },
     {
+      "id": "453587c105d4d80d",
+      "url": "https://x.com/goodairapp/status/2119713286669353231?a=FbMzhveNNHSGXpkrCAA&s=46",
+      "title_en": "Eastern Winds are helping reduce North India AQI level. Diwali night peak of 1000 AQI in Delhi went down to 200-300 level in 6 hours. Pakistan Cities are experiencing major jump in AQI",
+      "title_zh": null,
+      "summary_en": "In case you are wondering where did the diwali night smoke go? Easterly winds helped it dissipate and some of it was carried towards the west. Many regions in Pakistan are facing severe pollution.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://pbs.twimg.com/media/HWq75iCbAAAPf21?format=webp&name=large",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-10T00:56:39+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xrwzss",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a1d443d7dfd90351",
+      "cluster_item_count": 71,
+      "cluster_source_count": 9,
+      "reddit_score": 25,
+      "reddit_comments": 0
+    },
+    {
       "id": "d03965265faea2be",
       "url": "https://maktoobmedia.com/post?id=116901&slug=keralas-cpim-led-government-bought-israeli-firm-cellebrites-phone-unlocking-software-in-2024-congress-government-renewed-it-in-july-report-finds",
       "title_en": "Kerala's CPI(M)-led government bought Israeli firm Cellebrite's phone-unlocking software in 2024, Congress government renewed it in July, report finds",
@@ -5590,7 +5896,7 @@
       "region": "印度",
       "published_at": "2026-11-10T00:51:23+08:00",
       "fetched_at": "2026-11-10T12:33:59+08:00",
-      "reddit_id": "t3_1xrwunh",
+      "reddit_id": "t3_1xxnbip",
       "page_fetched": true,
       "tags": [
         "军事政治"
@@ -5600,8 +5906,8 @@
       "cluster_id": "d03965265faea2be",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 119,
-      "reddit_comments": 18
+      "reddit_score": 1,
+      "reddit_comments": 0
     },
     {
       "id": "39b39924f81255ce",

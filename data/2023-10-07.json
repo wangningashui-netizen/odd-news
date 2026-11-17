@@ -1,0 +1,32 @@
+{
+  "date": "2023-10-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "98e9032f7f230461",
+      "url": "https://www.news18.com/viral/jaipur-woman-accuses-uber-driver-of-attempted-phone-snatching-alleged-harassment-in-viral-video-8607060.html",
+      "title_en": "Jaipur Woman Accuses Uber Driver of Attempted Phone Snatching, Alleged Harassment in Viral Video",
+      "title_zh": null,
+      "summary_en": "Jaipur-based Instagram influencer claims an Uber driver allegedly harassed her and tried snatching her phone.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/10/untitled-2023-10-07t154540.423-2023-10-2b08ae4d539a817ec17887c28e1cdd14-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-10-07T18:19:19+08:00",
+      "fetched_at": "2026-11-17T13:00:05+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "98e9032f7f230461",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

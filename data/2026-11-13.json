@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "timezone": "Asia/Shanghai",
-  "count": 149,
+  "count": 157,
   "items": [
     {
       "id": "b45bb191e7388915",
@@ -559,7 +559,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
       "reddit_score": 22,
       "reddit_comments": 0
@@ -1010,6 +1010,34 @@
       "cluster_source_count": 1
     },
     {
+      "id": "26077f54be4a953a",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xv8kq1/realistic_insights_about_the_work_life_of_a/",
+      "title_en": "Realistic insights about the work life of a medical representative in india",
+      "title_zh": null,
+      "summary_en": "Hello guys! Please tell me the pros and cons of being a Medical rep in India. If you can tell me in detail that would be great. I also want to know the kind of information to help me ease into this field.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T21:58:26+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xv8kq1",
+      "page_attempts": 1,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "26077f54be4a953a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 5,
+      "reddit_comments": 2
+    },
+    {
       "id": "27dd561d60a47cb3",
       "url": "https://www.hindustantimes.com/trending/kiran-mazumdar-shaw-praises-teen-who-built-iron-man-inspired-jarvis-to-control-his-room-without-internet-101794576468738.html",
       "title_en": "Kiran Mazumdar-Shaw praises teen who built Iron Man-inspired 'Jarvis' to control his room without internet",
@@ -1347,6 +1375,34 @@
       "cluster_id": "d1dfb5eed0f75abf",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "6b59843ec828441a",
+      "url": "https://theprint.in/india/scandal-of-gigantic-proportions-congress-on-adani-slashing-maharashtra-power-project-cost-by-99/3097585/",
+      "title_en": "'Scandal of gigantic proportions': Congress on Adani slashing Maharashtra power project cost by 99%",
+      "title_zh": null,
+      "summary_en": "Stay updated with ThePrint: Preferred Source Google Discover New Delhi, Nov 13 (PTI) The Congress on Friday attacked the Modi government over Adani Green Energy Limited reportedly seeking to revise the cost of its hydropower project in Maharashtra’s Satara district downwards by 99 per cent, calling it a “scandal of gigantic proportions” and reiterating its […]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T21:02:06+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xv7anu",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "61f5fee96bba6a03",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": 79,
+      "reddit_comments": 3
     },
     {
       "id": "2d7cc8d2e31e42cf",
@@ -1843,6 +1899,33 @@
       "cluster_id": "d22f8916e8864620",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "d51e33987b2b3f1d",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xv5t24/about_proofs_of_pm_modi_being_a_foreign_agent_lop/",
+      "title_en": "About proofs of PM Modi being a foreign agent LoP Rahul Gandhi says, “The proof is in this phone. The prime minister knows it because he taps my phone. The moment he comes to a 1 on 1 debate everybody will get to know about the PM being anti national.”",
+      "title_zh": null,
+      "summary_en": "Gandhi said this before heading to attend Bharat Summit, an annual meet up of global left in Telengana, where many key speakers from George Soros’ Open Society Foundation are invited [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://external-preview.redd.it/ZzM4MXh5OWpiZDFpMbyzxrJ4p7i7kcR0004b4ljbIWlLujESizyg2Q_nhkDs.jpeg?width=640&crop=smart&auto=webp&s=4e46d011f6ea89432fd3544c5dab731f82224d32",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T19:48:53+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xv5t24",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d51e33987b2b3f1d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 575,
+      "reddit_comments": 121
     },
     {
       "id": "13ca5b67544ac338",
@@ -2550,8 +2633,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2217c43ad9c3b7d3",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "bd24fd7b6605d2a1",
@@ -2709,7 +2792,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
       "reddit_score": 145,
       "reddit_comments": 25
@@ -3151,6 +3234,33 @@
       "cluster_source_count": 1,
       "reddit_score": 323,
       "reddit_comments": 21
+    },
+    {
+      "id": "98f65d4bcb0c8cf7",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xv0cuo/purnea_bihar_ib_and_police_arrested_mohammad/",
+      "title_en": "Purnea, Bihar: IB and Police arrested Mohammad shahid akhtar (23) over espionage for pakistan in a multi state network and association with islamic extremist group.",
+      "title_zh": null,
+      "summary_en": "Source: https://m.rediff.com/news/commentary/2026/nov/12/man-arrested-in-bihar-for-allegedly-sharing-sensitive-information-with-handlers/c252eafa87655b8d0b800fb30fd42820 https://www-etvbharat-com.translate.goog/en/bharat/pakistani-handler-arrested-in-bihar-enn26111202352?\\\\\\_x\\\\\\_tr\\\\\\_sl=en&\\\\\\_x\\\\\\_tr\\\\\\_tl=hi&\\\\\\_x\\\\\\_tr\\\\\\_hl=hi&\\\\\\_x\\\\\\_tr\\\\\\_pto=tc [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/v9sb7gw5ob1i1.jpeg?width=640&crop=smart&auto=webp&s=bf71e57df6466161a971b9b08af1a81f1ee536a0",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T14:16:01+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xv0cuo",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "98f65d4bcb0c8cf7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 252,
+      "reddit_comments": 8
     },
     {
       "id": "db68a295ec1f0cab",
@@ -3639,6 +3749,34 @@
       "cluster_source_count": 2
     },
     {
+      "id": "619cf6d328fbbd97",
+      "url": "https://www.thehindu.com/news/cities/bangalore/infosys-co-founder-narayana-murthy-advocates-train-the-teacher-colleges-by-retired-stem-teachers-across-india/article71692952.ece?shem=dsdf%2Csharefoc%2Cagadiscoversdl%2C%2Csh%2Fx%2Fdiscover%2Fm1%2F4",
+      "title_en": "Infosys co-founder Narayana Murthy advocates ‘train the teacher’ colleges by retired STEM teachers across India",
+      "title_zh": null,
+      "summary_en": "The Infosys co-founder proposed inviting 10,000 retired STEM teachers to run 2,500 'Train the Teacher' colleges across India, and boosting critical thinking and education.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://th-i.thgim.com/public/incoming/cnxzow/article71693087.ece/alternates/LANDSCAPE_1200/PTI11_12_2025_000140B.jpg",
+      "image_checked": true,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T13:10:36+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xuz6op",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "619cf6d328fbbd97",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 19,
+      "reddit_comments": 2
+    },
+    {
       "id": "e8fafabd33bc83e2",
       "url": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms",
       "title_en": "SC: Indians married here can't get divorced abroad",
@@ -3769,6 +3907,34 @@
       "cluster_source_count": 1,
       "reddit_score": 11,
       "reddit_comments": 0
+    },
+    {
+      "id": "6141376bb23203c4",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xuyfof/rindiaspeaks_what_happened_in_your_state_or_city/",
+      "title_en": "r/IndiaSpeaks - What happened in your State or City this week ?",
+      "title_zh": null,
+      "summary_en": "Tell us anything noticeable big or small, funny or strange happened in your city/state/region. Please remember to state the city/state/region in your comment and it would be great if you link to some news article or a source to it. ​ You can also join our Discord server Invite The \"What happened in your State or City\" thread is posted weekly on Saturday evening Previous Threads can be found here [link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T12:30:12+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xuyfof",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6141376bb23203c4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 0,
+      "reddit_comments": 1
     },
     {
       "id": "5dd63d8df0e54968",
@@ -3902,8 +4068,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "92f323c64bb45576",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "94fd711d3318d6af",
@@ -3956,8 +4122,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "61f5fee96bba6a03",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": 421,
       "reddit_comments": 15
     },
@@ -4064,6 +4230,34 @@
       "cluster_source_count": 1,
       "reddit_score": 142,
       "reddit_comments": 6
+    },
+    {
+      "id": "745577d368f88f1f",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xux1i9/my_cousin_and_his_wife_are_in_india_now_and_are/",
+      "title_en": "My cousin and his wife are in India now and are on a treasure hunt trying to find the locations of our Great Grandpa’s photos. It’s been a lot of fun and the locals are enthusiastically involved in the process. What a great time!",
+      "title_zh": null,
+      "summary_en": "[link] [comments]",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://preview.redd.it/nzxpygddsa1i1.jpeg?width=140&height=70&auto=webp&s=9088c1664aa3d5668f82607a39572e57c10d2410",
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T11:17:48+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xux1i9",
+      "page_attempts": 1,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "745577d368f88f1f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 136,
+      "reddit_comments": 2
     },
     {
       "id": "a237ef7950fcb0b7",
@@ -4460,6 +4654,35 @@
       "reddit_comments": 55
     },
     {
+      "id": "bfb85dbc35cc7f64",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xulxi8/high_time_india_abolished_the_ayush_ministry/",
+      "title_en": "High time India abolished the Ayush ministry?",
+      "title_zh": null,
+      "summary_en": "Why are we still spending thousands of crores on the Ministry of AYUSH? I genuinely don't understand why India continues to have a dedicated ministry promoting Ayurveda, Homeopathy, Unani, Siddha and Naturopathy as systems of medicine. My issue isn't with Hinduism, Islam, Indian culture or our history. I have absolutely no problem with people studying ancient Indian medicine, appreciating Sushruta's contributions to surgery, worshipping Dhanvantari or practising yoga for exercise and general wellbeing.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": null,
+      "image_checked": false,
+      "source": "Reddit r/IndiaSpeaks",
+      "source_id": "reddit-indiaspeaks",
+      "region": "印度",
+      "published_at": "2026-11-13T03:19:21+08:00",
+      "fetched_at": "2026-11-17T13:00:17+08:00",
+      "reddit_id": "t3_1xulxi8",
+      "page_attempts": 1,
+      "tags": [
+        "历史考古",
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bfb85dbc35cc7f64",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": 95,
+      "reddit_comments": 20
+    },
+    {
       "id": "c976c7e42c7f6b7e",
       "url": "https://scroll.in/latest/1097038/consumer-rights-watchdog-directs-ola-to-scrap-advance-tipping-feature-imposes-rs-10-lakh-penalty",
       "title_en": "Consumer rights watchdog directs Ola to scrap advance tipping feature, imposes Rs 10 lakh penalty",
@@ -4535,7 +4758,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a1d443d7dfd90351",
-      "cluster_item_count": 67,
+      "cluster_item_count": 71,
       "cluster_source_count": 9,
       "reddit_score": 122,
       "reddit_comments": 18
