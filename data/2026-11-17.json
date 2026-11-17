@@ -1,8 +1,1373 @@
 {
   "date": "2026-11-17",
   "timezone": "Asia/Shanghai",
-  "count": 45,
+  "count": 54,
   "items": [
+    {
+      "id": "b35e988edb05ebb7",
+      "url": "https://x.com/yadavakhilesh/status/2122712593915900108",
+      "title_en": "आदरणीय आज़म ख़ान साहब की ज़मानत मंज़ूर होना इंसाफ़ की जीत है। यही सदाक़त की ताक़त होती है कि आख़िर में सच ही जीतता है।",
+      "title_zh": "阿克列什：阿扎姆·汗获准保释是正义的胜利",
+      "summary_en": "आदरणीय आज़म ख़ान साहब की ज़मानत मंज़ूर होना इंसाफ़ की जीत है। यही सदाक़त की ताक़त होती है कि आख़िर में सच ही जीतता है।",
+      "summary_zh": "社会党主席阿克列什·亚达夫发文祝贺尊敬的阿扎姆·汗获得保释，称这是正义的胜利，也说明真诚的力量最终会让真相胜出。",
+      "translation_status": "ai",
+      "image": null,
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T23:24:55+08:00",
+      "fetched_at": "2026-11-18T06:44:32+08:00",
+      "tags": [
+        "军事政治",
+        "犯罪法律"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122712593915900108",
+        "lang": "hi",
+        "text": "आदरणीय आज़म ख़ान साहब की ज़मानत मंज़ूर होना इंसाफ़ की जीत है। यही सदाक़त की ताक़त होती है कि आख़िर में सच ही जीतता है।",
+        "author": {
+          "name": "Akhilesh Yadav",
+          "username": "yadavakhilesh",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1364807128683143168/Q2hcCtVT_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatar.jpg"
+        },
+        "created_at": "2026-11-17T15:24:55.000Z",
+        "public_metrics": {
+          "reply_count": 217,
+          "repost_count": 1137,
+          "like_count": 8613,
+          "quote_count": 39,
+          "bookmark_count": 36,
+          "impression_count": 316235
+        },
+        "photos": [],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/yadavakhilesh/status/2122712593915900108",
+        "ytdlp_command": "yt-dlp https://x.com/yadavakhilesh/status/2122712593915900108",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122819456875614652",
+            "author": {
+              "name": "परिचय",
+              "username": "Deepak74620921",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1511092395836063744/3zdXq1Nq_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatars/Deepak74620921.jpg"
+            },
+            "text": "@yadavakhilesh जमानत मिली है, बा इज़्ज़त बरी नहीं हुए है जो  आदरणीय ,साहब जैसे भारी शब्दों की जरूरत पड़े?",
+            "created_at": "2026-11-17T22:29:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122712593915900108"
+          },
+          {
+            "id": "2122799465308553460",
+            "author": {
+              "name": "Buddha",
+              "username": "ParodyExchange",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1772300968316866560/C5cWJaro_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatars/ParodyExchange.jpg"
+            },
+            "text": "@yadavakhilesh There is Zero respect for Dons & Goons \n\nThey all belong to Jail",
+            "created_at": "2026-11-17T21:10:06.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122712593915900108"
+          },
+          {
+            "id": "2122786657145364603",
+            "author": {
+              "name": "You and me (again)....",
+              "username": "Sr_ii_nii",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatars/Sr_ii_nii.jpg"
+            },
+            "text": "@yadavakhilesh Respected??? Lol",
+            "created_at": "2026-11-17T20:19:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122712593915900108"
+          },
+          {
+            "id": "2122785550633709756",
+            "author": {
+              "name": "Gen-Z ✨ Alfa",
+              "username": "Vrisha1105",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2064952288473731072/9_jFKQBS_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatars/Vrisha1105.jpg"
+            },
+            "text": "@yadavakhilesh https://t.co/eZYEjn2ncb",
+            "created_at": "2026-11-17T20:14:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122712593915900108"
+          },
+          {
+            "id": "2122785432643727423",
+            "author": {
+              "name": "Lakada SINGH",
+              "username": "Lakada11",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1159448562578677760/1yTOZlkN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatars/Lakada11.jpg"
+            },
+            "text": "@yadavakhilesh Vaise sare ajam khaa ke AJEEJ ek BAAT main POOR yakeen Karte Hain Vo ye ki,\n BAKARE ki AMMA kabb tak KHAIR manayegi. JAMANAT mili hai Ba- IJJAT Bari Nahi huaa hai, gar bari ho bhi Gaya Tao ijjat kabhi NASEEB nahi hogi. Ta usko Na hi apne tOnTi cHoR Ko \n😉👇😉 https://t.co/HzyAEmHaco",
+            "created_at": "2026-11-17T20:14:21.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2122712593915900108"
+          },
+          {
+            "id": "2122784944858742789",
+            "author": {
+              "name": "Narad Uwacha",
+              "username": "NaradUwacha",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/570801327416954880/BEZiAVTo_normal.jpeg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122712593915900108/avatars/NaradUwacha.jpg"
+            },
+            "text": "@yadavakhilesh ख़ुद ही फँसाया तूने",
+            "created_at": "2026-11-17T20:12:24.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2122712593915900108"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "83ddb17afd5fa31e71f40fa0ffe4f354217a6c9f",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "b35e988edb05ebb7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "218d0e6a92b7f060",
+      "url": "https://x.com/MahuaMoitra/status/2122695689864089749",
+      "title_en": "How can anyone, I mean anyone, embarrass India more on a global stage than PM Modi who literally picked up a floor marker & pocketed it. …. Unf….believable! https://t.co/sdzVipslzy",
+      "title_zh": "莫迪在四方安全对话合影时把地上的印度国旗定位贴捡起放进口袋，特里纳摩党议员嘲其让印度在国际场合出丑",
+      "summary_en": "How can anyone, I mean anyone, embarrass India more on a global stage than PM Modi who literally picked up a floor marker & pocketed it. …. Unf….believable! https://t.co/sdzVipslzy",
+      "summary_zh": "特里纳摩党议员马华·莫伊特拉转发视频称，莫迪在国际场合当着他国领导人的面，把地上的定位标记捡起来放进了口袋，质问还有谁能比总理更让印度在全球舞台上难堪。该标记是四方安全对话领导人合影时用来标示站位的印度国旗贴。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T22:17:44+08:00",
+      "fetched_at": "2026-11-18T06:44:24+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122695689864089749",
+        "lang": "en",
+        "text": "How can anyone, I mean anyone, embarrass India more on a global stage than PM Modi who literally picked up a floor marker & pocketed it. …. Unf….believable! https://t.co/sdzVipslzy",
+        "author": {
+          "name": "Mahua Moitra",
+          "username": "MahuaMoitra",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1559378267953451008/rmFqFFjE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatar.jpg"
+        },
+        "created_at": "2026-11-17T14:17:44.000Z",
+        "public_metrics": {
+          "reply_count": 129,
+          "repost_count": 1684,
+          "like_count": 10746,
+          "quote_count": 516,
+          "bookmark_count": 700,
+          "impression_count": 1070678
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122695648990650369/vid/avc1/1280x720/Jh3j2kBW6_-0tKNJ.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-18T06:44:24+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/MahuaMoitra/status/2122695689864089749",
+        "ytdlp_command": "yt-dlp https://x.com/MahuaMoitra/status/2122695689864089749",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122818357552697758",
+            "author": {
+              "name": "Siddharth",
+              "username": "Pseudo_Sid26",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1970828147244617729/_95lvjPI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatars/Pseudo_Sid26.jpg"
+            },
+            "text": "@MahuaMoitra blind ?? or brain dead ??",
+            "created_at": "2026-11-17T22:25:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2122695689864089749"
+          },
+          {
+            "id": "2122812542078824943",
+            "author": {
+              "name": "Saanjiib kumar Bharali",
+              "username": "sanjib_bharali",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2061942800946761728/ZVM4ZNdO_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatars/sanjib_bharali.jpg"
+            },
+            "text": "@MahuaMoitra I thought you are intelligent but then when I saw this tweet I am pretty sure you are not in that list .",
+            "created_at": "2026-11-17T22:02:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 109
+            },
+            "in_reply_to_id": "2122695689864089749"
+          },
+          {
+            "id": "2122811191185531209",
+            "author": {
+              "name": "The Thinking Hat",
+              "username": "ThinkinHashtag",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1560073752997773312/5mPcN5mk_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatars/ThinkinHashtag.jpg"
+            },
+            "text": "@MahuaMoitra What he picked was our Tiranga 🇮🇳",
+            "created_at": "2026-11-17T21:56:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122695689864089749"
+          },
+          {
+            "id": "2122799178321645745",
+            "author": {
+              "name": "Rational_moron",
+              "username": "Saiitej35",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2112048896239427584/In4jV8cB_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatars/Saiitej35.jpg"
+            },
+            "text": "@MahuaMoitra Its odd but not embarrassing really… i mean its ok. To pick a card after all.",
+            "created_at": "2026-11-17T21:08:58.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 158
+            },
+            "in_reply_to_id": "2122695689864089749"
+          },
+          {
+            "id": "2122780917144092889",
+            "author": {
+              "name": "Sambandam Nallasivam",
+              "username": "nallasivam786",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2087580950452654080/Dj1kZjiI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatars/nallasivam786.jpg"
+            },
+            "text": "@MahuaMoitra You sell your parliament credentials for a Gucci bag Mahua... You won't understand",
+            "created_at": "2026-11-17T19:56:24.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 22
+            },
+            "in_reply_to_id": "2122695689864089749"
+          },
+          {
+            "id": "2122778944436928909",
+            "author": {
+              "name": "Aravindh Balan",
+              "username": "aravindh018",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2089419829795053568/ssy3HYIW_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/avatars/aravindh018.jpg"
+            },
+            "text": "@MahuaMoitra Shame on you",
+            "created_at": "2026-11-17T19:48:34.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2122695689864089749"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "096f7ea1185ff2cec21f78d4b82becd90aa41582",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "218d0e6a92b7f060",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "da692682f1369b14",
+      "url": "https://x.com/INCIndia/status/2122683677876289560",
+      "title_en": "⚠️ डीजल गाड़ी के मालिकों सावधान ⚠️ मोदी सरकार बिना बताए आपको चूना लगा रही है https://t.co/R7q9SAu0ZK",
+      "title_zh": "国大党警告柴油车主：莫迪政府正瞒着“宰客”",
+      "summary_en": "⚠️ डीजल गाड़ी के मालिकों सावधान ⚠️ \n\nमोदी सरकार बिना बताए आपको चूना लगा रही है https://t.co/R7q9SAu0ZK",
+      "summary_zh": "印度国大党官方账号发视频警告柴油车主提高警惕，称莫迪政府正瞒着车主宰客。帖文未展开具体政策细节，视频被用来批评柴油质量或掺混问题。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T21:30:01+08:00",
+      "fetched_at": "2026-11-18T06:44:46+08:00",
+      "tags": [
+        "军事政治",
+        "商业套路"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122683677876289560",
+        "lang": "hi",
+        "text": "⚠️ डीजल गाड़ी के मालिकों सावधान ⚠️ \n\nमोदी सरकार बिना बताए आपको चूना लगा रही है https://t.co/R7q9SAu0ZK",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatar.jpg"
+        },
+        "created_at": "2026-11-17T13:30:01.000Z",
+        "public_metrics": {
+          "reply_count": 25,
+          "repost_count": 413,
+          "like_count": 1021,
+          "quote_count": 3,
+          "bookmark_count": 21,
+          "impression_count": 30370
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122683111981105152/vid/avc1/1080x1920/7gRpcVaZOisutll3.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-18T06:44:46+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2122683677876289560",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2122683677876289560",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122696878634701036",
+            "author": {
+              "name": "Sube Singh",
+              "username": "SubeSingh723025",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1792694189509246976/7l_XnsOL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatars/SubeSingh723025.jpg"
+            },
+            "text": "@INCIndia जिस भी चमचे को डीजल, पैट्रोल या गैस सिलेंडर महँगा लग रहा हो वो जाके राजमाता की किताब खरीद ले 1299 rs की मिल रही हैं",
+            "created_at": "2026-11-17T14:22:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 78
+            },
+            "in_reply_to_id": "2122683677876289560"
+          },
+          {
+            "id": "2122687797043830965",
+            "author": {
+              "name": "Govind Krishna",
+              "username": "GovindKrishan21",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2024156880168521728/rdyVO1DD_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatars/GovindKrishan21.jpg"
+            },
+            "text": "@INCIndia आम जनता पहले ही महंगाई से परेशान है, अब खराब डीजल की मार भी झेल रही है। जनता की सेहत और वाहनों की सुरक्षा के साथ ऐसा खिलवाड़ नहीं होना चाहिए।",
+            "created_at": "2026-11-17T13:46:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 104
+            },
+            "in_reply_to_id": "2122683677876289560"
+          },
+          {
+            "id": "2122814025922990347",
+            "author": {
+              "name": "sukh",
+              "username": "67alikothi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1760782360034078720/248GZdrK_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatars/67alikothi.jpg"
+            },
+            "text": "@INCIndia 😡😡😡🤬",
+            "created_at": "2026-11-17T22:07:58.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122683677876289560"
+          },
+          {
+            "id": "2122770562938540334",
+            "author": {
+              "name": "Manu",
+              "username": "ideas_2_impact",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1946457874709803009/FHQmMurX_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatars/ideas_2_impact.jpg"
+            },
+            "text": "If these allegations are true, this is not merely a fuel-blending policy; it is institutionalised deception bordering on financial fraud.\nWhy was the public not informed about 5% biodiesel blending? Why are consumers paying the same price and VAT as applicable to conventional diesel? Where is the transparency in pricing, taxation and fuel composition?\nA government that lectures citizens on honesty and transparency seems remarkably reluctant to practise either.\nIn the name of sustainability, you cannot legitimise daylight robbery. The government owes the nation an explanation, not another propaganda campaign.😡😡😡🤦🏼‍♂️🤦🏼‍♂️",
+            "created_at": "2026-11-17T19:15:16.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2122683677876289560"
+          },
+          {
+            "id": "2122762332975894599",
+            "author": {
+              "name": "Sanjiv Sahu",
+              "username": "SahuSs11",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatars/SahuSs11.jpg"
+            },
+            "text": "@INCIndia And secondly, Everybody wants pure fuel in the entire country now like the congress party government.",
+            "created_at": "2026-11-17T18:42:33.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 8
+            },
+            "in_reply_to_id": "2122683677876289560"
+          },
+          {
+            "id": "2122761968889291075",
+            "author": {
+              "name": "Sanjiv Sahu",
+              "username": "SahuSs11",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/avatars/SahuSs11.jpg"
+            },
+            "text": "@INCIndia Testing of 5% biodiesel in the laboratory is essential, as the blend concentration could exceed limits much like E-20 petrol. Simply, this type of adulterated fuel destroying the all types of vehicles in the country. So, the govt should stop this immediately & works on pure fuel.",
+            "created_at": "2026-11-17T18:41:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2122683677876289560"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "7580d2c35206c08b6a6137d5c94881d5eba36dca",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "da692682f1369b14",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "a7c7a485eb5836fe",
+      "url": "https://x.com/narendramodi/status/2122680883811614734",
+      "title_en": "Had a productive discussion with Quad leaders in Manila today. From maritime security and trusted supply chains to emerging technologies and disaster response, the Quad remains committed to delivering trusted solutions for the Indo-Pacific. Today’s meeting has given fresh momentum to our shared visi",
+      "title_zh": "莫迪：在马尼拉与四方安全对话领导人会谈，聚焦海事安全、供应链、新兴技术和救灾",
+      "summary_en": "Had a productive discussion with Quad leaders in Manila today.\n\nFrom maritime security and trusted supply chains to emerging technologies and disaster response, the Quad remains committed to delivering trusted solutions for the Indo-Pacific.\n\nToday’s meeting has given fresh momentum to our shared vision for a free, open, peaceful and prosperous Indo-Pacific, with concrete goals for the next phase of our cooperation.",
+      "summary_zh": "莫迪发帖称，当天在马尼拉与四方安全对话领导人举行了富有成效的讨论，议题包括海事安全、可信供应链、新兴技术和救灾。他说，四方将继续为印太地区提供可信方案，这次会议为“自由、开放、和平、繁荣的印太”愿景注入了新动力，并为下一阶段合作设定了具体目标。帖中附有四张领导人合影与会谈照片。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T21:18:54+08:00",
+      "fetched_at": "2026-11-18T06:44:29+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122680883811614734",
+        "lang": "en",
+        "text": "Had a productive discussion with Quad leaders in Manila today.\n\nFrom maritime security and trusted supply chains to emerging technologies and disaster response, the Quad remains committed to delivering trusted solutions for the Indo-Pacific.\n\nToday’s meeting has given fresh momentum to our shared vision for a free, open, peaceful and prosperous Indo-Pacific, with concrete goals for the next phase of our cooperation.",
+        "author": {
+          "name": "Narendra Modi",
+          "username": "narendramodi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2090480155240378368/suu43duO_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatar.jpg"
+        },
+        "created_at": "2026-11-17T13:18:54.000Z",
+        "public_metrics": {
+          "reply_count": 502,
+          "repost_count": 1710,
+          "like_count": 9274,
+          "quote_count": 55,
+          "bookmark_count": 143,
+          "impression_count": 386803
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/photo-4.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/narendramodi/status/2122680883811614734",
+        "ytdlp_command": "yt-dlp https://x.com/narendramodi/status/2122680883811614734",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122799650642260289",
+            "author": {
+              "name": "Shatanshu Bodkhe",
+              "username": "shatanshubodkhe",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2052005498963324928/ge-ZmdTs_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatars/shatanshubodkhe.jpg"
+            },
+            "text": "@narendramodi still can't get over this photo op, PM looked frustrated.\nIn the coming days,when trump reaches china, it'll rattle us again. US is directly engaging everyone and undermining a LOT of countries.\n\nof course there was no US-INDIA bilateral after this \nso-called QUAD connect.",
+            "created_at": "2026-11-17T21:10:51.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 43
+            },
+            "in_reply_to_id": "2122680883811614734"
+          },
+          {
+            "id": "2122821177689387340",
+            "author": {
+              "name": "Amitraghat",
+              "username": "imminentwarhead",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2028331678616391680/XBiu_3l9_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatars/imminentwarhead.jpg"
+            },
+            "text": "@narendramodi Shall we move?",
+            "created_at": "2026-11-17T22:36:23.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122680883811614734"
+          },
+          {
+            "id": "2122820859274645830",
+            "author": {
+              "name": "sandee",
+              "username": "sandee_Y2K",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatars/sandee_Y2K.jpg"
+            },
+            "text": "@narendramodi Please stop embarrassing our country..... what's wrong with you..... what happened to your confidence?",
+            "created_at": "2026-11-17T22:35:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122680883811614734"
+          },
+          {
+            "id": "2122819551834636454",
+            "author": {
+              "name": "🌷DR.Savya/rgentine💐.",
+              "username": "SabyasTalkative",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120327464283222016/7oQdiAZ-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatars/SabyasTalkative.jpg"
+            },
+            "text": "@narendramodi Formalities..agreement paper signed",
+            "created_at": "2026-11-17T22:29:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122680883811614734"
+          },
+          {
+            "id": "2122813240564670533",
+            "author": {
+              "name": "ARCHIT",
+              "username": "architverma22",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2077507327536824320/jfSyowOg_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatars/architverma22.jpg"
+            },
+            "text": "@narendramodi Modi ji, while trump talking to media 😂 https://t.co/K3uouae0f4",
+            "created_at": "2026-11-17T22:04:51.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122680883811614734"
+          },
+          {
+            "id": "2122808664759369888",
+            "author": {
+              "name": "Elliot",
+              "username": "Elliot1825201",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1920722752778158080/IvEslSzE_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122680883811614734/avatars/Elliot1825201.jpg"
+            },
+            "text": "@narendramodi 🤣🤣🤣🤣🤣🤣",
+            "created_at": "2026-11-17T21:46:40.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122680883811614734"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "4c73eea7ea19ab24e6cbfe572f12897a86666b80",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "a7c7a485eb5836fe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "b1880fe51cd8b2ad",
+      "url": "https://x.com/MahuaMoitra/status/2122662171956166680",
+      "title_en": "I, along with Subhashini Ali went to Supreme Court against the August 2022 Gujarat HC decision to release Bilkis’ rapists & her family’s killers. We won & SC sent them back to jail where they belong. Today that same SC releases them without informing Bilkis. Why this travesty? https://t.co/ZCyDW3c8s",
+      "title_zh": "莫伊特拉转比尔基斯·巴诺声明：最高法院未通知她本人，就批准两名奸杀案罪犯暂停刑期并保释",
+      "summary_en": "I, along with Subhashini Ali went to Supreme Court against the August 2022 Gujarat HC decision to release Bilkis’ rapists & her family’s killers. We won & SC sent them back to jail where they belong. Today that same SC releases them without informing Bilkis. Why this travesty? https://t.co/ZCyDW3c8sO",
+      "summary_zh": "特里纳摩党议员马华·莫伊特拉说，她曾与苏布哈西尼·阿里就古吉拉特邦高等法院2022年8月释放比尔基斯·巴诺案强奸和杀害其家人的罪犯一事向最高法院起诉并胜诉，对方被送回监狱；如今同一最高法院又在未告知比尔基斯的情况下将他们放出。她附上了比尔基斯·巴诺2026年11月16日的声明：最高法院M.M. Sudresh与P.B. Varale法官组成的法庭于2026年10月28日批准11名罪犯中的2人暂停刑期并保释，她是从新闻报道中才得知的。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T20:04:33+08:00",
+      "fetched_at": "2026-11-18T06:44:40+08:00",
+      "tags": [
+        "犯罪法律",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122662171956166680",
+        "lang": "en",
+        "text": "I, along with Subhashini Ali went to Supreme Court against the August 2022 Gujarat HC decision to release Bilkis’ rapists & her family’s killers. We won & SC sent them back to jail where they belong. Today that same SC releases them without informing Bilkis. Why this travesty? https://t.co/ZCyDW3c8sO",
+        "author": {
+          "name": "Mahua Moitra",
+          "username": "MahuaMoitra",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1559378267953451008/rmFqFFjE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatar.jpg"
+        },
+        "created_at": "2026-11-17T12:04:33.000Z",
+        "public_metrics": {
+          "reply_count": 9,
+          "repost_count": 716,
+          "like_count": 2185,
+          "quote_count": 10,
+          "bookmark_count": 26,
+          "impression_count": 26436
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/MahuaMoitra/status/2122662171956166680",
+        "ytdlp_command": "yt-dlp https://x.com/MahuaMoitra/status/2122662171956166680",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122674351434793364",
+            "author": {
+              "name": "Somonnoy Ghosh",
+              "username": "SomonnoyG",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1535316367741636608/muwDZz5y_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/SomonnoyG.jpg"
+            },
+            "text": "@MahuaMoitra Because the rapists are Sanghis and so are the judges.",
+            "created_at": "2026-11-17T12:52:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 8,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 261
+            },
+            "in_reply_to_id": "2122662171956166680"
+          },
+          {
+            "id": "2122666046629024146",
+            "author": {
+              "name": "Sharma_dv",
+              "username": "dvs1z_2",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1977082157823623168/LIT4vs6E_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/dvs1z_2.jpg"
+            },
+            "text": "How  does the Supreme Court decide to release gang-rape and murder convicts without giving he survivor  a voice in the courtroom? \nCalling this a Routine Bail matter ignores the sheer gravity of the crime and the lifelong terror inflicted on Bilkis Bano and her family.\nWill these  2 be new MP/ MLA for that Political Party ?",
+            "created_at": "2026-11-17T12:19:57.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 1,
+              "like_count": 4,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 265
+            },
+            "in_reply_to_id": "2122662171956166680"
+          },
+          {
+            "id": "2122675604483191123",
+            "author": {
+              "name": "B2",
+              "username": "b2sharan",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2083388571260731392/83fbY-oy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/b2sharan.jpg"
+            },
+            "text": "@MahuaMoitra The government has all the convicted in #GujaratRiots2002 \n#NarodaMassacre acquitted. \nThe loose ends #JusticeLoya #HarenPandya \n#Sohrabuddin etc were killed.\nMeanwhile former IPS officer #SanjeevBhatt is jailed in Rajkot Central jail in #Gujarat https://t.co/x9dhNc0vsm",
+            "created_at": "2026-11-17T12:57:56.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 2,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 218
+            },
+            "in_reply_to_id": "2122662171956166680"
+          },
+          {
+            "id": "2122685920751284669",
+            "author": {
+              "name": "Chetan Pagi",
+              "username": "chetan_pagi",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1857488557725958144/Vx7yy_bH_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/chetan_pagi.jpg"
+            },
+            "text": "@MahuaMoitra One battle after another",
+            "created_at": "2026-11-17T13:38:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 236
+            },
+            "in_reply_to_id": "2122662171956166680"
+          },
+          {
+            "id": "2122737573986738535",
+            "author": {
+              "name": "Vijay Thottathil",
+              "username": "vijaythottathil",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1935226484899155968/_KknTxjb_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/vijaythottathil.jpg"
+            },
+            "text": "@MahuaMoitra Well done! We shouldn’t leave them like that..",
+            "created_at": "2026-11-17T17:04:10.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 88
+            },
+            "in_reply_to_id": "2122662171956166680"
+          },
+          {
+            "id": "2122729563033911640",
+            "author": {
+              "name": "Deependra Mohan Sinha",
+              "username": "DeependraMSinha",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/948223801652736000/vv4znnth_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/DeependraMSinha.jpg"
+            },
+            "text": "@MahuaMoitra Indian Highest Judiciary Failed India - Again & Again …..",
+            "created_at": "2026-11-17T16:32:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 34
+            },
+            "in_reply_to_id": "2122662171956166680"
+          },
+          {
+            "id": "2122737652189512142",
+            "author": {
+              "name": "رسالة سلام",
+              "username": "fa1458594",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2003217793596948480/ZY7yDBxY_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122662171956166680/avatars/fa1458594.jpg"
+            },
+            "text": "@dvs1z_2 @MahuaMoitra انت لست في حكم الكونقرس انت في حكم التصعب والمافيها القانون هو مودي فقط ولو لم. يرضي بخروجهم لما خرجو ابدا",
+            "created_at": "2026-11-17T17:04:29.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122666046629024146"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "30e450c359acaf1b8679439f8a67ef8ac8bc2c9a",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "b1880fe51cd8b2ad",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "f27378daf592b244",
+      "url": "https://x.com/INCIndia/status/2122653477390189028",
+      "title_en": "बच्चों का निवाला छीनता BJP का 'करप्शन मॉडल' https://t.co/wESOyyt3dM",
+      "title_zh": "国大党发视频抨击：印人党的“腐败模式”正在夺走孩子们的口粮",
+      "summary_en": "बच्चों का निवाला छीनता\nBJP का 'करप्शन मॉडल' https://t.co/wESOyyt3dM",
+      "summary_zh": "印度国大党官方账号发布视频，指责印人党的“腐败模式”正在夺走孩子们的一口饭。视频被用来批评政府学校午餐的质量。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T19:30:00+08:00",
+      "fetched_at": "2026-11-18T06:44:36+08:00",
+      "tags": [
+        "卫生环境",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122653477390189028",
+        "lang": "hi",
+        "text": "बच्चों का निवाला छीनता\nBJP का 'करप्शन मॉडल' https://t.co/wESOyyt3dM",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatar.jpg"
+        },
+        "created_at": "2026-11-17T11:30:00.000Z",
+        "public_metrics": {
+          "reply_count": 38,
+          "repost_count": 856,
+          "like_count": 2593,
+          "quote_count": 8,
+          "bookmark_count": 38,
+          "impression_count": 66659
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122649275121459200/vid/avc1/1080x1080/J__VAxo_yQAXTINx.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-18T06:44:36+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2122653477390189028",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2122653477390189028",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122683702966992993",
+            "author": {
+              "name": "Shivansh Verma",
+              "username": "Ajitkverma_2023",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2025967633930334208/vktOTOOH_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatars/Ajitkverma_2023.jpg"
+            },
+            "text": "@INCIndia लेकिन झारखण्ड में भी अही हाल है।",
+            "created_at": "2026-11-17T13:30:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 72
+            },
+            "in_reply_to_id": "2122653477390189028"
+          },
+          {
+            "id": "2122798325397323902",
+            "author": {
+              "name": "kk",
+              "username": "kkr2y",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2122058474909761536/s-5Febp4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatars/kkr2y.jpg"
+            },
+            "text": "@INCIndia https://t.co/pHdaKpkFmR",
+            "created_at": "2026-11-17T21:05:35.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122653477390189028"
+          },
+          {
+            "id": "2122780307858600195",
+            "author": {
+              "name": "Jalees Ahmad 🇮🇳",
+              "username": "AhmadJalish",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2059633018634174465/fGn6lKde_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatars/AhmadJalish.jpg"
+            },
+            "text": "@INCIndia 😱😱😱😱😱\n\nबहुत ही दुःख की बात है",
+            "created_at": "2026-11-17T19:53:59.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122653477390189028"
+          },
+          {
+            "id": "2122762743141044352",
+            "author": {
+              "name": "Sachin Singh",
+              "username": "Sachin895400",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119371507139043328/YRouxe9c_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatars/Sachin895400.jpg"
+            },
+            "text": "@INCIndia https://t.co/V11jWG0Rv2 https://t.co/r5tBvfq4m8",
+            "created_at": "2026-11-17T18:44:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2122653477390189028"
+          },
+          {
+            "id": "2122761564055077095",
+            "author": {
+              "name": "Amar Awasthi",
+              "username": "AmarAwa98449455",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2111750224691785728/jXUlyub7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatars/AmarAwa98449455.jpg"
+            },
+            "text": "@INCIndia प्लीज़ इसको जरूर सुनें\nलाख लाते की बात कही है https://t.co/KxQJqyS4Yz",
+            "created_at": "2026-11-17T18:39:30.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122653477390189028"
+          },
+          {
+            "id": "2122760546844123467",
+            "author": {
+              "name": "Bikash S",
+              "username": "RemainingSawal",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2092067018518454272/L2v9YL8w_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/avatars/RemainingSawal.jpg"
+            },
+            "text": "@INCIndia Why shall BJP distribute food to children instead of building own party offices? It's the responsibility of the Govt to think of it's citizens on priority!",
+            "created_at": "2026-11-17T18:35:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122653477390189028"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "83821ad477636932ea1e05b244d0bc567c0b1d8a",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "f27378daf592b244",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "3489b14f6482ff24",
+      "url": "https://x.com/RahulGandhi/status/2122626811637215676",
+      "title_en": "Fear, anger and hatred have woven a web in the hearts of BJP and RSS supporters that stops them from experiencing and expressing love. As a true Hindu, it is my duty to free them from this web, so that they too can start to experience the breathtaking beauty and joy of love and belonging in their li",
+      "title_zh": "拉胡尔：恐惧与仇恨缠住了印人党与国民志愿团支持者，真正的印度教徒应让他们也能感受爱",
+      "summary_en": "Fear, anger and hatred have woven a web in the hearts of BJP and RSS supporters that stops them from experiencing and expressing love.\n\nAs a true Hindu, it is my duty to free them from this web, so that they too can start to experience the breathtaking beauty and joy of love and belonging in their lives.\n\nSatyam Shivam Sundaram.",
+      "summary_zh": "拉胡尔·甘地发照片配文称，恐惧、愤怒和仇恨在印人党与国民志愿团支持者心中织成一张网，让他们无法体验和表达爱。他说，作为真正的印度教徒，自己有责任把他们从这张网中解脱出来，让他们也能感受到爱与归属的美和喜悦，并以“Satyam Shivam Sundaram”作结。配图是湿婆与帕尔瓦蒂的神庙石雕。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T17:44:03+08:00",
+      "fetched_at": "2026-11-18T06:44:19+08:00",
+      "tags": [
+        "军事政治",
+        "婚俗宗教"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122626811637215676",
+        "lang": "en",
+        "text": "Fear, anger and hatred have woven a web in the hearts of BJP and RSS supporters that stops them from experiencing and expressing love.\n\nAs a true Hindu, it is my duty to free them from this web, so that they too can start to experience the breathtaking beauty and joy of love and belonging in their lives.\n\nSatyam Shivam Sundaram.",
+        "author": {
+          "name": "Rahul Gandhi",
+          "username": "RahulGandhi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2048691685794930688/AEEaltaE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatar.jpg"
+        },
+        "created_at": "2026-11-17T09:44:03.000Z",
+        "public_metrics": {
+          "reply_count": 3770,
+          "repost_count": 7204,
+          "like_count": 30324,
+          "quote_count": 1158,
+          "bookmark_count": 986,
+          "impression_count": 1471628
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/RahulGandhi/status/2122626811637215676",
+        "ytdlp_command": "yt-dlp https://x.com/RahulGandhi/status/2122626811637215676",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122821377531199501",
+            "author": {
+              "name": "alexander",
+              "username": "BillGat15846519",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1475339784134414336/phkkcFOh_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatars/BillGat15846519.jpg"
+            },
+            "text": "@RahulGandhi @DKShivakumar We live in a country where the son needs to explain its normal that his mother and father loved each other.🤧",
+            "created_at": "2026-11-17T22:37:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122626811637215676"
+          },
+          {
+            "id": "2122820630043349311",
+            "author": {
+              "name": "Shakti999",
+              "username": "Shakti9994",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatars/Shakti9994.jpg"
+            },
+            "text": "@RahulGandhi You are a nobody to free anyone as they are all free even today.  Stop fantasising about yourself.  Also, you are neither a Hindu nor a Christian",
+            "created_at": "2026-11-17T22:34:12.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122626811637215676"
+          },
+          {
+            "id": "2122819808563790066",
+            "author": {
+              "name": "Annamalai Suresh Babu",
+              "username": "anbabs2012",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1927223304076529664/qQuVlnzN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatars/anbabs2012.jpg"
+            },
+            "text": "@RahulGandhi https://t.co/tnmYQKdXyT",
+            "created_at": "2026-11-17T22:30:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2122626811637215676"
+          },
+          {
+            "id": "2122819660412526620",
+            "author": {
+              "name": "Hitesh Gangwar",
+              "username": "HiteshGangwar7",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1220591708125007872/A8gFAmUb_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatars/HiteshGangwar7.jpg"
+            },
+            "text": "@RahulGandhi Are chhod ye sab yaar kuch kisse suna budhhe budiya ke😀",
+            "created_at": "2026-11-17T22:30:21.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2122626811637215676"
+          },
+          {
+            "id": "2122819156236288324",
+            "author": {
+              "name": "Dragon",
+              "username": "Hanishsays",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108825406547836928/gVm343Z-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatars/Hanishsays.jpg"
+            },
+            "text": "@RahulGandhi You are not married, What stopped you from expressing and experiencing  love Rahul ? or is it you have relationships that can’t be shared with the world and probably not legal ? grow up and behave maturely Rahul Maino",
+            "created_at": "2026-11-17T22:28:21.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2122626811637215676"
+          },
+          {
+            "id": "2122818989554606364",
+            "author": {
+              "name": "Gunjan Arora",
+              "username": "gunjanarora001",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1410718728812216322/os2mvCHr_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122626811637215676/avatars/gunjanarora001.jpg"
+            },
+            "text": "@RahulGandhi Hahahhha",
+            "created_at": "2026-11-17T22:27:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2122626811637215676"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "14f69c3ad616e7d5a8b5c7ed1b5c185f310f46c4",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "3489b14f6482ff24",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "b9ed5078960e5712",
       "url": "https://www.edexlive.com/amp/story/news/young-journalists-urged-to-upgrade-skills-as-media-tech-enters-rapid-five-year-shift-ashwini-vaishnaw",
@@ -184,6 +1549,134 @@
       "cluster_source_count": 1
     },
     {
+      "id": "80ef302efada46cf",
+      "url": "https://x.com/ZeeNews/status/2122534593152860214",
+      "title_en": "सात समंदर दूर जहाज पर कैप्टन ने की छठ पूजा, डूबते सूर्य को दिया अर्घ्य, VIDEO वायरल छठ पूजा का नाम आते ही आंखों के सामने नदी या तालाब का किनारा, हाथों में सूप लिए व्रती और डूबते सूरज को अर्घ्य देते श्रद्धालुओं की तस्वीर दिखाई देने लगती है. लेकिन हर किसी के लिए त्योहार पर घर पहुंच पाना आसान नहीं होता",
+      "title_zh": "商船船长米蒂列什·库马尔因公无法回家，在海上船只上做起了格拉赫节夕阳祭礼",
+      "summary_en": "सात समंदर दूर जहाज पर कैप्टन ने की छठ पूजा, डूबते सूर्य को दिया अर्घ्य, VIDEO वायरल\n\nछठ पूजा का नाम आते ही आंखों के सामने नदी या तालाब का किनारा, हाथों में सूप लिए व्रती और डूबते सूरज को अर्घ्य देते श्रद्धालुओं की तस्वीर दिखाई देने लगती है. लेकिन हर किसी के लिए त्योहार पर घर पहुंच पाना आसान नहीं होता. नौकरी और दूसरी जिम्मेदारियों के चलते कई लोग अपने परिवार से दूर रहते हैं.\n\nमर्चेंट नेवी के कैप्टन मिथिलेश कुमार भी इस बार छठ पर घर नहीं जा सके. उनकी ड्यूटी जहाज पर थी. ऐसे में उन्होंने त्योहार छोड़ने के बजाय वहीं छठ मनाने का इंतजाम कर लिया. उन्होंने अपने सोशल मीडिया अकाउंट पर इसका वीडियो भी शेयर किया है. उनके वीडियो पर लोग भर-भरकर कमेंट कर रहे हैं. लोगों का कहना है कि घर से मीलों दूर रहकर अपनी जड़ों से जुड़े रहना बहुत बड़ी उपलब्धि है. \n\nCourtesy : captainmithilesh\n\n#ChhathPuja #ChhathMahaparv #viralvideo #Chhath #ZeeNews",
+      "summary_zh": "Zee News报道，商船队长米蒂列什·库马尔（Mithilesh Kumar）今年因船上值班无法回家过格拉赫节（Chhath Puja），于是在海上布置祭礼，向落日献上阿尔吉亚（arghya），并把视频发到社交账号。报道称，网友评论他在远离家乡的地方仍守着传统，是很难得的事情。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T11:37:36+08:00",
+      "fetched_at": "2026-11-18T06:44:50+08:00",
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122534593152860214",
+        "lang": "hi",
+        "text": "सात समंदर दूर जहाज पर कैप्टन ने की छठ पूजा, डूबते सूर्य को दिया अर्घ्य, VIDEO वायरल\n\nछठ पूजा का नाम आते ही आंखों के सामने नदी या तालाब का किनारा, हाथों में सूप लिए व्रती और डूबते सूरज को अर्घ्य देते श्रद्धालुओं की तस्वीर दिखाई देने लगती है. लेकिन हर किसी के लिए त्योहार पर घर पहुंच पाना आसान नहीं होता. नौकरी और दूसरी जिम्मेदारियों के चलते कई लोग अपने परिवार से दूर रहते हैं.\n\nमर्चेंट नेवी के कैप्टन मिथिलेश कुमार भी इस बार छठ पर घर नहीं जा सके. उनकी ड्यूटी जहाज पर थी. ऐसे में उन्होंने त्योहार छोड़ने के बजाय वहीं छठ मनाने का इंतजाम कर लिया. उन्होंने अपने सोशल मीडिया अकाउंट पर इसका वीडियो भी शेयर किया है. उनके वीडियो पर लोग भर-भरकर कमेंट कर रहे हैं. लोगों का कहना है कि घर से मीलों दूर रहकर अपनी जड़ों से जुड़े रहना बहुत बड़ी उपलब्धि है. \n\nCourtesy : captainmithilesh\n\n#ChhathPuja #ChhathMahaparv #viralvideo #Chhath #ZeeNews",
+        "author": {
+          "name": "Zee News",
+          "username": "ZeeNews",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1931366594292400128/DtFcTFeV_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/avatar.jpg"
+        },
+        "created_at": "2026-11-17T03:37:36.000Z",
+        "public_metrics": {
+          "reply_count": 3,
+          "repost_count": 207,
+          "like_count": 1423,
+          "quote_count": 3,
+          "bookmark_count": 41,
+          "impression_count": 73944
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122534483044048896/vid/avc1/1080x1350/k5aJ9M33MN4mJku-.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-18T06:44:50+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ZeeNews/status/2122534593152860214",
+        "ytdlp_command": "yt-dlp https://x.com/ZeeNews/status/2122534593152860214",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122571059086106678",
+            "author": {
+              "name": "Arjun Kumar 💙🇮🇳(INDIA KA PARIWAR)",
+              "username": "Arjunkdass",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1801279799778000896/m7WYLUvy_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/avatars/Arjunkdass.jpg"
+            },
+            "text": "@ZeeNews @RajThackeray जी को जा के बता...\n\nजा जा .. जा जा\nकबूतर जा जा जा... उसी को बता",
+            "created_at": "2026-11-17T06:02:30.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2122534593152860214"
+          },
+          {
+            "id": "2122766747870597247",
+            "author": {
+              "name": "猫猫又睡过头🍯现货合约返佣95%+",
+              "username": "LaddagaCarmela",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2116453016123420672/SmKtcK6L_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/avatars/LaddagaCarmela.jpg"
+            },
+            "text": "@ZeeNews 船头献水给落日 信仰真能跨过海",
+            "created_at": "2026-11-17T19:00:06.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 13
+            },
+            "in_reply_to_id": "2122534593152860214"
+          },
+          {
+            "id": "2122606127389003902",
+            "author": {
+              "name": "Krishnanand Pandey",
+              "username": "Krishnanan30307",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1956240145440759810/ezFWbROD_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/avatars/Krishnanan30307.jpg"
+            },
+            "text": "@ZeeNews JAI CHHATHI MAA 🌸 🌺 🕉 🙏",
+            "created_at": "2026-11-17T08:21:51.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2122534593152860214"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "559d7e8b94a707cbde230e7c4eeca571e93136e6",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "80ef302efada46cf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "696c33e46cf7ebe8",
       "url": "https://www.reddit.com/r/india/comments/1xy9zhl/livpure_smart_ro_scam_legal_notice_via_law_firm/",
       "title_en": "Livpure smart RO scam - legal notice via law firm",
@@ -283,6 +1776,69 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "e3196a2ec241ab56",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "23d0c99de6eb83e2",
+      "url": "https://x.com/sanewsdelhi/status/2122527310603862469",
+      "title_en": "देसी जुगाड़ का अनोखा वीडियो सोशल मीडिया पर वायरल! 😲 तीसरी मंजिल से कपड़े की ढलान के जरिए सीधे ट्रक में सामान पहुंचाया जा रहा है। इस तरीके से समय और मेहनत दोनों की बचत हो रही है। #DesiJugaad #ViralVideo #AmazingJugaad #India #Trending #SANewsdelhi https://t.co/atQENxt9jk",
+      "title_zh": "印度“土法”搬运走红：从三楼用布料搭成滑道，直接把货物滑进卡车",
+      "summary_en": "देसी जुगाड़ का अनोखा वीडियो सोशल मीडिया पर वायरल! 😲 तीसरी मंजिल से कपड़े की ढलान के जरिए सीधे ट्रक में सामान पहुंचाया जा रहा है। इस तरीके से समय और मेहनत दोनों की बचत हो रही है।\n\n#DesiJugaad #ViralVideo #AmazingJugaad #India #Trending #SANewsdelhi https://t.co/atQENxt9jk",
+      "summary_zh": "SA News Delhi分享的视频显示，有人从三楼用布料搭出一条斜向滑道，把货物直接滑进楼下的卡车里，称这样既省时间也省力气，视频在社交平台流传。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122527310603862469/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-17T11:08:40+08:00",
+      "fetched_at": "2026-11-18T06:44:58+08:00",
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122527310603862469",
+        "lang": "hi",
+        "text": "देसी जुगाड़ का अनोखा वीडियो सोशल मीडिया पर वायरल! 😲 तीसरी मंजिल से कपड़े की ढलान के जरिए सीधे ट्रक में सामान पहुंचाया जा रहा है। इस तरीके से समय और मेहनत दोनों की बचत हो रही है।\n\n#DesiJugaad #ViralVideo #AmazingJugaad #India #Trending #SANewsdelhi https://t.co/atQENxt9jk",
+        "author": {
+          "name": "SA News Delhi",
+          "username": "sanewsdelhi",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1716434115086647296/SjjQqztZ_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122527310603862469/avatar.jpg"
+        },
+        "created_at": "2026-11-17T03:08:40.000Z",
+        "public_metrics": {
+          "reply_count": 0,
+          "repost_count": 42,
+          "like_count": 127,
+          "quote_count": 0,
+          "bookmark_count": 12,
+          "impression_count": 105911
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122527310603862469/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122527285630918656/vid/avc1/720x1280/znpTyjiWo7ANhIFh.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-18T06:44:58+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/sanewsdelhi/status/2122527310603862469",
+        "ytdlp_command": "yt-dlp https://x.com/sanewsdelhi/status/2122527310603862469",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122527310603862469/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [],
+        "replies_omitted": 0,
+        "content_sha": "958bdd4c00610bc54b0a535b920051bcbd576aa6",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "23d0c99de6eb83e2",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -670,7 +2226,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-17T01:56:16+08:00",
-      "fetched_at": "2026-11-17T06:39:34+08:00",
+      "fetched_at": "2026-11-18T06:44:02+08:00",
       "tags": [
         "军事政治"
       ],
@@ -700,7 +2256,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122385859521785856/vid/avc1/1920x1080/ZuAj5bZ72Ln1uV6A.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-17T06:39:34+08:00",
+        "video_url_resolved_at": "2026-11-18T06:44:02+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AmitShah/status/2122388296378835175",
@@ -860,7 +2416,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-17T01:50:17+08:00",
-      "fetched_at": "2026-11-17T06:39:40+08:00",
+      "fetched_at": "2026-11-18T06:44:03+08:00",
       "tags": [
         "航空出行",
         "军事政治"
@@ -1202,7 +2758,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-17T00:58:55+08:00",
-      "fetched_at": "2026-11-17T06:39:24+08:00",
+      "fetched_at": "2026-11-18T06:44:01+08:00",
       "tags": [
         "军事政治"
       ],
@@ -1232,7 +2788,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122373595284602880/vid/avc1/1920x1080/X2W95QqifTb3a0rD.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-17T06:39:24+08:00",
+        "video_url_resolved_at": "2026-11-18T06:44:01+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2122373864017850753",
@@ -1438,7 +2994,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-17T00:54:46+08:00",
-      "fetched_at": "2026-11-17T06:39:30+08:00",
+      "fetched_at": "2026-11-18T06:44:01+08:00",
       "tags": [
         "军事政治"
       ],

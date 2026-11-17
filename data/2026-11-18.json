@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-18",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "07f71baf37f19359",
+      "url": "https://x.com/CNNnews18/status/2122755066415427668",
+      "title_en": "A video from Madhya Pradesh’s Seoni district shows Additional SP Deepak Mishra telling personnel to “plant some marijuana” on a man during a police visit to a hotel. The couple told police that they were both adults, belonged to the same caste and wanted to get married. The remark came after the wom",
+      "title_zh": "中央邦锡尼县酒店访查视频：增补警司被拍到要求“给那人栽点大麻”",
+      "summary_en": "A video from Madhya Pradesh’s Seoni district shows Additional SP Deepak Mishra telling personnel to “plant some marijuana” on a man during a police visit to a hotel. The couple told police that they were both adults, belonged to the same caste and wanted to get married. The remark came after the woman refused to unlock her phone and call her family.\n\n#MadhyaPradesh #Seoni #Police #ViralVideo",
+      "summary_zh": "News18发视频称，中央邦锡尼县增补警司迪帕克·米什拉（Deepak Mishra）在酒店访查时，被拍到对下属说要给一名男子“栽点大麻”。这对男女告诉警方双方都已成年、属于同一种姓（原帖用语）并希望结婚；这句“栽赃”的话出现在女方拒绝解锁手机并给家人打电话之后。帖中附有两段现场视频。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-18T02:13:41+08:00",
+      "fetched_at": "2026-11-18T06:44:54+08:00",
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122755066415427668",
+        "lang": "en",
+        "text": "A video from Madhya Pradesh’s Seoni district shows Additional SP Deepak Mishra telling personnel to “plant some marijuana” on a man during a police visit to a hotel. The couple told police that they were both adults, belonged to the same caste and wanted to get married. The remark came after the woman refused to unlock her phone and call her family.\n\n#MadhyaPradesh #Seoni #Police #ViralVideo",
+        "author": {
+          "name": "News18",
+          "username": "CNNnews18",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1559788694709473280/j1s3zm5m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/avatar.jpg"
+        },
+        "created_at": "2026-11-17T18:13:41.000Z",
+        "public_metrics": {
+          "reply_count": 5,
+          "repost_count": 31,
+          "like_count": 124,
+          "quote_count": 3,
+          "bookmark_count": 8,
+          "impression_count": 7911
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122754945825046528/vid/avc1/1080x1350/4nRDHA7JYvkR_YVO.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-18T06:44:54+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/CNNnews18/status/2122755066415427668",
+        "ytdlp_command": "yt-dlp https://x.com/CNNnews18/status/2122755066415427668",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2122812195759440227",
+            "author": {
+              "name": "Himanshu Yadav",
+              "username": "himanshu25yadav",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1490192203678773254/y4DTFXDZ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/avatars/himanshu25yadav.jpg"
+            },
+            "text": "@CNNnews18 He shouldn't just be suspended but terminated and put on trial.",
+            "created_at": "2026-11-17T22:00:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 78
+            },
+            "in_reply_to_id": "2122755066415427668"
+          },
+          {
+            "id": "2122821160199151887",
+            "author": {
+              "name": "Pankaj Sharma",
+              "username": "pankajsharma01",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1767214685085138944/Nen-81y6_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/avatars/pankajsharma01.jpg"
+            },
+            "text": "@CNNnews18 Such officer is no less than a goon. Even more dangerous than a goon. He is destroying the image of constitution and an institution that is responsible for maintaining law and order.\nIMMIDIATE TERMINATION IS THE ONLY OPTION.",
+            "created_at": "2026-11-17T22:36:19.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2122755066415427668"
+          },
+          {
+            "id": "2122819423375687723",
+            "author": {
+              "name": "Samraat",
+              "username": "samraaaaaaaaat",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1951488454090461184/2iccIQ7Q_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/avatars/samraaaaaaaaat.jpg"
+            },
+            "text": "@CNNnews18 This is how police actually works in India.",
+            "created_at": "2026-11-17T22:29:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 21
+            },
+            "in_reply_to_id": "2122755066415427668"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "0d42b934301d1080d295b5a530d5153779a3b289",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "07f71baf37f19359",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
