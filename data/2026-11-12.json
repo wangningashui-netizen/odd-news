@@ -3647,7 +3647,7 @@
       "published_at": "2026-11-12T15:30:05+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xu6jlp",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "交通火车"
       ],
@@ -3963,8 +3963,8 @@
       "cluster_id": "a1d443d7dfd90351",
       "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 2,
-      "reddit_comments": 1
+      "reddit_score": 14,
+      "reddit_comments": 2
     },
     {
       "id": "1487e0e21d51f14f",
@@ -4167,8 +4167,8 @@
       "cluster_id": "280e74145d1d89e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 2,
-      "reddit_comments": 1
+      "reddit_score": 14,
+      "reddit_comments": 2
     },
     {
       "id": "692fd210f94816b3",
@@ -4631,7 +4631,7 @@
       "published_at": "2026-11-12T11:56:14+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xu2r2s",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "卫生环境",
         "科学发现"
@@ -5756,7 +5756,7 @@
       "published_at": "2026-11-12T00:50:32+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xtmu1m",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],

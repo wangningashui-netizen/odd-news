@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-17",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "79a69c28b5d147d3",
+      "url": "https://www.news18.com/viral/us-firm-allegedly-fires-entire-indian-team-over-5-minute-call-80-employees-all-gone-ws-l-10335923.html",
+      "title_en": "US Firm Allegedly Fires Entire Indian Team Over 5-Minute Call: ‘80 Employees, All Gone’",
+      "title_zh": null,
+      "summary_en": "The US bank allegedly asked employees to work from home over operational issues, and later in the evening, asked the employees to join a call where they were laid off",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/News18-2-6-2026-09-f70dced71a23b6e2313efc8959c73af0-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-17T16:31:29+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "79a69c28b5d147d3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

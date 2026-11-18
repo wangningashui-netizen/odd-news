@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-21",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "91a3e4e6dc61a254",
+      "url": "https://www.news18.com/viral/veg-non-veg-microwaves-in-office-gets-funny-tag-photo-fails-to-impress-internet-aa-ws-l-9847492.html",
+      "title_en": "‘That’s Cross-Contamination’: Internet Is Not Happy As Veg/Non-Veg Microwaves In Office Gets ‘Funny’ Tag",
+      "title_zh": null,
+      "summary_en": "The post has triggered strong reactions from users, with many noting that it is a common workplace practice in India.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/01/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-01-21T192805.473-2026-01-58c9ef05a842d4f0060d41c58df2c587-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-01-21T22:01:08+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "91a3e4e6dc61a254",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

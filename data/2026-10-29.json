@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "timezone": "Asia/Shanghai",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "1e50974927a7bb2d",
@@ -24,6 +24,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "1e50974927a7bb2d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "a323efbc7ecb5eb7",
+      "url": "https://www.news18.com/viral/iim-calcutta-graduate-quits-mckinsey-for-google-shares-how-her-life-changed-after-a-year-ws-l-10402965.html",
+      "title_en": "IIM Calcutta Graduate Quits McKinsey For Google, Shares How Her Life Changed After A Year",
+      "title_zh": null,
+      "summary_en": "An IIM Calcutta graduate who left McKinsey for Google has shared how the career switch changed her work, travel and daily routine, one year after leaving consulting.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-29T125407.645-2026-10-6f69b214195506662f4881467eb53828-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-29T15:36:40+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a323efbc7ecb5eb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

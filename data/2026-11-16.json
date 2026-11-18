@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
   "timezone": "Asia/Shanghai",
-  "count": 144,
+  "count": 156,
   "items": [
     {
       "id": "4370aac71e5e39d5",
@@ -19,7 +19,7 @@
       "published_at": "2026-11-16T23:53:18+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxsw3p",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "婚俗宗教"
       ],
@@ -28,7 +28,7 @@
       "cluster_id": "4370aac71e5e39d5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 16,
+      "reddit_score": 34,
       "reddit_comments": 2
     },
     {
@@ -47,7 +47,7 @@
       "published_at": "2026-11-16T23:47:58+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxsrdn",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -56,8 +56,8 @@
       "cluster_id": "a55c81f5204e56ff",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 13,
-      "reddit_comments": 19
+      "reddit_score": 16,
+      "reddit_comments": 28
     },
     {
       "id": "a93309495c71785c",
@@ -81,8 +81,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "101fa657091bc1f7",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "be2e8883289e9f39",
@@ -228,7 +228,7 @@
       "published_at": "2026-11-16T22:53:09+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxrce3",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "军事政治"
       ],
@@ -237,8 +237,8 @@
       "cluster_id": "66c0bee8d360a78b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 153,
-      "reddit_comments": 47
+      "reddit_score": 215,
+      "reddit_comments": 66
     },
     {
       "id": "aff1f3d362be5b0f",
@@ -314,7 +314,7 @@
       "cluster_id": "d83504539186e63b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 18,
+      "reddit_score": 22,
       "reddit_comments": 3
     },
     {
@@ -367,8 +367,8 @@
       "cluster_id": "884d75ed57a50450",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 94,
-      "reddit_comments": 18
+      "reddit_score": 145,
+      "reddit_comments": 20
     },
     {
       "id": "27d3cca55d6ef60a",
@@ -395,8 +395,33 @@
       "cluster_id": "27d3cca55d6ef60a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 785,
-      "reddit_comments": 63
+      "reddit_score": 944,
+      "reddit_comments": 73
+    },
+    {
+      "id": "5c7bc3d6a7cec3bc",
+      "url": "https://www.timesnownews.com/business-economy/companies/fssai-takes-action-against-six-nutraceutical-manufacturers-over-safety-violations-article-156520029",
+      "title_en": "FSSAI Takes Action Against Six Nutraceutical Manufacturers Over Safety Violations",
+      "title_zh": null,
+      "summary_en": "The companies involved include Airen Herbals, Aquabliss Lifesciences, Raskam Healthcare, Supercure Biotech, Ambico Ayurvedic Healthcare, and Vedant Remedies. , Companies, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156520028,thumbsize-731876,width-1280,height-720,resizemode-75/156520028.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T22:17:01+08:00",
+      "fetched_at": "2026-11-18T12:06:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5c7bc3d6a7cec3bc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "9a5eb401fe464e9c",
@@ -464,7 +489,7 @@
       "published_at": "2026-11-16T21:59:18+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxq12v",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -473,8 +498,59 @@
       "cluster_id": "de2be6c2700e4e12",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 6,
-      "reddit_comments": 14
+      "reddit_score": 8,
+      "reddit_comments": 16
+    },
+    {
+      "id": "576058ca26319d55",
+      "url": "https://www.timesnownews.com/viral/bengaluru-man-slams-air-india-express-over-luggage-damage-viral-article-156519492",
+      "title_en": "‘Rs 3,500 Voucher For Rs 15,000 Bag’: Bengaluru Man Slams Air India Express Over Luggage Damage",
+      "title_zh": null,
+      "summary_en": "A Bengaluru man called out Air India Express on X after his luggage was allegedly damaged during a flight. His post soon went viral. Here's how the airline responded…, Viral, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156519487,thumbsize-791007,width-1280,height-720,resizemode-75/156519487.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T21:57:08+08:00",
+      "fetched_at": "2026-11-18T12:06:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "航空出行",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "576058ca26319d55",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "23e599ca5c907d4b",
+      "url": "https://www.timesnownews.com/videos/times-now/shows/high-stakes-diplomacy-unfolds-as-modi-trump-xi-and-putin-prepare-for-crucial-summits-video-156519878",
+      "title_en": "Modi-Trump Tête-À-Tête On Cards As Indian Prime Minister Lands In Manila For QUAD, ASEAN?",
+      "title_zh": null,
+      "summary_en": "While Prime Minister Narendra Modi landed in Mania for QUAD & ASEAN, Troika's trilateral will also be held in China where all eyes will be on Trump-Xi-Putin meet. The questions here arise are - A 21st-Century ‘Yalta Moment’? Modi-Trump Tête-À-Tête On Cards? Watch Times Now's show, Decoding Now on with Heena Gambhir., Shows, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156519878,thumbsize-112798,width-1280,height-720,resizemode-75/156519878.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T21:53:27+08:00",
+      "fetched_at": "2026-11-18T12:06:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "23e599ca5c907d4b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "098b731c1c186558",
@@ -674,7 +750,7 @@
       "cluster_id": "e541db2d07b57f54",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 12,
+      "reddit_score": 14,
       "reddit_comments": 1
     },
     {
@@ -723,8 +799,33 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "101fa657091bc1f7",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
+    },
+    {
+      "id": "3a7931edda6cfb9d",
+      "url": "https://www.ndtv.com/offbeat/tired-of-waiting-for-forest-officials-madhya-pradesh-woman-catches-crocodile-herself-12334296",
+      "title_en": "Tired Of Waiting For Forest Officials, Madhya Pradesh Woman Catches Crocodile Herself",
+      "title_zh": null,
+      "summary_en": "The episode has also highlighted the dangers of untrained people attempting to capture wild animals.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://c.ndtvimg.com/2026-11/s1asst6o_madhya-pradesh-woman-crocodile_625x300_16_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "image_checked": true,
+      "source": "NDTV Offbeat",
+      "source_id": "ndtv-offbeat",
+      "region": "印度",
+      "published_at": "2026-11-16T21:15:08+08:00",
+      "fetched_at": "2026-11-18T12:06:29+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3a7931edda6cfb9d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "8fd9838ae015aa8c",
@@ -749,8 +850,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d5f8d000a7d44515",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "bd484a1f09237b47",
@@ -824,7 +925,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d20b318ec2233dec",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -868,7 +969,7 @@
       "published_at": "2026-11-16T20:41:52+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxodw7",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "军事政治"
       ],
@@ -877,8 +978,8 @@
       "cluster_id": "3b3935d872e71417",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 130,
-      "reddit_comments": 8
+      "reddit_score": 148,
+      "reddit_comments": 15
     },
     {
       "id": "23e44853f23746a3",
@@ -931,6 +1032,31 @@
       "cluster_source_count": 2
     },
     {
+      "id": "1a24fdec90bbdba7",
+      "url": "https://www.timesnownews.com/business-economy/companies/maharashtra-orders-halt-to-adanis-1500-mw-tarali-project-over-wildlife-clearance-article-156519311",
+      "title_en": "Maharashtra Orders Halt To Adani's 1,500 MW Tarali Project Over Wildlife Clearance",
+      "title_zh": null,
+      "summary_en": "The company had sought to revise its estimated project cost sharply downward to Rs 56.75 crore from Rs 5,675 crore, raising questions over the proposed cost revision., Companies, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156519310,thumbsize-41600,width-1280,height-720,resizemode-75/156519310.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T20:12:58+08:00",
+      "fetched_at": "2026-11-18T12:06:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1a24fdec90bbdba7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "4b155a3996a46b07",
       "url": "https://www.reddit.com/r/india/comments/1xxnohw/nppa_cut_cancer_drug_prices_from_nov_9_did_it/",
       "title_en": "NPPA cut cancer drug prices from Nov 9. Did it actually help people, or was it all make-believe?",
@@ -946,7 +1072,7 @@
       "published_at": "2026-11-16T20:05:10+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxnohw",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "健康医疗"
       ],
@@ -955,8 +1081,8 @@
       "cluster_id": "4b155a3996a46b07",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 17,
-      "reddit_comments": 5
+      "reddit_score": 20,
+      "reddit_comments": 6
     },
     {
       "id": "05292fa6634f8eb4",
@@ -1173,7 +1299,7 @@
       "cluster_id": "1d5072fb58f43a8a",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 402,
+      "reddit_score": 480,
       "reddit_comments": 38
     },
     {
@@ -1201,7 +1327,7 @@
       "cluster_id": "35f0f8ba3a674ed3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 34,
+      "reddit_score": 43,
       "reddit_comments": 0
     },
     {
@@ -1280,8 +1406,8 @@
       "cluster_id": "fc6379cf70193b6f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 336,
-      "reddit_comments": 16
+      "reddit_score": 387,
+      "reddit_comments": 21
     },
     {
       "id": "44313ca4dd34b8a0",
@@ -1308,8 +1434,8 @@
       "cluster_id": "44313ca4dd34b8a0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 53,
-      "reddit_comments": 7
+      "reddit_score": 63,
+      "reddit_comments": 8
     },
     {
       "id": "b49972f1dd5bbbb7",
@@ -1336,8 +1462,8 @@
       "cluster_id": "b49972f1dd5bbbb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 258,
-      "reddit_comments": 33
+      "reddit_score": 313,
+      "reddit_comments": 38
     },
     {
       "id": "44fa406373449c04",
@@ -1388,8 +1514,8 @@
       "cluster_id": "434d34669d1b47f9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 100,
-      "reddit_comments": 10
+      "reddit_score": 179,
+      "reddit_comments": 13
     },
     {
       "id": "65c69015a69880d0",
@@ -1415,8 +1541,8 @@
       "cluster_id": "65c69015a69880d0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 553,
-      "reddit_comments": 46
+      "reddit_score": 647,
+      "reddit_comments": 54
     },
     {
       "id": "0c34631c04e4012e",
@@ -1443,8 +1569,33 @@
       "cluster_id": "0c34631c04e4012e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 321,
-      "reddit_comments": 25
+      "reddit_score": 383,
+      "reddit_comments": 28
+    },
+    {
+      "id": "cca01234013916b6",
+      "url": "https://www.news18.com/viral/man-keeps-newborn-baby-away-from-grandparents-to-protect-wifes-peace-internet-reacts-its-a-lot-after-birth-ws-l-10427758.html",
+      "title_en": "Man Keeps Newborn Baby Away From Grandparents To Protect Wife’s ‘Peace’, Internet Reacts: ‘It’s A Lot After",
+      "title_zh": null,
+      "summary_en": "The man explained that after their daughter was born, he chose not to entertain family expectations immediately and instead chose to give his wife privacy and time to recover",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-4-2026-11-de23a88151ad0ef2319e561bcbb020bf-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T18:56:55+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cca01234013916b6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "120f39d7af7c02e3",
@@ -1511,7 +1662,7 @@
       "published_at": "2026-11-16T18:35:34+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxm5oe",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "街头食物"
       ],
@@ -1520,7 +1671,7 @@
       "cluster_id": "b61aa5488e8d4282",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1,
+      "reddit_score": 2,
       "reddit_comments": 6
     },
     {
@@ -1719,7 +1870,7 @@
       "published_at": "2026-11-16T18:22:31+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxlxwr",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "犯罪法律"
       ],
@@ -1728,7 +1879,7 @@
       "cluster_id": "3eab3e29e1e30841",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 76,
+      "reddit_score": 91,
       "reddit_comments": 0
     },
     {
@@ -1754,8 +1905,34 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4c65ca938b278a2c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
+      "id": "bac4d45be9418266",
+      "url": "https://www.ndtv.com/offbeat/merchant-navy-captain-celebrates-chhath-puja-on-ship-performs-all-rituals-away-from-home-12333308",
+      "title_en": "Merchant Navy Captain Celebrates Chhath Puja On Ship, Performs All Rituals Away From Home",
+      "title_zh": null,
+      "summary_en": "The video shows him celebrating the festival while on a ship, following its rituals despite being away from home.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://c.ndtvimg.com/2026-11/uanmqkj_viral-video-chhath-celebration-on-ship-merchant-navy-captain_625x300_16_November_26.jpeg",
+      "image_checked": true,
+      "source": "NDTV Offbeat",
+      "source_id": "ndtv-offbeat",
+      "region": "印度",
+      "published_at": "2026-11-16T18:14:26+08:00",
+      "fetched_at": "2026-11-18T12:06:29+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d5f8d000a7d44515",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "e16b8d40ef90cb46",
@@ -1782,7 +1959,7 @@
       "cluster_id": "a1d443d7dfd90351",
       "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 12,
+      "reddit_score": 15,
       "reddit_comments": 0
     },
     {
@@ -1950,7 +2127,7 @@
       "published_at": "2026-11-16T17:34:20+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxl6ow",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -1959,8 +2136,8 @@
       "cluster_id": "9d72fb1a42383c39",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 6,
-      "reddit_comments": 6
+      "reddit_score": 1,
+      "reddit_comments": 9
     },
     {
       "id": "4d66d912957f8ef2",
@@ -2079,7 +2256,7 @@
       "published_at": "2026-11-16T17:10:11+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxkt58",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -2088,8 +2265,8 @@
       "cluster_id": "69e2c44af69299c1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 10,
-      "reddit_comments": 15
+      "reddit_score": 14,
+      "reddit_comments": 17
     },
     {
       "id": "8c16b9bd648fff7b",
@@ -2138,8 +2315,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "acb0e4e7a0b8065e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "eb6a07c1938375b2",
@@ -2190,8 +2367,8 @@
       "cluster_id": "7131cd9bdc670b57",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 94,
-      "reddit_comments": 5
+      "reddit_score": 147,
+      "reddit_comments": 11
     },
     {
       "id": "17a9392d26d327ee",
@@ -2240,7 +2417,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "91e2f6e4a9e06741",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 2
     },
     {
@@ -2342,8 +2519,8 @@
       "cluster_id": "c0170ca8bdb362b8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 190,
-      "reddit_comments": 21
+      "reddit_score": 217,
+      "reddit_comments": 20
     },
     {
       "id": "1d5072fb58f43a8a",
@@ -2371,6 +2548,31 @@
       "cluster_source_count": 2
     },
     {
+      "id": "543b5750850e3b37",
+      "url": "https://www.news18.com/viral/foreign-solo-traveller-calls-birthday-best-day-of-my-life-as-strangers-in-delhi-turn-up-to-celebrate-ws-l-10427351.html",
+      "title_en": "Foreign Solo Traveller Calls Birthday ‘Best Day Of My Life’ As Strangers In Delhi Turn Up To Celebrate",
+      "title_zh": null,
+      "summary_en": "A foreigner invited strangers on the internet to her birthday party in Delhi’s Lodhi Garden and several decided to join in the celebration to make their day even more special",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2026-11-f1d90c225e6337140ae01c9f31c6eb5e-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T16:18:36+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "543b5750850e3b37",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "816a487f817449de",
       "url": "https://www.indiatoday.in/trending-news/story/bittu-tabahi-falls-ill-while-cleaning-ajnar-river-repeatedly-polluted-by-people-3039843-2026-11-16",
       "title_en": "Bittu Tabahi falls ill while cleaning Ajnar River repeatedly polluted by people",
@@ -2392,8 +2594,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "816a487f817449de",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "72bc321de4acec80",
@@ -2468,8 +2670,33 @@
       "cluster_id": "f0ea8b9fcca35ae7",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 138,
-      "reddit_comments": 12
+      "reddit_score": 170,
+      "reddit_comments": 14
+    },
+    {
+      "id": "49d7589846e67811",
+      "url": "https://www.news18.com/viral/why-is-this-nvidia-employee-praising-jensen-huang-amid-affair-allegations-and-ceo-resignation-heres-what-she-revealed-ws-l-10427380.html",
+      "title_en": "Why Is This Nvidia Employee Praising Jensen Huang Amid Affair Allegations And CEO Resignation? Here's What",
+      "title_zh": null,
+      "summary_en": "An Nvidia employee has praised Jensen Huang for supporting her family during her sister’s cancer battle, while another credits him with transforming his career",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-3-2026-11-902c51f5da3afc9af736af38a55c2d0b-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T15:49:33+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "49d7589846e67811",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "970270de7b58b7a2",
@@ -2496,8 +2723,8 @@
       "cluster_id": "970270de7b58b7a2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 151,
-      "reddit_comments": 3
+      "reddit_score": 187,
+      "reddit_comments": 4
     },
     {
       "id": "2af5232d1b242b30",
@@ -2524,8 +2751,8 @@
       "cluster_id": "2af5232d1b242b30",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 2,
-      "reddit_comments": 1
+      "reddit_score": 14,
+      "reddit_comments": 2
     },
     {
       "id": "bb12ea8a58e24b1e",
@@ -2549,6 +2776,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "bb12ea8a58e24b1e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "f47ecc5371864d41",
+      "url": "https://www.ndtv.com/offbeat/indian-man-in-slovakia-reveals-monthly-expenses-says-taxes-cost-rs-30-000-12332558",
+      "title_en": "Indian Man In Slovakia Reveals Monthly Expenses, Says Taxes Cost Rs 30,000",
+      "title_zh": null,
+      "summary_en": "He explained how much he spends every month on taxes, accommodation, food, fitness and other personal needs.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://c.ndtvimg.com/2026-11/o8sllm0s_pg-gurjar_625x300_16_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "image_checked": true,
+      "source": "NDTV Offbeat",
+      "source_id": "ndtv-offbeat",
+      "region": "印度",
+      "published_at": "2026-11-16T15:31:35+08:00",
+      "fetched_at": "2026-11-18T12:06:29+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f47ecc5371864d41",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2577,8 +2829,8 @@
       "cluster_id": "6d3e0c47cb0f3cbf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 48,
-      "reddit_comments": 3
+      "reddit_score": 60,
+      "reddit_comments": 4
     },
     {
       "id": "e883616eb3db5be0",
@@ -2680,7 +2932,7 @@
       "cluster_id": "4ab892a53004f45d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 22,
+      "reddit_score": 28,
       "reddit_comments": 1
     },
     {
@@ -2857,7 +3109,7 @@
       "cluster_id": "92f323c64bb45576",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 63,
+      "reddit_score": 71,
       "reddit_comments": 5
     },
     {
@@ -2886,6 +3138,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "2608cd6ae46a150b",
+      "url": "https://www.timesnownews.com/viral/gully-cricket-and-kulhad-chai-prince-william-and-princess-kate-mumbai-morning-watch-article-156517565",
+      "title_en": "Gully Cricket And Kulhad Chai: Prince William And Princess Kate's Mumbai Morning | WATCH",
+      "title_zh": null,
+      "summary_en": "Prince William and Princess Kate kicked off their three-day India visit with a game of gully cricket alongside Sachin Tendulkar and schoolgirls in Mumbai. The royal couple also enjoyed cutting chai served in traditional kulhads and experienced the city's vibrant street culture., Viral, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156517703,thumbsize-5223669,width-1280,height-720,resizemode-75/156517703.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T14:32:20+08:00",
+      "fetched_at": "2026-11-18T12:06:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ebbd0fcb3c5c0abf",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
       "id": "d5f8d000a7d44515",
       "url": "https://www.news18.com/viral/merchant-navy-captain-celebrates-chhath-puja-miles-away-from-home-on-ship-internet-reacts-hats-off-to-you-ws-l-10427180.html",
       "title_en": "Merchant Navy Captain Celebrates Chhath Puja Miles Away From Home On Ship; Internet Reacts: ‘Hats Off To Yo",
@@ -2908,8 +3185,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d5f8d000a7d44515",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "f0ea8b9fcca35ae7",
@@ -2936,8 +3213,8 @@
       "cluster_id": "f0ea8b9fcca35ae7",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 748,
-      "reddit_comments": 108
+      "reddit_score": 868,
+      "reddit_comments": 122
     },
     {
       "id": "ebbd0fcb3c5c0abf",
@@ -2960,8 +3237,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ebbd0fcb3c5c0abf",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "d11651fb83721f7c",
@@ -3009,7 +3286,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "91e2f6e4a9e06741",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 2
     },
     {
@@ -3152,7 +3429,7 @@
       "published_at": "2026-11-16T12:59:49+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xxgp5i",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -3161,7 +3438,7 @@
       "cluster_id": "412f08664c11ae51",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 5,
+      "reddit_score": 0,
       "reddit_comments": 16
     },
     {
@@ -3312,7 +3589,7 @@
       "cluster_id": "629bfc062e7dae2c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 35,
+      "reddit_score": 37,
       "reddit_comments": 1
     },
     {
@@ -3336,7 +3613,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "91e2f6e4a9e06741",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 2
     },
     {
@@ -3426,8 +3703,8 @@
       "cluster_id": "112e4265861aad65",
       "cluster_item_count": 3,
       "cluster_source_count": 3,
-      "reddit_score": 727,
-      "reddit_comments": 82
+      "reddit_score": 810,
+      "reddit_comments": 89
     },
     {
       "id": "8948a6f677b30569",
@@ -3454,7 +3731,7 @@
       "cluster_id": "8948a6f677b30569",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 66,
+      "reddit_score": 68,
       "reddit_comments": 0
     },
     {
@@ -3557,6 +3834,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "6ef0463da3fbd752",
+      "url": "https://www.timesnownews.com/entertainment-news/south/thalapathy-vijays-on-screen-sister-nancy-jennifer-in-ghilli-gets-married-fans-congratulate-bhuvi-article-156516517",
+      "title_en": "Thalapathy Vijay's On-Screen Sister Nancy Jennifer In Ghilli Gets Married, Fans Congratulate 'Bhuvi'",
+      "title_zh": null,
+      "summary_en": "Nancy Jennifer, who played Vijay's younger sister Bhuvana in Ghilli, has married Karthik in Chennai. Pictures and videos from their traditional wedding ceremony have gone viral on social media., South, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156516520,thumbsize-610244,width-1280,height-720,resizemode-75/156516520.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T09:34:46+08:00",
+      "fetched_at": "2026-11-18T12:06:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6ef0463da3fbd752",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "9569ed2fd9d70ba5",
       "url": "https://www.republicworld.com/global-news/pilot-exposes-faa-claims-cancun-flight-had-zero-problems-accuses-us-govt-of-staging-aviation-crisis-2026-11-15-141123",
       "title_en": "Pilot Exposes FAA? Claims Cancun Flight Had Zero Problems, Accuses US Govt Of Staging Aviation Crisis",
@@ -3606,7 +3908,7 @@
       "cluster_id": "1467ab3a664f7719",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 74,
+      "reddit_score": 77,
       "reddit_comments": 28
     },
     {
@@ -3675,7 +3977,7 @@
       "published_at": "2026-11-16T06:09:51+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xx89dr",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "航空出行"
       ],
@@ -3684,7 +3986,7 @@
       "cluster_id": "4836ee18efd229a3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 324,
+      "reddit_score": 352,
       "reddit_comments": 42
     },
     {
@@ -3837,8 +4139,8 @@
       "cluster_id": "ec7e8479e545f008",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1014,
-      "reddit_comments": 42
+      "reddit_score": 1064,
+      "reddit_comments": 44
     },
     {
       "id": "0af48f2ceabc667b",
@@ -3865,8 +4167,8 @@
       "cluster_id": "0af48f2ceabc667b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 489,
-      "reddit_comments": 45
+      "reddit_score": 505,
+      "reddit_comments": 46
     },
     {
       "id": "53e5fbbd3511fea8",
@@ -3993,8 +4295,8 @@
       "cluster_id": "30aeed89994d035d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 239,
-      "reddit_comments": 5
+      "reddit_score": 271,
+      "reddit_comments": 6
     },
     {
       "id": "b7668944a9dbdd1f",
@@ -4046,8 +4348,8 @@
       "cluster_id": "898a564b04b749fb",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 201,
-      "reddit_comments": 20
+      "reddit_score": 212,
+      "reddit_comments": 22
     },
     {
       "id": "d990234067e39f6b",
@@ -4174,8 +4476,8 @@
       "cluster_id": "106a6463193fad56",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 6,
-      "reddit_comments": 9
+      "reddit_score": 8,
+      "reddit_comments": 10
     },
     {
       "id": "5918e9cebcd57c58",
@@ -4364,7 +4666,7 @@
       "cluster_id": "601f455b6e620f5a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 132,
+      "reddit_score": 134,
       "reddit_comments": 29
     }
   ]

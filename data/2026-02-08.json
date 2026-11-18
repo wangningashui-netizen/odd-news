@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-08",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a488600fcb44e7ed",
+      "url": "https://www.news18.com/viral/pregnant-indian-woman-stopped-at-thailand-airport-travel-rules-to-know-aa-ws-l-9886748.html",
+      "title_en": "‘Meri Tabiyat Bhi Kharab Thi...’: Indian Mom-To-Be Stopped At Thailand Airport; Can You Fly In Pregnancy?",
+      "title_zh": null,
+      "summary_en": "An Indian woman faced boarding issues in Thailand due to pregnancy, highlighting travel rules for pregnant women across airlines like Air India, Thai Airways, and IndiGo.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/02/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-02-07T162643.576-2026-02-d15fb50ed103efd23c35505acae2f926-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-02-08T13:02:29+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a488600fcb44e7ed",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-16",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "2db122b84c94f62a",
+      "url": "https://www.news18.com/viral/5-easy-ways-to-find-hidden-cameras-in-hotel-rooms-ws-akl-9832893.html",
+      "title_en": "5 Easy Ways To Find Hidden Cameras In Hotel Rooms",
+      "title_zh": null,
+      "summary_en": "Cases of hidden cameras in hotels and rentals continue to surface worldwide. A private investigator shares five simple tricks to help travellers protect their privacy and stay safe",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/03/MixCollage-18-Mar-2025-11-15-AM-3752-2025-03-e8bccaf6718f67c1397ccefa13abddf2-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-01-16T10:52:42+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2db122b84c94f62a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

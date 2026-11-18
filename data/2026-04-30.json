@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-30",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "82757137192c09af",
+      "url": "https://www.news18.com/viral/indian-couple-shuts-down-fifth-avenue-for-grand-baraat-in-new-york-money-buys-tickets-not-class-ws-l-10065382.html",
+      "title_en": "Indian Couple Shuts Down Fifth Avenue For Grand Baraat In New York: ‘Money Buys Tickets, Not Class’",
+      "title_zh": null,
+      "summary_en": "An Indian couple turned New York’s Fifth Avenue into a lively baraat with music and dance, leaving social media divided over the grand public celebration.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/TV_5834167_untitleddesign63_1-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-30T14:38:40+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "82757137192c09af",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

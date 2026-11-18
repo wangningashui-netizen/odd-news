@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-04",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "420c3900386b94c7",
+      "url": "https://www.news18.com/viral/racism-in-india-foreigner-questions-paying-more-at-dilli-haat-social-media-pushes-back-ws-l-10310434.html",
+      "title_en": "‘Racism In India?’: Foreigner Questions Paying More At Dilli Haat, Social Media Pushes Back",
+      "title_zh": null,
+      "summary_en": "A foreign tourist questioned why visitors from other countries pay more at Delhi’s Dilli Haat, leading users to debate whether different entry fees are fair in such places for all.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2026-09-04T153501.355-2026-09-0b95461f584c9f85b31e3473a06be842-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-04T18:12:02+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "420c3900386b94c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

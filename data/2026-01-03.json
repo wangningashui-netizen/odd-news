@@ -1,0 +1,33 @@
+{
+  "date": "2026-01-03",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "4724edf7253f2240",
+      "url": "https://www.news18.com/viral/pandit-question-on-nora-fatehi-at-bride-groom-pheras-had-guests-laughing-video-9806909.html",
+      "title_en": "‘Nora Fatehi Aapki Kya Lagi?’: Pandit Ji's Unusual Question To Groom Has Bride, Guests In Splits | Video",
+      "title_zh": null,
+      "summary_en": "In the middle of the pheras, the pandit casually brought up Bollywood dancer and actor Nora Fatehi, which left the groom, the bride and even the guests caught off guard.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/01/news18-8-2026-01-2c0e08690aed719d2d0036f509dd849e-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-01-03T11:23:03+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧",
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4724edf7253f2240",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

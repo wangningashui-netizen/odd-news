@@ -1,7 +1,51 @@
 {
   "month": "2026-04",
-  "count": 3,
+  "count": 6,
   "items": [
+    {
+      "id": "82757137192c09af",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T14:38:40+08:00",
+      "title_zh": null,
+      "title_en": "Indian Couple Shuts Down Fifth Avenue For Grand Baraat In New York: ‘Money Buys Tickets, Not Class’",
+      "summary_zh": null,
+      "summary_en": "An Indian couple turned New York’s Fifth Avenue into a lively baraat with music and dance, leaving social media divided over the grand public celebration.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/TV_5834167_untitleddesign63_1-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/indian-couple-shuts-down-fifth-avenue-for-grand-baraat-in-new-york-money-buys-tickets-not-class-ws-l-10065382.html",
+      "translation_status": "pending",
+      "cluster_id": "82757137192c09af",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a057bfc1769ab565",
+      "date": "2026-04-29",
+      "published_at": "2026-04-29T21:46:44+08:00",
+      "title_zh": null,
+      "title_en": "The Phone In Your Hand Is More Powerful Than What Took Humans To The Moon",
+      "summary_zh": null,
+      "summary_en": "Article compares Apollo 11s simple but precise Apollo Guidance Computer with modern smartphones, highlighting how disciplined design and focus enabled the Moon landing",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/TV_5833383_nasa2_1-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/the-phone-in-your-hand-is-more-powerful-than-what-took-humans-to-the-moon-ws-l-10063955.html",
+      "translation_status": "pending",
+      "cluster_id": "a057bfc1769ab565",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "1188751e57161940",
       "date": "2026-04-25",
@@ -20,6 +64,28 @@
       "url": "https://www.news18.com/viral/vaishno-devi-500-crore-silver-scam-5-simple-tests-to-check-if-your-silver-is-real-before-you-spend-a-rupee-ws-e-10056988.html",
       "translation_status": "fallback",
       "cluster_id": "1188751e57161940",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f0145f023365a12b",
+      "date": "2026-04-21",
+      "published_at": "2026-04-21T12:23:59+08:00",
+      "title_zh": null,
+      "title_en": "‘This Is A Hindu Nation’: BJP Leader Storms Lenskart Store, Applies Tilak To Staff | Video",
+      "summary_zh": null,
+      "summary_en": "In the now viral video, BJP leader Nazia Elahi Khan can be seen entering the outlet and questioning the floor manager over alleged restrictions.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/NW18-9-2026-04-4a9fdb4d86523221d380b360efb3a151.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/this-is-a-hindu-nation-bjp-leader-storms-lenskart-store-applies-tilak-to-staff-video-ws-l-10046539.html",
+      "translation_status": "pending",
+      "cluster_id": "f0145f023365a12b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

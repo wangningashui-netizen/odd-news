@@ -1,0 +1,32 @@
+{
+  "date": "2023-04-19",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "93c12e0056862c11",
+      "url": "https://www.news18.com/viral/optical-illusion-theres-a-secret-message-in-the-image-can-you-read-it-7585285.html",
+      "title_en": "Optical Illusion: There's A Secret Message In The Image; Can You Read It?",
+      "title_zh": null,
+      "summary_en": "The optical illusion features English letters that seem to be illegible.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/04/news18-14-6-168189734616x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-04-19T17:46:03+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "93c12e0056862c11",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

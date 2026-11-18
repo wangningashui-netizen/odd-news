@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-17",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "f2166371eb234e1f",
+      "url": "https://www.news18.com/viral/pune-cab-driver-asks-women-to-either-adjust-for-his-friend-or-book-another-ride-they-refuse-were-paying-for-it-ws-l-10215891.html",
+      "title_en": "Pune Cab Driver Asks Women To Either ‘Adjust’ For His Friend Or Book Another Ride; They Refuse: ‘We’re Payi",
+      "title_zh": null,
+      "summary_en": "The women shared that the cab driver asked them to either adjust with his friend or get off his cab and book another ride to their destination.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/News18-6-2026-07-fb338c7d6ac995d9035bcb1ffd1c276b-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-07-17T13:11:24+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f2166371eb234e1f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

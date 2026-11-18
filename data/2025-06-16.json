@@ -1,0 +1,33 @@
+{
+  "date": "2025-06-16",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "9b81eed521e2cf1c",
+      "url": "https://www.news18.com/viral/funeral-turns-into-wedding-as-man-marries-lovers-dead-body-in-ups-maharajganj-ws-dkl-9388407.html",
+      "title_en": "Funeral Turns Into Wedding As Man Marries Lover's Dead Body In UP's Maharajganj",
+      "title_zh": null,
+      "summary_en": "The bizarre incident unfolded in the Nichlaul area, where a local youth, devastated by the death of his fiance, insisted on solemnising their marriage before her last rites",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/06/Untitled-design-2025-06-16T162840.108-2025-06-83503b6a089adac627e92109ebf88385.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-06-16T19:30:11+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9b81eed521e2cf1c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

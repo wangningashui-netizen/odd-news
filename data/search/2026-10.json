@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "count": 92,
+  "count": 94,
   "items": [
     {
       "id": "443b27a8eddc7635",
@@ -107,6 +107,28 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/zoho-sridhar-vembu-warns-ai-could-let-one-person-do-the-work-of-10-10941742/",
       "translation_status": "fallback",
       "cluster_id": "1e50974927a7bb2d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a323efbc7ecb5eb7",
+      "date": "2026-10-29",
+      "published_at": "2026-10-29T15:36:40+08:00",
+      "title_zh": null,
+      "title_en": "IIM Calcutta Graduate Quits McKinsey For Google, Shares How Her Life Changed After A Year",
+      "summary_zh": null,
+      "summary_en": "An IIM Calcutta graduate who left McKinsey for Google has shared how the career switch changed her work, travel and daily routine, one year after leaving consulting.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-29T125407.645-2026-10-6f69b214195506662f4881467eb53828-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/iim-calcutta-graduate-quits-mckinsey-for-google-shares-how-her-life-changed-after-a-year-ws-l-10402965.html",
+      "translation_status": "pending",
+      "cluster_id": "a323efbc7ecb5eb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -482,6 +504,28 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/viral-beach-reel-shows-child-near-waves-as-parents-film-selfie-video-netizens-react-10929201/",
       "translation_status": "fallback",
       "cluster_id": "88e047cf6224979c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "697f79ce02849ef0",
+      "date": "2026-10-20",
+      "published_at": "2026-10-20T15:47:35+08:00",
+      "title_zh": null,
+      "title_en": "‘Be Extra, Extra Careful’: CCTV Shows Woman Stealing Wallet At Starbucks In Bengaluru; Internet Reacts",
+      "summary_zh": null,
+      "summary_en": "The footage showed the woman approaching the man’s bag on a table, stealthily putting her inside it, taking out his wallet and then leaving the area at a Starbucks in Bengaluru",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-6-2026-10-90bbbe5fc7d7edc504984f062a0a6999-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/be-extra-extra-careful-cctv-shows-woman-stealing-wallet-at-starbucks-in-bengaluru-internet-reacts-ws-l-10389791.html",
+      "translation_status": "pending",
+      "cluster_id": "697f79ce02849ef0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

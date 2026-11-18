@@ -1,0 +1,32 @@
+{
+  "date": "2023-11-19",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "2881870be65820a5",
+      "url": "https://www.news18.com/viral/students-fight-brutally-thrash-each-other-at-coaching-institute-over-seating-issue-video-goes-viral-8668032.html",
+      "title_en": "Students Fight, Brutally Thrash Each Other At Coaching Institute Over Seating Issue, Video Goes Viral",
+      "title_zh": null,
+      "summary_en": "Viral video shows two students getting into a heated fight over seating issue.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/11/students-2023-11-1b3f5746f47a653048b2564f7c04b450-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-11-19T14:09:01+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2881870be65820a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

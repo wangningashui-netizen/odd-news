@@ -78,8 +78,8 @@
       "cluster_id": "5f3313e729fa00cd",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 503,
-      "reddit_comments": 45
+      "reddit_score": 530,
+      "reddit_comments": 46
     },
     {
       "id": "dfe5d938712f040a",
@@ -131,7 +131,7 @@
       "cluster_id": "a8fdd0852efe999c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 57,
+      "reddit_score": 72,
       "reddit_comments": 3
     },
     {
@@ -175,7 +175,7 @@
       "published_at": "2026-11-10T23:00:01+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xsp1zr",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -184,7 +184,7 @@
       "cluster_id": "bbb99809e5ea2a25",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 221,
+      "reddit_score": 270,
       "reddit_comments": 39
     },
     {
@@ -361,7 +361,7 @@
       "cluster_id": "eb293fba0e372f5d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 56,
+      "reddit_score": 66,
       "reddit_comments": 5
     },
     {
@@ -928,8 +928,8 @@
       "cluster_id": "a1d443d7dfd90351",
       "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 1063,
-      "reddit_comments": 52
+      "reddit_score": 1087,
+      "reddit_comments": 53
     },
     {
       "id": "ca827fec84194830",
@@ -1230,8 +1230,8 @@
       "cluster_id": "d6208742ff439521",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 67,
-      "reddit_comments": 47
+      "reddit_score": 103,
+      "reddit_comments": 54
     },
     {
       "id": "3e9d279ac8d4d3fe",
@@ -1612,8 +1612,8 @@
       "cluster_id": "f518a94ef52b845d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 551,
-      "reddit_comments": 19
+      "reddit_score": 571,
+      "reddit_comments": 20
     },
     {
       "id": "3bfb639fec65f4d0",
@@ -1764,7 +1764,7 @@
       "cluster_id": "32407d0eb773a3bc",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 47,
+      "reddit_score": 50,
       "reddit_comments": 1
     },
     {
@@ -2086,7 +2086,7 @@
       "published_at": "2026-11-10T19:28:23+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xskin4",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],
@@ -2372,7 +2372,7 @@
       "cluster_id": "dad359dcdfa14149",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 291,
+      "reddit_score": 314,
       "reddit_comments": 12
     },
     {
@@ -2401,7 +2401,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 2,
-      "reddit_comments": 2
+      "reddit_comments": 3
     },
     {
       "id": "f9388a2389360b13",
@@ -2428,7 +2428,7 @@
       "cluster_id": "f9388a2389360b13",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 34,
+      "reddit_score": 44,
       "reddit_comments": 1
     },
     {
@@ -2583,7 +2583,7 @@
       "cluster_id": "140d32fe02f55f3f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 25,
+      "reddit_score": 32,
       "reddit_comments": 2
     },
     {
@@ -2866,7 +2866,7 @@
       "cluster_id": "bc6b1908deb626f8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 334,
+      "reddit_score": 348,
       "reddit_comments": 26
     },
     {
@@ -2918,8 +2918,8 @@
       "cluster_id": "d7a0ba578d01f6aa",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 222,
-      "reddit_comments": 21
+      "reddit_score": 271,
+      "reddit_comments": 22
     },
     {
       "id": "ae2a3611ba007c48",
@@ -2971,7 +2971,7 @@
       "cluster_id": "9bb8f34d31ae0dd4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 236,
+      "reddit_score": 239,
       "reddit_comments": 16
     },
     {
@@ -3151,7 +3151,7 @@
       "cluster_id": "4cb37625b37a4ffc",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 49,
+      "reddit_score": 61,
       "reddit_comments": 0
     },
     {
@@ -3592,7 +3592,7 @@
       "cluster_id": "7d9e75d02c0b0a5a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 89,
+      "reddit_score": 93,
       "reddit_comments": 12
     },
     {
@@ -3670,8 +3670,8 @@
       "cluster_id": "65362ade65c0c979",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 2,
-      "reddit_comments": 1
+      "reddit_score": 14,
+      "reddit_comments": 2
     },
     {
       "id": "821a2527f47edfd2",
@@ -3726,8 +3726,8 @@
       "cluster_id": "097e11ab7d129664",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 2,
-      "reddit_comments": 1
+      "reddit_score": 14,
+      "reddit_comments": 2
     },
     {
       "id": "c2525f24a9c48360",
@@ -3828,7 +3828,7 @@
       "cluster_id": "6038218211ab7a0f",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 93,
+      "reddit_score": 103,
       "reddit_comments": 6
     },
     {
@@ -3881,7 +3881,7 @@
       "cluster_id": "7a749a589672038e",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 956,
+      "reddit_score": 979,
       "reddit_comments": 11
     },
     {
@@ -3934,7 +3934,7 @@
       "cluster_id": "07524246b6d6f6c8",
       "cluster_item_count": 5,
       "cluster_source_count": 2,
-      "reddit_score": 300,
+      "reddit_score": 371,
       "reddit_comments": 19
     },
     {
@@ -3962,7 +3962,7 @@
       "cluster_id": "ebc57cb9e0a063a9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 12,
+      "reddit_score": 14,
       "reddit_comments": 0
     },
     {
@@ -4014,7 +4014,7 @@
       "cluster_id": "f94409c99cd4efa0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 607,
+      "reddit_score": 640,
       "reddit_comments": 52
     },
     {
@@ -4307,7 +4307,7 @@
       "published_at": "2026-11-10T14:21:55+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xsfnks",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "婚俗宗教"
       ],
@@ -4316,7 +4316,7 @@
       "cluster_id": "deac37520fdfac0c",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 555,
+      "reddit_score": 651,
       "reddit_comments": 7
     },
     {
@@ -4645,7 +4645,7 @@
       "cluster_id": "9fcc1ff0136997ed",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 626,
+      "reddit_score": 668,
       "reddit_comments": 32
     },
     {
@@ -4722,7 +4722,7 @@
       "cluster_id": "a1d443d7dfd90351",
       "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 38,
+      "reddit_score": 39,
       "reddit_comments": 4
     },
     {
@@ -5439,7 +5439,7 @@
       "published_at": "2026-11-10T10:37:43+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
       "reddit_id": "t3_1xsbfn5",
-      "page_attempts": 1,
+      "page_attempts": 2,
       "tags": [
         "其他"
       ],

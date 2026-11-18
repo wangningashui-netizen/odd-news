@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a057bfc1769ab565",
+      "url": "https://www.news18.com/viral/the-phone-in-your-hand-is-more-powerful-than-what-took-humans-to-the-moon-ws-l-10063955.html",
+      "title_en": "The Phone In Your Hand Is More Powerful Than What Took Humans To The Moon",
+      "title_zh": null,
+      "summary_en": "Article compares Apollo 11s simple but precise Apollo Guidance Computer with modern smartphones, highlighting how disciplined design and focus enabled the Moon landing",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/TV_5833383_nasa2_1-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-29T21:46:44+08:00",
+      "fetched_at": "2026-11-18T12:06:32+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a057bfc1769ab565",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
