@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "timezone": "Asia/Shanghai",
-  "count": 137,
+  "count": 138,
   "items": [
     {
       "id": "a7c473132e8066f6",
@@ -19,7 +19,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T23:47:24+08:00",
-      "fetched_at": "2026-11-19T06:36:54+08:00",
+      "fetched_at": "2026-11-20T06:34:24+08:00",
       "tags": [
         "军事政治"
       ],
@@ -245,7 +245,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T23:10:08+08:00",
-      "fetched_at": "2026-11-19T06:37:20+08:00",
+      "fetched_at": "2026-11-20T06:34:28+08:00",
       "tags": [
         "婚俗宗教",
         "奇人奇事"
@@ -276,7 +276,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123071261375177188/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123071134250000384/vid/avc1/720x1280/XgHzRro8u9uNkQU1.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:37:20+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:28+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/aajtak/status/2123071261375177188",
@@ -429,7 +429,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T23:00:01+08:00",
-      "fetched_at": "2026-11-19T06:37:06+08:00",
+      "fetched_at": "2026-11-20T06:34:25+08:00",
       "tags": [
         "军事政治"
       ],
@@ -459,7 +459,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123068716946518389/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123060980402036736/vid/avc1/1920x1080/qrizBKVX2ecFbtBf.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:37:06+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:25+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2123068716946518389",
@@ -686,7 +686,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T22:40:25+08:00",
-      "fetched_at": "2026-11-19T06:37:17+08:00",
+      "fetched_at": "2026-11-20T06:34:27+08:00",
       "tags": [
         "动物",
         "奇人奇事"
@@ -717,7 +717,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123063782759125455/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123063751754862593/vid/avc1/720x1280/d_bqRTr2yG5Y8goi.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:37:17+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:27+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/Shankarparmar99/status/2123063782759125455",
@@ -956,7 +956,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T22:25:48+08:00",
-      "fetched_at": "2026-11-19T06:37:01+08:00",
+      "fetched_at": "2026-11-20T06:34:24+08:00",
       "tags": [
         "军事政治",
         "科技发明"
@@ -987,7 +987,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123060107839950899/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123060062180810752/vid/avc1/464x832/Hfd7cwhaXXj5rFTO.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:37:01+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:24+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yadavakhilesh/status/2123060107839950899",
@@ -1392,7 +1392,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T21:50:27+08:00",
-      "fetched_at": "2026-11-19T06:36:56+08:00",
+      "fetched_at": "2026-11-20T06:34:24+08:00",
       "tags": [
         "军事政治"
       ],
@@ -1889,7 +1889,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T20:20:00+08:00",
-      "fetched_at": "2026-11-19T06:36:51+08:00",
+      "fetched_at": "2026-11-20T06:34:24+08:00",
       "tags": [
         "军事政治"
       ],
@@ -1919,7 +1919,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123028446871752849/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123022431388573696/vid/avc1/1920x1080/Mno_ollHcwV5BAaU.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:36:51+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:24+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2123028446871752849",
@@ -2126,7 +2126,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T20:03:51+08:00",
-      "fetched_at": "2026-11-19T06:37:04+08:00",
+      "fetched_at": "2026-11-20T06:34:24+08:00",
       "tags": [
         "军事政治"
       ],
@@ -3343,7 +3343,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T15:14:23+08:00",
-      "fetched_at": "2026-11-19T06:37:10+08:00",
+      "fetched_at": "2026-11-20T06:34:25+08:00",
       "tags": [
         "军事政治",
         "商业套路"
@@ -3564,7 +3564,7 @@
         "angle_source": "inbox"
       },
       "cluster_id": "bc4f99386b505358",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2
     },
     {
@@ -3784,7 +3784,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T14:13:35+08:00",
-      "fetched_at": "2026-11-19T06:37:14+08:00",
+      "fetched_at": "2026-11-20T06:34:26+08:00",
       "tags": [
         "动物",
         "奇人奇事"
@@ -3817,7 +3817,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122936235547349130/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122936175950503936/vid/avc1/720x1280/GOXuU3Hp8x-mOjA6.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:37:14+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:26+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/gaurravbhrdwj/status/2122936235547349130",
@@ -4485,8 +4485,93 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "bc4f99386b505358",
-      "cluster_item_count": 2,
+      "cluster_item_count": 3,
       "cluster_source_count": 2
+    },
+    {
+      "id": "4e8a2f1bdb9e4ff3",
+      "url": "https://x.com/CNNnews18/status/2122881291708457464",
+      "title_en": "A groom in Uttar Pradesh's Bahraich chose a JCB bulldozer instead of a luxury car or horse for his wedding procession. Identified as Abdul Kalam, the groom rode the bulldozer from Arakapur village to the bride's home in Khutehna Bazaar, under the Payagpur police station limits. His unusual wedding e",
+      "title_zh": "北方邦新郎不坐车不骑马，坐着JCB推土机去迎亲",
+      "summary_en": "A groom in Uttar Pradesh's Bahraich chose a JCB bulldozer instead of a luxury car or horse for his wedding procession. Identified as Abdul Kalam, the groom rode the bulldozer from Arakapur village to the bride's home in Khutehna Bazaar, under the Payagpur police station limits.\n\nHis unusual wedding entry drew a crowd, with several people recording the procession. A video of the groom arriving on the JCB bulldozer has since gone viral on social media.\n\n#UttarPradesh #Bahraich #JCBbulldozer #Viralvideo",
+      "summary_zh": "北方邦巴赫赖奇一位名叫阿卜杜勒·卡拉姆的新郎，没选豪车也没骑马，而是坐着JCB推土机从阿拉卡普尔村一路开到新娘所在的库特赫纳集市，沿途围观者纷纷拍摄，视频在网上走红。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122881291708457464/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-18T10:35:15+08:00",
+      "fetched_at": "2026-11-20T06:35:00+08:00",
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2122881291708457464",
+        "lang": "en",
+        "text": "A groom in Uttar Pradesh's Bahraich chose a JCB bulldozer instead of a luxury car or horse for his wedding procession. Identified as Abdul Kalam, the groom rode the bulldozer from Arakapur village to the bride's home in Khutehna Bazaar, under the Payagpur police station limits.\n\nHis unusual wedding entry drew a crowd, with several people recording the procession. A video of the groom arriving on the JCB bulldozer has since gone viral on social media.\n\n#UttarPradesh #Bahraich #JCBbulldozer #Viralvideo",
+        "author": {
+          "name": "News18",
+          "username": "CNNnews18",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1559788694709473280/j1s3zm5m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122881291708457464/avatar.jpg"
+        },
+        "created_at": "2026-11-18T02:35:15.000Z",
+        "public_metrics": {
+          "reply_count": 1,
+          "like_count": 14,
+          "quote_count": 0,
+          "bookmark_count": 5,
+          "impression_count": 3648
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122881291708457464/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2122881180798529536/vid/avc1/1080x1350/vjcdCTWShuwUbhJz.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-20T06:35:00+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/CNNnews18/status/2122881291708457464",
+        "ytdlp_command": "yt-dlp https://x.com/CNNnews18/status/2122881291708457464",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122881291708457464/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2123132401031446974",
+            "author": {
+              "name": "青花瓷",
+              "username": "99chu_chu",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2097943380395507712/rTCbtcds_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122881291708457464/avatars/99chu_chu.jpg"
+            },
+            "text": "@CNNnews18 加油！",
+            "created_at": "2026-11-18T19:13:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 88
+            },
+            "in_reply_to_id": "2122881291708457464"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "035a4fdead79a23ffe5c3a62e6ac9d4cc8179fce",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "4e8a2f1bdb9e4ff3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "bef49e007f4df4fa",
@@ -4829,7 +4914,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-18T02:13:41+08:00",
-      "fetched_at": "2026-11-19T06:36:39+08:00",
+      "fetched_at": "2026-11-20T06:34:22+08:00",
       "tags": [
         "犯罪法律"
       ],
@@ -4859,7 +4944,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122754945825046528/vid/avc1/1080x1350/4nRDHA7JYvkR_YVO.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-19T06:36:39+08:00",
+        "video_url_resolved_at": "2026-11-20T06:34:22+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/CNNnews18/status/2122755066415427668",
