@@ -1,0 +1,32 @@
+{
+  "date": "2023-08-17",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "27b291a1510f8fbb",
+      "url": "https://www.news18.com/viral/meet-abish-mathew-whose-sthaan-on-comicstaan-was-nothing-but-hilarious-8539099.html",
+      "title_en": "Meet Abish Mathew, Whose 'Sthaan' on 'Comicstaan' Was Nothing But Hilarious",
+      "title_zh": null,
+      "summary_en": "Known for his 'clean comedy' and addressing social issues in a quirky way during his shows, here's everything about Abish Mathew, one of the most beloved comedians today.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/08/abish-mathew-169224300316x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-08-17T13:26:49+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "27b291a1510f8fbb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

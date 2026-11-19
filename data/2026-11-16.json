@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
   "timezone": "Asia/Shanghai",
-  "count": 156,
+  "count": 157,
   "items": [
     {
       "id": "4370aac71e5e39d5",
@@ -28,7 +28,7 @@
       "cluster_id": "4370aac71e5e39d5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 34,
+      "reddit_score": 35,
       "reddit_comments": 2
     },
     {
@@ -367,7 +367,7 @@
       "cluster_id": "884d75ed57a50450",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 145,
+      "reddit_score": 171,
       "reddit_comments": 20
     },
     {
@@ -750,7 +750,7 @@
       "cluster_id": "e541db2d07b57f54",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
+      "reddit_score": 15,
       "reddit_comments": 1
     },
     {
@@ -1299,7 +1299,7 @@
       "cluster_id": "1d5072fb58f43a8a",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 480,
+      "reddit_score": 485,
       "reddit_comments": 38
     },
     {
@@ -1406,7 +1406,7 @@
       "cluster_id": "fc6379cf70193b6f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 387,
+      "reddit_score": 398,
       "reddit_comments": 21
     },
     {
@@ -1434,7 +1434,7 @@
       "cluster_id": "44313ca4dd34b8a0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 63,
+      "reddit_score": 65,
       "reddit_comments": 8
     },
     {
@@ -1462,7 +1462,7 @@
       "cluster_id": "b49972f1dd5bbbb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 313,
+      "reddit_score": 318,
       "reddit_comments": 38
     },
     {
@@ -1514,7 +1514,7 @@
       "cluster_id": "434d34669d1b47f9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 179,
+      "reddit_score": 184,
       "reddit_comments": 13
     },
     {
@@ -1541,7 +1541,7 @@
       "cluster_id": "65c69015a69880d0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 647,
+      "reddit_score": 664,
       "reddit_comments": 54
     },
     {
@@ -1569,7 +1569,7 @@
       "cluster_id": "0c34631c04e4012e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 383,
+      "reddit_score": 390,
       "reddit_comments": 28
     },
     {
@@ -1672,7 +1672,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 2,
-      "reddit_comments": 6
+      "reddit_comments": 8
     },
     {
       "id": "9a65ecd89041aced",
@@ -2519,7 +2519,7 @@
       "cluster_id": "c0170ca8bdb362b8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 217,
+      "reddit_score": 219,
       "reddit_comments": 20
     },
     {
@@ -2695,8 +2695,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "49d7589846e67811",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "970270de7b58b7a2",
@@ -2751,7 +2751,7 @@
       "cluster_id": "2af5232d1b242b30",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
+      "reddit_score": 16,
       "reddit_comments": 2
     },
     {
@@ -3109,7 +3109,7 @@
       "cluster_id": "92f323c64bb45576",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 71,
+      "reddit_score": 76,
       "reddit_comments": 5
     },
     {
@@ -3288,6 +3288,31 @@
       "cluster_id": "91e2f6e4a9e06741",
       "cluster_item_count": 4,
       "cluster_source_count": 2
+    },
+    {
+      "id": "4ea7182b16c56dd8",
+      "url": "https://www.republicworld.com/india/cds-gen-raja-subramani-flags-starlink-satellite-disruption-in-ukraine-stresses-need-for-india-s-self-reliant-space-capabilities-2026-11-16-141144",
+      "title_en": "CDS Gen Raja Subramani Flags Starlink Satellite Disruption in Ukraine, Stresses Need for India's Self-Reliant Space Capabilities",
+      "title_zh": null,
+      "summary_en": "Highlighting the vulnerability of space-based communication systems, the CDS referred to the Ukraine conflict, where the disruption of Starlink services affected the effectiveness of Ukrainian long-range drones.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/cds-gen-raja-subramani-flags-starlink-satellite-disruption-in-ukraine-stresses-need-for-india-s-self-reliant-space-capabilities-1794808203936-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-16T13:50:20+08:00",
+      "fetched_at": "2026-11-19T12:02:55+08:00",
+      "page_fetched": true,
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4ea7182b16c56dd8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "f777aa27ccaa42c7",

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "601a6602f0ec9134",
@@ -25,6 +25,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "601a6602f0ec9134",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "0541485c8587616a",
+      "url": "https://www.news18.com/viral/majnu-bhai-is-the-og-artist-viral-goat-on-a-donkey-video-reminds-fans-of-iconic-scene-from-welcome-nearly-20-years-later-ws-l-10135110.html",
+      "title_en": "'Majnu Bhai Is The OG Artist': Viral Goat-On-A-Donkey Video Reminds Fans Of Iconic Scene From Welcome Nearl",
+      "title_zh": null,
+      "summary_en": "A viral video of a goat standing on a donkey while eating leaves has left Welcome fans in splits, with many comparing the scene to Majnu Bhai's iconic painting",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/News18-3-2026-06-09757da5fb91e72d248902c20a74479f-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-06-07T19:03:28+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0541485c8587616a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

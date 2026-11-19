@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "id": "e4f4854dc3d86999",
@@ -121,6 +121,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4702b05ab7dad019",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "ccf541a794c24124",
+      "url": "https://www.news18.com/viral/woman-wins-rs-19-crore-lottery-with-20-ticket-during-lunch-break-goes-back-to-work-as-if-nothing-happened-ws-l-10353045.html",
+      "title_en": "Woman Wins Rs 19 Crore Lottery With $20 Ticket During Lunch Break, Goes Back To Work As If Nothing Happened",
+      "title_zh": null,
+      "summary_en": "A Virginia woman won a $2 million lottery prize after buying a $20 scratch-off ticket during her lunch break, but she quietly returned to work before celebrating her win.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2026-09-25T175222.755-2026-09-4cc515530f7be3933929aa10a6b850ae-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-26T10:32:36+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ccf541a794c24124",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

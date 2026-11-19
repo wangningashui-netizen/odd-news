@@ -1,0 +1,32 @@
+{
+  "date": "2024-09-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "110cbb78fa6b6af7",
+      "url": "https://www.news18.com/viral/dog-joins-ganesh-chaturthi-celebrations-in-festive-attire-internet-says-made-my-day-9042688.html",
+      "title_en": "Dog Joins Ganesh Chaturthi Celebrations In Festive Attire, Internet Says ‘Made My Day’",
+      "title_zh": null,
+      "summary_en": "In the video, Sheru, can be seen dressed for the occasion as he takes part in welcoming Ganpati with the same devotion as humans.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/09/untitled-design-2024-09-07t170537.959-2024-09-d8f6ad7135bc4a8046d626c79ba692e6-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-09-07T19:37:40+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "110cbb78fa6b6af7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

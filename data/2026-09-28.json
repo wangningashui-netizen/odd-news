@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "509d6302658a1e6d",
@@ -24,6 +24,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "509d6302658a1e6d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "00def6feb5296c8f",
+      "url": "https://www.news18.com/viral/hyderabad-techie-shares-struggle-to-find-new-job-blames-ai-for-tough-market-no-calls-are-coming-ws-l-10356428.html",
+      "title_en": "Hyderabad Techie Shares Struggle To Find New Job, Blames AI For 'Tough Market': ‘No Calls Are Coming’",
+      "title_zh": null,
+      "summary_en": "The techie shared that he changed four companies in four years and never faced any problem, but ever since the growing use of AI, finding a suitable job has been a challenge",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/News18-1-2026-09-202c4344e4baba02847837353c4616d8-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-28T14:03:04+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "00def6feb5296c8f",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

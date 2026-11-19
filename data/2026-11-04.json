@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "Asia/Shanghai",
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "id": "46eb83c4c2910d2b",
@@ -160,6 +160,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "7ea7ee25f5f1e71e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "f7666b87ea7b1291",
+      "url": "https://www.news18.com/viral/is-bittu-tabahi-paying-the-price-for-reviving-ajnar-river-21-year-old-battles-skin-problems-after-second-clean-up-drive-ws-l-10412649.html",
+      "title_en": "Is Bittu Tabahi Paying The Price For Reviving Ajnar River? 21-Year-Old Battles Skin Problems After Second C",
+      "title_zh": null,
+      "summary_en": "A 21-year-old student cleaning Madhya Pradesh’s Ajnar river has developed skin problems from exposure to polluted water but remains determined to continue his mission",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-12-2026-11-dfabbb7ad52977333f33e3ff5a55d35a-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-04T19:21:20+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f7666b87ea7b1291",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

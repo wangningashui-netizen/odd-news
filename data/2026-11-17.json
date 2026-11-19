@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
   "timezone": "Asia/Shanghai",
-  "count": 171,
+  "count": 173,
   "items": [
     {
       "id": "1cc1419f37400192",
@@ -243,8 +243,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "66fd0ffbca535f56",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "834555839994879d",
@@ -532,8 +532,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ad787a0e15de83a9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "3a74c28bccf01067",
@@ -607,8 +607,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 6,
-      "cluster_source_count": 3
+      "cluster_item_count": 9,
+      "cluster_source_count": 4
     },
     {
       "id": "828031db4412f780",
@@ -1093,8 +1093,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 6,
-      "cluster_source_count": 3
+      "cluster_item_count": 9,
+      "cluster_source_count": 4
     },
     {
       "id": "3b132ae180b0327f",
@@ -1193,8 +1193,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "e4a62bf87859dc2f",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "ccfd0a7ecbbb53c9",
@@ -1218,8 +1218,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 6,
-      "cluster_source_count": 3
+      "cluster_item_count": 9,
+      "cluster_source_count": 4
     },
     {
       "id": "4cff6ee8bd279a05",
@@ -1658,8 +1658,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 6,
-      "cluster_source_count": 3
+      "cluster_item_count": 9,
+      "cluster_source_count": 4
     },
     {
       "id": "4c388d133d0a0df5",
@@ -2175,9 +2175,9 @@
       ],
       "tag_source": "rules",
       "source_region": "印度",
-      "cluster_id": "5b20809781756faa",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "20b4835a7ab19fe1",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "d316ebe6f4efd68a",
@@ -2256,6 +2256,31 @@
       "cluster_id": "32f8cd2f18988c13",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "20b4835a7ab19fe1",
+      "url": "https://www.republicworld.com/business/nvidia-sets-up-new-board-committee-to-oversee-national-security-export-controls-and-global-trade-risks-2026-11-17-141246",
+      "title_en": "NVIDIA Sets Up New Board Committee to Oversee National Security, Export Controls and Global Trade Risks",
+      "title_zh": null,
+      "summary_en": "NVIDIA has established a new board committee to oversee national security policies, export control compliance and global trade risks, with director Suzanne Nora Johnson appointed as chair.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/jensen-huang-built-company-that-powers-ai-now-nvidia-must-find-a-way-forward-without-him-1794547581465-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-17T18:48:07+08:00",
+      "fetched_at": "2026-11-19T12:02:55+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "20b4835a7ab19fe1",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "e65877c065cedd21",
@@ -2903,11 +2928,11 @@
       "url": "https://www.ndtv.com/offbeat/king-charles-stops-by-tiktok-famous-food-van-reveals-his-favourite-potato-dish-12338043",
       "title_en": "King Charles Meets TikTok-Famous Spud Bros, Reveals Favourite Potato Topping",
       "title_zh": null,
-      "summary_en": "",
+      "summary_en": "To mark the royal visit, Jacob and Harley had prepared a special dish for the King, which they called the Royal Spud.",
       "summary_zh": null,
       "translation_status": "pending",
-      "image": null,
-      "image_checked": false,
+      "image": "https://c.ndtvimg.com/2026-11/pnkqfsgo_king-charles-iii_625x300_17_November_26.jpeg",
+      "image_checked": true,
       "source": "NDTV Offbeat",
       "source_id": "ndtv-offbeat",
       "region": "印度",
@@ -2921,7 +2946,8 @@
       "source_region": "印度",
       "cluster_id": "1e6f8eb89da17f8c",
       "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_source_count": 2,
+      "page_fetched": true
     },
     {
       "id": "facc682ba6e37cb3",
@@ -3019,6 +3045,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a6e408bca72b1650",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "a5117cea9e8dbd8b",
+      "url": "https://www.news18.com/viral/i-was-scammed-passenger-claims-rapido-driver-took-500-cash-faked-380-refund-using-qr-code-ws-l-10428856.html",
+      "title_en": "'I Was Scammed': Passenger Claims Rapido Driver Took ₹500 Cash, Faked ₹380 Refund Using QR Code",
+      "title_zh": null,
+      "summary_en": "A Rapido passenger alleged that a driver faked a ₹380 UPI refund after collecting ₹500 in cash, prompting the user to warn others about the alleged scam",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-7-2026-11-8e2f9cd9e290265aadad72973a99f08a-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-17T16:50:53+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "诈骗骗局"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a5117cea9e8dbd8b",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3121,8 +3172,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 6,
-      "cluster_source_count": 3
+      "cluster_item_count": 9,
+      "cluster_source_count": 4
     },
     {
       "id": "6d842515b88ed927",
@@ -3976,7 +4027,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 4,
-      "reddit_comments": 2
+      "reddit_comments": 4
     },
     {
       "id": "b647cda6d5779b0e",
@@ -4103,7 +4154,7 @@
       "cluster_id": "12e9a22de50871f0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 301,
+      "reddit_score": 343,
       "reddit_comments": 41
     },
     {
@@ -4333,7 +4384,7 @@
       "cluster_id": "696c33e46cf7ebe8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 23,
+      "reddit_score": 26,
       "reddit_comments": 13
     },
     {
@@ -4497,10 +4548,10 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 6,
-      "cluster_source_count": 3,
-      "reddit_score": 861,
-      "reddit_comments": 29
+      "cluster_item_count": 9,
+      "cluster_source_count": 4,
+      "reddit_score": 1048,
+      "reddit_comments": 41
     },
     {
       "id": "4cadf38b1a86c046",
@@ -4577,8 +4628,8 @@
       "cluster_id": "c7bb6d2de93cff81",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 102,
-      "reddit_comments": 9
+      "reddit_score": 109,
+      "reddit_comments": 10
     },
     {
       "id": "f0356b13635914a1",
@@ -4605,7 +4656,7 @@
       "cluster_id": "f0356b13635914a1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 108,
+      "reddit_score": 112,
       "reddit_comments": 9
     },
     {
@@ -4655,8 +4706,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "49f9dd0ff9971b2b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "3c01d680bd33f452",
@@ -4758,8 +4809,8 @@
       "cluster_id": "e04ebaf5efe08bd5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1079,
-      "reddit_comments": 52
+      "reddit_score": 1121,
+      "reddit_comments": 56
     },
     {
       "id": "6fe6d9a75426df6f",
@@ -4811,8 +4862,8 @@
       "cluster_id": "8183a45561ab09e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 15,
-      "reddit_comments": 12
+      "reddit_score": 16,
+      "reddit_comments": 13
     },
     {
       "id": "5cc2f314ac7ce217",
@@ -4840,7 +4891,7 @@
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": 270,
-      "reddit_comments": 74
+      "reddit_comments": 76
     },
     {
       "id": "b2e28ad8376d690e",
@@ -5520,7 +5571,7 @@
       "cluster_id": "bf587e9d835539bf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
+      "reddit_score": 16,
       "reddit_comments": 2
     },
     {
@@ -6118,8 +6169,8 @@
       "cluster_id": "331ff53075595812",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 625,
-      "reddit_comments": 71
+      "reddit_score": 674,
+      "reddit_comments": 82
     },
     {
       "id": "a67e148969da2fad",
@@ -6146,7 +6197,7 @@
       "cluster_id": "9deb6e1e261c6b4d",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 53,
+      "reddit_score": 67,
       "reddit_comments": 1
     },
     {
@@ -6198,8 +6249,8 @@
       "cluster_id": "4fa64b8c9097ac6f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 50,
-      "reddit_comments": 25
+      "reddit_score": 54,
+      "reddit_comments": 26
     },
     {
       "id": "21415a1298cae26d",
@@ -6226,7 +6277,7 @@
       "cluster_id": "21415a1298cae26d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 85,
+      "reddit_score": 96,
       "reddit_comments": 14
     },
     {
@@ -6254,8 +6305,8 @@
       "cluster_id": "c9e3d9ede5c26e8e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 41,
-      "reddit_comments": 12
+      "reddit_score": 43,
+      "reddit_comments": 13
     },
     {
       "id": "95e13f0a55f78fc2",
@@ -6282,8 +6333,8 @@
       "cluster_id": "95e13f0a55f78fc2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 13,
-      "reddit_comments": 4
+      "reddit_score": 16,
+      "reddit_comments": 6
     }
   ]
 }

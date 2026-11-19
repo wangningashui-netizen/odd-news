@@ -1,6 +1,6 @@
 {
   "month": "2023-05",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "8f63259ea3917fd9",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/employee-shares-gopi-bahu-meme-for-late-login-boss-reply-steals-the-show-7919173.html",
       "translation_status": "pending",
       "cluster_id": "8f63259ea3917fd9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "8a6d4fcec56fe6f7",
+      "date": "2023-05-25",
+      "published_at": "2023-05-25T16:57:14+08:00",
+      "title_zh": null,
+      "title_en": "Mystery Behind Rare Extra Crease In Pinky Finger; What Does It Mean?",
+      "summary_zh": null,
+      "summary_en": "Out of the 1102 little fingers examined in a study conducted in 1978, only four individuals had an extra crease on the little finger.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/05/news18-1-29-168500487216x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/mystery-behind-rare-extra-crease-in-pinky-finger-what-does-it-mean-7912087.html",
+      "translation_status": "pending",
+      "cluster_id": "8a6d4fcec56fe6f7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

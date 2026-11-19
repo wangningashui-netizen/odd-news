@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "da6ddfd32e681d13",
@@ -41,6 +41,28 @@
       "url": "https://www.news18.com/viral/melody-hai-chocolatey-the-story-behind-indias-most-iconic-toffee-ad-ws-l-10102313.html",
       "translation_status": "fallback",
       "cluster_id": "dc90537e4f25fd09",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e910f7f721e8b42d",
+      "date": "2026-05-10",
+      "published_at": "2026-05-10T17:49:34+08:00",
+      "title_zh": null,
+      "title_en": "'She Is Dead To Me': Husband Performs ‘Pind Daan’ For Living Wife Over Instagram Reels; Watch Video",
+      "summary_zh": null,
+      "summary_en": "A husband in a viral clip takes 'social media detoxification' to a literal extreme by performing his wife’s funeral rites",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/Viral-video-13-2026-05-9882ba7a6dc4e6d4710aa0053b3a6884-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/she-is-dead-to-me-husband-performs-pind-daan-for-living-wife-over-instagram-reels-watch-video-10083824.html",
+      "translation_status": "pending",
+      "cluster_id": "e910f7f721e8b42d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

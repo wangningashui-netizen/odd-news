@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "count": 4,
+  "count": 5,
   "items": [
     {
       "id": "78ba60bbb292dde1",
@@ -63,6 +63,28 @@
       "url": "https://www.news18.com/viral/only-one-country-on-earth-still-has-both-wild-lions-and-tigers-do-you-know-which-ws-l-10130423.html",
       "translation_status": "pending",
       "cluster_id": "601a6602f0ec9134",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0541485c8587616a",
+      "date": "2026-06-07",
+      "published_at": "2026-06-07T19:03:28+08:00",
+      "title_zh": null,
+      "title_en": "'Majnu Bhai Is The OG Artist': Viral Goat-On-A-Donkey Video Reminds Fans Of Iconic Scene From Welcome Nearl",
+      "summary_zh": null,
+      "summary_en": "A viral video of a goat standing on a donkey while eating leaves has left Welcome fans in splits, with many comparing the scene to Majnu Bhai's iconic painting",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/News18-3-2026-06-09757da5fb91e72d248902c20a74479f-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/majnu-bhai-is-the-og-artist-viral-goat-on-a-donkey-video-reminds-fans-of-iconic-scene-from-welcome-nearly-20-years-later-ws-l-10135110.html",
+      "translation_status": "pending",
+      "cluster_id": "0541485c8587616a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

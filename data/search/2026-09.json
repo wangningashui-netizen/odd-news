@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "count": 46,
+  "count": 49,
   "items": [
     {
       "id": "2b5839571a333b4e",
@@ -240,6 +240,28 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/man-quits-indian-food-fitness-journey-canada-10897563/",
       "translation_status": "fallback",
       "cluster_id": "509d6302658a1e6d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "00def6feb5296c8f",
+      "date": "2026-09-28",
+      "published_at": "2026-09-28T14:03:04+08:00",
+      "title_zh": null,
+      "title_en": "Hyderabad Techie Shares Struggle To Find New Job, Blames AI For 'Tough Market': ‘No Calls Are Coming’",
+      "summary_zh": null,
+      "summary_en": "The techie shared that he changed four companies in four years and never faced any problem, but ever since the growing use of AI, finding a suitable job has been a challenge",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/News18-1-2026-09-202c4344e4baba02847837353c4616d8-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/hyderabad-techie-shares-struggle-to-find-new-job-blames-ai-for-tough-market-no-calls-are-coming-ws-l-10356428.html",
+      "translation_status": "pending",
+      "cluster_id": "00def6feb5296c8f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -505,6 +527,28 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/pm-narendra-modi-bhajan-clubbing-delhi-deendayal-upadhyaya-birth-anniversary-10894733/",
       "translation_status": "fallback",
       "cluster_id": "4702b05ab7dad019",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ccf541a794c24124",
+      "date": "2026-09-26",
+      "published_at": "2026-09-26T10:32:36+08:00",
+      "title_zh": null,
+      "title_en": "Woman Wins Rs 19 Crore Lottery With $20 Ticket During Lunch Break, Goes Back To Work As If Nothing Happened",
+      "summary_zh": null,
+      "summary_en": "A Virginia woman won a $2 million lottery prize after buying a $20 scratch-off ticket during her lunch break, but she quietly returned to work before celebrating her win.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-2026-09-25T175222.755-2026-09-4cc515530f7be3933929aa10a6b850ae-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/woman-wins-rs-19-crore-lottery-with-20-ticket-during-lunch-break-goes-back-to-work-as-if-nothing-happened-ws-l-10353045.html",
+      "translation_status": "pending",
+      "cluster_id": "ccf541a794c24124",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -990,6 +1034,28 @@
       "url": "https://www.news18.com/viral/racism-in-india-foreigner-questions-paying-more-at-dilli-haat-social-media-pushes-back-ws-l-10310434.html",
       "translation_status": "pending",
       "cluster_id": "420c3900386b94c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5f229264792dfd6a",
+      "date": "2026-09-04",
+      "published_at": "2026-09-04T14:21:57+08:00",
+      "title_zh": null,
+      "title_en": "Chello Meme Gifts Samay Raina Traditional Attire In Heartwarming Reunion After Viral Roast: ‘Arunachal Love",
+      "summary_zh": null,
+      "summary_en": "In the video that she shared, Chello Meme and Samay Raina were seen laughing during their meeting, with Chello even gifting him some traditional gifts from Arunachal",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/News18-1-1-2026-09-5c4d637d3aa5963318f6738c8d632e4e-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/chello-meme-gifts-samay-raina-traditional-attire-in-heartwarming-reunion-after-viral-roast-arunachal-loves-you-ws-l-10309797.html",
+      "translation_status": "pending",
+      "cluster_id": "5f229264792dfd6a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

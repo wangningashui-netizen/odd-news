@@ -1,0 +1,32 @@
+{
+  "date": "2024-04-18",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "0b0248de94c68b08",
+      "url": "https://www.news18.com/viral/dont-give-up-ias-jitin-yadav-shares-his-inspirational-journey-to-motivate-aspirants-8857406.html",
+      "title_en": "‘Don’t Give Up’: IAS Jitin Yadav Shares His Inspirational Journey To Motivate Aspirants",
+      "title_zh": null,
+      "summary_en": "IAS officer Jitin Yadav shared a tweet and urged aspirants to never give up and be proud that they have come so far.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-2024-04-18t180107.968-2024-04-bf8d4e2c51c029e873afe60ba52a4925-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-04-18T20:32:58+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0b0248de94c68b08",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

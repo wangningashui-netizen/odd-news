@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-10",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "e910f7f721e8b42d",
+      "url": "https://www.news18.com/viral/she-is-dead-to-me-husband-performs-pind-daan-for-living-wife-over-instagram-reels-watch-video-10083824.html",
+      "title_en": "'She Is Dead To Me': Husband Performs ‘Pind Daan’ For Living Wife Over Instagram Reels; Watch Video",
+      "title_zh": null,
+      "summary_en": "A husband in a viral clip takes 'social media detoxification' to a literal extreme by performing his wife’s funeral rites",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/Viral-video-13-2026-05-9882ba7a6dc4e6d4710aa0053b3a6884-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-05-10T17:49:34+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e910f7f721e8b42d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

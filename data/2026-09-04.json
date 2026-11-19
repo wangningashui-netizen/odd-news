@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "420c3900386b94c7",
@@ -25,6 +25,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "420c3900386b94c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5f229264792dfd6a",
+      "url": "https://www.news18.com/viral/chello-meme-gifts-samay-raina-traditional-attire-in-heartwarming-reunion-after-viral-roast-arunachal-loves-you-ws-l-10309797.html",
+      "title_en": "Chello Meme Gifts Samay Raina Traditional Attire In Heartwarming Reunion After Viral Roast: ‘Arunachal Love",
+      "title_zh": null,
+      "summary_en": "In the video that she shared, Chello Meme and Samay Raina were seen laughing during their meeting, with Chello even gifting him some traditional gifts from Arunachal",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/News18-1-1-2026-09-5c4d637d3aa5963318f6738c8d632e4e-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-04T14:21:57+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5f229264792dfd6a",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

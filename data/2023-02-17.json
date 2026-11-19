@@ -1,0 +1,32 @@
+{
+  "date": "2023-02-17",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "4c75f4a331614636",
+      "url": "https://www.news18.com/buzz/watch-this-dress-made-of-sacks-costs-a-bomb-and-internet-is-stunned-7103389.html",
+      "title_en": "Watch: This Dress Made Of Sacks Costs A Bomb And Internet Is Stunned",
+      "title_zh": null,
+      "summary_en": "The sacks which we use in our daily household, to store wheat and rice, are now used to make dresses.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/02/news18-8-11-167661452716x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-02-17T14:19:59+08:00",
+      "fetched_at": "2026-11-19T12:02:47+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4c75f4a331614636",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

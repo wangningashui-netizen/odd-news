@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "12ce5fa95061a5c9",
@@ -42,6 +42,28 @@
       "url": "https://www.ladbible.com/news/world-news/india-teen-living-ponds-iqbal-sheikh-skin-condition-erythromelalgia-086671-20260823",
       "translation_status": "fallback",
       "cluster_id": "daccb8502da62bb5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "fbbf1511e9645457",
+      "date": "2026-08-22",
+      "published_at": "2026-08-22T19:51:26+08:00",
+      "title_zh": null,
+      "title_en": "Chennai Woman With ₹1.05 Crore Portfolio Asks If She Can Quit Work: 'I Want To Retire At 40-42'",
+      "summary_zh": null,
+      "summary_en": "A 32-year-old Chennai woman with a Rs 1.05 crore investment portfolio wants to retire by 40-42. Her savings strategy has sparked debate online",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/Untitled-design-11-2026-08-32eb6a521b624d583f83b61fbfa3c2dc-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/chennai-woman-with-1-05-crore-portfolio-asks-if-she-can-quit-work-i-want-to-retire-at-40-42-ws-l-10287899.html",
+      "translation_status": "pending",
+      "cluster_id": "fbbf1511e9645457",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
