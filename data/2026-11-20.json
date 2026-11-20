@@ -1,8 +1,609 @@
 {
   "date": "2026-11-20",
   "timezone": "Asia/Shanghai",
-  "count": 20,
+  "count": 26,
   "items": [
+    {
+      "id": "185b082b51a9a552",
+      "url": "https://x.com/SupriyaShrinate/status/2123783956177064277",
+      "title_en": "राजस्थान पंचायत चुनावों में कांग्रेस की ऐतिहासिक जीत ✨👍🎉🥳👏🙌🏼 पंचायत समिति कांग्रेस: 𝟐𝟔𝟑 BJP: 𝟔𝟕 ज़िला परिषद कांग्रेस: 𝟐𝟓 BJP: 𝟗 🇮🇳🇮🇳🇮🇳 https://t.co/L44NTYiGLX",
+      "title_zh": "拉贾斯坦邦乡村选举计票：国大党称大胜，区级委员会席位263比67",
+      "summary_en": "राजस्थान पंचायत चुनावों में कांग्रेस की ऐतिहासिक जीत ✨👍🎉🥳👏🙌🏼\n\nपंचायत समिति\nकांग्रेस: 𝟐𝟔𝟑\nBJP: 𝟔𝟕 \n\nज़िला परिषद \nकांग्रेस: 𝟐𝟓\nBJP: 𝟗\n\n🇮🇳🇮🇳🇮🇳 https://t.co/L44NTYiGLX",
+      "summary_zh": "国大党社交媒体负责人苏普丽娅·什里纳特发帖庆祝拉贾斯坦邦潘查亚特（乡村自治）选举“历史性胜利”：区级委员会（Panchayat Samiti）国大党263席、印人党67席；县议会（Zila Parishad）国大党25席、印人党9席。评论区有人调侃：“国大党赢了叫历史性胜利，印人党赢了就叫偷票。”",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-20T22:22:07+08:00",
+      "fetched_at": "2026-11-21T06:36:51+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2123783956177064277",
+        "lang": "hi",
+        "text": "राजस्थान पंचायत चुनावों में कांग्रेस की ऐतिहासिक जीत ✨👍🎉🥳👏🙌🏼\n\nपंचायत समिति\nकांग्रेस: 𝟐𝟔𝟑\nBJP: 𝟔𝟕 \n\nज़िला परिषद \nकांग्रेस: 𝟐𝟓\nBJP: 𝟗\n\n🇮🇳🇮🇳🇮🇳 https://t.co/L44NTYiGLX",
+        "author": {
+          "name": "Supriya Shrinate",
+          "username": "SupriyaShrinate",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1743912155081252864/t7b97Co3_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/avatar.jpg"
+        },
+        "created_at": "2026-11-20T14:22:07.000Z",
+        "public_metrics": {
+          "reply_count": 332,
+          "repost_count": 900,
+          "like_count": 4448,
+          "quote_count": 51,
+          "bookmark_count": 30,
+          "impression_count": 62802
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/photo-2.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/SupriyaShrinate/status/2123783956177064277",
+        "ytdlp_command": "yt-dlp https://x.com/SupriyaShrinate/status/2123783956177064277",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2123797579532304696",
+            "author": {
+              "name": "The Hind Manifestation",
+              "username": "TheHindManifest",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2081442910562631680/ZsGqgORL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/avatars/TheHindManifest.jpg"
+            },
+            "text": "@SupriyaShrinate मोदी सरकार की कड़ी निंदा होनी चाहिए की “EVM” हैक नहीं किया गया राजस्थान में। \n\nखांग्रेस जीते तो ऐतिहासिक, भाजपा जीते तो वोट चोरी। https://t.co/PfFe0hVX9g",
+            "created_at": "2026-11-20T15:16:15.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 4,
+              "like_count": 7,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 604
+            },
+            "in_reply_to_id": "2123783956177064277"
+          },
+          {
+            "id": "2123797345938948178",
+            "author": {
+              "name": "Om Prakash Meghwanshi",
+              "username": "Omprakashmegh1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119840190764380160/pKm3rTRC_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/avatars/Omprakashmegh1.jpg"
+            },
+            "text": "@SupriyaShrinate भीलवाड़ा 16 में से 13 प्रधान कांग्रेस के! बधाई हो @RamlaljatINC https://t.co/V5YW8Ob0Tp",
+            "created_at": "2026-11-20T15:15:20.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 482
+            },
+            "in_reply_to_id": "2123783956177064277"
+          },
+          {
+            "id": "2123903327578780031",
+            "author": {
+              "name": "Nitin Ramesh Mathur",
+              "username": "Nitin1524",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1835325956925394944/PqgnRjUk_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/avatars/Nitin1524.jpg"
+            },
+            "text": "@SupriyaShrinate जी हाँ हम हार गए है, चलो लेकिन EVM जीत गई है, ज्ञानेश कुमार जी ईमानदार साबित हुए, SIR भी करवाई जा सकती है। और कांग्रेस चोर थी चोर है चोर रहेगी 😅",
+            "created_at": "2026-11-20T22:16:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2123783956177064277"
+          },
+          {
+            "id": "2123897218260476055",
+            "author": {
+              "name": "The Sensible Aviator",
+              "username": "MarwariTrader",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1556876084641013762/hzGr2L4Y_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123783956177064277/avatars/MarwariTrader.jpg"
+            },
+            "text": "@SupriyaShrinate Finally something to rejoice\n Dont cry foul when u loose state elections. \nYour truly\nIndian Citizen",
+            "created_at": "2026-11-20T21:52:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2123783956177064277"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "c2895696de340e7f204b85a5e66d6cc330bb1e3b",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "185b082b51a9a552",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "badbb3fe034b62a4",
+      "url": "https://x.com/SupriyaShrinate/status/2123778338716307497",
+      "title_en": "प्रधानमंत्री मोदी से तीन सीट दूर बैठे पाकिस्तान के इस मंत्री ने “हिंदुस्तान का हाथ काटने” “हिंदुस्तान का खून बहाने” की बात की थी लानत है आप पर मोदी जी आप कितने compromised हैं 😡😖 https://t.co/DWoXcYAb3P",
+      "title_zh": "国大党社媒主管：扬言“砍断印度的手”的巴基斯坦部长，就坐在离莫迪三个座位远的地方",
+      "summary_en": "प्रधानमंत्री मोदी से तीन सीट दूर बैठे पाकिस्तान के इस मंत्री ने “हिंदुस्तान का हाथ काटने” “हिंदुस्तान का खून बहाने” की बात की थी\n\nलानत है आप पर मोदी जी \n\nआप कितने compromised हैं 😡😖 https://t.co/DWoXcYAb3P",
+      "summary_zh": "国大党社交媒体负责人苏普丽娅·什里纳特发图，用红圈圈出莫迪和隔着三个座位的一名巴基斯坦部长，称此人曾扬言要“砍断印度的手”“让印度流血”，并写道“真丢人，莫迪先生，您是有多被收买”。当天莫迪出席在新德里举办的上合组织文明对话论坛，巴方也受邀参加；国大党同日另发帖点名该部长为穆萨迪克·马利克。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-20T21:59:48+08:00",
+      "fetched_at": "2026-11-21T06:36:48+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2123778338716307497",
+        "lang": "hi",
+        "text": "प्रधानमंत्री मोदी से तीन सीट दूर बैठे पाकिस्तान के इस मंत्री ने “हिंदुस्तान का हाथ काटने” “हिंदुस्तान का खून बहाने” की बात की थी\n\nलानत है आप पर मोदी जी \n\nआप कितने compromised हैं 😡😖 https://t.co/DWoXcYAb3P",
+        "author": {
+          "name": "Supriya Shrinate",
+          "username": "SupriyaShrinate",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1743912155081252864/t7b97Co3_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/avatar.jpg"
+        },
+        "created_at": "2026-11-20T13:59:48.000Z",
+        "public_metrics": {
+          "reply_count": 319,
+          "repost_count": 716,
+          "like_count": 3195,
+          "quote_count": 50,
+          "bookmark_count": 36,
+          "impression_count": 76105
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/SupriyaShrinate/status/2123778338716307497",
+        "ytdlp_command": "yt-dlp https://x.com/SupriyaShrinate/status/2123778338716307497",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2123791685213712574",
+            "author": {
+              "name": "Rajender Mittal",
+              "username": "RajendeSB",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1849407570290561024/FnC8NRQY_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/avatars/RajendeSB.jpg"
+            },
+            "text": "@SupriyaShrinate यह बात तो सरकार की हमें भी नहीं अच्छी लगी पाकिस्तान के मंत्री को बुलाने की क्या आवश्यकता क्या थी",
+            "created_at": "2026-11-20T14:52:50.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 1,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1157
+            },
+            "in_reply_to_id": "2123778338716307497"
+          },
+          {
+            "id": "2123790155660296620",
+            "author": {
+              "name": "Rajan Clement Sah",
+              "username": "clement_sah",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2097715723430957056/qYbRNX9k_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/avatars/clement_sah.jpg"
+            },
+            "text": "सुप्रिया जी, अंतरराष्ट्रीय सम्मेलन में कुर्सियों की दूरी और प्रोटोकॉल को 'विदेश नीति' और 'कॉम्प्रोमाइज' का प्रमाणपत्र बनाने की आपकी यह कला वाकई अद्भुत है! लगता है अब वैश्विक मंचों पर बैठने की व्यवस्था भी मेजबान के बजाय विपक्ष के 'कैमरा एंगल' से तय होनी चाहिए!\n\nभारत की कूटनीति और सुरक्षा दोनों मजबूत हाथों में हैं, इसके लिए किसी 'तीन-सीट वाले सर्टिफिकेट' की जरूरत नहीं है। आप यूं ही 'फोटो-विश्लेषण' जारी रखिए, देश की जनता सब समझती है!",
+            "created_at": "2026-11-20T14:46:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2123778338716307497"
+          },
+          {
+            "id": "2123790473882116571",
+            "author": {
+              "name": "Uttarakhandi",
+              "username": "Vial482799831",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2081693843884560385/ulk6ykOT_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123778338716307497/avatars/Vial482799831.jpg"
+            },
+            "text": "@SupriyaShrinate लानत तो कांग्रेस पर हैं जिसने 26/11 आतंकी हमले का बदला क्रिकेट मैच नहीं खेल कर लिया।",
+            "created_at": "2026-11-20T14:48:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 308
+            },
+            "in_reply_to_id": "2123778338716307497"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "f390fb57c9a5ac6d38017ea71b2356a64951478f",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "badbb3fe034b62a4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "bc3e931076fe64e6",
+      "url": "https://x.com/aajtak/status/2123730812973813911",
+      "title_en": "उत्तर प्रदेश के शामली में प्रेमी की दूसरी शादी की खबर सुनकर एक युवती ढोल-नगाड़े और वरमाला लेकर उसके घर पहुंच गई। देहरादून से अपने परिजनों के साथ आई युवती ने प्रेमी अंकुश से शादी करने की जिद पकड़ ली और घर के बाहर जमकर हंगामा किया। इस दौरान दोनों परिवारों के बीच तीखी नोकझोंक भी हुई। युवती सोनिया का दा",
+      "title_zh": "北方邦女子听说男友要娶别人，带着鼓乐队和花环上门逼婚",
+      "summary_en": "उत्तर प्रदेश के शामली में प्रेमी की दूसरी शादी की खबर सुनकर एक युवती ढोल-नगाड़े और वरमाला लेकर उसके घर पहुंच गई। देहरादून से अपने परिजनों के साथ आई युवती ने प्रेमी अंकुश से शादी करने की जिद पकड़ ली और घर के बाहर जमकर हंगामा किया। इस दौरान दोनों परिवारों के बीच तीखी नोकझोंक भी हुई।\n\nयुवती सोनिया का दावा है कि वह 2016 से अंकुश के साथ रिलेशनशिप में है और उसने उससे शादी का वादा किया था। सोनिया के मुताबिक, अंकुश ने 2019 के बाद उससे बातचीत बंद कर दी थी। अब उसे पता चला कि अंकुश 21 नवंबर को दूसरी युवती से शादी करने जा रहा है। इसी के बाद वह वरमाला लेकर उसके घर पहुंच गई। हंगामे की सूचना पर पुलिस मौके पर पहुंची और युवती को परिजनों के साथ चौकी ले गई।\n\n#AajTakSocial #ATReel #Shamli #UttarPradesh LoveStory LoveDrama WeddingDrama Girlfriend Boyfriend Marriage HighVoltageDrama Viral",
+      "summary_zh": "《今日印度》旗下Aaj Tak报道，北方邦沙姆利一名女子得知前男友要另娶他人，带着家人从德拉敦赶来，敲锣打鼓、拿着婚礼花环到对方家门口，坚持要和男友安库什结婚，两家人当场激烈争吵。女子索尼娅称两人自2016年起恋爱，对方承诺娶她，2019年后却不再联系；她得知安库什将于11月21日与另一名女子结婚后便找上门。警方接报后到场，把她和家人带到了警察岗亭。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123730812973813911/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-20T18:50:57+08:00",
+      "fetched_at": "2026-11-21T06:37:06+08:00",
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2123730812973813911",
+        "lang": "hi",
+        "text": "उत्तर प्रदेश के शामली में प्रेमी की दूसरी शादी की खबर सुनकर एक युवती ढोल-नगाड़े और वरमाला लेकर उसके घर पहुंच गई। देहरादून से अपने परिजनों के साथ आई युवती ने प्रेमी अंकुश से शादी करने की जिद पकड़ ली और घर के बाहर जमकर हंगामा किया। इस दौरान दोनों परिवारों के बीच तीखी नोकझोंक भी हुई।\n\nयुवती सोनिया का दावा है कि वह 2016 से अंकुश के साथ रिलेशनशिप में है और उसने उससे शादी का वादा किया था। सोनिया के मुताबिक, अंकुश ने 2019 के बाद उससे बातचीत बंद कर दी थी। अब उसे पता चला कि अंकुश 21 नवंबर को दूसरी युवती से शादी करने जा रहा है। इसी के बाद वह वरमाला लेकर उसके घर पहुंच गई। हंगामे की सूचना पर पुलिस मौके पर पहुंची और युवती को परिजनों के साथ चौकी ले गई।\n\n#AajTakSocial #ATReel #Shamli #UttarPradesh LoveStory LoveDrama WeddingDrama Girlfriend Boyfriend Marriage HighVoltageDrama Viral",
+        "author": {
+          "name": "AajTak",
+          "username": "aajtak",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1395254075285860354/LG45JNi8_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123730812973813911/avatar.jpg"
+        },
+        "created_at": "2026-11-20T10:50:57.000Z",
+        "public_metrics": {
+          "reply_count": 0,
+          "repost_count": 3,
+          "like_count": 38,
+          "quote_count": 0,
+          "bookmark_count": 1,
+          "impression_count": 9041
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123730812973813911/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2123730756862394368/vid/avc1/720x1280/v37LVo0Ls6-bxB6n.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-21T06:37:06+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/aajtak/status/2123730812973813911",
+        "ytdlp_command": "yt-dlp https://x.com/aajtak/status/2123730812973813911",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123730812973813911/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [],
+        "replies_omitted": 0,
+        "content_sha": "8a2168b2e5e6bb4f74a89a73b288f595e18f1b94",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "bc3e931076fe64e6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "1bcab9bb5ca210f6",
+      "url": "https://x.com/INCIndia/status/2123708145742545055",
+      "title_en": "SD PAY या 'अपना पे' एक मोबाइल ऐप है, इसके जरिए 1,211 करोड़ रुपए का डिजिटल पेमेंट फ्रॉड किया गया है। अगर सही तरीके से इसकी जांच की जाए तो यह फ्रॉड 3,000 करोड़ रुपए से अधिक का निकलकर आएगा। साल 2024 में धवल पटेल और अन्य लोगों ने SD PAY या 'अपना पे' की शुरुआत की और पूरे गुजरात को लूट लिया। यह साफ है - इ",
+      "title_zh": "国大党：支付应用SD PAY在古吉拉特骗走121亿卢比，彻查可能超300亿",
+      "summary_en": "SD PAY या 'अपना पे' एक मोबाइल ऐप है, इसके जरिए 1,211 करोड़ रुपए का डिजिटल पेमेंट फ्रॉड किया गया है। \n\nअगर सही तरीके से इसकी जांच की जाए तो यह फ्रॉड 3,000 करोड़ रुपए से अधिक का निकलकर आएगा।\n\nसाल 2024 में धवल पटेल और अन्य लोगों ने SD PAY या 'अपना पे' की शुरुआत की और पूरे गुजरात को लूट लिया।\n\nयह साफ है - इस फ्रॉड के लिए सीधे तौर पर मोदी सरकार और गुजरात की BJP सरकार जिम्मेदार है।\n\nतकरीबन 3 साल से गुजरात के मेहनतकश लोगों और देशवासियों को लुटवाने के बाद BJP सरकार गहरी नींद में सोई हुई है।\n\n: कांग्रेस महासचिव और गुजरात प्रदेश प्रभारी @rssurjewala जी\n\n📍 गुजरात",
+      "summary_zh": "国大党官方账号发视频，转述国大党总书记、古吉拉特邦负责人苏尔杰瓦拉的说法：一款名为SD PAY（又称“Apna Pay”）的手机应用涉及1211克若尔（约121亿）卢比的数字支付诈骗，若认真调查可能超过3000克若尔（约300亿）卢比。他称该应用由达瓦尔·帕特尔等人在2024年推出，“洗劫了整个古吉拉特”，并指责莫迪政府和古吉拉特印人党政府直接负责，近3年来对此“酣睡不醒”。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-20T17:20:53+08:00",
+      "fetched_at": "2026-11-21T06:36:55+08:00",
+      "tags": [
+        "诈骗骗局",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2123708145742545055",
+        "lang": "hi",
+        "text": "SD PAY या 'अपना पे' एक मोबाइल ऐप है, इसके जरिए 1,211 करोड़ रुपए का डिजिटल पेमेंट फ्रॉड किया गया है। \n\nअगर सही तरीके से इसकी जांच की जाए तो यह फ्रॉड 3,000 करोड़ रुपए से अधिक का निकलकर आएगा।\n\nसाल 2024 में धवल पटेल और अन्य लोगों ने SD PAY या 'अपना पे' की शुरुआत की और पूरे गुजरात को लूट लिया।\n\nयह साफ है - इस फ्रॉड के लिए सीधे तौर पर मोदी सरकार और गुजरात की BJP सरकार जिम्मेदार है।\n\nतकरीबन 3 साल से गुजरात के मेहनतकश लोगों और देशवासियों को लुटवाने के बाद BJP सरकार गहरी नींद में सोई हुई है।\n\n: कांग्रेस महासचिव और गुजरात प्रदेश प्रभारी @rssurjewala जी\n\n📍 गुजरात",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/avatar.jpg"
+        },
+        "created_at": "2026-11-20T09:20:53.000Z",
+        "public_metrics": {
+          "reply_count": 21,
+          "repost_count": 428,
+          "like_count": 1280,
+          "quote_count": 4,
+          "bookmark_count": 23,
+          "impression_count": 58556
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2123705503515856896/vid/avc1/848x480/FwPHro2nT07Iffc9.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-21T06:36:55+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2123708145742545055",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2123708145742545055",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2123710043107520632",
+            "author": {
+              "name": "Pt. Mukesh Tiwari",
+              "username": "PATRIOTNumber01",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1922913886170423296/odZHY4_u_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/avatars/PATRIOTNumber01.jpg"
+            },
+            "text": "@INCIndia ये कोई पहला fraud नहीं है.\nअब ये शातिर हो चुके हैं",
+            "created_at": "2026-11-20T09:28:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 485
+            },
+            "in_reply_to_id": "2123708145742545055"
+          },
+          {
+            "id": "2123807674852860026",
+            "author": {
+              "name": "Shekh bhai",
+              "username": "Shekhbhai9",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1517088682007691264/puNtUqv3_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/avatars/Shekhbhai9.jpg"
+            },
+            "text": "@INCIndia 1,13000 मेरा भी डूब गया है कोई मेरा भी निकलवा दो",
+            "created_at": "2026-11-20T15:56:22.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 143
+            },
+            "in_reply_to_id": "2123708145742545055"
+          },
+          {
+            "id": "2123779078562222504",
+            "author": {
+              "name": "m.hindu",
+              "username": "me_hindu",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1072250731/swastika_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/avatars/me_hindu.jpg"
+            },
+            "text": "@INCIndia Earlier times before 2014 were better because such new technology was not there",
+            "created_at": "2026-11-20T14:02:44.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 123
+            },
+            "in_reply_to_id": "2123708145742545055"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "20e372d166b55671c98be1d70f7f65081cf125c4",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "1bcab9bb5ca210f6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "b4032796e79c991b",
+      "url": "https://x.com/yadavakhilesh/status/2123667122656325753",
+      "title_en": "सुभासपा का भाजपा से छत्तीस का आँकड़ा हो गया है, इसीलिए 36 सीट माँग रहे हैं। ये लिस्ट नहीं है हारते हुए ‘NDA’ गिरोह से बाहर निकलने का बहाना है क्योंकि आधारशून्य हो चुकी सुभासपा को अगर भाजपा 36 सीटें देने पर मजबूर हुई तो बाक़ी दल और बी-पी टीम भी उसी हिसाब से सीटें माँगेंगी… फिर तो भाजपा के पास लड़ने क",
+      "title_zh": "阿克列什嘲讽盟党狮子大开口要36席：“和印人党已经是‘三十六’不对付了”",
+      "summary_en": "सुभासपा का भाजपा से छत्तीस का आँकड़ा हो गया है, इसीलिए 36 सीट माँग रहे हैं। \n\nये लिस्ट नहीं है हारते हुए ‘NDA’ गिरोह से बाहर निकलने का बहाना है क्योंकि आधारशून्य हो चुकी सुभासपा को अगर भाजपा 36 सीटें देने पर मजबूर हुई तो बाक़ी दल और बी-पी टीम भी उसी हिसाब से सीटें माँगेंगी… फिर तो भाजपा के पास लड़ने के लिए लगभग आधी सीटें ही बचेंगी शायद इसीलिए भाजपा के केवल 209 प्रत्याशियों की सूची आई है।",
+      "summary_zh": "北方邦社会党主席阿克列什·亚达夫晒出一份北方邦36个议席的名单，嘲讽执政联盟里的小党苏巴斯帕（SBSP）向印人党要36席。他用印地语俗语“छत्तीस का आँकड़ा”（像3和6一样背对背，意为闹翻）双关说，这不是名单，而是想从“要输的NDA团伙”里脱身的借口；如果印人党被迫给36席，其他盟党也会照此要价，印人党自己就只剩一半席位可选，“也许这就是为什么印人党只公布了209名候选人”。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-20T14:37:52+08:00",
+      "fetched_at": "2026-11-21T06:36:52+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2123667122656325753",
+        "lang": "hi",
+        "text": "सुभासपा का भाजपा से छत्तीस का आँकड़ा हो गया है, इसीलिए 36 सीट माँग रहे हैं। \n\nये लिस्ट नहीं है हारते हुए ‘NDA’ गिरोह से बाहर निकलने का बहाना है क्योंकि आधारशून्य हो चुकी सुभासपा को अगर भाजपा 36 सीटें देने पर मजबूर हुई तो बाक़ी दल और बी-पी टीम भी उसी हिसाब से सीटें माँगेंगी… फिर तो भाजपा के पास लड़ने के लिए लगभग आधी सीटें ही बचेंगी शायद इसीलिए भाजपा के केवल 209 प्रत्याशियों की सूची आई है।",
+        "author": {
+          "name": "Akhilesh Yadav",
+          "username": "yadavakhilesh",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1364807128683143168/Q2hcCtVT_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/avatar.jpg"
+        },
+        "created_at": "2026-11-20T06:37:52.000Z",
+        "public_metrics": {
+          "reply_count": 138,
+          "repost_count": 549,
+          "like_count": 2806,
+          "quote_count": 28,
+          "bookmark_count": 62,
+          "impression_count": 478952
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/yadavakhilesh/status/2123667122656325753",
+        "ytdlp_command": "yt-dlp https://x.com/yadavakhilesh/status/2123667122656325753",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2123753855452369216",
+            "author": {
+              "name": "🇮🇳Jitendra pratap singh🇮🇳",
+              "username": "jpsin1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1127452336685666304/aq57Qj0X_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/avatars/jpsin1.jpg"
+            },
+            "text": "@yadavakhilesh बड़े फर्जी आदमी हो यार\n\nक्या मिलता है झूठा ट्वीट करने से ?? https://t.co/sYYH3ZEYWw",
+            "created_at": "2026-11-20T12:22:31.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 8,
+              "quote_count": 0,
+              "bookmark_count": 1,
+              "impression_count": 890
+            },
+            "in_reply_to_id": "2123667122656325753"
+          },
+          {
+            "id": "2123674918542077990",
+            "author": {
+              "name": "शून्य जनता पार्टी",
+              "username": "Shunyajantaprty",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2116194433175855105/PMVFWsP7_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/avatars/Shunyajantaprty.jpg"
+            },
+            "text": "@yadavakhilesh आपके मित्र राजभर जी तो मुश्किल में पड़ गए हैं!! इस मुश्किल की घड़ी में इनकी \"छड़ी\" कहीं गायब न हो जाए!! 😂🤣😂",
+            "created_at": "2026-11-20T07:08:51.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 782
+            },
+            "in_reply_to_id": "2123667122656325753"
+          },
+          {
+            "id": "2123674294312198193",
+            "author": {
+              "name": "PDA विचार मंच",
+              "username": "VicharManch90",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2114194903479783424/8IKFe0ZA_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123667122656325753/avatars/VicharManch90.jpg"
+            },
+            "text": "@yadavakhilesh सोशल मीडिया पर ओमप्रकाश राजभर की मेहनत को देखते हुए बीजे पार्टी को सुभासपा को 96 सीटें देनी चाहिए।",
+            "created_at": "2026-11-20T07:06:22.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 913
+            },
+            "in_reply_to_id": "2123667122656325753"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "230cee5d90156d1babd3adcc452250c3a2c20f7a",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "b4032796e79c991b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "8285879e78e2731e",
       "url": "https://www.timesnownews.com/india/if-congress-were-in-power-rahul-gandhis-fresh-jibe-at-pm-modi-over-iran-war-article-156539948",
@@ -74,6 +675,156 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d6ba724c448469b0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "3f1a5c754cac8a87",
+      "url": "https://x.com/RahulGandhi/status/2123612385009369295",
+      "title_en": "If Congress were in power, India's Prime Minister would be sitting at this table. A compromised PM can never sit at this table. https://t.co/EpGZVnJPYq",
+      "title_zh": "拉胡尔·甘地晒普京、习近平、特朗普圆桌合照：国大党若执政，印度总理也会坐在这张桌旁",
+      "summary_en": "If Congress were in power, India's Prime Minister would be sitting at this table. \n\nA compromised PM can never sit at this table. https://t.co/EpGZVnJPYq",
+      "summary_zh": "印度人民院反对党领袖拉胡尔·甘地发帖称：“如果国大党执政，印度总理就会坐在这张桌旁。一个被收买（compromised）的总理永远坐不上这张桌子。”配图是普京、习近平和特朗普三人围坐圆桌会谈的照片。帖子获6万多赞、450多万次浏览，评论区有网友回击称这是APEC场合，也有人翻出1950年代印度是否拒绝联合国安理会席位的旧账。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-20T11:00:22+08:00",
+      "fetched_at": "2026-11-21T06:36:43+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2123612385009369295",
+        "lang": "en",
+        "text": "If Congress were in power, India's Prime Minister would be sitting at this table. \n\nA compromised PM can never sit at this table. https://t.co/EpGZVnJPYq",
+        "author": {
+          "name": "Rahul Gandhi",
+          "username": "RahulGandhi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2048691685794930688/AEEaltaE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/avatar.jpg"
+        },
+        "created_at": "2026-11-20T03:00:22.000Z",
+        "public_metrics": {
+          "reply_count": 9071,
+          "repost_count": 11585,
+          "like_count": 60963,
+          "quote_count": 2043,
+          "bookmark_count": 1790,
+          "impression_count": 4576851
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/RahulGandhi/status/2123612385009369295",
+        "ytdlp_command": "yt-dlp https://x.com/RahulGandhi/status/2123612385009369295",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2123622173592170950",
+            "author": {
+              "name": "Abhay Pratap Singh (बहुत सरल हूं)",
+              "username": "IAbhay_Pratap",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1888913337406070785/JD4RexzF_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/avatars/IAbhay_Pratap.jpg"
+            },
+            "text": "@RahulGandhi When Congress Was in Power, Situation of Indian Prime Minister https://t.co/lLLpGtSguI",
+            "created_at": "2026-11-20T03:39:15.000Z",
+            "public_metrics": {
+              "reply_count": 29,
+              "repost_count": 302,
+              "like_count": 5363,
+              "quote_count": 5,
+              "bookmark_count": 60,
+              "impression_count": 124149
+            },
+            "in_reply_to_id": "2123612385009369295"
+          },
+          {
+            "id": "2123620879137669442",
+            "author": {
+              "name": "Hit Janta 🪳",
+              "username": "HCP_2026",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2113721182940008448/Q5CEaIAo_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/avatars/HCP_2026.jpg"
+            },
+            "text": "@RahulGandhi Remind us—who turned down a seat on the UN Security Council in the 1950s?",
+            "created_at": "2026-11-20T03:34:07.000Z",
+            "public_metrics": {
+              "reply_count": 5,
+              "repost_count": 36,
+              "like_count": 576,
+              "quote_count": 0,
+              "bookmark_count": 2,
+              "impression_count": 29898
+            },
+            "in_reply_to_id": "2123612385009369295"
+          },
+          {
+            "id": "2123620415931318301",
+            "author": {
+              "name": "Tweeting Quarantino",
+              "username": "quarantinoposts",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2122572041966759936/wdRvNCVi_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/avatars/quarantinoposts.jpg"
+            },
+            "text": "@RahulGandhi The Only way modi ji can be a part of this https://t.co/yR9awrjnSQ",
+            "created_at": "2026-11-20T03:32:16.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 4,
+              "like_count": 145,
+              "quote_count": 0,
+              "bookmark_count": 2,
+              "impression_count": 10561
+            },
+            "in_reply_to_id": "2123612385009369295"
+          },
+          {
+            "id": "2123619746235244770",
+            "author": {
+              "name": "Chayan Sarkar",
+              "username": "chayansarkar87",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1425745479740973058/fEHYOQPz_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123612385009369295/avatars/chayansarkar87.jpg"
+            },
+            "text": "@RahulGandhi You were in power from 2004-14. Leave this table, the Prime Minister was not allowed to sit on his chair by one lady who claimed herself to be the pseudo PM and is now written a book.",
+            "created_at": "2026-11-20T03:29:37.000Z",
+            "public_metrics": {
+              "reply_count": 3,
+              "repost_count": 13,
+              "like_count": 135,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12774
+            },
+            "in_reply_to_id": "2123612385009369295"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "7a283a739331377d6deda803c23f1d74770df70d",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "3f1a5c754cac8a87",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
