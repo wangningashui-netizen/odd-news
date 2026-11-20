@@ -1,0 +1,32 @@
+{
+  "date": "2023-12-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "4f12693117aae7c5",
+      "url": "https://www.news18.com/viral/in-this-rajasthan-village-every-man-marries-twice-following-an-age-old-tradition-8684728.html",
+      "title_en": "In This Rajasthan Village, Every Man Marries Twice Following An Age-old Tradition",
+      "title_zh": "在这个拉贾斯坦邦村庄，每个男人都会遵循古老的传统结婚两次",
+      "summary_en": "The unusual tradition has been followed in this village for decades.",
+      "summary_zh": "这个不同寻常的传统在这个村庄已经沿袭了几十年。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/12/untitled-design-2023-12-01t125442.131-2023-12-b8ed79c249cc86520b5be49f914d128c-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-12-01T15:25:59+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4f12693117aae7c5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

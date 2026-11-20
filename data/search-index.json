@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:44:40+08:00",
+  "updated_at": "2026-11-20T12:07:38+08:00",
   "tags": [
     "街头食物",
     "卫生环境",
@@ -22,12 +22,12 @@
   "months": [
     {
       "month": "2026-11",
-      "count": 2137,
+      "count": 2246,
       "file": "data/search/2026-11.json"
     },
     {
       "month": "2026-10",
-      "count": 94,
+      "count": 95,
       "file": "data/search/2026-10.json"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "month": "2026-07",
-      "count": 3,
+      "count": 4,
       "file": "data/search/2026-07.json"
     },
     {
@@ -52,22 +52,22 @@
     },
     {
       "month": "2026-05",
-      "count": 3,
+      "count": 4,
       "file": "data/search/2026-05.json"
     },
     {
       "month": "2026-04",
-      "count": 6,
+      "count": 8,
       "file": "data/search/2026-04.json"
     },
     {
       "month": "2026-03",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2026-03.json"
     },
     {
       "month": "2026-02",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2026-02.json"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "month": "2025-12",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2025-12.json"
     },
     {
@@ -97,12 +97,12 @@
     },
     {
       "month": "2025-07",
-      "count": 3,
+      "count": 4,
       "file": "data/search/2025-07.json"
     },
     {
       "month": "2025-06",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2025-06.json"
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "month": "2024-03",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2024-03.json"
     },
     {
@@ -161,6 +161,11 @@
       "file": "data/search/2024-01.json"
     },
     {
+      "month": "2023-12",
+      "count": 1,
+      "file": "data/search/2023-12.json"
+    },
+    {
       "month": "2023-11",
       "count": 6,
       "file": "data/search/2023-11.json"
@@ -172,7 +177,7 @@
     },
     {
       "month": "2023-09",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2023-09.json"
     },
     {
@@ -187,7 +192,7 @@
     },
     {
       "month": "2023-06",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2023-06.json"
     },
     {
@@ -197,7 +202,7 @@
     },
     {
       "month": "2023-04",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2023-04.json"
     },
     {
@@ -224,6 +229,11 @@
       "month": "2022-11",
       "count": 2,
       "file": "data/search/2022-11.json"
+    },
+    {
+      "month": "2018-05",
+      "count": 1,
+      "file": "data/search/2018-05.json"
     }
   ]
 }

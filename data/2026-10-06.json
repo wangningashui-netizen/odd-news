@@ -1,8 +1,33 @@
 {
   "date": "2026-10-06",
   "timezone": "Asia/Shanghai",
-  "count": 5,
+  "count": 6,
   "items": [
+    {
+      "id": "98a4b9a4acdee9fe",
+      "url": "https://www.news18.com/viral/diljit-dosanjh-concert-tickets-woman-claims-rs-2500-ticket-jumped-to-rs-4000-during-booking-10369809.html",
+      "title_en": "Diljit Dosanjh Concert Tickets: Woman Claims Rs 2,000 Ticket Jumped To Rs 4,000 During Booking",
+      "title_zh": "Diljit Dosanjh 演唱会门票：一名女子声称预订时门票价格从 2,000 卢比飙升至 4,000 卢比",
+      "summary_en": "A woman’s Instagram video and an X post have sparked questions about Diljit Dosanjh’s Aura World Tour ticket pricing, with both users claiming prices changed during booking",
+      "summary_zh": "一名女性的 Instagram 视频和 X 帖子引发了有关 Diljit Dosanjh 的 Aura 世界巡回演唱会门票定价的质疑，两名用户都声称价格在预订过程中发生了变化",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/WhatsApp-Image-2026-10-06-at-5.10.30-PM-2026-10-af7a4fb9b1e85de0d4fdf680de3c5eaf-1200x675.jpeg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-06T19:51:15+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "98a4b9a4acdee9fe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "17779494efea745c",
       "url": "https://indianexpress.com/article/trending/trending-globally/wins-nobel-prize-makes-school-sandwiches-scientist-karl-deisseroth-shares-moment-with-children-10909231/",

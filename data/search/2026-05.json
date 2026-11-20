@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "da6ddfd32e681d13",
@@ -47,12 +47,34 @@
       "reddit_comments": null
     },
     {
+      "id": "9a931515b0761442",
+      "date": "2026-05-14",
+      "published_at": "2026-05-14T18:32:45+08:00",
+      "title_zh": "一个简单的测量错误如何毁掉了 NASA 耗资 1.25 亿美元的火星任务",
+      "title_en": "How A Simple Measurement Mistake Destroyed A $125-Million NASA Mars Mission",
+      "summary_zh": "火星气候轨道飞行器任务以灾难告终，因为一个简单的单位转换不匹配导致了美国宇航局最臭名昭著的工程失败之一。",
+      "summary_en": "The Mars Climate Orbiter mission ended in disaster after a simple unit conversion mismatch caused one of NASA’s most infamous engineering failures.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5840101_marsmission_1-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "科学发现"
+      ],
+      "url": "https://www.news18.com/viral/how-a-simple-measurement-mistake-destroyed-a-125-million-nasa-mars-mission-ws-l-10091115.html",
+      "translation_status": "fallback",
+      "cluster_id": "9a931515b0761442",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "e910f7f721e8b42d",
       "date": "2026-05-10",
       "published_at": "2026-05-10T17:49:34+08:00",
-      "title_zh": null,
+      "title_zh": "“她对我来说已经死了”：丈夫在 Instagram 上为活着的妻子表演“Pind Daan”；观看视频",
       "title_en": "'She Is Dead To Me': Husband Performs ‘Pind Daan’ For Living Wife Over Instagram Reels; Watch Video",
-      "summary_zh": null,
+      "summary_zh": "一段被疯传的视频中，一名丈夫为妻子举行葬礼，将“社交媒体戒毒”发挥到了极致",
       "summary_en": "A husband in a viral clip takes 'social media detoxification' to a literal extreme by performing his wife’s funeral rites",
       "image": "https://images.news18.com/ibnlive/uploads/2026/05/Viral-video-13-2026-05-9882ba7a6dc4e6d4710aa0053b3a6884-1200x675.jpg",
       "source": "News18 Viral",
@@ -61,7 +83,7 @@
         "其他"
       ],
       "url": "https://www.news18.com/viral/she-is-dead-to-me-husband-performs-pind-daan-for-living-wife-over-instagram-reels-watch-video-10083824.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "e910f7f721e8b42d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,

@@ -1,6 +1,6 @@
 {
   "month": "2024-03",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "997cf096dc9f8854",
@@ -20,6 +20,29 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/watch-hardeep-singh-puri-reunites-with-old-friend-from-delhi-university-video-melts-hearts/articleshow/108418522.cms",
       "translation_status": "fallback",
       "cluster_id": "997cf096dc9f8854",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "57d81430e6825547",
+      "date": "2024-03-06",
+      "published_at": "2024-03-06T13:15:22+08:00",
+      "title_zh": "铁路局：二婚不离婚意味着铁路员工没有养老金",
+      "title_en": "Second Marriage Without Divorce Means No Pension For Railway Employees: Board",
+      "summary_zh": "未经许可多次结婚的政府工作人员可能会发现，只有他们的第一任妻子领取养老金。",
+      "summary_en": "Government workers who marry several times without permission may find that only their first wife receives pension benefits.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/03/untitled-design-68-2024-03-f47f1062918cf33793d2ea75c662d3f0-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/second-marriage-without-divorce-means-no-pension-for-railway-employees-board-8805281.html",
+      "translation_status": "fallback",
+      "cluster_id": "57d81430e6825547",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

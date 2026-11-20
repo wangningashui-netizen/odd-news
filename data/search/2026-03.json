@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "b472abd6b1b45d51",
@@ -28,9 +28,9 @@
       "id": "7d93e435c4a3eebf",
       "date": "2026-03-16",
       "published_at": "2026-03-16T19:04:33+08:00",
-      "title_zh": null,
+      "title_zh": "“他们把它煮沸了吗？”：班加罗尔咖啡馆对柠檬水收取 5% 的“天然气危机”费用引发网上争论",
       "title_en": "'Did They Boil It?': Bengaluru Cafe's 5% 'Gas Crisis' Fee On Lemonade Sparks Online Debate",
-      "summary_zh": null,
+      "summary_zh": "两杯薄荷柠檬水的账单上收取的不寻常费用让许多用户感到好笑，也有人质疑其公平性。",
       "summary_en": "The unusual fee, applied on a bill for two mint lemonades, has left many users amused and some questioning its fairness.",
       "image": "https://images.news18.com/ibnlive/uploads/2026/03/GAS-CRISIS-2026-03-c9daa1773e482036415cb7d907d28343-1200x675.jpg",
       "source": "News18 Viral",
@@ -39,8 +39,30 @@
         "其他"
       ],
       "url": "https://www.news18.com/viral/did-they-boil-it-bengaluru-cafes-5-gas-crisis-fee-on-lemonade-sparks-online-debate-ws-l-9963773.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "7d93e435c4a3eebf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7c56823307eb6c21",
+      "date": "2026-03-10",
+      "published_at": "2026-03-10T16:16:03+08:00",
+      "title_zh": "安朱姆·汗是谁？ Shivam Dube 的 6 岁妻子通过病毒式传播的“Mashaallah Alhamdulillah”庆祝 T20 胜利",
+      "title_en": "Who is Anjum Khan? Shivam Dube’s Wife, 6 Yrs Older, Celebrates T20 Win With Viral ‘Mashaallah Alhamdulillah",
+      "summary_zh": "这位全能选手的妻子分享了精彩的帖子，享受杜贝在 2026 年 ICC 男子 T20 世界杯上的成功时刻。",
+      "summary_en": "The all-rounder's wife shared a wonderful post, enjoying Dube's moment of success at the ICC Men's T20 World Cup 2026.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/Untitled-design-2026-03-10T142156.062-2026-03-5cd04673a341021e9788768121487719-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/anjum-khan-shivam-dube-wife-who-is-she-aa-ws-l-9952404.html",
+      "translation_status": "fallback",
+      "cluster_id": "7c56823307eb6c21",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

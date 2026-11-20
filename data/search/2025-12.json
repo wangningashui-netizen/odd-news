@@ -1,7 +1,29 @@
 {
   "month": "2025-12",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "5d551134aa1cc428",
+      "date": "2025-12-19",
+      "published_at": "2025-12-19T12:24:56+08:00",
+      "title_zh": "拳击手尼拉吉·戈亚特 (Neeraj Goyat) 在迪拜激烈对抗中向对手发出警告：“记住，印度是你的......",
+      "title_en": "Boxer Neeraj Goyat, In Dubai, Issues Warning To Opponent In Fiery Confrontation: ‘Remember, India Is Your..",
+      "summary_zh": "据报道，在互动过程中，安东尼说了一句听不见的言论，似乎激怒了戈亚特。这位印度拳击手显然很沮丧，打断了这一刻并愤怒地回应。",
+      "summary_en": "During the interaction, Anthony reportedly made an inaudible remark that appeared to provoke Goyat. Visibly upset, the Indian boxer interrupted the moment and responded angrily.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/news18-9-2025-12-f1ad0365f9a06dec207f7de40342b092-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/neeraj-goyat-fights-anthony-india-remark-verbal-spat-dubai-boxing-match-video-9779795.html",
+      "translation_status": "fallback",
+      "cluster_id": "5d551134aa1cc428",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "352ba063b5c33476",
       "date": "2025-12-13",

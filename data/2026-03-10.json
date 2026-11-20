@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-10",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "7c56823307eb6c21",
+      "url": "https://www.news18.com/viral/anjum-khan-shivam-dube-wife-who-is-she-aa-ws-l-9952404.html",
+      "title_en": "Who is Anjum Khan? Shivam Dube’s Wife, 6 Yrs Older, Celebrates T20 Win With Viral ‘Mashaallah Alhamdulillah",
+      "title_zh": "安朱姆·汗是谁？ Shivam Dube 的 6 岁妻子通过病毒式传播的“Mashaallah Alhamdulillah”庆祝 T20 胜利",
+      "summary_en": "The all-rounder's wife shared a wonderful post, enjoying Dube's moment of success at the ICC Men's T20 World Cup 2026.",
+      "summary_zh": "这位全能选手的妻子分享了精彩的帖子，享受杜贝在 2026 年 ICC 男子 T20 世界杯上的成功时刻。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/Untitled-design-2026-03-10T142156.062-2026-03-5cd04673a341021e9788768121487719-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-03-10T16:16:03+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7c56823307eb6c21",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

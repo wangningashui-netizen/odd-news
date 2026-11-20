@@ -1,4 +1,205 @@
 {
-  "date": "2026-11-19",
-  "items": []
+  "date": "2026-11-20",
+  "items": [
+    {
+      "id": "d567d62c11ed3f7d",
+      "title_en": "‘Before GTA 6’ meme had a glorious run, and now it lives forever inside Vice City",
+      "summary_en": "Players spotted a cheeky ‘Before GTA 6’ parody inside the newly released Grand Theft Auto VI game.",
+      "title_zh": "《GTA 6 之前》模因曾经辉煌一时，现在它永远存在于罪恶都市中",
+      "summary_zh": "玩家在新发布的 Grand Theft Auto VI 游戏中发现了一个厚颜无耻的“Before GTA 6”模仿。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/before-gta-6-meme-had-a-glorious-run-and-now-it-lives-forever-inside-vice-city-101795140225176.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "d6ba724c448469b0",
+      "title_en": "Fiona the hippo may be gone, but her miracle survival story from a 29-pound newborn will never be forgotten",
+      "summary_en": "Fiona the hippo died at 9 at the Cincinnati Zoo after accidentally ingesting a hat that fell into her habitat, triggering a fatal emergency.",
+      "title_zh": "河马菲奥娜可能已经消失，但她从 29 磅重的新生儿身上奇迹般的生存故事将永远不会被忘记",
+      "summary_zh": "辛辛那提动物园的河马菲奥娜 (Fiona) 9 岁因误食一顶掉入其栖息地的帽子而死亡，引发了一场致命的紧急情况。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/fiona-the-hippo-may-be-gone-but-her-miracle-survival-story-from-a-29-pound-newborn-will-never-be-forgotten-101795143005713.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "c25a48d55e6b47e7",
+      "title_en": "Woman behind viral Shanaya trend hits back at critics calling it misogynistic",
+      "summary_en": "Divyanshi Chauhan defended her viral Shanaya video against accusations of misogyny. She said its original focus on casteism and classism could be lost.",
+      "title_zh": "Shanaya 风潮背后的女性回击批评者，称其为厌恶女性的行为",
+      "summary_zh": "Divyanshi Chauhan 为她在网上疯传的 Shanaya 视频辩护，反对厌女症指控。她说，最初对种姓主义和阶级主义的关注可能会消失。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/woman-behind-viral-everybody-is-from-the-village-shanaya-trend-hits-back-at-critics-calling-it-misogynistic-3042833-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "4f7ddf62629cacf4",
+      "title_en": "Employee Works Till 1 AM, Boss's Response Wins Hearts: \"Lucky To Have A Good Manager\"",
+      "summary_en": "Instead of just acknowledging the effort, the manager told the team they could log in later the following day to compensate for the additional hours they had worked.",
+      "title_zh": "员工加班到凌晨1点，老板的回应暖心：“有个好经理真幸福”",
+      "summary_zh": "经理不仅承认了这一努力，还告诉团队他们可以在第二天晚些时候登录，以补偿他们额外工作的时间。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/employee-works-till-1-am-bosss-response-wins-hearts-lucky-to-have-a-good-manager-12351319",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "663ed870060c03f7",
+      "title_en": "43 US Army Soldiers Agree To Extend Military Career For Extra Leave To Play GTA 6",
+      "summary_en": "US Army soldiers extend their military careers in exchange for a four-day weekend to play Grand Theft Auto 6.",
+      "title_zh": "43 名美国陆军士兵同意延长军旅生涯，以获得额外假期玩 GTA 6",
+      "summary_zh": "美国陆军士兵延长他们的军旅生涯，以换取四天周末玩侠盗猎车手 6。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/43-us-army-soldiers-agree-to-extend-military-career-for-extra-leave-to-play-gta-6-12352067",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "1de85a41f08bc02d",
+      "title_en": "India, Japan Deepen Strategic Ties: Bolster Supply Chains, Defence Manufacturing, Condemn Terrorism",
+      "summary_en": "The decisions emerged from the fourth India-Japan 2+2 Foreign and Defence Ministerial Meeting in Tokyo, attended by Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar, along with Japan’s Foreign Minister Toshimitsu Motegi and Defence Minister Shinjiro Koizumi.",
+      "title_zh": "印度和日本深化战略关系：加强供应链、国防制造、谴责恐怖主义",
+      "summary_zh": "这些决定是在东京举行的第四次印日2+2外长和国防部长会议上做出的，出席会议的有国防部长拉杰纳特·辛格、外交部长苏杰生、日本外务大臣茂木敏充和防卫大臣小泉进二郎。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/world-news/india-japan-deepen-strategic-ties-bolster-supply-chains-defence-manufacturing-condemn-terrorism-2026-11-19-141411",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "3b1d0878966d7e43",
+      "title_en": "Congress Hits Back At PM Modi Over FICCI Remarks, Says 'Look Inwards' On Economic Woes",
+      "summary_en": "The Congress party criticised Prime Minister Narendra Modi for shifting blame regarding economic issues during his address at the FICCI meeting. , India News, Times Now",
+      "title_zh": "国会就 FICCI 言论回击莫迪总理，称经济困境要“向内看”",
+      "summary_zh": "国大党批评总理纳伦德拉·莫迪在 FICCI 会议上发表讲话时在经济问题上推卸责任。 ，印度新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/congress-hits-back-at-pm-modi-over-ficci-remarks-says-look-inwards-on-economic-woes-article-156539622",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "3d6cb7c0ba202caa",
+      "title_en": "Ramayana Worldwide Box Office Collection Day 15: Ranbir Kapoor, Yash Film Inches Closer To Rs 1600 Crore",
+      "summary_en": "Ramayana Part 1, starring Ranbir Kapoor and Yash, is enjoying a phenomenal box office run. After 15 days, the timeless epic is nearint Rs 1600 crore mark globally. Check out the 15-day total., Bollywood, Times Now",
+      "title_zh": "《罗摩衍那》全球票房收集第 15 天：兰比尔·卡普尔 (Ranbir Kapoor) 执导的《亚什电影》(Yash Film) 票房逼近 160 亿卢比",
+      "summary_zh": "由兰比尔·卡普尔和亚什主演的《罗摩衍那》第 1 部分正在享受惊人的票房成绩。 15 天后，这部永恒的史诗在全球的票房已接近 160 亿卢比大关。查看 15 天的总计。, 宝莱坞, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayana-worldwide-box-office-collection-day-15-ranbir-kapoor-yash-film-inches-closer-to-rs-1600-crore-article-156539514",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "5c83e71dc778fbec",
+      "title_en": "Cyclone Akvan Alert: Odisha Evacuates Nearly 3 Lakh, Trains Cancelled As Storm To Make Landfall Today",
+      "summary_en": "Cyclone Akvan approaches the Andhra-Odisha coast, prompting Odisha to evacuate nearly three lakh people, deploy rescue teams and cancel at least 28 trains., India News, Times Now",
+      "title_zh": "飓风“阿克万”警报：奥里萨邦疏散近 30 万人，风暴今天登陆，火车取消",
+      "summary_zh": "气旋“阿克万”逼近安得拉-奥里萨邦海岸，促使奥里萨邦疏散近三十万人，部署救援队并取消至少 28 趟火车。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/cyclone-akvan-alert-odisha-evacuates-nearly-3-lakh-trains-cancelled-as-storm-to-make-landfall-today-article-156539602",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "6b9ae0217313a354",
+      "title_en": "Who Was Fiona? Cincinnati Zoo's Beloved Hippo Dies; Cause of Death Revealed",
+      "summary_en": "Fiona the hippo, a global sensation since her premature birth in 2017, died Thursday from complications after swallowing a knit hat. , US News, Times Now",
+      "title_zh": "菲奥娜是谁？辛辛那提动物园心爱的河马去世；死因揭晓",
+      "summary_zh": "河马菲奥娜 (Fiona) 自 2017 年早产以来就引起了全球轰动，周四因吞下一顶针织帽后出现并发症而死亡。 ，美国新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/world/us/us-news/fiona-hippo-cincinnati-zoo-death-cause-of-death-hat-article-156539330",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "730a6dbbd790ddf1",
+      "title_en": "The Altruists Review: Julia Garner, Anthony Boyle Lead Stretched Crypto Scam Drama On Sam Bankman-Fried",
+      "summary_en": "Created by Graham Moore, the Netflix series examines the rise and fall of FTX founder Sam Bankman-Fried through his tumultuous relationship with his onetime partner Caroline Ellison. All eight episodes of the limited drama series are now streaming on Netflix., Reviews, Times Now",
+      "title_zh": "利他主义者评论：朱莉娅·加纳和安东尼·博伊尔主演了山姆·班克曼·弗里德的加密骗局戏剧",
+      "summary_zh": "这部 Netflix 剧集由格雷厄姆·摩尔 (Graham Moore) 创作，通过 FTX 创始人萨姆·班克曼·弗里德 (Sam Bankman-Fried) 与前伴侣卡罗琳·埃里森 (Caroline Ellison) 的混乱关系，探讨了他的兴衰历程。这部限定剧的全部八集现已在 Netflix 上播出。, 评论, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/reviews/the-altruists-review-julia-garner-anthony-boyle-lead-stretched-crypto-scam-netflix-drama-on-sam-bankman-fried-review-156538729",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "7c59e87a662240da",
+      "title_en": "Does Drinking Extra Water Help Flush Pollution Out Of Your Body? Experts Answer",
+      "summary_en": "As pollution levels soar every winter, drinking more water may seem like a simple solution. But what do lung experts really recommend to protect respiratory health?, Health, Times Now",
+      "title_zh": "多喝水有助于排出体内的污染吗？专家解答",
+      "summary_zh": "随着每年冬天污染水平飙升，多喝水似乎是一个简单的解决方案。但肺部专家真正建议如何保护呼吸道健康？，《健康》，《Times Now》",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/health/does-drinking-extra-water-help-flush-pollution-out-of-your-body-experts-answer-article-156537577",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "8285879e78e2731e",
+      "title_en": "Rahul Gandhi Shares ‘G3’ Picture, Says ‘Compromised PM Can Never Sit At This Table’",
+      "summary_en": "English News: Read here all the latest news from India and around the world on Times Now Website.",
+      "title_zh": "拉胡尔·甘地分享“G3”照片，称“妥协的总理永远不能坐在这张桌子上”",
+      "summary_zh": "英文新闻：在 Times Now 网站上阅读来自印度和世界各地的所有最新新闻。",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/if-congress-were-in-power-rahul-gandhis-fresh-jibe-at-pm-modi-over-iran-war-article-156539948",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "894a3fdb5c784e7e",
+      "title_en": "Visa, Mastercard And JPMorgan Customer Data Leaked After Hackers Target Third Party Providers",
+      "summary_en": "Hackers have breached customer data linked to Visa, Mastercard, and JPMorgan Chase, targeting third-party service providers, according to The Wall Street Journal. , US News, Times Now",
+      "title_zh": "黑客瞄准第三方提供商后，Visa、万事达卡和摩根大通的客户数据遭到泄露",
+      "summary_zh": "据《华尔街日报》报道，黑客入侵了与 Visa、万事达卡和摩根大通相关的客户数据，目标是第三方服务提供商。 ，美国新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/world/us/us-news/visa-mastercard-and-jpmorgan-customer-data-leaked-after-hackers-target-third-party-providers-article-156538611",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "ac563af5f13865ed",
+      "title_en": "GTA 6 Launch Starts 'Blame Game' As NDA Highlights UPA's Grand Theft' | Congress Uses 'Cheat Code'?",
+      "summary_en": "Grand Theft Auto V, Rockstar Games has finally released a new chapter called the Grand Theft Auto 6. But there is a political twist that has been added as the BJP & Congress took potshots at each other. While NDA points out to UPA's Grand Theft', Rahul's allegations are in \"auto\" mode. Game Over, Cong Uses 'Cheat Code'?",
+      "title_zh": "GTA 6 的发布开始了“指责游戏”，NDA 凸显了 UPA 的侠盗猎车手行为国会使用“作弊码”？",
+      "summary_zh": "Rockstar Games 终于在《侠盗猎车手 5》中发布了名为《侠盗猎车手 6》的新章节。但随着印度人民党和国会互相攻击，其中出现了政治扭曲。虽然 NDA 指出 UPA 的“大盗窃”行为，但拉胡尔的指控处于“自动”模式。游戏结束，聪使用“作弊码”？",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/newshour/grand-theft-auto-6-sparks-political-debate-in-india-video-156538848",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "ba3b73d91af92ac2",
+      "title_en": "Delhi AQI Today: Air Quality Remains ‘Poor’ At 270, Likely To Worsen During The Day",
+      "summary_en": "On November 20, Delhi's air quality was classified as 'poor,' with a morning Air Quality Index (AQI) of 270, expected to worsen to around 285 throughout the day., Delhi News, Times Now",
+      "title_zh": "德里今日 AQI：空气质量仍为“差”，为 270，白天可能会恶化",
+      "summary_zh": "11 月 20 日，德里的空气质量被列为“差”，早上空气质量指数 (AQI) 为 270，预计全天将恶化至 285 左右。, 德里新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/delhi/delhi-aqi-today-air-quality-remains-poor-at-270-likely-to-worsen-during-the-day-article-156539574",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c5216acf6f844b85",
+      "title_en": "Ramayana: Ravie Dubey On 'Tut Gaya Toh Tut Gaya' Dialogue Going Viral, Reveals Sargun's Reaction To Memes | EX",
+      "summary_en": "In an exclusive interview with Zoom, Ravie Dubey opened up about his Ramayana dialogue, 'tut gaya toh tut gaya,' which went viral on social media. Directed by Nitesh Tiwari, the movie was released on November 5., Bollywood, Times Now",
+      "title_zh": "罗摩衍那：Ravie Dubey 谈“Tut Gaya Toh Tut Gaya”对话走红，揭示了萨尔贡对模因的反应前",
+      "summary_zh": "在接受 Zoom 独家采访时，Ravie Dubey 讲述了他的《罗摩衍那》对话“tut gaya toh tut gaya”，该对话在社交媒体上疯传。该电影由 Nitesh Tiwari 执导，于 11 月 5 日上映。，宝莱坞，Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayana-ravie-dubey-on-tut-gaya-toh-tut-gaya-dialogue-going-viral-reveals-sargun-mehta-reaction-to-memes-exclusive-article-156539571",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "e0acd1e84b01d323",
+      "title_en": "Iowa Lead Azide Detonation: Leaders Push For Delay Amid Safety Concerns, Enviromental Groups Sue",
+      "summary_en": "The US Army plans to detonate 68 drums of unstable lead azide in Middletown, Iowa, on Friday. , US News, Times Now",
+      "title_zh": "爱荷华州叠氮化铅爆炸：出于安全考虑，领导人要求推迟，环保组织提起诉讼",
+      "summary_zh": "美国陆军计划周五在爱荷华州米德尔敦引爆 68 桶不稳定的叠氮化铅。 ，美国新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/world/us/us-news/iowa-lead-azide-detonation-exposure-map-delay-safety-middletown-article-156539431",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "ef925df0f37d2fdc",
+      "title_en": "Live Chat: Do Masks Really Protect Against Air Pollution? Top Experts Answer",
+      "summary_en": "From choosing between N95, N99 and KN95 to understanding the right way to wear them, there are several questions about their effectiveness, safety and limitations., Health, Times Now",
+      "title_zh": "实时聊天：口罩真的能防止空气污染吗？顶级专家解答",
+      "summary_zh": "从选择 N95、N99 和 KN95 到了解正确的佩戴方式，存在着关于它们的有效性、安全性和局限性的几个问题。, Health, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/health/live-chat-with-top-doctors-do-pollution-masks-work-experts-answer-all-your-questions-article-156537508",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "fe8aea04ae2f8ebd",
+      "title_en": "US Stock Market: Dow Falls Below 50,000, Nasdaq Drops 2% As Anthropic IPO Fails To Revive AI Trade",
+      "summary_en": "US Stock Market: Dow Falls Below 50,000, Nasdaq Drops 2% As Anthropic IPO Fails To Revive AI Trade, Markets, Times Now",
+      "title_zh": "美国股市：道琼斯指数跌破 50,000 点，纳斯达克指数下跌 2%，因 Anthropic IPO 未能重振人工智能贸易",
+      "summary_zh": "美国股市：道指跌破 50,000 点，纳斯达克指数下跌 2%，因 Anthropic IPO 未能重振人工智能贸易、市场、时代",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/markets/us-stock-market-dow-falls-below-50000-nasdaq-drops-2-as-anthropic-ipo-fails-to-revive-ai-trade-article-156539930",
+      "source": "Times Now Viral"
+    }
+  ]
 }

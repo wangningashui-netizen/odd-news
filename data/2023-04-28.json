@@ -1,0 +1,32 @@
+{
+  "date": "2023-04-28",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "cdff87cd0ed32956",
+      "url": "https://www.news18.com/viral/youtube-stars-mrbeast-pewdiepie-finally-met-and-fans-are-awaiting-collab-of-the-century-7662517.html",
+      "title_en": "YouTube Stars MrBeast, PewDiePie Finally Met and Fans Are Awaiting 'Collab of the Century'",
+      "title_zh": "YouTube 明星 MrBeast 和 PewDiePie 终于见面，粉丝们正在等待“世纪合作”",
+      "summary_en": "The ultimate meet-up of the popular YouTubers, MrBeast and PewDiePie, leaves fans wondering, 'a collab?'",
+      "summary_zh": "受欢迎的 YouTube 主播 MrBeast 和 PewDiePie 的终极会面让粉丝们疑惑：“合作？”",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/04/untitled-68-168266248816x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-04-28T14:17:52+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cdff87cd0ed32956",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

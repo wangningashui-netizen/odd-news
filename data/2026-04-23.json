@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-23",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "eaa626b73c21b90c",
+      "url": "https://www.news18.com/viral/top-10-tallest-buildings-in-bengaluru-the-citys-skyline-is-changing-faster-than-you-think-ws-l-10050415.html",
+      "title_en": "Top 10 Tallest Buildings In Bengaluru: The City’s Skyline Is Changing Faster Than You Think",
+      "title_zh": "班加罗尔十大最高建筑：城市天际线的变化速度超乎您的想象",
+      "summary_en": "Once known for low-rise tech parks, Bengaluru is now slowly building upward, with taller towers, new rules and a shifting urban identity",
+      "summary_zh": "班加罗尔曾经以低层科技园区而闻名，现在正在慢慢向上发展，有更高的塔楼、新的规则和不断变化的城市形象",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-23T03:02:57+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "eaa626b73c21b90c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

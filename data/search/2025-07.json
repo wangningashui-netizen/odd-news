@@ -1,6 +1,6 @@
 {
   "month": "2025-07",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "49b855011a8ebf7e",
@@ -41,6 +41,28 @@
       "url": "https://www.news18.com/viral/why-do-indians-hang-lemon-and-chilies-outside-shops-its-more-than-just-nazar-ws-l-9443312.html",
       "translation_status": "fallback",
       "cluster_id": "f2aca41d2b5a4c42",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ed90185237626cc0",
+      "date": "2025-07-06",
+      "published_at": "2025-07-06T17:31:03+08:00",
+      "title_zh": "路易威登 Autorickshaw 手提包引发网络热潮，用户提问：“按米定价？”",
+      "title_en": "Louis Vuitton’s Autorickshaw Handbag Sparks Internet Frenzy, Users Ask: 'Pricing By The Meter?'",
+      "summary_zh": "由 Pharrell Williams 掌舵，真正吸引眼球的是奇特的机动三轮车手袋设计，有趣地融合了印度繁华的街头生活和路易威登的风格",
+      "summary_en": "Helmed by Pharrell Williams, what really grabbed attention was the quirky autorickshaw handbag design, a playful blend of India’s bustling street life and Louis Vuitton’s style",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-06T145802.129-2025-07-a90ffb74d7f4eee533636708a1aa1c71-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/louis-vuittons-autorickshaw-bag-sparks-internet-frenzy-users-ask-pricing-by-the-meter-9424107.html",
+      "translation_status": "fallback",
+      "cluster_id": "ed90185237626cc0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

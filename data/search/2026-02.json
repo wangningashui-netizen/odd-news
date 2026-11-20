@@ -1,14 +1,14 @@
 {
   "month": "2026-02",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "a488600fcb44e7ed",
       "date": "2026-02-08",
       "published_at": "2026-02-08T13:02:29+08:00",
-      "title_zh": null,
+      "title_zh": "“Meri Tabiyat Bhi Kharab Thi...”：印度准妈妈在泰国机场被拦截；怀孕期间可以坐飞机吗？",
       "title_en": "‘Meri Tabiyat Bhi Kharab Thi...’: Indian Mom-To-Be Stopped At Thailand Airport; Can You Fly In Pregnancy?",
-      "summary_zh": null,
+      "summary_zh": "一名印度妇女因怀孕而在泰国面临登机问题，该报告强调了印度航空、泰国航空和靛蓝航空等航空公司针对孕妇的旅行规则。",
       "summary_en": "An Indian woman faced boarding issues in Thailand due to pregnancy, highlighting travel rules for pregnant women across airlines like Air India, Thai Airways, and IndiGo.",
       "image": "https://images.news18.com/ibnlive/uploads/2026/02/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-02-07T162643.576-2026-02-d15fb50ed103efd23c35505acae2f926-16x9.png",
       "source": "News18 Viral",
@@ -17,8 +17,30 @@
         "航空出行"
       ],
       "url": "https://www.news18.com/viral/pregnant-indian-woman-stopped-at-thailand-airport-travel-rules-to-know-aa-ws-l-9886748.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "a488600fcb44e7ed",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "d9e585d658341e23",
+      "date": "2026-02-07",
+      "published_at": "2026-02-07T11:55:51+08:00",
+      "title_zh": "旁遮普公路恐怖：骑摩托车的男子试图超车时摔倒，Fortuner 在压死他之前停下来几英寸V",
+      "title_en": "Punjab Road Horror: Man On Scooter Falls In Overtake Attempt, Fortuner Stops Inches Before Crushing Him | V",
+      "summary_zh": "挽救局面的是Fortuner 车手敏锐的反应能力。 SUV 停在距离骑手几英寸的地方。",
+      "summary_en": "What saves the situation is the Fortuner driver’s razor-sharp reflexes. The SUV stops within inches of the rider.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/02/Untitled-design-2026-02-07T092252.487-2026-02-47464e11e817bedfd74c355a08da8bc7-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.news18.com/viral/punjab-man-on-scooter-ditches-death-falls-on-road-in-overtake-attempt-video-aa-ws-l-9885805.html",
+      "translation_status": "fallback",
+      "cluster_id": "d9e585d658341e23",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

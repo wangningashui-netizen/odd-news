@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-14",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "305b012fd0cd20bf",
+      "url": "https://www.news18.com/viral/google-or-microsoft-bengaluru-techie-shares-the-biggest-difference-after-working-at-both-ws-l-10210199.html",
+      "title_en": "Google Or Microsoft? Bengaluru Techie Shares The Biggest Difference After Working At Both",
+      "title_zh": "谷歌还是微软？班加罗尔技术人员分享了在两家公司工作后最大的区别",
+      "summary_en": "A Bengaluru techie who has worked at both Google and Microsoft shared how the two companies shaped his career differently, revealing one key difference that stood out",
+      "summary_zh": "一位曾在谷歌和微软工作过的班加罗尔技术人员分享了这两家公司如何以不同的方式塑造他的职业生涯，揭示了一个突出的关键差异",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Untitled-design-2026-07-14T125811.974-2026-07-900452426957c0500d0539e99aed76d6-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-07-14T16:03:32+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "305b012fd0cd20bf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

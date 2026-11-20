@@ -1,0 +1,32 @@
+{
+  "date": "2023-06-02",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "81b14d835aea0c1c",
+      "url": "https://www.news18.com/viral/peak-bengaluru-moment-this-auto-with-milf-slogan-has-people-noticing-hidden-message-7982629.html",
+      "title_en": "Peak Bengaluru Moment: This Auto With 'MILF' Slogan Has People Noticing 'Hidden Message'",
+      "title_zh": "班加罗尔高峰时刻：这辆带有“摩洛伊斯兰解放阵线”口号的汽车让人们注意到“隐藏的信息”",
+      "summary_en": "This auto in Bengaluru has a hidden message making it a 'Peak Bengaluru' moment for all Bengalureans.",
+      "summary_zh": "班加罗尔的这辆汽车有一个隐藏的信息，使其成为所有班加罗尔人的“班加罗尔高峰”时刻。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/06/bengaluru-168569760016x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-06-02T17:23:00+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "81b14d835aea0c1c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

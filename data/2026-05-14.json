@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-14",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "9a931515b0761442",
+      "url": "https://www.news18.com/viral/how-a-simple-measurement-mistake-destroyed-a-125-million-nasa-mars-mission-ws-l-10091115.html",
+      "title_en": "How A Simple Measurement Mistake Destroyed A $125-Million NASA Mars Mission",
+      "title_zh": "一个简单的测量错误如何毁掉了 NASA 耗资 1.25 亿美元的火星任务",
+      "summary_en": "The Mars Climate Orbiter mission ended in disaster after a simple unit conversion mismatch caused one of NASA’s most infamous engineering failures.",
+      "summary_zh": "火星气候轨道飞行器任务以灾难告终，因为一个简单的单位转换不匹配导致了美国宇航局最臭名昭著的工程失败之一。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5840101_marsmission_1-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-05-14T18:32:45+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9a931515b0761442",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

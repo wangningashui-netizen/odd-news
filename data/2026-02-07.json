@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "d9e585d658341e23",
+      "url": "https://www.news18.com/viral/punjab-man-on-scooter-ditches-death-falls-on-road-in-overtake-attempt-video-aa-ws-l-9885805.html",
+      "title_en": "Punjab Road Horror: Man On Scooter Falls In Overtake Attempt, Fortuner Stops Inches Before Crushing Him | V",
+      "title_zh": "旁遮普公路恐怖：骑摩托车的男子试图超车时摔倒，Fortuner 在压死他之前停下来几英寸V",
+      "summary_en": "What saves the situation is the Fortuner driver’s razor-sharp reflexes. The SUV stops within inches of the rider.",
+      "summary_zh": "挽救局面的是Fortuner 车手敏锐的反应能力。 SUV 停在距离骑手几英寸的地方。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/02/Untitled-design-2026-02-07T092252.487-2026-02-47464e11e817bedfd74c355a08da8bc7-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-02-07T11:55:51+08:00",
+      "fetched_at": "2026-11-20T11:55:26+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d9e585d658341e23",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

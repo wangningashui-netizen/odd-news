@@ -1,14 +1,36 @@
 {
   "month": "2023-04",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "cdff87cd0ed32956",
+      "date": "2023-04-28",
+      "published_at": "2023-04-28T14:17:52+08:00",
+      "title_zh": "YouTube 明星 MrBeast 和 PewDiePie 终于见面，粉丝们正在等待“世纪合作”",
+      "title_en": "YouTube Stars MrBeast, PewDiePie Finally Met and Fans Are Awaiting 'Collab of the Century'",
+      "summary_zh": "受欢迎的 YouTube 主播 MrBeast 和 PewDiePie 的终极会面让粉丝们疑惑：“合作？”",
+      "summary_en": "The ultimate meet-up of the popular YouTubers, MrBeast and PewDiePie, leaves fans wondering, 'a collab?'",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/04/untitled-68-168266248816x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/youtube-stars-mrbeast-pewdiepie-finally-met-and-fans-are-awaiting-collab-of-the-century-7662517.html",
+      "translation_status": "fallback",
+      "cluster_id": "cdff87cd0ed32956",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "93c12e0056862c11",
       "date": "2023-04-19",
       "published_at": "2023-04-19T17:46:03+08:00",
-      "title_zh": null,
+      "title_zh": "视错觉：图像中有秘密信息；你能读懂吗？",
       "title_en": "Optical Illusion: There's A Secret Message In The Image; Can You Read It?",
-      "summary_zh": null,
+      "summary_zh": "视错觉的特点是英文字母似乎难以辨认。",
       "summary_en": "The optical illusion features English letters that seem to be illegible.",
       "image": "https://images.news18.com/ibnlive/uploads/2023/04/news18-14-6-168189734616x9.png",
       "source": "News18 Viral",
@@ -17,7 +39,7 @@
         "其他"
       ],
       "url": "https://www.news18.com/viral/optical-illusion-theres-a-secret-message-in-the-image-can-you-read-it-7585285.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "93c12e0056862c11",
       "cluster_item_count": 1,
       "cluster_source_count": 1,

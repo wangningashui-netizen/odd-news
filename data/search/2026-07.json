@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "ec9cd3d5db257200",
@@ -28,9 +28,9 @@
       "id": "f2166371eb234e1f",
       "date": "2026-07-17",
       "published_at": "2026-07-17T13:11:24+08:00",
-      "title_zh": null,
+      "title_zh": "浦那出租车司机要求女性要么为他的朋友“调整”，要么再预订一次行程；他们拒绝：‘我们是 Payi",
       "title_en": "Pune Cab Driver Asks Women To Either ‘Adjust’ For His Friend Or Book Another Ride; They Refuse: ‘We’re Payi",
-      "summary_zh": null,
+      "summary_zh": "这些女士表示，出租车司机要求她们要么与他的朋友一起调整，要么下车并预订另一趟车前往目的地。",
       "summary_en": "The women shared that the cab driver asked them to either adjust with his friend or get off his cab and book another ride to their destination.",
       "image": "https://images.news18.com/ibnlive/uploads/2026/07/News18-6-2026-07-fb338c7d6ac995d9035bcb1ffd1c276b-1200x675.png",
       "source": "News18 Viral",
@@ -39,8 +39,30 @@
         "其他"
       ],
       "url": "https://www.news18.com/viral/pune-cab-driver-asks-women-to-either-adjust-for-his-friend-or-book-another-ride-they-refuse-were-paying-for-it-ws-l-10215891.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "f2166371eb234e1f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "305b012fd0cd20bf",
+      "date": "2026-07-14",
+      "published_at": "2026-07-14T16:03:32+08:00",
+      "title_zh": "谷歌还是微软？班加罗尔技术人员分享了在两家公司工作后最大的区别",
+      "title_en": "Google Or Microsoft? Bengaluru Techie Shares The Biggest Difference After Working At Both",
+      "summary_zh": "一位曾在谷歌和微软工作过的班加罗尔技术人员分享了这两家公司如何以不同的方式塑造他的职业生涯，揭示了一个突出的关键差异",
+      "summary_en": "A Bengaluru techie who has worked at both Google and Microsoft shared how the two companies shaped his career differently, revealing one key difference that stood out",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Untitled-design-2026-07-14T125811.974-2026-07-900452426957c0500d0539e99aed76d6-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/google-or-microsoft-bengaluru-techie-shares-the-biggest-difference-after-working-at-both-ws-l-10210199.html",
+      "translation_status": "fallback",
+      "cluster_id": "305b012fd0cd20bf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

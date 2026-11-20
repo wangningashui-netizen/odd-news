@@ -1,6 +1,6 @@
 {
   "month": "2023-09",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "a6045cd2475bfffe",
@@ -19,6 +19,28 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/alligator-ally-oops-phillies-fan-denied-entry-with-emotional-support-gator/articleshow/104043227.cms",
       "translation_status": "fallback",
       "cluster_id": "a6045cd2475bfffe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1ac58f8906177efe",
+      "date": "2023-09-21",
+      "published_at": "2023-09-21T13:06:01+08:00",
+      "title_zh": "亚洲女孩令人瞠目结舌的颈部舞蹈视频看起来就像是恐怖电影中的一样",
+      "title_en": "This Jaw-dropping Neck Dance Video Of Asian Girl Looks Straight Out Of A Horror Film",
+      "summary_zh": "表演时，女孩首先将脖子从右向左旋转 180 度，然后从左向右旋转 180 度。",
+      "summary_en": "During her performance, the girl begins by rotating her neck 180 degrees from right to left, and then from left to right.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/09/untitled-design-2023-09-21t103201.087-169527252616x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "影视神剧"
+      ],
+      "url": "https://www.news18.com/viral/this-jaw-dropping-neck-dance-video-of-asian-girl-looks-straight-out-of-a-horror-film-8585722.html",
+      "translation_status": "fallback",
+      "cluster_id": "1ac58f8906177efe",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
