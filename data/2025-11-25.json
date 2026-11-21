@@ -1,0 +1,32 @@
+{
+  "date": "2025-11-25",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "7f738a32576b0458",
+      "url": "https://www.news18.com/viral/mumbai-central-station-john-abraham-shooting-cop-drama-police-uniform-bollywood-fans-video-aa-ws-l-9729876.html",
+      "title_en": "Mumbai Central Turns Into Film Set For John Abraham’s Cop Drama: ‘Kash Iss Din Cab Ki Jagah Local Liya Hota",
+      "title_zh": "孟买市中心成为约翰·亚伯拉罕的警匪剧《Kash Iss Din Cab Ki Jagah》的电影拍摄地",
+      "summary_en": "The video shared on Instagram opens with John Abraham, dressed in a police uniform for his character in the upcoming project.",
+      "summary_zh": "Instagram 上分享的视频以约翰·亚伯拉罕 (John Abraham) 开头，他在即将推出的项目中扮演的角色穿着警察制服。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/Untitled-design-2025-11-25T123958.131-2025-11-81815aae319d0f4c8ddafedfb72726a5-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-11-25T15:12:01+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7f738a32576b0458",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

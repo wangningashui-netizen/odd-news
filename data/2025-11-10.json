@@ -1,0 +1,32 @@
+{
+  "date": "2025-11-10",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "10d76c92db8aafee",
+      "url": "https://www.news18.com/viral/rishab-shetty-kantara-chapter1-tiger-not-cgi-made-from-waste-video-9695656.html",
+      "title_en": "Not CGI, But The Tiger In Kantara: Chapter 1 Was Made From Waste. Fans In Disbelief Call It ‘Brilliant Work",
+      "title_zh": "不是 CGI，而是《坎塔拉的老虎：第一章由废物制成》。难以置信的粉丝称其为“出色的作品”",
+      "summary_en": "The tiger was made with dried banana leaves, straws and papier-mâché.",
+      "summary_zh": "老虎是用干香蕉叶、稻草和纸浆制成的。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/news18-6-2025-11-bd604b13152fe27e945aa6b2b61d3f6f-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-11-10T13:13:32+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "10d76c92db8aafee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

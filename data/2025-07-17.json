@@ -1,0 +1,32 @@
+{
+  "date": "2025-07-17",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "ad9f6f0b863c5a0f",
+      "url": "https://www.news18.com/viral/it-is-going-to-be-raghu-and-rajiv-vs-devarshi-in-epic-roadies-showdown-aa-9447071.html",
+      "title_en": "It Is Going To Be Raghu And Rajiv Vs Devarshi In Epic Roadies Showdown",
+      "title_zh": "Raghu 和 Rajiv 对阵 Devarshi 的史诗级公路赛对决",
+      "summary_en": "Devarshi Patel, who became a sensation even before social media took over for his unforgettable audition on Roadies 6, reunites with Raghu Ram and Rajiv Lakshman.",
+      "summary_zh": "德瓦什·帕特尔 (Devarshi Patel) 因在《Roadies 6》中令人难忘的试镜而在社交媒体上引起轰动，他与拉古·拉姆 (Raghu Ram) 和拉吉夫·拉克什曼 (Rajiv Lakshman) 重聚。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/image-by-nvnbhanwala-naveen-bhanwala-2025-07-220b426c1c3f178b9fa79b172ddf0011-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-17T21:33:42+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ad9f6f0b863c5a0f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2023-09-27",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "ab73e8ca73c4a982",
+      "url": "https://www.news18.com/viral/bobby-deol-as-lord-bobby-in-animal-someone-changed-his-name-on-wikipedia-with-hilarious-meme-8593786.html",
+      "title_en": "Bobby Deol As 'Lord Bobby' in 'Animal'? Someone Changed His Name on Wikipedia With Hilarious Meme",
+      "title_zh": "鲍比·德尔在《动物》中饰演“鲍比勋爵”？有人用搞笑模因在维基百科上改了名字",
+      "summary_en": "Bobby Deol as 'Lord Bobby' in 'Animal'? Someone changed the actor's name to his classic meme on Wikipedia and we can't stop chuckling.",
+      "summary_zh": "鲍比·德尔在《动物》中饰演“鲍比勋爵”？有人在维基百科上将这位演员的名字改成了他的经典模因，我们忍不住笑了。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/09/untitled-2023-09-27t130145.294-2023-09-c80ed5389fa53b155f8bb6bd0e53c1f3-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-09-27T15:49:00+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ab73e8ca73c4a982",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

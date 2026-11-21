@@ -1,8 +1,33 @@
 {
   "date": "2026-10-10",
   "timezone": "Asia/Shanghai",
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "id": "aae8cd28ee378a27",
+      "url": "https://www.news18.com/viral/no-degree-required-google-deepmind-offers-engineers-up-to-rs-10-9-crore-sparks-debate-over-formal-education-ws-l-10376241.html",
+      "title_en": "‘No Degree Required’: Google DeepMind Offers Engineers Up To Rs 10.9 Crore, Sparks Debate Over Formal Educa",
+      "title_zh": "“无需学位”：谷歌 DeepMind 为工程师提供高达 1.09 亿卢比的薪酬，引发关于正规教育的争论",
+      "summary_en": "Google DeepMind’s new engineering role offers a reported pay package of up to Rs 10.9 crore, with the company saying it values problem-solving skills over degrees and job titles.",
+      "summary_zh": "据报道，谷歌 DeepMind 的新工程职位薪资高达 1.09 亿卢比，该公司表示，与学位和职位相比，它更看重解决问题的技能。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-2026-10-10T182115.825-2026-10-eaa0719c6b0189b3fe0089137f822a5d-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-10T21:02:08+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "aae8cd28ee378a27",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "64974357e9847699",
       "url": "https://indianexpress.com/article/trending/trending-globally/happiness-is-sky-high-hungarian-free-diver-zsofia-torocsik-sets-world-record-with-350-foot-dive-10915477/",

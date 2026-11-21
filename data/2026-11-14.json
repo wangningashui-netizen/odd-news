@@ -3662,7 +3662,7 @@
       "cluster_id": "4a6294211bb93617",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 528,
+      "reddit_score": 544,
       "reddit_comments": 20
     },
     {
@@ -4474,8 +4474,8 @@
       "cluster_id": "d2858e2a192704e4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 8,
-      "reddit_comments": 19
+      "reddit_score": 9,
+      "reddit_comments": 21
     },
     {
       "id": "6092060796205e02",
@@ -4643,7 +4643,7 @@
       "region": "印度",
       "published_at": "2026-11-14T02:56:50+08:00",
       "fetched_at": "2026-11-14T10:59:10+08:00",
-      "reddit_id": "t3_1y0qzny",
+      "reddit_id": "t3_1y12qet",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -4653,7 +4653,7 @@
       "cluster_id": "dc95677958283464",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1,
+      "reddit_score": 2,
       "reddit_comments": 0
     },
     {
@@ -5057,7 +5057,7 @@
       "cluster_id": "ca573652e066d6b7",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 191,
+      "reddit_score": 196,
       "reddit_comments": 14
     },
     {
@@ -5085,7 +5085,7 @@
       "cluster_id": "3bea53cb59c07efe",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 72,
+      "reddit_score": 89,
       "reddit_comments": 2
     },
     {
@@ -5166,7 +5166,7 @@
       "cluster_id": "b270643191753240",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 45,
+      "reddit_score": 47,
       "reddit_comments": 2
     },
     {
@@ -5480,7 +5480,7 @@
       "cluster_id": "d2434910661066d0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 65,
+      "reddit_score": 70,
       "reddit_comments": 12
     },
     {
@@ -5655,8 +5655,8 @@
       "cluster_id": "3f9ae1eaad4a4e38",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 219,
-      "reddit_comments": 45
+      "reddit_score": 301,
+      "reddit_comments": 51
     },
     {
       "id": "73fafa9fd1e2073c",
@@ -5708,7 +5708,7 @@
       "cluster_id": "72779237ae6058f8",
       "cluster_item_count": 2,
       "cluster_source_count": 1,
-      "reddit_score": 59,
+      "reddit_score": 61,
       "reddit_comments": 4
     },
     {
@@ -5736,7 +5736,7 @@
       "cluster_id": "4573ec41cbf83221",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 267,
+      "reddit_score": 273,
       "reddit_comments": 21
     }
   ]

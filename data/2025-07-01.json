@@ -1,0 +1,32 @@
+{
+  "date": "2025-07-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "694a9a9dd86698cc",
+      "url": "https://www.news18.com/viral/is-he-your-stepson-womans-dance-video-with-son-sparks-outrage-watch-ws-adkl-9413766.html",
+      "title_en": "‘Is He Your Stepson?’: Woman's Dance Video With Son Sparks Outrage | Watch",
+      "title_zh": "“他是你的继子吗？”：女子与儿子的舞蹈视频引发愤怒手表",
+      "summary_en": "A viral video of an influencer dancing with her son has triggered criticism online, with many questioning the appropriateness of her behaviour and attire",
+      "summary_zh": "一段网红与儿子跳舞的视频在网上引发批评，许多人质疑她的行为和着装是否得体",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Mother-Son-Viral-Dance-Video-2025-07-9949c7294a240c656de335d2e3700679-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-01T14:03:54+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "694a9a9dd86698cc",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

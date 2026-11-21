@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-14",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a25044395f258cde",
+      "url": "https://www.news18.com/viral/monkey-prayagraj-bag-full-of-cash-rs-500-note-money-rain-video-aa-ws-l-9635816.html",
+      "title_en": "Monkey, In Prayagraj, Climbs On Tree With Bag Full Of Cash & Starts Showering Rs 500 Notes On Locals | Vide",
+      "title_zh": "Prayagraj 的猴子带着装满现金的袋子爬上树，开始给当地人洗澡 500 卢比纸币维迪",
+      "summary_en": "A monkey in Prayagraj stunned locals by snatching a bag, tearing apart a bundle of Rs 500 notes on a tree, and causing a viral sensation after ABP News shared the video online.",
+      "summary_zh": "Prayagraj 的一只猴子抢走了一个袋子，撕碎了树上的一捆 500 卢比纸币，震惊了当地人，ABP 新闻在网上分享了这段视频后，引起了病毒式的轰动。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/10/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2025-10-14T170156.757-2025-10-9ff8d364b787383df3348545fdefa1d6-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-10-14T19:35:42+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a25044395f258cde",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

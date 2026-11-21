@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "count": 4,
+  "count": 5,
   "items": [
     {
       "id": "ec9cd3d5db257200",
@@ -63,6 +63,28 @@
       "url": "https://www.news18.com/viral/google-or-microsoft-bengaluru-techie-shares-the-biggest-difference-after-working-at-both-ws-l-10210199.html",
       "translation_status": "fallback",
       "cluster_id": "305b012fd0cd20bf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "53ae748ea8b1ed41",
+      "date": "2026-07-12",
+      "published_at": "2026-07-12T15:38:38+08:00",
+      "title_zh": "Flipkart 送货员进入班加罗尔女子家后“暴露私处”；互联网反应",
+      "title_en": "Flipkart Delivery Agent 'Exposed His Private Parts' After Entering Bengaluru Woman's House; Internet Reacts",
+      "summary_zh": "一名班加罗尔妇女声称，在她拒绝送货员进入她的公寓后，一名送货员强行进入她的公寓，并在使用洗手间后暴露自己，使她受到精神创伤",
+      "summary_en": "A Bengaluru woman alleged that a delivery agent forced his way into her flat after she denied him entry, exposed himself after using her washroom, and left her traumatised",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Vs.-2026-07-bb6241355379efada966ece3450b69b9-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/flipkart-delivery-agent-exposed-his-private-parts-after-entering-bengaluru-womans-house-internet-reacts-ws-l-10206705.html",
+      "translation_status": "fallback",
+      "cluster_id": "53ae748ea8b1ed41",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

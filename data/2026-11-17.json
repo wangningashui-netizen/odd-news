@@ -607,7 +607,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4
     },
     {
@@ -1093,7 +1093,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4
     },
     {
@@ -1218,7 +1218,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4
     },
     {
@@ -1658,7 +1658,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4
     },
     {
@@ -2428,7 +2428,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "879f81e3887c7a3b",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -3172,7 +3172,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4
     },
     {
@@ -4548,7 +4548,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4,
       "reddit_score": 1048,
       "reddit_comments": 41
@@ -5561,7 +5561,7 @@
       "region": "印度",
       "published_at": "2026-11-17T01:26:23+08:00",
       "fetched_at": "2026-11-17T13:00:17+08:00",
-      "reddit_id": "t3_1y0qzny",
+      "reddit_id": "t3_1y12qet",
       "page_fetched": true,
       "tags": [
         "其他"
@@ -5571,7 +5571,7 @@
       "cluster_id": "bf587e9d835539bf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1,
+      "reddit_score": 2,
       "reddit_comments": 0
     },
     {

@@ -1,6 +1,6 @@
 {
   "month": "2025-07",
-  "count": 4,
+  "count": 6,
   "items": [
     {
       "id": "49b855011a8ebf7e",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/mumbai-atal-setu-creates-history-as-india-longest-sea-bridge-cost-rs-17840-crore-aa-9461090.html",
       "translation_status": "fallback",
       "cluster_id": "49b855011a8ebf7e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ad9f6f0b863c5a0f",
+      "date": "2025-07-17",
+      "published_at": "2025-07-17T21:33:42+08:00",
+      "title_zh": "Raghu 和 Rajiv 对阵 Devarshi 的史诗级公路赛对决",
+      "title_en": "It Is Going To Be Raghu And Rajiv Vs Devarshi In Epic Roadies Showdown",
+      "summary_zh": "德瓦什·帕特尔 (Devarshi Patel) 因在《Roadies 6》中令人难忘的试镜而在社交媒体上引起轰动，他与拉古·拉姆 (Raghu Ram) 和拉吉夫·拉克什曼 (Rajiv Lakshman) 重聚。",
+      "summary_en": "Devarshi Patel, who became a sensation even before social media took over for his unforgettable audition on Roadies 6, reunites with Raghu Ram and Rajiv Lakshman.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/image-by-nvnbhanwala-naveen-bhanwala-2025-07-220b426c1c3f178b9fa79b172ddf0011-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/it-is-going-to-be-raghu-and-rajiv-vs-devarshi-in-epic-roadies-showdown-aa-9447071.html",
+      "translation_status": "fallback",
+      "cluster_id": "ad9f6f0b863c5a0f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -85,6 +107,28 @@
       "url": "https://www.news18.com/viral/video-infosys-mysore-campus-looks-like-a-mini-city-from-above-ws-l-aa-9418555.html",
       "translation_status": "fallback",
       "cluster_id": "5bdf2caa4895db78",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "694a9a9dd86698cc",
+      "date": "2025-07-01",
+      "published_at": "2025-07-01T14:03:54+08:00",
+      "title_zh": "“他是你的继子吗？”：女子与儿子的舞蹈视频引发愤怒手表",
+      "title_en": "‘Is He Your Stepson?’: Woman's Dance Video With Son Sparks Outrage | Watch",
+      "summary_zh": "一段网红与儿子跳舞的视频在网上引发批评，许多人质疑她的行为和着装是否得体",
+      "summary_en": "A viral video of an influencer dancing with her son has triggered criticism online, with many questioning the appropriateness of her behaviour and attire",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Mother-Son-Viral-Dance-Video-2025-07-9949c7294a240c656de335d2e3700679-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/is-he-your-stepson-womans-dance-video-with-son-sparks-outrage-watch-ws-adkl-9413766.html",
+      "translation_status": "fallback",
+      "cluster_id": "694a9a9dd86698cc",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

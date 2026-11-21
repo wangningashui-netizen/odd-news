@@ -1,0 +1,32 @@
+{
+  "date": "2023-11-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "7dc81818025dd595",
+      "url": "https://www.news18.com/viral/do-blue-apples-grow-naturally-question-has-internet-divided-8652126.html",
+      "title_en": "Do Blue Apples Grow Naturally? Question Has Internet Divided",
+      "title_zh": "蓝苹果是自然生长的吗？问题 互联网已分裂",
+      "summary_en": "Reportedly, blue-coloured apples are not found naturally and can be the result of genetic modification.",
+      "summary_zh": "据报道，蓝色苹果并非天然存在，可能是基因改造的结果。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/11/untitled-design-9-2023-11-95acc557353b153d9fd9e074fc345786-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-11-07T15:48:42+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7dc81818025dd595",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

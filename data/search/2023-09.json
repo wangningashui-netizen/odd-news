@@ -1,6 +1,6 @@
 {
   "month": "2023-09",
-  "count": 2,
+  "count": 4,
   "items": [
     {
       "id": "a6045cd2475bfffe",
@@ -19,6 +19,50 @@
       "url": "https://timesofindia.indiatimes.com/viral-news/alligator-ally-oops-phillies-fan-denied-entry-with-emotional-support-gator/articleshow/104043227.cms",
       "translation_status": "fallback",
       "cluster_id": "a6045cd2475bfffe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ab73e8ca73c4a982",
+      "date": "2023-09-27",
+      "published_at": "2023-09-27T15:49:00+08:00",
+      "title_zh": "鲍比·德尔在《动物》中饰演“鲍比勋爵”？有人用搞笑模因在维基百科上改了名字",
+      "title_en": "Bobby Deol As 'Lord Bobby' in 'Animal'? Someone Changed His Name on Wikipedia With Hilarious Meme",
+      "summary_zh": "鲍比·德尔在《动物》中饰演“鲍比勋爵”？有人在维基百科上将这位演员的名字改成了他的经典模因，我们忍不住笑了。",
+      "summary_en": "Bobby Deol as 'Lord Bobby' in 'Animal'? Someone changed the actor's name to his classic meme on Wikipedia and we can't stop chuckling.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/09/untitled-2023-09-27t130145.294-2023-09-c80ed5389fa53b155f8bb6bd0e53c1f3-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "动物"
+      ],
+      "url": "https://www.news18.com/viral/bobby-deol-as-lord-bobby-in-animal-someone-changed-his-name-on-wikipedia-with-hilarious-meme-8593786.html",
+      "translation_status": "fallback",
+      "cluster_id": "ab73e8ca73c4a982",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "533284674ddaee89",
+      "date": "2023-09-23",
+      "published_at": "2023-09-23T07:23:41+08:00",
+      "title_zh": "83 岁成为色情明星的牧师认为必须从社会中消除“性别负面规范”",
+      "title_en": "Priest Who Became Pornstar at 83 Feels 'Sex-negative Norms' Must be Removed from Society",
+      "summary_zh": "一位名叫诺姆·塞尔夫 (Norm Self) 的牧师在 83 岁时放弃了向会众传教的工作，成为一名色情电影明星。",
+      "summary_en": "A priest named Norm Self ditched his job of preaching to a congregation to become a porn film star at the age of 83.",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/05/norm-self-165364739116x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "影视神剧"
+      ],
+      "url": "https://www.news18.com/buzz/priest-who-became-pornstar-at-83-feels-sex-negative-norms-must-be-removed-from-society-5259373.html",
+      "translation_status": "fallback",
+      "cluster_id": "533284674ddaee89",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

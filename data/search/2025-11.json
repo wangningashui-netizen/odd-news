@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "count": 2,
+  "count": 5,
   "items": [
     {
       "id": "3a97f39e645fa3b7",
@@ -41,6 +41,73 @@
       "url": "https://www.news18.com/viral/viral-posts-show-cars-in-pune-driving-without-registration-numbers-but-name-aa-ws-l-9735176.html",
       "translation_status": "fallback",
       "cluster_id": "794d3a0e7843c20d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7f738a32576b0458",
+      "date": "2025-11-25",
+      "published_at": "2025-11-25T15:12:01+08:00",
+      "title_zh": "孟买市中心成为约翰·亚伯拉罕的警匪剧《Kash Iss Din Cab Ki Jagah》的电影拍摄地",
+      "title_en": "Mumbai Central Turns Into Film Set For John Abraham’s Cop Drama: ‘Kash Iss Din Cab Ki Jagah Local Liya Hota",
+      "summary_zh": "Instagram 上分享的视频以约翰·亚伯拉罕 (John Abraham) 开头，他在即将推出的项目中扮演的角色穿着警察制服。",
+      "summary_en": "The video shared on Instagram opens with John Abraham, dressed in a police uniform for his character in the upcoming project.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/Untitled-design-2025-11-25T123958.131-2025-11-81815aae319d0f4c8ddafedfb72726a5-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.news18.com/viral/mumbai-central-station-john-abraham-shooting-cop-drama-police-uniform-bollywood-fans-video-aa-ws-l-9729876.html",
+      "translation_status": "fallback",
+      "cluster_id": "7f738a32576b0458",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "10d76c92db8aafee",
+      "date": "2025-11-10",
+      "published_at": "2025-11-10T13:13:32+08:00",
+      "title_zh": "不是 CGI，而是《坎塔拉的老虎：第一章由废物制成》。难以置信的粉丝称其为“出色的作品”",
+      "title_en": "Not CGI, But The Tiger In Kantara: Chapter 1 Was Made From Waste. Fans In Disbelief Call It ‘Brilliant Work",
+      "summary_zh": "老虎是用干香蕉叶、稻草和纸浆制成的。",
+      "summary_en": "The tiger was made with dried banana leaves, straws and papier-mâché.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/news18-6-2025-11-bd604b13152fe27e945aa6b2b61d3f6f-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "动物"
+      ],
+      "url": "https://www.news18.com/viral/rishab-shetty-kantara-chapter1-tiger-not-cgi-made-from-waste-video-9695656.html",
+      "translation_status": "fallback",
+      "cluster_id": "10d76c92db8aafee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "8552903919b19da5",
+      "date": "2025-11-09",
+      "published_at": "2025-11-09T10:33:54+08:00",
+      "title_zh": "在 Desi 家族的 Griha Pravesh 仪式上，玩具牛取代了“Gau Mata”：“Nandi 今天远程工作”",
+      "title_en": "Toy Cow Replaces ‘Gau Mata’ At Desi Family’s Griha Pravesh Ritual: ‘Nandi Is Remote Working Today’",
+      "summary_zh": "这家人做出这个选择是因为将一头真正的牛搬到楼上的公寓太困难了。",
+      "summary_en": "The family made the choice because moving a real cow to an upstairs apartment was too difficult.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2025-11-08T175139.387-2025-11-4f17694e035e6443d6c0ba4f933c61c3-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教",
+        "动物"
+      ],
+      "url": "https://www.news18.com/viral/toy-cow-replaces-gau-mata-at-desi-familys-griha-pravesh-ritual-nandi-is-remote-working-today-aa-ws-l-9693670.html",
+      "translation_status": "fallback",
+      "cluster_id": "8552903919b19da5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

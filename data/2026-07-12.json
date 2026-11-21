@@ -1,8 +1,33 @@
 {
   "date": "2026-07-12",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "53ae748ea8b1ed41",
+      "url": "https://www.news18.com/viral/flipkart-delivery-agent-exposed-his-private-parts-after-entering-bengaluru-womans-house-internet-reacts-ws-l-10206705.html",
+      "title_en": "Flipkart Delivery Agent 'Exposed His Private Parts' After Entering Bengaluru Woman's House; Internet Reacts",
+      "title_zh": "Flipkart 送货员进入班加罗尔女子家后“暴露私处”；互联网反应",
+      "summary_en": "A Bengaluru woman alleged that a delivery agent forced his way into her flat after she denied him entry, exposed himself after using her washroom, and left her traumatised",
+      "summary_zh": "一名班加罗尔妇女声称，在她拒绝送货员进入她的公寓后，一名送货员强行进入她的公寓，并在使用洗手间后暴露自己，使她受到精神创伤",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Vs.-2026-07-bb6241355379efada966ece3450b69b9-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-07-12T15:38:38+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "53ae748ea8b1ed41",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "5c9eb073e1a6a4c0",
       "url": "https://www.news18.com/viral/louis-vuitton-diaper-goes-viral-after-huggies-face-off-internet-says-now-he-can-poop-gold-ws-l-10206627.html",

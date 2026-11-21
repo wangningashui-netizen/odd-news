@@ -1,6 +1,6 @@
 {
   "month": "2023-04",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "cdff87cd0ed32956",
@@ -63,6 +63,28 @@
       "url": "https://www.news18.com/viral/mumbai-indians-fans-share-photos-as-19000-girls-attend-kkr-match-in-heartfelt-initiative-7562287.html",
       "translation_status": "fallback",
       "cluster_id": "128038cb6ce398d3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "20fb9d1e36738f79",
+      "date": "2023-04-11",
+      "published_at": "2023-04-11T15:28:57+08:00",
+      "title_zh": "人工智能生成的正在进行中的泰姬陵照片会让您惊叹不已",
+      "title_en": "AI-Generated Pics Of Work-In-Progress Taj Mahal Will Leave You Awestruck",
+      "summary_zh": "这位人工智能艺术家最近创作的图像让我们一睹他富有想象力的泰姬陵建造阶段。",
+      "summary_en": "The recent images created by the AI artist gives us a sneak peek into his imaginative construction phase of Taj Mahal.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/04/news18-8-6-168119799816x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/ai-generated-pics-of-work-in-progress-taj-mahal-will-leave-you-awestruck-7518361.html",
+      "translation_status": "fallback",
+      "cluster_id": "20fb9d1e36738f79",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

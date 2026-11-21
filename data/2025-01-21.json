@@ -1,0 +1,32 @@
+{
+  "date": "2025-01-21",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "3a3f5c339d944908",
+      "url": "https://www.news18.com/viral/this-is-the-longest-english-word-can-you-pronounce-it-ws-ab-9196468.html",
+      "title_en": "This Is The Longest English Word. Can You Pronounce It?",
+      "title_zh": "这是最长的英语单词。你能发音吗？",
+      "summary_en": "The longest word in the English language is pneumonoultramicroscopicsilicovolcanoconiosis, which refers to a lung disease",
+      "summary_zh": "英语中最长的单词是pneumonoultramicroscopesilicovolcanoconiosis，指的是肺部疾病",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/01/longest-word-2025-01-2de9326e0e973d6438a9964f3db41f07-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-01-21T18:16:44+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3a3f5c339d944908",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

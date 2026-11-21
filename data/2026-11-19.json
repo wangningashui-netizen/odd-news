@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "timezone": "Asia/Shanghai",
-  "count": 114,
+  "count": 116,
   "items": [
     {
       "id": "5ed340ae2c735758",
@@ -223,8 +223,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ed460c683e1e6aff",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "646dcd2be3ae080b",
@@ -927,7 +927,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 11,
+      "cluster_item_count": 12,
       "cluster_source_count": 4
     },
     {
@@ -2289,6 +2289,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "b72366ead35c7525",
+      "url": "https://www.news18.com/viral/nhai-wrongly-transfers-34-crore-into-lawyers-account-he-returns-every-rupee-in-2-days-ws-l-10432190.html",
+      "title_en": "NHAI Wrongly Transfers ₹34 Crore Into Lawyer's Account, He Returns Every Rupee In 2 Days",
+      "title_zh": "NHAI 错误地将 3.4 亿卢比转入律师账户，他在 2 天内退还所有卢比",
+      "summary_en": "A payment reportedly meant for a Hyderabad-based firm working on the Harda project was reportedly credited to senior advocate Ajay Bagaria's account.",
+      "summary_zh": "据报道，一笔支付给一家从事哈达项目的海得拉巴公司的款项据称已记入高级倡导者 Ajay Bagaria 的账户。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/nhai-national-highway-2026-10-2e2e2bbac266989f8c75c848da3c1765-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-19T15:35:46+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b72366ead35c7525",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "8bc251e2a58a5d4e",
       "url": "https://www.timesnownews.com/sports/football/aiff-president-kalyan-chaubey-faces-fresh-pressure-as-15-former-india-players-write-to-sports-minister-article-156535986",
       "title_en": "AIFF President Kalyan Chaubey Faces Fresh Pressure As 15 Former India Players Write To Sports Minister",
@@ -2385,8 +2410,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ed460c683e1e6aff",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "5e21c64da2941405",
@@ -2717,6 +2742,31 @@
       "cluster_id": "dff5700992da7585",
       "cluster_item_count": 1,
       "cluster_source_count": 1
+    },
+    {
+      "id": "73243824f90482d9",
+      "url": "https://www.news18.com/viral/man-seeks-first-train-journey-certificate-for-travelling-without-ticket-railways-gives-savage-reply-ws-l-10432025.html",
+      "title_en": "Man Seeks First Train Journey Certificate For Travelling Without Ticket, Railways Gives Savage Reply",
+      "title_zh": "男子无票出行索要首张火车旅行证，铁路部门给出野蛮答复",
+      "summary_en": "A man on X asked Indian Railways for a certificate to mark his first Sleeper Class train journey, but his admission about travelling without a ticket led to an unexpected response.",
+      "summary_zh": "X 上的一名男子向印度铁路公司索要一张证书，以纪念他的第一次卧铺车厢旅行，但他承认自己没有买票旅行，却得到了意想不到的回应。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-19T112857.352-2026-11-6a8f329226c01edffbdc31cce7804bb7-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-19T14:03:17+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4b32326a94aae720",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "0c3304d1caac1d6e",
@@ -3786,8 +3836,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4b32326a94aae720",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     }
   ]
 }

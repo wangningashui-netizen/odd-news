@@ -1,8 +1,33 @@
 {
   "date": "2025-12-19",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "967b5a388a6c5544",
+      "url": "https://www.news18.com/viral/man-fake-tte-locks-young-woman-in-train-washroom-fact-check-video-aa-ws-l-9781241.html",
+      "title_en": "Man Posing As Ticket Checker ‘Locks’ Young Woman In Washroom? Here Is The Truth",
+      "title_zh": "男子冒充检票员将年轻女子“锁”在洗手间？这是真相",
+      "summary_en": "The videos are made to appear completely real, using fake identity cards and uniforms to mislead the public.",
+      "summary_zh": "这些视频看起来完全真实，使用假身份证和假制服来误导公众。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/punit-canva-2025-12-19T181426.526-2025-12-16d5f57eed3462c2d1a25398f32459de-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-12-19T20:47:31+08:00",
+      "fetched_at": "2026-11-21T11:52:48+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "967b5a388a6c5544",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "5d551134aa1cc428",
       "url": "https://www.news18.com/viral/neeraj-goyat-fights-anthony-india-remark-verbal-spat-dubai-boxing-match-video-9779795.html",
