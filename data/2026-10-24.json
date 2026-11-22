@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "8bb10589ea80b4a6",
@@ -72,6 +72,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "f45077358b669bbe",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "941a50e15ce95255",
+      "url": "https://www.news18.com/viral/reddit-user-shares-6-things-freshers-should-know-before-joining-an-indian-it-company-ws-l-10394983.html",
+      "title_en": "Reddit User Shares 6 Things Freshers Should Know Before Joining An Indian IT Company",
+      "title_zh": "Reddit 用户分享了应届生在加入印度 IT 公司之前应该了解的 6 件事",
+      "summary_en": "A Reddit user shared six lessons for freshers joining Indian IT companies, warning about long training, notice rules, salary hikes and the value of learning new skills at work too.",
+      "summary_zh": "一位 Reddit 用户分享了针对刚加入印度 IT 公司的新人的六堂课，警告长期培训、通知规则、加薪以及在工作中学习新技能的价值。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-23T183050.987-2026-10-b2e5a8cd60de77786909c3e577f15b52-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-24T10:31:46+08:00",
+      "fetched_at": "2026-11-22T10:56:13+08:00",
+      "page_fetched": true,
+      "tags": [
+        "商业套路"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "941a50e15ce95255",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

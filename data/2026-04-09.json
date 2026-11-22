@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-09",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "30019af90fdc08cd",
+      "url": "https://www.news18.com/viral/poor-kid-got-exhausted-viral-school-video-shows-student-switching-hands-to-fan-busy-teacher-10023233.html",
+      "title_en": "'Poor Kid Got Exhausted': Viral School Video Shows Student Switching Hands To Fan Busy Teacher",
+      "title_zh": "“可怜的孩子筋疲力尽”：病毒学校视频显示学生转手给忙碌的老师",
+      "summary_en": "Clip from a government school in Madhya Pradesh shows student fanning teacher while she speaks on the phone",
+      "summary_zh": "中央邦一所公立学校的视频显示，学生在老师打电话时给她扇风",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/Viral-video-5-2026-04-e9713881aad1561c7fec72e254afaea9-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-09T13:30:54+08:00",
+      "fetched_at": "2026-11-22T10:56:13+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "30019af90fdc08cd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
