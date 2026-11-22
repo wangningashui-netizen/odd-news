@@ -1,7 +1,1505 @@
 {
   "month": "2026-11",
-  "count": 2526,
+  "count": 2537,
   "items": [
+    {
+      "id": "80c99003c6f6c6cd",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T21:47:35+08:00",
+      "title_zh": "阿米特·沙阿晒6年前种的小树苗已成大树，又种下一棵红檀",
+      "title_en": "Modi govt is shaping a green future for every Indian by planting trees across India. Gladdened to see the Rudraksha sapling planted at Lok Bhawan campus in Arunachal Pradesh in February 2020 become a fully grown tree. Today planted a Red Sandalwood tree for an even better tomorrow.",
+      "summary_zh": "印度内政部长阿米特·沙阿发帖称，2020年2月他在阿鲁纳恰尔邦Lok Bhawan院内种下的菩提子（Rudraksha）树苗如今已长成大树，这次又种了一棵红檀树，称莫迪政府在全国植树、打造绿色未来。评论区有人吐槽“树苗6年长成大树，承诺也一个接一个”。",
+      "summary_en": "Modi govt is shaping a green future for every Indian by planting trees across India. Gladdened to see the Rudraksha sapling planted at Lok Bhawan campus in Arunachal Pradesh in February 2020 become a fully grown tree. \n\nToday planted a Red Sandalwood tree for an even better tomorrow.",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "卫生环境",
+        "军事政治"
+      ],
+      "url": "https://x.com/AmitShah/status/2124500042115699180",
+      "translation_status": "ai",
+      "cluster_id": "80c99003c6f6c6cd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124500042115699180",
+        "lang": "en",
+        "text": "Modi govt is shaping a green future for every Indian by planting trees across India. Gladdened to see the Rudraksha sapling planted at Lok Bhawan campus in Arunachal Pradesh in February 2020 become a fully grown tree. \n\nToday planted a Red Sandalwood tree for an even better tomorrow.",
+        "author": {
+          "name": "Amit Shah",
+          "username": "AmitShah",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054423554737983489/dhxe-t8m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/avatar.jpg"
+        },
+        "created_at": "2026-11-22T13:47:35.000Z",
+        "public_metrics": {
+          "reply_count": 53,
+          "repost_count": 417,
+          "like_count": 2488,
+          "quote_count": 4,
+          "bookmark_count": 19,
+          "impression_count": 93064
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/photo-3.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/AmitShah/status/2124500042115699180",
+        "ytdlp_command": "yt-dlp https://x.com/AmitShah/status/2124500042115699180",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124518000686670332",
+            "author": {
+              "name": "Bit_player",
+              "username": "UJurno",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1389592054615867397/xno2QxSc_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/avatars/UJurno.jpg"
+            },
+            "text": "@AmitShah From sapling to tree in 6 years. From promises to promises in record time",
+            "created_at": "2026-11-22T14:58:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 148
+            },
+            "in_reply_to_id": "2124500042115699180"
+          },
+          {
+            "id": "2124524770788286966",
+            "author": {
+              "name": "venkatesh kanike 🇮🇳",
+              "username": "venkateshkanike",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2056363068280729600/7T_y9B4__normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124500042115699180/avatars/venkateshkanike.jpg"
+            },
+            "text": "@AmitShah Under the able leadership of PM Modi Ji and CM Yogi Ji, Uttar Pradesh is shining on the path of development!\n\nToday, UP is witnessing large-scale development and attracting massive investments.\n\nThe BJP Govt is working hard for welfare of the people of UP! https://t.co/yd1SyWhdXF",
+            "created_at": "2026-11-22T15:25:51.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2124500042115699180"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "0b7e168a21a0e8b33ab29a69e15003ce1dd5501f",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "38a64bafc43ebd73",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T21:30:27+08:00",
+      "title_zh": "苏杰生拜会访印的尼泊尔新总理巴伦·沙阿",
+      "title_en": "Privileged to call on PM @ShahBalen of Nepal on his visit to New Delhi this evening. India cherishes the special friendship with Nepal. Look forward to his engagements with PM @narendramodi tomorrow. 🇮🇳 🇳🇵 https://t.co/vt1uvzgxbu",
+      "summary_zh": "印度外长苏杰生发帖称，在尼泊尔总理巴伦德拉·沙阿（Balen Shah）国事访问新德里当晚前去拜会，表示印度珍视与尼泊尔的特殊友谊，并期待他次日与莫迪总理会谈。这位前说唱歌手出身的总理首次以总理身份访印，评论区有人拿他和歌手Honey Singh比较。",
+      "summary_en": "Privileged to call on PM @ShahBalen of Nepal on his visit to New Delhi this evening.\n\nIndia cherishes the special friendship with Nepal. Look forward to his engagements with PM  @narendramodi tomorrow.\n\n🇮🇳 🇳🇵 https://t.co/vt1uvzgxbu",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://x.com/DrSJaishankar/status/2124495727749648463",
+      "translation_status": "ai",
+      "cluster_id": "38a64bafc43ebd73",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124495727749648463",
+        "lang": "en",
+        "text": "Privileged to call on PM @ShahBalen of Nepal on his visit to New Delhi this evening.\n\nIndia cherishes the special friendship with Nepal. Look forward to his engagements with PM  @narendramodi tomorrow.\n\n🇮🇳 🇳🇵 https://t.co/vt1uvzgxbu",
+        "author": {
+          "name": "Dr. S. Jaishankar",
+          "username": "DrSJaishankar",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054595946550525952/FZ_aqzRF_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/avatar.jpg"
+        },
+        "created_at": "2026-11-22T13:30:27.000Z",
+        "public_metrics": {
+          "reply_count": 77,
+          "repost_count": 307,
+          "like_count": 3496,
+          "quote_count": 13,
+          "bookmark_count": 22,
+          "impression_count": 64617
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/DrSJaishankar/status/2124495727749648463",
+        "ytdlp_command": "yt-dlp https://x.com/DrSJaishankar/status/2124495727749648463",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124624722818171252",
+            "author": {
+              "name": "Harshit Tiwari",
+              "username": "Harshit_310",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1887581814614835200/FcTYX9J3_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/avatars/Harshit_310.jpg"
+            },
+            "text": "@DrSJaishankar @ShahBalen @narendramodi Sasta honey Singh",
+            "created_at": "2026-11-22T22:03:02.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2124495727749648463"
+          },
+          {
+            "id": "2124603624529744000",
+            "author": {
+              "name": "M4",
+              "username": "AryanRa07751682",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1921058677324193793/efT9BXev_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/avatars/AryanRa07751682.jpg"
+            },
+            "text": "@DrSJaishankar @ShahBalen @narendramodi Yai chomu official meeting mai aya hai ki party mai",
+            "created_at": "2026-11-22T20:39:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2124495727749648463"
+          },
+          {
+            "id": "2124618039283142995",
+            "author": {
+              "name": "Gyanendra Rawat",
+              "username": "GyanendraR2p",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120777921359167488/LKsyw2_V_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124495727749648463/avatars/GyanendraR2p.jpg"
+            },
+            "text": "@DrSJaishankar @ShahBalen @narendramodi A very very happy good morning sir \nIt's all because of you we are safe \nI bless you and your family for salvation",
+            "created_at": "2026-11-22T21:36:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2124495727749648463"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "4fa98cfb188da3461b680f22a39315400293b6e7",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "58ca7ae2ea538a93",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T21:02:03+08:00",
+      "title_zh": "阿萨姆邦首席部长希曼塔会见莫迪总理",
+      "title_en": "Chief Minister of Assam, Shri @himantabiswa met Prime Minister @narendramodi. @CMOfficeAssam https://t.co/vrK6qQkvOf",
+      "summary_zh": "印度总理办公室发布两张照片：阿萨姆邦首席部长希曼塔·比斯瓦·萨尔马在新德里会见总理莫迪。评论区有人调侃“希曼塔想坐莫迪的位子”，也有人借机举报地方贪腐。",
+      "summary_en": "Chief Minister of Assam, Shri @himantabiswa met Prime Minister @narendramodi.\n\n@CMOfficeAssam https://t.co/vrK6qQkvOf",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://x.com/PMOIndia/status/2124488581473509621",
+      "translation_status": "ai",
+      "cluster_id": "58ca7ae2ea538a93",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124488581473509621",
+        "lang": "en",
+        "text": "Chief Minister of Assam, Shri @himantabiswa met Prime Minister @narendramodi.\n\n@CMOfficeAssam https://t.co/vrK6qQkvOf",
+        "author": {
+          "name": "PMO India",
+          "username": "PMOIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054241704040091649/vQiJVT1Z_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/avatar.jpg"
+        },
+        "created_at": "2026-11-22T13:02:03.000Z",
+        "public_metrics": {
+          "reply_count": 66,
+          "repost_count": 356,
+          "like_count": 4578,
+          "quote_count": 5,
+          "bookmark_count": 15,
+          "impression_count": 248753
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/photo-2.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/PMOIndia/status/2124488581473509621",
+        "ytdlp_command": "yt-dlp https://x.com/PMOIndia/status/2124488581473509621",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124544813861371925",
+            "author": {
+              "name": "mintybhai",
+              "username": "mintybhai2",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2089897871021883393/bbRXG6V4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/avatars/mintybhai2.jpg"
+            },
+            "text": "@PMOIndia @himantabiswa @narendramodi @CMOfficeAssam Himanta just wants modi's seat.. https://t.co/SEqMbpKiie",
+            "created_at": "2026-11-22T16:45:30.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2124488581473509621"
+          },
+          {
+            "id": "2124597841637364104",
+            "author": {
+              "name": "Goti Saat",
+              "username": "pelejaogebe",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2124597179683921921/5Vi6fN-0_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/avatars/pelejaogebe.jpg"
+            },
+            "text": "@PMOIndia @himantabiswa @narendramodi @CMOfficeAssam sir mast lag rahe ho",
+            "created_at": "2026-11-22T20:16:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2124488581473509621"
+          },
+          {
+            "id": "2124546400524575068",
+            "author": {
+              "name": "ChunavTamasha",
+              "username": "ANM_157",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2081705061013659648/88k1Z6on_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/avatars/ANM_157.jpg"
+            },
+            "text": "@PMOIndia @himantabiswa @narendramodi @CMOfficeAssam Both Curropt to the Core... \n\nSharda Chit Scam which modi once said will be behind bars...",
+            "created_at": "2026-11-22T16:51:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 93
+            },
+            "in_reply_to_id": "2124488581473509621"
+          },
+          {
+            "id": "2124525032877813769",
+            "author": {
+              "name": "samarthtiwari",
+              "username": "samarthtiwari",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1130330556464451584/wNrdCzdu_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488581473509621/avatars/samarthtiwari.jpg"
+            },
+            "text": "@PMOIndia @himantabiswa @narendramodi @CMOfficeAssam ग्राम पंचायत ढेरा मऊगंज , मध्यप्रदेश   भ्रष्टाचार चरम सीमा :\n\nई रिक्शा ट्रॉली– ₹3.25 लाख रुपए,\n12 डस्टबिन खरीदी कीमत– ₹2.99 लखा रुपए\n5 सेकंडहैंड आरो वाटर कीमत – ₹25 लाख रुपए ,\n\nShame on BJP of MP\n\n https://t.co/h6gWfUfd4l",
+            "created_at": "2026-11-22T15:26:54.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2124488581473509621"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "092d7ae96511c651d2ce76ff0629d7891c4707d3",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "623df28caf08e520",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T20:59:45+08:00",
+      "title_zh": "国大党曝视频：村民没投票，BJP议员一方竟把村里路灯拆走",
+      "title_en": "जनता ने वोट न दिया, तो स्ट्रीट लाइट छीन ली BJP विधायक की करतूत देख लीजिए 👇 https://t.co/IruaTW0XeF",
+      "summary_zh": "印度国民大会党官方账号发布视频，标题称“百姓不给投票，就把路灯收走”，指责拉贾斯坦邦一名BJP邦议员一方在当地选举失利后报复村民、拆除路灯。评论区有人补充说是议员助理的妻子在潘查亚特选举中落败，助理随即把排灯节时装的路灯撤掉，全村陷入黑暗。",
+      "summary_en": "जनता ने वोट न दिया, तो स्ट्रीट लाइट छीन ली\nBJP विधायक की करतूत देख लीजिए 👇 https://t.co/IruaTW0XeF",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "url": "https://x.com/INCIndia/status/2124488003263611313",
+      "translation_status": "ai",
+      "cluster_id": "623df28caf08e520",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124488003263611313",
+        "lang": "hi",
+        "text": "जनता ने वोट न दिया, तो स्ट्रीट लाइट छीन ली\nBJP विधायक की करतूत देख लीजिए 👇 https://t.co/IruaTW0XeF",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/avatar.jpg"
+        },
+        "created_at": "2026-11-22T12:59:45.000Z",
+        "public_metrics": {
+          "reply_count": 43,
+          "repost_count": 952,
+          "like_count": 3295,
+          "quote_count": 16,
+          "bookmark_count": 59,
+          "impression_count": 61048
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2124484221507112960/vid/avc1/1080x1920/vCGa08TBJo2FRCQY.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-23T06:39:05+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2124488003263611313",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2124488003263611313",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124533081092837843",
+            "author": {
+              "name": "Vijay Kumar Gupta - INC",
+              "username": "vijay_gup",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1509924812809912321/BoJsDD8A_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/avatars/vijay_gup.jpg"
+            },
+            "text": "@INCIndia Bolta Hindustan\n[3घं॰](https://t.co/4ehjEVE3hX)\nराजस्थान के पंचायत चुनाव में BJP विधायक के PA की पत्नी चुनाव हार गई\nउसके बाद PA ने दिवाली पर लगवाईं स्ट्रीट लाइटें उतरवा लीं, पूरे गांव में अंधेरा छाया https://t.co/2lkc0muVg2",
+            "created_at": "2026-11-22T15:58:53.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 4,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 145
+            },
+            "in_reply_to_id": "2124488003263611313"
+          },
+          {
+            "id": "2124515535245435043",
+            "author": {
+              "name": "शिववचन यादव",
+              "username": "shivwachan97830",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2098502440740085760/FFB2MmPx_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/avatars/shivwachan97830.jpg"
+            },
+            "text": "@INCIndia Or झारखंड पे भी ध्यान दीजिए सर\n\nकिस उम्मीद से 1 बल्ब का दाम 95000  है।\n\nऔर फिटिंग खर्च 167000 है घपला नहीं तो क्या हैं। https://t.co/nmer6AJYPX",
+            "created_at": "2026-11-22T14:49:09.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 113
+            },
+            "in_reply_to_id": "2124488003263611313"
+          },
+          {
+            "id": "2124512213041902031",
+            "author": {
+              "name": "azam khan",
+              "username": "Ah79603251Ahmad",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1567512924796616705/EEPd3PxS_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/avatars/Ah79603251Ahmad.jpg"
+            },
+            "text": "@INCIndia अपने फूफा घर से पैसे लाकर लगायी थी लाईट इसने",
+            "created_at": "2026-11-22T14:35:57.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 266
+            },
+            "in_reply_to_id": "2124488003263611313"
+          },
+          {
+            "id": "2124518025756127733",
+            "author": {
+              "name": "Sanskar Pareek",
+              "username": "SanskarPareek2",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1889026607865532416/dLIZDSTI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/avatars/SanskarPareek2.jpg"
+            },
+            "text": "@INCIndia Humara vidayak hai yeh . \nKuch kaam nahi kra esne",
+            "created_at": "2026-11-22T14:59:03.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 71
+            },
+            "in_reply_to_id": "2124488003263611313"
+          },
+          {
+            "id": "2124529156801384946",
+            "author": {
+              "name": "Yuvraj",
+              "username": "Yuvrajsgk",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124488003263611313/avatars/Yuvrajsgk.jpg"
+            },
+            "text": "@INCIndia Sach m Sharmnaak... M koyi question❓",
+            "created_at": "2026-11-22T15:43:17.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 40
+            },
+            "in_reply_to_id": "2124488003263611313"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "595c7439653c758b9b7fed4c1dd1778c852c3d63",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "15eadbb0a40f1634",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T20:50:10+08:00",
+      "title_zh": "石油部长普里去朝拜途中视察公路加油站，评论区涌入天然气和油价投诉",
+      "title_en": "On my way to seek the blessings of Baba Mahakal in the sacred city of Ujjain, I got the opportunity to take a short break at a Retail Outlet of BPCL being run by M/s Shivlal Patel & Sons on the State Highway 27 between Indore and Ujjain. The outlet offers a range of products and services for highway",
+      "summary_zh": "印度石油和天然气部长哈迪普·普里发帖并配10张图，称前往乌贾因朝拜途中在印多尔—乌贾因州道旁一家BPCL加油站短暂停留，查看了配套餐饮和服务，强调卫生和顾客反馈。评论区却成了投诉现场：有人抱怨普拉亚格拉杰CNG涨到107卢比、比邻市贵13卢比，有人说一直领不到煤气罐，官方客服账号也下场回复。",
+      "summary_en": "On my way to seek the blessings of Baba Mahakal in the sacred city of Ujjain, I got the opportunity to take a short break at a Retail Outlet of BPCL being run by M/s Shivlal Patel & Sons on the State Highway 27 between Indore and Ujjain.\n\nThe outlet offers a range of products and services for highway travellers. It was a pleasure interacting with the dedicated Energy Soldiers and reviewing the DriveFresh facilities, DDD Bowser and non-fuel offerings at the adjoining Charpai Dhaba and Pyali Café.\n\nWe also discussed the importance of maintaining high standards of cleanliness and hygiene, ensuring convenient facilities for customers and encouraging greater customer feedback to help us continuously improve our services.\n\n@PMOIndia @PetroleumMin \n@DrMohanYadav51 \n@Secretary_MoPNG @BPCLimited \n@BPCLRetail1 @BPCLMakLubes @BPCLLPG @BPCLIndore @cmdbpcl @DirectorM_BPCL @BPCL_Gas_BU @SwachhBharatGov #BeFreshDriveFresh\n#DriveFresh\n#EnergyStations",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "商业套路",
+        "交通火车"
+      ],
+      "url": "https://x.com/HardeepSPuri/status/2124485591702393101",
+      "translation_status": "ai",
+      "cluster_id": "15eadbb0a40f1634",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124485591702393101",
+        "lang": "en",
+        "text": "On my way to seek the blessings of Baba Mahakal in the sacred city of Ujjain, I got the opportunity to take a short break at a Retail Outlet of BPCL being run by M/s Shivlal Patel & Sons on the State Highway 27 between Indore and Ujjain.\n\nThe outlet offers a range of products and services for highway travellers. It was a pleasure interacting with the dedicated Energy Soldiers and reviewing the DriveFresh facilities, DDD Bowser and non-fuel offerings at the adjoining Charpai Dhaba and Pyali Café.\n\nWe also discussed the importance of maintaining high standards of cleanliness and hygiene, ensuring convenient facilities for customers and encouraging greater customer feedback to help us continuously improve our services.\n\n@PMOIndia @PetroleumMin \n@DrMohanYadav51 \n@Secretary_MoPNG @BPCLimited \n@BPCLRetail1 @BPCLMakLubes @BPCLLPG @BPCLIndore @cmdbpcl @DirectorM_BPCL @BPCL_Gas_BU @SwachhBharatGov #BeFreshDriveFresh\n#DriveFresh\n#EnergyStations",
+        "author": {
+          "name": "Hardeep Singh Puri",
+          "username": "HardeepSPuri",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2055490616612810752/O51z3wfc_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/avatar.jpg"
+        },
+        "created_at": "2026-11-22T12:50:10.000Z",
+        "public_metrics": {
+          "reply_count": 7,
+          "repost_count": 345,
+          "like_count": 410,
+          "quote_count": 3,
+          "bookmark_count": 3,
+          "impression_count": 7812
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-4.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-5.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-6.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-7.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-8.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-9.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/photo-10.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/HardeepSPuri/status/2124485591702393101",
+        "ytdlp_command": "yt-dlp https://x.com/HardeepSPuri/status/2124485591702393101",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124502485624893667",
+            "author": {
+              "name": "Abhishek",
+              "username": "rightguy001",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1961642367603384320/Lav46bSO_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/avatars/rightguy001.jpg"
+            },
+            "text": "@HardeepSPuri ministers live in their own Lala Land. Companies. pressure distributors to paint a rosy picture for the higherups. Just days ago, gas agencies were asked to create farzi 10 kg connections to show that these cylinders are in demand. That’s how ground realities are manipulated.",
+            "created_at": "2026-11-22T13:57:18.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 86
+            },
+            "in_reply_to_id": "2124485591702393101"
+          },
+          {
+            "id": "2124550255643656305",
+            "author": {
+              "name": "mayank saxena",
+              "username": "mayank41466",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/avatars/mayank41466.jpg"
+            },
+            "text": "@HardeepSPuri Sir prayagraj me CNG ₹107 HAI BAGAL ME BANARAS ME ₹94 AUR PICHLE EK MAGINE ME CNG 103 SE 107 PAHUCH GAI KOI HISAB HAI BADHNE KA YA BAS KHULI CHUT MILI HAI INDIAN OIL KO??DUNIYA ME CRUDE AUR GAS KA RATE GIR RHA HAI AUR YAHA BADH RHA HAI",
+            "created_at": "2026-11-22T17:07:07.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 31
+            },
+            "in_reply_to_id": "2124485591702393101"
+          },
+          {
+            "id": "2124552609461916052",
+            "author": {
+              "name": "MoPNG e-Seva",
+              "username": "MoPNG_eSeva",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/840155160626130945/uQcaEbh0_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/avatars/MoPNG_eSeva.jpg"
+            },
+            "text": "@mayank41466 Dear Mayank, we understand your concern and sincerely apologize for the inconvenience caused. Kindly share the name and location of the concerned petrol pump via DM, along with your contact number, so we may resolve the issue at the earliest.  https://t.co/abok1WNsK9",
+            "created_at": "2026-11-22T17:16:29.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 15
+            },
+            "in_reply_to_id": "2124550255643656305"
+          },
+          {
+            "id": "2124550857102598642",
+            "author": {
+              "name": "mayank saxena",
+              "username": "mayank41466",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/avatars/mayank41466.jpg"
+            },
+            "text": "@HardeepSPuri Kyu ek shahar me 3-4 company ko CNG bechne ki choot di jati jisse compitition badhe prayagraj me IOAG 107 ME bach rhi hai aur varanasi me Gail 94 me 13 rs ka antar ye kaisi loot hai??",
+            "created_at": "2026-11-22T17:09:31.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 24
+            },
+            "in_reply_to_id": "2124485591702393101"
+          },
+          {
+            "id": "2124523596009926775",
+            "author": {
+              "name": "Arvind Divij Sehdev",
+              "username": "TheArvindSehdev",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2060387714420318208/RI8w-s8T_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124485591702393101/avatars/TheArvindSehdev.jpg"
+            },
+            "text": "@HardeepSPuri Family-run outlets like M/s Shivlal Patel & Sons keep highway fuel retail close to people. A partnership deed that says what happens on a partner's death or retirement lets the next generation carry the outlet on smoothly, without a break in operations.",
+            "created_at": "2026-11-22T15:21:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 10
+            },
+            "in_reply_to_id": "2124485591702393101"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "aefbd447bbccaf5ff16fdcea2210d21023e5b8b2",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "ec923b083ec726ee",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T20:45:03+08:00",
+      "title_zh": "集体婚礼上新郎没离婚就来娶第二个，原配赶到现场报警",
+      "title_en": "उत्तर प्रदेश के एटा में मुख्यमंत्री सामूहिक विवाह कार्यक्रम के दौरान उस वक्त हंगामा मच गया, जब एक दूल्हा बिना पहली पत्नी से तलाक लिए दूसरी शादी करने पहुंच गया। इसकी भनक लगते ही पहली पत्नी ने मौके पर पहुंचकर पुलिस से शिकायत कर दी। शिकायत के आधार पर पुलिस ने दूल्हे को हिरासत में ले लिया। फिलहाल, मामले",
+      "summary_zh": "北方邦埃塔县举办的“首席部长集体婚礼”活动上，一名新郎在没有和第一任妻子离婚的情况下前来再婚，原配得知后赶到现场向警方投诉，新郎被警方带走拘留，案件正在调查中。",
+      "summary_en": "उत्तर प्रदेश के एटा में मुख्यमंत्री सामूहिक विवाह कार्यक्रम के दौरान उस वक्त हंगामा मच गया, जब एक दूल्हा बिना पहली पत्नी से तलाक लिए दूसरी शादी करने पहुंच गया। इसकी भनक लगते ही पहली पत्नी ने मौके पर पहुंचकर पुलिस से शिकायत कर दी। शिकायत के आधार पर पुलिस ने दूल्हे को हिरासत में ले लिया। फिलहाल, मामले की जांच की जा रही है।\n\n#Etah #UttarPradesh #UPNews #MassMarriage #MarriageControversy #PoliceAction | #AajTakSocial | #ATReel",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124484302645973137/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教",
+        "犯罪法律"
+      ],
+      "url": "https://x.com/aajtak/status/2124484302645973137",
+      "translation_status": "ai",
+      "cluster_id": "ec923b083ec726ee",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124484302645973137",
+        "lang": "hi",
+        "text": "उत्तर प्रदेश के एटा में मुख्यमंत्री सामूहिक विवाह कार्यक्रम के दौरान उस वक्त हंगामा मच गया, जब एक दूल्हा बिना पहली पत्नी से तलाक लिए दूसरी शादी करने पहुंच गया। इसकी भनक लगते ही पहली पत्नी ने मौके पर पहुंचकर पुलिस से शिकायत कर दी। शिकायत के आधार पर पुलिस ने दूल्हे को हिरासत में ले लिया। फिलहाल, मामले की जांच की जा रही है।\n\n#Etah #UttarPradesh #UPNews #MassMarriage #MarriageControversy #PoliceAction | #AajTakSocial | #ATReel",
+        "author": {
+          "name": "AajTak",
+          "username": "aajtak",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1395254075285860354/LG45JNi8_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124484302645973137/avatar.jpg"
+        },
+        "created_at": "2026-11-22T12:45:03.000Z",
+        "public_metrics": {
+          "reply_count": 5,
+          "repost_count": 21,
+          "like_count": 82,
+          "quote_count": 1,
+          "bookmark_count": 4,
+          "impression_count": 19871
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124484302645973137/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2124484266394550273/vid/avc1/720x1280/kT4OPVLN5ikPkrSs.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-23T06:39:25+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/aajtak/status/2124484302645973137",
+        "ytdlp_command": "yt-dlp https://x.com/aajtak/status/2124484302645973137",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124484302645973137/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124553302528663801",
+            "author": {
+              "name": "Maharaj",
+              "username": "MaharajaCL",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2121383804707524608/cksuLPvs_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124484302645973137/avatars/MaharajaCL.jpg"
+            },
+            "text": "@aajtak भाई दूसरी की जरूरत ही क्या है. \nपहली के साथ ही खुशी खुशी रह लो.",
+            "created_at": "2026-11-22T17:19:14.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2124484302645973137"
+          },
+          {
+            "id": "2124496236367794485",
+            "author": {
+              "name": "Vishnu Prakash Sharma",
+              "username": "VishnuP63677980",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1554490564799655936/ZEfwgQAr_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124484302645973137/avatars/VishnuP63677980.jpg"
+            },
+            "text": "@aajtak सज़ा की कोई गारंटी",
+            "created_at": "2026-11-22T13:32:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 49
+            },
+            "in_reply_to_id": "2124484302645973137"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "84ee145ab925f05e35db45440cde07f922725511",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "a226048032869f7d",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T20:13:53+08:00",
+      "title_zh": "马哈拉施特拉邦首席部长路边停车，询问患病小女孩病情",
+      "title_en": "चिमुकलीच्या उपचारांसाठी मुख्यमंत्री फडणवीस यांची तत्परता… उल्हासनगर येथे नियोजित कार्यक्रमाला जात असताना आपल्या भेटीसाठी उभ्या असलेल्या एका चिमुकलीच्या आई-वडिलांना पाहून मुख्यमंत्री देवेंद्र फडणवीस यांनी आपली कार थांबवली. त्यांच्याशी संवाद साधत चिमुकलीच्या प्रकृतीची आणि तिच्यावरील उपचारांची माहिती घ",
+      "summary_zh": "马哈拉施特拉邦首席部长办公室发布视频：首席部长法德纳维斯在前往乌尔哈斯纳加尔途中，看到一对抱着患病小女孩等候的父母，便停车询问孩子病情和治疗情况，并指示官员提供治疗所需帮助。评论区有人说为了迎接首席部长，当地连夜修路、清垃圾。",
+      "summary_en": "चिमुकलीच्या उपचारांसाठी मुख्यमंत्री फडणवीस यांची तत्परता…\n\nउल्हासनगर येथे नियोजित कार्यक्रमाला जात असताना आपल्या भेटीसाठी उभ्या असलेल्या एका चिमुकलीच्या आई-वडिलांना पाहून मुख्यमंत्री देवेंद्र फडणवीस यांनी आपली कार थांबवली. त्यांच्याशी संवाद साधत चिमुकलीच्या प्रकृतीची आणि तिच्यावरील उपचारांची माहिती घेतली. तसेच तिच्या उपचारांसाठी आवश्यक ती मदत उपलब्ध करण्याचे निर्देश त्यांनी संबंधित अधिकाऱ्यांना दिले.\n\n@Dev_Fadnavis\n#Maharashtra #DevendraFadnavis #HSNC",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "健康医疗",
+        "军事政治"
+      ],
+      "url": "https://x.com/CMOMaharashtra/status/2124476460698407033",
+      "translation_status": "ai",
+      "cluster_id": "a226048032869f7d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124476460698407033",
+        "lang": "mr",
+        "text": "चिमुकलीच्या उपचारांसाठी मुख्यमंत्री फडणवीस यांची तत्परता…\n\nउल्हासनगर येथे नियोजित कार्यक्रमाला जात असताना आपल्या भेटीसाठी उभ्या असलेल्या एका चिमुकलीच्या आई-वडिलांना पाहून मुख्यमंत्री देवेंद्र फडणवीस यांनी आपली कार थांबवली. त्यांच्याशी संवाद साधत चिमुकलीच्या प्रकृतीची आणि तिच्यावरील उपचारांची माहिती घेतली. तसेच तिच्या उपचारांसाठी आवश्यक ती मदत उपलब्ध करण्याचे निर्देश त्यांनी संबंधित अधिकाऱ्यांना दिले.\n\n@Dev_Fadnavis\n#Maharashtra #DevendraFadnavis #HSNC",
+        "author": {
+          "name": "CMO Maharashtra",
+          "username": "CMOMaharashtra",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1864712202625949696/8M7wAfwV_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/avatar.jpg"
+        },
+        "created_at": "2026-11-22T12:13:53.000Z",
+        "public_metrics": {
+          "reply_count": 8,
+          "repost_count": 196,
+          "like_count": 414,
+          "quote_count": 1,
+          "bookmark_count": 8,
+          "impression_count": 22287
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2124476308159946752/vid/avc1/3840x2160/ZBnKim037Lmd8a0-.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-23T06:39:17+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/CMOMaharashtra/status/2124476460698407033",
+        "ytdlp_command": "yt-dlp https://x.com/CMOMaharashtra/status/2124476460698407033",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124517868238987304",
+            "author": {
+              "name": "Vipul S",
+              "username": "VipulShahCA",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1891599294630879232/wNBRRPS2_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/avatars/VipulShahCA.jpg"
+            },
+            "text": "@CMOMaharashtra तुम्ही आज उल्हासनगर अंबरनाथ ला येणार म्हणून उल्हासनगर मध्ये काल रात्रभर खराब रस्ते ठीक करणे, कचरा साफ करणे & शहर चांगले दाखवणे चालू होते. खास तुमच्या साठी.\n\nप्रश्न असा येतो की जर एका रात्रीत सगळे रस्ते ठीक करणे शक्य आहे तर मागच्या ८ महिने कुणी लक्ष का दिले नाही ?\n@CMOMaharashtra",
+            "created_at": "2026-11-22T14:58:26.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 83
+            },
+            "in_reply_to_id": "2124476460698407033"
+          },
+          {
+            "id": "2124558413946662928",
+            "author": {
+              "name": "Ganesh Gaware",
+              "username": "GaneshG73256164",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1524814042145034250/SUhX0_7C_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/avatars/GaneshG73256164.jpg"
+            },
+            "text": "@VipulShahCA @CMOMaharashtra सही पकडे है 😄",
+            "created_at": "2026-11-22T17:39:32.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2124517868238987304"
+          },
+          {
+            "id": "2124498406693630327",
+            "author": {
+              "name": "Nivedita purohit",
+              "username": "niveditapurohit",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2124498558124716032/LvRgUfx4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/avatars/niveditapurohit.jpg"
+            },
+            "text": "@CMOMaharashtra संवेदनशील देवेंद्रजी 🥰🫡",
+            "created_at": "2026-11-22T13:41:06.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 98
+            },
+            "in_reply_to_id": "2124476460698407033"
+          },
+          {
+            "id": "2124571157882093774",
+            "author": {
+              "name": "Dharmendra Devar 🇮🇳",
+              "username": "kopridharmu",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1329891816133570562/D3jjt4EO_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124476460698407033/avatars/kopridharmu.jpg"
+            },
+            "text": "@CMOMaharashtra देवाभाऊ आपलं कर्तव्य पार पाडत आहे.\n\n#महाराष्ट्र \n#उल्हासनगर #ठाणे",
+            "created_at": "2026-11-22T18:30:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 20
+            },
+            "in_reply_to_id": "2124476460698407033"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "418bca36ce29b9b2b88d65e2f5a6674b999e466b",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "47d7e989870995e2",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T17:56:05+08:00",
+      "title_zh": "E20乙醇汽油又被吐槽：车主称豪车频出燃油问题",
+      "title_en": "From E20 to E13, and now people are once again reporting issues especially in cars like these. The reality is that most premium car owners don’t make much noise about it, so it rarely gets mainstream media attention. I experienced something similar with a G-Wagon in Leh-Ladakh myself. It genuinely f",
+      "summary_zh": "一名车主发视频称，从E20到E13，人们又在反映车辆问题，尤其是豪车，只是豪车车主很少发声所以媒体不报道；他说自己在列城-拉达克开奔驰G级时也遇到过类似情况，并认为印度越来越不友好于汽车爱好者，车辆被当成用完即换的消耗品。评论区有人指出连XP95高标号汽油也掺了20%乙醇，也有人提醒别什么问题都怪燃油。",
+      "summary_en": "From E20 to E13, and now people are once again reporting issues especially in cars like these. The reality is that most premium car owners don’t make much noise about it, so it rarely gets mainstream media attention.\n\nI experienced something similar with a G-Wagon in Leh-Ladakh myself.\n\nIt genuinely feels like India is becoming less friendly for automotive enthusiasts. \n\nVehicles are increasingly treated as disposable products buy, use, replace, and repeat. \n\nIn the end, it seems to benefit corporations through more sales and governments through higher tax collections, while long-term ownership and enthusiast interests take a back seat.",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "科技发明"
+      ],
+      "url": "https://x.com/ShivrattanDhil1/status/2124441781194617327",
+      "translation_status": "ai",
+      "cluster_id": "91044915160e1ac7",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124441781194617327",
+        "lang": "en",
+        "text": "From E20 to E13, and now people are once again reporting issues especially in cars like these. The reality is that most premium car owners don’t make much noise about it, so it rarely gets mainstream media attention.\n\nI experienced something similar with a G-Wagon in Leh-Ladakh myself.\n\nIt genuinely feels like India is becoming less friendly for automotive enthusiasts. \n\nVehicles are increasingly treated as disposable products buy, use, replace, and repeat. \n\nIn the end, it seems to benefit corporations through more sales and governments through higher tax collections, while long-term ownership and enthusiast interests take a back seat.",
+        "author": {
+          "name": "Rattan Dhillon",
+          "username": "ShivrattanDhil1",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1616851705551007748/9787D0aG_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/avatar.jpg"
+        },
+        "created_at": "2026-11-22T09:56:05.000Z",
+        "public_metrics": {
+          "reply_count": 29,
+          "repost_count": 38,
+          "like_count": 217,
+          "quote_count": 1,
+          "bookmark_count": 32,
+          "impression_count": 19197
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2124441570665717760/vid/avc1/1320x1972/Z3eGFn34IHS9DqPL.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-23T06:39:14+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ShivrattanDhil1/status/2124441781194617327",
+        "ytdlp_command": "yt-dlp https://x.com/ShivrattanDhil1/status/2124441781194617327",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124532408716525957",
+            "author": {
+              "name": "Shobhit",
+              "username": "tiwarishobhit",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1745872793856786432/p308Advq_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/avatars/tiwarishobhit.jpg"
+            },
+            "text": "@ShivrattanDhil1 Xp95 me bhi 20% ethanol mixed hai bhai ji.",
+            "created_at": "2026-11-22T15:56:12.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 4,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 157
+            },
+            "in_reply_to_id": "2124441781194617327"
+          },
+          {
+            "id": "2124523021516046531",
+            "author": {
+              "name": "$u$hil",
+              "username": "Thinkforit",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1866145333211738112/fvj2cmyu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/avatars/Thinkforit.jpg"
+            },
+            "text": "@ShivrattanDhil1 The Automakers lobby wants vehicles to be used for limited years only say 10 or 15 years, so that they can have regular demand for their products",
+            "created_at": "2026-11-22T15:18:54.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 187
+            },
+            "in_reply_to_id": "2124441781194617327"
+          },
+          {
+            "id": "2124481225964609665",
+            "author": {
+              "name": "Raghav Sharma",
+              "username": "Raghav_1211",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1886285507329454080/UM4RL2DO_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/avatars/Raghav_1211.jpg"
+            },
+            "text": "@ShivrattanDhil1 Sir post like this actually not helping. \nAll mechanic today instead of doing analysis blame fuel of everything. \nFirst do some analysis if this is an actual fuel issue or not.\nMy non E20 compliant 390 is doing fine even with 3 month old fuel.",
+            "created_at": "2026-11-22T12:32:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 325
+            },
+            "in_reply_to_id": "2124441781194617327"
+          },
+          {
+            "id": "2124479008150835258",
+            "author": {
+              "name": "Sam Mulk",
+              "username": "real_Sinder",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1992210712236834816/RhUQn0lv_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/avatars/real_Sinder.jpg"
+            },
+            "text": "@ShivrattanDhil1 Couldn't agree more. Having recently dealt with fuel related issues on my Range Rover SV LWB, It's obvious that the fuel quality and blending levels are much worse than what is officially disclosed. They are clearly watering down the fuel with way more% of piss in ALL categories",
+            "created_at": "2026-11-22T12:24:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 1,
+              "bookmark_count": 0,
+              "impression_count": 208
+            },
+            "in_reply_to_id": "2124441781194617327"
+          },
+          {
+            "id": "2124577350931317047",
+            "author": {
+              "name": "Angad",
+              "username": "DzogchenYogi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2033619422490062848/Jqp6wE96_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124441781194617327/avatars/DzogchenYogi.jpg"
+            },
+            "text": "@ShivrattanDhil1 Yeh agar abh bhi Samarthak hain toh Iskey Gan mein bhi E70 Daal dey toh “Sabh Changa Si” he rahega… \n\nFact.",
+            "created_at": "2026-11-22T18:54:47.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 44
+            },
+            "in_reply_to_id": "2124441781194617327"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "963d7dce1a9bbbae26671add347603087c430fdd",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "92f4f7148b84ab21",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T17:05:32+08:00",
+      "title_zh": "拉胡尔·甘地发帖：越研究印度宗教传统越确定BJP和RSS“粗俗、贪婪、种姓主义”",
+      "title_en": "The deeper I go into Indian spiritual and religious traditions, the clearer it becomes. The BJP and RSS are uncouth, greedy, casteist male chauvinists with absolutely no understanding of our spiritual and religious traditions. https://t.co/CrJxkEXNgI",
+      "summary_zh": "国大党领袖、人民院反对党领袖拉胡尔·甘地在X上发文称，自己越深入了解印度的灵性与宗教传统，就越清楚BJP和RSS是“粗俗、贪婪、搞种姓主义的大男子主义者”，根本不懂这些传统。帖子配图一张，浏览超70万、点赞1.7万，评论区两派吵成一团。",
+      "summary_en": "The deeper I go into Indian spiritual and religious traditions, the clearer it becomes.\n\nThe BJP and RSS are uncouth, greedy, casteist male chauvinists with absolutely no understanding of our spiritual and religious traditions. https://t.co/CrJxkEXNgI",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124429059455348995/photo-1.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "军事政治",
+        "婚俗宗教"
+      ],
+      "url": "https://x.com/RahulGandhi/status/2124429059455348995",
+      "translation_status": "ai",
+      "cluster_id": "92f4f7148b84ab21",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124429059455348995",
+        "lang": "en",
+        "text": "The deeper I go into Indian spiritual and religious traditions, the clearer it becomes.\n\nThe BJP and RSS are uncouth, greedy, casteist male chauvinists with absolutely no understanding of our spiritual and religious traditions. https://t.co/CrJxkEXNgI",
+        "author": {
+          "name": "Rahul Gandhi",
+          "username": "RahulGandhi",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2048691685794930688/AEEaltaE_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124429059455348995/avatar.jpg"
+        },
+        "created_at": "2026-11-22T09:05:32.000Z",
+        "public_metrics": {
+          "reply_count": 1757,
+          "repost_count": 3783,
+          "like_count": 17255,
+          "quote_count": 496,
+          "bookmark_count": 539,
+          "impression_count": 738184
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2124429059455348995/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/RahulGandhi/status/2124429059455348995",
+        "ytdlp_command": "yt-dlp https://x.com/RahulGandhi/status/2124429059455348995",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124429059455348995/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124625548446245129",
+            "author": {
+              "name": "aa",
+              "username": "ssmnfg",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2050235072834625536/rGmhBC2N_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124429059455348995/avatars/ssmnfg.jpg"
+            },
+            "text": "@RahulGandhi Please baksh de bhai humain - please retire ho jaa - kitni baari haarega - teri vajah se Modi phir se 2029 guaranteed hai - problem ye hai tu itna murakh hai tujhe ab bhi nahin samajh aata - no one fucken wants you",
+            "created_at": "2026-11-22T22:06:19.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 5
+            },
+            "in_reply_to_id": "2124429059455348995"
+          },
+          {
+            "id": "2124626126064742837",
+            "author": {
+              "name": "I don’t tweet 🇮🇳🚩",
+              "username": "idonttweet007",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1572500521893916675/z9Z8BCaT_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124429059455348995/avatars/idonttweet007.jpg"
+            },
+            "text": "@RahulGandhi Don’t compare lap meal time with shiva shakti ✍🏻",
+            "created_at": "2026-11-22T22:08:36.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2124429059455348995"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "8c9652b1c5e20a9de57cfbfd694f26df2e833b00",
+        "angle": "官方",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "15230cb22f41547f",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T16:31:44+08:00",
+      "title_zh": "姐夫给两个小舅子各戴上“1000万卢比”钞票花环，约100英尺长",
+      "title_en": "जीजा ने सालों को पहनाई 1-1 करोड़ रुपये की नोटों की माला, वीडियो वायरल ◆ मथुरा के नगला फोंदा गांव में अनोखी घुड़चढ़ी बनी चर्चा का विषय ◆ राजस्थान के योगेश कुमार ने सालों प्रशांत और कान्हा राघव को पहनाई माला ◆ 500-500 रुपये के नोटों से बनी थीं करीब 100 फीट लंबी मालाएं #mathura | #viralvideo |",
+      "summary_zh": "北方邦马图拉县纳格拉丰达村一场婚礼骑马迎亲仪式上，来自拉贾斯坦邦的姐夫约格什·库马尔给两个小舅子普拉尚特和坎哈·拉加夫各戴上一条据称价值1000万卢比的钞票花环，花环用500卢比面值钞票串成、长约100英尺，视频在网上疯传。评论区有人喊话所得税部门，也有人批评这是炫富陋习。",
+      "summary_en": "जीजा ने सालों को पहनाई 1-1 करोड़ रुपये की नोटों की माला, वीडियो वायरल\n\n◆ मथुरा के नगला फोंदा गांव में अनोखी घुड़चढ़ी बनी चर्चा का विषय\n\n◆ राजस्थान के योगेश कुमार ने सालों प्रशांत और कान्हा राघव को पहनाई माला\n\n◆ 500-500 रुपये के नोटों से बनी थीं करीब 100 फीट लंबी मालाएं\n\n#mathura | #viralvideo |",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "url": "https://x.com/news24tvchannel/status/2124420554136617230",
+      "translation_status": "ai",
+      "cluster_id": "15230cb22f41547f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124420554136617230",
+        "lang": "hi",
+        "text": "जीजा ने सालों को पहनाई 1-1 करोड़ रुपये की नोटों की माला, वीडियो वायरल\n\n◆ मथुरा के नगला फोंदा गांव में अनोखी घुड़चढ़ी बनी चर्चा का विषय\n\n◆ राजस्थान के योगेश कुमार ने सालों प्रशांत और कान्हा राघव को पहनाई माला\n\n◆ 500-500 रुपये के नोटों से बनी थीं करीब 100 फीट लंबी मालाएं\n\n#mathura | #viralvideo |",
+        "author": {
+          "name": "News24",
+          "username": "news24tvchannel",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/960865956829392898/E8b911Ol_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatar.jpg"
+        },
+        "created_at": "2026-11-22T08:31:44.000Z",
+        "public_metrics": {
+          "reply_count": 27,
+          "repost_count": 57,
+          "like_count": 550,
+          "quote_count": 8,
+          "bookmark_count": 63,
+          "impression_count": 49184
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2124420452575842304/vid/avc1/1080x1080/hynu36ZDwa1IYEeP.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-23T06:39:20+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/news24tvchannel/status/2124420554136617230",
+        "ytdlp_command": "yt-dlp https://x.com/news24tvchannel/status/2124420554136617230",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2124454861483708921",
+            "author": {
+              "name": "ved prakash vidrohi",
+              "username": "vpvidrohi",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1180036264025718784/mWnb_W3W_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatars/vpvidrohi.jpg"
+            },
+            "text": "@news24tvchannel पैसों का भोंडा प्रदर्शन सामाजिक कुरिती!",
+            "created_at": "2026-11-22T10:48:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 4,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 338
+            },
+            "in_reply_to_id": "2124420554136617230"
+          },
+          {
+            "id": "2124495521524125911",
+            "author": {
+              "name": "Nikhil",
+              "username": "Risenik",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1852590544112758784/aQUJPITV_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatars/Risenik.jpg"
+            },
+            "text": "@news24tvchannel Hello Income Tax Department, yes this reel right here.",
+            "created_at": "2026-11-22T13:29:38.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 118
+            },
+            "in_reply_to_id": "2124420554136617230"
+          },
+          {
+            "id": "2124561351951675740",
+            "author": {
+              "name": "Subhash Sharma",
+              "username": "Subhash59085392",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1981025932145037313/p_q5cPFf_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatars/Subhash59085392.jpg"
+            },
+            "text": "@news24tvchannel मुर्गी चोरी,बकरी चोरि पर महिनों कि सजा होती है चाहे वो विधायक हो सांसद पांच हजार कि इंक्वायरी, आए से ज्यादा सम्पत्ती पर होती है पर इन बाहुबलियों को कोइ पुछता कि पैसा कहा से आया?",
+            "created_at": "2026-11-22T17:51:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 16
+            },
+            "in_reply_to_id": "2124420554136617230"
+          },
+          {
+            "id": "2124443322710385088",
+            "author": {
+              "name": "Vivek Bachkaiya.",
+              "username": "VivekBac1986",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1960577522480930816/sjSstz1C_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatars/VivekBac1986.jpg"
+            },
+            "text": "@news24tvchannel किसी भी समारोह में किसी भी जानवर का व्यक्तिगत इस्तेमाल पूरी तरह से इन निरीह जीवों पे अत्याचार है और प्रतिबंधित होना चाहिए। मेरे घोड़े और घोड़ी बंधु और बहनें, बैल और गाय मित्र ज़बरदस्ती की गुलामी और कष्ट झेलते हैं जब भी कोई हिंदू शादी में इनका इस्तेमाल करता है 🤬🤬।",
+            "created_at": "2026-11-22T10:02:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 439
+            },
+            "in_reply_to_id": "2124420554136617230"
+          },
+          {
+            "id": "2124538377911566472",
+            "author": {
+              "name": "siddhartha Saroha",
+              "username": "siddharthak03",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1681906812382236672/Mqe0DnmH_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatars/siddharthak03.jpg"
+            },
+            "text": "@news24tvchannel इस तरह की खबरें नहीं होनी चाहिए। सामाजिक कुरीति बढ रही है।",
+            "created_at": "2026-11-22T16:19:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 56
+            },
+            "in_reply_to_id": "2124420554136617230"
+          },
+          {
+            "id": "2124587913342324769",
+            "author": {
+              "name": "sahayog company",
+              "username": "razash187516212",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1993554066975473664/QVuaVkCj_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124420554136617230/avatars/razash187516212.jpg"
+            },
+            "text": "@news24tvchannel IT ka chapa nahi padega",
+            "created_at": "2026-11-22T19:36:46.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2124420554136617230"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "8d6a8649580d0eadcfec74b4ddc3d9f612ac3a6f",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      }
+    },
+    {
+      "id": "483bde8fed8b6914",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T11:01:38+08:00",
+      "title_zh": "县长和警察局长在庙会上应歌手邀请合唱《友谊长存》",
+      "title_en": "अमरोहा ➡️ तिगरी मेले में डीएम, SP का दिखा अनोखा अंदाज ➡️ गायक की फरमाइश पर DM-SP ने थामा माइक ➡️ DM डॉ. नितिन गौड़, SP लखन सिंह ने गाया गाना ➡️ मशहूर गीत 'सलामत रहे दोस्ताना हमारा' की दी प्रस्तुति ➡️ दोनों अधिकारियों की जुगलबंदी ने बांधा समां #Amroha #TigriMela #UttarPradesh https://t.co/V2N7vyTaYA",
+      "summary_zh": "北方邦阿姆罗哈县历史悠久的恒河蒂格里庙会上，应台上歌手的请求，县长（DM）尼丁·高尔博士和警察局长（SP）拉坎·辛格接过麦克风，合唱了经典歌曲《Salamat Rahe Dostana Hamara》（愿我们的友谊长存），两人的“二重唱”引发现场欢呼，视频走红。",
+      "summary_en": "अमरोहा\n\n➡️ तिगरी मेले में डीएम, SP का दिखा अनोखा अंदाज\n➡️ गायक की फरमाइश पर DM-SP ने थामा माइक\n➡️ DM डॉ. नितिन गौड़, SP लखन सिंह ने गाया गाना\n➡️ मशहूर गीत 'सलामत रहे दोस्ताना हमारा' की दी प्रस्तुति\n➡️ दोनों अधिकारियों की जुगलबंदी ने बांधा समां\n\n#Amroha #TigriMela #UttarPradesh https://t.co/V2N7vyTaYA",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124337482963845378/video-thumb.jpg",
+      "source": "X",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://x.com/bstvlive/status/2124337482963845378",
+      "translation_status": "ai",
+      "cluster_id": "483bde8fed8b6914",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null,
+      "kind": "x",
+      "x": {
+        "post_id": "2124337482963845378",
+        "lang": "hi",
+        "text": "अमरोहा\n\n➡️ तिगरी मेले में डीएम, SP का दिखा अनोखा अंदाज\n➡️ गायक की फरमाइश पर DM-SP ने थामा माइक\n➡️ DM डॉ. नितिन गौड़, SP लखन सिंह ने गाया गाना\n➡️ मशहूर गीत 'सलामत रहे दोस्ताना हमारा' की दी प्रस्तुति\n➡️ दोनों अधिकारियों की जुगलबंदी ने बांधा समां\n\n#Amroha #TigriMela #UttarPradesh https://t.co/V2N7vyTaYA",
+        "author": {
+          "name": "भारत समाचार | Bharat Samachar",
+          "username": "bstvlive",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1351450156399378434/Gi5T8x2e_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124337482963845378/avatar.jpg"
+        },
+        "created_at": "2026-11-22T03:01:38.000Z",
+        "public_metrics": {
+          "reply_count": 2,
+          "repost_count": 31,
+          "like_count": 257,
+          "quote_count": 1,
+          "bookmark_count": 11,
+          "impression_count": 16909
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124337482963845378/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2124337379725213696/vid/avc1/1000x1000/MA_66EyIqTeL0hyw.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-23T06:39:22+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/bstvlive/status/2124337482963845378",
+        "ytdlp_command": "yt-dlp https://x.com/bstvlive/status/2124337482963845378",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124337482963845378/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [],
+        "replies_omitted": 0,
+        "content_sha": "bf13ac780f68977d2682284d8e4e18c4a29943a1",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      }
+    },
     {
       "id": "fa81b81458903e9b",
       "date": "2026-11-22",
@@ -337,7 +1835,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124192508280533466/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124192363962896384/vid/avc1/720x1280/SOw3_2S2xWlKQkwh.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:39:02+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:45+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/aajtak/status/2124192508280533466",
@@ -552,7 +2050,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124165057949163755/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124164836410150912/vid/avc1/1080x1920/NvPsuMszuVd-QO2t.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:56+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:43+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/PiyushGoyal/status/2124165057949163755",
@@ -994,7 +2492,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124158342260244718/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124158290347335680/vid/avc1/720x1280/tFLBeDCBxM6r6j-J.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:39:05+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:46+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2124158342260244718",
@@ -1293,7 +2791,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124143937606778987/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124142058583867392/vid/avc1/1920x1080/sqJWp5WjRnuwPV6F.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:52+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:43+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AmitShah/status/2124143937606778987",
@@ -1987,7 +3485,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124109579483246964/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124109032516440064/vid/avc1/1920x1080/75PJ2lJhDAxF7LEl.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:40+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:41+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/narendramodi/status/2124109579483246964",
@@ -3073,7 +4571,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124062824108540174/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124062772212420608/vid/avc1/720x1280/Ssjl2IdzO15V15QQ.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:39:08+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:47+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2124062824108540174",
@@ -3467,7 +4965,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2124048992166367470/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2124048045121900544/vid/avc1/1280x720/Y7wz4Xlx_cEqt7Wr.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:58+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:44+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/TimesNow/status/2124048992166367470",
@@ -4255,7 +5753,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123991622383980883/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123991448320368640/vid/avc1/1922x1080/XUGlj_RHL3SFlFQQ.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:43+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:42+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yadavakhilesh/status/2123991622383980883",
@@ -4884,7 +6382,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123845272291910109/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123845222862045184/vid/avc1/720x1280/twDBv_QzYCdRB28y.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:36+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:40+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2123845272291910109",
@@ -5320,7 +6818,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123813126642769931/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123812630993457152/vid/avc1/720x1280/S7aEYI2sbWCuZ2Kq.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:34+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:39+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2123813126642769931",
@@ -5458,7 +6956,7 @@
       "url": "https://x.com/gaurav_kochar/status/2123809824312013221",
       "translation_status": "ai",
       "cluster_id": "91044915160e1ac7",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1,
       "reddit_score": null,
       "reddit_comments": null,
@@ -6838,7 +8336,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123730812973813911/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123730756862394368/vid/avc1/720x1280/v37LVo0Ls6-bxB6n.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:35+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:39+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/aajtak/status/2123730812973813911",
@@ -7252,7 +8750,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123705503515856896/vid/avc1/848x480/FwPHro2nT07Iffc9.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:33+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:38+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2123708145742545055",
@@ -8995,7 +10493,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123445057466605877/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123444830978322432/vid/avc1/1080x1920/sWiWDbEtJqVIUNZS.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:25+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:30+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/RahulGandhi/status/2123445057466605877",
@@ -9627,7 +11125,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123386404743118896/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123385600837550080/vid/avc1/1080x1920/r1BxNtv2EOtwAMWL.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:29+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:33+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2123386404743118896",
@@ -10216,7 +11714,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123343679717060977/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123336152489017344/vid/avc1/1920x1080/8hh59ykrvnaIwvCT.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:30+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:34+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2123343679717060977",
@@ -10598,7 +12096,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123335912323256420/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123335340866076672/vid/avc1/720x1164/UI-hVsPbA9Zsclq-.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:27+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:32+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2123335912323256420",
@@ -10831,7 +12329,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123323479311405151/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123323373812121600/vid/avc1/720x1280/n0xQZKeowsAIH-Lr.mp4?tag=14",
-        "video_url_resolved_at": "2026-11-22T06:38:31+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:36+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/eaajkaanand/status/2123323479311405151",
@@ -10935,7 +12433,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123320715193794980/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123320537644699648/vid/avc1/1080x1080/B45XX-cpNFVsIt54.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:26+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:31+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/news24tvchannel/status/2123320715193794980",
@@ -11321,7 +12819,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123304063983116384/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123303855652057088/vid/avc1/1080x1920/N9u6bv--0zXDClQk.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:28+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:32+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/MahuaMoitra/status/2123304063983116384",
@@ -11955,7 +13453,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123256477448274037/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123256325878751232/vid/avc1/1920x1088/mUiMU7JsCcMWUXe6.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:30+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:35+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndianGems_/status/2123256477448274037",
@@ -12713,7 +14211,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123071261375177188/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123071134250000384/vid/avc1/720x1280/XgHzRro8u9uNkQU1.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:25+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:29+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/aajtak/status/2123071261375177188",
@@ -12884,7 +14382,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123068716946518389/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123060980402036736/vid/avc1/1920x1080/qrizBKVX2ecFbtBf.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:22+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:27+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2123068716946518389",
@@ -13136,7 +14634,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123063782759125455/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123063751754862593/vid/avc1/720x1280/d_bqRTr2yG5Y8goi.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:24+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:29+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/Shankarparmar99/status/2123063782759125455",
@@ -13391,7 +14889,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123060107839950899/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123060062180810752/vid/avc1/464x832/Hfd7cwhaXXj5rFTO.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:21+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:26+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yadavakhilesh/status/2123060107839950899",
@@ -14253,7 +15751,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123028446871752849/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123022431388573696/vid/avc1/1920x1080/Mno_ollHcwV5BAaU.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:20+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:25+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2123028446871752849",
@@ -16067,7 +17565,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122936235547349130/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122936175950503936/vid/avc1/720x1280/GOXuU3Hp8x-mOjA6.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:23+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:28+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/gaurravbhrdwj/status/2122936235547349130",
@@ -16719,7 +18217,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122881291708457464/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122881180798529536/vid/avc1/1080x1350/vjcdCTWShuwUbhJz.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:32+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:37+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/CNNnews18/status/2122881291708457464",
@@ -17088,7 +18586,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122755066415427668/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122754945825046528/vid/avc1/1080x1350/4nRDHA7JYvkR_YVO.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:19+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:24+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/CNNnews18/status/2122755066415427668",
@@ -17688,7 +19186,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122695689864089749/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122695648990650369/vid/avc1/1280x720/Jh3j2kBW6_-0tKNJ.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:15+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:21+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/MahuaMoitra/status/2122695689864089749",
@@ -18030,7 +19528,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122683677876289560/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122683111981105152/vid/avc1/1080x1920/7gRpcVaZOisutll3.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:17+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:22+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2122683677876289560",
@@ -19153,7 +20651,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122653477390189028/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122649275121459200/vid/avc1/1080x1080/J__VAxo_yQAXTINx.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:16+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:21+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2122653477390189028",
@@ -21280,7 +22778,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122534593152860214/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122534483044048896/vid/avc1/1080x1350/k5aJ9M33MN4mJku-.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:18+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:23+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ZeeNews/status/2122534593152860214",
@@ -21493,7 +22991,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122527310603862469/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122527285630918656/vid/avc1/720x1280/znpTyjiWo7ANhIFh.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:19+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:25+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/sanewsdelhi/status/2122527310603862469",
@@ -21995,7 +23493,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122388296378835175/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122385859521785856/vid/avc1/1920x1080/ZuAj5bZ72Ln1uV6A.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:11+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:17+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AmitShah/status/2122388296378835175",
@@ -22552,7 +24050,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122373864017850753/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122373595284602880/vid/avc1/1920x1080/X2W95QqifTb3a0rD.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:10+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:16+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2122373864017850753",
@@ -23248,7 +24746,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122342564149985631/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122341742100054017/vid/avc1/1920x1080/XQi1TR2a_qVeGyGj.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:08+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:14+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/narendramodi/status/2122342564149985631",
@@ -23660,7 +25158,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122324403015090469/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122324272509227008/vid/avc1/1080x1920/0T4ER8XZPie0TnLE.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:09+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:15+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AshwiniVaishnaw/status/2122324403015090469",
@@ -24136,7 +25634,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122297379105984670/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121954072991559680/vid/avc1/1080x1920/xBwiCYR8IQcTiB9Q.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:12+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:17+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/asadowaisi/status/2122297379105984670",
@@ -24721,7 +26219,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122274660234690565/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122274484896038912/vid/avc1/1080x1350/bxWWuRzZfZdxAA5i.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:14+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:20+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/CNNnews18/status/2122274660234690565",
@@ -25753,7 +27251,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122223373052735551/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122223276873363456/vid/avc1/1080x1920/fHTDtlz_BxYMystu.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:12+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:18+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ndtv/status/2122223373052735551",
@@ -26383,7 +27881,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2122169119831409109/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2122169062654672896/vid/avc1/1080x1920/kWCq676tw9pD4Jbk.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:13+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:19+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ndtv/status/2122169119831409109",
@@ -29923,7 +31421,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121643972946985286/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121643682927693824/vid/avc1/720x900/LutG5VAOP0i-TxsG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:05+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:11+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2121643972946985286",
@@ -30155,7 +31653,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121632693435965617/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121629240588464128/vid/avc1/1080x1350/cNqe0HMSs56qp7Bf.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:07+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:13+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/CNNnews18/status/2121632693435965617",
@@ -30262,7 +31760,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121620839812792746/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121620736301539328/vid/avc1/1080x1920/v1IevzYtQlYEFaRz.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:04+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:10+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AshwiniVaishnaw/status/2121620839812792746",
@@ -30967,7 +32465,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121595270123442248/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121593837277822976/vid/avc1/1920x1080/lqTEnAot0E4mU6Rl.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:03+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:09+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/RahulGandhi/status/2121595270123442248",
@@ -32365,7 +33863,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121515816781074704/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121515705950687232/vid/avc1/1080x1920/VG8Kel8Ii1nX9hZa.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:06+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:12+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ndtv/status/2121515816781074704",
@@ -32755,7 +34253,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121499315252416648/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121499086931234816/vid/avc1/1920x1080/OHMUr10r708x1pp_.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:06+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:12+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/HardeepSPuri/status/2121499315252416648",
@@ -34390,7 +35888,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121308705564348639/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121299323548016640/vid/avc1/1080x1920/nKa2M_SqgigSrKxW.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:01+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:08+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2121308705564348639",
@@ -34495,7 +35993,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121304331681202322/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121297103418953728/vid/avc1/2160x3504/3fBIjPBst4jb9xqK.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:59+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:05+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/KirenRijiju/status/2121304331681202322",
@@ -34858,7 +36356,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121287521305014732/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121287425301565440/vid/avc1/720x1280/nwMa5rHPAXndtZqh.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:00+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:07+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2121287521305014732",
@@ -35110,7 +36608,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121283888542876105/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121231495373438977/vid/avc1/1280x720/DuLd2OrvY4gr7Bzw.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:57+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:04+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/SupriyaShrinate/status/2121283888542876105",
@@ -35366,7 +36864,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121271100646752600/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121264865709080576/vid/avc1/1080x1920/OTexpdXofCbu5wM2.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:58+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:04+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2121271100646752600",
@@ -35619,7 +37117,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121267019282858416/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121266926475415552/vid/avc1/1920x1080/nxax8dEdVoIflBL8.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:55+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:02+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AshwiniVaishnaw/status/2121267019282858416",
@@ -35938,7 +37436,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121256787907412364/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121239397458984960/vid/avc1/1920x1080/bqzQfLmY7VkQ4MWt.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:56+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:03+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2121256787907412364",
@@ -36390,7 +37888,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121231192314003729/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121229935927078914/vid/avc1/1906x1080/KCRWYntCyygfGIMe.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:59+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:06+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2121231192314003729",
@@ -39309,7 +40807,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121037831623909541/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120764856223842304/vid/avc1/1080x1920/Fgv8Tr23_aobMIXC.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:38:02+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:08+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ndtv/status/2121037831623909541",
@@ -39613,7 +41111,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120930008302825950/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120928878399311872/vid/avc1/720x1280/-i4LL5OTplbKtc97.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:48+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:55+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2120930008302825950",
@@ -39865,7 +41363,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120927339085541397/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120925799713034240/vid/avc1/1920x1080/B9LRzCAF59-gy1nh.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:51+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:58+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2120927339085541397",
@@ -40318,7 +41816,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120897848384663882/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120897782924152832/vid/avc1/1080x1920/hMf5zZirqg-hEphg.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:53+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:00+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/lolflix_/status/2120897848384663882",
@@ -41389,7 +42887,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120857569711567153/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120855362308083714/vid/avc1/1920x1080/UtC9oON6HwV3liM-.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:49+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:56+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/asadowaisi/status/2120857569711567153",
@@ -41664,7 +43162,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120855415068176641/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120855153201041410/vid/avc1/1080x1080/582dIZMvse_8WiHd.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:50+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:57+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2120855415068176641",
@@ -41894,7 +43392,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120854924280082446/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120853506429276160/vid/avc1/1080x1350/acdDDj1LWh8KRth8.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:54+08:00",
+        "video_url_resolved_at": "2026-11-23T06:38:01+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/CNNnews18/status/2120854924280082446",
@@ -42530,7 +44028,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120821840985939996/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120820837439922177/vid/avc1/1920x1080/Me7vj4YSS4ZXFpHu.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:51+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:58+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AamAadmiParty/status/2120821840985939996",
@@ -42873,7 +44371,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120814393843921104/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120814345689145344/vid/avc1/720x1280/cC_eKUWDZCEug8OB.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:53+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:59+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/Ashuu_huu/status/2120814393843921104",
@@ -45722,7 +47220,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120544772498800837/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/ext_tw_video/2120544517665546241/pu/vid/avc1/1280x720/l-ckdt2aRWGIm5Ow.mp4?tag=12",
-        "video_url_resolved_at": "2026-11-22T06:37:47+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:54+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2120544772498800837",
@@ -45806,7 +47304,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120542809405194361/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120542590227673089/vid/avc1/1920x1080/1TV2Al1t7ZayKT2i.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:45+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:52+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2120542809405194361",
@@ -46081,7 +47579,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120534938705596885/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120460091556331520/vid/avc1/1080x1920/zyRFTkocDMkS64qg.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:45+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:52+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/SupriyaShrinate/status/2120534938705596885",
@@ -46467,7 +47965,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120520945857400981/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120520864156549120/vid/avc1/720x1280/8tNySzaDR7UIekS_.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:44+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:51+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yadavakhilesh/status/2120520945857400981",
@@ -49593,7 +51091,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120373541631869415/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120373351382482944/vid/avc1/720x1280/Jjg-6bsfOi6LFB3L.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:46+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:53+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/RT_hindi_/status/2120373541631869415",
@@ -51018,7 +52516,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120167577595134334/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120167492362625024/vid/avc1/1918x1058/so10RYKB1Ezzh2ii.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:41+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:47+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/SupriyaShrinate/status/2120167577595134334",
@@ -51186,7 +52684,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120165437958934701/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119884270655209474/vid/avc1/1276x720/w7H4hrmLuCaftUhE.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:42+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:49+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/thebayyinat/status/2120165437958934701",
@@ -51500,7 +52998,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120162059346121012/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120127908593508352/vid/avc1/480x854/nNiorW0WU_pxdxR6.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:40+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:47+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2120162059346121012",
@@ -51997,7 +53495,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120136581826990113/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120136488415543296/vid/avc1/720x1280/O6LJ9EJVMHkcVNfI.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:43+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:50+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/themojostory/status/2120136581826990113",
@@ -53967,7 +55465,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120067832675213398/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120067740295913473/vid/avc1/720x900/Rnj2Iu0csVVim7aJ.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:41+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:48+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/Sanatani_sevak/status/2120067832675213398",
@@ -55063,7 +56561,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2120021278510006545/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2120021251129503744/vid/avc1/720x1280/nL9n29mC4GbY5Qz5.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:39+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:46+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/tehseenp/status/2120021278510006545",
@@ -56574,7 +58072,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119792008273515000/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119652193477517312/vid/avc1/720x1280/ducxqCsHAk08q9hd.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:33+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:40+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/AsianDigest/status/2119792008273515000",
@@ -57920,8 +59418,8 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119696806179381409/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119696374132559872/vid/avc1/720x956/w1hbeKnToHHPtK6y.mp4?tag=14",
-        "video_url_resolved_at": "2026-11-22T06:37:32+08:00",
-        "video_url_source": "inbox",
+        "video_url_resolved_at": "2026-11-23T06:37:39+08:00",
+        "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/himachal_abhi/status/2119696806179381409",
         "ytdlp_command": "yt-dlp https://x.com/himachal_abhi/status/2119696806179381409",
@@ -58224,7 +59722,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119692685019623544/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119690915996721152/vid/avc1/1920x1080/5PilynFy6f2m7xWG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:34+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:41+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BBCHindi/status/2119692685019623544",
@@ -59073,7 +60571,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119664248703812040/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119088352079040512/vid/avc1/720x1280/oPd2_O3f4xKV8J_P.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:37+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:44+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/babanlikita/status/2119664248703812040",
@@ -66040,7 +67538,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2119041751449248172/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2119041672692871168/vid/avc1/720x900/6jTcZwA1U32NFd6m.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:35+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:42+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/DeepaSharma132/status/2119041751449248172",
@@ -67225,7 +68723,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118984802179092499/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118981339341094912/vid/avc1/864x1536/amqXW3pWJvaEVv4H.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:35+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:43+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ShoneeKapoor/status/2118984802179092499",
@@ -69663,7 +71161,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118712529400799241/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118711873361317888/vid/avc1/1080x1920/kmclP0zMu2nfcC4K.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:38+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:45+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/gujratsamachar/status/2118712529400799241",
@@ -71451,7 +72949,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118393270770302994/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118393200767361024/vid/avc1/1280x720/SiyLO5gbZzFyxBVe.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-22T06:37:36+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:43+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/yuradeniis/status/2118393270770302994",
@@ -71901,7 +73399,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2118250999898882303/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2118250974997360640/vid/avc1/720x1280/uxgz6mbTN1TpmlCG.mp4",
-        "video_url_resolved_at": "2026-11-22T06:37:31+08:00",
+        "video_url_resolved_at": "2026-11-23T06:37:38+08:00",
         "video_url_source": "inbox",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/PressSecretary7/status/2118250999898882303",
