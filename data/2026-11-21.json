@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "Asia/Shanghai",
-  "count": 151,
+  "count": 154,
   "items": [
     {
       "id": "432c029d2b564065",
@@ -671,7 +671,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4cbe245693426f3a",
-      "cluster_item_count": 2,
+      "cluster_item_count": 4,
       "cluster_source_count": 1
     },
     {
@@ -721,7 +721,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4cbe245693426f3a",
-      "cluster_item_count": 2,
+      "cluster_item_count": 4,
       "cluster_source_count": 1
     },
     {
@@ -796,7 +796,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "6224afe39c2e6f89",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 1
     },
     {
@@ -1285,8 +1285,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "90a91354517e9e3a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "ba11453fa24e4147",
@@ -2198,7 +2198,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "6224afe39c2e6f89",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 1
     },
     {
@@ -2590,7 +2590,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "317452e8f22fccb7",
-      "cluster_item_count": 3,
+      "cluster_item_count": 5,
       "cluster_source_count": 1
     },
     {
@@ -2615,7 +2615,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "6224afe39c2e6f89",
-      "cluster_item_count": 3,
+      "cluster_item_count": 4,
       "cluster_source_count": 1
     },
     {
@@ -3032,7 +3032,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "317452e8f22fccb7",
-      "cluster_item_count": 3,
+      "cluster_item_count": 5,
       "cluster_source_count": 1
     },
     {
@@ -3131,7 +3131,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "317452e8f22fccb7",
-      "cluster_item_count": 3,
+      "cluster_item_count": 5,
       "cluster_source_count": 1
     },
     {
@@ -3158,6 +3158,31 @@
       "cluster_id": "54bdb5a4457b14ab",
       "cluster_item_count": 2,
       "cluster_source_count": 2
+    },
+    {
+      "id": "17d29b91e122db93",
+      "url": "https://www.republicworld.com/india/cm-yogi-bids-final-farewell-to-mother-savitri-devi-at-haridwar-baba-ramdev-calls-her-mother-of-the-nation-2026-11-21-141525",
+      "title_en": "CM Yogi Bids Final Farewell to Mother Savitri Devi at Haridwar; Baba Ramdev Calls Her 'Mother of the Nation'",
+      "title_zh": null,
+      "summary_en": "CM Yogi had earlier given a shoulder to his mother&#39;s mortal remains in his ancestral village of Panchur in Uttarakhand&#39;s Pauri Garhwal district. He also offered a floral garland to her photograph and was seen getting emotional as he bid her farewell.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/cm-yogi-mother-last-rites-1795236774144-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-21T15:57:52+08:00",
+      "fetched_at": "2026-11-23T11:38:20+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3fba103f1bf00728",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
     },
     {
       "id": "1fe720c4eaebc679",
@@ -3491,6 +3516,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "9dd9597beb541cf5",
+      "url": "https://www.timesnownews.com/sports/football/kalyan-chaubeys-aiff-tenure-under-scanner-as-praful-patel-highlights-four-years-of-struggle-article-156545538",
+      "title_en": "Kalyan Chaubey's AIFF Tenure Under Scanner As Praful Patel Highlights Four Years Of Struggle",
+      "title_zh": null,
+      "summary_en": "Praful Patel has criticised Kalyan Chaubey's leadership ahead of the AIFF elections, highlighting ongoing challenges faced by Indian football. , Football, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156545543,thumbsize-102724,width-1280,height-720,resizemode-75/156545543.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-21T15:13:01+08:00",
+      "fetched_at": "2026-11-23T11:38:13+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9dd9597beb541cf5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "bbb66f8b34ba9bf1",
       "url": "https://www.hindustantimes.com/trending/who-is-lexie-shoaibi-mandy-actor-from-gta-vi-confirms-identity-as-gamers-show-love-for-character-101795239782771.html",
       "title_en": "Lexie Shoaibi confirms she plays Mandy in GTA VI after character goes viral among players",
@@ -3537,6 +3587,32 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "bb59053761e4aa4f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "13469fbd02f6d3d4",
+      "url": "https://www.timesnownews.com/india/new-policing-structure-drug-menace-cybercrime-bengaluru-police-chief-lists-law-and-order-priorities-article-156545382",
+      "title_en": "New Policing Structure, Drug Menace, Cybercrime: Bengaluru Police Chief Lists Law And Order Priorities",
+      "title_zh": null,
+      "summary_en": "At the Times Now Summit Karnataka, Bengaluru’s Chief Commissioner of Police R. Hitendra outlined his key priorities for maintaining law and order in the city, including tackling drugs and cybercrime., India News, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156545462,thumbsize-83554,width-1280,height-720,resizemode-75/156545462.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-21T14:43:59+08:00",
+      "fetched_at": "2026-11-23T11:38:13+08:00",
+      "page_fetched": true,
+      "tags": [
+        "诈骗骗局",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "13469fbd02f6d3d4",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3887,8 +3963,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "939eaa7b82ce7417",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "6c2fc71596cc05c0",
@@ -4524,8 +4600,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "0abb587746ca01a1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "121e571900c9a460",
