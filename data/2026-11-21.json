@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "Asia/Shanghai",
-  "count": 154,
+  "count": 155,
   "items": [
     {
       "id": "432c029d2b564065",
@@ -985,9 +985,9 @@
         "angle": "官方",
         "angle_source": "inbox"
       },
-      "cluster_id": "19f0f82e251f7a1e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_id": "f3dc0855a81b849e",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "885d7c2df7950bf1",
@@ -3085,6 +3085,33 @@
       "cluster_source_count": 1
     },
     {
+      "id": "f3dc0855a81b849e",
+      "url": "https://www.republicworld.com/india/no-local-terrorists-left-in-kashmir-valley-amit-shah-says-last-known-local-let-operative-killed-in-pulwama-2026-11-21-141528",
+      "title_en": "'No Local Terrorists Left in Kashmir Valley': Amit Shah Says Last Known Local LeT Operative Killed in Pulwama",
+      "title_zh": null,
+      "summary_en": "Speaking at the President’s Police Colour Award Ceremony in Banderdewa, Arunachal Pradesh, the Union Home Minister said that the Kashmir Police has neutralised the last known terrorist linked to Lashkar-e-Taiba.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://img.republicworld.com/all_images/2026/11/no-local-terrorists-left-in-kashmir-valley-amit-shah-says-last-known-local-let-operative-killed-in-pulwama-1795248914552-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-21T16:15:33+08:00",
+      "fetched_at": "2026-11-24T14:52:42+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律",
+        "婚俗宗教",
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f3dc0855a81b849e",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
       "id": "47214a8303eed04f",
       "url": "https://www.republicworld.com/india/mocked-me-for-talking-about-toilets-pm-modi-cites-world-bank-report-on-50-crore-lifted-out-of-poverty-2026-11-21-141527",
       "title_en": "‘Mocked Me for Talking About Toilets’: PM Modi Cites World Bank Report on 50 Crore Lifted Out of Poverty",
@@ -3963,8 +3990,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "939eaa7b82ce7417",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "6c2fc71596cc05c0",
@@ -4429,7 +4456,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d0049a8937fa7ed7",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {

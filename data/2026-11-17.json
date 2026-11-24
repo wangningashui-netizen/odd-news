@@ -4026,8 +4026,8 @@
       "cluster_id": "b9ed5078960e5712",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 4,
-      "reddit_comments": 4
+      "reddit_score": 7,
+      "reddit_comments": 5
     },
     {
       "id": "b647cda6d5779b0e",
@@ -4154,8 +4154,8 @@
       "cluster_id": "12e9a22de50871f0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 345,
-      "reddit_comments": 44
+      "reddit_score": 367,
+      "reddit_comments": 51
     },
     {
       "id": "6d2aafea109262f9",
@@ -4384,8 +4384,8 @@
       "cluster_id": "696c33e46cf7ebe8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 26,
-      "reddit_comments": 13
+      "reddit_score": 49,
+      "reddit_comments": 18
     },
     {
       "id": "7a640c30592506e9",
@@ -4550,8 +4550,8 @@
       "cluster_id": "477de78095da412d",
       "cluster_item_count": 12,
       "cluster_source_count": 4,
-      "reddit_score": 1048,
-      "reddit_comments": 41
+      "reddit_score": 1412,
+      "reddit_comments": 54
     },
     {
       "id": "4cadf38b1a86c046",
@@ -4628,7 +4628,7 @@
       "cluster_id": "c7bb6d2de93cff81",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 109,
+      "reddit_score": 124,
       "reddit_comments": 10
     },
     {
@@ -4656,7 +4656,7 @@
       "cluster_id": "f0356b13635914a1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 112,
+      "reddit_score": 120,
       "reddit_comments": 9
     },
     {
@@ -4809,8 +4809,8 @@
       "cluster_id": "e04ebaf5efe08bd5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1121,
-      "reddit_comments": 56
+      "reddit_score": 1212,
+      "reddit_comments": 58
     },
     {
       "id": "6fe6d9a75426df6f",
@@ -4862,8 +4862,8 @@
       "cluster_id": "8183a45561ab09e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 16,
-      "reddit_comments": 13
+      "reddit_score": 22,
+      "reddit_comments": 14
     },
     {
       "id": "5cc2f314ac7ce217",
@@ -5440,7 +5440,7 @@
       "cluster_id": "9d96a53bdcfa40a0",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 6,
+      "reddit_score": 7,
       "reddit_comments": 1
     },
     {
@@ -5493,7 +5493,7 @@
       "cluster_id": "9d96a53bdcfa40a0",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 11,
+      "reddit_score": 12,
       "reddit_comments": 3
     },
     {
@@ -5648,7 +5648,7 @@
       "cluster_id": "850d0d554b07934b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 4,
+      "reddit_score": 6,
       "reddit_comments": 0
     },
     {
@@ -6169,8 +6169,8 @@
       "cluster_id": "331ff53075595812",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 674,
-      "reddit_comments": 82
+      "reddit_score": 941,
+      "reddit_comments": 105
     },
     {
       "id": "a67e148969da2fad",
@@ -6197,7 +6197,7 @@
       "cluster_id": "9deb6e1e261c6b4d",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 67,
+      "reddit_score": 74,
       "reddit_comments": 1
     },
     {
@@ -6277,7 +6277,7 @@
       "cluster_id": "21415a1298cae26d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 96,
+      "reddit_score": 99,
       "reddit_comments": 14
     },
     {
@@ -6305,7 +6305,7 @@
       "cluster_id": "c9e3d9ede5c26e8e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 43,
+      "reddit_score": 49,
       "reddit_comments": 13
     },
     {
@@ -6333,8 +6333,8 @@
       "cluster_id": "95e13f0a55f78fc2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 16,
-      "reddit_comments": 6
+      "reddit_score": 27,
+      "reddit_comments": 8
     }
   ]
 }

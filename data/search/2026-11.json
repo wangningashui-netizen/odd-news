@@ -1,7 +1,827 @@
 {
   "month": "2026-11",
-  "count": 2643,
+  "count": 2767,
   "items": [
+    {
+      "id": "bef50b692304d93f",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:42:50+08:00",
+      "title_zh": null,
+      "title_en": "Army regiment steps in as family at late soldier's daughter's wedding in Rajasthan",
+      "summary_zh": null,
+      "summary_en": "Officers and soldiers of the 16th Jat Regiment attended Preeti's Alwar wedding and performed her late father's traditional duties. Their support underscored the regiment's continuing bond with Havildar Pappal Singh's family.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/army-regiment-steps-in-as-family-at-late-soldiers-daughters-wedding-in-rajasthan-243511824-16x9_0.jpg?VersionId=lA_MoDcDyhVgATBTMa2qzsvp_nQn3_DQ",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "军事政治",
+        "婚俗宗教"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/army-regiment-steps-in-as-family-at-late-soldier-daughter-wedding-in-rajasthan-3045687-2026-11-24",
+      "translation_status": "pending",
+      "cluster_id": "bef50b692304d93f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b7caed383ec7a728",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:35:47+08:00",
+      "title_zh": null,
+      "title_en": "From AI makeovers to Lucia-inspired makeup, GTA 6 trend takes over social media",
+      "summary_zh": null,
+      "summary_en": "Social media users are turning photographs and make-up videos into GTA-inspired character looks. The trend combines AI prompts with practical recreations of Lucia's distinctive styling.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/gta-6-243536154-16x9_0.jpg?VersionId=fip9TDqChdct0UOK5FSaQ5CYuvzRGZAw",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/gta-6-trend-takes-over-social-media-ai-makeovers-to-lucia-inspired-makeup-3045672-2026-11-24",
+      "translation_status": "pending",
+      "cluster_id": "b7caed383ec7a728",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "03faab551ec19402",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:30:46+08:00",
+      "title_zh": null,
+      "title_en": "Man With ₹10 Crore Wealth Still Rides Old Scooty, Avoids Luxuries; Internet Debates His Lifestyle",
+      "summary_zh": null,
+      "summary_en": "An X post about a wealthy man who lives frugally and finds happiness in watching his bank balance grow instead of spending has sparked a social media debate.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/image-2026-11-56379deaa78ffc9dd1ecd18978aee0ba-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/man-with-10-crore-wealth-still-rides-old-scooty-avoids-luxuries-internet-debates-his-lifestyle-ws-el-10438372.html",
+      "translation_status": "pending",
+      "cluster_id": "03faab551ec19402",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "80e5b03b55e020cd",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:23:15+08:00",
+      "title_zh": null,
+      "title_en": "'His Father Couldn't Care Less': Woman Shares Emotional Struggle Of Raising Toddler",
+      "summary_zh": null,
+      "summary_en": "Mother of five-month-old shares exhaustion managing childcare alone while husband socialises.",
+      "image": "https://c.ndtvimg.com/2026-11/t2pi9jbk_as_625x300_24_November_26.jpeg",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/his-father-couldnt-care-less-woman-shares-emotional-struggle-of-raising-toddler-12369409",
+      "translation_status": "pending",
+      "cluster_id": "80e5b03b55e020cd",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "d07f387aeedc9b90",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:16:17+08:00",
+      "title_zh": null,
+      "title_en": "'Whether Chief Secretary Or Sweeper...': HC's Stern Message To TN Govt In Collector Harassment Case",
+      "summary_zh": null,
+      "summary_en": "The Madras High Court has pulled up Tamil Nadu government over the Arul Vignesh sexual harassment case, ordering a POSH committee and sought a report by November 27., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156558171,thumbsize-124245,width-1280,height-720,resizemode-75/156558171.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.timesnownews.com/india/madras-high-court-tamil-nadu-arul-vignesh-kallakurichi-collector-sexual-harassment-case-article-156558114",
+      "translation_status": "pending",
+      "cluster_id": "d07f387aeedc9b90",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b36c7f0d1a016560",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:15:24+08:00",
+      "title_zh": null,
+      "title_en": "Delhi Startup Founder Says He Prefers Not To Hire People Living Over 40 Minutes Away, Here’s Why",
+      "summary_zh": null,
+      "summary_en": "A Delhi startup founder has shared why he prefers not to hire candidates who live more than 40 minutes away from his office, sparking a debate on LinkedIn.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/WhatsApp-Image-2026-11-24-at-11.32.26-AM-2026-11-2d96e0440ce2662c24a695b2d4ce96d7-1200x675.jpeg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.news18.com/viral/delhi-startup-founder-says-he-prefers-not-to-hire-people-living-over-40-minutes-away-heres-why-ws-l-10438448.html",
+      "translation_status": "pending",
+      "cluster_id": "b36c7f0d1a016560",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a0422029b5af973d",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T14:04:44+08:00",
+      "title_zh": null,
+      "title_en": "Bank Holiday Today, November 24: Are Banks Open Or Closed On Gurpurab? Check State-Wise List",
+      "summary_zh": null,
+      "summary_en": "Bank Holiday Today, November 24: Are Banks Open Or Closed On Gurpurab? Check State-Wise List, Economy, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156558007,thumbsize-2062257,width-1280,height-720,resizemode-75/156558007.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/business-economy/economy/bank-holiday-today-november-24-are-banks-open-or-closed-on-gurpurab-check-state-wise-list-article-156558007",
+      "translation_status": "pending",
+      "cluster_id": "a0422029b5af973d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "2469c582841ced9c",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:53:40+08:00",
+      "title_zh": null,
+      "title_en": "Thanksgiving Day 2026 Special: Can You Make Roasted Chicken in a Pressure Cooker?",
+      "summary_zh": null,
+      "summary_en": "The answer is yes! Make a whole chicken, roasted to juicy perfection, right in your trusty pressure cooker., Food, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156558026,thumbsize-1488601,width-1280,height-720,resizemode-75/156558026.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/food/thanksgiving-day-2026-special-can-you-make-roasted-chicken-in-a-pressure-cooker-article-156557912",
+      "translation_status": "pending",
+      "cluster_id": "2469c582841ced9c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ba65cc1cb0f3d790",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:51:58+08:00",
+      "title_zh": null,
+      "title_en": "You Don’t Own Your Face Anymore",
+      "summary_zh": null,
+      "summary_en": "The Jensen Huang AI memes show how easily anyone's photos can be used to create content online., Technology & Science, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156558012,thumbsize-2153915,width-1280,height-720,resizemode-75/156558012.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/technology-science/you-dont-own-your-face-anymore-article-156558013",
+      "translation_status": "pending",
+      "cluster_id": "ba65cc1cb0f3d790",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "db32e14b18d5ee9a",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:34:28+08:00",
+      "title_zh": null,
+      "title_en": "Emotional Nvidia employee interrupts Jensen Huang’s return speech with a hug as CEO vows to do better",
+      "summary_zh": null,
+      "summary_en": "Nvidia reinstated Jensen Huang as president, CEO and board director on November 23.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Nvidia_Jensen_Huang_CEO_Employee_Hug_Video_1795498062071_Woux_1795498062368_AUuo_bb00a0b3-d5ca-4d95-98f3-b8c0cc2a2692_B59F.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/emotional-nvidia-employee-interrupts-jensen-huang-s-return-speech-with-a-hug-as-ceo-vows-to-do-better-101795497761398.html",
+      "translation_status": "pending",
+      "cluster_id": "9553cc5503bd86cb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "2c3436fa7c937614",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:30:00+08:00",
+      "title_zh": null,
+      "title_en": "Two-Time Booker Prize Winner Peter Carey Is Finally Writing His Memoir",
+      "summary_zh": null,
+      "summary_en": "Peter Carey's forthcoming memoir, 'An Unstable Element', recalls the years of rejection and uncertainty before his two Booker Prize wins., Books, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557722,thumbsize-948734,width-1280,height-720,resizemode-75/156557722.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/books/two-time-booker-prize-winner-peter-carey-is-finally-writing-his-memoir-article-156557597",
+      "translation_status": "pending",
+      "cluster_id": "2c3436fa7c937614",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0de4ee697ea7d2ca",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:24:38+08:00",
+      "title_zh": null,
+      "title_en": "Viral Video: Man Gets Stuck While Crawling Under Elephant Statue At MP’s Amarkantak Temple",
+      "summary_zh": null,
+      "summary_en": "A devotee at Madhya Pradesh’s Narmada Temple got stuck while trying to crawl between the legs of an elephant statue as part of a local religious ritual.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-24T104112.931-2026-11-9ad0dce0528b7c0738225412a57edc96-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教",
+        "动物",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/viral-video-man-gets-stuck-while-crawling-under-elephant-statue-at-mps-amarkantak-temple-ws-l-10438315.html",
+      "translation_status": "pending",
+      "cluster_id": "c1d25aa39ae90fb0",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "507e1e68b8cd068c",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:19:40+08:00",
+      "title_zh": null,
+      "title_en": "Are you bigger than CM? Cops snap at UP woman during convoy movement",
+      "summary_zh": null,
+      "summary_en": "A viral video from Lucknow shows a police officer allegedly snapping at a woman pleading to cross a barricaded road during the Uttar Pradesh CM's convoy movement.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/up-cops-241719595-16x9_0.jpg?VersionId=30wXBql0IFx5yPfuLhbPUFdcQLho86d1",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/lucknow-up-cops-snap-at-woman-during-cm-convoy-road-closure-3045626-2026-11-24",
+      "translation_status": "pending",
+      "cluster_id": "507e1e68b8cd068c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "51c573bd88a9f5d0",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:16:44+08:00",
+      "title_zh": null,
+      "title_en": "Kerala HC Quashes Suspension Of 16 Sanskrit University Students Over VC Assault Allegations",
+      "summary_zh": null,
+      "summary_en": "The Kerala High Court quashed the suspension of 16 students over alleged assault on the university VC and directed the institution to conduct separate examinations., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557886,thumbsize-653481,width-1280,height-720,resizemode-75/156557886.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/india/kerala-hc-quashes-suspension-of-16-sanskrit-university-students-over-vc-assault-allegations-article-156557861",
+      "translation_status": "pending",
+      "cluster_id": "51c573bd88a9f5d0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0c6e5b0244536514",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T13:04:03+08:00",
+      "title_zh": null,
+      "title_en": "Ramayana VFX Artist Calls Out Namit Malhotra's DNEG Over Layoff, No Salary Hike: Worked For Charity",
+      "summary_zh": null,
+      "summary_en": "Ramayana: Part 1 VFX artist Rahul Dhanwe has accused Namit Malhotra's DNEG of providing no salary hike in 4.6 years. After his layoff, he expressed concern for those working on the film's second installment. , Bollywood, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557814,thumbsize-392203,width-1280,height-720,resizemode-75/156557814.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "影视神剧",
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayana-vfx-artist-calls-out-namit-malhotras-dneg-over-layoff-no-salary-hike-worked-for-charity-article-156557709",
+      "translation_status": "pending",
+      "cluster_id": "0c6e5b0244536514",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ecd9ec719ae45236",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T12:55:54+08:00",
+      "title_zh": null,
+      "title_en": "Kim Kardashian's Paddock Style Has Had a Full Season of Looks, and Vegas Was the Leather One",
+      "summary_zh": null,
+      "summary_en": "Kim Kardashian showed up at the Las Vegas Grand Prix in two takes on the same Chrome Hearts leather look, one in red and one in black. , Fashion, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557602,thumbsize-166323,width-1280,height-720,resizemode-75/156557602.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/fashion/kim-kardashians-paddock-style-has-had-a-full-season-of-looks-and-vegas-was-the-leather-one-article-156557605",
+      "translation_status": "pending",
+      "cluster_id": "ecd9ec719ae45236",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ea4ff1735edbae82",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T12:32:45+08:00",
+      "title_zh": null,
+      "title_en": "5,600 Cops, Drone Ban, Supreme Court Order: Will Vijay Let The Deepam Be Lit?",
+      "summary_zh": null,
+      "summary_en": "Over 5,600 cops have been deployed at Thiruparankundram hill as Tamil Nadu braces for a politically charged Deepam today. Will Tamil Nadu comply with the Supreme Court's one-time order to light the lamp?, India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557598,thumbsize-116071,width-1280,height-720,resizemode-75/156557598.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "科技发明"
+      ],
+      "url": "https://www.timesnownews.com/india/tamil-nadu-deepathoon-row-5600-cops-deployed-karthigai-deepam-vijay-sc-article-156557560",
+      "translation_status": "pending",
+      "cluster_id": "ea4ff1735edbae82",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ccaa72d77745ff70",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T12:30:52+08:00",
+      "title_zh": null,
+      "title_en": "'Nehru Refused, Modi Accepted': Congress Takes Swipe Over Jewar Airport Renaming",
+      "summary_zh": null,
+      "summary_en": "The Congress took a swipe at PM Modi over the renaming of Jewar International Airport after him, citing instances when Jawaharlal Nehru refused to have public projects named in his honour., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557593,thumbsize-59640,width-1280,height-720,resizemode-75/156557593.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "航空出行",
+        "军事政治"
+      ],
+      "url": "https://www.timesnownews.com/india/nehru-refused-modi-accepted-congress-takes-swipe-over-jewar-airport-renaming-article-156557591",
+      "translation_status": "pending",
+      "cluster_id": "ccaa72d77745ff70",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "dea1ea6c8f82b7d1",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T12:14:21+08:00",
+      "title_zh": null,
+      "title_en": "India Calls for End to Attacks on Commercial Shipping, Safe Navigation in Black Sea at UNSC Amid Russia-Ukraine Conflict",
+      "summary_zh": null,
+      "summary_en": "Highlighting the impact of the conflict on global food security, he said armed conflicts disrupted agriculture, displaced communities, damaged infrastructure and hindered humanitarian access, with their consequences extending to energy, fertiliser, transport and agricultural trade.",
+      "image": "https://img.republicworld.com/all_images/2026/11/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict-1795493653430-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.republicworld.com/world-news/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict-2026-11-24-141729",
+      "translation_status": "pending",
+      "cluster_id": "d0049a8937fa7ed7",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9553cc5503bd86cb",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T12:12:35+08:00",
+      "title_zh": null,
+      "title_en": "Jensen Huang is back, and so are the memes: A look at posts celebrating his return to Nvidia",
+      "summary_zh": null,
+      "summary_en": "Nvidia's board on Monday reinstated Jensen Huang as President and CEO in a surprise move that sparked a wave of memes online",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/2790_1795493512465_aTn2_1795493522129_O54j_f92fb571-13c8-4752-82fe-9ffa0b7ace20_8dZz.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/jensen-huang-is-back-and-so-are-the-memes-a-look-at-posts-celebrating-his-return-to-nvidia-101795492722979.html",
+      "translation_status": "pending",
+      "cluster_id": "9553cc5503bd86cb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "4fe4a4173d3126df",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T11:51:56+08:00",
+      "title_zh": null,
+      "title_en": "Sheikh Hasina's Big Comeback? Ousted Bangladesh Leader Plans Return From Exile on December 16",
+      "summary_zh": null,
+      "summary_en": "Hasina has urged the government in Dhaka to arrange her air transport from Delhi aboard the national carrier, Biman Bangladesh Airlines, and facilitate the necessary travel documentation.",
+      "image": "https://img.republicworld.com/all_images/x-1766369421515-16_9.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.republicworld.com/world-news/ousted-leader-sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16-2026-11-24-141723",
+      "translation_status": "pending",
+      "cluster_id": "4fe4a4173d3126df",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "012195a6cadfcbd4",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T11:15:39+08:00",
+      "title_zh": null,
+      "title_en": "Jensen Huang's First Day Back At Nvidia Goes Viral: Employees Hug, Cheer And Chant His Name | Watch",
+      "summary_zh": null,
+      "summary_en": "Nvidia CEO Jensen Huang receives a thunderous welcome from employees on his first day back at the company's headquarters after reinstatement. Watch viral videos of employees cheering, hugging and chanting his name., Technology & Science, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557350,thumbsize-3624171,width-1280,height-720,resizemode-75/156557350.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.timesnownews.com/technology-science/jensen-huangs-first-day-back-at-nvidia-goes-viral-employees-hug-cheer-and-chant-his-name-watch-article-156557287",
+      "translation_status": "pending",
+      "cluster_id": "012195a6cadfcbd4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "c23720c5573be942",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T10:51:42+08:00",
+      "title_zh": null,
+      "title_en": "Elon Musk's Companies Face Lawsuits In US States Over Non-Consensual Sexual Images Given By Grok AI",
+      "summary_zh": null,
+      "summary_en": "US states - Virginia and Oregon - have sued Elon Musk's companies, alleging Grok generated non-consensual sexual images, including child-related content, while failing to enforce adequate safety safeguards., US News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557248,thumbsize-19258,width-1280,height-720,resizemode-75/156557248.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/world/us/us-news/elon-musks-companies-face-lawsuits-in-us-states-over-non-consensual-sexual-images-given-by-grok-ai-article-156557253",
+      "translation_status": "pending",
+      "cluster_id": "c23720c5573be942",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "209bdd578b845c2f",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T10:51:11+08:00",
+      "title_zh": null,
+      "title_en": "'Cyberpunk 2 Is Cancelled': CD Projekt Red Developer After GTA 6 Success",
+      "summary_zh": null,
+      "summary_en": "Cyberpunk 2 creative director, Igor Sarzynski, joked that the successor to Cyberpunk 2077 stood cancelled after GTA 6's success.",
+      "image": "https://c.ndtvimg.com/2026-11/bhjob9u4_as_625x300_24_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/cyberpunk-2-is-cancelled-cd-projekt-red-developer-after-gta-6-success-12368673",
+      "translation_status": "pending",
+      "cluster_id": "209bdd578b845c2f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e27e8ff67a3beb86",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T10:30:05+08:00",
+      "title_zh": null,
+      "title_en": "Google rejects rumours of 'huge layoffs' in India, says 30 roles were eliminated",
+      "summary_zh": null,
+      "summary_en": "Google has rejected rumours of “huge layoffs” within its Cloud division in India, calling them “totally inaccurate”.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/EU-ALPHABET-ANTIRUST-0_1795487360103_tkQM_1795487370885_hrWb_72c0070b-4414-4308-87de-9b2b9c3e0537_6ngG.JPG",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/google-rejects-rumours-of-huge-layoffs-in-india-says-30-roles-were-eliminated-101795487055896.html",
+      "translation_status": "pending",
+      "cluster_id": "e27e8ff67a3beb86",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1adaf692649911c6",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T10:05:54+08:00",
+      "title_zh": null,
+      "title_en": "5.4-Magnitude Earthquake Rocks Nepal, Tremors Felt Across Parts of India, Bhutan, China",
+      "summary_zh": null,
+      "summary_en": "There were no immediate reports of casualties or significant damage to property following the earthquake. Authorities are expected to assess the situation and monitor any developments in the affected areas.",
+      "image": "https://img.republicworld.com/all_images/2026/11/54-magnitude-earthquake-rocks-nepal-tremors-felt-across-parts-of-bihar-1795487551450-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.republicworld.com/world-news/53-magnitude-earthquake-rocks-nepal-tremors-felt-across-parts-of-bihar-2026-11-24-141715",
+      "translation_status": "pending",
+      "cluster_id": "1adaf692649911c6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e5ce70a6261ec04b",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T10:03:31+08:00",
+      "title_zh": null,
+      "title_en": "'They Wanted You Back': Jensen Huang Gets Rousing Welcome at Nvidia HQ; Elon Musk Reacts",
+      "summary_zh": null,
+      "summary_en": "Nvidia CEO Jensen Huang received a roaring welcome from employees upon returning to the company&#39;s headquarters. Reacting to the moment, Elon Musk noted that the staff clearly wanted him back.",
+      "image": "https://img.republicworld.com/all_images/2026/11/they-wanted-you-back-jensen-huang-gets-rousing-welcome-at-nvidia-hq-elon-musk-reacts-1795485801807-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.republicworld.com/world-news/they-wanted-you-back-jensen-huang-gets-rousing-welcome-at-nvidia-hq-elon-musk-reacts-2026-11-24-141713",
+      "translation_status": "pending",
+      "cluster_id": "e5ce70a6261ec04b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "041db1be72819837",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T09:44:51+08:00",
+      "title_zh": null,
+      "title_en": "'Own Goal': Allahabad HC Pulls Up Lawyer For Citing Google Article During Hearing",
+      "summary_zh": null,
+      "summary_en": "The Allahabad High Court reprimanded a lawyer for relying on a Google article and misquoting a Supreme Court judgment while arguing a criminal revision petition., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156557003,thumbsize-1501164,width-1280,height-720,resizemode-75/156557003.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/india/own-goal-allahabad-hc-pulls-up-lawyer-for-citing-google-article-during-hearing-article-156557005",
+      "translation_status": "pending",
+      "cluster_id": "041db1be72819837",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0872c0c7924c9c0c",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T09:32:50+08:00",
+      "title_zh": null,
+      "title_en": "Elon Musk on standing by Jensen Huang: 'Fair-weather friends are worthless'",
+      "summary_zh": null,
+      "summary_en": "Elon Musk praised Jensen Huang’s return as Nvidia CEO, saying supporters who stand by someone during difficult times are their real friends.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Musk_Huang_1795483937595_neLb_1795483937810_CNv2_abb1fb58-017c-4a2f-9dd3-8a66b9faec4f_iHQS.png",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/elon-musk-on-standing-by-jensen-huang-fair-weather-friends-are-worthless-101795483650684.html",
+      "translation_status": "pending",
+      "cluster_id": "0872c0c7924c9c0c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e6ad76e9dd15152d",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T09:24:03+08:00",
+      "title_zh": null,
+      "title_en": "Mathura, Hindutva And Development: BJP Lays Ground For 2027 UP Poll Battle",
+      "summary_zh": null,
+      "summary_en": "The BJP has sharpened its 2027 Uttar Pradesh poll strategy, focusing on Hindutva, development and the Mathura temple issue, while dismissing the proposed SP-Congress alliance as insignificant., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156556978,thumbsize-2098109,width-1280,height-720,resizemode-75/156556978.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.timesnownews.com/india/mathura-hindutva-and-development-bjp-lays-ground-for-2027-up-poll-battle-article-156556981",
+      "translation_status": "pending",
+      "cluster_id": "e6ad76e9dd15152d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "52960b7c46b390c4",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T08:30:00+08:00",
+      "title_zh": null,
+      "title_en": "Can Eating Oranges, Amla And Vitamin C-Rich Foods Protect You From Air Pollution Damage?",
+      "summary_zh": null,
+      "summary_en": "While oranges, amla and other antioxidant-rich foods can support the body's defences, experts explain why they cannot undo pollution damage or protect the lungs from toxic air., Health, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555126,thumbsize-130767,width-1280,height-720,resizemode-75/156555126.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "健康医疗"
+      ],
+      "url": "https://www.timesnownews.com/health/can-eating-oranges-amla-and-vitamin-c-rich-foods-protect-you-from-air-pollution-damage-article-156555106",
+      "translation_status": "pending",
+      "cluster_id": "52960b7c46b390c4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5ed67256d6761b6c",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T07:14:03+08:00",
+      "title_zh": null,
+      "title_en": "Nvidia Value Jumps Nearly $1 Trillion, Wall Street Roars as Jensen Huang Returns",
+      "summary_zh": null,
+      "summary_en": "Jensen Huang's return came after a brief resignation related to personal controversies. Other tech companies also saw gains amid the recovery, Markets, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156556810,thumbsize-104750,width-1280,height-720,resizemode-75/156556810.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/business-economy/markets/nvidia-stock-surge-value-jumps-1-trillion-wall-street-nasdaq-updates-jensen-huang-return-article-156556803",
+      "translation_status": "pending",
+      "cluster_id": "5ed67256d6761b6c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "893ebd4a5f3d6cb5",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T02:28:56+08:00",
+      "title_zh": null,
+      "title_en": "The Cinnamon Spice Hair Trend is Heating Up: A Guide to Choosing Your Shade and Makeup",
+      "summary_zh": null,
+      "summary_en": "There's absolutely no one that can't or shouldn't jump on the warmest beauty trend for this winter season. But a few tweaks to the vanity is essential to make it work in your favour. , Fashion, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555271,thumbsize-1572951,width-1280,height-720,resizemode-75/156555271.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/fashion/the-cinnamon-spice-hair-trend-is-heating-up-a-guide-to-choosing-your-shade-and-makeup-article-156555266",
+      "translation_status": "pending",
+      "cluster_id": "893ebd4a5f3d6cb5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "784784ddb84b6e70",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T01:50:52+08:00",
+      "title_zh": null,
+      "title_en": "Dreams Of Families Are Shattered When Youth Come Under Influence Of Drugs: PM Modi",
+      "summary_zh": null,
+      "summary_en": "Prime Minister Narendra Modi emphasised the importance of guiding youth away from drug addiction during a Shabad Kirtan event in Delhi, coinciding with the Parkash Purab of Guru Nanak Dev., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156556297,thumbsize-1839921,width-1280,height-720,resizemode-75/156556297.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.timesnownews.com/india/dreams-of-families-are-shattered-when-youth-come-under-influence-of-drugs-pm-modi-article-156556296",
+      "translation_status": "pending",
+      "cluster_id": "784784ddb84b6e70",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "33f41e408d2b339b",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T01:49:30+08:00",
+      "title_zh": null,
+      "title_en": "Full List of Nvidia Board of Directors: Meet the 10 Members Who Reinstated Jensen Huang",
+      "summary_zh": null,
+      "summary_en": "The board expressed confidence in Huang's leadership, emphasizing his importance to stakeholders, US News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156556294,thumbsize-206616,width-1280,height-720,resizemode-75/156556294.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/world/us/us-news/full-list-of-nvidia-board-of-directors-who-reinstated-jensen-huang-article-156556298",
+      "translation_status": "pending",
+      "cluster_id": "33f41e408d2b339b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "df941703444235aa",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T00:56:23+08:00",
+      "title_zh": null,
+      "title_en": "Students Bunk School To Watch India-New Zealand Test Match, Hide As Camera Spots Them",
+      "summary_zh": null,
+      "summary_en": "As soon as they realised they were on camera, the schoolchildren started hiding their faces and ducking out of sight.",
+      "image": "https://c.ndtvimg.com/2026-11/6a72sdmc_viral-video-school-kids-bunk-school-to-watch-india-vs-new-zealand-match_625x300_23_November_26.jpeg",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/students-bunk-school-to-watch-india-new-zealand-match-hide-as-camera-spots-them-12367733",
+      "translation_status": "pending",
+      "cluster_id": "df941703444235aa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0d730d5c33dfd6f6",
+      "date": "2026-11-24",
+      "published_at": "2026-11-24T00:29:57+08:00",
+      "title_zh": null,
+      "title_en": "‘AI will run the world': US CEO tells employees to complete 5-hour AI course or risk poor performance reviews",
+      "summary_zh": null,
+      "summary_en": "The course was launched by Job van der Voort to help workers understand how to use AI in their day-to-day jobs.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Job_van_der_Voort_1795450497513_cmGm_1795450504508_fd8I_05036212-5e96-418d-9359-89165c69aa99_wHFM.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/us/ai-will-run-the-world-us-ceo-tells-employees-to-complete-5-hour-ai-course-or-risk-poor-performance-reviews-101795450288031.html",
+      "translation_status": "pending",
+      "cluster_id": "0d730d5c33dfd6f6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "fa99e38a84cd39b9",
       "date": "2026-11-23",
@@ -295,6 +1115,28 @@
       }
     },
     {
+      "id": "08ecaa3926a71118",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T23:18:12+08:00",
+      "title_zh": null,
+      "title_en": "'Mistake Corrected': Musk Endorses Jensen Huang's Return to NVIDIA, Democrat Lawmakers Critical",
+      "summary_zh": null,
+      "summary_en": "Musk backed Jensen Huang&#39;s return as Nvidia CEO, saying the &quot;mistake has been corrected&quot;. Democrats criticised the reinstatement and demanded answers over national security concerns.",
+      "image": "https://img.republicworld.com/all_images/2026/11/no-one-can-replace-him-elon-musk-says-nvidia-s-decision-to-sack-jensen-huang-was-not-smart-1795056175964-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.republicworld.com/world-news/mistake-corrected-musk-endorses-jensen-huang-s-return-to-nvidia-democrat-lawmakers-critical-2026-11-23-141698",
+      "translation_status": "pending",
+      "cluster_id": "c26f0d2d462233a9",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "be4b96ec6158e6aa",
       "date": "2026-11-23",
       "published_at": "2026-11-23T23:17:29+08:00",
@@ -405,6 +1247,249 @@
       }
     },
     {
+      "id": "c26f0d2d462233a9",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T23:17:23+08:00",
+      "title_zh": null,
+      "title_en": "'Mistake has been corrected': Elon Musk after Nvidia reinstates Jensen Huang as CEO",
+      "summary_zh": null,
+      "summary_en": "In a statement, Nvidia said its board of directors had voted unanimously to reinstate Jensen Huang as CEO following a series of discussions and meetings.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/musk_1795446805155_SRQL_1795446805241_ekRM_fdd54a14-dd44-472b-8df4-2edf3dc8bee5_d9MS.png",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/us/mistake-has-been-corrected-elon-musk-after-nvidia-reinstates-jensen-huang-as-ceo-101795446504326.html",
+      "translation_status": "pending",
+      "cluster_id": "c26f0d2d462233a9",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "8c0423ed35d8a403",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T23:05:47+08:00",
+      "title_zh": null,
+      "title_en": "Virginia, Oregon Sue Musk's SpaceX Over Grok AI's Creation of Child Sexual Abuse Images and Videos",
+      "summary_zh": null,
+      "summary_en": "Virginia and Oregon have sued Musk&#39;s SpaceX, alleging Grok AI generated child sexual abuse material and non-consensual images due to inadequate safeguards.",
+      "image": "https://img.republicworld.com/all_images/2026/06/spacex-75-billion-ipo-debuts-on-friday-with-musk-eyeing-first-trillionaire-status-starship-starlink-and-ai-in-focus-1781192808111-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.republicworld.com/global-news/virginia-oregon-sue-musk-s-spacex-over-grok-ai-s-creation-of-child-sexual-abuse-images-and-videos-2026-11-23-141697",
+      "translation_status": "pending",
+      "cluster_id": "8c0423ed35d8a403",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f81169a294be50c0",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T23:00:20+08:00",
+      "title_zh": null,
+      "title_en": "Jensen Huang's CEO Comeback Has The Internet Talking, Memes Are Too Good To Miss: 'Bear Market Is Over'",
+      "summary_zh": null,
+      "summary_en": "Jensen Huang's reinstatement as NVIDIA's CEO has triggered a meme fest online, with social media users joking about the company's future and investor reactions., Viral, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555729,thumbsize-57795,width-1280,height-720,resizemode-75/156555729.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路",
+        "动物"
+      ],
+      "url": "https://www.timesnownews.com/viral/jensen-huangs-ceo-comeback-has-the-internet-talking-memes-are-too-good-to-miss-bear-market-is-over-article-156555720",
+      "translation_status": "pending",
+      "cluster_id": "f81169a294be50c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "12055b5ff467a3ec",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T22:32:59+08:00",
+      "title_zh": null,
+      "title_en": "Here Is What Jensen Huang Said After Returning As Nvidia CEO",
+      "summary_zh": null,
+      "summary_en": "Jensen Huang has been reinstated as CEO of Nvidia after an 11-day leadership turmoil surrounding his initial resignation due to personal controversies., Technology & Science, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555588,thumbsize-22216,width-1280,height-720,resizemode-75/156555588.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/technology-science/here-is-what-jensen-huang-said-after-returning-as-nvidia-ceo-article-156555594",
+      "translation_status": "pending",
+      "cluster_id": "2efaec33b1129309",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a60f69c8a62499d3",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T22:30:17+08:00",
+      "title_zh": null,
+      "title_en": "Foreigner Calls Out Indians After People Jump Queue, Says ‘Their Lack Of Spatial Awareness Test My Patience",
+      "summary_zh": null,
+      "summary_en": "The woman shared that she was standing at the front in a line then people began standing in front of her repeatedly, which made her go from first to last without moving",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-1-2026-11-7a5e3bb64b71928284071f0e6e305342-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/foreigner-calls-out-indians-after-people-jump-queue-says-their-lack-of-spatial-awareness-test-my-patience-ws-l-10437707.html",
+      "translation_status": "pending",
+      "cluster_id": "a60f69c8a62499d3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "2efaec33b1129309",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T22:14:37+08:00",
+      "title_zh": null,
+      "title_en": "Jensen Huang Returns As Nvidia CEO Just 11 Days After Resigning: Here Is What Company Said",
+      "summary_zh": null,
+      "summary_en": "Nvidia co-founder Jensen Huang is back as the company's President and Chief Executive Officer, just days after stepping down from the top position., Technology & Science, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555556,thumbsize-2937313,width-1280,height-720,resizemode-75/156555556.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.timesnownews.com/technology-science/jensen-huang-returns-as-nvidia-ceo-just-11-days-after-resigning-here-is-what-company-said-article-156555541",
+      "translation_status": "pending",
+      "cluster_id": "2efaec33b1129309",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "d0449782119dea8b",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T22:10:17+08:00",
+      "title_zh": null,
+      "title_en": "Jensen Huang Is Back At Nvidia, And The Internet Is Losing It: 'AI Is SAVED'",
+      "summary_zh": null,
+      "summary_en": "From 'AI is SAVED' to 'long live king Jensen', social media users are celebrating Huang's comeback after a turbulent exit linked to personal and national security controversies",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/6-2026-11-f6a57244c481ea352db038700de14c2f-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/jensen-huang-is-back-at-nvidia-and-the-internet-is-losing-it-ai-is-saved-10437826.html",
+      "translation_status": "pending",
+      "cluster_id": "d0449782119dea8b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e01b6b758807365c",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T22:00:44+08:00",
+      "title_zh": null,
+      "title_en": "'Are We All Saints Sitting Here? Ashwin Defends Australia Over Sandpaper Row",
+      "summary_zh": null,
+      "summary_en": "R Ashwin said that India could sledge Australia over the sandpaper row during the Border-Gavaskar Trophy., Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555493,thumbsize-523130,width-1280,height-720,resizemode-75/156555493.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/are-we-all-saints-sitting-here-ashwin-defends-australia-over-sandpaper-row-article-156555483",
+      "translation_status": "pending",
+      "cluster_id": "e01b6b758807365c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "49b55e9f79e218da",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T22:00:24+08:00",
+      "title_zh": null,
+      "title_en": "Man Gets Seat No. 54 In AC 2-Tier Coach But Finds It Has Only 52 Berths: ‘How Can This Happen?’",
+      "summary_zh": null,
+      "summary_en": "The man shared a screenshot of his confirmed ticket, which revealed that he had an overnight journey from Varanasi to Gorakhpur on BCY NPR Express in an AC 2-Tier coach",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2026-11-fecc5e340dc471949cdffd371eaa3d85-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/man-gets-seat-no-54-in-ac-2-tier-coach-but-finds-it-has-only-52-berths-how-can-this-happen-ws-l-10437539.html",
+      "translation_status": "pending",
+      "cluster_id": "49b55e9f79e218da",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "6e1a28d2c0f99e80",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:59:24+08:00",
+      "title_zh": null,
+      "title_en": "Nearly 40% Ration Beneficiaries Ineligible In Bengal, Tripura, Tamil Nadu: Survey",
+      "summary_zh": null,
+      "summary_en": "A recent survey by the union food ministry indicates that a significant proportion of beneficiaries in the Pradhan Mantri Garib Kalyan Anna Yojana may not meet eligibility requirements, and highlighted a national inclusion error of 13.2%., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555489,thumbsize-2885313,width-1280,height-720,resizemode-75/156555489.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/india/nearly-40-ration-beneficiaries-ineligible-in-bengal-tripura-tamil-nadu-survey-article-156555460",
+      "translation_status": "pending",
+      "cluster_id": "6e1a28d2c0f99e80",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5efd9f93adfebd92",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:36:10+08:00",
+      "title_zh": null,
+      "title_en": "'Only 5 Days Left': Youth Cong Storms Meta Office Again, This Time In Gurugram",
+      "summary_zh": null,
+      "summary_en": "Indian Youth Congress workers have stormed the office of tech giant Meta in Gurugram, reiterating their demands and ultimatum over swell of withheld accounts across Meta platforms, India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555408,thumbsize-1652919,width-1280,height-720,resizemode-75/156555408.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/india/only-5-days-left-youth-cong-storms-meta-office-again-this-time-in-gurugram-article-156555410",
+      "translation_status": "pending",
+      "cluster_id": "5efd9f93adfebd92",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "f82dc928ade32744",
       "date": "2026-11-23",
       "published_at": "2026-11-23T21:35:47+08:00",
@@ -486,6 +1571,403 @@
         "angle": "官方",
         "angle_source": "inbox"
       }
+    },
+    {
+      "id": "73a7aa13aa910c38",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:30:10+08:00",
+      "title_zh": null,
+      "title_en": "23-Year-Old Woman Shares Three-Bucket Money Strategy That Helps Her Stay Financially Independent",
+      "summary_zh": null,
+      "summary_en": "A 23-year-old woman has shared how she manages her earnings through a three-bucket system, balancing investments, everyday expenses and emergency savings.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-23T165216.548-2026-11-1bf258fc63d41f3372838e3ba8774fc3-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/23-year-old-woman-shares-three-bucket-money-strategy-that-helps-her-stay-financially-independent-ws-l-10437593.html",
+      "translation_status": "pending",
+      "cluster_id": "73a7aa13aa910c38",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "bf653ebdc2e819be",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:20:50+08:00",
+      "title_zh": null,
+      "title_en": "'Don't Be Hand-In-Glove': SC's Rap On The Knuckles For States Over Illegal Constructions",
+      "summary_zh": null,
+      "summary_en": "The Supreme Court has questioned municipal authorities across the country over alleged collusion in illegal constructions, asking what price is paid to secure approvals and avoid demolition., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555285,thumbsize-140631,width-1280,height-720,resizemode-75/156555285.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/india/supreme-court-illegal-constructions-municipal-authorities-collusion-article-156555269",
+      "translation_status": "pending",
+      "cluster_id": "bf653ebdc2e819be",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7327208aec030876",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:14:32+08:00",
+      "title_zh": null,
+      "title_en": "Rupa Biswas Sen once scolded her son for playing GTA. Now, her 44-year-old song is part of GTA 6",
+      "summary_zh": null,
+      "summary_en": "Rupa Biswas Sen's 1982 Bengali disco track ‘Aaj Shanibar’ has been featured on Worldwide FM, one of the in-game radio stations in GTA 6.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/rupa_biswas_sen_1795439300357_ioht_1795439305072_d2eD_daddedf9-6acc-4e63-87ad-e1c190d87aa0_qL57.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/rupa-biswas-sen-once-scolded-her-son-for-playing-gta-now-her-44-year-old-song-is-part-of-gta-6-101795438640149.html",
+      "translation_status": "pending",
+      "cluster_id": "7327208aec030876",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "d6de618bab41b41b",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:12:06+08:00",
+      "title_zh": null,
+      "title_en": "Foreigner Walking The Length Of India Shares Unforgettable Encounter With Shepherd: ‘The Kindest Man In The",
+      "summary_zh": null,
+      "summary_en": "The traveller shared that the shepherd not only invited him to his home but also offered him food and tea and even gave up on his own bed to let him sleep comfortably",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-6-2026-11-1257d8fb13ecc4b7e80e8b2d3bf2bf16-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/foreigner-walking-the-length-of-india-shares-unforgettable-encounter-with-shepherd-the-kindest-man-in-the-world-10437767.html",
+      "translation_status": "pending",
+      "cluster_id": "d6de618bab41b41b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9833d917c459d1f9",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:08:37+08:00",
+      "title_zh": null,
+      "title_en": "Indian entrepreneur cycles, runs in Dubai wearing saree, wins hearts online",
+      "summary_zh": null,
+      "summary_en": "Kanchana Nair cycled and ran at Dubai fitness events while wearing a saree. Her videos celebrated Indian roots and gratitude towards the UAE.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/indian-entrepreneur-cycles--runs-in-dubai-wearing-saree-photos-kanchana-nairinstagram-234206730-16x9_0.jpg?VersionId=jEj94SRWPO9lN3H9RyJ_ZwFUUnqUhLo4",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/indian-entrepreneur-cycles-runs-in-dubai-wearing-saree-wins-hearts-online-3045214-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "9833d917c459d1f9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "dc9a4e4e3fe5e003",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:07:14+08:00",
+      "title_zh": null,
+      "title_en": "From F-35 Jets To Javelin Missiles: How India And US Took Defence Ties To The Next Level In 2026",
+      "summary_zh": null,
+      "summary_en": "India and the US expanded defence cooperation in 2026 through major military exercises, F-35 fighter jet participation, Javelin missile deals, defence co-production and new Quad initiatives.",
+      "image": "https://img.republicworld.com/all_images/republic-day-2026-rafales-su-30s-choppers-surface-to-air-missiles-netra-provide-aerial-shield-to-delhi-1769416062725-16_9.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.republicworld.com/global-news/from-f-35-jets-to-javelin-missiles-how-india-and-us-took-defence-ties-to-the-next-level-in-2026-2026-11-23-141686",
+      "translation_status": "pending",
+      "cluster_id": "dc9a4e4e3fe5e003",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "62c8569a4bf1a385",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:00:51+08:00",
+      "title_zh": null,
+      "title_en": "Shahid Kapoor-Saif Ali Khan Bump Into Each Other After Kareena-Mira’s Meet; Netizens Say ‘What A Spicy Frame’",
+      "summary_zh": null,
+      "summary_en": "Shahid Kapoor and Saif Ali Khan recently bumped into each other in Mumbai after Kareena Kapoor Khan and Mira Rajput's epic meet on a YouTube show. Read full story to know more., Bollywood, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555239,thumbsize-514562,width-1280,height-720,resizemode-75/156555239.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "影视神剧"
+      ],
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/shahid-kapoor-saif-ali-khan-bump-into-each-other-after-kareena-kapoor-mira-rajput-meet-netizens-say-what-a-spicy-frame-article-156555236",
+      "translation_status": "pending",
+      "cluster_id": "62c8569a4bf1a385",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "3561659e7b42dac4",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T21:00:22+08:00",
+      "title_zh": null,
+      "title_en": "Mumbai Woman Biker Gets Flower From Stranger Amid Road Accident Argument; Video Goes Viral",
+      "summary_zh": null,
+      "summary_en": "A Mumbai biker named Kajal received a flower from a stranger during a roadside argument after an accident, with the viral video sparking mixed reactions online.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-22-2026-11-df207279fcd9f98b584e58f7ca8c6a38-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事",
+        "交通火车"
+      ],
+      "url": "https://www.news18.com/viral/mumbai-woman-biker-gets-flower-from-stranger-amid-road-accident-argument-video-goes-viral-ws-l-10437407.html",
+      "translation_status": "pending",
+      "cluster_id": "aa61e92645b56c28",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5197964087325a0b",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:56:29+08:00",
+      "title_zh": null,
+      "title_en": "Happy Guru Nanak Jayanti 2026: Top 15 Wishes, Messages And Greetings To Share On Gurpurab",
+      "summary_zh": null,
+      "summary_en": "Guru Nanak Jayanti 2026: Make this festival even more meaningful by sharing heartfelt wishes, greetings, WhatsApp messages, and Facebook statuses with your family, friends, and loved ones.",
+      "image": "https://c.ndtvimg.com/2023-11/81d3mlho_happy-guru-purab_625x300_27_November_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.ndtv.com/offbeat/happy-guru-nanak-jayanti-2026-top-15-wishes-messages-and-greetings-to-share-on-gurpurab-12366507",
+      "translation_status": "pending",
+      "cluster_id": "a1e3ab805f03cad7",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a1e3ab805f03cad7",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:54:30+08:00",
+      "title_zh": null,
+      "title_en": "Guru Nanak Jayanti 2026: Date, History And Significance Of Gurpurab",
+      "summary_zh": null,
+      "summary_en": "Guru Nanak Jayanti 2026: His teachings were recorded in the Guru Granth Sahib and became the foundation of Sikhism.",
+      "image": "https://c.ndtvimg.com/2026-11/fg911s7k_guru-nanak-jayanti-2026-source-ndtv_625x300_23_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/guru-nanak-jayanti-2026-date-history-and-significance-of-gurpurab-12366491",
+      "translation_status": "pending",
+      "cluster_id": "a1e3ab805f03cad7",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7cfd49b1afb6e837",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:30:09+08:00",
+      "title_zh": null,
+      "title_en": "Indian Tourists' Behaviour During Norway Bus Tour Leaves Fellow Indian ‘Embarrassed’: ‘No Consideration For",
+      "summary_zh": null,
+      "summary_en": "The man shared that a group of Indian tourists on a guided bus tour decided that the entire bus would sing Bollywood songs because the ‘vibes demanded it’ and began singing loudly",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-3-2026-11-c6b3bfdedf2b3a6cafc57288dccd69fa-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "影视神剧"
+      ],
+      "url": "https://www.news18.com/viral/indian-tourists-behaviour-during-norway-bus-tour-leaves-fellow-indian-embarrassed-no-consideration-for-others-ws-l-10437533.html",
+      "translation_status": "pending",
+      "cluster_id": "ac3a9c2401aca1bd",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ee543d8133e04493",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:27:52+08:00",
+      "title_zh": null,
+      "title_en": "UP Village's Secret Liquor Supply: Handpumps Used To Pump Out Illicit Alcohol From Underground Tanks",
+      "summary_zh": null,
+      "summary_en": "Police in Jhansi uncovered an unusual illicit liquor operation where handpumps were allegedly used to extract country-made liquor stored in underground tanks. , Viral, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156555078,thumbsize-74698,width-1280,height-720,resizemode-75/156555078.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/viral/up-villages-secret-liquor-supply-handpumps-used-to-pump-out-illicit-alcohol-from-underground-tanks-article-156555080",
+      "translation_status": "pending",
+      "cluster_id": "ee543d8133e04493",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "6e1725a7d765b912",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:15:43+08:00",
+      "title_zh": null,
+      "title_en": "Woman Says Husband Plays Cricket Every Friday While She Struggles With Raising 2 Kids: ‘Even Going To The B",
+      "summary_zh": null,
+      "summary_en": "A mother of two has shared her struggles with caring for her five-month-old baby, saying she is left exhausted while her husband continues enjoying outings and social events.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/WhatsApp-Image-2026-11-23-at-5.38.39-PM-2026-11-56f6ea27c1788f7fe4d5b095391d81fd-1200x675.jpeg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/woman-says-husband-plays-cricket-every-friday-while-she-struggles-with-raising-2-kids-even-going-to-the-bathroom-is-difficult-ws-l-10437672.html",
+      "translation_status": "pending",
+      "cluster_id": "6e1725a7d765b912",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a5c025eabf7299a5",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:05:11+08:00",
+      "title_zh": null,
+      "title_en": "Stray dog follows Madhya Pradesh man's funeral procession, stays through last rites",
+      "summary_zh": null,
+      "summary_en": "A stray dog followed Mohanlal Raikwar's funeral procession and stayed through his last rites. Kalu's presence reflected the bond formed after the Sehore resident fed him daily.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/stray-dog-follows-madhya-pradesh-mans-funeral-procession-23020128-16x9_0.jpg?VersionId=om5fyCQ1NBqGMzy8pbS8CBTXMLGxRPhU",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "动物"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/stray-dog-follows-madhya-pradesh-man-funeral-procession-stays-through-last-rites-3045162-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "a5c025eabf7299a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "633fccdd681aa6d0",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:00:30+08:00",
+      "title_zh": null,
+      "title_en": "Bengaluru Cab Driver Earns Rs 20,000 A Day With 10 Ertigas, Leaves Passenger Stunned",
+      "summary_zh": null,
+      "summary_en": "The driver reportedly revealed that he owned 10 Maruti Suzuki Ertiga cars in Mumbai, each of which was rented out for Rs 1,500 per day.",
+      "image": "https://c.ndtvimg.com/2026-11/64vlqsjo_cab-driver_625x300_23_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/bengaluru-cab-driver-earns-rs-20-000-a-day-with-10-ertigas-leaves-passenger-stunned-12366201",
+      "translation_status": "pending",
+      "cluster_id": "7c799ef668f9056c",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b4c47cb9d57d706e",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T20:00:21+08:00",
+      "title_zh": null,
+      "title_en": "'What Is The Sanctity Of Marriage?': Woman Claims Affairs Are Common In Delhi Offices; Internet Reacts",
+      "summary_zh": null,
+      "summary_en": "A social media post claiming that extramarital affairs are common among married colleagues in Delhi co-working spaces has sparked an online debate over marriage and fidelity.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/image-2026-11-28ba27ab3fab49579756023080ebff40-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/what-is-the-sanctity-of-marriage-woman-claims-affairs-are-common-in-delhi-offices-internet-reacts-ws-el-10437232.html",
+      "translation_status": "pending",
+      "cluster_id": "b4c47cb9d57d706e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9ca79f645cb61c89",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T19:30:01+08:00",
+      "title_zh": null,
+      "title_en": "Pune Tenant Faces Sudden ₹3,000 Rent Hike In 2 Months After Metro Opens, Reddit Users Suggest What He Should Do",
+      "summary_zh": null,
+      "summary_en": "A Pune tenant has sought advice after his landlord demanded a ₹3,000 rent hike just two months after he moved in, citing a nearby metro station.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-23T160851.185-2026-11-8f6ce87cfe0dc0c11c177c50c4102caa-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.news18.com/viral/pune-tenant-faces-sudden-3000-rent-hike-in-2-months-after-metro-opens-reddit-users-suggest-what-he-should-do-ws-l-10437455.html",
+      "translation_status": "pending",
+      "cluster_id": "9ca79f645cb61c89",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b2314142232e1eba",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T19:24:10+08:00",
+      "title_zh": null,
+      "title_en": "720 Runs, 352 Lead But No Win! India Set Unwanted Records As Marathon Batting Effort Goes In Vain",
+      "summary_zh": null,
+      "summary_en": "India set multiple unwanted records as they put up a score of 702 runs on the board and took a 352-run first innings lead in Wellington against New Zealand but failed to win the match. , Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554759,thumbsize-962203,width-1280,height-720,resizemode-75/156554759.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/720-runs-352-lead-but-no-win-india-set-unwanted-records-as-marathon-batting-effort-goes-in-vain-article-156554622",
+      "translation_status": "pending",
+      "cluster_id": "b2314142232e1eba",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "8eb75225fd0625fc",
@@ -591,6 +2073,161 @@
         "angle": "官方",
         "angle_source": "inbox"
       }
+    },
+    {
+      "id": "3c83019c1b521554",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T19:19:22+08:00",
+      "title_zh": null,
+      "title_en": "Airbnb CEO Brian Chesky explains why founder CEOs are hard to replace amid Jensen Huang's exit",
+      "summary_zh": null,
+      "summary_en": "Airbnb CEO Brian Chesky's remarks come amid the controversy surrounding former Nvidia CEO Jensen Huang.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/HOPE-GLOBAL-FORUMS-20_1704374404071_1795432213682_a0wK_74fbd3e1-b0dd-4965-85a2-597f62d97238_HwzE.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/airbnb-ceo-brian-chesky-explains-why-founder-ceos-are-hard-to-replace-amid-jensen-huangs-exit-101795431938731.html",
+      "translation_status": "pending",
+      "cluster_id": "3c83019c1b521554",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "6e74620922a85088",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T19:15:59+08:00",
+      "title_zh": null,
+      "title_en": "IIT Graduate Loses 23 LPA Job As Company Shuts Down, Now Earns Rs 60,000 A Month But Says ‘Family Isn’t Hap",
+      "summary_zh": null,
+      "summary_en": "The IIT Bombay graduate shared that he was just six months into his job, which he landed through college placements, when the company shut down, leaving him jobless",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-2026-11-4fd1d70a6d1caa25d4c11a70d462b90a-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.news18.com/viral/iit-graduate-loses-23-lpa-job-as-company-shuts-down-now-earns-rs-60000-a-month-but-says-family-isnt-happy-ws-l-10437191.html",
+      "translation_status": "pending",
+      "cluster_id": "6e74620922a85088",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9860231048e4b5e2",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T19:10:10+08:00",
+      "title_zh": null,
+      "title_en": "Nepal's PM Balendra Shah Brings His Trademark Style To India In Black Daura-Suruwal And Signature Sunglasses",
+      "summary_zh": null,
+      "summary_en": "The rapper-turned-politician wore head-to-toe black, a Dhaka topi and his famous shades to meet Prime Minister Narendra Modi, on his first bilateral foreign visit since taking office in March 2026., Fashion, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554453,thumbsize-123899,width-1280,height-720,resizemode-75/156554453.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/fashion/nepal-pm-balendra-shah-brings-his-trademark-style-to-india-in-black-daura-suruwal-and-signature-sunglasses-article-156554461",
+      "translation_status": "pending",
+      "cluster_id": "9860231048e4b5e2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5c8323c979328933",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T19:02:23+08:00",
+      "title_zh": null,
+      "title_en": "‘My Father Has Died, I Want To Go To Him’: Grieving Son Breaks Down As SpiceJet Delays Patna Flight; Intern",
+      "summary_zh": null,
+      "summary_en": "The passenger, who posted the video, slammed the airline for their apparent lack of accountability and compassion towards the travellers after it repeatedly delayed the flight",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-4-2026-11-641941424eb4d9734a8d8a0123723b9c-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "航空出行"
+      ],
+      "url": "https://www.news18.com/viral/my-father-has-died-i-want-to-go-to-him-grieving-son-breaks-down-as-spicejet-delays-patna-flight-internet-reacts-ws-l-10437516.html",
+      "translation_status": "pending",
+      "cluster_id": "5c8323c979328933",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "3d4a8ce59fd7a7eb",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:51:32+08:00",
+      "title_zh": null,
+      "title_en": "Reddit User Claims He Bought BMW Worth Rs 85 Lakh On Credit Cards, Internet Reacts",
+      "summary_zh": null,
+      "summary_en": "According to the user, his Chartered Accountant (CA) had informed the bank's Relationship Manager (RM) about the large payment in advance.",
+      "image": "https://c.ndtvimg.com/2026-11/m72qgijs_bmw-car_625x300_23_November_26.jpeg",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/bought-bmw-using-credit-cards-reddit-user-claims-he-paid-rs-85-lakh-using-two-cards-12365828",
+      "translation_status": "pending",
+      "cluster_id": "3d4a8ce59fd7a7eb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "485d5a4518272ef7",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:51:09+08:00",
+      "title_zh": null,
+      "title_en": "'Proud Of You': School Kids Who Bunked Classes To Watch IND vs NZ Test Reveal Families' Reaction",
+      "summary_zh": null,
+      "summary_en": "School kids were caught bunking classes to watch the India-New Zealand Wellington Test in a viral video, Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554577,thumbsize-985930,width-1280,height-720,resizemode-75/156554577.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/proud-of-you-school-kids-who-bunked-classes-to-watch-ind-vs-nz-test-reveal-families-reaction-article-156554475",
+      "translation_status": "pending",
+      "cluster_id": "485d5a4518272ef7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "c1d25aa39ae90fb0",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:34:58+08:00",
+      "title_zh": null,
+      "title_en": "Man crawls under elephant statue at Madhya Pradesh temple, gets stuck in tight spot",
+      "summary_zh": null,
+      "summary_en": "A visit to a temple in Madhya Pradesh's Amarkantak took an unexpected turn when a devotee attempting to squeeze beneath a stone elephant statue found himself stuck midway.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/man-crawls-under-elephant-statue-at-madhya-pradesh-temple--gets-stuck-in-tight-spot-photo-shama-pa-233055352-16x9_0.jpg?VersionId=47REJdLvMviwkCLrQ5IpBP_pu_PCpUBE",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教",
+        "动物"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/man-crawls-under-elephant-statue-at-madhya-pradesh-temple-gets-stuck-in-tight-spot-3045051-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "c1d25aa39ae90fb0",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "24e3fb13574b4cce",
@@ -781,6 +2418,252 @@
       }
     },
     {
+      "id": "b8a9a0c567b804a5",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:30:41+08:00",
+      "title_zh": null,
+      "title_en": "Bengaluru Job Seeker Spots Red Flags After Recruiter Asks For ₹1,000 Login ID Fee, Post Goes Viral",
+      "summary_zh": null,
+      "summary_en": "A Bengaluru job seeker has flagged a suspected recruitment scam after two HR callers offered walk-in interviews but later mentioned a fee for a login ID.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-23T145921.024-2026-11-55f222b1dd2d59f18e1808df5beb92d9-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "诈骗骗局",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/bengaluru-job-seeker-spots-red-flags-after-recruiter-asks-for-1000-login-id-fee-post-goes-viral-ws-l-10437327.html",
+      "translation_status": "pending",
+      "cluster_id": "b8a9a0c567b804a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b3f6e53e78bfb02d",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:30:00+08:00",
+      "title_zh": null,
+      "title_en": "From Amish Tripathi to Divya Prakash Dubey, Audible Names India's Best Audiobooks Of 2026",
+      "summary_zh": null,
+      "summary_en": "Mythology, romance and eerie mysteries shine as Audible India names its 2026 audiobook favourites and the voices bringing them to life., Books, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553829,thumbsize-1602031,width-1280,height-720,resizemode-75/156553829.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/books/from-amish-tripathi-to-divya-prakash-dubey-audible-names-indias-best-audiobooks-of-2026-article-156553801",
+      "translation_status": "pending",
+      "cluster_id": "b3f6e53e78bfb02d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ea8344eab3590b14",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:17:07+08:00",
+      "title_zh": null,
+      "title_en": "Indian Entrepreneur Rides Bicycle In Saree On Sheikh Zayed Road During Dubai Ride",
+      "summary_zh": null,
+      "summary_en": "Nair said the UAE had become her second home and would always hold a special place in her heart.",
+      "image": "https://c.ndtvimg.com/2026-11/14p1apu_viral-video_625x300_23_November_26.jpeg",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/indian-entrepreneur-rides-bicycle-in-saree-on-sheikh-zayed-road-during-dubai-ride-12365641",
+      "translation_status": "pending",
+      "cluster_id": "c859d88168112b9d",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "68850a1e27e4cd30",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:09:55+08:00",
+      "title_zh": null,
+      "title_en": "'She Will Have to Face the Music': Bangladesh Vows to Arrest Sheikh Hasina if She Returns From India",
+      "summary_zh": null,
+      "summary_en": "Bangladesh vows to arrest Sheikh Hasina if she returns from India, while Dhaka seeks her extradition amid rising political tensions and renewed protests over her planned December return.",
+      "image": "https://img.republicworld.com/all_images/sheikh-hasina-1763459374281-16_9.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.republicworld.com/world-news/bangladesh-vows-to-arrest-sheikh-hasina-if-she-returns-from-india-amid-rising-political-tensions-and-protests-2026-11-23-141673",
+      "translation_status": "pending",
+      "cluster_id": "68850a1e27e4cd30",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "115104266735f4a5",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:09:23+08:00",
+      "title_zh": null,
+      "title_en": "₹15,000 Crore Package, Ayodhya-Janakpur Train, 8 Pacts: What PM Modi & Balen Shah Agreed On During Key India-Nepal Talks",
+      "summary_zh": null,
+      "summary_en": "India and Nepal announced a ₹15,000 crore package, launched the Ayodhya-Janakpur train and signed eight MoUs during PM Modi&#39;s talks with Balen Shah.",
+      "image": "https://img.republicworld.com/all_images/2026/11/pm-modi-balen-shah-1795426784631-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "军事政治"
+      ],
+      "url": "https://www.republicworld.com/global-news/15000-crore-package-ayodhya-janakpur-train-8-pacts-what-modi-and-balen-shah-agreed-on-during-key-india-nepal-talks-2026-11-23-141674",
+      "translation_status": "pending",
+      "cluster_id": "115104266735f4a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "fcf81dfa656ce5e4",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:04:31+08:00",
+      "title_zh": null,
+      "title_en": "When Is Thanksgiving 2026 And What Is The Story Behind The Holiday?",
+      "summary_zh": null,
+      "summary_en": "Thanksgiving falls on the fourth Thursday of November each year, bringing families together over festive feasts. Here is a look at its date, origins, history and enduring traditions., Lifestyle, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554342,thumbsize-159445,width-1280,height-720,resizemode-75/156554342.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/lifestyle/when-is-thanksgiving-2026-and-what-is-the-story-behind-the-holiday-article-156554328",
+      "translation_status": "pending",
+      "cluster_id": "fcf81dfa656ce5e4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "7e83f9c5d905b7f9",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T18:00:44+08:00",
+      "title_zh": null,
+      "title_en": "Woman Turns Bone Fragments Removed During Facial Surgery Into Custom Earrings; Internet Reacts",
+      "summary_zh": null,
+      "summary_en": "A transgender woman named Aubrey turned bone fragments removed during her facial feminization surgery into custom earrings.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-21-2026-11-860f0aa9769139d627d095d4eb5055d1-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "健康医疗"
+      ],
+      "url": "https://www.news18.com/viral/woman-turns-bone-fragments-removed-during-facial-surgery-into-custom-earrings-internet-reacts-ws-l-10437205.html",
+      "translation_status": "pending",
+      "cluster_id": "7e83f9c5d905b7f9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1f2eb09d404d761e",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:48:13+08:00",
+      "title_zh": null,
+      "title_en": "Man Calls Bengaluru Traffic \"Insane\" After 2-Hour Drive From Airport",
+      "summary_zh": null,
+      "summary_en": "Arjun said that every time he visited Bengaluru, he felt that the city's traffic situation had become worse.",
+      "image": "https://c.ndtvimg.com/2026-11/9uiclmu8_bengaluru-traffic_625x300_23_November_26.jpeg",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "航空出行",
+        "交通火车"
+      ],
+      "url": "https://www.ndtv.com/offbeat/man-calls-bengaluru-traffic-insane-after-2-hour-drive-from-airport-12365504",
+      "translation_status": "pending",
+      "cluster_id": "1f2eb09d404d761e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "c2f0a5ead3cb82d8",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:45:51+08:00",
+      "title_zh": null,
+      "title_en": "Woman Biker Fumes After Road Accident, Stranger Offers Her A Flower And Says 'Chill Maaro'",
+      "summary_zh": null,
+      "summary_en": "A Mumbai woman biker caught in a heated road rage argument was surprised when a passerby offered her a flower and said, “Chill maaro”. The viral video has sparked mixed reactions online. , Viral, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554220,thumbsize-89559,width-1280,height-720,resizemode-75/156554220.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "奇人奇事"
+      ],
+      "url": "https://www.timesnownews.com/viral/woman-biker-fumes-after-road-accident-stranger-offers-her-a-flower-and-says-chill-maaro-article-156554048",
+      "translation_status": "pending",
+      "cluster_id": "aa61e92645b56c28",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b0852b4ae5989717",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:40:16+08:00",
+      "title_zh": null,
+      "title_en": "BJP, Samajwadi Party Lock Horns In Poster War Amid SP-Congress Seat-Sharing Talks For UP Polls",
+      "summary_zh": null,
+      "summary_en": "Ahead of the Uttar Pradesh Assembly elections, the Bharatiya Janata Party (BJP) and Samajwadi Party (SP) engaged in a public poster dispute. The BJP mocked the SP-Congress seat-sharing discussions through an animated post., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554197,thumbsize-1176992,width-1280,height-720,resizemode-75/156554197.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治"
+      ],
+      "url": "https://www.timesnownews.com/india/bjp-samajwadi-party-lock-horns-in-poster-war-amid-sp-congress-seat-sharing-talks-for-uttar-pradesh-elections-2027-article-156554101",
+      "translation_status": "pending",
+      "cluster_id": "b0852b4ae5989717",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "117b3e703188370a",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:30:29+08:00",
+      "title_zh": null,
+      "title_en": "Microsoft Employee Of 24 Years Laid Off While Teaching Engineers AI Tools: ‘That Seems Pretty Emphatic Term",
+      "summary_zh": null,
+      "summary_en": "The woman revealed that she was in the middle of a 90-minute training session when she received an invitation to a meeting titled High Priority Business Update",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-1-2026-11-e013a707c1961663edbec2e52f8fe97a-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/microsoft-employee-of-24-years-laid-off-while-teaching-engineers-ai-tools-that-seems-pretty-emphatic-terminal-ws-l-10437075.html",
+      "translation_status": "pending",
+      "cluster_id": "117b3e703188370a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "de197063fff37921",
       "date": "2026-11-23",
       "published_at": "2026-11-23T17:22:05+08:00",
@@ -904,6 +2787,205 @@
         "angle": "离谱",
         "angle_source": "inbox"
       }
+    },
+    {
+      "id": "e078386f62d9bfca",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:19:13+08:00",
+      "title_zh": null,
+      "title_en": "Boys bunk school to watch India-NZ match, their funny reaction on camera goes viral",
+      "summary_zh": null,
+      "summary_en": "School uniforms, a live India-NZ Test and a desperate attempt to dodge the camera; a group of young boys made quite a day of bunking classes in New Zealand.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ind-nz-231626388-16x9_0.jpg?VersionId=FEcfO5YUGFhNijZWPyGahhi5AKqqxMkH",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/boys-bunk-school-to-watch-india-nz-match-their-funny-reaction-on-camera-goes-viral-3044986-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "e078386f62d9bfca",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1c17e35629882f4c",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:14:34+08:00",
+      "title_zh": null,
+      "title_en": "Biryani Onigiri: 7-Eleven Japan turns Indian rice dish into a limited-edition snack",
+      "summary_zh": null,
+      "summary_en": "Japan’s 7-Eleven has introduced a trial biryani-style onigiri, developed with Tokyo restaurant Biryani Osawa.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/HXSaBVeaEAAi4uo_1795425185760_qqaG_1795425199380_aCBt_154ff2c0-14c4-423c-abcf-b3e882a1af65_DCLR.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "街头食物"
+      ],
+      "url": "https://www.hindustantimes.com/trending/biryani-onigiri-7-eleven-japan-turns-indian-rice-dish-into-a-limited-edition-snack-101795425069365.html",
+      "translation_status": "pending",
+      "cluster_id": "1c17e35629882f4c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "be44cb00c4a5bf72",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:13:03+08:00",
+      "title_zh": null,
+      "title_en": "'Who Gave You The Power?' SC's 'Baahubali' Warning After Bihar Judge Summons, Convicts Cop",
+      "summary_zh": null,
+      "summary_en": "The Supreme Court questioned a Bihar judge's decision to convict a police officer for failing to register an FIR and asked him to stop acting like a \"Baahubali\"., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156554068,thumbsize-138190,width-1280,height-720,resizemode-75/156554068.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/india/supreme-court-bihar-judge-baahubali-remark-police-officer-fir-article-156554050",
+      "translation_status": "pending",
+      "cluster_id": "be44cb00c4a5bf72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "884a4707244e71b1",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:10:48+08:00",
+      "title_zh": null,
+      "title_en": "Liquor flows out of hand pump instead of water in UP house, woman arrested",
+      "summary_zh": null,
+      "summary_en": "Police and excise officials found raw liquor flowing from a hand pump during a raid in Jhansi. The concealed underground storage arrangement exposed a method used to avoid suspicion.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/liquor-flows-out-of-hand-pump-instead-of-water-in-up-house-23080252-16x9_0.jpg?VersionId=MdYCINbSerzNyIxpF51YViR.suoFE_Nm",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/liquor-flows-out-of-hand-pump-instead-of-water-in-up-house-woman-arrested-3044985-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "884a4707244e71b1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f838a209ab75746d",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T17:00:10+08:00",
+      "title_zh": null,
+      "title_en": "'Extremely Torturous': Man Shares Bengaluru Airport Commute Nightmare, Strikes A Chord With Internet",
+      "summary_zh": null,
+      "summary_en": "A man's two-hour commute from Bengaluru airport to the city in an SUV has sparked heavy online discussions about worsening traffic congestion.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/image-2026-11-73e333c5be1aafc4d637b7893924051a-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "航空出行"
+      ],
+      "url": "https://www.news18.com/viral/extremely-torturous-man-shares-bengaluru-airport-commute-nightmare-strikes-a-chord-with-internet-ws-el-10437028.html",
+      "translation_status": "pending",
+      "cluster_id": "f838a209ab75746d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "82c5aadfe9d3ea6b",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:52:46+08:00",
+      "title_zh": null,
+      "title_en": "New GDP Series Improves Accuracy, Brings Demand-Supply Estimates Closer: RBI DG",
+      "summary_zh": null,
+      "summary_en": "In the earlier series, GDP estimates from the demand and supply sides did not always align, she said. , Economy, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553992,thumbsize-73236,width-1280,height-720,resizemode-75/156553992.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/business-economy/economy/new-gdp-series-improves-accuracy-brings-demand-supply-estimates-closer-rbi-dg-article-156553994",
+      "translation_status": "pending",
+      "cluster_id": "82c5aadfe9d3ea6b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1690302a9a4ac20b",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:45:45+08:00",
+      "title_zh": null,
+      "title_en": "Man’s Eye Movement At Zohran Mamdani Event Sparks Alien Theories; He Finally Responds",
+      "summary_zh": null,
+      "summary_en": "A US lawmaker has responded after a brief eye movement during Zohran Mamdani's event sparked bizarre online claims that he could be one of the so-called ‘lizard people’.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-23T133609.540-2026-11-85a39065b08eb69b140294df33d167be-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/mans-eye-movement-at-zohran-mamdani-event-sparks-alien-theories-he-finally-responds-ws-l-10437190.html",
+      "translation_status": "pending",
+      "cluster_id": "3163cc38b3ae94fb",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a3ea9037f2f93064",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:30:56+08:00",
+      "title_zh": null,
+      "title_en": "Woman Asks Tea Seller Earning Rs 7,500 Daily Why He Doesn't Start A Cafe, He Says ‘Yahan Customer Roz Aata",
+      "summary_zh": null,
+      "summary_en": "The tea stall owner explained that he gets customers regularly at his stall but if he decides to own a cafe, then that would mean rent and other additional expenses",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2026-11-26e083bec003f42cdf5a1befe0ff7dca-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/woman-asks-tea-seller-earning-rs-7500-daily-why-he-doesnt-start-a-cafe-he-says-yahan-customer-roz-aata-hai-ws-l-10437072.html",
+      "translation_status": "pending",
+      "cluster_id": "a3ea9037f2f93064",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "8e231040e8c08690",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:28:44+08:00",
+      "title_zh": null,
+      "title_en": "Shubman Gill Urges ICC To Bring Back Pre-COVID Rule, Questions If 'Quality Of Balls Have Come Down'",
+      "summary_zh": null,
+      "summary_en": "Indian captain Shubman Gill asked the ICC to bring a pre-COVID rule back and questioned why, years after the pandemic ended, the rule is still in place. , Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553852,thumbsize-483840,width-1280,height-720,resizemode-75/156553852.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/shubman-gill-urges-icc-to-brink-back-pre-covid-rule-questions-if-qualify-of-balls-have-come-down-article-156553747",
+      "translation_status": "pending",
+      "cluster_id": "8e231040e8c08690",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
     },
     {
       "id": "bccd90d5136c677e",
@@ -1155,6 +3237,118 @@
       }
     },
     {
+      "id": "7647a9c2144a30e1",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:04:27+08:00",
+      "title_zh": null,
+      "title_en": "Bombay Shaving Company CEO's blunt message to VIPs after traffic nightmare goes viral",
+      "summary_zh": null,
+      "summary_en": "Shantanu Deshpande criticised VIP movement after traffic stalled his journey to the airport. His video prompted commuters to recount similar disruptions caused by official convoys.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bombay-shaving-company-ceos-blunt-message-to-vips-after-traffic-nightmare-photos-shantanu-deshpan-23003629-16x9_0.jpg?VersionId=tR3Vqi3RCY4dXGMyNXUX4L9OUBjiy1Ep",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "航空出行",
+        "交通火车",
+        "奇人奇事"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/bombay-shaving-company-ceo-blunt-message-to-vips-after-traffic-nightmare-goes-viral-3044932-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "ef478b4619939847",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "bd2eefeef2abf5da",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:00:10+08:00",
+      "title_zh": null,
+      "title_en": "'I Was Shocked': Kerala Woman Wins ₹32 Crore Lottery Jackpot In Canada, Plans To Pay Off Mortgage",
+      "summary_zh": null,
+      "summary_en": "Sneha Joy, an Indian woman from Kerala living in Edmonton, won a 5 million Canadian dollar lottery jackpot in the Lotto 6/49 Classic draw.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/image-2026-11-ab54570a64c9206eca55b4766878cf1a-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/i-was-shocked-kerala-woman-wins-32-crore-lottery-jackpot-in-canada-plans-to-pay-off-mortgage-ws-el-10436934.html",
+      "translation_status": "pending",
+      "cluster_id": "36ef553f730478ef",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "60904c754e53e8f3",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "title_zh": null,
+      "title_en": "‘Not for Me’: Shashi Tharoor Joins GTA 6 Hype, Gives The Game A Try",
+      "summary_zh": null,
+      "summary_en": "Congress MP Shashi Tharoor left the internet buzzing as a video showed him trying out the much-hyped GTA 6 after his team's persuasion. Take a look., Viral, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553665,thumbsize-1193411,width-1280,height-720,resizemode-75/156553665.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/viral/shashi-tharoor-joins-gta-6-grand-theft-auto-vi-hype-gives-the-game-a-try-viral-video-rockstar-games-article-156553671",
+      "translation_status": "pending",
+      "cluster_id": "c3be8e1ddca4aa2a",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0cfe17a93b75f413",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:59:47+08:00",
+      "title_zh": null,
+      "title_en": "Rs 2 Crore Around Their Necks: UP Grooms Wear 200-Foot-Long Garlands Made Of Rs 500 Notes | VIDEO",
+      "summary_zh": null,
+      "summary_en": "Two grooms in Uttar Pradesh received extravagant wedding garlands made of Rs 500 notes, reportedly worth Rs 1 crore each and stretching nearly 200 feet. Videos of the unusual gift have gone viral, sparking a debate over lavish displays of wealth at weddings., Viral, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553760,thumbsize-87134,width-1280,height-720,resizemode-75/156553760.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.timesnownews.com/viral/rs-2-crore-around-their-necks-up-grooms-wear-200-foot-long-garlands-made-of-rs-500-notes-video-article-156553678",
+      "translation_status": "pending",
+      "cluster_id": "0cfe17a93b75f413",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "d848d315179a3436",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:57:41+08:00",
+      "title_zh": null,
+      "title_en": "Big Market Rout: Sensex Sheds Over 1,400 Points, Investors' Rs 4 Lakh Crore Wiped Out",
+      "summary_zh": null,
+      "summary_en": "Investor sentiment remained cautious amid persistent selling pressure, with market participants closely tracking domestic and global cues for further direction., Markets, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553754,thumbsize-2522137,width-1280,height-720,resizemode-75/156553754.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.timesnownews.com/business-economy/markets/big-market-rout-sensex-sheds-over-1100-points-investors-rs-4-lakh-crore-wiped-out-article-156553749",
+      "translation_status": "pending",
+      "cluster_id": "d848d315179a3436",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "c74c4323e17b2b72",
       "date": "2026-11-23",
       "published_at": "2026-11-23T15:57:08+08:00",
@@ -1240,6 +3434,512 @@
       }
     },
     {
+      "id": "969255d4ae494baa",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:56:22+08:00",
+      "title_zh": null,
+      "title_en": "Wellington Pitch Under Fire! Scott Styris Delivers Brutal Verdict After India-NZ Draw",
+      "summary_zh": null,
+      "summary_en": "Scott Styris, the former New Zealand all-rounder, expressed dissatisfaction with the pitch used during the drawn Test between India and New Zealand at Basin Reserve, arguing it failed to facilitate a fair contest between batting and bowling. , Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553748,thumbsize-1016024,width-1280,height-720,resizemode-75/156553748.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/wellington-pitch-under-fire-scott-styris-delivers-brutal-verdict-after-india-nz-draw-article-156553617",
+      "translation_status": "pending",
+      "cluster_id": "969255d4ae494baa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "aa61e92645b56c28",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:50:20+08:00",
+      "title_zh": null,
+      "title_en": "Mumbai woman biker argues after accident, stranger offers flower to calm her down",
+      "summary_zh": null,
+      "summary_en": "A stranger offered a woman biker from Mumbai a rose and urged her to calm down after a road accident. The video divided viewers between praise, caution and claims that it was scripted.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mumbai-234337977-16x9_0.jpg?VersionId=._aMGhXSt7Hr_H70bxAUc_K2ZIv0w_Zn",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-woman-biker-argues-after-accident-stranger-offers-flower-to-calm-her-down-3044882-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "aa61e92645b56c28",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "c859d88168112b9d",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:48:53+08:00",
+      "title_zh": null,
+      "title_en": "Indian entrepreneur in Dubai cycles on Sheikh Zayed Road, runs 10 km wearing saree",
+      "summary_zh": null,
+      "summary_en": "Indian entrepreneur Kanchana Nair moved to the UAE 14 years ago. She now lives in Dubai, where she runs her own real estate business.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Indian_Entrepreneur_Dubai_Sheikh_Zayed_Road_Video_1795420001203_mqFm_1795420001481_DYsW_6440567d-2096-4531-84c8-955afa9bdb17_4zxp.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/indian-entrepreneur-in-dubai-cycles-on-sheikh-zayed-road-runs-10-km-wearing-saree-101795419587910.html",
+      "translation_status": "pending",
+      "cluster_id": "c859d88168112b9d",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "dce2e7de31d61782",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:39:13+08:00",
+      "title_zh": null,
+      "title_en": "‘Knuckleheads’: Shopify CEO criticises Nvidia board over Jensen Huang’s resignation",
+      "summary_zh": null,
+      "summary_en": "Shopify CEO Tobi Lütke has criticised the board of Nvidia for the way it handled Jensen Huang’s affair admission and subsequent resignation.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/tobi_1795419519102_T89H_1795419527538_60pg_cd48907d-79fc-4664-bb13-33cbdd8473b4_MQYk.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/knuckleheads-shopify-ceo-criticises-nvidia-board-over-jensen-huang-s-resignation-101795418910110.html",
+      "translation_status": "pending",
+      "cluster_id": "dce2e7de31d61782",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1c458dca332863c7",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:30:36+08:00",
+      "title_zh": null,
+      "title_en": "Hyderabad Roommates Want To Ditch Rs 30,000 2BHK To Live In Hotel: ‘Zero Landlord Drama, Security Deposits’",
+      "summary_zh": null,
+      "summary_en": "They reasoned that they each pay around Rs 15,500 monthly just to have a roof over their heads and do not use the kitchen space as they regularly food from outside",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-2026-11-4da7f2e1ed37ddffc967801123ec532d-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "街头食物"
+      ],
+      "url": "https://www.news18.com/viral/hyderabad-roommates-want-to-ditch-rs-30000-2bhk-to-live-in-hotel-zero-landlord-drama-security-deposits-ws-l-10436923.html",
+      "translation_status": "pending",
+      "cluster_id": "1c458dca332863c7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b947975dbcbdd677",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:19:08+08:00",
+      "title_zh": null,
+      "title_en": "Singer Rupa Biswas Sen Reacts As Bengali Disco Track 'Aaj Shanibar' Features In GTA 6: \"Extremely Happy\"",
+      "summary_zh": null,
+      "summary_en": "Players spotted the track shortly after GTA 6 was released on November 19, with many celebrating its unexpected Indian connection.",
+      "image": "https://c.ndtvimg.com/2026-11/7bl7ugt8_rupa-biswas-sen_625x300_23_November_26.jpeg",
+      "source": "NDTV Offbeat",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.ndtv.com/offbeat/singer-rupa-biswas-sen-reacts-as-bengali-disco-track-aaj-shanibar-features-in-gta-6-extremely-happy-12364836",
+      "translation_status": "pending",
+      "cluster_id": "939eaa7b82ce7417",
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "be2988fa33663d71",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T15:00:55+08:00",
+      "title_zh": null,
+      "title_en": "Indian Man Says Household Chores In Norway Leave Him With 'Another Shift' After Work, Sparks Debate",
+      "summary_zh": null,
+      "summary_en": "Indian man in Norway sparked a social media debate by highlighting the challenge of managing household chores without affordable domestic help, contrasting it with life in India.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/image-2026-11-8671ad833a1a99a296107b987c26a18e-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/indian-man-says-household-chores-in-norway-leave-him-with-another-shift-after-work-sparks-debate-ws-el-10436869.html",
+      "translation_status": "pending",
+      "cluster_id": "be2988fa33663d71",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "a02270c31a361093",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T14:36:10+08:00",
+      "title_zh": null,
+      "title_en": "UP grooms wear 100-foot-long cash garlands worth Rs 1 crore, gifted by brother-in-law",
+      "summary_zh": null,
+      "summary_en": "Two grooms in Uttar Pradesh's Mathura received currency-note garlands worth Rs 1 crore each. The extravagant rooftop presentation surprised guests and went viral on social media.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/up-233431240-16x9_0.jpg?VersionId=dLVwtAafRaILc_HqqcAaTN01yK9JNN89",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/up-grooms-in-mathura-wear-100-foot-long-cash-garlands-worth-rs-1-crore-gifted-by-brother-in-law-3044836-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "a02270c31a361093",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1577114aabc68e9d",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T14:30:17+08:00",
+      "title_zh": null,
+      "title_en": "Man Says He Got Fired Days After His Ex Joined His Company, But There's A Twist",
+      "summary_zh": null,
+      "summary_en": "The man said that he had met his ex at a previous workplace and they eventually got into a relationship but things didn’t work out and the woman decided to call it quits",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-1-2026-11-6939e859f2532241099d27e86236e138-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.news18.com/viral/man-says-he-got-fired-days-after-his-ex-joined-his-company-but-theres-a-twist-ws-l-10436841.html",
+      "translation_status": "pending",
+      "cluster_id": "1577114aabc68e9d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "ac3a9c2401aca1bd",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T14:06:39+08:00",
+      "title_zh": null,
+      "title_en": "Indian tourists' noisy antics on Norway bus tour leave fellow traveller embarrassed",
+      "summary_zh": null,
+      "summary_en": "Digital creator Anirudh Kejriwal criticised fellow Indian tourists after a noisy Norway bus tour. His account raised concerns about consideration for passengers and respect for local culture.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/indian-tourists-noisy-antics-on-norway-bus-tour-leave-fellow-traveller-embarrassed-photos-anirudh-235930962-16x9_0.jpg?VersionId=J4dz5esrPxgYKh1nw4BR.bG89zSGWRRu",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/indian-tourists-noisy-antics-antakshari-on-norway-bus-tour-leave-fellow-traveller-embarrassed-3044831-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "ac3a9c2401aca1bd",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "8a7df17ea5ce88b5",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:50:42+08:00",
+      "title_zh": null,
+      "title_en": "After Anthropic, OpenAI Wants To Put A Speed Limit On AI Development: How It Plans To Do It",
+      "summary_zh": null,
+      "summary_en": "OpenAI Chief Scientist Jakub Pachocki has proposed using perplexity to measure AI progress, potentially helping tech giants set common limits on AI development until stronger safety measures are in place., Technology & Science, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553081,thumbsize-3331997,width-1280,height-720,resizemode-75/156553081.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "科技发明"
+      ],
+      "url": "https://www.timesnownews.com/technology-science/after-anthropic-openai-wants-to-put-a-speed-limit-on-ai-development-how-it-plans-to-do-it-article-156553075",
+      "translation_status": "pending",
+      "cluster_id": "8a7df17ea5ce88b5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "bf88e37acc872e56",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:49:35+08:00",
+      "title_zh": null,
+      "title_en": "Woman's exhausted rant on raising 2 kids while husband enjoys outings fuels debate",
+      "summary_zh": null,
+      "summary_en": "A young mother detailed her dire state of exhaustion and limited support from her husband in a viral video. Her account prompted widespread discussion about unequal childcare responsibilities and maternal burnout.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mother-234923202-16x9_0.jpg?VersionId=3pI7RY_9tYu4J5V4b6Ppl6CTwdA45Std",
+      "source": "India Today Trending",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.indiatoday.in/trending-news/story/womans-exhausted-rant-on-raising-2-kids-while-husband-enjoys-outings-fuels-debate-3044781-2026-11-23",
+      "translation_status": "pending",
+      "cluster_id": "bf88e37acc872e56",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "c8e02edc5fae18ed",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:41:15+08:00",
+      "title_zh": null,
+      "title_en": "NZ V IND: Shubman Gill Reveals Why India Settled For Draw Despite Still Having 15 Overs Left On Final Day",
+      "summary_zh": null,
+      "summary_en": "Indian captain Shubman Gill opened up on the decision to settle for a draw with 15 overs left on the final at the Basin Reserve in Wellington. New Zealand survived with five wickets to spare. , Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156553051,thumbsize-876969,width-1280,height-720,resizemode-75/156553051.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/nz-v-ind-shubman-gill-reveals-why-india-settled-for-draw-despite-still-having-15-overs-left-on-final-day-article-156552893",
+      "translation_status": "pending",
+      "cluster_id": "c8e02edc5fae18ed",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "83efe84330942af2",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:30:05+08:00",
+      "title_zh": null,
+      "title_en": "WATCH: Elderly Biker’s Abrupt Highway Crossing Triggers Deadly Crash; 1 Dead, Several Injured In Andhra",
+      "summary_zh": null,
+      "summary_en": "Spine-chilling CCTV footage from Andhra Pradesh has recently emerged, showing a deadly highway crash allegedly caused by road negligence. The incident reportedly claimed the life of a woman., Viral, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156552641,thumbsize-1314548,width-1280,height-720,resizemode-75/156552641.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.timesnownews.com/viral/watch-viral-video-elderly-biker-abrupt-highway-crossing-triggers-deadly-crash-1-dead-several-injured-in-andhra-pradesh-kakinada-article-156552639",
+      "translation_status": "pending",
+      "cluster_id": "83efe84330942af2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1f1305d95100c9b4",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:29:07+08:00",
+      "title_zh": null,
+      "title_en": "Govt To Test Packaged Drinking Water Across All Brands Amid Bisleri 'Unsafe' Sample Row",
+      "summary_zh": null,
+      "summary_en": "Following FSSAI's prosecution of Bisleri International for unsafe packaged water, further tests on its products and those from other companies will be conducted nationwide., India News, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156552974,thumbsize-52582,width-1280,height-720,resizemode-75/156552974.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "街头食物"
+      ],
+      "url": "https://www.timesnownews.com/india/government-to-test-packaged-drinking-water-across-all-brands-amid-bisleri-unsafe-sample-row-article-156552949",
+      "translation_status": "pending",
+      "cluster_id": "172f8fa31de2bf62",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "324388fdc751987f",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:26:01+08:00",
+      "title_zh": null,
+      "title_en": "US woman with a pig kidney inside her marks one-year milestone: ‘Amazed that it’s still working’",
+      "summary_zh": null,
+      "summary_en": "A 58-year-old woman from New Hampshire has marked one year of living with a genetically modified pig kidney",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/photo-1758691461990-03b49d969495_1795411355114_A4rE_1795411365863_1fGR_0e94d186-a165-4c3a-9dba-f5bd3e0b518a_eVgR.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/us-woman-with-a-pig-kidney-inside-her-marks-one-year-milestone-amazed-that-it-s-still-working-101795411103104.html",
+      "translation_status": "pending",
+      "cluster_id": "324388fdc751987f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "172f8fa31de2bf62",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:17:30+08:00",
+      "title_zh": null,
+      "title_en": "'Bisleri Safe For Consumption': Packaged Drinking Water Major Responds To FSSAI Sanction For Prosecution",
+      "summary_zh": null,
+      "summary_en": "Bisleri International Pvt. Ltd. has reaffirmed the safety of its packaged drinking water after reports emerged regarding FSSAI's decision to prosecute the company based on an \"unsafe\" water sample. , Companies, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156552952,thumbsize-1742269,width-1280,height-720,resizemode-75/156552952.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "街头食物"
+      ],
+      "url": "https://www.timesnownews.com/business-economy/companies/bisleri-safe-for-consumption-packaged-drinking-water-major-responds-to-fssai-sanction-for-prosecution-article-156552825",
+      "translation_status": "pending",
+      "cluster_id": "172f8fa31de2bf62",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "c87ffefe71f15545",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T13:13:12+08:00",
+      "title_zh": null,
+      "title_en": "GTA 6 Instagram Trend: Use These Prompts On ChatGPT And Gemini To Create Your Best Image",
+      "summary_zh": null,
+      "summary_en": "Discover the viral GTA 6 Instagram AI photo trend! Try these 3 ChatGPT and Google Gemini prompts to transform your selfies into stunning Vice City-inspired character posters with cinematic backgrounds and gaming-style visuals., Technology & Science, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156552895,thumbsize-2306636,width-1280,height-720,resizemode-75/156552895.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/technology-science/gta-6-instagram-trend-use-these-prompts-on-chatgpt-and-gemini-to-create-your-best-image-article-156552818",
+      "translation_status": "pending",
+      "cluster_id": "c87ffefe71f15545",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "08dd71602e60cc55",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T12:21:20+08:00",
+      "title_zh": null,
+      "title_en": "Horror in Louisiana: Amtrak Train Carrying 95 Passengers Derails After Colliding With Bulldozer-Carrying Truck, Four Injured",
+      "summary_zh": null,
+      "summary_en": "A passenger train carrying around 95 people derailed after colliding with an 18-wheeler transporting a bulldozer in Lafayette, Louisiana, on Sunday evening, November 22.",
+      "image": "https://img.republicworld.com/all_images/2026/11/horror-in-louisiana-amtrak-train-carrying-95-passengers-derails-after-colliding-with-bulldozer-carrying-truck-four-injured-1795408464113-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.republicworld.com/world-news/amtrak-train-carrying-95-passengers-derails-after-colliding-with-bulldozer-carrying-truck-in-louisiana-four-injured-2026-11-23-141646",
+      "translation_status": "pending",
+      "cluster_id": "08dd71602e60cc55",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1ce3e36c0a542ec1",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T12:09:02+08:00",
+      "title_zh": null,
+      "title_en": "Tilak Varma Blames Lack Of Support For IND A Loss VS PAK A After 148-Ball 100 - 'I Could Have Finished The Gam",
+      "summary_zh": null,
+      "summary_en": "Tilak Varma threw his teammates under the bus after his knock of 100 in 149 balls went in vain as India A lost to Pakistan A in the 2026 Rising Stars Asia Cup. , Cricket, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156552630,thumbsize-1182503,width-1280,height-720,resizemode-75/156552630.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.timesnownews.com/sports/cricket/tilak-varma-blames-lack-of-support-for-ind-a-loss-vs-pak-a-after-148-ball-100-i-could-have-finished-the-game-article-156552454",
+      "translation_status": "pending",
+      "cluster_id": "1ce3e36c0a542ec1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "74585a8762032f38",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T12:08:17+08:00",
+      "title_zh": null,
+      "title_en": "She once turned down Sephora job over strict dress code. Now she’s the company’s CEO",
+      "summary_zh": null,
+      "summary_en": "Sephora CEO Artemis Patrick has revealed that she once turned down an entry-level job at the beauty firm over their strict dress code.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/artemis_1795406451184_fzBu_1795406472728_VaBn_bd122e90-0ad1-47a2-9c9d-db9939d777be_iIS4.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.hindustantimes.com/trending/she-once-turned-down-sephora-job-over-strict-dress-code-now-she-s-the-company-s-ceo-101795406180139.html",
+      "translation_status": "pending",
+      "cluster_id": "74585a8762032f38",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "b3b6704b8a8a448e",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T11:51:10+08:00",
+      "title_zh": null,
+      "title_en": "Stock Market Today (November 23): Sensex, Nifty Turn Volatile After Opening Higher; Rupee, Earnings Outlook In",
+      "summary_zh": null,
+      "summary_en": "Stock Market Today (November 23): Sensex, Nifty Trade Higher; Experts Flag Improving Rupee, Earnings Outlook, Markets, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156552353,thumbsize-67422,width-1280,height-720,resizemode-75/156552353.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/business-economy/markets/stock-market-today-november-23-sensex-nifty-trade-higher-experts-flag-improving-rupee-earnings-outlook-article-156552344",
+      "translation_status": "pending",
+      "cluster_id": "b3b6704b8a8a448e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "bef88744f461ecc6",
+      "date": "2026-11-23",
+      "published_at": "2026-11-23T11:49:27+08:00",
+      "title_zh": null,
+      "title_en": "CEO Pavel Durov trolls GTA 6 over missing Telegram groups, gets reply from Elon Musk",
+      "summary_zh": null,
+      "summary_en": "Elon Musk replied with a laughing emoji after Telegram founder Pavel Durov poked fun at GTA 6 characters for not using Telegram.",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Telegram_CEO_Pavel_Durov_GTA_6_Elon_Musk_Viral_1795405701795_kRBR_1795405701904_Nn4p_b8ae56dd-767d-4375-933e-da939addb8c3_mSYH.jpg",
+      "source": "Hindustan Times Trending",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.hindustantimes.com/trending/ceo-pavel-durov-trolls-gta-6-over-missing-telegram-groups-gets-reply-from-elon-musk-101795405227126.html",
+      "translation_status": "pending",
+      "cluster_id": "bef88744f461ecc6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "7c799ef668f9056c",
       "date": "2026-11-23",
       "published_at": "2026-11-23T11:30:09+08:00",
@@ -1256,8 +3956,8 @@
       "url": "https://www.news18.com/viral/in-total-rs-20000-a-day-bengaluru-man-left-stunned-after-cab-driver-reveals-earnings-from-driving-and-car-rentals-ws-l-10436350.html",
       "translation_status": "ai",
       "cluster_id": "7c799ef668f9056c",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -1346,8 +4046,8 @@
       "url": "https://www.hindustantimes.com/trending/us-lawmaker-jordan-wright-whose-viral-eyes-video-at-mamdani-event-sparked-bizarre-lizard-people-theories-reacts-obviously-i-m-a-human-being-101795402136668.html",
       "translation_status": "ai",
       "cluster_id": "3163cc38b3ae94fb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -1544,8 +4244,8 @@
       "url": "https://www.hindustantimes.com/trending/shashi-tharoor-tries-gta-6-for-the-first-time-says-i-m-afraid-i-m-not-a-game-player-101795366543210.html",
       "translation_status": "ai",
       "cluster_id": "c3be8e1ddca4aa2a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -1830,8 +4530,8 @@
       "url": "https://www.hindustantimes.com/trending/i-was-shocked-keralam-woman-in-canada-wins-rs-32-crore-lottery-plans-to-pay-off-mortgage-and-travel-the-world-101795356057933.html",
       "translation_status": "pending",
       "cluster_id": "36ef553f730478ef",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -2815,8 +5515,8 @@
       "url": "https://www.indiatoday.in/trending-news/story/rupa-biswas-sen-reacts-to-gta-6-featuring-her-44-year-old-song-aaj-shanibar-3044492-2026-11-22",
       "translation_status": "pending",
       "cluster_id": "939eaa7b82ce7417",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -2983,6 +5683,28 @@
       "url": "https://www.timesnownews.com/entertainment-news/web-series/panchayat-season-5-banrakas-takes-over-phulera-announces-date-of-trailer-launch-watch-article-156550362",
       "translation_status": "pending",
       "cluster_id": "d7008710ec508492",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5de10d73efc92348",
+      "date": "2026-11-22",
+      "published_at": "2026-11-22T19:34:57+08:00",
+      "title_zh": null,
+      "title_en": "Eisha Singh Grows Cryptic After Avinash Mishra’s Note: Trusted Someone Who Eventually Stabbed Me In Back",
+      "summary_zh": null,
+      "summary_en": "Eisha Singh shared a hard-hitting note amid breakup rumours with Avinash Mishra. She hinted at betrayal after Avinash claimed that 'relationships are personal'. Read full story to know more about their split., TV, Times Now",
+      "image": "https://images.timesnownews.com/thumb/msid-156550273,thumbsize-714823,width-1280,height-720,resizemode-75/156550273.jpg",
+      "source": "Times Now Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.timesnownews.com/entertainment-news/tv/eisha-singh-grows-cryptic-after-avinash-mishra-note-trusted-someone-who-eventually-stabbed-me-in-back-article-156550253",
+      "translation_status": "pending",
+      "cluster_id": "5de10d73efc92348",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -3336,8 +6058,8 @@
       "url": "https://www.ndtv.com/offbeat/entrepreneur-questions-vip-culture-after-getting-stuck-in-traffic-12361866",
       "translation_status": "pending",
       "cluster_id": "ef478b4619939847",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -4416,8 +7138,8 @@
       "url": "https://www.news18.com/viral/shantanu-deshpande-questions-vip-culture-after-getting-stuck-in-traffic-en-route-to-airport-this-is-unacceptable-ws-l-10435941.html",
       "translation_status": "pending",
       "cluster_id": "ef478b4619939847",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -6054,9 +8776,9 @@
       ],
       "url": "https://x.com/AmitShah/status/2124143937606778987",
       "translation_status": "ai",
-      "cluster_id": "19f0f82e251f7a1e",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1,
+      "cluster_id": "f3dc0855a81b849e",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
       "reddit_score": null,
       "reddit_comments": null,
       "kind": "x",
@@ -8124,6 +10846,30 @@
       "reddit_comments": null
     },
     {
+      "id": "f3dc0855a81b849e",
+      "date": "2026-11-21",
+      "published_at": "2026-11-21T16:15:33+08:00",
+      "title_zh": null,
+      "title_en": "'No Local Terrorists Left in Kashmir Valley': Amit Shah Says Last Known Local LeT Operative Killed in Pulwama",
+      "summary_zh": null,
+      "summary_en": "Speaking at the President’s Police Colour Award Ceremony in Banderdewa, Arunachal Pradesh, the Union Home Minister said that the Kashmir Police has neutralised the last known terrorist linked to Lashkar-e-Taiba.",
+      "image": "https://img.republicworld.com/all_images/2026/11/no-local-terrorists-left-in-kashmir-valley-amit-shah-says-last-known-local-let-operative-killed-in-pulwama-1795248914552-1280x720.webp",
+      "source": "Republic World Viral",
+      "region": "印度",
+      "tags": [
+        "犯罪法律",
+        "婚俗宗教",
+        "军事政治"
+      ],
+      "url": "https://www.republicworld.com/india/no-local-terrorists-left-in-kashmir-valley-amit-shah-says-last-known-local-let-operative-killed-in-pulwama-2026-11-21-141528",
+      "translation_status": "pending",
+      "cluster_id": "f3dc0855a81b849e",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "47214a8303eed04f",
       "date": "2026-11-21",
       "published_at": "2026-11-21T16:01:25+08:00",
@@ -8907,8 +11653,8 @@
       "url": "https://www.news18.com/viral/1982-bengali-disco-song-by-rupa-biswas-finds-place-in-gta-6-indian-gamers-react-video-ws-l-10434985.html",
       "translation_status": "fallback",
       "cluster_id": "939eaa7b82ce7417",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2,
+      "cluster_item_count": 3,
+      "cluster_source_count": 3,
       "reddit_score": null,
       "reddit_comments": null
     },
@@ -9338,7 +12084,7 @@
       "url": "https://www.republicworld.com/world-news/india-condemns-attacks-on-commercial-shipping-in-strait-of-hormuz-calls-for-freedom-of-navigation-2026-11-21-141507",
       "translation_status": "fallback",
       "cluster_id": "d0049a8937fa7ed7",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1,
       "reddit_score": null,
       "reddit_comments": null
@@ -25911,8 +28657,8 @@
       "cluster_id": "b9ed5078960e5712",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 4,
-      "reddit_comments": 4
+      "reddit_score": 7,
+      "reddit_comments": 5
     },
     {
       "id": "b647cda6d5779b0e",
@@ -26022,8 +28768,8 @@
       "cluster_id": "12e9a22de50871f0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 345,
-      "reddit_comments": 44
+      "reddit_score": 367,
+      "reddit_comments": 51
     },
     {
       "id": "6d2aafea109262f9",
@@ -26235,8 +28981,8 @@
       "cluster_id": "696c33e46cf7ebe8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 26,
-      "reddit_comments": 13
+      "reddit_score": 49,
+      "reddit_comments": 18
     },
     {
       "id": "7a640c30592506e9",
@@ -26384,8 +29130,8 @@
       "cluster_id": "477de78095da412d",
       "cluster_item_count": 12,
       "cluster_source_count": 4,
-      "reddit_score": 1048,
-      "reddit_comments": 41
+      "reddit_score": 1412,
+      "reddit_comments": 54
     },
     {
       "id": "4cadf38b1a86c046",
@@ -26450,7 +29196,7 @@
       "cluster_id": "c7bb6d2de93cff81",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 109,
+      "reddit_score": 124,
       "reddit_comments": 10
     },
     {
@@ -26472,7 +29218,7 @@
       "cluster_id": "f0356b13635914a1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 112,
+      "reddit_score": 120,
       "reddit_comments": 9
     },
     {
@@ -26605,8 +29351,8 @@
       "cluster_id": "e04ebaf5efe08bd5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1121,
-      "reddit_comments": 56
+      "reddit_score": 1212,
+      "reddit_comments": 58
     },
     {
       "id": "6fe6d9a75426df6f",
@@ -26649,8 +29395,8 @@
       "cluster_id": "8183a45561ab09e3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 16,
-      "reddit_comments": 13
+      "reddit_score": 22,
+      "reddit_comments": 14
     },
     {
       "id": "5cc2f314ac7ce217",
@@ -27185,7 +29931,7 @@
       "cluster_id": "9d96a53bdcfa40a0",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 6,
+      "reddit_score": 7,
       "reddit_comments": 1
     },
     {
@@ -27229,7 +29975,7 @@
       "cluster_id": "9d96a53bdcfa40a0",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 11,
+      "reddit_score": 12,
       "reddit_comments": 3
     },
     {
@@ -27361,7 +30107,7 @@
       "cluster_id": "850d0d554b07934b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 4,
+      "reddit_score": 6,
       "reddit_comments": 0
     },
     {
@@ -27858,8 +30604,8 @@
       "cluster_id": "331ff53075595812",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 674,
-      "reddit_comments": 82
+      "reddit_score": 941,
+      "reddit_comments": 105
     },
     {
       "id": "a67e148969da2fad",
@@ -27880,7 +30626,7 @@
       "cluster_id": "9deb6e1e261c6b4d",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 67,
+      "reddit_score": 74,
       "reddit_comments": 1
     },
     {
@@ -27946,7 +30692,7 @@
       "cluster_id": "21415a1298cae26d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 96,
+      "reddit_score": 99,
       "reddit_comments": 14
     },
     {
@@ -27968,7 +30714,7 @@
       "cluster_id": "c9e3d9ede5c26e8e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 43,
+      "reddit_score": 49,
       "reddit_comments": 13
     },
     {
@@ -27990,8 +30736,8 @@
       "cluster_id": "95e13f0a55f78fc2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 16,
-      "reddit_comments": 6
+      "reddit_score": 27,
+      "reddit_comments": 8
     },
     {
       "id": "4370aac71e5e39d5",
@@ -28012,8 +30758,8 @@
       "cluster_id": "4370aac71e5e39d5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 35,
-      "reddit_comments": 2
+      "reddit_score": 40,
+      "reddit_comments": 4
     },
     {
       "id": "a55c81f5204e56ff",
@@ -28034,8 +30780,8 @@
       "cluster_id": "a55c81f5204e56ff",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 16,
-      "reddit_comments": 28
+      "reddit_score": 19,
+      "reddit_comments": 36
     },
     {
       "id": "a93309495c71785c",
@@ -28203,8 +30949,8 @@
       "cluster_id": "66c0bee8d360a78b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 215,
-      "reddit_comments": 66
+      "reddit_score": 239,
+      "reddit_comments": 80
     },
     {
       "id": "aff1f3d362be5b0f",
@@ -28269,7 +31015,7 @@
       "cluster_id": "d83504539186e63b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 22,
+      "reddit_score": 23,
       "reddit_comments": 3
     },
     {
@@ -28313,7 +31059,7 @@
       "cluster_id": "884d75ed57a50450",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 171,
+      "reddit_score": 187,
       "reddit_comments": 20
     },
     {
@@ -28335,8 +31081,8 @@
       "cluster_id": "27d3cca55d6ef60a",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 944,
-      "reddit_comments": 73
+      "reddit_score": 968,
+      "reddit_comments": 74
     },
     {
       "id": "5c7bc3d6a7cec3bc",
@@ -28658,8 +31404,8 @@
       "cluster_id": "e541db2d07b57f54",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 15,
-      "reddit_comments": 1
+      "reddit_score": 17,
+      "reddit_comments": 2
     },
     {
       "id": "2a69e37a5bcf23d9",
@@ -28857,8 +31603,8 @@
       "cluster_id": "3b3935d872e71417",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 148,
-      "reddit_comments": 15
+      "reddit_score": 177,
+      "reddit_comments": 17
     },
     {
       "id": "23e44853f23746a3",
@@ -28945,8 +31691,8 @@
       "cluster_id": "4b155a3996a46b07",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 20,
-      "reddit_comments": 6
+      "reddit_score": 30,
+      "reddit_comments": 7
     },
     {
       "id": "05292fa6634f8eb4",
@@ -29154,8 +31900,8 @@
       "cluster_id": "1d5072fb58f43a8a",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 485,
-      "reddit_comments": 38
+      "reddit_score": 489,
+      "reddit_comments": 35
     },
     {
       "id": "35f0f8ba3a674ed3",
@@ -29176,7 +31922,7 @@
       "cluster_id": "35f0f8ba3a674ed3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 43,
+      "reddit_score": 44,
       "reddit_comments": 0
     },
     {
@@ -29243,7 +31989,7 @@
       "cluster_id": "fc6379cf70193b6f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 398,
+      "reddit_score": 404,
       "reddit_comments": 21
     },
     {
@@ -29265,7 +32011,7 @@
       "cluster_id": "44313ca4dd34b8a0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 65,
+      "reddit_score": 71,
       "reddit_comments": 8
     },
     {
@@ -29287,8 +32033,8 @@
       "cluster_id": "b49972f1dd5bbbb7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 318,
-      "reddit_comments": 38
+      "reddit_score": 336,
+      "reddit_comments": 40
     },
     {
       "id": "44fa406373449c04",
@@ -29331,8 +32077,8 @@
       "cluster_id": "434d34669d1b47f9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 184,
-      "reddit_comments": 13
+      "reddit_score": 287,
+      "reddit_comments": 18
     },
     {
       "id": "65c69015a69880d0",
@@ -29353,7 +32099,7 @@
       "cluster_id": "65c69015a69880d0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 664,
+      "reddit_score": 690,
       "reddit_comments": 54
     },
     {
@@ -29375,8 +32121,8 @@
       "cluster_id": "0c34631c04e4012e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 390,
-      "reddit_comments": 28
+      "reddit_score": 398,
+      "reddit_comments": 29
     },
     {
       "id": "cca01234013916b6",
@@ -29655,7 +32401,7 @@
       "cluster_id": "3eab3e29e1e30841",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 91,
+      "reddit_score": 97,
       "reddit_comments": 0
     },
     {
@@ -29723,7 +32469,7 @@
       "cluster_id": "a1d443d7dfd90351",
       "cluster_item_count": 71,
       "cluster_source_count": 9,
-      "reddit_score": 15,
+      "reddit_score": 16,
       "reddit_comments": 0
     },
     {
@@ -29877,8 +32623,8 @@
       "cluster_id": "9d72fb1a42383c39",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 1,
-      "reddit_comments": 9
+      "reddit_score": 18,
+      "reddit_comments": 12
     },
     {
       "id": "4d66d912957f8ef2",
@@ -29988,8 +32734,8 @@
       "cluster_id": "69e2c44af69299c1",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 14,
-      "reddit_comments": 17
+      "reddit_score": 41,
+      "reddit_comments": 23
     },
     {
       "id": "8c16b9bd648fff7b",
@@ -30077,8 +32823,8 @@
       "cluster_id": "7131cd9bdc670b57",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 147,
-      "reddit_comments": 11
+      "reddit_score": 177,
+      "reddit_comments": 13
     },
     {
       "id": "17a9392d26d327ee",
@@ -30209,7 +32955,7 @@
       "cluster_id": "c0170ca8bdb362b8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 219,
+      "reddit_score": 228,
       "reddit_comments": 20
     },
     {
@@ -30341,8 +33087,8 @@
       "cluster_id": "f0ea8b9fcca35ae7",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 170,
-      "reddit_comments": 14
+      "reddit_score": 214,
+      "reddit_comments": 17
     },
     {
       "id": "49d7589846e67811",
@@ -30385,7 +33131,7 @@
       "cluster_id": "970270de7b58b7a2",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 187,
+      "reddit_score": 200,
       "reddit_comments": 4
     },
     {
@@ -30473,7 +33219,7 @@
       "cluster_id": "6d3e0c47cb0f3cbf",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 60,
+      "reddit_score": 80,
       "reddit_comments": 4
     },
     {
@@ -30561,7 +33307,7 @@
       "cluster_id": "4ab892a53004f45d",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
-      "reddit_score": 28,
+      "reddit_score": 29,
       "reddit_comments": 1
     },
     {
@@ -30729,7 +33475,7 @@
       "cluster_id": "92f323c64bb45576",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 76,
+      "reddit_score": 91,
       "reddit_comments": 5
     },
     {
@@ -30818,8 +33564,8 @@
       "cluster_id": "f0ea8b9fcca35ae7",
       "cluster_item_count": 2,
       "cluster_source_count": 2,
-      "reddit_score": 868,
-      "reddit_comments": 122
+      "reddit_score": 902,
+      "reddit_comments": 125
     },
     {
       "id": "ebbd0fcb3c5c0abf",

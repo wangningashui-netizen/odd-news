@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "Asia/Shanghai",
-  "count": 106,
+  "count": 107,
   "items": [
     {
       "id": "b0dc439e71db287a",
@@ -273,8 +273,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "36ef553f730478ef",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "80c99003c6f6c6cd",
@@ -1296,8 +1296,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "939eaa7b82ce7417",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "a226048032869f7d",
@@ -1470,6 +1470,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d7008710ec508492",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5de10d73efc92348",
+      "url": "https://www.timesnownews.com/entertainment-news/tv/eisha-singh-grows-cryptic-after-avinash-mishra-note-trusted-someone-who-eventually-stabbed-me-in-back-article-156550253",
+      "title_en": "Eisha Singh Grows Cryptic After Avinash Mishra’s Note: Trusted Someone Who Eventually Stabbed Me In Back",
+      "title_zh": null,
+      "summary_en": "Eisha Singh shared a hard-hitting note amid breakup rumours with Avinash Mishra. She hinted at betrayal after Avinash claimed that 'relationships are personal'. Read full story to know more about their split., TV, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156550273,thumbsize-714823,width-1280,height-720,resizemode-75/156550273.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-22T19:34:57+08:00",
+      "fetched_at": "2026-11-24T14:52:37+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5de10d73efc92348",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1870,8 +1895,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ef478b4619939847",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "b6a6e47af886925c",
@@ -3039,8 +3064,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ef478b4619939847",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "239fa4906ff6f1c6",

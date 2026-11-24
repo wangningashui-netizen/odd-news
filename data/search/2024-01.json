@@ -1,7 +1,31 @@
 {
   "month": "2024-01",
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "id": "2613eaf194a2f8a1",
+      "date": "2024-01-31",
+      "published_at": "2024-01-31T21:39:55+08:00",
+      "title_zh": null,
+      "title_en": "Telangana CM Intervenes After Cops Shut Kumari Aunty's Food Stall Citing Traffic Congestion",
+      "summary_zh": null,
+      "summary_en": "The police cited traffic congestion as the reason for shutting down Kumari Aunty’s food stall and urged her to relocate to ease the traffic situation in the IT sector stretch.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/01/news18-bl-zb-2024-01-85ae5766ef942e096dfeeb5b184b91aa-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "街头食物",
+        "交通火车",
+        "犯罪法律"
+      ],
+      "url": "https://www.news18.com/viral/telangana-cm-intervenes-after-cops-shut-kumari-auntys-food-stall-citing-traffic-congestion-8761303.html",
+      "translation_status": "pending",
+      "cluster_id": "2613eaf194a2f8a1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "63ecd3f77cd3a987",
       "date": "2024-01-29",

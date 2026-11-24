@@ -1,6 +1,6 @@
 {
   "month": "2023-01",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "id": "305d2cda4c9ad703",
@@ -107,6 +107,28 @@
       "url": "https://www.news18.com/buzz/sonam-bajwa-dismisses-rumours-of-dating-shubhman-gill-with-a-sara-tweet-6870697.html",
       "translation_status": "fallback",
       "cluster_id": "f7937cfa1d0576c0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "68521eddcec5a312",
+      "date": "2023-01-06",
+      "published_at": "2023-01-06T13:33:17+08:00",
+      "title_zh": null,
+      "title_en": "Shark Tank Season 2 Memes Are What This Twitter Thread is All About",
+      "summary_zh": null,
+      "summary_en": "People have been criticising how Shark Tank 2 seems to have taken a sentimental turn with lots of back stories in a style typical of Indian Idol.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/shark-tank-1-167298301816x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/shark-tank-season-2-memes-are-what-this-twitter-thread-is-all-about-6769777.html",
+      "translation_status": "pending",
+      "cluster_id": "68521eddcec5a312",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
