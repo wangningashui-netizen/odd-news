@@ -2,6 +2,96 @@
   "date": "2026-11-20",
   "items": [
     {
+      "id": "234a734b7a1702e2",
+      "title_en": "IIT Bombay alumnus Viraj Karambelkar leads team that witnesses giant star swallowing its companion in scientific first",
+      "summary_en": "An IIT Bombay alumnus led a team of astronomers that witnessed a giant star engulfing its smaller companion.",
+      "title_zh": "印度理工学院孟买校友 Viraj Karambelkar 领导的团队首次目睹巨星吞噬其伴星",
+      "summary_zh": "印度理工学院孟买分校的一位校友带领一个天文学家团队目睹了一颗巨大的恒星吞噬了它较小的伴星。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/iit-bombay-alumnus-viraj-karambelkar-leads-team-that-witnesses-giant-star-swallowing-its-companion-in-scientific-first-101795179620390.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "353b2baa75303a1a",
+      "title_en": "Indian entrepreneur who quit finance job in New York and turned discarded chip packets into sunglasses earns TIME recognition",
+      "summary_en": "Anish Malpani, who quit his finance job in New York to pursue social entrepreneurship in India, earned TIME recognition.",
+      "title_zh": "印度企业家辞掉纽约金融工作，将废弃的芯片包变成太阳镜，获得《时代》杂志的认可",
+      "summary_zh": "安尼什·马尔帕尼 (Anish Malpani) 辞去了纽约的金融工作，前往印度追求社会企业家精神，获得了《时代》周刊的认可。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/indian-entrepreneur-who-quit-finance-job-in-new-york-and-turned-discarded-chip-packets-into-sunglasses-earns-time-recognition-101795187414901.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "3d57dc8774519cbd",
+      "title_en": "Fiona the hippo died at Cincinnati Zoo ten years after Harambe’s 2016 killing",
+      "summary_en": "Harambe was killed a decade ago at the same Cincinnati Zoo as Fiona.",
+      "title_zh": "2016 年哈兰贝被杀十年后，河马菲奥娜 (Fiona) 在辛辛那提动物园去世",
+      "summary_zh": "哈兰贝十年前与菲奥娜在同一辛辛那提动物园被杀。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/fiona-the-hippo-died-at-cincinnati-zoo-ten-years-after-harambe-s-2016-killing-101795156969843.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "6649ae221c374ab2",
+      "title_en": "A Nobel laureate who spiked food with radioactive dust and other scientists who used their bodies as labs",
+      "summary_en": "Some of science’s biggest breakthroughs began with researchers using themselves as test subjects.",
+      "title_zh": "一位在食物中掺入放射性尘埃的诺贝尔奖获得者和其他将自己的身体用作实验室的科学家",
+      "summary_zh": "科学上一些最大的突破始于研究人员将自己作为测试对象。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/a-nobel-laureate-who-spiked-food-with-radioactive-dust-and-other-scientists-who-used-their-bodies-as-labs-101795169272626.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "80f79885aa5b2889",
+      "title_en": "On this day in 1820, a whale sank the whaleship Essex, leaving its survivors to resort to cannibalism",
+      "summary_en": "On November 20, 1820, an American whaling ship named Essex sank at sea after being rammed by a massive sperm whale.",
+      "title_zh": "1820 年的今天，一头鲸鱼击沉了埃塞克斯号捕鲸船，幸存者开始吃人肉",
+      "summary_zh": "1820年11月20日，一艘名为埃塞克斯号的美国捕鲸船被一头巨大的抹香鲸撞击后沉没在海上。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/on-this-day-in-1820-a-whale-sank-the-whaleship-essex-leaving-its-survivors-to-resort-to-cannibalism-101795171183391.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "856b252a7dc2621c",
+      "title_en": "American Airlines passengers find luggage covered in peanut butter after 2-hour wait",
+      "summary_en": "Passengers on an American Airlines flight on Monday were surprised, and disgusted, when their luggage came out covered in a sticky brown substance.",
+      "title_zh": "美国航空的乘客在等待2小时后发现行李上沾满了花生酱",
+      "summary_zh": "周一，当美国航空航班上的乘客发现他们的行李被粘稠的棕色物质覆盖时，他们感到惊讶和厌恶。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/us/american-airlines-passengers-find-luggage-covered-in-peanut-butter-after-2-hour-wait-101795158332153.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "b41b646aac476cb3",
+      "title_en": "Jimmy De Santa returns in GTA VI; Michael's son from GTA V seems to know Jason from way back",
+      "summary_en": "Jimmy De Santa was the son of the protagonist, Michael, in GTA V, and the character has returned in GTA VI, seeming to know the new game's protagonist, Jason.",
+      "title_zh": "吉米·德·桑塔 (Jimmy De Santa) 在 GTA VI 中回归； GTA V 中迈克尔的儿子似乎很早就认识杰森",
+      "summary_zh": "吉米·德·桑塔（Jimmy De Santa）是《GTA V》中主角迈克尔的儿子，该角色在《GTA VI》中又回归了，似乎认识新游戏的主角杰森。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/jimmy-de-santa-returns-in-gta-vi-michaels-son-from-gta-v-seems-to-know-jason-from-way-back-niko-bellic-valentina-return-too-101795167097097.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "c2dc9b702bf33c70",
+      "title_en": "‘Human’ is Cambridge Dictionary’s Word of the Year, and Bill Gates explains why it matters right now",
+      "summary_en": "Bill Gates applauded Cambridge Dictionary naming ‘human’ its Word of the Year, saying AI’s success must be measured by how it improves lives",
+      "title_zh": "“人类”是剑桥词典的年度词汇，比尔·盖茨解释了为什么它现在很重要",
+      "summary_zh": "比尔·盖茨对《剑桥词典》将“人类”命名为年度词汇表示赞赏，并表示人工智能的成功必须通过它如何改善生活来衡量",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/human-is-cambridge-dictionary-s-word-of-the-year-and-bill-gates-explains-why-it-matters-right-now-101795150059882.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "c57914ca0c2cdd44",
+      "title_en": "Oxford’s 2026 Word of the Year shortlist features ‘slopaganda’, ‘doomerism’",
+      "summary_en": "The Oxford University Press has unveiled its shortlist for Oxford Word of the Year 2026.",
+      "title_zh": "牛津大学 2026 年年度词汇入围名单包括“slopaganda”、“doomerism”",
+      "summary_zh": "牛津大学出版社公布了 2026 年牛津年度词汇入围名单。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/oxfords-2026-word-of-the-year-shortlist-features-slopaganda-doomerism-101795152364718.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
       "id": "d567d62c11ed3f7d",
       "title_en": "‘Before GTA 6’ meme had a glorious run, and now it lives forever inside Vice City",
       "summary_en": "Players spotted a cheeky ‘Before GTA 6’ parody inside the newly released Grand Theft Auto VI game.",
@@ -22,6 +112,86 @@
       "source": "Hindustan Times Trending"
     },
     {
+      "id": "43934aa7ce93cdef",
+      "title_en": "Why is the internet making Batman edits to Madhuri Dixit's iconic Saajan Saajan song?",
+      "summary_en": "Madhuri Dixit’s iconic Saajan Saajan song has found an unlikely new fanbase, with Batman edits taking over social media. Even Amazon Music India has joined the fun, but what connects the Bollywood track to the Dark Knight?",
+      "title_zh": "为什么互联网上要对玛杜丽·迪克西特 (Madhuri Dixit) 的标志性 Saajan Saajan 歌曲进行蝙蝠侠编辑？",
+      "summary_zh": "玛杜丽·迪克西特 (Madhuri Dixit) 的标志性歌曲《Saajan Saajan》意外地找到了新的粉丝群，蝙蝠侠的编辑占领了社交媒体。就连亚马逊音乐印度公司也加入了这一行列，但是宝莱坞歌曲与《黑暗骑士》有何联系呢？",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/why-is-the-internet-making-batman-edits-to-madhuri-dixits-iconic-sajan-sajan-song-3042996-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "4cf2f5b3bacb63e3",
+      "title_en": "US nurse quits job to create content, shares how she earned Rs 82 lakh in 7 months",
+      "summary_en": "Arizona nurse Sarah Ann revealed her seven-month earnings from brand collaborations. The income enabled her to leave nursing and prioritise content and family.",
+      "title_zh": "美国护士辞职创作内容，分享她如何在 7 个月内赚到 820 万卢比",
+      "summary_zh": "亚利桑那州护士莎拉·安 (Sarah Ann) 透露了她从品牌合作中获得的七个月收入。收入使她能够放弃护理工作，并优先考虑内容和家庭。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/us-nurse-quits-job-to-create-content-shares-how-she-earned-rs-82-lakh-in-7-months-3043159-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "4d7d99335034ff66",
+      "title_en": "Indian woman living in Germany shares glimpse of what her office looks like at 5 pm",
+      "summary_en": "An Indian employee filmed her German office empty at 5.10 pm after a meeting. The video prompted comparisons between German and Indian workplace cultures.",
+      "title_zh": "居住在德国的印度女性在下午 5 点分享了她办公室的样子",
+      "summary_zh": "下午 5 点 10 分，一名印度员工在开完会后拍摄到她的德国办公室空无一人。该视频促使人们对德国和印度的职场文化进行了比较。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/indian-woman-living-in-germany-shares-glimpse-of-what-her-office-looks-like-at-5-pm-3042951-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "4dcb3b33f3c7cb27",
+      "title_en": "Maharashtra groom chooses bicycle over horse or luxury car for wedding procession",
+      "summary_en": "Dr Viraj led around 100 cyclists through Akola ahead of his wedding. The Ride for Love event promoted fitness and environmentally friendly transport.",
+      "title_zh": "马哈拉施特拉邦新郎选择自行车而不是马或豪华汽车参加婚礼游行",
+      "summary_zh": "在婚礼前，Viraj 博士带领大约 100 名自行车手穿过阿科拉。 “为爱骑行”活动倡导健身和环保交通。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/maharashtra-groom-chooses-bicycle-over-horse-or-luxury-car-for-wedding-procession-3042963-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "858f4963655fd402",
+      "title_en": "Gurugram CEO calls out employees who look busy but get surprisingly little work done",
+      "summary_en": "Knot Dating CEO Jasveer Singh questioned India's fixation with long office hours. His viral post urged workplaces to measure output rather than time spent at desks.",
+      "title_zh": "古尔格拉姆首席执行官称员工看起来很忙，但完成的工作却少得惊人",
+      "summary_zh": "Knot Dating 首席执行官贾斯维尔·辛格 (Jasveer Singh) 对印度人对长时间办公的执着提出了质疑。他的热门帖子敦促工作场所衡量产出而不是在办公桌前花费的时间。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/gurugram-ceo-calls-out-employees-who-look-busy-but-get-surprisingly-little-work-done-3042873-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "93537bb0b5e83941",
+      "title_en": "SpiceJet passengers confront staff over 'Bahir mil batata hu' threat amid flight delay",
+      "summary_en": "Passengers confronted SpiceJet staff at Delhi Airport after an employee allegedly threatened them during a prolonged flight delay. The viral exchange prompted criticism over inadequate updates, amenities and treatment.",
+      "title_zh": "由于航班延误，香料航空的乘客因“Bahir mil batata hu”威胁与工作人员对峙",
+      "summary_zh": "据称一名员工在航班长时间延误期间威胁他们，乘客们在德里机场与香料航空的工作人员对峙。这种病毒式的交流引发了对更新、便利设施和治疗不足的批评。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/spicejet-passengers-at-delhi-airport-confront-staff-over-bahir-mil-batata-hu-threat-amid-flight-delay-3043298-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "9ad522bc12d7d5a8",
+      "title_en": "Woman tries to enter motorman's cabin on Mumbai local train, Railways reacts",
+      "summary_en": "A viral video shows a woman attempting to enter a Mumbai local train's restricted motorman's cabin. RPF checks found no record at Goregaon station, leaving the video's location unconfirmed.",
+      "title_zh": "女子试图进入孟买当地火车司机室，铁路部门做出反应",
+      "summary_zh": "一段广为流传的视频显示，一名女子试图进入孟买当地火车的司机室。 RPF 检查后发现 Goregaon 车站没有任何记录，因此视频的位置尚未确定。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/woman-tries-to-enter-motorman-cabin-on-mumbai-local-train-railways-reacts-3042916-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "ac26b78638cadf7c",
+      "title_en": "GTA 6's global radio playlist features an unexpected Bengali song from 1982",
+      "summary_en": "GTA 6 players have discovered Rupa Biswas' 1982 Bengali song ‘Aaj Shanibaar’ on Worldwide FM. Its inclusion gives the vintage disco track a fresh global platform.",
+      "title_zh": "GTA 6 的全球广播播放列表中收录了一首出人意料的 1982 年孟加拉语歌曲",
+      "summary_zh": "GTA 6 玩家在 Worldwide FM 中发现了 Rupa Biswas 于 1982 年创作的孟加拉语歌曲“Aaj Shanibaar”。它的加入为复古迪斯科曲目提供了一个全新的全球平台。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/gta-6s-global-radio-playlist-features-an-unexpected-bengali-song-from-1982-3043066-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
       "id": "c25a48d55e6b47e7",
       "title_en": "Woman behind viral Shanaya trend hits back at critics calling it misogynistic",
       "summary_en": "Divyanshi Chauhan defended her viral Shanaya video against accusations of misogyny. She said its original focus on casteism and classism could be lost.",
@@ -30,6 +200,56 @@
       "translation_status": "fallback",
       "url": "https://www.indiatoday.in/trending-news/story/woman-behind-viral-everybody-is-from-the-village-shanaya-trend-hits-back-at-critics-calling-it-misogynistic-3042833-2026-11-20",
       "source": "India Today Trending"
+    },
+    {
+      "id": "d56332036f0560f5",
+      "title_en": "Lawrence Bishnoi is still behind bars, but his jacket is now a hot-selling item",
+      "summary_en": "A Jodhpur shop is promoting jackets bearing jailed gangster Lawrence Bishnoi's name online. The merchandise reflects how his prison-era image has been glamorised across social media.",
+      "title_zh": "劳伦斯·比什诺伊 (Lawrence Bishnoi) 仍在狱中，但他的夹克现已成为热销单品",
+      "summary_zh": "焦特布尔的一家商店正在网上推销印有入狱黑帮劳伦斯·比什诺伊名字的夹克。这些商品反映了他在监狱时代的形象如何在社交媒体上被美化。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/lawrence-bishnoi-is-still-behind-bars-but-his-jacket-is-now-a-hot-selling-item-3043244-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "ed9ddff9b547b7bb",
+      "title_en": "Indian man says beef cut chart on cow statue in China broke his heart, X reacts",
+      "summary_en": "An Indian tourist filmed his dismay at a cow statue in China detailing beef cuts and protein content. Online users criticised his expectations and urged travellers to respect cultural differences.",
+      "title_zh": "印度男子称中国牛雕像上的牛肉切割图让他心碎 X回应",
+      "summary_zh": "一名印度游客拍摄了他对中国一座牛雕像的沮丧，雕像上详细介绍了牛肉的切块和蛋白质含量。网上用户批评了他的期望，并敦促旅行者尊重文化差异。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/indian-man-says-beef-cut-chart-on-cow-statue-in-china-broke-his-heart-x-reacts-3042918-2026-11-20",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "126b57a91124cf11",
+      "title_en": "Bryan Johnson Shares \"GTA 6 Longevity Edition\" Video, Chooses Apple Over Takis",
+      "summary_en": "The video concludes with him saying that the process was easy.",
+      "title_zh": "布莱恩·约翰逊分享“GTA 6 长寿版”视频，选择苹果而非塔基斯",
+      "summary_zh": "视频最后他说这个过程很简单。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/bryan-johnson-shares-gta-6-longevity-edition-video-chooses-apple-over-takis-12353936",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "16b083509fe2318e",
+      "title_en": "Railways Changes Group Booking Rules: No Fixed Berth Limit Under New Guidelines",
+      "summary_en": "The most significant change is the removal of the fixed ceiling on the number of berths that can be approved under bulk reservations.",
+      "title_zh": "铁路改变团体订票规则：新指引下无固定泊位限制",
+      "summary_zh": "最重要的变化是取消了批量预订下可批准的泊位数量的固定上限。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/railways-changes-group-booking-rules-no-fixed-berth-limit-under-new-guidelines-12352575",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "3e250c41aba6252a",
+      "title_en": "Bihar's 'Gold Man' Arrives At Raja Bhaiya's Ramkatha Wearing Gold Worth Rs 10 Crore",
+      "summary_en": "Wearing around 6.3 kg of gold jewellery reportedly worth over Rs 10 crore, he attracted crowds of devotees eager to take selfies and photographs with him.",
+      "title_zh": "比哈尔邦的“金人”佩戴价值 1 亿卢比的黄金抵达 Raja Bhaiya 的 Ramkatha",
+      "summary_zh": "他戴着约 6.3 公斤的黄金首饰，据报道价值超过 1 亿卢比，吸引了大批信徒渴望与他自拍和合影。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/bihars-gold-man-arrives-at-raja-bhaiyas-ramkatha-wearing-gold-worth-rs-10-crore-12352636",
+      "source": "NDTV Offbeat"
     },
     {
       "id": "4f7ddf62629cacf4",
@@ -52,6 +272,336 @@
       "source": "NDTV Offbeat"
     },
     {
+      "id": "7a1dbc6c76f70d99",
+      "title_en": "Woman Creates Custom GTA 6-Themed Gift Basket For Her Boyfriend",
+      "summary_en": "The video showed the effort she put into bringing together her boyfriend's favourite things to create a personalised GTA 6-themed surprise.",
+      "title_zh": "女子为男友制作定制 GTA 6 主题礼品篮",
+      "summary_zh": "该视频展示了她努力将男友最喜欢的东西汇集在一起，创造出个性化的 GTA 6 主题惊喜。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/woman-creates-gta-6-themed-gift-basket-for-boyfriend-filled-with-snacks-toy-cars-and-a-photo-of-them-together-12354137",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "be134103e0e11b2e",
+      "title_en": "'Evil' Owl Attacking Residents In US Town, No One Knows Why",
+      "summary_en": "An owl has attacked several residents in a small Boston town, causing injuries and rabies concerns.",
+      "title_zh": "“邪恶”猫头鹰袭击美国小镇居民，无人知道原因",
+      "summary_zh": "一只猫头鹰袭击了波士顿小镇的几名居民，造成受伤和狂犬病问题。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/evil-owl-attacking-residents-in-us-town-no-one-knows-why-12353582",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "fd44bf7b7e4ce8b2",
+      "title_en": "Woman Shares Emotional Video Of Parents Seeing Her Off At Railway Station",
+      "summary_en": "The video captures Anushka's parents dropping her off at the railway station.",
+      "title_zh": "女子分享父母在火车站送她的情感视频",
+      "summary_zh": "视频捕捉到了阿努什卡的父母送她去火车站的情景。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/woman-shares-emotional-video-of-parents-seeing-her-off-at-railway-station-12355388",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "02288225526e04b6",
+      "title_en": "Passenger Claims She Was Denied Boarding, Declared ‘No-Show’ Despite Reaching On Time: ‘System Didn’t Show",
+      "summary_en": "Upon landing in Hyderabad, she learnt that her Goa-bound flight was delayed by 40 minutes, which gave her enough time to catch a breath and get some food before boarding",
+      "title_zh": "乘客声称她被拒绝登机，尽管准时到达但仍被宣布“未出现”：“系统没有显示”",
+      "summary_zh": "抵达海得拉巴后，她得知飞往果阿的航班延误了 40 分钟，这让她有足够的时间在登机前喘口气并吃点东西",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/passenger-claims-she-was-denied-boarding-declared-no-show-despite-reaching-on-time-system-didnt-show-me-ws-l-10434033.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "11bf5b08cbc0e145",
+      "title_en": "Man Fired From Company Lands Job At Its Parent Firm, Returns To Same Office Building: ‘Actually Laughing Ab",
+      "summary_en": "A man who was fired from his job found a new role within weeks and received several offers, but his latest career move came with an unexpected twist",
+      "title_zh": "被公司解雇的男子在其母公司找到工作，返回同一栋办公楼：“实际上是在笑",
+      "summary_zh": "一名被解雇的男子在几周内找到了新职位，并收到了几份工作邀请，但他最新的职业变动却出现了意想不到的转折",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/man-fired-from-company-lands-job-at-its-parent-firm-returns-to-same-office-building-actually-laughing-about-it-ws-l-10434216.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "16970b462f2a8bd0",
+      "title_en": "'Can't Think Of A Better Choice': Bill Gates On Cambridge Dictionary Naming 'Human' Word Of The Year",
+      "summary_en": "Bill Gates praised Cambridge Dictionary's choice of 'human' as Word of the Year 2026, saying AI's success should be measured by how much it improves people's lives.",
+      "title_zh": "“想不出更好的选择”：比尔·盖茨在《剑桥词典》中评选年度“人类”一词",
+      "summary_zh": "比尔·盖茨称赞《剑桥词典》选择“人类”作为 2026 年度词汇，并表示人工智能的成功应该以它对人们生活的改善程度来衡量。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/cant-think-of-a-better-choice-bill-gates-on-cambridge-dictionary-naming-human-word-of-the-year-ws-l-10433616.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "2a650fc915d4b5d4",
+      "title_en": "Madhuri Dixit’s Saajan Saajan Is Batman’s New Hype Song, And The Internet Can’t Get Enough | Video",
+      "summary_en": "Madhuri Dixit’s popular song Saajan Saajan has found an unexpected fan base, with social media users using its remix in edits featuring Batman and the Joker",
+      "title_zh": "Madhuri Dixit 的 Saajan Saajan 是蝙蝠侠的新炒作歌曲，互联网无法满足 |视频",
+      "summary_zh": "Madhuri Dixit 的热门歌曲 Saajan Saajan 找到了意想不到的粉丝群，社交媒体用户在《蝙蝠侠与小丑》的剪辑中使用了这首歌曲的混音版",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/madhuri-dixits-saajan-saajan-is-batmans-new-hype-song-and-the-internet-cant-get-enough-video-ws-l-10434192.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "3ce9c61442f29050",
+      "title_en": "Who Is Rito Riba? Singer Behind Viral Dilruba Dilnasheen Song Who Was Eliminated From Indian Idol 2022",
+      "summary_en": "Rito Riba has found renewed popularity ever since the release of Dilruba Dilnasheen, the peppy romantic track that has people across India and around the world joyfully dancing",
+      "title_zh": "里托·里巴是谁？被《2022 年印度偶像》淘汰的 Dilruba Dilnasheen 歌曲背后的歌手",
+      "summary_zh": "自从《Dilruba Dilnasheen》发行以来，Rito Riba 再次受到欢迎，这首充满活力的浪漫歌曲让印度和世界各地的人们欢快地跳舞",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/who-is-rito-riba-singer-behind-viral-dilruba-dilnasheen-song-who-was-eliminated-from-indian-idol-2022-ws-l-10434041.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "4c43cf763632196d",
+      "title_en": "300 Apply For Entry-Level Job, Only 6 Get Interviews; Job Seeker Says ‘Better Odds Of Getting Into Harvard’",
+      "summary_en": "The job seeker said that recruiter told them that 300 had applied, only 50 resumes qualified, then six were called for first-round interview and just two made it to the final round",
+      "title_zh": "300名初级职位申请，仅6人获得面试；求职者表示“进入哈佛的可能性更大”",
+      "summary_zh": "求职者表示，招聘人员告诉他们，已经有300人申请，只有50份简历合格，然后有6人被邀请参加第一轮面试，只有2人进入最后一轮。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/300-apply-for-entry-level-job-only-6-get-interviews-job-seeker-says-better-odds-of-getting-into-harvard-ws-l-10433565.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "4d3b18543f9809a8",
+      "title_en": "Viral 'Shanaya' Trend Creator Hits Back At Misogyny Claims: 'Women Can't Be Put On A Pedestal'",
+      "summary_en": "Divyanshi Chauhan, creator of the viral Shanaya trend addressing classism, responded to allegations of misogyny by stating that women can also behave casteist and classist",
+      "title_zh": "病毒式“Shanaya”潮流创造者回击厌女症言论：“女性不能被捧上神坛”",
+      "summary_zh": "Divyanshi Chauhan 是解决阶级主义的病毒式 Shanaya 潮流的创造者，他回应了厌女症的指控，指出女性也可以表现出种姓主义和阶级主义",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/viral-shanaya-trend-creator-hits-back-at-misogyny-claims-women-cant-be-put-on-a-pedestal-ws-l-10433585.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "5ddf48c319909e9b",
+      "title_en": "Candidate Resigns From Rs 10.5 LPA Job For Rs 13.5 LPA Package, Company Revokes Offer Last-Minute: ‘Really",
+      "summary_en": "The working professional shared that they had resigned from the company they were working for six months after securing a role with a Rs 13.5 LPA package at a startup",
+      "title_zh": "候选人辞去 10.5 卢比 LPA 工作换取 13.5 卢比 LPA 套餐，公司在最后一刻撤销聘用：“真的”",
+      "summary_zh": "这位在职专业人士表示，他们在一家初创公司找到了一份薪资为 13.5 卢比的 LPA 待遇后，就从自己工作了六个月的公司辞职了。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/candidate-resigns-from-rs-10-5-lpa-job-for-rs-13-5-lpa-package-company-revokes-offer-last-minute-really-anxious-ws-l-10434407.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "662c1e469caac0ac",
+      "title_en": "Woman Works Hours Beyond Scheduled Shift At Night, Manager’s Gesture Sets Example: ‘This Is What We Need’",
+      "summary_en": "She shared that due to some urgent work during their shift, the team had to work for a few additional hours to get it done and manager thanked them by asking them to log in late",
+      "title_zh": "女人晚上比预定的轮班时间加班，经理的手势树立了榜样：“这就是我们需要的”",
+      "summary_zh": "她分享说，由于轮班期间有一些紧急工作，团队不得不额外工作几个小时才能完成工作，经理为了感谢他们，要求他们晚点登录",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-works-hours-beyond-scheduled-shift-at-night-managers-gesture-sets-example-this-is-what-we-need-ws-l-10433560.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "6633fab59d997225",
+      "title_en": "43 US Army Soldiers Sign Up For Extra Years Of Service To Get GTA 6 Gaming Break",
+      "summary_en": "43 US Army soldiers have extended their military service by two to six years in exchange for a four-day weekend to play the much-awaited GTA 6",
+      "title_zh": "43 名美国陆军士兵报名额外服役一年，以获得 GTA 6 游戏休息时间",
+      "summary_zh": "43 名美国陆军士兵将兵役期限延长 2 至 6 年，以换取为期四天的周末畅玩期待已久的 GTA 6",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/43-us-army-soldiers-sign-up-for-extra-years-of-service-to-get-gta-6-gaming-break-ws-l-10433549.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "671e433d0c10793b",
+      "title_en": "Indian Woman In Germany Shows Empty Office At 5 PM, Sparks Debate On Work Culture",
+      "summary_en": "An Indian woman in Germany sparked a viral social media discussion after sharing a video showing her office completely empty at 5pm, highlighting German work-life balance.",
+      "title_zh": "德国印度女性下午 5 点办公室空荡荡，引发工作文化争论",
+      "summary_zh": "一名身在德国的印度女性分享了一段视频，视频显示她的办公室在下午 5 点空无一人，这突显了德国工作与生活的平衡，引发了社交媒体上的热议。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/indian-woman-in-germany-shows-empty-office-at-5-pm-sparks-debate-on-work-culture-ws-l-10434103.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "744ae7f411fe2583",
+      "title_en": "Varanasi Saree Shopkeeper Wins Hearts For Letting Stray Dogs Rest Inside His Shop, Video Goes Viral",
+      "summary_en": "A Varanasi saree shopkeeper is winning hearts online for letting stray dogs rest inside his store. His simple response has struck a chord with social media users.",
+      "title_zh": "瓦拉纳西纱丽店主因让流浪狗在店里休息而赢得人心，视频疯传",
+      "summary_zh": "瓦拉纳西的一位纱丽店主因让流浪狗在他的店里休息而在网上赢得了人心。他简单的回应引起了社交媒体用户的共鸣。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/varanasi-saree-shopkeeper-wins-hearts-for-letting-stray-dogs-rest-inside-his-shop-video-goes-viral-ws-l-10430567.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "81db00b990cd12cc",
+      "title_en": "Women Confront Man For Dumping Waste Into Polluted Yamuna: ‘Already Itna Ganda Hai, Aap Phir…’",
+      "summary_en": "The two spotted the man throwing religious offering into the river, which was already polluted, and called him out for doing so pointing out how it was already filled with trash",
+      "title_zh": "妇女与向受污染的亚穆纳河倾倒废物的男子对质：“已经是 Itna Ganda Hai，Aap Phir 了……”",
+      "summary_zh": "两人发现该男子将宗教祭品扔进已经被污染的河里，并斥责他这样做，并指出河里已经充满了垃圾",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/women-confront-man-for-dumping-waste-into-polluted-yamuna-already-itna-ganda-hai-aap-phir-ws-l-10434289.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "916a260ca16ddefa",
+      "title_en": "Japanese Woman Falls Ill In Japan, Says ‘India Is More Convenient’ For Healthcare: ‘Never Thought I’d Miss",
+      "summary_en": "She shared that she was so sick that she was unable to move but still had to book a taxi to visit a hospital in Japan, which could have been done through an app in India",
+      "title_zh": "日本妇女在日本生病，说“印度更方便”的医疗保健：“没想到我会错过",
+      "summary_zh": "她分享说，她病得很重，无法动弹，但仍然不得不预订出租车去日本的医院，而这在印度可以通过应用程序完成",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/japanese-woman-falls-ill-in-japan-says-india-is-more-convenient-for-healthcare-never-thought-id-miss-this-ws-l-10433844.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "9adb517996123a9a",
+      "title_en": "Ex-Employee Gets Salary From Former Company By Mistake, Faces Trouble Over Refund: ‘I Don’t Use That Accoun",
+      "summary_en": "A former intern has sought help after their previous company mistakenly deposited another employee's salary into their bank account and demanded a full refund.",
+      "title_zh": "前员工误领前公司工资，面临退款麻烦：“我不使用那个账户”",
+      "summary_zh": "一名前实习生在前公司错误地将另一名员工的工资存入其银行账户后寻求帮助，并要求全额退款。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/ex-employee-gets-salary-from-former-company-by-mistake-faces-trouble-over-refund-i-dont-use-that-account-either-ws-l-10434236.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "9b37772120adc69e",
+      "title_en": "Woman Questions Arranged Marriage Proposal After Man Says He Won’t Let Her Support Her Parents: ‘I Am Going",
+      "summary_en": "A woman reconsidered an arranged marriage proposal after a discussion about finances revealed the man’s views on her responsibilities towards her parents.",
+      "title_zh": "男子表示不会让她赡养父母后，女子对包办婚姻提出质疑：“我要去",
+      "summary_zh": "一名女子在一次关于财务问题的讨论中透露了男子对她对父母的责任的看法后，重新考虑了包办婚姻。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-questions-arranged-marriage-proposal-after-man-says-he-wont-let-her-support-her-parents-i-am-going-to-say-no-ws-l-10433967.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "a24fdb60b62af873",
+      "title_en": "Darjeeling Local Confronts Tourists For Urinating On Roadside, Says ‘Should Be Informed About Rules At Entr",
+      "summary_en": "Once the local man confronted the two tourists from Uttar Pradesh for urinating in the public, they told him that they were not aware of the rules before leaving the place quickly",
+      "title_zh": "大吉岭当地人因游客在路边小便而面对游客，称“应该在入口处了解规则”",
+      "summary_zh": "有一次当地男子因在公共场所小便而与两名来自北方邦的游客对质时，他们告诉他，他们不知道规则，然后迅速离开了这个地方",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/darjeeling-local-confronts-tourists-for-urinating-on-roadside-says-should-be-informed-about-rules-at-entry-ws-l-10433830.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "a4ec59133a3e6fe2",
+      "title_en": "‘What A Time To Be Alive’: Man Shares How His Parents Are Fighting Over YouTube And Internet",
+      "summary_en": "An X user named Arvind Pandey shared a post about his parents arguing over late-night YouTube usage and silent video scrolling.",
+      "title_zh": "“活着真是太好了”：男人分享他的父母如何为 YouTube 和互联网而争吵",
+      "summary_zh": "一位名叫 Arvind Pandey 的 X 用户分享了一篇关于他的父母因深夜 YouTube 使用和无声视频滚动而争论的帖子。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/what-a-time-to-be-alive-man-shares-how-his-parents-are-fighting-over-youtube-and-internet-ws-l-10434189.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "a8d3a819e22f1586",
+      "title_en": "Saif Ali Khan Becomes First Celebrity Face Of Gowardhan Ghee After KBC Moment | Post Goes Viral",
+      "summary_en": "Saif Ali Khan’s excited reaction to winning two years’ worth of free ghee on Kaun Banega Crorepati 18 has now led to an unexpected brand association for the actor.",
+      "title_zh": "赛义夫·阿里·汗 (Saif Ali Khan) 成为 Gowardhan Ghee 的首位名人代言人帖子火爆",
+      "summary_zh": "赛义夫·阿里·汗 (Saif Ali Khan) 在 Kaun Banega Crorepati 18 上赢得两年免费酥油后的兴奋反应，现在让这位演员产生了意想不到的品牌联想。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/saif-ali-khan-becomes-first-celebrity-face-of-gowardhan-ghee-after-kbc-moment-post-goes-viral-ws-l-10434424.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "b05625ea55cbf17b",
+      "title_en": "Bengaluru Techie Offers iPhone 17 Pro To Anyone Who Refers Him For A Job: ‘My Gratitude Could Upgrade Your",
+      "summary_en": "A Bengaluru software engineer with 10 years of experience has made an unusual offer while searching for a new job, promising an expensive reward to anyone who helps him get hired.",
+      "title_zh": "班加罗尔 Techie 向任何推荐他找工作的人提供 iPhone 17 Pro：“我的感激之情可以升级您的设备”",
+      "summary_zh": "班加罗尔的一名拥有 10 年经验的软件工程师在寻找新工作时提出了一个不寻常的提议，承诺向任何帮助他受聘的人提供昂贵的奖励。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/bengaluru-techie-offers-iphone-17-pro-to-anyone-who-refers-him-for-a-job-my-gratitude-could-upgrade-your-phone-ws-l-10434449.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "b217511d6637cfbd",
+      "title_en": "Woman In The Netherlands Shares How Dutch Schools Differ From Indian Ones: ‘No Fees, No Homework, No Grades",
+      "summary_en": "A woman living in the Netherlands gave a list of six ways in which schools in the country differ from the ones in India, with them having no rules on homework or uniforms",
+      "title_zh": "荷兰妇女分享荷兰学校与印度学校的不同之处：“不收费、没有作业、没有成绩”",
+      "summary_zh": "一位居住在荷兰的妇女列出了该国学校与印度学校的六种不同之处，这些学校对家庭作业或校服没有任何规定",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-in-the-netherlands-shares-how-dutch-schools-differ-from-indian-ones-no-fees-no-homework-no-grades-ws-l-10434294.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "c41db6dc858f32a6",
+      "title_en": "18-Year-Old Upset As Parents Refuse Saree For Class 12 Farewell, Here’s How Reddit Advised Her",
+      "summary_en": "An 18-year-old girl is upset after her parents refused to let her wear a saree for her Class 12 farewell, despite being willing to spend more on another outfit.",
+      "title_zh": "18 岁的女孩因父母拒绝在 12 班告别时穿纱丽而感到不安，Reddit 是这样建议她的",
+      "summary_zh": "一名 18 岁女孩的父母拒绝让她在 12 班告别时穿纱丽，尽管她愿意花更多钱购买另一套衣服，但她很沮丧。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/18-year-old-upset-as-parents-refuse-saree-for-class-12-farewell-heres-how-reddit-advised-her-ws-l-10434337.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "d0514c2e635388f8",
+      "title_en": "Woman Rejects ₹25 LPA Marriage Proposal Over Cooking And Living With In-Laws, Internet Reacts",
+      "summary_en": "A woman's decision to turn down a marriage proposal despite the man's ₹25 lakh annual salary has sparked a debate, with users sharing different views on her reasons.",
+      "title_zh": "女子因做饭和与姻亲同住而拒绝 25 卢比 LPA 求婚，互联网反应",
+      "summary_zh": "一名女子不顾男子年薪 250 万卢比的情况，决定拒绝求婚，引发了一场争论，网友们对她的理由有着不同的看法。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-rejects-25-lpa-marriage-proposal-over-cooking-and-living-with-in-laws-internet-reacts-ws-l-10433624.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "d0bcb29cd4aa3a3c",
+      "title_en": "Father Seeks First Flight Certificate For Daughter, IndiGo Suggests Printing One; Internet Jokes: ‘Flight K",
+      "summary_en": "The father requested a First Flight Certificate from the airline to make his daughter’s flight special, but they said they have no such policy and suggested he print one",
+      "title_zh": "父亲为女儿寻求第一张飞行证书，靛蓝航空建议打印一份；网络笑话：“K 航班”",
+      "summary_zh": "这位父亲向航空公司申请了首次飞行证明，以使他女儿的航班变得特别，但他们说他们没有这样的政策，并建议他打印一份",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/father-seeks-first-flight-certificate-for-daughter-indigo-suggests-printing-one-internet-jokes-flight-khud-uda-le-ws-l-10434411.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "d26da63d0ec20dfc",
+      "title_en": "‘What Is The Girl Equivalent For GTA 6?’: Man Wants To Find A Special Gift For Girlfriend, Reddit Reacts",
+      "summary_en": "A man is looking for a special gift for his girlfriend after she surprised him with GTA VI for his PS5, leaving him wondering how to return the thoughtful gesture.",
+      "title_zh": "“《侠盗猎车手 6》中的女孩相当于什么？”：Reddit 回应，男人想为女朋友找一份特别的礼物",
+      "summary_zh": "一名男子在女友的 PS5 上玩《GTA VI》给他带来了惊喜后，正在为他的女友寻找一份特别的礼物，但他不知道如何回馈这份贴心的礼物。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/what-is-the-girl-equivalent-for-gta-6-man-wants-to-find-a-special-gift-for-girlfriend-reddit-reacts-ws-l-10434385.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "dc89ad653f75b7cb",
+      "title_en": "Woman Shares Observations After Watching Men Play GTA, Says Gaming Offers A Glimpse Into Male Friendships",
+      "summary_en": "An X user sparked online debate after sharing observations on men playing Grand Theft Auto, highlighting gaming as escapism, male bonding, and touching on upcoming GTA 6 dynamics.",
+      "title_zh": "女性在观看男性玩《侠盗猎车手》后分享自己的观察，称游戏让我们得以一窥男性友谊",
+      "summary_zh": "一名 X 用户分享了对男性玩《侠盗猎车手》的观察，强调游戏是逃避现实、增强男性联系，并谈到了即将推出的《侠盗猎车手 6》的动态，从而引发了网上争论。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-shares-observations-after-watching-men-play-gta-says-gaming-offers-a-glimpse-into-male-friendships-ws-el-10434261.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "f3db6c462e06e593",
+      "title_en": "Delivery Partner Says Customer Promised Money After Delivery But Kept Delaying Rs 337 Payment: ‘We’re Worki",
+      "summary_en": "The delivery executive shared that a shopkeeper asked him to collect a parcel and deliver it to Sector 133 in Noida and even asked him not to take any payment from the recipient",
+      "title_zh": "送货合作伙伴称，客户承诺送货后付款，但一直拖延 337 卢比付款：“我们正在工作”",
+      "summary_zh": "该送货主管透露，一名店主要求他领取包裹并将其运送到诺伊达的133区，甚至要求他不要向收件人收取任何费用",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/delivery-partner-says-customer-promised-money-after-delivery-but-kept-delaying-rs-337-payment-were-working-hard-ws-l-10433583.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "fb35ab662edd499d",
+      "title_en": "‘Imagine Working All Day For That’: Woman Raises Concerns Over Delivery Agent's ₹34 Payout",
+      "summary_en": "An X user sparked a debate on food delivery earnings after a delivery agent received Rs 34 for a 3 km trip. The post raised concerns over fuel costs and fair pay.",
+      "title_zh": "“想象一下为此工作一整天”：一位女士对送货代理 34 卢比的报酬表示担忧",
+      "summary_zh": "一名 X 用户在一名外卖代理人 3 公里行程中收到 34 卢比的费用后，引发了关于外卖收入的争论。该帖子引发了人们对燃油成本和公平薪酬的担忧。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/imagine-working-all-day-for-that-woman-raises-concerns-over-delivery-agents-34-payout-ws-l-10433751.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "fd288b11c805939b",
+      "title_en": "Woman Tries To Enter Motorman’s Cabin On Mumbai Local Train, RPF’s CCTV Check Reveals This",
+      "summary_en": "A video showing a woman trying to enter the motorman’s cabin of a Mumbai local train has drawn attention, prompting the RPF to investigate after receiving a complaint.",
+      "title_zh": "一名女子试图进入孟买当地火车司机的车厢，RPF 的闭路电视检查揭露了这一点",
+      "summary_zh": "一段显示一名女子试图进入孟买当地火车司机室的视频引起了人们的关注，促使RPF在收到投诉后展开调查。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-tries-to-enter-motormans-cabin-on-mumbai-local-train-rpfs-cctv-check-reveals-this-ws-l-10433755.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "04f82bb422a4a487",
+      "title_en": "'Solution Within Legal Procedures': BJP's Soundararajan Welcomes SC's One-Time Karthigai Deepam Lamp Ruling",
+      "summary_en": "The Supreme Court permitted the lighting on Thiruparankundram Hill as a one-time arrangement for this year&#39;s festival. In November 2025, authorities refused permission for the ritual at the hilltop location, citing its proximity to the dargah and possible law-and-order concerns.",
+      "title_zh": "“法律程序内的解决方案”：人民党的 Soundararajan 欢迎 SC 的一次性 Karthigai Deepam Lamp 裁决",
+      "summary_zh": "最高法院允许在 Thiruparankundram 山上点亮灯光，作为今年节日的一次性安排。 2025 年 11 月，当局拒绝批准在山顶地点举行仪式，理由是该地点靠近神殿，并且可能存在治安问题。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/india/solution-within-legal-procedures-bjp-s-soundararajan-welcomes-sc-s-one-time-karthigai-deepam-lamp-ruling-2026-11-20-141467",
+      "source": "Republic World Viral"
+    },
+    {
       "id": "1de85a41f08bc02d",
       "title_en": "India, Japan Deepen Strategic Ties: Bolster Supply Chains, Defence Manufacturing, Condemn Terrorism",
       "summary_en": "The decisions emerged from the fourth India-Japan 2+2 Foreign and Defence Ministerial Meeting in Tokyo, attended by Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar, along with Japan’s Foreign Minister Toshimitsu Motegi and Defence Minister Shinjiro Koizumi.",
@@ -60,6 +610,106 @@
       "translation_status": "fallback",
       "url": "https://www.republicworld.com/world-news/india-japan-deepen-strategic-ties-bolster-supply-chains-defence-manufacturing-condemn-terrorism-2026-11-19-141411",
       "source": "Republic World Viral"
+    },
+    {
+      "id": "3fba103f1bf00728",
+      "title_en": "UP CM Yogi Adityanath's Mother Savitri Devi Dies At 91 After Prolonged Illness",
+      "summary_en": "Uttar Pradesh Chief Minister Yogi Adityanath&#39;s mother, Savitri Devi, passed away at 91 at her ancestral home in Panchur village, Uttarakhand&#39;s Pauri Garhwal district, after a prolonged illness. Uttarakhand CM Pushkar Singh Dhami expressed condolences to the bereaved family.",
+      "title_zh": "UP CM Yogi Adityanath 的母亲 Savitri Devi 因长期患病去世，享年 91 岁",
+      "summary_zh": "北方邦首席部长约吉·阿迪蒂亚纳特 (Yogi Adityanath) 的母亲萨维特里·黛维 (Savitri Devi) 因长期患病，在位于北阿坎德邦 Pauri Garhwal 区 Panchur 村的祖籍中去世，享年 91 岁。北阿坎德邦首席部长普什卡·辛格·达米向死者家属表示哀悼。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/india/up-cm-yogi-adityanath-s-mother-savitri-devi-dies-at-91-after-prolonged-illness-2026-11-20-141459",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "7df6192d66acd35b",
+      "title_en": "ED Raids Ex-MLA in Telangana in Case of Misappropriation of Govt Paddy Stock Worth Rs 40.96 Crore",
+      "summary_en": "The Enforcement Directorate (ED) on Friday carried out searches at two premises in Telangana, including the residence of ex-MLA Ajmera Rekha, in connection with a case of misappropriation of government paddy stock amounting to Rs 40.96 crore, officials said.",
+      "title_zh": "教育部突击搜查特伦甘纳邦前省议员挪用价值 409.6 亿卢比的政府稻谷库存",
+      "summary_zh": "官员称，执法局 (ED) 周五对特伦甘纳邦的两处场所进行了搜查，其中包括前省议员阿吉梅拉·雷卡 (Ajmera Rekha) 的住所，这起案件与挪用政府稻米案有关，价值 4.096 亿卢比。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/india/ed-raids-ex-mla-in-telangana-in-case-of-misappropriation-of-govt-paddy-stock-worth-rs-4096-crore-2026-11-20-141465",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "a0cefc9f06e54b38",
+      "title_en": "Air India Suspends Jeddah Flights Until November 24; Riyadh and Dammam Services Remain Halted Till November 30",
+      "summary_en": "Passengers holding confirmed bookings for travel to or from Jeddah up to Nov 24, made on or before November 20, 2026, can avail complimentary rescheduling (subject to availability) or opt for a full refund. The same provision applies to guests with confirmed bookings for Riyadh & Dammam up to Nov 30",
+      "title_zh": "印度航空暂停吉达航班至 11 月 24 日；利雅得和达曼的航班服务将暂停至 11 月 30 日",
+      "summary_zh": "持有 2026 年 11 月 20 日或之前预订的 11 月 24 日之前往返吉达旅行的已确认预订的乘客，可以享受免费改期（视供应情况而定）或选择全额退款。同样的规定适用于 11 月 30 日之前确认利雅得和达曼预订的客人",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/world-news/air-india-suspends-jeddah-flights-until-november-24-riyadh-and-dammam-services-remain-halted-till-november-30-2026-11-20-141473",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "f23e8e64d33d4b2d",
+      "title_en": "PM Modi Inaugurates First SCO Civilisational Dialogue Forum at Purana Qila",
+      "summary_en": "India is hosting the three-day multilateral event from November 20 to 22, with the forum aimed at promoting cross-cultural engagement, mutual understanding and people-to-people ties across the SCO region.",
+      "title_zh": "莫迪总理在 Purana Qila 为首届上合组织文明对话论坛揭幕",
+      "summary_zh": "印度将于11月20日至22日主办为期三天的多边活动，论坛旨在促进上合组织地区的跨文化接触、相互理解和民间联系。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/india/pm-modi-inaugurates-first-sco-civilisational-dialogue-forum-at-purana-qila-2026-11-20-141477",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "f251f4b93b78480c",
+      "title_en": "Delhi Secretariat Hosts Special Screening of Short Film ‘Kothala’ on Female Infanticide and Gender Discrimination",
+      "summary_en": "Organised by Railway Children India in coordination with the Department of Women and Child Development, Government of NCT of Delhi, the programme brought together senior officials, women’s rights representatives and social sector professionals.",
+      "title_zh": "德里秘书处举办关于杀女婴和性别歧视的短片“Kothala”特别放映",
+      "summary_zh": "该计划由印度铁路儿童组织与德里国家首都区政府妇女和儿童发展部协调组织，汇聚了高级官员、妇女权利代表和社会部门专业人士。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/india/delhi-secretariat-hosts-special-screening-of-short-film-kothala-on-female-infanticide-gender-discrimination-2026-11-20-141475",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "11b4d1db13518199",
+      "title_en": "Tamil Nadu State Trials PWR400: Age-Group Battles Take Centre Stage As Road to IPA Nationals Continues",
+      "summary_en": "The Tamil Nadu State Trials PWR400 will take place on November 21-22, featuring pickleball competitions in men's and women's singles, doubles, and mixed doubles across multiple age groups. , Pickleball, Times Now",
+      "title_zh": "泰米尔纳德邦试验 PWR400：随着 IPA 国民之路的继续，年龄组之争成为焦点",
+      "summary_zh": "泰米尔纳德邦 PWR400 州选拔赛将于 11 月 21 日至 22 日举行，其中包括跨多个年龄段的男女单打、双打和混合双打比赛。 ，匹克球，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/pickleball/tamil-nadu-state-trials-pwr400-age-group-battles-take-centre-stage-as-road-to-ipa-nationals-continues-article-156542817",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "20f69cdaf481f5cc",
+      "title_en": "‘Realised How Convenient Life in India Can Be’: Japanese Woman Misses India's Healthcare System",
+      "summary_en": "Recalling how easy and convenient life in India was, a Japanese woman who recently returned to Japan after living in India described the country as “more convenient”. Taking to social media, the woman shared a video in which she revealed that falling sick had reminded her of how things worked in India, particularly when it came to the country's healthcare system. The woman said that she had fallen ill and was left with no option but to visit a doctor on her own in Japan. However, in India, she could simply use an…",
+      "title_zh": "“意识到印度的生活有多方便”：日本女性怀念印度的医疗保健系统",
+      "summary_zh": "一位刚从印度生活回来的日本女性回忆起印度的生活是多么的轻松和便利，她形容这个国家“更方便”。这位女士在社交媒体上分享了一段视频，她在视频中透露，生病让她想起了印度的情况，特别是该国的医疗保健系统。该女子表示，她生病了，别无选择，只能独自前往日本看医生。豪",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/japanese-woman-misses-indian-health-care-system-viral-video-video-156542669",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "33c7dac00d40e37b",
+      "title_en": "'Let's Work Together To Make Delhi’s Air Better': CM Rekha Gupta's Earnest Appeal To Citizens",
+      "summary_en": "Rekha Gupta on Delhi AQI: Promising signs are emerging in our fight against Delhi air pollution in National Capital…together we will ensure that every child in Delhi breathes clean air round the year shortly : Delhi CM writes., Opinion - India, Times Now",
+      "title_zh": "“让我们共同努力，让德里的空气变得更好”：CM Rekha Gupta 对公民的真诚呼吁",
+      "summary_zh": "Rekha Gupta 谈德里 AQI：在我们对抗国家首都德里空气污染的斗争中正在出现有希望的迹象……我们将共同确保德里的每个孩子很快就能全年呼吸清洁的空气：德里 CM 写道。, 观点 - 印度, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/opinion/india/lets-work-together-to-make-delhis-air-better-cm-rekha-gupta-writes-exclusively-for-times-now-digital-article-156540213",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "35b653dbe34ae873",
+      "title_en": "Daytona Beach Open: Rafael Lenhard Stuns Christian Alshon to Reach Quarterfinals",
+      "summary_en": "Rafael Lenhard recovered from an 0-11 opening-game defeat to stun Christian Alshon, while Federico Staksrud, Hunter Johnson and JW Johnson also advanced to the men's singles quarterfinals., Pickleball, Times Now",
+      "title_zh": "代托纳比奇公开赛：拉斐尔·伦哈德击败克里斯蒂安·阿尔尚进入四分之一决赛",
+      "summary_zh": "拉斐尔·伦哈德 (Rafael Lenhard) 从首场比赛 0-11 的失利中恢复过来，击败克里斯蒂安·阿尔尚 (Christian Alshon)，而费德里科·斯塔克斯鲁德 (Federico Staksrud)、亨特·约翰逊 (Hunter Johnson) 和 JW·约翰逊 (JW Johnson) 也晋级男单四分之一决赛。, Pickleball, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/pickleball/daytona-beach-open-rafael-lenhard-stuns-christian-alshon-to-reach-quarterfinals-article-156541442",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "36b8e7c4cf8d859c",
+      "title_en": "How Allu Arjun’s Father Reacted To Ticketing Issues At Allu Cinemas During Aakasamlo Oka Tara Screening?",
+      "summary_en": "Allu Arjun's father Allu Aravind received complaints from the audience standing outside Allu Cinemas regarding ticketing issues. A video is going viral on social media, in which the producer is seen taking immediate action on it., South, Times Now",
+      "title_zh": "阿鲁·阿琼 (Allu Arjun) 的父亲在 Aakasamlo Oka Tara 放映期间对阿鲁电影院的票务问题有何反应？",
+      "summary_zh": "阿鲁·阿琼 (Allu Arjun) 的父亲阿鲁·阿拉文德 (Allu Aravind) 收到阿鲁电影院外观众关于票务问题的投诉。一段视频在社交媒体上疯传，视频中可以看到制片人立即采取了行动。, South, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/south/how-allu-arjun-father-reacted-to-ticketing-issues-at-allu-cinemas-during-aakasamlo-oka-tara-screening-article-156542328",
+      "source": "Times Now Viral"
     },
     {
       "id": "3b1d0878966d7e43",
@@ -82,6 +732,96 @@
       "source": "Times Now Viral"
     },
     {
+      "id": "3e90ee1e133e5faf",
+      "title_en": "Bombay Runs In Prince William's Genes, Literally",
+      "summary_en": "Centuries before Mumbai welcomed the Prince and Princess of Wales, the city, then called Bombay, was home to Eliza Kewark, William's great-great-great-great-great-grandmother, and a DNA trail still leads back to her., People, Times Now",
+      "title_zh": "孟买确实融入了威廉王子的基因",
+      "summary_zh": "在孟买迎来威尔士王子和王妃的几个世纪前，这座当时称为孟买的城市是威廉的曾曾曾曾曾曾祖母伊丽莎·科瓦克 (Eliza Kewark) 的故乡，DNA 线索仍然可以追溯到她。, 人物, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/lifestyle/people/bombay-runs-in-prince-williams-genes-literally-article-156541963",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "3f9a04bab4e06c30",
+      "title_en": "I Regard Ranbir Kapoor As Elder Brother: Ramayana Actor Ravie Dubey | EXCLUSIVE",
+      "summary_en": "Speaking exclusively to Zoom, Ravie Dubey opened up about his experience working with Ramayana co-star Ranbir Kapoor. The actor revealed he considers him his 'elder brother'., Bollywood, Times Now",
+      "title_zh": "我视兰比尔·卡普尔为兄长：《罗摩衍那》演员 Ravie Dubey |独家",
+      "summary_zh": "Ravie Dubey 在接受 Zoom 独家采访时讲述了他与罗摩衍那联合主演兰比尔·卡普尔 (Ranbir Kapoor) 合作的经历。这位演员透露他认为他是他的“哥哥”。，宝莱坞，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/i-regard-ranbir-kapoor-as-elder-brother-ramayana-actor-ravie-dubey-exclusive-article-156541496",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "40dd8845f2bc2f7f",
+      "title_en": "Lakshya Sen, Satwik-Chirag March into Hong Kong Open Semifinals",
+      "summary_en": "Lakshya Sen and Satwiksairaj Rankireddy-Chirag Shetty booked their semifinal spots with hard-fought victories in the quarterfinals at the Hong Kong Open. However, it was end of the road for Rakshitha Ramraj., Badminton, Times Now",
+      "title_zh": "拉克什亚·森 (Lakshya Sen)、萨特维克-奇拉格 (Satwik-Chirag) 挺进香港公开赛半决赛",
+      "summary_zh": "拉克什亚·森 (Lakshya Sen) 和萨特维克塞拉杰·兰基雷迪·奇拉格·谢蒂 (Satwiksairaj Rankireddy-Chirag Shetty) 在香港公开赛四分之一决赛中经过一番苦战，锁定了半决赛席位。然而，对于 Rakshitha Ramraj 来说，这已经是路的尽头了。, 羽毛球, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/badminton/lakshya-sen-satwik-chirag-march-into-hong-kong-open-semifinals-article-156541148",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "4208bd41439d8b86",
+      "title_en": "Air India, AI Express Extend Suspension of Jeddah Flights Till Nov 24 Amid Escalating Middle East Tensions",
+      "summary_en": "English News: Read here all the latest news from India and around the world on Times Now Website.",
+      "title_zh": "由于中东紧张局势升级，印度航空和 AI Express 将吉达航班暂停时间延长至 11 月 24 日",
+      "summary_zh": "英文新闻：在 Times Now 网站上阅读来自印度和世界各地的所有最新新闻。",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/companies/air-india-ai-express-extend-suspension-of-jeddah-flights-till-nov-24-amid-escalating-middle-east-tensions-article-156542758",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "42dc42212e6aaeda",
+      "title_en": "Kangana Ranaut, Arun Govil, Manoj Muntashir Mourn Demise Of UP CM Yogi Adityanath's Mother",
+      "summary_en": "Kangana Ranaut, Arun Govil, and Manoj Muntashir expressed grief following the demise of Uttar Pradesh Chief Minister Yogi Adityanath's mother, Savitri Devi, at the age of 91. The celebrities offered condolences to the Chief Minister., Bollywood, Times Now",
+      "title_zh": "Kangana Ranaut、Arun Govil、Manoj Muntashir 哀悼 UP CM Yogi Adityanath 母亲的去世",
+      "summary_zh": "Kangana Ranaut、Arun Govil 和 Manoj Muntashir 对北方邦首席部长 Yogi Adityanath 91 岁的母亲 Savitri Devi 去世表示悲痛。名人向首席部长表示哀悼。宝莱坞、Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/kangana-ranaut-arun-govil-manoj-muntashir-mourn-demise-of-up-cm-yogi-adityanath-mother-article-156542453",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "46b580c9de5f3407",
+      "title_en": "A Judge, His Son And A Recall Plea: Bid To Undo SC Order Hits A Wall",
+      "summary_en": "The Supreme Court declined urgent listing of a plea seeking recall of an earlier order in the EC appointment case., India News, Times Now",
+      "title_zh": "法官、他的儿子和召回请求：撤销 SC 命令的提议陷入困境",
+      "summary_zh": "最高法院拒绝紧急列出寻求撤销 EC 任命案中先前命令的请求。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/sc-prashant-bhushan-plea-justice-sharma-conflict-of-interest-election-commissioners-case-article-156540525",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "4b82c8dca20b1d52",
+      "title_en": "Friendsgiving 2026: First Bite to Last Toast, Putting Together a Feast Your Friends Will Remember",
+      "summary_en": "Friendsgiving is less about throwing a regular run of the mill dinner get-together for friends and more about showering them with gratitude for their unwavering support through all seasons of your life. , Food, Times Now",
+      "title_zh": "2026 年友谊节：从第一口到最后祝酒，为您的朋友打造一场难忘的盛宴",
+      "summary_zh": "交友活动不只是为朋友举办一次普通的晚餐聚会，更多的是向他们表达感激之情，感谢他们在你生命中的各个季节坚定不移的支持。 , 食物, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/lifestyle/food/friendsgiving-2026-first-bite-to-last-toast-putting-together-a-feast-your-friends-will-remember-article-156541605",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "50b5d9342fc0d9b0",
+      "title_en": "Internet Declares GTA 6’s Jason A ‘Villain’ Over His Treatment Of A Cat! Drama Explained",
+      "summary_en": "Here’s why the internet has declared GTA-6’s one of the protagonists- Jason Duval- a “villain”..., Viral, Times Now",
+      "title_zh": "互联网宣称 GTA 6 的杰森因对待猫而成为“恶棍”！戏剧解释",
+      "summary_zh": "这就是为什么互联网宣称 GTA-6 的主角之一 - 杰森·杜瓦尔 - 是一个“恶棍”......，病毒式传播，Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/gta-6-jason-duval-declared-a-villain-over-his-treatment-of-a-cat-drama-explained-viral-video-article-156540412",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "57786006966f8272",
+      "title_en": "Rajasthan HC denies Relief To IAS Officer Shikhar Agarwal In ACB Probe Over 40 Villas And Cottages",
+      "summary_en": "The Rajasthan High Court deferred interim relief to IAS officer Shikhar Agarwal in an ACB probe into his family's purchase of 40 villas and cottages., India News, Times Now",
+      "title_zh": "拉贾斯坦邦 HC 否认在 ACB 调查 40 多座别墅和小屋中向 IAS 官员 Shikhar Agarwal 提供救济",
+      "summary_zh": "拉贾斯坦邦高等法院推迟向 IAS 官员 Shikhar Agarwal 提供临时救济，以应对 ACB 对其家族购买 40 栋别墅和小屋的调查。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/rajasthan-hc-denies-relief-to-ias-officer-shikhar-agarwal-in-acb-probe-over-40-villas-and-cottages-article-156540788",
+      "source": "Times Now Viral"
+    },
+    {
       "id": "5c83e71dc778fbec",
       "title_en": "Cyclone Akvan Alert: Odisha Evacuates Nearly 3 Lakh, Trains Cancelled As Storm To Make Landfall Today",
       "summary_en": "Cyclone Akvan approaches the Andhra-Odisha coast, prompting Odisha to evacuate nearly three lakh people, deploy rescue teams and cancel at least 28 trains., India News, Times Now",
@@ -89,6 +829,16 @@
       "summary_zh": "气旋“阿克万”逼近安得拉-奥里萨邦海岸，促使奥里萨邦疏散近三十万人，部署救援队并取消至少 28 趟火车。, 印度新闻, Times Now",
       "translation_status": "fallback",
       "url": "https://www.timesnownews.com/india/cyclone-akvan-alert-odisha-evacuates-nearly-3-lakh-trains-cancelled-as-storm-to-make-landfall-today-article-156539602",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "5ca682aacd01cb93",
+      "title_en": "J&K LG Manoj Sinha Orders Crackdown On Terror, Separatist Ecosystem",
+      "summary_en": "J&K LG Manoj Sinha has called for dismantling the terrorist and separatist ecosystem, ordering intensified winter surveillance and seizure of properties linked to anti-national elements., India News, Times Now",
+      "title_zh": "J&K LG Manoj Sinha 下令打击恐怖主义和分离主义生态系统",
+      "summary_zh": "J&K LG Manoj Sinha 呼吁瓦解恐怖分子和分裂主义生态系统，下令加强冬季监视并没收与反国家分子有关的财产。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/lieutenant-governor-manoj-sinha-jammu-kashmir-security-review-terrorist-separatist-ecosystem-article-156542893",
       "source": "Times Now Viral"
     },
     {
@@ -102,6 +852,46 @@
       "source": "Times Now Viral"
     },
     {
+      "id": "6cb1b8726bdd20dd",
+      "title_en": "Tata Group Crisis: Tata Trusts, Tata Sons To Hold Crucial Meetings Amid Governance Rift",
+      "summary_en": "Tata Group Governance Row: Spotlight On Jehangir As Rs 50-Crore Hospital Grant Takes Centre Stage Ahead Of Crucial Meetings, Companies, Times Now",
+      "title_zh": "塔塔集团危机：塔塔信托、塔塔之子将在治理分歧中召开重要会议",
+      "summary_zh": "塔塔集团治理之行：聚焦贾汉吉尔，5亿卢比医院拨款在重要会议、公司和时代之前成为焦点",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/companies/tata-group-crisis-tata-trusts-tata-sons-to-hold-crucial-meetings-amid-governance-rift-article-156540976",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "6e33e2eae60e3887",
+      "title_en": "'Not Accusations Against Industry Leaders But Own Confession': Rahul Gandhi on PM Modi's FICCI Address",
+      "summary_en": "Rahul Gandhi accused PM Modi of enabling monopolies and undermining competition, calling the Prime Minister's remarks on jobs and wages his own confession., India News, Times Now",
+      "title_zh": "“不是对行业领袖的指控，而是自己的坦白”：拉胡尔·甘地谈莫迪总理的 FICCI 讲话",
+      "summary_zh": "拉胡尔·甘地指责莫迪总理助长垄断并破坏竞争，称总理关于就业和工资的言论是他自己的坦白。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/rahul-gandhi-on-pm-modi-ficci-address-not-accusations-against-industry-leaders-but-own-confession-article-156542630",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "71dbbdfb69bcb47b",
+      "title_en": "Sharad Kapoor’s Brother Refused To Help Him; Actor Hadn’t Bathed For Two Years, Reveals Friend Hema",
+      "summary_en": "Sharad Kapoor's friend Hema Chaudhary talked about the Josh actor's health condition in the past two years. She alleged that nobody from his family came to help him. Read full story to know more., Bollywood, Times Now",
+      "title_zh": "莎拉德·卡普尔的兄弟拒绝帮助他；演员朋友赫马透露，演员已经两年没洗澡了",
+      "summary_zh": "莎拉德·卡普尔的朋友赫玛·乔杜里谈到了这位乔什演员过去两年的健康状况。她声称他的家人没有人来帮助他。阅读全文以了解更多信息。，宝莱坞，Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/sharad-kapoor-brother-refused-to-help-him-actor-hadnt-bathed-for-two-years-reveals-friend-hema-article-156542006",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "72ef38bf2d454b31",
+      "title_en": "Goa State Trials PWR400, U14 Boys’ Singles: Shaun Barman Clinches Title With Commanding Win Over Chirayu Gaune",
+      "summary_en": "Shaun Barman showcased his talent by winning the Under-14 Boys' Singles title at the Goa State Trials PWR400, defeating Chirayu Naik Gaunekar 15-6. , Pickleball, Times Now",
+      "title_zh": "果阿州选拔 PWR400、U14 男子单打：肖恩·巴曼 (Shaun Barman) 战胜奇拉尤·高恩 (Chirayu Gaune) 夺得冠军",
+      "summary_zh": "肖恩·巴曼 (Shaun Barman) 在果阿州预选赛 PWR400 中以 15-6 击败奇拉尤·奈克·高内卡 (Chirayu Naik Gaunekar) 赢得 14 岁以下男子单打冠军，展示了自己的才华。 ，匹克球，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/pickleball/goa-state-trials-pwr400-u14-boys-singles-shaun-barman-clinches-title-with-commanding-win-over-chirayu-gaunekar-article-156542666",
+      "source": "Times Now Viral"
+    },
+    {
       "id": "730a6dbbd790ddf1",
       "title_en": "The Altruists Review: Julia Garner, Anthony Boyle Lead Stretched Crypto Scam Drama On Sam Bankman-Fried",
       "summary_en": "Created by Graham Moore, the Netflix series examines the rise and fall of FTX founder Sam Bankman-Fried through his tumultuous relationship with his onetime partner Caroline Ellison. All eight episodes of the limited drama series are now streaming on Netflix., Reviews, Times Now",
@@ -109,6 +899,16 @@
       "summary_zh": "这部 Netflix 剧集由格雷厄姆·摩尔 (Graham Moore) 创作，通过 FTX 创始人萨姆·班克曼·弗里德 (Sam Bankman-Fried) 与前伴侣卡罗琳·埃里森 (Caroline Ellison) 的混乱关系，探讨了他的兴衰历程。这部限定剧的全部八集现已在 Netflix 上播出。, 评论, Times Now",
       "translation_status": "fallback",
       "url": "https://www.timesnownews.com/entertainment-news/reviews/the-altruists-review-julia-garner-anthony-boyle-lead-stretched-crypto-scam-netflix-drama-on-sam-bankman-fried-review-156538729",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "7773caa15df76a86",
+      "title_en": "Goa State Trials PWR400, U18 Boys' Singles: Aryaveer Agrawal Edges Shaun Barman 15-12 to Clinch Title",
+      "summary_en": "Aryaveer Agrawal won the Under-18 Boys' Singles final at the Goa State Trials PWR400, narrowly defeating Shaun Barman 15-12 and showcasing junior pickleball's competitive spirit. , Pickleball, Times Now",
+      "title_zh": "果阿州选拔赛 PWR400、U18 男子单打：阿里亚维尔·阿格拉瓦尔 (Aryaveer Agrawal) 以 15-12 击败肖恩·巴曼 (Shaun Barman) 夺得冠军",
+      "summary_zh": "Aryaveer Agrawal 在果阿州预选赛 PWR400 中赢得 18 岁以下男子单打决赛，以 15-12 险胜肖恩·巴曼 (Shaun Barman)，展示了青少年匹克球的竞争精神。 ，匹克球，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/pickleball/goa-state-trials-pwr400-u18-boys-singles-aryaveer-agrawal-edges-shaun-barman-15-12-to-clinch-title-article-156542722",
       "source": "Times Now Viral"
     },
     {
@@ -122,6 +922,26 @@
       "source": "Times Now Viral"
     },
     {
+      "id": "7e7e7b5eecdfbfd1",
+      "title_en": "'Will Have To Nip It In The Bud': Bombay HC Raises Alarm Over Diwali Fire Incidents, Considers Complete Firecr",
+      "summary_en": "The Bombay High Court is contemplating a ban on firecrackers due to rising noise and air pollution, alongside increasing fire incidents during Diwali in Mumbai. , India News, Times Now",
+      "title_zh": "“必须将其消灭在萌芽状态”：孟买HC对排灯节火灾事件发出警报，考虑全面消防",
+      "summary_zh": "由于噪音和空气污染加剧，以及孟买排灯节期间火灾事件不断增加，孟买高等法院正在考虑禁止燃放鞭炮。 ，印度新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/will-have-to-nip-it-in-the-bud-bombay-hc-raises-alarm-over-diwali-fire-incidents-considers-complete-firecracker-ban-article-156540695",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "80bf157e4c876bce",
+      "title_en": "Eugenie Bouchard Loses to Teenager at Daytona Beach Open, PPA Tour Future Under the Scanner",
+      "summary_en": "Once a Wimbledon finalist, Eugenie Bouchard is struggling to make her mark in pickleball, losing to two teenagers in successive PPA Tour appearances., Pickleball, Times Now",
+      "title_zh": "尤金妮·布沙尔 (Eugenie Bouchard) 在代托纳比奇公开赛上输给青少年，PPA 巡回赛的未来在扫描仪下",
+      "summary_zh": "尤金妮·布沙尔（Eugenie Bouchard）曾经是温网决赛选手，但她正在努力在匹克球运动中留下自己的印记，在连续参加 PPA 巡回赛的比赛中输给了两名青少年。, Pickleball, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/pickleball/eugenie-bouchard-loses-to-teenager-at-daytona-beach-open-ppa-tour-future-under-the-scanner-article-156541922",
+      "source": "Times Now Viral"
+    },
+    {
       "id": "8285879e78e2731e",
       "title_en": "Rahul Gandhi Shares ‘G3’ Picture, Says ‘Compromised PM Can Never Sit At This Table’",
       "summary_en": "English News: Read here all the latest news from India and around the world on Times Now Website.",
@@ -129,6 +949,16 @@
       "summary_zh": "英文新闻：在 Times Now 网站上阅读来自印度和世界各地的所有最新新闻。",
       "translation_status": "fallback",
       "url": "https://www.timesnownews.com/india/if-congress-were-in-power-rahul-gandhis-fresh-jibe-at-pm-modi-over-iran-war-article-156539948",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "84e77bcf7ccbd6ca",
+      "title_en": "Cyclone Akvan Disrupts Flights: Can Passengers Claim Compensation For Delays And Cancellations?",
+      "summary_en": "As Cyclone Akvan disrupts flights across eastern India, here's what stranded passengers need to know about cancellations, refunds, delays and their right to compensation., Travel, Times Now",
+      "title_zh": "气旋“阿克万”扰乱航班：乘客能否就延误和取消要求赔偿？",
+      "summary_zh": "由于气旋“阿克万”扰乱了印度东部的航班，滞留乘客需要了解以下有关取消、退款、延误及其获得赔偿的权利的信息。, Travel, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/travel/cyclone-akvan-disrupts-flights-can-passengers-claim-compensation-for-delays-and-cancellations-article-156542519",
       "source": "Times Now Viral"
     },
     {
@@ -142,6 +972,116 @@
       "source": "Times Now Viral"
     },
     {
+      "id": "8b669f35d5897656",
+      "title_en": "GTA 6’s First-Person Gameplay Glitch Breaks Internet! WATCH",
+      "summary_en": "Rockstar Games’ much-awaited game, Grand Theft Auto VI, was launched on Thursday, November 19– 13 years after the release of its previous installment., Viral, Times Now",
+      "title_zh": "GTA 6 的第一人称游戏故障导致互联网崩溃！手表",
+      "summary_zh": "Rockstar Games 备受期待的游戏《侠盗猎车手 VI》于 11 月 19 日星期四推出，距离上一款游戏发行已过去 13 年。, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/gta-6-first-person-gameplay-glitch-breaks-the-internet-rockstar-games-grand-theft-auto-vi-watch-viral-video-article-156541396",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "919be8e278a6a624",
+      "title_en": "Viswanathan Anand's Advice To D Gukesh Ahead Of World Championship Defence: 'Just Enjoy'",
+      "summary_en": "Viswanathan Anand has encouraged D Gukesh, the reigning world chess champion, to embrace the game and reduce his worries as he prepares for his title defense against Uzbek player Javokhir Sindarov., Chess, Times Now",
+      "title_zh": "维斯瓦纳坦·阿南德在世锦赛卫冕前给古克什的建议：“尽情享受吧”",
+      "summary_zh": "维斯瓦纳坦·阿南德 (Viswanathan Anand) 鼓励卫冕世界国际象棋冠军 D·古克什 (D Gukesh) 拥抱这项运动，减少他的担忧，因为他正在为与乌兹别克斯坦选手贾沃基尔·辛达洛夫 (Javokhir Sindarov) 的卫冕做准备。, 国际象棋, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/chess/viswanathan-anands-advice-to-d-gukesh-ahead-of-world-championship-defence-just-enjoy-article-156542693",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "9306b85b4e978b42",
+      "title_en": "Caste Census Row: YS Jagan Gets Invite For November 28 Delhi Protest",
+      "summary_en": "YSRCP chief YS Jagan Mohan Reddy has responded positively to an invitation to join the November 28 Delhi protest demanding comprehensive caste-wise enumeration in the 2027 Census., India News, Times Now",
+      "title_zh": "种姓普查行：YS Jagan 受邀参加 11 月 28 日德里抗议活动",
+      "summary_zh": "YSRCP 主席 YS Jagan Mohan Reddy 积极响应了参加 11 月 28 日德里抗议活动的邀请，要求在 2027 年人口普查中进行全面的种姓普查。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/ys-jagan-mohan-reddy-caste-census-protest-delhi-november-28-article-156539463",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "98ddb978a9263d98",
+      "title_en": "Siraj Row: Congress Mocks 'India First' As Rahul's Neta Bowls No Ball | Communal Spin To Get Votes?",
+      "summary_en": "Soon after bowler Mohammed Siraj was left out from team India against New Zealand, Congress MP Imran Masood claimed that the player's religion was the reason for his exclusion. BJP leaders launched a scathing attack on Congress, Imran Masood & Rahul Gandhi. The question here arises is - Communal Spin To Get Votes? Watch panel discussion on Times Now's show, India Upfront with Pranesh Roy., India Upfront, Times Now",
+      "title_zh": "西拉杰·罗：国会嘲笑“印度优先”，因为拉胡尔的内塔投球无球公共旋转以获得选票？",
+      "summary_zh": "在投球手穆罕默德·西拉吉（Mohammed Siraj）被印度队对阵新西兰队的比赛中排除后不久，国会议员伊姆兰·马苏德（Imran Masood）声称该球员的宗教信仰是他被排除的原因。印度人民党领导人对国会、伊姆兰·马苏德和拉胡尔·甘地发起严厉攻击。这里出现的问题是 - 公共旋转以获得选票？观看 Times Now 节目《India Upfront》与 Pranesh Roy 的小组讨论。《India Upfront》、Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/india-upfront/congress-mp-claims-mohammad-siraj-excluded-cricket-team-due-religion-video-156543335",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "9bc6ba12746dd0c8",
+      "title_en": "Left Out of Mixed Team World Cup, TTFI's Double Standards Leave Harmeet Desai Fuming",
+      "summary_en": "Left out despite his higher domestic ranking and a historic Asian Championships medal, Harmeet Desai has questioned TTFI's selection policy in an interview with Sports Now, revealing how the snub has cost him opportunities to compete., Sports, Times Now",
+      "title_zh": "TTFI的双重标准让哈米特·德赛·富明无缘混合团体世界杯",
+      "summary_zh": "尽管哈米特·德赛在国内排名较高，并获得了历史性的亚锦赛奖牌，但他仍被排除在外，但他在接受 Sports Now 采访时质疑 TTFI 的选拔政策，透露这种冷落如何让他失去了参加比赛的机会。, Sports, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/left-out-of-mixed-team-world-cup-ttfis-double-standards-leave-harmeet-desai-fuming-article-156543228",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a08f5607d6e522f7",
+      "title_en": "Days After Leaving Mumbai Indians, Mahela Jayawardene Returns To Delhi Capitals But Not In Ganguly's Setup",
+      "summary_en": "Mahela Jayawardene has found a new role after leaving Mumbai Indians (MI) and will return to work to India with the Delhi Capitals (DC). The Sri Lankan cricket legend played for the franchise for two seasons and even captained them in the 2013 IPL. , Cricket, Times Now",
+      "title_zh": "离开孟买印第安人队几天后，马赫拉·贾亚瓦德纳返回德里首都，但不在甘古利的安排中",
+      "summary_zh": "马赫拉·贾亚瓦德纳 (Mahela Jayawardene) 在离开孟买印第安人队 (MI) 后找到了新的职位，并将返回印度与德里首都队 (DC) 一起工作。这位斯里兰卡板球传奇人物为球队效力了两个赛季，甚至在 2013 年 IPL 中担任队长。 , 板球, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/days-after-leaving-mumbai-indians-mahela-jayawardene-returns-to-delhi-capitals-but-not-in-gangulys-setup-article-156541769",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a375437437666111",
+      "title_en": "Cyclone Akvan Spares Odisha Major Damage; Heavy Rain Continues Across State",
+      "summary_en": "As per the India Meteorological Department (IMD), Cyclone Akvan made landfall in Odisha around 8 AM, with the process completed by 11:20 AM., India News, Times Now",
+      "title_zh": "旋风“阿克万”未对奥里萨邦造成重大损害；全州持续大雨",
+      "summary_zh": "据印度气象部门 (IMD) 称，气旋“阿克万”于上午 8 点左右在奥里萨邦登陆，整个过程于上午 11 点 20 分完成。, India News, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/cyclone-akvan-spares-odisha-major-damage-heavy-rain-continues-across-state-article-156541901",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a4784deb18b3633f",
+      "title_en": "Gold Price Crash Explained: 3 Reasons Behind The Fall; Should You Buy Gold Now?",
+      "summary_en": "Gold Price Crash today: Gold rate have witnessed a sharp decline amid global market pressures; here's a look at three key reasons behind the fall and whether this could be an opportunity for buyers and investors to consider purchasing gold., Personal Finance, Times Now",
+      "title_zh": "金价暴跌解释：下跌背后的 3 个原因；您现在应该购买黄金吗？",
+      "summary_zh": "今日金价暴跌：在全球市场压力下，金价大幅下跌；以下是金价下跌背后的三个关键原因，以及这是否是买家和投资者考虑购买黄金的机会。，个人理财，Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/personal-finance/gold-price-crash-explained-3-reasons-behind-the-fall-should-you-buy-gold-now-article-156540541",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a6a04cc0b7624192",
+      "title_en": "Mumbai’s Zomato Delivery Agent Becomes A ‘Reminder To Keep Going’ For Others! Here’s Why…",
+      "summary_en": "A Zomato delivery agent, beating all odds, was spotted cheerfully delivering orders using a wheelchair! A video of the incident went viral, becoming an inspiration to many., Viral, Times Now",
+      "title_zh": "孟买的 Zomato 送货代理成为其他人的“继续前行的提醒”！这就是为什么……",
+      "summary_zh": "一名 Zomato 送货员克服一切困难，被发现愉快地使用轮椅送货！该事件的视频在网上疯传，给许多人带来了灵感。, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/mumbai-zomato-delivery-agent-becomes-a-reminder-to-keep-going-for-others-viral-video-article-156541049",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a7cd4f436a735920",
+      "title_en": "What Does Nick Kyrgios Think About Pickleball?",
+      "summary_en": "Nick Kyrgios believes that pickleball does not pose a serious threat to tennis, as the two sports are fundamentally different. He advocates for collaboration between them, suggesting that joint events could be beneficial for both., Pickleball, Times Now",
+      "title_zh": "尼克·克耶高斯对匹克球有何看法？",
+      "summary_zh": "尼克·克耶高斯认为匹克球不会对网球构成严重威胁，因为这两种运动有着根本的不同。他提倡他们之间的合作，认为联合活动可能对双方都有利。, Pickleball, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/pickleball/what-does-nick-kyrgios-think-about-pickleball-article-156541377",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a96d24993fdb974f",
+      "title_en": "'India Discusses Civilisational Connect As World Discusses War': PM Modi At SCO Forum | WATCH",
+      "summary_en": "PM Modi inaugurated the inaugural SCO Civilisation Dialogue Forum today. The three-day event aims to enhance cultural ties and promote dialogue among SCO member countries., India News, Times Now",
+      "title_zh": "“印度在世界讨论战争时讨论文明联系”：莫迪总理在上合组织论坛上 |手表",
+      "summary_zh": "莫迪总理今天宣布首届上合组织文明对话论坛开幕。为期三天的活动旨在加强上合组织成员国之间的文化联系并促进对话。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/india-discusses-civilisational-connect-as-world-discusses-war-pm-modi-at-sco-forum-watch-article-156542803",
+      "source": "Times Now Viral"
+    },
+    {
       "id": "ac563af5f13865ed",
       "title_en": "GTA 6 Launch Starts 'Blame Game' As NDA Highlights UPA's Grand Theft' | Congress Uses 'Cheat Code'?",
       "summary_en": "Grand Theft Auto V, Rockstar Games has finally released a new chapter called the Grand Theft Auto 6. But there is a political twist that has been added as the BJP & Congress took potshots at each other. While NDA points out to UPA's Grand Theft', Rahul's allegations are in \"auto\" mode. Game Over, Cong Uses 'Cheat Code'?",
@@ -149,6 +1089,16 @@
       "summary_zh": "Rockstar Games 终于在《侠盗猎车手 5》中发布了名为《侠盗猎车手 6》的新章节。但随着印度人民党和国会互相攻击，其中出现了政治扭曲。虽然 NDA 指出 UPA 的“大盗窃”行为，但拉胡尔的指控处于“自动”模式。游戏结束，聪使用“作弊码”？",
       "translation_status": "fallback",
       "url": "https://www.timesnownews.com/videos/times-now/newshour/grand-theft-auto-6-sparks-political-debate-in-india-video-156538848",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "b7eb2c77243d0dbd",
+      "title_en": "Marvel Reveals Monstrous New Iron Man Weeks Before Avengers Doomsday Release - Would It Impact MCU?",
+      "summary_en": "Marvel transforms Iron Man into The Iron Thing in Hulk War: Infernal Rage. More details on Tony Stark's monstrous new identity and its connection to Avengers: Doomsday., Hollywood, Times Now",
+      "title_zh": "漫威在《复仇者联盟》世界末日上映前几周公布了可怕的新钢铁侠——这会影响漫威宇宙吗？",
+      "summary_zh": "漫威在《绿巨人战争：地狱之怒》中将钢铁侠转变为钢铁怪人。有关托尼·斯塔克可怕的新身份及其与《复仇者联盟：世界末日》的联系的更多详细信息，好莱坞，Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/hollywood/marvel-new-iron-man-replacement-hulk-war-connection-with-avengers-doomsday-comics-article-156539947",
       "source": "Times Now Viral"
     },
     {
@@ -172,6 +1122,56 @@
       "source": "Times Now Viral"
     },
     {
+      "id": "c78967858a2a2af0",
+      "title_en": "Cauvery Water Dispute: SC Rejects Tamil Nadu's Pleas Seeking 11 TMC Water From Karnataka",
+      "summary_en": "Cauvery Water Dispute News: The Supreme Court rejected Tamil Nadu's pleas seeking 11 TMC of Cauvery water from Karnataka, which cited poor rainfall and drought conditions to oppose the demand., India News, Times Now",
+      "title_zh": "高韦里水纠纷：SC 拒绝泰米尔纳德邦从卡纳塔克邦寻求 11 TMC 水的请求",
+      "summary_zh": "高韦里水纠纷新闻：最高法院驳回泰米尔纳德邦寻求卡纳塔克邦高韦里水 11 TMC 的请求，该请求以降雨量不佳和干旱条件反对这一要求。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/cauvery-water-dispute-sc-rejects-tamil-nadus-pleas-seeking-11-tmc-water-from-karnataka-article-156540672",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "d5d90faad0bb7f32",
+      "title_en": "Meet the Author Who Wrote an Entire Novel Without Using the Letter E",
+      "summary_en": "No letter e in 300 pages. Georges Perec’s La Disparition looks like a stunt, but its missing letter quietly mourns the parents he lost., Books, Times Now",
+      "title_zh": "认识一下没有使用字母 E 写出整部小说的作者",
+      "summary_zh": "300页里没有字母e。乔治·佩雷克（Georges Perec）的《差距》（La Disparition）看起来像是一场特技，但其中缺失的信却在悄悄哀悼他失去的父母。, 书籍, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/lifestyle/books/meet-the-author-who-wrote-an-entire-novel-without-using-the-letter-e-article-156541486",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "d77acb78fa91971b",
+      "title_en": "JK Rowling's 'The Running Grave' Is Coming To Television This December",
+      "summary_en": "A secretive church, a dangerous undercover mission and chilling secrets await in JK Rowling's The Running Grave, premiering on BBC One., Books, Times Now",
+      "title_zh": "JK 罗琳的《奔跑的坟墓》将于今年 12 月在电视上播出",
+      "summary_zh": "JK 罗琳的《奔跑的坟墓》在 BBC One 首播，一座秘密的教堂、危险的卧底任务和令人毛骨悚然的秘密等待着您。, Books, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/lifestyle/books/jk-rowlings-the-running-grave-is-coming-to-television-this-december-article-156541415",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "dc679d981ea7076f",
+      "title_en": "Tamil Nadu Deepathoon Row: SC Allows 'One-Time' Lighting Of Deepam At Madurai Hill On Nov 24",
+      "summary_en": "The Supreme Court permitted one-time Karthigai Deepam lighting at Thiruparankundram's Deepathoon on November 24, imposing strict safeguards while keeping larger religious questions open., India News, Times Now",
+      "title_zh": "泰米尔纳德邦 Deepathoon Row：SC 允许 11 月 24 日在马杜赖山“一次性”点亮 Deepam",
+      "summary_zh": "11 月 24 日，最高法院允许在 Thiruparankundram 的 Deepathoon 进行一次性 Karthigai Deepam 照明，实施严格的保障措施，同时对更大的宗教问题保持开放态度。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/tamil-nadu-deepathoon-row-sc-allows-one-time-lighting-of-deepam-at-madurai-hill-on-nov-24-article-156541444",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "dff67e702affb6c5",
+      "title_en": "Blind Asia Cup: India Boycott Prize Ceremony After Shocking Decision To Hand Pakistan Trophy Without Playing",
+      "summary_en": "India boycotted the trophy presentation after Pakistan were awarded the trophy of the Blind Asia Cup without the final being played. India have claimed that the two teams should have been declared joint winners. , Cricket, Times Now",
+      "title_zh": "盲人亚洲杯：印度抵制颁奖典礼，令人震惊地决定不参加比赛就将奖杯交给巴基斯坦",
+      "summary_zh": "巴基斯坦在盲人亚洲杯决赛未进行的情况下获得奖杯后，印度抵制了颁奖仪式。印度声称两支球队应该被宣布为共同获胜者。 , 板球, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/blind-asia-cup-india-boycott-trophy-after-shocking-decision-to-hand-pakistan-trophy-without-playing-article-156542322",
+      "source": "Times Now Viral"
+    },
+    {
       "id": "e0acd1e84b01d323",
       "title_en": "Iowa Lead Azide Detonation: Leaders Push For Delay Amid Safety Concerns, Enviromental Groups Sue",
       "summary_en": "The US Army plans to detonate 68 drums of unstable lead azide in Middletown, Iowa, on Friday. , US News, Times Now",
@@ -189,6 +1189,36 @@
       "summary_zh": "从选择 N95、N99 和 KN95 到了解正确的佩戴方式，存在着关于它们的有效性、安全性和局限性的几个问题。, Health, Times Now",
       "translation_status": "fallback",
       "url": "https://www.timesnownews.com/health/live-chat-with-top-doctors-do-pollution-masks-work-experts-answer-all-your-questions-article-156537508",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "f2be625bddc4004b",
+      "title_en": "'Tournament Director Is Pakistan's Physio': Indian Blind Team Exposes Shocking Asia Cup Decision - Exclusive",
+      "summary_en": "The Indian blind cricket team's manager, Dhiraj Sequeira, spoke exclusively to Sports Now and revealed the details behind the Blind Asia Cup controversy, where Pakistan were awarded the title without a ball being bowled in the final. He claimed the technical director was also the physio of the Pakistan team. , Cricket, Times Now",
+      "title_zh": "“赛事总监是巴基斯坦队医”：印度盲人队曝光令人震惊的亚洲杯决定 - 独家",
+      "summary_zh": "印度盲人板球队经理 Dhiraj Sequeira 接受《Sports Now》独家采访，透露了盲人亚洲杯争议背后的细节，巴基斯坦队在决赛中没有投球就获得了冠军。他声称技术总监也是巴基斯坦队的队医。 , 板球, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/tournament-director-is-pakistans-physio-indian-blind-team-expose-shocking-asia-cup-trophy-decision-exclusive-article-156542668",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "f718bd57fc1ae4a4",
+      "title_en": "FIFA Election 2027: Gianni Infantino Calls For 'Respect And Fair Play'",
+      "summary_en": "FIFA president Gianni Infantino has called for respect and fair play during the upcoming presidential election campaign, as candidates Philippe Diallo and Kozo Tashima officially announce their bids against him., Football, Times Now",
+      "title_zh": "2027 年国际足联选举：詹尼·因凡蒂诺呼吁“尊重和公平竞争”",
+      "summary_zh": "国际足联主席詹尼·因凡蒂诺呼吁在即将到来的总统竞选期间尊重和公平竞争，候选人菲利普·迪亚洛和田岛幸三正式宣布反对他。, 足球, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/football/fifa-election-2027-gianni-infantino-calls-for-respect-and-fair-play-article-156542406",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "fdd4906e48213669",
+      "title_en": "No Welcome For Pakistan Minister In Delhi? Analyst's Airport 'Snub' Narrative Fact-Checked",
+      "summary_en": "Sources indicate that representatives from India's Ministry of Culture and the Ministry of External Affairs were present to greet the Pakistani minister., India News, Times Now",
+      "title_zh": "德里不欢迎巴基斯坦部长？分析师对机场“冷落”的说法进行了事实核查",
+      "summary_zh": "消息人士称，印度文化部和外交部的代表到场迎接巴基斯坦部长。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/no-welcome-for-pakistan-minister-in-delhi-analysts-airport-snub-narrative-fact-checked-article-156541872",
       "source": "Times Now Viral"
     },
     {

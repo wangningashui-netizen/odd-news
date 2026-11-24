@@ -218,7 +218,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-20T22:22:07+08:00",
-      "fetched_at": "2026-11-24T06:36:05+08:00",
+      "fetched_at": "2026-11-25T06:32:34+08:00",
       "tags": [
         "军事政治"
       ],
@@ -419,7 +419,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-20T21:59:48+08:00",
-      "fetched_at": "2026-11-24T06:36:05+08:00",
+      "fetched_at": "2026-11-25T06:32:34+08:00",
       "tags": [
         "军事政治"
       ],
@@ -1449,7 +1449,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-20T18:50:57+08:00",
-      "fetched_at": "2026-11-24T06:36:07+08:00",
+      "fetched_at": "2026-11-25T06:32:36+08:00",
       "tags": [
         "婚俗宗教",
         "奇人奇事"
@@ -1480,7 +1480,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123730812973813911/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123730756862394368/vid/avc1/720x1280/v37LVo0Ls6-bxB6n.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-24T06:36:07+08:00",
+        "video_url_resolved_at": "2026-11-25T06:32:36+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/aajtak/status/2123730812973813911",
@@ -1911,7 +1911,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-20T17:20:53+08:00",
-      "fetched_at": "2026-11-24T06:36:06+08:00",
+      "fetched_at": "2026-11-25T06:32:35+08:00",
       "tags": [
         "诈骗骗局",
         "军事政治"
@@ -1942,7 +1942,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2123708145742545055/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2123705503515856896/vid/avc1/848x480/FwPHro2nT07Iffc9.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-24T06:36:06+08:00",
+        "video_url_resolved_at": "2026-11-25T06:32:35+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2123708145742545055",
@@ -2662,7 +2662,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-20T14:37:52+08:00",
-      "fetched_at": "2026-11-24T06:36:05+08:00",
+      "fetched_at": "2026-11-25T06:32:34+08:00",
       "tags": [
         "军事政治"
       ],
@@ -3239,7 +3239,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-20T11:00:22+08:00",
-      "fetched_at": "2026-11-24T06:36:05+08:00",
+      "fetched_at": "2026-11-25T06:32:34+08:00",
       "tags": [
         "军事政治"
       ],

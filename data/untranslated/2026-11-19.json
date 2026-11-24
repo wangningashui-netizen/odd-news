@@ -1,4 +1,885 @@
 {
   "date": "2026-11-19",
-  "items": []
+  "items": [
+    {
+      "id": "042fdd7af5007411",
+      "title_en": "Hero in uniform: West Bengal cop jumps into Damodar River to rescue 3-year-old during Chhath Puja",
+      "summary_en": "The incident occurred in Bankura’s Raniganj, where the toddler was visiting a Chhath Puja celebration with her family.",
+      "title_zh": "身着制服的英雄：西孟加拉邦警察在 Chhath Puja 期间跳入达莫达尔河营救 3 岁儿童",
+      "summary_zh": "这起事件发生在班库拉的拉尼甘吉，当时这名幼儿正在与家人一起参加 Chhath Puja 庆祝活动。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/hero-in-uniform-west-bengal-cop-jumps-into-damodar-river-to-rescue-3-year-old-during-chhath-puja-101795069507735.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "0f4c04a3c80609b7",
+      "title_en": "Spoiler alert for GTA 6 fans: Videos of jet-skiing dog, doomscrolling, invincible protester flood social media",
+      "summary_en": "Spoiler alert ahead! Viral GTA 6 videos are sweeping social media after launch.",
+      "title_zh": "GTA 6 粉丝剧透警告：摩托艇狗、末日卷轴、无敌抗议者的视频充斥社交媒体",
+      "summary_zh": "前方剧透警告！ 《GTA 6》视频在发布后席卷了社交媒体。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/spoiler-alert-for-gta-6-fans-videos-of-jet-skiing-dog-doomscrolling-invincible-protester-flood-social-media-101795065509715.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "6197602dbd889517",
+      "title_en": "Microsoft tech conference in San Francisco disrupted after ceiling leak floods Meta stall",
+      "summary_en": "Videos shared on social media showed water gushing from the ceiling and falling into a bucket at Meta’s stall.",
+      "title_zh": "天花板漏水淹没 Meta 摊位后微软旧金山技术会议中断",
+      "summary_zh": "社交媒体上分享的视频显示，水从天花板喷涌而出，落入梅塔摊位的水桶中。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/us/microsoft-tech-conference-in-san-francisco-disrupted-after-ceiling-leak-floods-meta-stall-101795076897178.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "736cec6e6469784f",
+      "title_en": "From boAt to Influish, Indian companies declare holiday for GTA 6",
+      "summary_en": "boAt is among a handful of Indian companies that has given employees the option to take a day off on November 19 to play Grand Theft Auto VI.",
+      "title_zh": "从boAt到Influish，印度公司宣布GTA 6放假",
+      "summary_zh": "boAt 是少数几家允许员工在 11 月 19 日休息一天玩《侠盗猎车手 6》的印度公司之一。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/from-boat-to-influish-indian-companies-declare-holiday-for-gta-6-101795079843222.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "775a20aeb897e7c1",
+      "title_en": "GTA 6 launch highlights: GTA VI launches in US, PlayStation network faces reported outages",
+      "summary_en": "GTA 6 launch highlights: Reports of PlayStation Network issues surged following the launch of Grand Theft Auto 6 (GTA 6) in the US. Downdetector recorded 8,657 reports of problems at 10:41 am on November 19, compared with a baseline of 11, indicating a sharp spike in reported disruptions.",
+      "title_zh": "GTA 6 发布亮点：GTA VI 在美国发布，PlayStation 网络据报道面临中断",
+      "summary_zh": "GTA 6 发布亮点：随着 Grand Theft Auto 6 (GTA 6) 在美国推出，有关 PlayStation Network 问题的报告激增。 DownDetector 在 11 月 19 日上午 10:41 记录了 8,657 份问题报告，而基线为 11 份，这表明报告的中断数量急剧增加。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/gta-6-launch-live-updates-grand-theft-auto-vi-release-story-on-ps5-xbox-series-xs-india-prices-download-playstation-101795060009991.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "8a80a3a8192f8541",
+      "title_en": "The CEO behind GTA 6 watches others play because he doesn’t play video games himself",
+      "summary_en": "Strauss Zelnick became the chief executive officer of Take-Two in 2011.",
+      "title_zh": "GTA 6 背后的首席执行官看别人玩，因为他自己不玩电子游戏",
+      "summary_zh": "Strauss Zelnick 于 2011 年成为 Take-Two 的首席执行官。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/the-ceo-behind-gta-6-watches-others-play-because-he-doesn-t-play-video-games-himself-101795075225002.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "a8abeaa92e01ecda",
+      "title_en": "Not killing Arnold in GTA VI could help Jason and Lucia get $10,000 later in the game",
+      "summary_en": "Hey Arnold is a mission in Chapter 1 of GTA V, where Jason chases down the eponymous character and is faced with a choice of killing him or sparing his life.",
+      "title_zh": "在 GTA VI 中不杀死阿诺德可以帮助杰森和露西亚在游戏后期获得 10,000 美元",
+      "summary_zh": "嘿阿诺德是《GTA V》第一章中的一个任务，杰森追捕同名角色，并面临着杀死他还是饶他一命的选择。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/spare-or-kill-arnold-in-gta-vi-what-happens-jason-and-lucia-could-get-10-000-later-in-the-game-walkthrough-guide-101795075664604.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "cd887740773c9593",
+      "title_en": "Rockstar Games says sacked GTA employees were 'caught red-handed' breaching confidentiality rules",
+      "summary_en": "Rockstar Games said it took action after staff discussed confidential information on a Discord server which had hundreds of members.",
+      "title_zh": "Rockstar Games 表示被解雇的 GTA 员工是“被当场抓获”，违反了保密规定",
+      "summary_zh": "Rockstar Games 表示，在员工在拥有数百名成员的 Discord 服务器上讨论机密信息后，该公司采取了行动。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/rockstar-says-sacked-gta-employees-were-caught-red-handed-breaching-confidentiality-rules-101795100266454.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "e78c35d7467a4c2b",
+      "title_en": "Hong Kong doctor admits removing patient’s ovaries by mistake during surgery: 'Rookie mistake'",
+      "summary_en": "The doctor called the incident a “rookie mistake” and said he took full responsibility for the error.",
+      "title_zh": "香港医生承认在手术中错误地切除了患者的卵巢：“菜鸟错误”",
+      "summary_zh": "医生称这一事件是“菜鸟错误”，并表示他对这一错误承担全部责任。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/hong-kong-doctor-admits-removing-patient-s-ovaries-by-mistake-during-surgery-rookie-mistake-101795082170577.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "1b7f0aaeeb79412e",
+      "title_en": "Lucia Caminos is GTA 6's first female lead, here's why her story is worth knowing",
+      "summary_en": "Meet Lucia Caminos, the woman at the centre of GTA 6 and the first female protagonist in the franchise’s history. From her criminal past to her partnership with Jason, here’s what makes her character one to watch.",
+      "title_zh": "露西娅·卡米诺斯是《侠盗猎车手 6》的第一位女主角，这就是她的故事值得了解的原因",
+      "summary_zh": "来认识一下露西娅·卡米诺斯吧，她是《侠盗猎车手 6》的核心人物，也是该系列历史上第一位女性主角。从她的犯罪过去到她与杰森的伙伴关系，这就是她的角色值得一看的原因。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/lucia-caminos-is-gta-6s-first-female-lead-heres-why-her-story-is-worth-knowing-3042131-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "1f08471e33d2c431",
+      "title_en": "Chennai CEO declares holiday for employees to celebrate GTA 6 launch",
+      "summary_en": "A Chennai company declared a November 19 holiday for employees, interns and freelancers to enjoy GTA 6. The decision reflects the anticipation surrounding the game after a 13-year wait.",
+      "title_zh": "Chennai 首席执行官宣布员工放假以庆祝 GTA 6 发布",
+      "summary_zh": "钦奈的一家公司宣布 11 月 19 日放假，让员工、实习生和自由职业者享受《GTA 6》的乐趣。这一决定反映了人们在等待 13 年之后对这款游戏的期待。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/chennai-ceo-declares-holiday-for-employees-to-celebrate-gta-6-launch-3042080-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "2e9ad07744d71bbf",
+      "title_en": "GTA 6 players meet Jason's former flame Mandy, but can't rekindle the romance",
+      "summary_en": "Mandy flirts with Jason during GTA 6's Pipework mission, but he rejects her advances. The encounter has stirred player interest while Jason and Lucia's relationship remains central.",
+      "title_zh": "GTA 6 玩家遇见了杰森的前男友曼迪，但无法重燃浪漫之火",
+      "summary_zh": "曼迪在《侠盗猎车手 6》的管道任务中与杰森调情，但杰森拒绝了她的示好。这次遭遇激起了玩家的兴趣，而杰森和露西亚的关系仍然是核心。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/gta-6-players-meet-jasons-former-flame-mandy-but-cant-rekindle-the-romance-3042154-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "52e3d08a1dcfe85a",
+      "title_en": "Chennai woman dies without daughters by her side, emotional appeal seeks to trace them",
+      "summary_en": "A Chennai woman who lived alone for decades died without her daughters by her side. Now, an emotional public appeal is seeking to trace the two women, whose whereabouts remain unknown even after her death.",
+      "title_zh": "钦奈妇女去世时没有女儿在身边，情感诉求试图追踪她们",
+      "summary_zh": "一名独居数十年的钦奈妇女在没有女儿陪伴的情况下去世。现在，一场激动人心的公众呼吁正在寻求寻找这两名女子，她们的下落即使在她死后仍然下落不明。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/chennai-woman-dies-without-daughters-by-her-side-emotional-appeal-seeks-to-trace-them-3042599-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "70177bb9699cbfbe",
+      "title_en": "Actor breaks down after BMC chops trees in Mumbai Park, shares heartbreaking videos",
+      "summary_en": "Actor Puja Ruparel was seen sobbing while hugging the chopped trees in a Mumbai park, with videos capturing the loss of the park's green cover.",
+      "title_zh": "BMC 在孟买公园砍树后，演员崩溃并分享令人心碎的视频",
+      "summary_zh": "有人看到演员普贾·鲁帕雷尔 (Puja Ruparel) 在孟买的一个公园里抱着被砍伐的树木哭泣，视频记录了公园绿地的消失。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/actor-puja-ruparel-breaks-down-after-bmc-chops-trees-in-mumbai-park-shares-heartbreaking-videos-3042199-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "740d89c0c431e94d",
+      "title_en": "Forget the missions, GTA 6's animal encounters are the real deal",
+      "summary_en": "GTA 6 players are discovering some rather wild surprises, from a dog offering jet-ski rides to a cat throwing car thieves out of vehicles. Social media is flooded with hilarious gameplay clips, bizarre animal encounters and reactions to the much-awaited release.",
+      "title_zh": "忘掉任务吧，GTA 6 中的动物遭遇才是真正的体验",
+      "summary_zh": "GTA 6 玩家发现了一些相当疯狂的惊喜，从提供水上摩托艇服务的狗到将偷车贼扔出车外的猫。社交媒体上充斥着搞笑的游戏片段、奇异的动物遭遇以及对期待已久的发布的反应。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/gta-6-players-discover-animals-with-serious-attitude-problems-and-more-3042046-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "7c8f2ff63133a674",
+      "title_en": "Entrepreneur shares 'dark secret' of wealthy Marwadi families middle class ignores",
+      "summary_en": "Entrepreneur Prem Soni's post on Marwadi generational wealth triggered a debate on social media. Reactions highlighted the divide between entrepreneurial sacrifice and employees' right to healthy workplaces.",
+      "title_zh": "企业家分享马尔瓦迪富裕家庭的“黑暗秘密”，中产阶级忽视了",
+      "summary_zh": "企业家普雷姆·索尼（Prem Soni）关于马尔瓦迪代际财富的帖子引发了社交媒体上的争论。反应凸显了企业家牺牲与员工健康工作场所权利之间的分歧。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/entrepreneur-shares-dark-secret-of-wealthy-marwadi-families-middle-class-ignores-3042218-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "8add4f157111b17d",
+      "title_en": "Boss, I'm playing GTA 6: Employees turn gaming plans into leave requests",
+      "summary_en": "GTA 6's India arrival has gamers seeking leave and uninterrupted playing time. The 13-year wait has also prompted special workplace arrangements and intense online discussion.",
+      "title_zh": "老板，我在玩 GTA 6：员工将游戏计划变成休假申请",
+      "summary_zh": "《GTA 6》登陆印度后，玩家们纷纷寻求休假并享受不间断的游戏时间。 13年的等待也引发了特殊的工作安排和激烈的网上讨论。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/gta-6-frenzy-sweeps-the-world-employees-take-days-off-to-play-the-game-3042078-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "92f166b0c5e31ac6",
+      "title_en": "Want to play GTA 6? Your wallet might need a side quest worth Rs 1.5 lakh",
+      "summary_en": "Dreaming of playing GTA 6 after a 13-year long wait? Getting the full gaming setup could cost you a lot more than the price of the game itself, with the total bill potentially climbing to Rs 1.5 lakh. Here's what your wallet needs to prepare for.",
+      "title_zh": "想玩 GTA 6 吗？你的钱包可能需要一个价值 15 万卢比的支线任务",
+      "summary_zh": "13 年漫长等待后，你是否梦想能玩到《GTA 6》？获得完整的游戏设置可能比游戏本身的价格高得多，总费用可能会攀升至 15 万卢比。这是您的钱包需要做好的准备。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/want-to-play-gta-6-your-wallet-might-need-a-side-quest-worth-rs-15-lakh-3042216-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "e8008865b7a78ec3",
+      "title_en": "Want a GTA 6-style portrait? Try these 3 AI prompts with your photos",
+      "summary_en": "GTA-inspired AI images are gaining traction on social media, with users turning their pictures into vibrant, cinematic artwork featuring neon-lit streets, dramatic sunsets and luxury cars.",
+      "title_zh": "想要 GTA 6 风格的肖像吗？用你的照片尝试这 3 个 AI 提示",
+      "summary_zh": "受《侠盗猎车手》启发的人工智能图像在社交媒体上越来越受欢迎，用户将他们的照片变成充满活力的电影艺术品，以霓虹灯闪烁的街道、戏剧性的日落和豪华汽车为特色。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/want-a-gta-6-style-portrait-try-these-3-ai-prompts-with-your-photos-3042373-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "eaa36dd81537e6d5",
+      "title_en": "Bengal cop jumps into Damodar River to rescue 3-year-old during Chhath Puja",
+      "summary_en": "A Sub-Inspector of West Bengal Police rescued a three-year-old girl from the Damodar River during Chhath Puja. His swift intervention at the crowded ghat in Bankura drew widespread praise.",
+      "title_zh": "Chhath Puja期间，孟加拉警察跳入达莫达尔河营救3岁儿童",
+      "summary_zh": "西孟加拉邦警察局的一名副督察在 Chhath Puja 期间从达莫达尔河救出了一名三岁女孩。他对班库拉拥挤的河坛的迅速干预赢得了广泛赞誉。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/bengal-cop-jumps-into-damodar-river-to-rescue-3-year-old-during-chhath-puja-3042293-2026-11-19",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "45048e483c30e6e2",
+      "title_en": "137 Million Views Change Maharashtra Toddler's Life, Honda Dealer Promises To Fund Education Till Graduation",
+      "summary_en": "A two-year-old boy from Yavatmal, Maharashtra, has gone viral after a video of him posing in front of a new Honda Activa received 137 million views.",
+      "title_zh": "1.37 亿次观看改变了马哈拉施特拉邦幼儿的生活，本田经销商承诺资助教育直至毕业",
+      "summary_zh": "来自马哈拉施特拉邦亚瓦特马尔的一名两岁男孩在一辆新款本田 Activa 前摆姿势的视频获得了 1.37 亿次观看，该视频在网上疯传。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/137-million-views-change-maharashtra-toddlers-life-honda-dealer-promises-to-fund-education-till-graduation-12347213",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "5e21c64da2941405",
+      "title_en": "Mother Allowed Just One Tattoo Each. These Twin Sisters Ended Up Covering 70% Of Their Bodies",
+      "summary_en": "Aline Galiano and Alena Hahnle promised their mother they would get just one tattoo each. But their love for body art soon took over, with tattoos now covering around 70% of their bodies.",
+      "title_zh": "母亲只允许每人纹身一个。这对双胞胎姐妹最终遮住了她们70%的身体",
+      "summary_zh": "艾琳·加利亚诺 (Aline Galiano) 和阿莱娜·哈恩勒 (Alena Hahnle) 向母亲保证，她们每人只会纹一个纹身。但他们对人体艺术的热爱很快就蔓延开来，纹身现在覆盖了他们身体的 70% 左右。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/mother-allowed-just-one-tattoo-each-these-twin-sisters-ended-up-covering-70-of-their-bodies-12347912",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "9392904379380c52",
+      "title_en": "GTA 6 Needs 212 GB Of Storage: How Long Will It Take To Download On Your Internet Speed?",
+      "summary_en": "GTA 6 requires up to 212 GB of storage, making it one of the largest game downloads in recent years. Here's how long it could take to download the game at different internet speeds, along with factors that may affect actual download times.",
+      "title_zh": "GTA 6 需要 212 GB 存储空间：以您的网速下载需要多长时间？",
+      "summary_zh": "GTA 6 需要高达 212 GB 的存储空间，使其成为近年来下载量最大的游戏之一。以下是在不同的互联网速度下下载游戏所需的时间，以及可能影响实际下载时间的因素。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/gta-6-needs-212-gb-of-storage-how-long-will-it-take-to-download-on-your-internet-speed-12347106",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "a664db34fee74fc7",
+      "title_en": "GTA 6's First Female Protagonist: Why Lucia Caminos Has Everyone Talking",
+      "summary_en": "Lucia is chasing the life her mother once dreamed about back in Liberty City after walking out of prison. But wants to earn it through smart moves.",
+      "title_zh": "GTA 6 第一位女主角：为什么露西娅·卡米诺斯让每个人都议论纷纷",
+      "summary_zh": "出狱后，露西娅正在自由城追寻她母亲曾经梦想的生活。但想通过聪明的举动来赢得它。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/gta-6s-first-female-protagonist-why-lucia-caminos-has-everyone-talking-12347398",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "a84e6f19f15384c9",
+      "title_en": "Engagement Ends After Man Discovers Woman's Government Job Is Temporary, Internet Reacts",
+      "summary_en": "On social media, some users warned against judging too quickly from one side's account.",
+      "title_zh": "互联网反应，男子发现女子政府工作是临时的，订婚结束",
+      "summary_zh": "在社交媒体上，一些用户警告不要过快地根据一方的账户做出判断。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/engagement-ends-after-man-discovers-womans-government-job-is-temporary-internet-reacts-12348419",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "dc464712aab73143",
+      "title_en": "Woman Dies In Mumbai After Living Alone For 40 Years, Neighbours Search For Her Daughters",
+      "summary_en": "A newspaper notice announcing her death and sharing contact details of people who could help locate her family has now gone viral on social media.",
+      "title_zh": "孟买女子独居40年后去世，邻居寻找女儿",
+      "summary_zh": "一份报纸公告宣布了她的死亡，并分享了可以帮助寻找她家人的人的联系方式，现已在社交媒体上疯传。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/woman-dies-in-mumbai-after-living-alone-for-40-years-neighbours-search-for-her-daughters-12350234",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "ed460c683e1e6aff",
+      "title_en": "\"He's The Villain Now\": Internet Reacts To Viral GTA 6 Cat Video",
+      "summary_en": "As the clip went viral, social media users joked about the realistic detail.",
+      "title_zh": "“他现在是恶棍了”：网络对《侠盗猎车手 6》猫视频的热议",
+      "summary_zh": "随着这段视频的疯传，社交媒体用户纷纷拿这个现实的细节开玩笑。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/hes-the-villain-now-internet-reacts-to-viral-gta-6-cat-video-12347916",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "fae6e36b65fbafbd",
+      "title_en": "How To Create GTA-Style Images Using Gemini And Other AI Tools",
+      "summary_en": "Learn how to create stunning GTA-style images using Google Gemini, ChatGPT and other AI tools. Follow this simple step-by-step guide to transform ordinary photographs into eye-catching video game-inspired artwork.",
+      "title_zh": "如何使用 Gemini 和其他 AI 工具创建 GTA 风格的图像",
+      "summary_zh": "了解如何使用 Google Gemini、ChatGPT 和其他 AI 工具创建令人惊叹的 GTA 风格图像。按照这个简单的分步指南，将普通照片转变为引人注目的视频游戏风格的艺术品。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/how-to-create-gta-style-images-using-gemini-and-other-ai-tools-12348135",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "15c166781145d054",
+      "title_en": "GTA 6 Cat Video Sparks Outrage As Players Call Jason Duval The Real Villain, Here’s Why",
+      "summary_en": "A GTA 6 gameplay moment involving Jason Duval and a cat has sparked funny reactions, with players questioning his actions after he throws the animal out of a stolen car.",
+      "title_zh": "GTA 6 猫视频引发愤怒，玩家称杰森·杜瓦尔为真正的恶棍，原因如下",
+      "summary_zh": "《侠盗猎车手 6》游戏中杰森·杜瓦尔和一只猫的游戏瞬间引发了有趣的反应，玩家质疑他将猫从偷来的汽车中扔出后的行为。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/gta-6-cat-video-sparks-outrage-as-players-call-jason-duval-the-real-villain-heres-why-ws-l-10432932.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "1907e83b96f9648e",
+      "title_en": "Startup Uses Candidate’s LinkedIn To Contact Potential Employees, Rejects Him Later; Internet Says ‘Sue The",
+      "summary_en": "The candidate shared that he found his personal LinkedIn used by the company to send connection requests and messages to potential employees without his knowledge or permission",
+      "title_zh": "初创公司使用候选人的 LinkedIn 联系潜在员工，但后来拒绝了他；互联网上说‘起诉’",
+      "summary_zh": "该候选人表示，他发现公司使用他的个人 LinkedIn 在他不知情或未经他许可的情况下向潜在员工发送联系请求和消息",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/startup-uses-candidates-linkedin-to-contact-potential-employees-rejects-him-later-internet-says-sue-them-ws-l-10432116.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "1d671dab90d9fe78",
+      "title_en": "Gamer Spends Lakhs Preparing For GTA 6, PC Breaks Down A Day Before Launch: ‘Sara Paisa Barbaad Ho Gaya’",
+      "summary_en": "The creator shared that he was preparing for the launch of GTA 6 for a long time and had bought new PC, capture card, webcam, microphone and a PlayStation 5 for the game",
+      "title_zh": "玩家花费数十万美元准备《GTA 6》，PC 在发布前一天出现故障：“Sara Paisa Barbaad Ho Gaya”",
+      "summary_zh": "这位创作者透露，他为《GTA 6》的发布准备了很长时间，并为游戏购买了新电脑、采集卡、网络摄像头、麦克风和 PlayStation 5",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/gamer-spends-lakhs-preparing-for-gta-6-pc-breaks-down-a-day-before-launch-sara-paisa-barbaad-ho-gaya-ws-l-10432663.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "45cb0be587fee2bb",
+      "title_en": "GTA 6 Has A Big Bengaluru Connection, City’s South MP Tejasvi Surya Shares The Story",
+      "summary_en": "More than 1,600 developers from Rockstar Games’ Bengaluru studio reportedly worked on GTA 6, contributing to the game’s massive open world and key locations.",
+      "title_zh": "GTA 6 与班加罗尔有很大联系，该市南部议员 Tejasvi Surya 分享了这个故事",
+      "summary_zh": "据报道，Rockstar Games 班加罗尔工作室的 1,600 多名开发人员参与了《GTA 6》的开发，为游戏的大型开放世界和关键地点做出了贡献。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/gta-6-has-a-big-bengaluru-connection-citys-south-mp-tejasvi-surya-shares-the-story-ws-l-10432443.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "497848dfebc4ca73",
+      "title_en": "Woman Repays Rs 25 Lakh Education Loan In 5 Years, Shares How She Saved Rs 10 Lakh In Interest | Video",
+      "summary_en": "An IIM Kozhikode graduate working at Microsoft has shared how she repaid her Rs 25 lakh education loan in five years, well before the bank's original 15-year repayment deadline.",
+      "title_zh": "一名妇女在 5 年内偿还了 250 万卢比的教育贷款，分享了她如何节省了 100 万卢比的利息视频",
+      "summary_zh": "一位在微软工作的 IIM Kozhikode 毕业生分享了她如何在五年内偿还 250 万卢比的教育贷款，远远早于银行原定的 15 年还款期限。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-repays-rs-25-lakh-education-loan-in-5-years-shares-how-she-saved-rs-10-lakh-in-interest-video-ws-l-10432106.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "4ed3e7493660543c",
+      "title_en": "Raghav Chadha’s Midnight Countdown For GTA 6 Release Has Internet Joking: ‘Har Ghar PS5 Yojana Aani Hi Chah",
+      "summary_en": "The Rajya Sabha MP was among those gaming enthusiasts who were eagerly waiting for the release of the much-anticipated release of Grand Theft Auto VI after 13 years",
+      "title_zh": "Raghav Chadha 的 GTA 6 发布午夜倒计时在网上开玩笑：“Har Ghar PS5 Yojana Aani Hi Chah”",
+      "summary_zh": "Rajya Sabha MP 是众多游戏爱好者中的一员，他们在 13 年后热切等待万众期待的 Grand Theft Auto VI 的发布",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/raghav-chadhas-midnight-countdown-for-gta-6-release-has-internet-joking-har-ghar-ps5-yojana-aani-hi-chahiye-ws-l-10432532.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "565cce8f4af79f80",
+      "title_en": "Amid GTA 6 Frenzy, Namma Benglooru Goes Viral With Its Own Bengaluru Open World",
+      "summary_en": "Namma Benglooru is a free browser game that allows players to explore a virtual version of the city, undertake missions, ride different vehicles and interact with characters",
+      "title_zh": "在《GTA 6》热潮中，Namma Benglooru 以其自己的班加罗尔开放世界而火爆",
+      "summary_zh": "Namma Benglooru 是一款免费的浏览器游戏，玩家可以探索虚拟版本的城市、执行任务、乘坐不同的车辆并与角色互动",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/amid-gta-6-frenzy-namma-benglooru-goes-viral-with-its-own-bengaluru-open-world-ws-l-10432246.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "57decc34e16116c5",
+      "title_en": "‘Indian Or Arabic Food?’: US Senator-Elect Abdul El-Sayed’s Hesitant Response Leaves People Laughing",
+      "summary_en": "The US senator-elect shared that he enjoys cooking and when asked if he ever cooked Indian food given his wife has Indian roots, he said that he does not possess the skills",
+      "title_zh": "“印度菜还是阿拉伯菜？”：美国当选参议员阿卜杜勒·赛义德的犹豫回应让人发笑",
+      "summary_zh": "这位美国当选参议员表示，他喜欢烹饪，当被问及他的妻子有印度血统时，他是否做过印度菜时，他说他不具备这些技能。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/indian-or-arabic-food-us-senator-elect-abdul-el-sayeds-hesitant-response-leaves-people-laughing-ws-l-10431951.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "6ffca739ca255180",
+      "title_en": "From Doomscrolling To Alligator Attacks: GTA 6 Players Discover These Strange Details; Check Them Here",
+      "summary_en": "GTA 6 players are sharing some unusual discoveries from Vice City, including strange character reactions, funny animal encounters and unexpected gameplay moments.",
+      "title_zh": "从末日卷轴到鳄鱼袭击：GTA 6 玩家发现这些奇怪的细节；在这里检查它们",
+      "summary_zh": "GTA 6 玩家分享了《罪恶都市》中的一些不寻常的发现，包括奇怪的角色反应、有趣的动物遭遇和意想不到的游戏时刻。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/from-doomscrolling-to-alligator-attacks-gta-6-players-discover-these-strange-details-check-them-here-ws-l-10432787.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "73243824f90482d9",
+      "title_en": "Man Seeks First Train Journey Certificate For Travelling Without Ticket, Railways Gives Savage Reply",
+      "summary_en": "A man on X asked Indian Railways for a certificate to mark his first Sleeper Class train journey, but his admission about travelling without a ticket led to an unexpected response.",
+      "title_zh": "男子无票出行索要首张火车旅行证，铁路部门给出野蛮答复",
+      "summary_zh": "X 上的一名男子向印度铁路公司索要一张证书，以纪念他的第一次卧铺车厢旅行，但他承认自己没有买票旅行，却得到了意想不到的回应。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/man-seeks-first-train-journey-certificate-for-travelling-without-ticket-railways-gives-savage-reply-ws-l-10432025.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "ab302d80018a1c1c",
+      "title_en": "From Paid Leave To PS5 Consoles: List Of Workplace Perks For GTA 6 Fans",
+      "summary_en": "GTA 6’s launch has prompted some Indian companies to give employees a day off, allowing them to enjoy the much-awaited game after 13 years of waiting.",
+      "title_zh": "从带薪休假到 PS5 主机：GTA 6 粉丝的工作场所福利列表",
+      "summary_zh": "《GTA 6》的推出促使一些印度公司给员工放了一天假，让他们能够在等待了 13 年之后享受这款期待已久的游戏。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/from-paid-leave-to-ps5-consoles-list-of-workplace-perks-for-gta-6-fans-ws-l-10432888.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "acad6928a3f78bcc",
+      "title_en": "Who Is Mandy In GTA 6? Why Gamers Are Talking About Jason’s Female Acquaintance",
+      "summary_en": "GTA 6 players have been talking about Mandy after her flirty interaction with Jason in an early mission, but the game may have more surprises in store for those curious about her.",
+      "title_zh": "GTA 6 中的曼迪是谁？为什么玩家们都在谈论杰森的女性熟人",
+      "summary_zh": "《GTA 6》玩家在早期任务中与杰森调情后一直在谈论曼迪，但游戏可能会给那些对她好奇的人带来更多惊喜。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/who-is-mandy-in-gta-6-why-gamers-are-talking-about-jasons-female-acquaintance-ws-l-10431922.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "b19a820c8bdacd74",
+      "title_en": "GTA 6 Fan Pays Rs 5,000 To Wife, Rs 2,000 To Daughter To Let Him Play For 7 Days: ‘People Think I’m Daft Bu",
+      "summary_en": "The man, who has been a fan of the game since his teenage years, made his wife and daughter sign a non-interference contract, where he asked them to let him play GTA 6 for a week",
+      "title_zh": "GTA 6 粉丝向妻子支付 5,000 卢比，向女儿支付 2,000 卢比，让他玩 7 天：“人们认为我很愚蠢",
+      "summary_zh": "这名男子从十几岁起就是这款游戏的粉丝，他让他的妻子和女儿签署了一份不干涉合同，并要求他们让他玩《GTA 6》一周",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/gta-6-fan-pays-rs-5000-to-wife-rs-2000-to-daughter-to-let-him-play-for-7-days-people-think-im-daft-but-ws-l-10431946.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "b61ae288039a6ed7",
+      "title_en": "Woman Dies In Mumbai After Living Alone For 40 Years, Viral Death Notice Seeks Her Daughters: 'No Voice To",
+      "summary_en": "Originally from Chennai, Lalitha Krishnamurthy reportedly died in Mumbai on November 13. A notice seeking her daughters and other relatives has struck a chord online.",
+      "title_zh": "孟买女子独自生活40年后去世，病毒式死亡通知寻找她的女儿：“没有声音”",
+      "summary_zh": "据报道，来自金奈的拉莉莎·克里希那穆西 (Lalitha Krishnamurthy) 于 11 月 13 日在孟买去世。一则寻找她女儿和其他亲属的通知在网上引起了共鸣。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/woman-dies-in-mumbai-after-living-alone-for-40-years-viral-death-notice-seeks-her-daughters-no-voice-to-say-amma-goodbye-10432216.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "b72366ead35c7525",
+      "title_en": "NHAI Wrongly Transfers ₹34 Crore Into Lawyer's Account, He Returns Every Rupee In 2 Days",
+      "summary_en": "A payment reportedly meant for a Hyderabad-based firm working on the Harda project was reportedly credited to senior advocate Ajay Bagaria's account.",
+      "title_zh": "NHAI 错误地将 3.4 亿卢比转入律师账户，他在 2 天内退还所有卢比",
+      "summary_zh": "据报道，一笔支付给一家从事哈达项目的海得拉巴公司的款项据称已记入高级倡导者 Ajay Bagaria 的账户。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/nhai-wrongly-transfers-34-crore-into-lawyers-account-he-returns-every-rupee-in-2-days-ws-l-10432190.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "bf02a5fdc9f52967",
+      "title_en": "CEO Questions India’s Office Culture, Says Long Hours Don’t Mean More Work, Internet Reacts",
+      "summary_en": "Knot Dating CEO Jasveer Singh has questioned India’s office culture, saying employees are often judged by how long they stay rather than the work they complete.",
+      "title_zh": "首席执行官质疑印度的办公文化，称长时间工作并不意味着更多工作，互联网反应",
+      "summary_zh": "Knot Dating 首席执行官贾斯维尔·辛格 (Jasveer Singh) 对印度的办公室文化提出了质疑，他表示，评判员工的标准通常是他们待了多久，而不是他们完成的工作。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/ceo-questions-indias-office-culture-says-long-hours-dont-mean-more-work-internet-reacts-ws-l-10432527.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "c4d90c923f72eb34",
+      "title_en": "The Man Behind GTA 6 Doesn’t Play Video Games, Here’s What He Does Instead",
+      "summary_en": "GTA 6 may be one of the biggest video game releases, but the CEO of its parent company has admitted that he does not play video games himself.",
+      "title_zh": "GTA 6 背后的人不玩电子游戏，而是他所做的事情",
+      "summary_zh": "GTA 6 可能是最大的电子游戏发行之一，但其母公司的首席执行官承认他自己不玩电子游戏。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/the-man-behind-gta-6-doesnt-play-video-games-heres-what-he-does-instead-ws-l-10432848.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "c4e237933dc2a573",
+      "title_en": "GTA 6: One Early Decision Could Get Jason And Lucia $10,000 Later In The Game; Details Here",
+      "summary_en": "GTA 6 players face an early decision involving Arnold, but choosing to spare him could have an unexpected benefit for Jason and Lucia later in the game.",
+      "title_zh": "GTA 6：一个早期决定可能会在游戏后期为杰森和露西亚带来 10,000 美元；详情请点击这里",
+      "summary_zh": "《GTA 6》玩家将面临涉及阿诺德的早期决定，但选择饶恕他可能会给杰森和露西亚在游戏后期带来意想不到的好处。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/gta-6-one-early-decision-could-get-jason-and-lucia-10000-later-in-the-game-details-here-ws-l-10432647.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "cd59355d805d6fd6",
+      "title_en": "Indian Woman Shares ‘Expensive Culture Shock’ In Australia After Cop Fines Her: ‘No Warning, No Chalta Hai’",
+      "summary_en": "She compared the rule with India and said that traffic police are happy if they find bikers with helmets on their head and it does not matter if buckles are fastened or not",
+      "title_zh": "印度女子在澳大利亚被警察罚款后分享“昂贵的文化冲击”：“没有警告，没有查尔塔海”",
+      "summary_zh": "她将这一规定与印度进行了比较，并表示，如果交警发现骑自行车的人头上戴着头盔，他们会很高兴，带扣是否系紧并不重要。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/indian-woman-shares-expensive-culture-shock-in-australia-after-cop-fines-her-no-warning-no-chalta-hai-ws-l-10432823.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "d6d82f47f119f96e",
+      "title_en": "Kolkata Woman Shares How 5 Strangers Helped Her After Road Accident: ‘25 People Gathered To Watch, But…’",
+      "summary_en": "She shared that she was travelling on a bike near Park Street when she was hit by a car, which left her injured and unable to get up that’s when strangers stepped in to help",
+      "title_zh": "加尔各答女子分享了 5 个陌生人在道路事故后如何帮助她：“25 个人聚集在一起观看，但是……”",
+      "summary_zh": "她分享说，她在公园街附近骑自行车旅行时，被车撞了，导致她受伤，无法起身，这时陌生人上前帮忙。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/kolkata-woman-shares-how-5-strangers-helped-her-after-road-accident-25-people-gathered-to-watch-but-ws-l-10432220.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "ed86b7b04774a6b8",
+      "title_en": "Employee Fired After 23 Years, Says Company Gave Just 4 Hours To Pack Things Up: ‘I Didn’t Get To Say Goodb",
+      "summary_en": "The individual shared that they were laid off over a call and given just four hours to pack their things up and when they tried contacting the HR, they received no answer",
+      "title_zh": "工作 23 年后被解雇的员工称公司只给了 4 小时收拾东西：“我还没来得及说一声好”",
+      "summary_zh": "该人士透露，他们是通过电话被解雇的，只给了四个小时的时间来收拾东西，当他们尝试联系人力资源部时，却没有得到任何答复。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/employee-fired-after-23-years-says-company-gave-just-4-hours-to-pack-things-up-i-didnt-get-to-say-goodbye-ws-l-10432828.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "f8636d1027d5545f",
+      "title_en": "Cow Seen Near Delhi’s Karkardooma Metro Station Entrance, DMRC Responds To Post",
+      "summary_en": "A cow was spotted near the entrance of Delhi’s Karkardooma Metro Station, leaving commuters surprised and raising questions about how the animal entered the premises.",
+      "title_zh": "德里 Karkardooma 地铁站入口附近出现一头牛，DMRC 回应帖子",
+      "summary_zh": "在德里的卡卡杜玛地铁站入口附近发现了一头牛，这让通勤者感到惊讶，并质疑这头动物是如何进入车站的。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/cow-seen-near-delhis-karkardooma-metro-station-entrance-dmrc-responds-to-post-ws-l-10432200.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "ff03bb21fd94d767",
+      "title_en": "Toddler Offers Money To Petrol Pump Worker After Refuelling His Toy Car; Internet Calls It ‘Cutest Video'",
+      "summary_en": "The little customer was seen arriving at the petrol pump by dragging his toy car, then requesting the attendant to refuel the tank and the latter obliged and pretended to refill",
+      "title_zh": "幼儿在为玩具车加油后向加油站工人提供金钱；互联网称其为“最可爱的视频”",
+      "summary_zh": "这名小顾客拖着玩具车来到加油站，要求服务员加油，后者假装加油。",
+      "translation_status": "fallback",
+      "url": "https://www.news18.com/viral/toddler-offers-money-to-petrol-pump-worker-after-refuelling-his-toy-car-internet-calls-it-cutest-video-ws-l-10432529.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "25b04b292e62dfd6",
+      "title_en": "Water & Shark’s Harish Haridas Honoured With Global Perspective Award as Firm Sets Course for Mauritius",
+      "summary_en": "Water & Shark&#39;s Harish Haridas receives the Global Perspective Award as the firm expands its global presence with plans to launch a Private Wealth Advisory practice in Mauritius.",
+      "title_zh": "Water & Shark 的 Harish Haridas 因公司进军毛里求斯而荣获全球视野奖",
+      "summary_zh": "Water & Shark 的 Harish Haridas 因计划在毛里求斯推出私人财富咨询业务而扩大其全球影响力而荣获全球视角奖。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/info/water-sharks-harish-haridas-honoured-with-global-perspective-award-as-firm-sets-course-for-mauritius-2026-11-19-141363",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "2dab626725aa34aa",
+      "title_en": "'I’m Not MAGA...If That Means Sort of Blind Adherence': Elon Musk Regrets Nearly $ 500 Mn Midterm Spending After Democratic Sweep",
+      "summary_en": "Elon Musk distances himself from MAGA and regrets spending nearly $500 million on Republican candidates after Democrats score sweeping midterm election victories.",
+      "title_zh": "“我不是 MAGA……如果这意味着某种盲目的追随”：埃隆·马斯克对民主党大获全胜后近 5 亿美元的中期支出感到遗憾",
+      "summary_zh": "在民主党在中期选举中取得压倒性胜利后，埃隆·马斯克与 MAGA 保持了距离，并后悔在共和党候选人身上花费了近 5 亿美元。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/world-news/im-not-magaif-that-means-sort-of-blind-adherence-elon-musk-regrets-nearly-500-mn-midterm-spending-after-democratic-sweep-2026-11-19-141356",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "542f28732e020acc",
+      "title_en": "Delhi 2047 Cannot Be Designed Around Cars: The Future of the Capital Will Be Walkable",
+      "summary_en": "Delhi 2047 needs safer footpaths, shaded streets and better public transport. Design Acrolect experts explain why walkability must shape the capital&#39;s urban future.",
+      "title_zh": "德里 2047 不能围绕汽车设计：首都的未来将是步行的",
+      "summary_zh": "德里 2047 需要更安全的人行道、遮荫的街道和更好的公共交通。 Design Acrolect 专家解释了为什么步行性必须塑造首都的城市未来。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/info/delhi-2047-cannot-be-designed-around-cars-the-future-of-the-capital-will-be-walkable-2026-11-19-141369",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "b90b1bbd7eb3f73e",
+      "title_en": "CISF Foils Forced Entry Attempt at Delhi Airport's Terminal 3, Man Detained After Dramatic CCTV-Captured Incident",
+      "summary_en": "CISF personnel foiled an unauthorised entry attempt at Delhi&#39;s IGI Airport Terminal 3 after a Haryana man allegedly tried to force his way inside without travel documents. The QRT swiftly detained him, while CCTV footage captured the incident. He was handed over to Delhi Police.",
+      "title_zh": "CISF 挫败了德里机场 3 号航站楼的强行闯入企图，一名男子在闭路电视拍摄的戏剧性事件后被拘留",
+      "summary_zh": "据称，一名哈里亚纳邦男子在没有旅行证件的情况下试图强行进入德里 IGI 机场 3 号航站楼，CISF 人员挫败了一次未经授权进入的企图。 QRT 迅速拘留了他，闭路电视录像记录了这一事件。他被移交给德里警方。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/viral/cisf-foils-forced-entry-attempt-at-delhi-airport-s-terminal-3-man-detained-after-dramatic-cctv-captured-incident-2026-11-19-141361",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "f5d66bbb3a13123b",
+      "title_en": "A Practical Guide to Better Decisions: What Abhiraj Gupta’s The Chanakya Playbook Offers New Entrepreneurs",
+      "summary_en": "Abhiraj Gupta&#39;s The Chanakya Playbook connects Chanakya&#39;s ancient wisdom with modern business, offering entrepreneurs practical lessons in leadership, strategy and decision-making.",
+      "title_zh": "更好决策的实用指南：Abhiraj Gupta 的《Chanakya 手册》为新企业家提供了什么",
+      "summary_zh": "Abhiraj Gupta 的《Chanakya 手册》将 Chanakya 的古老智慧与现代商业联系起来，为企业家提供领导力、战略和决策方面的实用课程。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/info/a-practical-guide-to-better-decisions-what-abhiraj-guptas-the-chanakya-playbook-offers-new-entrepreneurs-2026-11-19-141362",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "0c3304d1caac1d6e",
+      "title_en": "Jet-Skiing Dogs, Cute Kittens, Attacking Cats, Deadly Pythons & Hungry Alligators– GTA 6’s Animals For You!",
+      "summary_en": "After 13 long years, Rockstar Games’ Grand Theft Auto VI (GTA 6) is finally here, and the gaming community has lost it!, Viral, Times Now",
+      "title_zh": "喷气滑水狗、可爱的小猫、攻击性的猫、致命的蟒蛇和饥饿的鳄鱼——GTA 6 的动物为您服务！",
+      "summary_zh": "时隔 13 年，Rockstar Games 的《侠盗猎车手 6》(GTA 6) 终于来了，而游戏界却失去了它！, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/gta-6-animals-jet-skiing-dogs-cute-kittens-attacking-cats-deadly-pythons-and-hungry-alligators-viral-videos-article-156535389",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "0f414a9dce064955",
+      "title_en": "Ahmedabad Cyber Crime Police Uncover Online Drug Sale! FIR Against 5 Telegram Groups, 24 Dark Web Websites",
+      "summary_en": "The Ahmedabad Cyber Crime Police have uncovered 5 Telegram groups and 24 dark web websites allegedly advertising cocaine, MDMA, heroin, cannabis, and other prohibited narcotics. An FIR has been registered in connection with the same., Ahmedabad News, Times Now",
+      "title_zh": "艾哈迈达巴德网络犯罪警察发现网上毒品销售！ FIR 针对 5 个 Telegram 群组、24 个暗网网站",
+      "summary_zh": "艾哈迈达巴德网络犯罪警察发现了 5 个 Telegram 群组和 24 个暗网网站，涉嫌宣传可卡因、摇头丸、海洛因、大麻和其他违禁麻醉品。与此相关的 FIR 已注册。, 艾哈迈达巴德新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/ahmedabad-cyber-crime-police-uncover-online-drug-sale-fir-against-5-telegram-groups-24-dark-web-websites-article-156537007",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "0f59b38e9047fa36",
+      "title_en": "'Exam Scare' For AAP In Punjab| HC Halts Govt Job Recruitments| Merit On Trial, Can Mann Pass Test?",
+      "summary_en": "In a big setback for CM Bhagwant Mann-led govt, the Punjab and Haryana High Court put on hold the recruitment process for the Punjab State Civil Services (PCS) examination conducted by the Punjab Public Service Commission (PPSC). SAD & BJP welcomed the judgement & slammed the Mann govt. The question here arises is - Merit On Trial, Can Mann Pass Test? Watch Times Now's show, Nation Wants To Know with Shreya Dhoundial., Nation Wants To Know, Times Now",
+      "title_zh": "旁遮普邦 AAP 的“考试恐慌”| HC 停止政府职位招聘|审判中表现出色，曼能通过测试吗？",
+      "summary_zh": "对于 CM Bhagwant Mann 领导的政府来说，这是一个重大挫折，旁遮普邦和哈里亚纳邦高等法院暂停了旁遮普邦公共服务委员会 (PPSC) 进行的旁遮普邦公务员 (PCS) 考试的招聘程序。 SAD 和 BJP 对这一判决表示欢迎，并猛烈抨击曼恩政府。这里出现的问题是——审判中的优点，曼能通过测试吗？与 Shreya Dhoundial 一起观看 Times Now 的节目《Nation Wants To Know》。, Nation Wants To Know, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/nation-wants-to-know/punjab-recruitment-process-halted-amid-allegations-of-corruption-and-nepotism-video-156538258",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "22288e7071b8ba64",
+      "title_en": "PUC Certificate Rules Changed: Check How Long Your Car Or Bike Certificate Is Valid Now",
+      "summary_en": "New PUC rules extend validity for newer BS-VI vehicles, while older vehicles retain shorter renewal intervals. Check certificate validity, age limits and revised rules for cars and bikes., Auto, Times Now",
+      "title_zh": "PUC 证书规则已更改：检查您的汽车或自行车证书现在的有效期有多久",
+      "summary_zh": "新的 PUC 规则延长了较新的 BS-VI 车辆的有效期，而较旧的车辆则保留较短的更新间隔。检查证书有效性、年龄限制以及汽车和自行车的修订规则。, 汽车, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/auto/puc-certificate-rules-changed-check-how-long-your-car-or-bike-certificate-is-valid-now-article-156537100",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "26865a547cbdfc69",
+      "title_en": "From 13 Years Of Waiting To Delivery In Just Minutes– ‘GTA 6 Is Live On Blinkit!’ Fans Go Crazy",
+      "summary_en": "The game has been made available on Blinkit in selected cities for now. Reportedly, people in Delhi, Gurugram, Faridabad, Ghaziabad, Noida, Bengaluru, Hyderabad, Mumbai, Pune, Kolkata, and Ahmedabad can now Blinkit GTA 6!, Viral, Times Now",
+      "title_zh": "从 13 年的等待到几分钟内交付——“GTA 6 在 Blinkit 上直播！”粉丝们疯狂了",
+      "summary_zh": "该游戏目前已在部分城市的 Blinkit 上发售。据报道，德里、古鲁格拉姆、法里达巴德、加济阿巴德、诺伊达、班加罗尔、海得拉巴、孟买、浦那、加尔各答和艾哈迈达巴德的人们现在可以使用 Blinkit GTA 6！",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/gta-6-is-live-on-blinkit-fans-go-crazy-from-13-years-of-waiting-to-delivery-in-just-minutes-article-156536715",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "3a0e688305e60425",
+      "title_en": "Congress' 'Jail Modi' Plot Out | Top Cong Neta Makes Big Admission | Who Had The Remote Control?",
+      "summary_en": "Congress neta Veerappa Moily revealed that certain leaders from within the party during the Manmohan Singh-led UPA government tenure stalled the probe against then Gujarat Chief Minister Narendra Modi. \"Modi Would Have Been Jailed\" remark from Moily has sparked a massive political debate. The question here arises is - Who Had The Remote Control? Watch panel discussion on Times Now's show, India Upfront with Pranesh Roy., India Upfront, Times Now",
+      "title_zh": "国会“监禁莫迪”密谋|顶尖聪内塔 (Cong Neta) 大获入场券 |谁有遥控器？",
+      "summary_zh": "国会内塔·维拉帕·莫伊透露，在曼莫汉·辛格领导的统一进步联盟政府任职期间，党内某些领导人阻止了对时任古吉拉特邦首席部长纳伦德拉·莫迪的调查。莫伊的“莫迪本来会被判入狱”的言论引发了一场大规模的政治辩论。这里出现的问题是——谁拥有遥控器？观看 Times Now 节目《India Upfront》与 Pranesh Roy 的小组讨论。《India Upfront》、Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/videos/times-now/india-upfront/virappa-moily-reveals-congress-role-halting-investigations-against-modi-video-156538452",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "566ffb9cc4e63cfc",
+      "title_en": "'Fight Me Face To Face': Yogi Adityanath Challenges Akhilesh Yadav To Contest UP Polls From Ayodhya",
+      "summary_en": "Uttar Pradesh Chief Minister Yogi Adityanath has challenged Samajwadi Party leader Akhilesh Yadav to contest against him in Ayodhya., India News, Times Now",
+      "title_zh": "“面对面与我战斗”：瑜伽士 Adityanath 挑战 Akhilesh Yadav 参加阿约提亚的 UP 民意调查",
+      "summary_zh": "北方邦首席部长约吉·阿迪蒂亚纳特 (Yogi Adityanath) 向萨马杰瓦迪党 (Samajwadi Party) 领导人阿克希勒什·亚达夫 (Akhilesh Yadav) 提出挑战，要求他在阿约提亚 (Ayodhya) 与他竞争。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/fight-me-face-to-face-yogi-adityanath-challenges-akhilesh-yadav-to-contest-up-polls-from-ayodhya-article-156537643",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "58aa071369f53417",
+      "title_en": "Manufacturing Must Contribute 25% To India's GDP By 2047: EAC-PM Chairman",
+      "summary_en": "Chairman of the Economic Advisory Council to the Prime Minister advocated for heightened private sector involvement and diverse long-term financing sources, noting that conventional bank lending alone cannot fulfill the country's extensive development financing needs., Economy, Times Now",
+      "title_zh": "EAC-PM主席：到2047年制造业必须为印度GDP贡献25%",
+      "summary_zh": "总理经济顾问委员会主席主张加强私营部门的参与和多元化的长期融资来源，并指出仅靠传统的银行贷款无法满足该国广泛的发展融资需求。, 经济, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/economy/manufacturing-must-contribute-25-to-indias-gdp-by-2047-eac-pm-chairman-article-156538231",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "62bf754a7dac65ad",
+      "title_en": "Beyond Medals: Why Sport Diplomacy Is India's Next Soft Power Play",
+      "summary_en": "India's sporting ambitions go beyond medals and mega events, with the potential to strengthen international partnerships, boost national influence and establish its global identity through sport., Opinion - India, Times Now",
+      "title_zh": "超越奖牌：为什么体育外交是印度的下一个软实力策略",
+      "summary_zh": "印度的体育雄心超越了奖牌和大型赛事，有潜力通过体育加强国际伙伴关系、提高国家影响力并建立其全球形象。, 观点 - 印度, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/opinion/india/beyond-medals-why-sport-diplomacy-is-indias-next-soft-power-play-article-156537672",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "646dcd2be3ae080b",
+      "title_en": "'Four Buttons, One Script': Rahul Gandhi on Repeat? BJP Says AI Can Predict His Next Speech",
+      "summary_en": "The BJP criticised Rahul Gandhi for his comments during his recent trip to the US, accusing him of undermining India's electoral integrity and damaging the nation's reputation abroad., India News, Times Now",
+      "title_zh": "“四个按钮，一个脚本”：拉胡尔·甘地重演？印度人民党表示人工智能可以预测他的下一次演讲",
+      "summary_zh": "印度人民党批评拉胡尔·甘地最近访问美国期间的言论，指责他破坏了印度选举的公正性并损害了印度在海外的声誉。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/four-buttons-one-script-rahul-gandhi-on-repeat-bjp-says-ai-can-predict-his-next-speech-article-156537008",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "689a39de907a787d",
+      "title_en": "European Commission Hit By Major Cyberattack, Employees' Personal Data At Risk - Report",
+      "summary_en": "A major cyberattack on the European Commission disrupted internal systems for over ten days, raising concerns over the possible exposure of employees' personal data., Europe, Times Now",
+      "title_zh": "欧盟委员会遭受重大网络攻击，员工个人数据面临风险 - 报告",
+      "summary_zh": "欧盟委员会遭遇重大网络攻击，导致内部系统中断十多天，引发人们对员工个人数据可能暴露的担忧。, 欧洲, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/world/europe/european-commission-hit-by-major-cyberattack-employees-personal-data-at-risk-article-156536633",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "693c0639e7b6e23d",
+      "title_en": "Times Now Summit Expands Regional Footprint, Karnataka Chapter On November 21",
+      "summary_en": "Times Now Summit is expanding its regional footprint with the Karnataka Chapter on November 21, headlined by CM DK Shivakumar. Telangana edition follows on November 30., India News, Times Now",
+      "title_zh": "Times Now 峰会将于 11 月 21 日扩大卡纳塔克邦分会区域足迹",
+      "summary_zh": "Times Now 峰会将于 11 月 21 日与卡纳塔克邦分会一起扩大其区域影响力，由 CM DK Shivakumar 主持。 Telangana 版将于 11 月 30 日发布。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/times-now-summit-karnataka-chapter-dk-shivakumar-november-21-article-156537887",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "8bc251e2a58a5d4e",
+      "title_en": "AIFF President Kalyan Chaubey Faces Fresh Pressure As 15 Former India Players Write To Sports Minister",
+      "summary_en": "Fifteen former Indian football internationals, led by Bhaichung Bhutia, have formally urged Union Sports Minister Dr. Mansukh Mandaviya to intervene in the All India Football Federation (AIFF). , Football, Times Now",
+      "title_zh": "15 名前印度球员写信给体育部长，AIFF 主席 Kalyan Chaubey 面临新压力",
+      "summary_zh": "以 Bhaichung Bhutia 为首的 15 名前印度足球国脚已正式敦促联盟体育部长曼苏赫·曼达维亚 (Mansukh Mandaviya) 博士干预全印度足球联合会 (AIFF)。 , 足球, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/football/aiff-president-kalyan-chaubey-faces-fresh-pressure-as-15-former-india-players-write-to-sports-minister-article-156535986",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "9472d34f8c08e4a2",
+      "title_en": "Tiger Shroff, Ayushmann Khurrana Request Additional Security Amid Threats Against Bollywood Celebs: Report",
+      "summary_en": "Tiger Shroff and Ayushmann Khurrana have reportedly sought additional security from Mumbai Police amid a series of threats against Bollywood celebrities. Authorities are considering X-category protection for some film personalities., Bollywood, Times Now",
+      "title_zh": "老虎·史罗夫 (Tiger Shroff) 和阿尤斯曼·库拉纳 (Ayushmann Khurrana) 因宝莱坞名人受到威胁而要求加强安全保护：报告",
+      "summary_zh": "据报道，在针对宝莱坞名人的一系列威胁中，泰格·史罗夫和阿尤斯曼·库拉纳已向孟买警方寻求额外的安全保障。当局正在考虑对一些电影人物实行 X 类保护。, 宝莱坞, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/tiger-shroff-ayushmann-khurrana-request-additional-security-amid-threats-against-bollywood-celebs-article-156536858",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "9dedb7290c8cec68",
+      "title_en": "Salesforce Layoffs 2026: Fresh Job Cuts Hit India Employees; Garden Leave, Severance Reported",
+      "summary_en": "Salesforce Layoffs 2026: Fresh Job Cuts Hit India Employees; Garden Leave, Severance Reported, Companies, Times Now",
+      "title_zh": "Salesforce 2026 年裁员：印度员工遭遇新一轮裁员；花园假、遣散费报告",
+      "summary_zh": "Salesforce 2026 年裁员：印度员工遭遇新一轮裁员；花园假、遣散费报告、公司、时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/companies/salesforce-layoffs-2026-fresh-job-cuts-hit-india-employees-garden-leave-severance-reported-article-156535479",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a3caacd21c9ca824",
+      "title_en": "‘Ticket Liya Hai?’ Cow’s Delhi Metro Visit At Karkardooma Station Leaves Internet Stunned",
+      "summary_en": "A picture of a cow casually standing inside Delhi Metro’s Karkardooma station was shared on social media, went viral, and left the internet reacting in all sorts of ways., Viral, Times Now",
+      "title_zh": "“票莉雅海？”奶牛在德里地铁卡卡杜玛站的访问让互联网震惊",
+      "summary_zh": "一张牛随意站在德里地铁 Karkardooma 车站内的照片在社交媒体上被分享，迅速走红，并在互联网上引起了各种反应。, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/viral/cow-delhi-metro-visit-at-karkardooma-station-leaves-internet-stunned-article-156537761",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a591ff9c9790cc11",
+      "title_en": "'Game Follows Criminal Duo': Congress' Counter To PM Modi's GTA-Style Swipe At UPA",
+      "summary_en": "Jairam Ramesh hit back at PM Modi's GTA-inspired swipe at the UPA, calling the gaming reference appropriate because the popular franchise follows a criminal duo., India News, Times Now",
+      "title_zh": "“游戏追随犯罪二人组”：国会反驳莫迪总理对UPA的GTA式打击",
+      "summary_zh": "贾拉姆·拉梅什 (Jairam Ramesh) 回击了莫迪总理对《侠盗猎车手》(UPA) 的攻击，称游戏参考是恰当的，因为这款广受欢迎的系列讲述了犯罪二人组的故事。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/game-follows-criminal-duo-congress-counter-to-pm-modis-gta-style-swipe-at-upa-article-156535541",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a6efbcdfce8adb23",
+      "title_en": "The Forgotten Bestseller That Understood Body Image Before Social Media",
+      "summary_en": "Before Instagram, one book named the pressure. Susie Orbach’s Fat Is a Feminist Issue saw body image anxiety coming half a century ago., Books, Times Now",
+      "title_zh": "在社交媒体出现之前了解身体形象的被遗忘的畅销书",
+      "summary_zh": "在 Instagram 之前，有一本书名为《压力》。苏西·奥尔巴赫（Susie Orbach）在《肥胖是一个女权主义问题》中看到了半个世纪前出现的身体形象焦虑。，书籍，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/lifestyle/books/the-forgotten-bestseller-that-understood-body-image-before-social-media-article-156535953",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "b11f52f2f2253c16",
+      "title_en": "5 Bestselling Authors Share Their Tips on Reading More Books",
+      "summary_en": "No phones in bed, an hour on a timer, no guilt about quitting: Marlon James, Maria Semple and others share how they stay lost in books., Books, Times Now",
+      "title_zh": "5 位畅销书作家分享阅读更多书籍的秘诀",
+      "summary_zh": "床上没有手机，定时一小时，戒烟后不会有任何负罪感：马龙·詹姆斯、玛丽亚·森普尔和其他人分享了他们如何沉浸在书籍中。, Books, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/lifestyle/books/5-bestselling-authors-share-their-tips-on-reading-more-books-article-156535618",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "b4c73443d34d3546",
+      "title_en": "Shubman Gill Loses Cool Over DRS Confusion, Animated Umpire Exchange Grabs Attention",
+      "summary_en": "Controversy arose on day 1 when Shubman Gill had a heated exchange with umpire Richard Illingworth over a decision involving Glenn Phillips. The TV umpire later determined there was a bat deflection before the ball hit the pad., Cricket, Times Now",
+      "title_zh": "舒布曼·吉尔 (Shubman Gill) 对 DRS 混乱失去冷静，动画裁判交流吸引关注",
+      "summary_zh": "第一天，舒布曼·吉尔与裁判理查德·伊林沃斯就涉及格伦·菲利普斯的决定发生了激烈的争执，由此引发了争议。电视裁判后来确定在球击中垫板之前球棒发生了偏转。, 板球, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/shubman-gill-loses-cool-over-drs-confusion-animated-umpire-exchange-grabs-attention-article-156534921",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "b72be1f72c6aabdb",
+      "title_en": "Cockroaches On Table, Raw Chicken At 13°C: Maharashtra FDA Cracks Down On Eateries Over Norm Violations",
+      "summary_en": "The Maharashtra Food and Drug Administration (FDA) has intensified inspections across the state, resulting in the suspension of licenses and closures of numerous food establishments due to severe hygiene and safety violations. , Mumbai News, Times Now",
+      "title_zh": "餐桌上有蟑螂，生鸡肉温度为 13°C：马哈拉施特拉邦 FDA 严厉打击违反规范的餐馆",
+      "summary_zh": "马哈拉施特拉邦食品和药物管理局（FDA）加强了全邦的检查，由于严重的卫生和安全违规行为，许多食品企业被吊销许可证并关闭。 ，孟买新闻，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/mumbai/cockroaches-on-table-raw-chicken-at-13c-maharashtra-fda-cracks-down-on-eateries-over-norm-violations-article-156535964",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "b8ed9990fc2c60de",
+      "title_en": "CAQM Forms Expert Panel To Review Diesel Generator Pollution In Delhi-NCR",
+      "summary_en": "The 8-member expert group has been formed by the Commission for Air Quality Management (CAQM) to strengthen measures for controlling air pollution caused by diesel generator (DG) sets in Delhi and adjoining areas., Delhi News, Times Now",
+      "title_zh": "CAQM 成立专家小组审查德里国家首都区柴油发电机污染情况",
+      "summary_zh": "空气质量管理委员会 (CAQM) 成立了由 8 名成员组成的专家组，旨在加强德里及邻近地区柴油发电机组 (DG) 造成的空气污染的控制措施。, 德里新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/delhi/caqm-commission-for-air-quality-management-forms-expert-panel-to-review-diesel-generator-pollution-in-delhi-ncr-article-156537128",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "bd2dc6d3a4747481",
+      "title_en": "Bennett University Anchors Global Discourse on Trustworthy AI at 3rd International Summit",
+      "summary_en": "With over 250+ research papers and support from global tech giants, the three-day conference spotlights BU’s growing research ecosystem., Education, Times Now",
+      "title_zh": "贝内特大学在第三届国际峰会上主持关于可信人工智能的全球讨论",
+      "summary_zh": "为期三天的会议汇聚了 250 多篇研究论文，并得到了全球科技巨头的支持，重点关注 BU 不断发展的研究生态系统。, Education, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/education/bennett-university-anchors-global-discourse-on-trustworthy-ai-at-3rd-international-summit-article-156535001",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c0227535af482198",
+      "title_en": "GTA 6 Gaming Marathons Could Put Your Heart Health At Risk, Here's Why",
+      "summary_en": "GTA 6 has finally arrived, but spending hours playing without breaks could affect cardiovascular health. Prolonged sitting, sleep deprivation, dehydration and excessive caffeine may pose hidden health risks., Health, Times Now",
+      "title_zh": "GTA 6 游戏马拉松可能会危及您的心脏健康，原因如下",
+      "summary_zh": "《GTA 6》终于来了，但连续玩几个小时可能会影响心血管健康。久坐、睡眠不足、脱水和过量咖啡因可能会带来潜在的健康风险。, Health, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/health/gta-6-gaming-marathons-could-put-your-heart-health-at-risk-article-156536891",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c41999b2c7006ab0",
+      "title_en": "'Revolution, Not Election': Azam Khan's Big UP Poll Prediction After Jail Release",
+      "summary_en": "Azam Khan returned to Rampur after securing interim bail and made a fiery prediction about the upcoming UP polls, while questioning institutions and taking a swipe at the ED., India News, Times Now",
+      "title_zh": "“革命，而不是选举”：阿扎姆·汗出狱后的大民意调查预测",
+      "summary_zh": "阿扎姆·汗在获得临时保释后返回拉姆普尔，并对即将举行的北方邦民意调查做出了激烈的预测，同时质疑各机构并猛烈抨击了教育部。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/revolution-not-election-azam-khans-big-up-poll-prediction-after-jail-release-article-156535138",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "ccfccec919e4b6cd",
+      "title_en": "'Nothing In Sport Called Permanency': WV Raman's Siraj Warning Before India Picked Kamboj, Krishna For NZ Test",
+      "summary_en": "Mohammed Siraj's exclusion from India's first Test against New Zealand has sparked significant criticism, particularly from former cricketers. However, Raman believed that current form, not reputation or past achievements, should determine who earns a place in the side., Cricket, Times Now",
+      "title_zh": "“体育运动中没有什么叫做永恒”：在印度选择坎博杰、克里希纳参加新西兰测试之前，西拉曼警告西拉吉",
+      "summary_zh": "穆罕默德·西拉吉（Mohammed Siraj）被排除在印度对阵新西兰的首场测试赛之外，引发了强烈批评，尤其是来自前板球运动员的批评。然而，拉曼认为，当前的状态，而不是声誉或过去的成就，应该决定谁在球队中赢得一席之地。, 板球, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/nothing-in-sport-called-permanency-wv-ramans-siraj-warning-before-india-picked-kamboj-krishna-for-nz-test-article-156537969",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "dd61aece86d22b72",
+      "title_en": "Saif Ali Khan Gets Threat From Baba Siddique Murder Case Accused Zeeshan Akhtar, Police Launch Probe",
+      "summary_en": "Bollywood actor Saif Ali Khan has reportedly received a threat amid growing concerns over celebrities being targeted by the Lawrence Bishnoi gang. Mumbai Police is investigating whether the warning came from gangster Zeeshan Akhtar, a wanted accused in the Baba Siddique murder case., Bollywood, Times Now",
+      "title_zh": "赛义夫·阿里·汗受到巴巴·西迪克谋杀案被告泽山·阿赫塔尔的威胁，警方启动调查",
+      "summary_zh": "据报道，由于人们越来越担心名人成为劳伦斯·比什诺伊帮派的目标，宝莱坞演员赛义夫·阿里·汗受到了威胁。孟买警方正在调查该警告是否来自黑帮分子 Zeeshan Akhtar，他是巴巴西迪克谋杀案的通缉犯。，宝莱坞，Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/saif-ali-khan-gets-threat-from-baba-siddique-murder-case-accused-zeeshan-akhtar-police-launch-probe-article-156536421",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "dff5700992da7585",
+      "title_en": "Azam Khan Gets Relief As SC Dismisses ED Plea Against Allahabad HC's Interim Bail Order",
+      "summary_en": "The Supreme Court dismissed the ED's challenge to Azam Khan's interim bail in a money laundering case, declining to interfere with the Allahabad High Court order., India News, Times Now",
+      "title_zh": "SC 驳回 ED 对阿拉哈巴德 HC 临时保释令的抗辩，阿扎姆·汗 (Azam Khan) 得到了缓解",
+      "summary_zh": "最高法院驳回了教育部对阿扎姆汗在洗钱案件中临时保释的质疑，拒绝干涉阿拉哈巴德高等法院的命令。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/azam-khan-gets-relief-as-sc-dismisses-ed-plea-against-allahabad-hcs-interim-bail-order-article-156535524",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "e932677d83de0b2a",
+      "title_en": "No Interim Relief, Delhi HC Says Restaurants Cannot Force Customers To Pay Service Charge",
+      "summary_en": "Delhi High Court clarifies restaurants have no interim relief against the ban on mandatory service charges, as the Centre flags continued violations by some eateries., India News, Times Now",
+      "title_zh": "没有临时救济，德里HC称餐厅不能强迫顾客支付服务费",
+      "summary_zh": "德里高等法院澄清，餐馆对强制服务费禁令没有临时救济，因为该中心指出一些餐馆继续违反规定。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/no-interim-relief-delhi-hc-says-restaurants-cannot-force-customers-to-pay-service-charge-article-156538083",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "e98aaa304b2d51b1",
+      "title_en": "Why Boxing Federation of India is Out of IOA Elections Despite India's Success at Asian Games, Youth Olympics",
+      "summary_en": "India's success in boxing at the international level contrasts sharply with the turmoil within the national federation, with governance disputes and administrative uncertainty threatening to disrupt domestic competitions and the boxers' pathway to major events., Sports, Times Now",
+      "title_zh": "尽管印度在亚运会、青奥会上取得了成功，但印度拳击联合会为何退出国际奥委会选举",
+      "summary_zh": "印度拳击在国际层面的成功与国家联合会内部的混乱形成鲜明对比，治理纠纷和行政不确定性有可能扰乱国内比赛和拳击手参加重大赛事的途径。, 体育, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/why-boxing-federation-of-india-is-out-of-ioa-elections-despite-indias-success-at-asian-games-youth-olympics-article-156537421",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "f4670f1748f104e1",
+      "title_en": "Keerthy Suresh Slams Trolls Claiming Mysskin Made Her Uncomfortable: We Share A Bond Like Father-Daughter",
+      "summary_en": "Keerthy Suresh has dismissed social media speculation that she appeared uncomfortable during an interaction with Mysskin at the press conference of Sathyavan Savithiri., South, Times Now",
+      "title_zh": "Keerthy Suresh 猛烈抨击巨魔声称 Mysskin 让她不舒服：我们像父女一样有着纽带",
+      "summary_zh": "Keerthy Suresh 否认了社交媒体的猜测，即她在 Sathyavan Savithiri 的新闻发布会上与 Mysskin 互动时显得不舒服。《南方时报》",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/south/keerthy-suresh-slams-trolls-claiming-mysskin-made-her-uncomfortable-we-share-a-bond-like-father-daughter-article-156538349",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "f537a94b58f6e550",
+      "title_en": "'Siraj Has Never Let India Down': Gavaskar, Ashwin Lead Outrage As Gambhir, Gill Face Heat Over Shocking Call",
+      "summary_en": "Sunil Gavaskar led the outrage as Ravichandran Ashwin joined as the cricket fraternity and fans lashed out at Gautam Gambhir and Shubman Gill over the decision to drop Mohammed Siraj from the playing XI. , Cricket, Times Now",
+      "title_zh": "“西拉吉从未让印度失望”：加瓦斯卡、阿什温饰演的甘比尔、吉尔因令人震惊的电话而引发愤怒",
+      "summary_zh": "随着拉维钱德兰·阿什温 (Ravichandran Ashwin) 加入板球联谊会，苏尼尔·加瓦斯卡 (Sunil Gavaskar) 引发了愤怒，球迷们对高塔姆·甘比尔 (Gautam Gambhir) 和舒布曼·吉尔 (Shubman Gill) 将穆罕默德·西拉吉 (Mohammed Siraj) 从比赛阵容中剔除的决定进行了猛烈抨击。 , 板球, 时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/mohammed-siraj-has-never-let-india-down-sunil-gavaskar-ravichandran-ashwin-lead-outrage-as-gambhir-gill-face-heat-over-shocking-call-article-156535236",
+      "source": "Times Now Viral"
+    }
+  ]
 }
