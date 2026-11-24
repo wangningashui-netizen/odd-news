@@ -62,7 +62,7 @@ X 条目另外有：中文标题和概要、原文全文、图片、评论区长
 
 `https://wangningashui-netizen.github.io/odd-news/data/untranslated/latest.json`
 
-字段是 `id`、`title_en`、`summary_en`、当前的 `title_zh` / `summary_zh`，另外有 `url` 和 `source`。把译好的结果提交到 `data/translations/YYYY-MM-DD.json`：
+字段是 `id`、`title_en`、`summary_en`、当前的 `title_zh` / `summary_zh`，另外有 `url` 和 `source`。同一次抓取还会重写最近 7 天的 `data/untranslated/YYYY-MM-DD.json`：仍有 `fallback` 或 `pending` 的日期写入这些条目，已经没有待译条目的日期写成空列表。`latest.json` 仍然只放最新一天，路径和字段不变。把译好的结果提交到 `data/translations/YYYY-MM-DD.json`：
 
 ```json
 {
