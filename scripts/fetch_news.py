@@ -61,6 +61,14 @@ MODELS_URL = os.environ.get(
 )
 MODELS_MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
 RETRY_DAYS = 7
+# Google Translate answers 429 in bursts. Retry those, and transient 5xx, with
+# exponential backoff. Sleep is capped per request and across one fallback pass
+# so a daily run cannot sit in retry forever.
+TRANSLATE_RETRY_STATUSES = {429, 500, 502, 503, 504}
+TRANSLATE_BACKOFF_BASE = 1.0
+TRANSLATE_BACKOFF_CAP = 16.0
+TRANSLATE_MAX_RETRIES = 5
+TRANSLATE_WAIT_BUDGET = 90.0
 META_LIMIT = 1500
 TRANSLATE_SEP = "<|/>"
 MEGATHREAD_RE = re.compile(
@@ -859,6 +867,14 @@ def post_json(url: str, payload: dict, headers: dict, timeout: int = 60) -> tupl
 
 
 def probe_models() -> bool:
+    """Return True only when the endpoint actually returns a chat completion.
+
+    GitHub Models was retired on 2026-07-30. ``models.github.ai`` still answers
+    HTTP 200 with ``Content-Type: text/plain`` and a body of ``OK``. That is
+    not a completion, and a status code alone must not enable the model path.
+    A real OpenAI-compatible ``MODELS_API_URL`` that returns JSON with
+    ``choices`` still enables it.
+    """
     token = models_token()
     if not token:
         log("GitHub Models skipped: no token in the environment")
@@ -884,6 +900,14 @@ def probe_models() -> bool:
     if status == 200 and stripped.startswith("{") and "choices" in stripped:
         log(f"GitHub Models reachable with model {MODELS_MODEL}")
         return True
+    if status == 200 and not stripped.startswith("{"):
+        log(
+            "GitHub Models probe got HTTP 200 but not a chat completion "
+            f"(content-type {ctype or 'unknown'}, body {stripped[:80]!r}). "
+            "The retired models.github.ai endpoint answers this way. "
+            "Skipping the model path."
+        )
+        return False
     log(
         "GitHub Models unavailable "
         f"(HTTP {status}, content-type {ctype or 'unknown'}, body {stripped[:80]!r})"
@@ -948,16 +972,32 @@ def model_translate(batch: list[dict]) -> dict[str, tuple[str, str]]:
     return found
 
 
-def gtranslate_many(texts: list[str]) -> list[str]:
-    if not texts:
-        return []
+class TranslateBudget:
+    """Caps how long one machine-translation pass may sleep on retries."""
+
+    def __init__(self, seconds: float = TRANSLATE_WAIT_BUDGET) -> None:
+        self.left = float(seconds)
+        self.exhausted = False
+
+    def wait(self, delay: float, sleep) -> bool:
+        if self.exhausted or delay > self.left:
+            self.exhausted = True
+            return False
+        sleep(delay)
+        self.left -= delay
+        if self.left <= 0:
+            self.exhausted = True
+        return True
+
+
+def _gtranslate_once(texts: list[str], urlopen) -> list[str]:
     payload = f"\n{TRANSLATE_SEP}\n".join(texts)
     url = (
         "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q="
         + urllib.parse.quote(payload)
     )
     request = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
-    with urllib.request.urlopen(request, timeout=30, context=SSL_CTX) as response:
+    with urlopen(request, timeout=30, context=SSL_CTX) as response:
         body = response.read().decode("utf-8", "replace")
     data = json.loads(body)
     joined = "".join(part[0] for part in data[0] if part and part[0])
@@ -967,57 +1007,121 @@ def gtranslate_many(texts: list[str]) -> list[str]:
     return parts
 
 
-def fallback_translate(items: list[dict]) -> None:
+def gtranslate_many(
+    texts: list[str],
+    *,
+    budget: TranslateBudget | None = None,
+    urlopen=None,
+    sleep=None,
+) -> list[str]:
+    """Translate ``texts`` in one request.
+
+    HTTP 429 and transient 5xx are retried with exponential backoff. The sleep
+    is bounded by ``TRANSLATE_MAX_RETRIES`` and, when ``budget`` is set, by the
+    remaining wait budget for the whole pass.
+    """
+    if not texts:
+        return []
+    opener = urlopen or urllib.request.urlopen
+    sleeper = sleep or time.sleep
+    delay = TRANSLATE_BACKOFF_BASE
+    retries = 0
+    while True:
+        try:
+            return _gtranslate_once(texts, opener)
+        except urllib.error.HTTPError as exc:
+            if exc.code not in TRANSLATE_RETRY_STATUSES or retries >= TRANSLATE_MAX_RETRIES:
+                raise
+            if budget is not None and (budget.exhausted or delay > budget.left):
+                budget.exhausted = True
+                log(f"  translate HTTP {exc.code}; wait budget spent, not retrying")
+                raise
+            log(f"  translate HTTP {exc.code}, retrying in {delay:.0f}s")
+            if budget is not None:
+                budget.wait(delay, sleeper)
+            else:
+                sleeper(delay)
+            retries += 1
+            delay = min(delay * 2, TRANSLATE_BACKOFF_CAP)
+
+
+def _store_machine(item: dict, title_zh: str, summary_zh: str) -> bool:
+    title_zh = clean_text(title_zh)
+    summary_zh = clean_text(summary_zh)
+    if not has_cjk(title_zh):
+        return False
+    if not has_cjk(summary_zh):
+        summary_zh = title_zh
+    item["title_zh"] = title_zh[:180]
+    item["summary_zh"] = summary_zh[:600]
+    item["translation_status"] = "fallback"
+    return True
+
+
+def _fallback_texts(item: dict) -> tuple[str, str]:
+    title = (item.get("title_en") or "").replace(TRANSLATE_SEP, "")[:240]
+    summary = (item.get("summary_en") or "").replace(TRANSLATE_SEP, "")[:480]
+    return title, (summary or title)[:480]
+
+
+def fallback_translate(
+    items: list[dict],
+    *,
+    budget: TranslateBudget | None = None,
+    urlopen=None,
+    sleep=None,
+) -> None:
     queue = [item for item in items if item.get("translation_status") == "pending" or not item.get("title_zh")]
     if not queue:
         return
     log(f"fallback translation for {len(queue)} items")
+    budget = budget or TranslateBudget()
+    sleeper = sleep or time.sleep
     cursor = 0
     done = 0
     while cursor < len(queue):
+        if budget.exhausted:
+            log("  fallback wait budget spent; leaving remaining items pending")
+            break
         batch: list[dict] = []
         texts: list[str] = []
         size = 0
         while cursor < len(queue) and len(batch) < 8:
             item = queue[cursor]
-            title = (item.get("title_en") or "").replace(TRANSLATE_SEP, "")
-            summary = (item.get("summary_en") or "").replace(TRANSLATE_SEP, "")
+            title, summary = _fallback_texts(item)
             piece = len(title) + len(summary)
             if batch and size + piece > 2200:
                 break
             batch.append(item)
-            texts.append(title[:240])
-            texts.append((summary or title)[:480])
+            texts.append(title)
+            texts.append(summary)
             size += piece
             cursor += 1
         try:
-            translated = gtranslate_many(texts)
+            translated = gtranslate_many(texts, budget=budget, urlopen=urlopen, sleep=sleep)
         except Exception as exc:  # noqa: BLE001
             log(f"  fallback batch failed ({exc}); trying one by one")
-            translated = []
-            ok = True
-            for text in texts:
+            for item in batch:
+                if budget.exhausted:
+                    break
+                title, summary = _fallback_texts(item)
                 try:
-                    translated.extend(gtranslate_many([text]))
-                    time.sleep(0.15)
+                    parts = gtranslate_many(
+                        [title, summary], budget=budget, urlopen=urlopen, sleep=sleep
+                    )
                 except Exception as inner:  # noqa: BLE001
                     log(f"  fallback item failed: {inner}")
-                    ok = False
-                    break
-            if not ok:
-                continue
-        for index, item in enumerate(batch):
-            title_zh = clean_text(translated[index * 2])
-            summary_zh = clean_text(translated[index * 2 + 1])
-            if not has_cjk(title_zh):
-                continue
-            if not has_cjk(summary_zh):
-                summary_zh = title_zh
-            item["title_zh"] = title_zh[:180]
-            item["summary_zh"] = summary_zh[:600]
-            item["translation_status"] = "fallback"
-            done += 1
-        time.sleep(0.25)
+                    continue
+                if _store_machine(item, parts[0], parts[1]):
+                    done += 1
+            if budget.exhausted:
+                log("  fallback wait budget spent; leaving remaining items pending")
+                break
+        else:
+            for index, item in enumerate(batch):
+                if _store_machine(item, translated[index * 2], translated[index * 2 + 1]):
+                    done += 1
+        sleeper(0.25)
     log(f"  fallback translated {done}")
 
 
@@ -1076,12 +1180,14 @@ def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> 
                     break
             time.sleep(1.5)
     if use_fallback:
+        budget = TranslateBudget()
         fallback_translate(
             [
                 item
                 for item in items
                 if item.get("translation_status") not in {"ok", "ai"} and not item.get("title_zh")
-            ]
+            ],
+            budget=budget,
         )
         translate_summaries_only(
             [
@@ -1091,19 +1197,41 @@ def translate_items(items: list[dict], use_models: bool, use_fallback: bool) -> 
                 and item.get("summary_en")
                 and not item.get("summary_zh")
                 and item.get("translation_status") not in {"ok", "ai"}
-            ]
+            ],
+            budget=budget,
         )
 
 
-def translate_summaries_only(items: list[dict]) -> None:
+def _store_excerpt(item: dict, summary_zh: str) -> bool:
+    summary_zh = clean_text(summary_zh)
+    if not has_cjk(summary_zh):
+        return False
+    item["summary_zh"] = summary_zh[:600]
+    if item.get("translation_status") == "pending":
+        item["translation_status"] = "fallback"
+    return True
+
+
+def translate_summaries_only(
+    items: list[dict],
+    *,
+    budget: TranslateBudget | None = None,
+    urlopen=None,
+    sleep=None,
+) -> None:
     """Fill summary_zh for items that already have a Chinese title and a new English excerpt."""
     queue = [item for item in items if (item.get("summary_en") or "").strip() and not item.get("summary_zh")]
     if not queue:
         return
     log(f"translate new excerpts for {len(queue)} items")
+    budget = budget or TranslateBudget()
+    sleeper = sleep or time.sleep
     cursor = 0
     done = 0
     while cursor < len(queue):
+        if budget.exhausted:
+            log("  excerpt wait budget spent; leaving remaining summaries pending")
+            break
         batch: list[dict] = []
         texts: list[str] = []
         size = 0
@@ -1117,19 +1245,27 @@ def translate_summaries_only(items: list[dict]) -> None:
             size += len(text)
             cursor += 1
         try:
-            translated = gtranslate_many(texts)
+            translated = gtranslate_many(texts, budget=budget, urlopen=urlopen, sleep=sleep)
         except Exception as exc:  # noqa: BLE001
-            log(f"  excerpt batch failed ({exc})")
-            continue
-        for item, summary_zh in zip(batch, translated):
-            summary_zh = clean_text(summary_zh)
-            if not has_cjk(summary_zh):
-                continue
-            item["summary_zh"] = summary_zh[:600]
-            if item.get("translation_status") == "pending":
-                item["translation_status"] = "fallback"
-            done += 1
-        time.sleep(0.25)
+            log(f"  excerpt batch failed ({exc}); trying one by one")
+            for item, text in zip(batch, texts):
+                if budget.exhausted:
+                    break
+                try:
+                    summary_zh = gtranslate_many([text], budget=budget, urlopen=urlopen, sleep=sleep)[0]
+                except Exception as inner:  # noqa: BLE001
+                    log(f"  excerpt item failed: {inner}")
+                    continue
+                if _store_excerpt(item, summary_zh):
+                    done += 1
+            if budget.exhausted:
+                log("  excerpt wait budget spent; leaving remaining summaries pending")
+                break
+        else:
+            for item, summary_zh in zip(batch, translated):
+                if _store_excerpt(item, summary_zh):
+                    done += 1
+        sleeper(0.25)
     log(f"  excerpts translated {done}")
 
 
