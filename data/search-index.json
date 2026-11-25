@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T06:39:06+08:00",
+  "updated_at": "2026-11-25T13:35:48+08:00",
   "tags": [
     "街头食物",
     "卫生环境",
@@ -22,7 +22,7 @@
   "months": [
     {
       "month": "2026-11",
-      "count": 2777,
+      "count": 2895,
       "file": "data/search/2026-11.json"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "month": "2026-08",
-      "count": 4,
+      "count": 5,
       "file": "data/search/2026-08.json"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "month": "2025-11",
-      "count": 5,
+      "count": 6,
       "file": "data/search/2025-11.json"
     },
     {
@@ -97,12 +97,12 @@
     },
     {
       "month": "2025-08",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2025-08.json"
     },
     {
       "month": "2025-07",
-      "count": 6,
+      "count": 7,
       "file": "data/search/2025-07.json"
     },
     {
@@ -126,6 +126,11 @@
       "file": "data/search/2025-01.json"
     },
     {
+      "month": "2024-12",
+      "count": 1,
+      "file": "data/search/2024-12.json"
+    },
+    {
       "month": "2024-11",
       "count": 1,
       "file": "data/search/2024-11.json"
@@ -137,7 +142,7 @@
     },
     {
       "month": "2024-09",
-      "count": 2,
+      "count": 4,
       "file": "data/search/2024-09.json"
     },
     {
@@ -157,7 +162,7 @@
     },
     {
       "month": "2024-03",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2024-03.json"
     },
     {
@@ -182,7 +187,7 @@
     },
     {
       "month": "2023-10",
-      "count": 2,
+      "count": 3,
       "file": "data/search/2023-10.json"
     },
     {
@@ -197,7 +202,7 @@
     },
     {
       "month": "2023-07",
-      "count": 1,
+      "count": 2,
       "file": "data/search/2023-07.json"
     },
     {

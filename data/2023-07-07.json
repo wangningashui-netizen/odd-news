@@ -1,0 +1,32 @@
+{
+  "date": "2023-07-07",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "08d498f69d521eb0",
+      "url": "https://www.news18.com/viral/employee-catches-manager-watching-lust-stories-2-during-office-video-call-screenshot-goes-viral-8273335.html",
+      "title_en": "Employee Catches Manager Watching 'Lust Stories 2' During Office Video Call, Screenshot Goes Viral",
+      "title_zh": null,
+      "summary_en": "Woman shares how she caught her manager watching 'Lust Stories 2' after he forgot to stop sharing his screen on Google Meet.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/07/untitled-31-168871291116x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-07-07T14:58:16+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "08d498f69d521eb0",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,7 +1,29 @@
 {
   "month": "2026-08",
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "id": "8cadb489b5bd6482",
+      "date": "2026-08-30",
+      "published_at": "2026-08-30T13:00:35+08:00",
+      "title_zh": null,
+      "title_en": "‘How Do You Guys Manage Life?’: Kolkata Techie With ₹1-2 LPA Salary Seeks Advice, Reddit Responds",
+      "summary_zh": null,
+      "summary_en": "A Reddit post by an employee earning ₹1-2 LPA has sparked a discussion about surviving on a low salary, career growth, upskilling and the struggle to save money",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/Untitled-design-31-2026-08-bba37cbc43ef17b96d9df2e58f2c14f3-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/how-do-you-guys-manage-life-kolkata-techie-with-1-2-lpa-salary-seeks-advice-reddit-responds-ws-l-10300232.html",
+      "translation_status": "pending",
+      "cluster_id": "8cadb489b5bd6482",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "12ce5fa95061a5c9",
       "date": "2026-08-26",

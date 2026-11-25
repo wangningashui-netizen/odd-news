@@ -1,0 +1,32 @@
+{
+  "date": "2024-12-24",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "3e238399297325b8",
+      "url": "https://www.news18.com/viral/meet-tania-sachdev-the-woman-grandmaster-who-criticised-delhi-government-aa-9166656.html",
+      "title_en": "Meet Tania Sachdev, The Woman Grandmaster Who Criticised Delhi Government",
+      "title_zh": null,
+      "summary_en": "Tania Sachdev felt the Delhi government might have overlooked her historic achievement at the 2024 Chess Olympiad.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/12/news18-14-2024-12-86e904c19ad29d446dbc837fb71cd8eb-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-12-24T16:23:39+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3e238399297325b8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

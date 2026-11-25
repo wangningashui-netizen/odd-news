@@ -1,6 +1,6 @@
 {
   "month": "2025-07",
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "id": "49b855011a8ebf7e",
@@ -63,6 +63,28 @@
       "url": "https://www.news18.com/viral/why-do-indians-hang-lemon-and-chilies-outside-shops-its-more-than-just-nazar-ws-l-9443312.html",
       "translation_status": "fallback",
       "cluster_id": "f2aca41d2b5a4c42",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "24912399e3f2e08f",
+      "date": "2025-07-10",
+      "published_at": "2025-07-10T11:02:53+08:00",
+      "title_zh": null,
+      "title_en": "This Tree In Delhi’s Dwarka Sector 9 Is ‘Haunted’. Beneath Its Concrete Base Lies A Buried...",
+      "summary_zh": null,
+      "summary_en": "We stumbled upon a viral video of a haunted tree in Dwarka, Delhi, which is associated with several spooky stories",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-09T195558.689-2025-07-bb7f38070ca71968d3a061106b8f9789-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/delhi-dwarka-sector-9-haunted-tree-beneath-lies-buried-baoli-know-spooky-history-ws-l-aa-aa-9430880.html",
+      "translation_status": "pending",
+      "cluster_id": "24912399e3f2e08f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

@@ -1,6 +1,6 @@
 {
   "month": "2025-08",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "d6ac1667a6764ed4",
@@ -19,6 +19,29 @@
       "url": "https://www.news18.com/viral/us-man-calls-ganesh-chaturthi-celebration-a-public-nuisance-internet-asks-are-they-in-borivali-aa-ws-l-9535550.html",
       "translation_status": "fallback",
       "cluster_id": "d6ac1667a6764ed4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9ce5795f22d75ba7",
+      "date": "2025-08-05",
+      "published_at": "2025-08-05T11:01:49+08:00",
+      "title_zh": null,
+      "title_en": "More Trouble For Aniruddhacharya? Viral Video Of His ‘Father’ Being ‘Mistreated’ | What’s The Truth?",
+      "summary_zh": null,
+      "summary_en": "Ram Naresh Tiwari has alleged mistreatment by staff members and has appealed to PM Modi, UP CM Yogi Adityanath, and the Mathura administration for assistance.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/08/news18-5-2025-08-05c82b8cbfaba07f699c783e510f8971-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/fact-check-viral-video-of-aniruddhacharya-father-being-mistreated-in-vrindavan-aa-9484694.html",
+      "translation_status": "pending",
+      "cluster_id": "9ce5795f22d75ba7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

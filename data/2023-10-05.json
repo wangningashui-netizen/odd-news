@@ -1,0 +1,33 @@
+{
+  "date": "2023-10-05",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "64391de805368348",
+      "url": "https://www.news18.com/viral/100-year-old-retired-lt-general-dancing-on-his-birthday-party-has-army-officers-saluting-his-josh-8603902.html",
+      "title_en": "100-year-old Retired Lt General Dancing On His Birthday Party Has Army Officers Saluting His 'Josh'",
+      "title_zh": null,
+      "summary_en": "Viral videos of Lt. Gen SN 'Tindi' Sharma showcasing his impressive dance on his 100th birthday has internet in complete awe.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/10/untitled-2023-10-05t125917.018-2023-10-af0ae1d9fa5aee12374fe5dd01d7b779-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-10-05T15:35:22+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "64391de805368348",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

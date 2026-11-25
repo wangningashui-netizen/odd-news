@@ -1,0 +1,32 @@
+{
+  "date": "2024-03-02",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "e19c524a91835975",
+      "url": "https://www.news18.com/viral/watch-men-digging-earth-find-dozens-of-turtles-hibernating-8800345.html",
+      "title_en": "Watch: Men Digging Earth Find Dozens Of Turtles Hibernating",
+      "title_zh": null,
+      "summary_en": "In the video, the shells enclosing the bodies of the turtles are the only visible part, making them look like one big organism.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/03/image-33-2024-03-b2127861cb1affb093f938a8a858906e-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-03-02T13:24:32+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e19c524a91835975",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

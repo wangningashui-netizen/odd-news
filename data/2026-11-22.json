@@ -538,8 +538,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "287a469345dac065",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "2b87d6d2518d4078",
@@ -1247,8 +1247,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ea5f02ff429042a8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "5733e883328343e7",

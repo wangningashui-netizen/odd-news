@@ -1,0 +1,32 @@
+{
+  "date": "2024-09-05",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "bb4ab5d1bc586825",
+      "url": "https://www.news18.com/viral/bengaluru-auto-driver-slaps-woman-after-she-cancels-ola-ride-internet-calls-for-his-arrest-9039980.html",
+      "title_en": "'Does Your Father Pay For Gas?' Bengaluru Auto Driver Slaps Woman For Cancelling Ola Ride, Video Goes Viral",
+      "title_zh": null,
+      "summary_en": "Bengaluru: An Ola auto driver slapped and abused a woman after she cancelled ride and boarded another auto.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/09/bengaluru-ola-auto-driver-slaps-woman-viral-video-2024-09-b7b396db76fa7e7a2b24755c0bdf5bf2-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-09-05T17:06:11+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bb4ab5d1bc586825",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

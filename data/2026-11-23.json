@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "timezone": "Asia/Shanghai",
-  "count": 111,
+  "count": 112,
   "items": [
     {
       "id": "fa99e38a84cd39b9",
@@ -536,8 +536,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2efaec33b1129309",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_item_count": 4,
+      "cluster_source_count": 3
     },
     {
       "id": "a60f69c8a62499d3",
@@ -565,6 +565,32 @@
       "cluster_source_count": 1
     },
     {
+      "id": "04c000e895076de1",
+      "url": "https://www.timesnownews.com/kolkata/howrah-shoe-theft-rs-1-2-lakh-happy-garden-society-article-156555593",
+      "title_en": "40 Families, 1 Thief, Rs 1.2 Lakh In Shoes: Howrah's Bizarre Theft",
+      "title_zh": null,
+      "summary_en": "A thief broke into a Howrah housing society and stole shoes and slippers worth Rs 1.2 lakh from around 40 families. CCTV footage captures the theft., Kolkata News, Times Now",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.timesnownews.com/thumb/msid-156558664,thumbsize-75701,width-1280,height-720,resizemode-75/156558664.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-23T22:28:42+08:00",
+      "fetched_at": "2026-11-25T13:20:21+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "04c000e895076de1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "2efaec33b1129309",
       "url": "https://www.timesnownews.com/technology-science/jensen-huang-returns-as-nvidia-ceo-just-11-days-after-resigning-here-is-what-company-said-article-156555541",
       "title_en": "Jensen Huang Returns As Nvidia CEO Just 11 Days After Resigning: Here Is What Company Said",
@@ -586,8 +612,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2efaec33b1129309",
-      "cluster_item_count": 2,
-      "cluster_source_count": 1
+      "cluster_item_count": 4,
+      "cluster_source_count": 3
     },
     {
       "id": "d0449782119dea8b",
@@ -661,8 +687,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "49b55e9f79e218da",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 4,
+      "cluster_source_count": 4
     },
     {
       "id": "6e1a28d2c0f99e80",
@@ -822,8 +848,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "73a7aa13aa910c38",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "bf653ebdc2e819be",
@@ -921,8 +947,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "9833d917c459d1f9",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "dc9a4e4e3fe5e003",
@@ -1479,8 +1505,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "3d4a8ce59fd7a7eb",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "485d5a4518272ef7",
@@ -3369,7 +3395,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "b3b6704b8a8a448e",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {

@@ -1,6 +1,6 @@
 {
   "month": "2023-07",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "d364d0bb5ea068af",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/puneet-superstars-instagram-account-gets-disabled-fans-cant-stop-sharing-memes-in-frustration-8447017.html",
       "translation_status": "fallback",
       "cluster_id": "d364d0bb5ea068af",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "08d498f69d521eb0",
+      "date": "2023-07-07",
+      "published_at": "2023-07-07T14:58:16+08:00",
+      "title_zh": null,
+      "title_en": "Employee Catches Manager Watching 'Lust Stories 2' During Office Video Call, Screenshot Goes Viral",
+      "summary_zh": null,
+      "summary_en": "Woman shares how she caught her manager watching 'Lust Stories 2' after he forgot to stop sharing his screen on Google Meet.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/07/untitled-31-168871291116x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/employee-catches-manager-watching-lust-stories-2-during-office-video-call-screenshot-goes-viral-8273335.html",
+      "translation_status": "pending",
+      "cluster_id": "08d498f69d521eb0",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

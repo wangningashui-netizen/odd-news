@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "id": "3a97f39e645fa3b7",
@@ -63,6 +63,28 @@
       "url": "https://www.news18.com/viral/mumbai-central-station-john-abraham-shooting-cop-drama-police-uniform-bollywood-fans-video-aa-ws-l-9729876.html",
       "translation_status": "fallback",
       "cluster_id": "7f738a32576b0458",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "121f462468485ba7",
+      "date": "2025-11-23",
+      "published_at": "2025-11-23T02:21:21+08:00",
+      "title_zh": null,
+      "title_en": "‘Leaving City Tomorrow’: Startup Founder Cuts Delhi Visit Short, Says He Could ‘Smell’ Pollution",
+      "summary_zh": null,
+      "summary_en": "Tech founder, Kunal Kushwaha, who lives in London, said he could \"smell and taste\" pollution in Delhi. He urged people to \"leave the city\".",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/Untitled-design-2025-11-22T233504.395-2025-11-6567bc1759b7d526d1346ee6668c8006-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "商业套路"
+      ],
+      "url": "https://www.news18.com/viral/leaving-city-tomorrow-startup-founder-cuts-delhi-visit-short-says-he-could-smell-pollution-ws-l-9725671.html",
+      "translation_status": "pending",
+      "cluster_id": "121f462468485ba7",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

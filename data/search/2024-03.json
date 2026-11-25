@@ -1,6 +1,6 @@
 {
   "month": "2024-03",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "997cf096dc9f8854",
@@ -43,6 +43,28 @@
       "url": "https://www.news18.com/viral/second-marriage-without-divorce-means-no-pension-for-railway-employees-board-8805281.html",
       "translation_status": "fallback",
       "cluster_id": "57d81430e6825547",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e19c524a91835975",
+      "date": "2024-03-02",
+      "published_at": "2024-03-02T13:24:32+08:00",
+      "title_zh": null,
+      "title_en": "Watch: Men Digging Earth Find Dozens Of Turtles Hibernating",
+      "summary_zh": null,
+      "summary_en": "In the video, the shells enclosing the bodies of the turtles are the only visible part, making them look like one big organism.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/03/image-33-2024-03-b2127861cb1affb093f938a8a858906e-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/watch-men-digging-earth-find-dozens-of-turtles-hibernating-8800345.html",
+      "translation_status": "pending",
+      "cluster_id": "e19c524a91835975",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

@@ -1,4 +1,755 @@
 {
   "date": "2026-11-24",
-  "items": []
+  "items": [
+    {
+      "id": "0864ac539b5e3cfe",
+      "title_en": "Indian expats carry 30-metre UAE flag at Dubai Run, feature in Crown Prince's video",
+      "summary_en": "A group of Indian expats from Karnataka carried a massive UAE flag at Dubai Run, earning a spot in the Crown Prince's video.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/indian-expats-carry-30-metre-uae-flag-at-dubai-run-feature-in-crown-princes-video-101795511033887.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "3f57abcb6246b38f",
+      "title_en": "Divorced Japanese couple remarries each other in Lucknow temple: ‘It was a very precious experience’",
+      "summary_en": "The husband, Hiro Chihara, said that he and his wife divorced in 2022 and have now remarried at the Radha-Krishna Temple in Uttar Pradesh's Gomti Nagar.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/divorced-japanese-couple-remarries-each-other-in-lucknow-temple-it-was-a-very-precious-experience-101795506714087.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "579bfef036cdc596",
+      "title_en": "Watch | China’s ‘wingless flying car’ hovers, manoeuvres and lands smoothly in maiden test flight",
+      "summary_en": "Chinese Ambassador to India Xu Feihong shared the video of the ‘flying car’ on social media.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/watch-china-s-wingless-flying-car-hovers-maneuvers-and-lands-smoothly-in-maiden-test-flight-101795503749952.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "a585337dc40e2898",
+      "title_en": "Bengaluru airport denies maggots in lounge food, says sprouted lentils were mistaken for worms",
+      "summary_en": "Bengaluru’s Kempegowda International Airport (KIA) has dismissed a customer’s complaint about finding “maggots” in dal served at the 080 International Lounge.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/bengaluru-airport-denies-maggots-in-lounge-food-says-sprouted-lentils-were-mistaken-for-worms-101795511803940.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "a6164bcfe2dd5661",
+      "title_en": "‘When elephants dance, everyone moves to give space’: Uday Kotak on Jensen Huang’s return as Nvidia CEO",
+      "summary_en": "Uday Kotak described Jensen Huang's return as Nvidia CEO as one of the most consequential decisions in the history of global markets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/when-elephants-dance-everyone-moves-to-give-space-uday-kotak-on-jensen-huang-s-return-as-nvidia-ceo-101795529089683.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "ac899d1fe7f2081b",
+      "title_en": "Indian professor who cracked a decades-old maths puzzle earns TIME recognition",
+      "summary_en": "Indian professor Neena Gupta made it to the TIME100 Next India list for her groundbreaking research in mathematics.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/indian-professor-who-cracked-a-decades-old-maths-puzzle-earns-time-recognition-101795516929673.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "e6fd528f1afb9d2d",
+      "title_en": "Nvidia employee who quit over Jensen Huang’s exit says he’s open to returning",
+      "summary_en": "Darrell Dai, who resigned after Nvidia accepted Jensen Huang’s departure, says he may have acted too quickly and is open to returning.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/nvidia-employee-who-quit-over-jensen-huang-s-exit-says-he-s-open-to-returning-101795504389647.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "f9b92bec2fa31d7a",
+      "title_en": "‘Asambhav, asambhav’: Memes flood X as Vaibhav Sooryavanshi smashes fastest List A double century",
+      "summary_en": "Vaibhav Sooryavanshi's record-breaking double century in List A cricket sparked a wave of hilarious memes on X.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/asambhav-asambhav-memes-flood-x-as-vaibhav-sooryavanshi-smashes-fastest-list-a-double-century-101795523919435.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "fce56b228054356f",
+      "title_en": "LinkedIn CEO says job market is ‘frozen’, but Gen Z may have an unexpected AI advantage",
+      "summary_en": "LinkedIn CEO Daniel Shapero said the frozen job market could give Gen Z an unexpected advantage due to AI familiarity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.hindustantimes.com/trending/linkedin-ceo-says-job-market-is-frozen-but-gen-z-may-have-an-unexpected-ai-advantage-101795506701170.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "19d755cb2bbe0e13",
+      "title_en": "Bengaluru couple shares detailed expenses of moving into a new 3BHK apartment",
+      "summary_en": "A Bengaluru couple shared a detailed breakdown of moving into a new 3BHK apartment. Their expenses show how deposits, brokerage and interstate furniture transport increased costs.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-couple-shares-detailed-expenses-of-moving-into-a-new-3bhk-apartment-3045815-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "2c62f1a2d728a749",
+      "title_en": "IIT graduate earning Rs 1.27 crore has an unusual requirement for his future wife",
+      "summary_en": "A man earning Rs 1.27 crore asked KnotDating to find a wife whose journey ran from a small town to metropolitan success. His Two Nation Theory sparked debate over whether shared experiences matter more than income or status.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/iit-graduate-earning-rs-127-crore-has-an-unusual-requirement-for-his-future-wife-3045945-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "300e5b54cd954eb8",
+      "title_en": "Back as Nvidia CEO, Jensen Huang hands out mini sandwiches to cheering employees",
+      "summary_en": "Jensen Huang returned as Nvidia's chief executive 11 days after resigning and handed employees mini sandwiches. The comeback followed public pressure, board reconsideration and input from senior US government officials.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/back-as-nvidia-ceo-jensen-huang-hands-out-mini-sandwiches-to-cheering-employees-3045840-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "848942cc160a32f4",
+      "title_en": "Who is the man behind the viral Saajan Saajan Batman trend taking over Instagram",
+      "summary_en": "Batman edits set to Madhuri Dixit’s ‘Saajan Saajan’ have taken over Instagram, but who is the creator behind the bizarrely brilliant trend? Meet the Indian filmmaker and AI creator who put the Dark Knight into this unexpected Bollywood world.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/who-is-the-man-behind-the-viral-saajan-saajan-batman-trend-taking-over-instagram-3045702-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "9c13d042a2670298",
+      "title_en": "Man gets confirmed seat no. 54 ticket, finds coach has only 52 berths. Railways reacts",
+      "summary_en": "A man was allotted seat number 54 on his train, only to discover that his coach had just 52 berths. The bizarre mix-up left him looking for answers, and the Railways has now responded to his complaint.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/man-gets-confirmed-seat-no-54-ticket-finds-coach-has-only-52-berths-railways-reacts-3045765-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "e62dbc080b3946d8",
+      "title_en": "Boys caught bunking school to watch India-NZ match say parents found it funny",
+      "summary_en": "Three schoolboys skipping class were spotted by television cameras during the India-New Zealand Test cricket match. Their failed attempt to hide amused commentators, parents and viewers alike.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/boys-caught-bunking-school-to-watch-india-nz-match-say-parents-found-it-funny-3045777-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "e9d7102a091b12ed",
+      "title_en": "Bengaluru man gets QR code for menu despite dead phone, then told to order online",
+      "summary_en": "A Bengaluru diner criticised a restaurant for requiring online ordering when his phone had died. His experience triggered wider concerns about stressful technology and inadequate customer facilities.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-gets-qr-code-for-menu-despite-dead-phone-then-told-to-order-online-3046010-2026-11-24",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "0f1ce663ed84e98e",
+      "title_en": "Desi Batman, 'BhainsMobile' And Madhuri Dixit's 'Saajan Saajan': Instagram Has A New Obsession",
+      "summary_en": "Instead of chasing criminals through the dark streets of Gotham, this Batman finds himself in familiar desi settings, from rural markets and railway tracks to autorickshaws and roadside tea stalls.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.ndtv.com/offbeat/desi-batman-bhainsmobile-and-madhuri-dixits-saajan-saajan-instagram-has-a-new-obsession-12369979",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "856295619f7294a3",
+      "title_en": "Japanese Couple Who Divorced In 2022 Remarry In A Hindu Wedding At Lucknow Temple: \"We Love India\"",
+      "summary_en": "Videos from the wedding show the couple seated together as they exchange flower garlands and participate in the traditional rituals.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.ndtv.com/offbeat/japanese-couple-who-divorced-in-2022-remarry-in-a-hindu-wedding-at-lucknow-temple-we-love-india-12371394",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "8ad1d9fea750850c",
+      "title_en": "Woman Shares 3-Bucket Money Strategy To Manage Spending, Savings And Investments",
+      "summary_en": "According to her, these savings are meant only for difficult situations, such as losing her job or facing a medical emergency in the family.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.ndtv.com/offbeat/woman-shares-3-bucket-money-strategy-to-manage-spending-savings-and-investments-12371435",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "9399d5043bbe95df",
+      "title_en": "Not Money, Not Looks: IIT Graduate Earning Rs 1.27 Crore Has An Unusual Demand For His Bride",
+      "summary_en": "According to Singh, the client eventually explained what he was looking for. He wanted a woman who had grown up in a small town, moved to a big city and made a successful career for herself.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.ndtv.com/offbeat/not-money-or-looks-iit-graduate-earning-rs-1-27-crore-has-an-unusual-demand-for-his-bride-12370947",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "aa155ae7498cd5fb",
+      "title_en": "Internet Celebrates As Vaibhav Sooryavanshi Smashes Fastest Double Century In List A Cricket",
+      "summary_en": "These memes and videos reflected the excitement among cricket fans following the teenager's remarkable innings.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.ndtv.com/offbeat/internet-celebrates-as-vaibhav-sooryavanshi-smashes-fastest-double-century-in-list-a-cricket-12372004",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "ebc277a148aa89d8",
+      "title_en": "Gurpurab 2026: 15 Timeless Teachings And Inspirational Quotes By Guru Nanak Dev",
+      "summary_en": "Guru Nanak Jayanti 2026: Though centuries old, his message remains deeply relevant today, continuing to inspire millions with its principles of humility, compassion, and unity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.ndtv.com/offbeat/guru-nanak-jayanti-2026-15-timeless-teachings-and-inspirational-quotes-by-guru-nanak-dev-12369550",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "0423b1e25ee98c2c",
+      "title_en": "Former Nvidia Engineer’s X Post Goes Viral After Jensen Huang Returns As CEO: ‘Open To Exploring The Possib",
+      "summary_en": "A man who quit after Jensen Huang stepped down is now open to returning following the CEO's reinstatement. However, he says he wants time to reflect before making his next move.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/former-nvidia-engineers-x-post-goes-viral-after-jensen-huang-returns-as-ceo-open-to-exploring-the-possibility-of-ws-l-10438929.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "067143579934fbe6",
+      "title_en": "Goa Airbnb Owner Charges ₹15,000 Per Night, Asks Guests To Mop Floors And Wash Dishes",
+      "summary_en": "A Goa Airbnb host charging 15,000 per night sparked a debate online after listing strict rules, including chores, Wi-Fi fees, and dog-walking duties.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/goa-airbnb-owner-charges-rs-15000-per-night-asks-guests-to-mop-floors-and-wash-dishes-ws-el-10438417.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "0c1b38ca4b39cf1f",
+      "title_en": "Man Says He Bought Rs 85 Lakh BMW Using Credit Cards; Internet Asks: ‘What Do You Do For Living?’",
+      "summary_en": "The individual shared that he used two premium credit cards to make a payment of Rs 85 lakh for a BMW, splitting the payment into Rs 51 lakh from one and Rs 34 lakh on another",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/man-says-he-bought-rs-85-lakh-bmw-using-credit-cards-internet-asks-what-do-you-do-for-living-ws-l-10439085.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "0f637c8e9180e506",
+      "title_en": "'Name A Female CEO Who Got A Second Chance’: After Jensen Huang's Return To Nvidia, X User Questions Gender",
+      "summary_en": "A question about female CEOs who have made major public mistakes and received second chances has triggered a heated debate on X",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/name-a-female-ceo-who-got-a-second-chance-after-jensen-huangs-return-to-nvidia-x-user-questions-gender-disparity-ws-l-10438711.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "18dc1fa96f3efa06",
+      "title_en": "‘Education, Healthcare Are Free’: Indian Man In Norway Compares Tax Benefits With India; Divides Internet",
+      "summary_en": "The man shared that after paying a hefty 47 per cent tax in Norway, the country provides its citizens with free education, healthcare, and financial support during unemployment",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/education-healthcare-are-free-indian-man-in-norway-compares-tax-benefits-with-india-divides-internet-ws-l-10439097.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "1a592926abbab98b",
+      "title_en": "Woman Gets Promoted At Work, But Boss’s Sudden Exit Leaves Her In A Fix, Reddit Shares Advice",
+      "summary_en": "A woman who recently stepped into a managerial role is questioning her career move after her director quit without notice, leaving her to handle unexpected responsibilities.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/woman-gets-promoted-at-work-but-bosss-sudden-exit-leaves-her-in-a-fix-reddit-shares-advice-ws-l-10439083.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "37b826020217c688",
+      "title_en": "Bengaluru Man Shares Frustrating Restaurant Experience Over QR Codes: ‘Don’t Make It Stressful With Half-Ba",
+      "summary_en": "The man expressed his frustration after he was told by a waiter to scan a QR code for the menu and again being informed that they needed to place an order online",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/bengaluru-man-shares-frustrating-restaurant-experience-over-qr-codes-dont-make-it-stressful-with-half-baked-tech-ws-l-10438756.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "384e89f698e8b3fe",
+      "title_en": "Viral Video: Indian Entrepreneur Celebrates Her Roots, Cycles And Runs In Saree In Dubai",
+      "summary_en": "The entrepreneur turned the sporting events into a display of culture and pride, where she not just celebrated her Indian heritage but also expressed gratitude towards the UAE",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/viral-video-indian-entrepreneur-celebrates-her-roots-cycles-and-runs-in-saree-in-dubai-ws-l-10438695.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "39c8f65ca517e7e6",
+      "title_en": "Gen Z Man Dodges $50 Hotel Late Checkout Fee With Clever Trick, Internet Divided",
+      "summary_en": "A woman shared how her 22-year-old brother avoided a fifty dollar hotel late checkout fee by formally checking out early and continuing to use the room until 2 pm.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/gen-z-man-dodges-50-hotel-late-checkout-fee-with-clever-trick-internet-divided-ws-el-10438706.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "53b5225f2698d0c1",
+      "title_en": "Indian Man Warns Of Taxi Scam In Kazakhstan, Says Driver Asked For Around Rs 9,000 For 25 Km Ride",
+      "summary_en": "The man shared that he was aware of such scams by taxi driver, where they say that they would drop at location at lower rates but once they reach, they demand higher fares",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/indian-man-warns-of-taxi-scam-in-kazakhstan-says-driver-asked-for-around-rs-9000-for-25-km-ride-ws-l-10439093.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "57ba64fb4cb68277",
+      "title_en": "Employee Alleges Work Place Bullying, Says Colleagues ‘Ganged Up’ Against Them: ‘Boss Told Her She Could Fi",
+      "summary_en": "The CA firm employee shared that they realised about the toxic workplace culture within two days of joining the firm but thought at least the boss was polite and well-behaved",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/employee-alleges-work-place-bullying-says-colleagues-ganged-up-against-them-boss-told-her-she-could-fire-me-ws-l-10438325.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "6f2dbede9e971931",
+      "title_en": "Bengaluru Cook Earns More Than Fresh Graduates, Man Says: ‘Nobody Calls Her Once She Goes Home At 8 PM’",
+      "summary_en": "The man shared that while her cook earns Rs 40,000 a month in the city, most fresh graduates entering the corporate world in India are offered a salary of Rs 30,000 or below",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/bengaluru-cook-earns-more-than-fresh-graduates-man-says-nobody-calls-her-once-she-goes-home-at-8-pm-ws-l-10438772.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "7523ea6d3ca173bc",
+      "title_en": "Man Calls Gated Communities ‘Expensive Vertical Prisons’, Questions Rs 6,000 Monthly Maintenance | Viral News",
+      "summary_en": "The man questioned the benefits of living in a gated community and the maintenance charges they demand after highlighting issues about visitor parking and gym air conditioning",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/man-calls-gated-communities-expensive-vertical-prisons-questions-rs-6000-monthly-maintenance-ws-l-10439087.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "835fdcfd9ff95021",
+      "title_en": "Reddit User Says Boss Suspected Him Of Working 2 Jobs But Could Not Prove It, Shares What Happened Next",
+      "summary_en": "A Reddit user has shared how he managed two jobs without his boss finding proof, despite repeated absences and suspicious meeting schedules at his workplace.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/reddit-user-says-boss-suspected-him-of-working-2-jobs-but-could-not-prove-it-shares-what-happened-next-ws-l-10438586.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "8dd99a916bb5029a",
+      "title_en": "Jensen Huang Returns As Nvidia CEO, Employee’s Emotional Hug During Speech Wins Attention | Watch",
+      "summary_en": "Nvidia CEO Jensen Huang received an emotional welcome from employees after returning to the company, with one staff member walking up to hug him during his speech.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/jensen-huang-returns-as-nvidia-ceo-employees-emotional-hug-during-speech-wins-attention-watch-ws-l-10438794.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "909d9278f35a7a99",
+      "title_en": "Job Market Remains Tough, But LinkedIn CEO Sees An Edge For Gen Z",
+      "summary_en": "With hiring slowing down and fewer opportunities for fresh graduates, LinkedIn’s CEO believes one growing workplace skill could give Gen Z an unexpected edge.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/job-market-remains-tough-but-linkedin-ceo-sees-an-edge-for-gen-z-ws-l-10439298.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "99aff09484ea48f1",
+      "title_en": "Candidate Rejects Job Offer Twice Over Pay Cut And Unclear Conditions: ‘Definitely Dodged A Bullet'",
+      "summary_en": "The job seeker shared that they had a positive conversation with the CEO, with him even promising an immediate offer letter but the firm kept delaying the letter",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/candidate-rejects-job-offer-twice-over-pay-cut-and-unclear-conditions-definitely-dodged-a-bullet-ws-l-10438525.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "a52af98eaf2d03d1",
+      "title_en": "Anupam Kher Shares Harrowing Flight Experience, Says Plane Had To Divert From Mumbai To Surat: 'I Am A Nerv",
+      "summary_en": "Anupam Kher said this was the fourth time in two years that he had experienced a plane taking off again just as it appeared to be landing in Mumbai.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/anupam-kher-shares-harrowing-flight-experience-says-plane-had-to-divert-from-mumbai-to-surat-i-am-a-nervous-flyer-ws-l-10438643.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "c644e997e5561458",
+      "title_en": "Bengaluru Airport Refutes Maggots Claim In Lounge Food, Says It Was Sprouted Dal",
+      "summary_en": "A passenger’s complaint about finding maggots in food served at Bengaluru airport has drawn a response from officials, who have offered a different explanation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/bengaluru-airport-refutes-maggots-claim-in-lounge-food-says-it-was-sprouted-dal-ws-l-10439179.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "cd3856904cce3df0",
+      "title_en": "Hillary Clinton Calls Jensen Huang's Nvidia Return 'Supergate', Gets Trolled: 'Remember Monica Lewinsky?'",
+      "summary_en": "Hillary Clinton wanted to talk about a scandal involving artificial intelligence, but the internet had a rather different scandal in mind",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/hillary-clinton-calls-jensen-huangs-nvidia-return-supergate-gets-trolled-remember-monica-lewinsky-10438990.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "d9bcbcee45b96af1",
+      "title_en": "₹2.53 Lakh Just To Move In? Bengaluru Couple's 3BHK Expense Breakdown Surprises Internet",
+      "summary_en": "A Bengaluru-based couple spent over two lakh rupees moving into a 3BHK apartment in South Bengaluru, sparking online discussions about high rental and relocation costs.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/2-53-lakh-just-to-move-in-bengaluru-couples-3bhk-expense-breakdown-surprises-internet-ws-l-10438949.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "e7890d96851e605e",
+      "title_en": "Man Misses First Train By 5 Minutes, Reaches Early Next Time But Faces Another Delay: ‘Can’t Win Either Way",
+      "summary_en": "A man’s two attempts to travel from Secunderabad to Ujjain took an unexpected turn, with bad timing and train delays leaving him frustrated on both occasions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/man-misses-first-train-by-5-minutes-reaches-early-next-time-but-faces-another-delay-cant-win-either-way-ws-l-10439246.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "f804718e2973f72d",
+      "title_en": "‘Refer Me For A Job, Get 50K’: Bengaluru Man’s Offer To Recruiters And Employees Gets Attention",
+      "summary_en": "A Bengaluru job seeker has offered Rs 50,000 to anyone who refers him for a Java Backend Developer role, promising to pay after securing the job.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/refer-me-for-a-job-get-50k-bengaluru-mans-offer-to-recruiters-and-employees-gets-attention-ws-l-10438761.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "f96410e2410bef25",
+      "title_en": "Army Soldiers Step In As Father At Late Comrade's Daughter's Wedding in Rajasthan, Gift ₹1.61 Lakh",
+      "summary_en": "Soldiers of the Indian Army's 16th Jat Regiment stepped in to fulfill fatherly duties at the wedding of late Havildar Pappal Singh's daughter Preeti in Alwar, Rajasthan.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.news18.com/viral/army-soldiers-step-in-as-father-at-late-comrades-daughters-wedding-in-rajasthan-gift-1-61-lakh-ws-l-10438755.html",
+      "source": "News18 Viral"
+    },
+    {
+      "id": "139296acff094120",
+      "title_en": "When Hungary's Csárdás Met India's Kathak: An Evening of Harmony and Ecstasy Enthralls Delhiites",
+      "summary_en": "The performance became a living conversation between Hungary’s spirited folk traditions and the refined classical vocabulary of Kathak, as energetic ensemble and couple dances flowed into graceful footwork and intricate rhythms, allowing two distinct movement languages to speak as one.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.republicworld.com/world-news/when-hungary-s-csardas-met-india-s-kathak-an-evening-of-harmony-and-ecstasy-enthralls-delhiites-2026-11-24-141749",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "5ce24da0740dd448",
+      "title_en": "Two Men Arrested Over Suspected Break-in at Prince William, Kate's Country Home: Report",
+      "summary_en": "According to The New York Times, the incident took place on Monday night while the royal couple and their family were away from the property. They were staying at their main residence, Forest Lodge, in Windsor, at the time.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.republicworld.com/world-news/two-men-arrested-over-suspected-break-in-at-prince-william-kate-s-country-home-report-2026-11-24-141774",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "c00915cc01d639dd",
+      "title_en": "UAE: 11 People Killed in Bus-Truck Collision in Ras Al Khaimah",
+      "summary_en": "Upon receiving reports of the accident, emergency response teams reached the location and carried out rescue and emergency medical operations alongside ambulance crews, civil defence teams and relevant authorities, while also securing the site and regulating traffic, the Ministry of Interior said.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.republicworld.com/world-news/uae-11-people-killed-in-bus-truck-collision-in-ras-al-khaimah-2026-11-24-141765",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "c01da6a4720a9d06",
+      "title_en": "At UNSC, India Invokes 1943 Bengal Famine To Warn of Fallout from Ukraine Conflict's Impact on Food",
+      "summary_en": "&quot;The pain & suffering caused by the devastating Bengal famine of 1943 in India that killed over three million people is a stark reminder of the terrible human cost of a distant conflict caused by unchecked wartime priorities & calculations,&quot; India&#39;s Permanent Representative to the UN, P Harish, said",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.republicworld.com/world-news/at-unsc-india-invokes-1943-bengal-famine-to-warn-of-fallout-from-ukraine-conflict-s-impact-on-food-2026-11-24-141770",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "f6f88ffd0410c590",
+      "title_en": "'I'm Going To Be A Better CEO': Jensen Huang Makes Grand Return to Nvidia HQ After 11 Days; Employees Cheer | VIDEO",
+      "summary_en": "Videos circulating on social media showed hundreds of employees gathering at the company&#39;s headquarters to greet Huang. Staff members erupted into cheers and applause, with several employees chanting &quot;Jensen! Jensen! Jensen!&quot; as the tech billionaire made his way through the crowd.",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.republicworld.com/world-news/i-m-going-to-be-a-better-ceo-11-days-away-one-grand-welcome-as-jensen-huang-returns-to-nvidia-hq-2026-11-24-141717",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "02488ad50b33953b",
+      "title_en": "Tata Sons Board Meeting Postponed From Nov 26 To Nov 30 After Noel Tata's Fresh Letter",
+      "summary_en": "Tata Sons Board Meeting Postponed From Nov 26 To Nov 30 After Noel Tata's Fresh Letter, Companies, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/business-economy/companies/tata-sons-board-meeting-postponed-from-nov-26-to-nov-30-after-noel-tatas-fresh-letter-article-156559541",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "09e645f0b8dc29f4",
+      "title_en": "Hyderabad's Yacht Club Wins World Sailing's Impact Award for Project Navika",
+      "summary_en": "The Hyderabad Yacht Club's Project Navika, which has produced 300 medallists and helped two teenagers qualify for the Asian Games, has earned international recognition for making sailing accessible to underprivileged children., Sports, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/sports/hyderabads-yacht-club-wins-world-sailings-impact-award-for-project-navika-article-156560590",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "0c5d9ed24156954e",
+      "title_en": "Ranbir Kapoor's Ramayana Makers Face Legal Action, Police Complaint Registered Over Alleged Distortion Of Narr",
+      "summary_en": "A police complaint has been registered against the makers of Ramayana: Part 1 for allegedly distorting the narrative and hurting Hindu religious sentiments. The film stars Ranbir Kapoor and Yash in lead roles., Bollywood, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ranbir-kapoors-ramayana-makers-face-legal-action-police-complaint-registered-over-alleged-distortion-of-narrative-article-156557352",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "173979cb9d58c499",
+      "title_en": "'Will Not Tolerate!' Prithvi Shaw's Strong Warning After Yograj Singh's Remarks",
+      "summary_en": "Prithvi Shaw, an Indian cricketer, has announced plans to take legal action against Yograj Singh, the father of Yuvraj Singh, following derogatory comments about Shaw's lifestyle. Shaw acknowledged his past struggles but firmly stated he would not allow anyone to tarnish his reputation., Cricket, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/sports/cricket/will-not-tolerate-prithvi-shaws-strong-warning-after-yograj-singhs-remarks-article-156558321",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "2fe0b0941e517fff",
+      "title_en": "'Are You Bigger Than CM?' UP Cop Snaps At Woman During VIP Convoy In Lucknow | VIDEO",
+      "summary_en": "A woman trying to return home with medicines for her sick child was stopped during UP CM Yogi Adityanath's convoy movement in Lucknow. A viral video shows a police officer asking her, “Mukhyamantri se badh ke ho tum?”, sparking outrage online., Viral, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/viral/are-you-bigger-than-cm-up-cop-snaps-at-woman-during-vip-convoy-in-lucknow-video-article-156558324",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "3f454d82f3ea4fa8",
+      "title_en": "Winter Layering 101: Sonam Kapoor Shows How to Make Clashing Textures Look Effortlessly Chic",
+      "summary_en": "'Beauty is pain' and all but you don't have to really choose between staying warm over the winter months and serving a fashion moments. Take notes from the best in the business., Fashion, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/lifestyle/fashion/winter-layering-101-sonam-kapoor-shows-how-to-make-clashing-textures-look-effortlessly-chic-article-156559675",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "473314dddcce744d",
+      "title_en": "Jensen Huang Is Back At Nvidia: 5 Challenges That May Still Hurt The Chipmaker, Explains Expert",
+      "summary_en": "Jensen Huang is back as Nvidia CEO, but US export restrictions, ongoing investigations, AI spending concerns and chip manufacturing challenges could still trouble the company. Here are the 5 risks highlighted by analyst Ming-Chi Kuo., Technology & Science, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/technology-science/jensen-huang-is-back-at-nvidia-5-challenges-that-may-still-hurt-the-chipmaker-explains-expert-article-156558561",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "550a51b0635c1655",
+      "title_en": "My Child’s Spectacle Number Is Increasing: When Should I Be Concerned?",
+      "summary_en": "Dr Krishna Poojita V, Ophthalmologist and Director, Pixel Eye Hospital, Hyderabad, explains why children's spectacle numbers increase, warning signs parents should watch for and ways to manage myopia progression., Health, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/health/my-childs-spectacle-number-is-increasing-when-should-i-be-concerned-article-156559309",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "5cf88c28534022de",
+      "title_en": "Deepam Row: A Temple, A Dargah And A Disputed Pillar- Why Tamil Nadu Is Divided?",
+      "summary_en": "The Thiruparankundram deepam controversy involves a long-standing dispute over the lighting of the Karthigai Deepam lamp, rooted in historical and communal complexities., India News, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/india/deepam-row-a-temple-a-dargah-and-a-disputed-pillar-why-tamil-nadu-is-divided-article-156558468",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "5d0b09ee8a7d8e12",
+      "title_en": "Batman Gets A Desi Makeover As Madhuri Dixit's 'Saajan Saajan' Becomes His Theme Song - Peak Internet Chaos",
+      "summary_en": "An AI-generated 'Desi Batman' series has taken Instagram by storm, showing the Dark Knight navigating Indian streets, riding buffaloes and taking on the Joker. Adding to the madness, Madhuri Dixit's Saajan Saajan has become Batman's unofficial theme song, sparking a viral crossover trend., Viral, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/viral/batman-gets-a-desi-makeover-as-madhuri-dixits-saajan-saajan-becomes-his-theme-song-peak-internet-chaos-article-156560406",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "5d283e0fd4a7dace",
+      "title_en": "BJP Member Demands FIR Against Stand-Up Comedian Yash Maheshwari Over Bihari Women Sindoor Joke",
+      "summary_en": "BJP member Ritu Jaiswal has demanded FIR against stand-up comedian Yash Maheshwari over his derogatory remark on Bihari women sindoor. The netizens also criticised the comedian for his insensitive joke., OTT, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/entertainment-news/web-series/bjp-member-demands-fir-against-stand-up-comedian-yash-maheshwari-over-bihari-women-sindoor-joke-article-156560652",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "6f8ce538aa0c77b1",
+      "title_en": "WFI Announces Four-Year Ban for Wrestlers Found Using or Carrying Syringes at Senior Nationals",
+      "summary_en": "WFI has warned wrestlers of a potential four-year ban for using or possessing syringes at the Senior National Wrestling Championship, scheduled to be held in Varanasi from December 21 to 23., Sports, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/sports/wfi-announces-four-year-ban-for-wrestlers-found-using-or-carrying-syringes-at-senior-nationals-article-156559775",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "798f405af383b895",
+      "title_en": "Karthigai Deepam Lit At Usual Spot, Not At SC-Ordered Deepathoon; Protest Erupts",
+      "summary_en": "Karthigai Deepam was lit at Thirupparankundram's customary Uchipillayar mandapam, not the Deepathoon as permitted by the Supreme Court, triggering protests and a scuffle with police., India News, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/india/karthigai-deepam-lit-at-usual-spot-not-at-sc-ordered-deepathoon-protest-erupts-article-156560467",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "79f5d4e5e7d42891",
+      "title_en": "India Targets $100 Billion Textile Exports By FY31: BCG-CII Report Flags Apparel Opportunity",
+      "summary_en": "India Targets $100 Billion Textile Exports By FY31: BCG-CII Report Flags Apparel Opportunity, Industry, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/business-economy/industry/india-targets-100-billion-textile-exports-by-fy31-bcg-cii-report-flags-apparel-opportunity-article-156559406",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "857e39add76cb736",
+      "title_en": "RBI Seeks Deeper Government Bond Market Liquidity, Wider Institutional Investor Participation",
+      "summary_en": "RBI Seeks Deeper Government Bond Market Liquidity, Wider Institutional Investor Participation, Economy, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/business-economy/economy/rbi-seeks-deeper-government-bond-market-liquidity-wider-institutional-investor-participation-article-156558366",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "9259b8b7d3c92139",
+      "title_en": "Confirmed Train Ticket, Missing Berth! Passenger Gets Seat Number 54 In Coach With Only 52 Berths",
+      "summary_en": "A passenger travelling from Varanasi City to Gorakhpur was left without a berth after his confirmed ticket allotted him seat A1/54 in a coach that reportedly had only 52 berths. His video of the bizarre railway booking glitch has gone viral, prompting Railway Seva to escalate the complaint., Viral, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/viral/confirmed-train-ticket-missing-berth-passenger-gets-seat-number-54-in-coach-with-only-52-berths-article-156560904",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a7a7bd6543a5ce9b",
+      "title_en": "Global Nuclear Spending Hits $474 Billion In Five Years, US Accounts For Over Half the Nukes",
+      "summary_en": "Global nuclear spending reached $474 billion between 2021 and 2025, with the US accounting for $265 billion. India's estimated nuclear stockpile rose 6% in 2026., World News, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/world/global-nuclear-spending-hits-474-billion-in-five-years-us-accounts-for-over-half-article-156559095",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "af90cfcb5df51b45",
+      "title_en": "Explained: Instagram Reels Are Stealing More Than Your Time",
+      "summary_en": "A report from The Lancet Psychiatry highlights the rising concern over problematic internet use (PUI), which affects over 10 per cent of the global population. , Technology & Science, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/technology-science/explained-instagram-reels-are-stealing-more-than-your-time-article-156560273",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "bf8b373a1cb321ae",
+      "title_en": "'Entitled To Live With Dignity': Delhi HC Orders Son, Daughter-In-Law To Vacate 85-Year-Old Man's House",
+      "summary_en": "The Delhi High Court ruled that an elderly individual seeking to evict his children from his owned property does not need to prove harassment, but rather that the property requires protection for his peaceful living., India News, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/india/entitled-to-live-with-dignity-delhi-hc-orders-son-daughter-in-law-to-vacate-85-year-old-mans-house-article-156560435",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c0f808fde20fd97a",
+      "title_en": "IOA Set for Three-Way Presidential Election, Nominations Filed for All Posts",
+      "summary_en": "The IOA presidential race is set for a three-way contest between Rajeev Mehta, Gagan Narang and Virendra Kumar Sachdeva, with outgoing president PT Usha not seeking re-election., Sports, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/sports/ioa-set-for-presidential-election-nominations-filed-for-all-posts-article-156560922",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c561d1de80aa917c",
+      "title_en": "‘Prefer To Hire Anybody Who Lives Near…’: Delhi Founder’s LinkedIn Post Fails To Impress Internet",
+      "summary_en": "A Delhi AI company’s co-founder’s take on hiring and office commutes went viral, leaving many hardly impressed! Here’s what he said…, Viral, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/viral/delhi-ai-company-founder-linkedin-post-on-office-hiring-and-commute-fails-to-impress-internet-viral-article-156557464",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c6545c0cc73e2bae",
+      "title_en": "Jensen Huang’s NVIDIA Saga And Its Rather Awkward Parallels With Homer’s Odyssey",
+      "summary_en": "The story of Jensen Huang's brief resignation from NVIDIA draws parallels to Homer's \"The Odyssey,\" though the comparison is imperfect., Opinion - World, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/opinion/world/jensen-huangs-nvidia-saga-and-its-rather-awkward-parallels-with-homers-odyssey-article-156558835",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "e3cc144299488762",
+      "title_en": "Karnataka Pickleball State Selections: Naidu Strikes Twice, Thomas And Priti Stamp Their Authority In 30+ Cate",
+      "summary_en": "The Karnataka Pickleball State Selections delivered thrilling matches over the weekend, with Dinakar Naidu and Ashwin Hanagudu teaming up to win the 30+ Men’s Doubles title before meeting in the mixed doubles final. , Pickleball, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/sports/pickleball/karnataka-pickleball-state-selections-naidu-strikes-twice-thomas-and-priti-stamp-their-authority-in-30-categories-article-156560714",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "f786351de1fb88a9",
+      "title_en": "Real Or Fake? Avengers Doomsday: Doctor Doom Warns Thor, Steve Rogers 'No Miracle Coming' In 'Leaked' Clip - F",
+      "summary_en": "An alleged leaked video from Avengers Doomsday showing Doctor Doom facing Thor, Steve Rogers and other Marvel superheroes has gone viral on social media. The clip features several familiar Marvel characters, including Chris Hemsworth, Chris Evans, Shang-Chi, Sam Wilson, Cyclops, and X-Men members. In the video, Doctor Doom warns the superheroes that no miracle will save them. While the clip has caught the attention of Marvel fans, many have questioned whether it is real, Hollywood, Times Now",
+      "title_zh": "",
+      "summary_zh": "",
+      "translation_status": "pending",
+      "url": "https://www.timesnownews.com/entertainment-news/hollywood/real-or-fake-avengers-doomsday-doctor-doom-warns-thor-steve-rogers-no-miracle-coming-in-leaked-clip-fact-check-article-156560686",
+      "source": "Times Now Viral"
+    }
+  ]
 }

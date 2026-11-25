@@ -1,0 +1,33 @@
+{
+  "date": "2025-08-05",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "9ce5795f22d75ba7",
+      "url": "https://www.news18.com/viral/fact-check-viral-video-of-aniruddhacharya-father-being-mistreated-in-vrindavan-aa-9484694.html",
+      "title_en": "More Trouble For Aniruddhacharya? Viral Video Of His ‘Father’ Being ‘Mistreated’ | What’s The Truth?",
+      "title_zh": null,
+      "summary_en": "Ram Naresh Tiwari has alleged mistreatment by staff members and has appealed to PM Modi, UP CM Yogi Adityanath, and the Mathura administration for assistance.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/08/news18-5-2025-08-05c82b8cbfaba07f699c783e510f8971-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-08-05T11:01:49+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9ce5795f22d75ba7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

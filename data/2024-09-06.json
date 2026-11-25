@@ -1,0 +1,33 @@
+{
+  "date": "2024-09-06",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "c50cf5a737698393",
+      "url": "https://www.news18.com/viral/doctors-handwritten-prescription-has-internet-decoding-the-secret-message-to-pharmacist-9041368.html",
+      "title_en": "Doctor's Handwritten Prescription Has Internet Decoding The Secret Message to Pharmacist",
+      "title_zh": null,
+      "summary_en": "After the prescription went viral, the Chief Medical and Health Officer (CMHO) issued a notice to the doctor, seeking an explanation.",
+      "summary_zh": null,
+      "translation_status": "pending",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/09/mp-doctor-prescription-viral-2024-09-6dae4d3a3fd94f9137c0f9adef234dec-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-09-06T18:17:45+08:00",
+      "fetched_at": "2026-11-25T13:20:19+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c50cf5a737698393",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
