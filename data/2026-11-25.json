@@ -1,8 +1,601 @@
 {
   "date": "2026-11-25",
   "timezone": "Asia/Shanghai",
-  "count": 43,
+  "count": 48,
   "items": [
+    {
+      "id": "c079d08fef4cdae1",
+      "url": "https://x.com/INCIndia/status/2125620088313417997",
+      "title_en": "Millions are still suffering from malnutrition every single day. This is not just a statistic. It is a national shame. https://t.co/qN6DUHOZze",
+      "title_zh": "国大党官方号发视频：数百万印度人仍在挨饿，营养不良是“国耻”",
+      "summary_en": "Millions are still suffering from malnutrition every single day.\n\nThis is not just a statistic. It is a national shame. https://t.co/qN6DUHOZze",
+      "summary_zh": "印度国大党官方账号发布69秒视频，称每天仍有数百万人遭受营养不良，“这不只是统计数字，而是国耻”。评论区有人反讽“国大党自己才营养不良”。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-25T23:58:15+08:00",
+      "fetched_at": "2026-11-26T06:40:12+08:00",
+      "tags": [
+        "健康医疗",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125620088313417997",
+        "lang": "en",
+        "text": "Millions are still suffering from malnutrition every single day.\n\nThis is not just a statistic. It is a national shame. https://t.co/qN6DUHOZze",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/avatar.jpg"
+        },
+        "created_at": "2026-11-25T15:58:15.000Z",
+        "public_metrics": {
+          "reply_count": 12,
+          "repost_count": 109,
+          "like_count": 232,
+          "quote_count": 4,
+          "bookmark_count": 6,
+          "impression_count": 15059
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2125619396161003520/vid/avc1/1080x1920/fYy0V4-uwCUf--p7.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-26T06:40:12+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/INCIndia/status/2125620088313417997",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2125620088313417997",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2125633138491826518",
+            "author": {
+              "name": "Hindutva Vigilant",
+              "username": "HindutvaVig",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2115798975819468800/AcNi8W12_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/avatars/HindutvaVig.jpg"
+            },
+            "text": "@INCIndia The BJP is desperate to cover up their failures, so they are throwing historical mud to distract the nation! Patwari is right why the secret negotiations with China when 200 km of our land is occupied? 😡\nhttps://t.co/T426pE1qWn",
+            "created_at": "2026-11-25T16:50:07.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 5,
+              "like_count": 8,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 15
+            },
+            "in_reply_to_id": "2125620088313417997"
+          },
+          {
+            "id": "2125623599927292357",
+            "author": {
+              "name": "Sumit Goswami",
+              "username": "meetsumit17",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2080320790462083073/ZbpC6XFm_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/avatars/meetsumit17.jpg"
+            },
+            "text": "@INCIndia The Congress Party is Suffering from Malnutrition.",
+            "created_at": "2026-11-25T16:12:13.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 17
+            },
+            "in_reply_to_id": "2125620088313417997"
+          },
+          {
+            "id": "2125696852746195367",
+            "author": {
+              "name": "Divyent Chauhan",
+              "username": "DivyentChauhan",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2082111843200581633/ECseA3Nr_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/avatars/DivyentChauhan.jpg"
+            },
+            "text": "@meetsumit17 @INCIndia Hahahahaha 😛 🥳 😛",
+            "created_at": "2026-11-25T21:03:17.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2125623599927292357"
+          },
+          {
+            "id": "2125633032598208706",
+            "author": {
+              "name": "Hemant V. Kelshikar",
+              "username": "KelshikarV",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/avatars/KelshikarV.jpg"
+            },
+            "text": "@INCIndia BJP aur RSS hatao aur Desh aur Democracy bachao ✊🏼",
+            "created_at": "2026-11-25T16:49:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2125620088313417997"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "9651c33bb85de32abbfb137bd0a6c23dcb406a41",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "c079d08fef4cdae1",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "cff03572e36598b4",
+      "url": "https://x.com/ShivSenaUBT_/status/2125593822998753569",
+      "title_en": "पुण्यात भरदिवसा गोळीबार... युवासेनाप्रमुख, शिवसेना नेते, आमदार आदित्य ठाकरे ह्यांनी प्रसार माध्यमांच्या प्रतिनिधींशी संवाद साधताना संताप व्यक्त केला. https://t.co/T1VZ4m1r73",
+      "title_zh": "浦那光天化日发生枪击，阿迪亚·塔克雷对着媒体怒斥政府",
+      "summary_en": "पुण्यात भरदिवसा गोळीबार... \nयुवासेनाप्रमुख, शिवसेना नेते, आमदार आदित्य ठाकरे ह्यांनी प्रसार माध्यमांच्या प्रतिनिधींशी संवाद साधताना संताप व्यक्त केला. https://t.co/T1VZ4m1r73",
+      "summary_zh": "湿婆军（UBT）官方账号发布视频：浦那白天发生枪击事件，青年军领袖、议员阿迪亚·塔克雷接受媒体采访时表达愤怒。唯一回复喊话他别只给采访，要上街发动群众。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125593822998753569/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-25T22:13:53+08:00",
+      "fetched_at": "2026-11-26T06:40:20+08:00",
+      "tags": [
+        "犯罪法律",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125593822998753569",
+        "lang": "mr",
+        "text": "पुण्यात भरदिवसा गोळीबार... \nयुवासेनाप्रमुख, शिवसेना नेते, आमदार आदित्य ठाकरे ह्यांनी प्रसार माध्यमांच्या प्रतिनिधींशी संवाद साधताना संताप व्यक्त केला. https://t.co/T1VZ4m1r73",
+        "author": {
+          "name": "ShivSena - शिवसेना Uddhav Balasaheb Thackeray",
+          "username": "ShivSenaUBT_",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1840311562785189888/uw_a4Jzt_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125593822998753569/avatar.jpg"
+        },
+        "created_at": "2026-11-25T14:13:53.000Z",
+        "public_metrics": {
+          "reply_count": 1,
+          "repost_count": 35,
+          "like_count": 166,
+          "quote_count": 0,
+          "bookmark_count": 1,
+          "impression_count": 4004
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125593822998753569/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2125593545587445760/vid/avc1/720x1280/SC6E55UnWZl_u6-z.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-26T06:40:20+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ShivSenaUBT_/status/2125593822998753569",
+        "ytdlp_command": "yt-dlp https://x.com/ShivSenaUBT_/status/2125593822998753569",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125593822998753569/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2125647909094137865",
+            "author": {
+              "name": "sandeep goje",
+              "username": "sandeepgoje1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2086307959077019649/_ZN5Cl6o_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125593822998753569/avatars/sandeepgoje1.jpg"
+            },
+            "text": "@ShivSenaUBT_ @AUThackeray फक्त बाईट देऊ नका रस्त्यावर उत्तर आंदोलन करा लोकांना बरोबर घ्या \nया नालायक सरकार विरोधात एल्गार पुकारा जनता तुमच्या बरोबर आहे",
+            "created_at": "2026-11-25T17:48:48.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2125593822998753569"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "82f769860beaa8ab9ffb07ba916d4d954f783290",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "cff03572e36598b4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "3c9fdcea81483c81",
+      "url": "https://x.com/aajtak/status/2125571299489816639",
+      "title_en": "अनंत सिंह की बेटी शिवांगी की शादी के मौके पर आयोजित घुड़दौड़ देखने के लिए हजारों की संख्या में लोग पहुंचे। घुड़दौड़ का रोमांच देखने के लिए कुछ दर्शक बिजली के टावर पर भी चढ़ गए। इस दौरान आयोजन स्थल पर भारी भीड़ देखने को मिली। #AnantSingh #ShivangiWedding #HorseRace #BiharNews #WeddingCelebration #Vir",
+      "title_zh": "强人议员女儿婚礼办赛马，数千人围观，有人爬上高压电塔看",
+      "summary_en": "अनंत सिंह की बेटी शिवांगी की शादी के मौके पर आयोजित घुड़दौड़ देखने के लिए हजारों की संख्या में लोग पहुंचे। घुड़दौड़ का रोमांच देखने के लिए कुछ दर्शक बिजली के टावर पर भी चढ़ गए। इस दौरान आयोजन स्थल पर भारी भीड़ देखने को मिली।\n\n  #AnantSingh #ShivangiWedding #HorseRace #BiharNews #WeddingCelebration #ViralVideo #Bihar\n\nAnant Singh, Shivangi Wedding, Horse Racing, Bihar Wedding, Horse Race Event, Viral Video, Wedding Celebration, Bihar News",
+      "summary_zh": "比哈尔邦政治人物阿南特·辛格的女儿希万吉结婚，婚礼期间举办赛马活动，吸引数千人围观，为了看清比赛，有观众直接爬上了输电塔，现场人山人海。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-25T20:44:23+08:00",
+      "fetched_at": "2026-11-26T06:40:23+08:00",
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125571299489816639",
+        "lang": "hi",
+        "text": "अनंत सिंह की बेटी शिवांगी की शादी के मौके पर आयोजित घुड़दौड़ देखने के लिए हजारों की संख्या में लोग पहुंचे। घुड़दौड़ का रोमांच देखने के लिए कुछ दर्शक बिजली के टावर पर भी चढ़ गए। इस दौरान आयोजन स्थल पर भारी भीड़ देखने को मिली।\n\n  #AnantSingh #ShivangiWedding #HorseRace #BiharNews #WeddingCelebration #ViralVideo #Bihar\n\nAnant Singh, Shivangi Wedding, Horse Racing, Bihar Wedding, Horse Race Event, Viral Video, Wedding Celebration, Bihar News",
+        "author": {
+          "name": "AajTak",
+          "username": "aajtak",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1395254075285860354/LG45JNi8_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/avatar.jpg"
+        },
+        "created_at": "2026-11-25T12:44:23.000Z",
+        "public_metrics": {
+          "reply_count": 5,
+          "repost_count": 42,
+          "like_count": 540,
+          "quote_count": 1,
+          "bookmark_count": 14,
+          "impression_count": 31590
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2125571238894686208/vid/avc1/720x1280/4rEGa0Q3ZZGNpu40.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-26T06:40:23+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/aajtak/status/2125571299489816639",
+        "ytdlp_command": "yt-dlp https://x.com/aajtak/status/2125571299489816639",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2125652163468865972",
+            "author": {
+              "name": "Jagan Reddy",
+              "username": "JaganReddynxo",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1310548869030133760/aRkDj7Vn_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/avatars/JaganReddynxo.jpg"
+            },
+            "text": "@aajtak ये सिर्फ दिखावा चल रहा है।\n शानो-शौकत वाली पंरपरा आजतक खत्म नहीं हो रही ।\nइतना पैसा समाज के उत्थान के लिए लगाते तो कुछ और बात थी।",
+            "created_at": "2026-11-25T18:05:43.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2125571299489816639"
+          },
+          {
+            "id": "2125648820470206551",
+            "author": {
+              "name": "B A madhup",
+              "username": "madhup_a30544",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1952436548668174336/nYeAE20E_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/avatars/madhup_a30544.jpg"
+            },
+            "text": "@aajtak Berojgari charam pe h",
+            "created_at": "2026-11-25T17:52:26.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2125571299489816639"
+          },
+          {
+            "id": "2125589840511254739",
+            "author": {
+              "name": "sshhhh",
+              "username": "arjitrajput",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/avatars/arjitrajput.jpg"
+            },
+            "text": "@aajtak How anyone can bring s change in this country? Its a waste of time",
+            "created_at": "2026-11-25T13:58:04.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2125571299489816639"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "4119ed7bd89c216e8be947d7a45aadab086beded",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "3c9fdcea81483c81",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "85558eb3f450f4ce",
+      "url": "https://x.com/HardeepSPuri/status/2125570955934335482",
+      "title_en": "Under the leadership of Hon’ble Prime Minister Shri @narendramodi ji, the Union Cabinet has approved key initiatives to strengthen India's infrastructure, manufacturing and connectivity. • Approval of the CIE Manufacturing Scheme to boost domestic production of construction and infrastructure equipm",
+      "title_zh": "石油部长普里一口气晒出13张图：内阁批准港口、机场、制造业等多项基建决定",
+      "summary_en": "Under the leadership of Hon’ble Prime Minister Shri @narendramodi ji, the Union Cabinet has approved key initiatives to strengthen India's infrastructure, manufacturing and connectivity.\n\n• Approval of the CIE Manufacturing Scheme to boost domestic production of construction and infrastructure equipment.\n\n• Development of a second container terminal at Kamarajar Port to strengthen port capacity and maritime trade.\n\n• Development of a Greenfield Airport at Doloo, Silchar, to enhance regional connectivity in Assam.\n\n• Continuation of the Postal Operations Scheme to improve postal services, logistics and last-mile connectivity.\n\n• Continuation of the Estates Management Scheme to upgrade postal buildings and infrastructure.\n\nThese decisions will strengthen India's infrastructure, improve connectivity and create new opportunities towards a Viksit Bharat.\n\n#CabinetDecisions",
+      "summary_zh": "印度石油和天然气部长哈迪普·普里发帖总结联邦内阁的一批决定：建筑与基建设备（CIE）制造业计划、卡马拉贾尔港第二集装箱码头、阿萨姆邦锡尔杰尔Doloo绿地机场、邮政业务计划和邮政房产管理计划延续。帖子配了13张图。唯一一条回复问：为什么从LPG换装PNG管道气要花7000卢比，能不能搞“携号转网”式的转换。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-25T20:43:01+08:00",
+      "fetched_at": "2026-11-26T06:40:09+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125570955934335482",
+        "lang": "en",
+        "text": "Under the leadership of Hon’ble Prime Minister Shri @narendramodi ji, the Union Cabinet has approved key initiatives to strengthen India's infrastructure, manufacturing and connectivity.\n\n• Approval of the CIE Manufacturing Scheme to boost domestic production of construction and infrastructure equipment.\n\n• Development of a second container terminal at Kamarajar Port to strengthen port capacity and maritime trade.\n\n• Development of a Greenfield Airport at Doloo, Silchar, to enhance regional connectivity in Assam.\n\n• Continuation of the Postal Operations Scheme to improve postal services, logistics and last-mile connectivity.\n\n• Continuation of the Estates Management Scheme to upgrade postal buildings and infrastructure.\n\nThese decisions will strengthen India's infrastructure, improve connectivity and create new opportunities towards a Viksit Bharat.\n\n#CabinetDecisions",
+        "author": {
+          "name": "Hardeep Singh Puri",
+          "username": "HardeepSPuri",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2055490616612810752/O51z3wfc_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/avatar.jpg"
+        },
+        "created_at": "2026-11-25T12:43:01.000Z",
+        "public_metrics": {
+          "reply_count": 1,
+          "repost_count": 219,
+          "like_count": 237,
+          "quote_count": 0,
+          "bookmark_count": 1,
+          "impression_count": 3772
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-4.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-5.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-6.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-7.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-8.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-9.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-10.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-11.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-12.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/photo-13.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/HardeepSPuri/status/2125570955934335482",
+        "ytdlp_command": "yt-dlp https://x.com/HardeepSPuri/status/2125570955934335482",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2125627995520123081",
+            "author": {
+              "name": "srujan vejendla",
+              "username": "SrujanVejendla",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570955934335482/avatars/SrujanVejendla.jpg"
+            },
+            "text": "@HardeepSPuri @narendramodi Sir... Why do people need to get burden with 7k for taking PNG connection? Why not providing portability option from LPG to PNG?",
+            "created_at": "2026-11-25T16:29:41.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 16
+            },
+            "in_reply_to_id": "2125570955934335482"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "ad479b89543e03933dfe6cceb7e8ddf59823ad0d",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "85558eb3f450f4ce",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5840780cfa1c769e",
+      "url": "https://x.com/AmitShah/status/2125570774698426655",
+      "title_en": "Congratulations to our sisters and brothers of Assam on the Union Cabinet's approval today of a Greenfield Airport at Doloo in Silchar. This ₹2,014 crore infrastructure project will enhance Silchar's air connectivity and transport bandwidth, commensurate with the Barak Valley's growing strategic and",
+      "title_zh": "阿米特·沙阿：内阁批准在阿萨姆邦锡尔杰尔建新绿地机场，投资20.14亿卢比",
+      "summary_en": "Congratulations to our sisters and brothers of Assam on the Union Cabinet's approval today of a Greenfield Airport at Doloo in Silchar.\n\nThis ₹2,014 crore infrastructure project will enhance Silchar's air connectivity and transport bandwidth, commensurate with the Barak Valley's growing strategic and economic importance under the Modi govt.",
+      "summary_zh": "印度内政部长阿米特·沙阿发帖祝贺阿萨姆邦，称联邦内阁当天批准在锡尔杰尔（Silchar）的Doloo建设绿地机场，项目投资₹2,014 crore（约201.4亿卢比），用于提升巴拉克河谷的航空连接和交通能力。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-25T20:42:18+08:00",
+      "fetched_at": "2026-11-26T06:39:59+08:00",
+      "tags": [
+        "航空出行",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125570774698426655",
+        "lang": "en",
+        "text": "Congratulations to our sisters and brothers of Assam on the Union Cabinet's approval today of a Greenfield Airport at Doloo in Silchar.\n\nThis ₹2,014 crore infrastructure project will enhance Silchar's air connectivity and transport bandwidth, commensurate with the Barak Valley's growing strategic and economic importance under the Modi govt.",
+        "author": {
+          "name": "Amit Shah",
+          "username": "AmitShah",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054423554737983489/dhxe-t8m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/avatar.jpg"
+        },
+        "created_at": "2026-11-25T12:42:18.000Z",
+        "public_metrics": {
+          "reply_count": 50,
+          "repost_count": 381,
+          "like_count": 1312,
+          "quote_count": 4,
+          "bookmark_count": 17,
+          "impression_count": 51127
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/photo-2.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/AmitShah/status/2125570774698426655",
+        "ytdlp_command": "yt-dlp https://x.com/AmitShah/status/2125570774698426655",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2125627703823069384",
+            "author": {
+              "name": "Sushmita Dev সুস্মিতা দেব",
+              "username": "SushmitaDev25",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2088996664052989952/HG3lW44g_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/avatars/SushmitaDev25.jpg"
+            },
+            "text": "@AmitShah Thank u 🙏🏻",
+            "created_at": "2026-11-25T16:28:31.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 92
+            },
+            "in_reply_to_id": "2125570774698426655"
+          },
+          {
+            "id": "2125617411168846237",
+            "author": {
+              "name": "S!D",
+              "username": "s4sids",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2047714991508488192/d-BGlq2w_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/avatars/s4sids.jpg"
+            },
+            "text": "@AmitShah Manipur mai bhi koi development ka plan hai? #JaiHind",
+            "created_at": "2026-11-25T15:47:37.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 25
+            },
+            "in_reply_to_id": "2125570774698426655"
+          },
+          {
+            "id": "2125599745527988470",
+            "author": {
+              "name": "dipk",
+              "username": "ntirpoltklsci14",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125570774698426655/avatars/ntirpoltklsci14.jpg"
+            },
+            "text": "@AmitShah Again public money has been wasted.",
+            "created_at": "2026-11-25T14:37:25.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 58
+            },
+            "in_reply_to_id": "2125570774698426655"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "45fe19e58f510132d4f2504d39931cf5e37e2a43",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "5840780cfa1c769e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "43754013adeabd1c",
       "url": "https://www.news18.com/viral/japanese-womans-first-overnight-train-journey-in-india-gets-attention-one-thing-surprises-her-ws-l-10439833.html",
@@ -994,7 +1587,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T00:32:10+08:00",
-      "fetched_at": "2026-11-25T06:33:08+08:00",
+      "fetched_at": "2026-11-26T06:39:45+08:00",
       "tags": [
         "婚俗宗教"
       ],
