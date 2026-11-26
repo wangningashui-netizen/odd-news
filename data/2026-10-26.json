@@ -1,8 +1,33 @@
 {
   "date": "2026-10-26",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "64b020b268599bb2",
+      "url": "https://www.news18.com/viral/i-dont-get-paid-overtime-employee-says-boss-keeps-dumping-quick-tasks-10-minutes-before-shift-ends-ws-l-10398238.html",
+      "title_en": "'I Don't Get Paid Overtime': Employee Says Boss Keeps Dumping ‘Quick’ Tasks 10 Minutes Before Shift Ends",
+      "title_zh": "“我没有加班费”：员工称老板在轮班结束前 10 分钟不断放弃“快速”任务",
+      "summary_en": "An employee on Reddit seeks advice after their boss repeatedly assigns last-minute tasks before clock-out, forcing them to choose between unpaid overtime and unfinished work",
+      "summary_zh": "一名员工在 Reddit 上寻求建议，因为老板反复在下班前分配最后一刻的任务，迫使他们在无薪加班和未完成的工作之间做出选择",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-25-2026-10-adfb9dc77bff81d641817fc6e83ec457-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-26T19:14:09+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "64b020b268599bb2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "8d40cda04fa409a9",
       "url": "https://indianexpress.com/article/trending/trending-in-india/passengers-sing-jaane-se-guzarte-hain-on-train-netizens-say-mehfil-e-railways-10936397/",

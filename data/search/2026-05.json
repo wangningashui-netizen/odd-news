@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "count": 4,
+  "count": 6,
   "items": [
     {
       "id": "da6ddfd32e681d13",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/rs-1200-food-with-rs-40-order-viral-post-claims-zomato-loophole-lets-users-avoid-platform-fees-ws-l-10115418.html",
       "translation_status": "fallback",
       "cluster_id": "da6ddfd32e681d13",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "274698524ab2db6b",
+      "date": "2026-05-21",
+      "published_at": "2026-05-21T15:13:27+08:00",
+      "title_zh": "一个播客要花 400 万卢比？从 Tanmay Bhat 到 Samay Raina，据报道印度顶级创作者的魅力",
+      "title_en": "Rs 40 Lakh For A Podcast? From Tanmay Bhat To Samay Raina, Here’s What India’s Top Creators Reportedly Char",
+      "summary_zh": "印度的顶级创作者现在正在为视频、播客和品牌交易收取数十万美元的费用，其中 Tanmay Bhat 和 Raj Shamani 等名字引领了创作者经济的繁荣。",
+      "summary_en": "India’s top creators are now charging lakhs for reels, podcasts and brand deals, with names like Tanmay Bhat and Raj Shamani leading the creator economy boom.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5843669_untitleddesign61_1-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/rs-40-lakh-for-a-podcast-from-tanmay-bhat-to-samay-raina-heres-what-indias-top-creators-reportedly-charge-brands-ws-l-10103441.html",
+      "translation_status": "fallback",
+      "cluster_id": "274698524ab2db6b",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -85,6 +107,28 @@
       "url": "https://www.news18.com/viral/she-is-dead-to-me-husband-performs-pind-daan-for-living-wife-over-instagram-reels-watch-video-10083824.html",
       "translation_status": "fallback",
       "cluster_id": "e910f7f721e8b42d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f333e621047084a4",
+      "date": "2026-05-01",
+      "published_at": "2026-05-01T12:59:01+08:00",
+      "title_zh": "香料航空乘客在机场抗议延误、取消和行李问题Videos Go Viral",
+      "title_en": "SpiceJet Passengers Protest At Airports Over Delays, Cancellations And Baggage Issues | Videos Go Viral",
+      "summary_zh": "多次航班取消、延误和行李问题导致许多人滞留，孟买和德里机场的乘客高举反对香料航空的口号。",
+      "summary_en": "Passengers at Mumbai and Delhi airports raised slogans against SpiceJet after multiple flight cancellations, delays, and baggage issues left many stranded.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5834622_untitleddesign73_1-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "航空出行"
+      ],
+      "url": "https://www.news18.com/viral/spicejet-passengers-protest-at-airports-over-delays-cancellations-and-baggage-issues-videos-go-viral-ws-l-10067280.html",
+      "translation_status": "fallback",
+      "cluster_id": "f333e621047084a4",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

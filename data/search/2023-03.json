@@ -1,7 +1,29 @@
 {
   "month": "2023-03",
-  "count": 3,
+  "count": 5,
   "items": [
+    {
+      "id": "b449d17ca86fe160",
+      "date": "2023-03-31",
+      "published_at": "2023-03-31T17:24:06+08:00",
+      "title_zh": "来自安得拉邦的鹦鹉嘴公鸡在鸡选美比赛中大放异彩",
+      "title_en": "Parrot Beak Roosters From Andhra Pradesh Shine at Beauty Contest for Chickens",
+      "summary_zh": "赛亚德·巴沙表示，饲养鹦鹉嘴公鸡，让它们参加选美比赛，是一项艰巨的任务。他说，他们将为母鸡提供具有营养价值的特殊饮食。",
+      "summary_en": "Sayyad Basha said that it is a herculean task in growing parrot beak roosters to make them participate in a beauty pageant. He said they will have a special diet for the hens with nutritional values.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/03/chicken-168023238316x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/parrot-beak-roosters-from-andhra-pradesh-shine-at-beauty-contest-for-chickens-7428097.html",
+      "translation_status": "fallback",
+      "cluster_id": "b449d17ca86fe160",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "6640a0624f55a749",
       "date": "2023-03-28",
@@ -63,6 +85,28 @@
       "url": "https://www.news18.com/buzz/ranbir-kapoor-sadly-leaving-places-shot-returns-in-tjmm-clip-goes-viral-7252849.html",
       "translation_status": "fallback",
       "cluster_id": "6ff350e12e029739",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "5fb0b77017b5c308",
+      "date": "2023-03-01",
+      "published_at": "2023-03-01T14:42:41+08:00",
+      "title_zh": "认识一下鲜为人知但美丽的印度板球运动员妻子",
+      "title_en": "Meet The Lesser-Known, But Gorgeous Wives of Indian Cricketers",
+      "summary_zh": "从 Mayanti Langer 到 Deepika Pallikal，看看一些不太知名的印度板球运动员妻子的照片。",
+      "summary_en": "From Mayanti Langer to Deepika Pallikal, checkout the pictures of some of the lesser-known wives of Indian cricketers.",
+      "image": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1600x900.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/meet-the-lesser-known-but-gorgeous-wives-of-team-india-cricketers-3831416.html",
+      "translation_status": "fallback",
+      "cluster_id": "5fb0b77017b5c308",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

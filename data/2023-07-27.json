@@ -1,0 +1,32 @@
+{
+  "date": "2023-07-27",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "798925d7a33cc67e",
+      "url": "https://www.news18.com/viral/food-blogger-tries-monstrous-burger-with-100-meat-patties-heres-how-it-went-8440201.html",
+      "title_en": "Food Blogger Tries Monstrous Burger With 100 Meat Patties, Here's How It Went",
+      "title_zh": "美食博主尝试了 100 个肉饼的巨型汉堡，结果如下",
+      "summary_en": "The Thai food blogger ordered a burger with mind-boggling 100 patties and attempted to finish it. Find out inside if he was able to finish the challenge or not.",
+      "summary_zh": "这位泰国美食博主点了一份汉堡，里面有令人难以置信的 100 个肉饼，并试图吃完它。看看他是否能够完成挑战。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/07/food-blogger-tries-monstrous-burger-with-100-meat-patties-heres-how-it-went-169045922516x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-07-27T20:04:49+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "798925d7a33cc67e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

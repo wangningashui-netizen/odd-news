@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-25",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a4a5a06f693ca74c",
+      "url": "https://www.news18.com/viral/who-is-dr-sunny-ashok-who-treated-arjun-rampal-in-ranveer-singh-dhurandhar-2-aa-9995602.html",
+      "title_en": "Who Is Dr Sunny Ashok? Punjab Doc Who Treated Arjun Rampal On Set, Lands Cameo In Ranveer’s ‘Dhurandhar: Th",
+      "title_zh": "Who Is Dr Sunny Ashok?在片场治疗阿琼·拉姆帕尔的旁遮普医生在兰维尔的《杜兰达尔：Th》中客串",
+      "summary_en": "Arjun Rampal had sustained a head injury during a chase sequence being filmed on a railway track near Ludhiana.",
+      "summary_zh": "阿琼·拉姆帕尔在卢迪亚纳附近的铁轨上拍摄追逐戏时头部受伤。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/Untitled-design-2026-03-25T082233.015-2026-03-b31fe6b91db1475a8b1acd31acc8d9c3-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-03-25T10:57:59+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a4a5a06f693ca74c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

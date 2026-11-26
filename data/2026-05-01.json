@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "f333e621047084a4",
+      "url": "https://www.news18.com/viral/spicejet-passengers-protest-at-airports-over-delays-cancellations-and-baggage-issues-videos-go-viral-ws-l-10067280.html",
+      "title_en": "SpiceJet Passengers Protest At Airports Over Delays, Cancellations And Baggage Issues | Videos Go Viral",
+      "title_zh": "香料航空乘客在机场抗议延误、取消和行李问题Videos Go Viral",
+      "summary_en": "Passengers at Mumbai and Delhi airports raised slogans against SpiceJet after multiple flight cancellations, delays, and baggage issues left many stranded.",
+      "summary_zh": "多次航班取消、延误和行李问题导致许多人滞留，孟买和德里机场的乘客高举反对香料航空的口号。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5834622_untitleddesign73_1-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-05-01T12:59:01+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "航空出行"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f333e621047084a4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "month": "2024-05",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "347b8aacac05ed28",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/viral/indian-influencer-shares-struggles-of-returning-amazon-package-in-canada-gets-schooled-for-slave-mindset-8908635.html",
       "translation_status": "fallback",
       "cluster_id": "347b8aacac05ed28",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "9094575c36c415fa",
+      "date": "2024-05-28",
+      "published_at": "2024-05-28T16:19:12+08:00",
+      "title_zh": "比哈尔邦老师在检查 PPU 考试答卷时在 Instagram 上疯传，视频疯传",
+      "title_en": "Bihar Teacher Makes Instagram Reels While Checking PPU Exam Answer Sheets, Videos Go Viral",
+      "summary_zh": "这些视频讲述了比哈尔邦的一名老师在制作 Instagram Reels 的同时，在没有仔细阅读 PPU 考试答卷的情况下对答卷进行标记的情况。",
+      "summary_en": "The videos feature a teacher in Bihar making Instagram Reels while marking PPU exam answer sheets without reading them carefully.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/05/bihar-teacher-makes-instagram-reels-while-checking-ppu-exam-answer-sheets-video-goes-viral-2024-05-b2dd3788a12dd756113b0cd01b117cc2-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/bihar-teacher-makes-instagram-reels-while-checking-ppu-exam-answer-sheets-videos-go-viral-8906963.html",
+      "translation_status": "fallback",
+      "cluster_id": "9094575c36c415fa",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

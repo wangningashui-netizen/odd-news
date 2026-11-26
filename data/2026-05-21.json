@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-21",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "274698524ab2db6b",
+      "url": "https://www.news18.com/viral/rs-40-lakh-for-a-podcast-from-tanmay-bhat-to-samay-raina-heres-what-indias-top-creators-reportedly-charge-brands-ws-l-10103441.html",
+      "title_en": "Rs 40 Lakh For A Podcast? From Tanmay Bhat To Samay Raina, Here’s What India’s Top Creators Reportedly Char",
+      "title_zh": "一个播客要花 400 万卢比？从 Tanmay Bhat 到 Samay Raina，据报道印度顶级创作者的魅力",
+      "summary_en": "India’s top creators are now charging lakhs for reels, podcasts and brand deals, with names like Tanmay Bhat and Raj Shamani leading the creator economy boom.",
+      "summary_zh": "印度的顶级创作者现在正在为视频、播客和品牌交易收取数十万美元的费用，其中 Tanmay Bhat 和 Raj Shamani 等名字引领了创作者经济的繁荣。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/TV_5843669_untitleddesign61_1-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-05-21T15:13:27+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "274698524ab2db6b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

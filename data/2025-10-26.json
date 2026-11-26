@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-26",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "00f19c3c872b09e4",
+      "url": "https://www.news18.com/viral/how-difficult-is-arranged-marriage-once-you-cross-30-finding-out-expectations-in-2025-aa-ws-l-9658658.html",
+      "title_en": "How Difficult Is Arranged Marriage Once You Cross 30? Finding Out Expectations In 2025: ‘...Parents Decidin",
+      "title_zh": "过了30岁，包办婚姻有多难？了解 2025 年的期望：“……父母决定”",
+      "summary_en": "A woman shared the struggles of her 33-year-old friend, who is having a hard time finding a suitable match despite having a stable job and background.",
+      "summary_zh": "一位女士分享了她 33 岁朋友的挣扎，尽管她有稳定的工作和背景，但很难找到合适的对象。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/10/Untitled-design-2025-10-25T180815.603-2025-10-8deead7945dbfa4017b42ed7d77349fd-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-10-26T11:32:42+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "00f19c3c872b09e4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

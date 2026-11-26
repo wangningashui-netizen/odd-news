@@ -1,7 +1,29 @@
 {
   "month": "2023-02",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "8efde09121578e40",
+      "date": "2023-02-23",
+      "published_at": "2023-02-23T20:20:43+08:00",
+      "title_zh": "7 岁王子吉格梅·纳姆耶尔·旺楚克 (Jigme Namgyel Wangchuck) 是不丹第一位数字公民",
+      "title_en": "7-Year-Old Prince Jigme Namgyel Wangchuck Is Bhutan's First Digital Citizen",
+      "summary_zh": "吉格梅·纳姆耶尔·旺楚克 (Jigme Namgyel Wangchuck) 王子通过使用不丹国家数字身份 (NDI) 移动钱包，成为该国第一位数字公民。",
+      "summary_en": "Prince Jigme Namgyel Wangchuck became the country's first digital citizen by onboarding the Bhutan National Digital Identity (NDI) mobile wallet.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/02/news18-39-5-167715364816x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/7-year-old-prince-jigme-namgyel-wangchuck-is-bhutans-first-digital-citizen-7152127.html",
+      "translation_status": "fallback",
+      "cluster_id": "8efde09121578e40",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "4c75f4a331614636",
       "date": "2023-02-17",

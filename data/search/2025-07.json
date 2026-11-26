@@ -1,6 +1,6 @@
 {
   "month": "2025-07",
-  "count": 7,
+  "count": 9,
   "items": [
     {
       "id": "49b855011a8ebf7e",
@@ -72,9 +72,9 @@
       "id": "24912399e3f2e08f",
       "date": "2025-07-10",
       "published_at": "2025-07-10T11:02:53+08:00",
-      "title_zh": null,
+      "title_zh": "德里 Dwarka 第 9 区的这棵树“闹鬼”。在其混凝土基座下方埋藏着......",
       "title_en": "This Tree In Delhi’s Dwarka Sector 9 Is ‘Haunted’. Beneath Its Concrete Base Lies A Buried...",
-      "summary_zh": null,
+      "summary_zh": "我们偶然发现了德里德瓦卡一棵闹鬼树的视频，该视频与几个恐怖故事有关",
       "summary_en": "We stumbled upon a viral video of a haunted tree in Dwarka, Delhi, which is associated with several spooky stories",
       "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-09T195558.689-2025-07-bb7f38070ca71968d3a061106b8f9789-16x9.jpg",
       "source": "News18 Viral",
@@ -83,7 +83,7 @@
         "奇人奇事"
       ],
       "url": "https://www.news18.com/viral/delhi-dwarka-sector-9-haunted-tree-beneath-lies-buried-baoli-know-spooky-history-ws-l-aa-aa-9430880.html",
-      "translation_status": "pending",
+      "translation_status": "fallback",
       "cluster_id": "24912399e3f2e08f",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
@@ -113,6 +113,28 @@
       "reddit_comments": null
     },
     {
+      "id": "a8b8c6c2832d470f",
+      "date": "2025-07-05",
+      "published_at": "2025-07-05T16:01:07+08:00",
+      "title_zh": "勒克瑙茶商在病毒视频中模仿多莉·柴瓦拉：“他正在实习......Idhar Bhi 比赛”",
+      "title_en": "Lucknow Tea Seller Imitates Dolly Chaiwala In Viral Video: 'He's Interning...Idhar Bhi Competition'",
+      "summary_zh": "这段广为流传的视频显示，一名茶商打扮成多莉·柴瓦拉 (Dolly Chaiwala)，模仿他在勒克瑙泡茶的风格。",
+      "summary_en": "The viral video shows a tea vendor dressed as Dolly Chaiwala and copying his style of making tea in Lucknow.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-05T132038.538-2025-07-e566d3720a8be8517e913037e218c8c1-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/competition-everywhere-lucknow-vendor-imitates-dolly-chaiwala-in-viral-video-ws-l-aa-aa-9422578.html",
+      "translation_status": "fallback",
+      "cluster_id": "a8b8c6c2832d470f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "5bdf2caa4895db78",
       "date": "2025-07-03",
       "published_at": "2025-07-03T16:55:19+08:00",
@@ -129,6 +151,28 @@
       "url": "https://www.news18.com/viral/video-infosys-mysore-campus-looks-like-a-mini-city-from-above-ws-l-aa-9418555.html",
       "translation_status": "fallback",
       "cluster_id": "5bdf2caa4895db78",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "f6950ab95da234ba",
+      "date": "2025-07-03",
+      "published_at": "2025-07-03T16:35:35+08:00",
+      "title_zh": "谢法利·贾里瓦拉 (Shefali Jariwala) 与前夫的照片疯传；互联网要求隐私",
+      "title_en": "Shefali Jariwala Pics With Ex-Husband Go Viral; Internet Asks For Privacy",
+      "summary_zh": "这位 Bigg Boss 13 选手身穿紫色库尔塔衫搭配牛仔裤，用杜帕塔布遮住头部，甚至还穿着栗色的 chooda，就像新新娘一样。",
+      "summary_en": "Dressed in a purple-hued kurta paired with jeans, the Bigg Boss 13 contestant covered her head with a dupatta and even wore a maroon chooda like a new bride.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/news18-15-2025-07-5673f606ec5f2125ddfb135264f7ae29-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/shefali-jariwala-pics-with-ex-husband-go-viral-internet-asks-for-privacy-9418513.html",
+      "translation_status": "fallback",
+      "cluster_id": "f6950ab95da234ba",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

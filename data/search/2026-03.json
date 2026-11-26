@@ -1,7 +1,29 @@
 {
   "month": "2026-03",
-  "count": 3,
+  "count": 5,
   "items": [
+    {
+      "id": "a4a5a06f693ca74c",
+      "date": "2026-03-25",
+      "published_at": "2026-03-25T10:57:59+08:00",
+      "title_zh": "Who Is Dr Sunny Ashok?在片场治疗阿琼·拉姆帕尔的旁遮普医生在兰维尔的《杜兰达尔：Th》中客串",
+      "title_en": "Who Is Dr Sunny Ashok? Punjab Doc Who Treated Arjun Rampal On Set, Lands Cameo In Ranveer’s ‘Dhurandhar: Th",
+      "summary_zh": "阿琼·拉姆帕尔在卢迪亚纳附近的铁轨上拍摄追逐戏时头部受伤。",
+      "summary_en": "Arjun Rampal had sustained a head injury during a chase sequence being filmed on a railway track near Ludhiana.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/Untitled-design-2026-03-25T082233.015-2026-03-b31fe6b91db1475a8b1acd31acc8d9c3-1200x675.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车"
+      ],
+      "url": "https://www.news18.com/viral/who-is-dr-sunny-ashok-who-treated-arjun-rampal-in-ranveer-singh-dhurandhar-2-aa-9995602.html",
+      "translation_status": "fallback",
+      "cluster_id": "a4a5a06f693ca74c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "b472abd6b1b45d51",
       "date": "2026-03-17",
@@ -63,6 +85,30 @@
       "url": "https://www.news18.com/viral/anjum-khan-shivam-dube-wife-who-is-she-aa-ws-l-9952404.html",
       "translation_status": "fallback",
       "cluster_id": "7c56823307eb6c21",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "db4e5b568ceb5d8e",
+      "date": "2026-03-08",
+      "published_at": "2026-03-08T12:33:25+08:00",
+      "title_zh": "在孟买当地很难找到座位吗？这位女士的“Jugaad”从互联网上获得“纯粹天才”标签视频",
+      "title_en": "Hard To Find Seat In Mumbai Local? This Woman's 'Jugaad' Get 'Pure Genius' Tag From Internet | Video",
+      "summary_zh": "一位女士在孟买拥挤的火车上的创意座椅黑客行为迅速走红。她用背包里的便携式凳子，巧妙地让网友赞叹不已。",
+      "summary_en": "A woman's creative seat hack on a crowded Mumbai train went viral. She used a portable stool from her backpack, impressing netizens with her ingenuity.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-52-2026-03-4fee467326df2fa9fd37d293bf991bda-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "商业套路",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/mumbai-local-train-woman-jugaad-seat-hack-gets-internets-approval-video-aa-ws-l-9947853.html",
+      "translation_status": "fallback",
+      "cluster_id": "db4e5b568ceb5d8e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

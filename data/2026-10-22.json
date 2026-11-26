@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "22d3fba7464ef5f3",
+      "url": "https://www.news18.com/viral/employee-was-honest-about-salary-during-hiring-friend-bluffed-and-got-a-better-package-did-honesty-cost-me-ws-l-10391765.html",
+      "title_en": "Employee Was Honest About Salary During Hiring, Friend Bluffed And Got A Better Package: ‘Did Honesty Cost",
+      "title_zh": "员工在招聘过程中对薪资很诚实，朋友虚张声势并得到了更好的待遇：“诚实有代价吗？”",
+      "summary_en": "An employee has questioned whether being honest about his current salary cost him a better job offer after his friend reportedly quoted a higher figure and received more.",
+      "summary_zh": "一名员工质疑，在他的朋友报出更高的工资并收到更多工资后，诚实地透露自己目前的工资是否会让他获得更好的工作机会。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-21T192018.718-2026-10-b49aa873a6df73355a91580156b654ad-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-22T10:32:49+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "22d3fba7464ef5f3",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

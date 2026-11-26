@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "count": 97,
+  "count": 101,
   "items": [
     {
       "id": "443b27a8eddc7635",
@@ -246,6 +246,28 @@
       "reddit_comments": null
     },
     {
+      "id": "64b020b268599bb2",
+      "date": "2026-10-26",
+      "published_at": "2026-10-26T19:14:09+08:00",
+      "title_zh": "“我没有加班费”：员工称老板在轮班结束前 10 分钟不断放弃“快速”任务",
+      "title_en": "'I Don't Get Paid Overtime': Employee Says Boss Keeps Dumping ‘Quick’ Tasks 10 Minutes Before Shift Ends",
+      "summary_zh": "一名员工在 Reddit 上寻求建议，因为老板反复在下班前分配最后一刻的任务，迫使他们在无薪加班和未完成的工作之间做出选择",
+      "summary_en": "An employee on Reddit seeks advice after their boss repeatedly assigns last-minute tasks before clock-out, forcing them to choose between unpaid overtime and unfinished work",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-25-2026-10-adfb9dc77bff81d641817fc6e83ec457-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/i-dont-get-paid-overtime-employee-says-boss-keeps-dumping-quick-tasks-10-minutes-before-shift-ends-ws-l-10398238.html",
+      "translation_status": "fallback",
+      "cluster_id": "64b020b268599bb2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
       "id": "8d40cda04fa409a9",
       "date": "2026-10-26",
       "published_at": "2026-10-26T17:30:01+08:00",
@@ -284,6 +306,28 @@
       "url": "https://indianexpress.com/article/trending/trending-in-india/langur-enters-shop-hugs-the-shopkeeper-in-heartwarming-footage-watch-10935870/",
       "translation_status": "fallback",
       "cluster_id": "ca70b74ecb79342b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "128e7fafe1384bae",
+      "date": "2026-10-25",
+      "published_at": "2026-10-25T11:32:07+08:00",
+      "title_zh": "求职者对“你为什么想在这里工作？”给出了意想不到的答案，招聘经理的反应迅速蔓延",
+      "title_en": "Job Seeker Gives Unexpected Answer To ‘Why Do You Want To Work Here?’, Hiring Manager’s Reaction Goes Viral",
+      "summary_zh": "一位求职者厌倦了在面试时重复排练答案，当被问及为什么想要这个职位时，他决定诚实地告诉招聘经理，薪水是一个主要原因。",
+      "summary_en": "A job seeker tired of giving rehearsed interview answers decided to be honest when asked why they wanted the role, telling the hiring manager that the salary was a major reason.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-24T193019.571-2026-10-ef4f380ca45257cd38bd98ea9398bf9a-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/job-seeker-gives-unexpected-answer-to-why-do-you-want-to-work-here-hiring-managers-reaction-goes-viral-ws-l-10396274.html",
+      "translation_status": "fallback",
+      "cluster_id": "128e7fafe1384bae",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -416,6 +460,28 @@
       "url": "https://indianexpress.com/article/trending/trending-globally/mummy-removed-from-exhibition-over-lack-of-deceased-persons-consent-10933394/",
       "translation_status": "fallback",
       "cluster_id": "26b899ac59977270",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "22d3fba7464ef5f3",
+      "date": "2026-10-22",
+      "published_at": "2026-10-22T10:32:49+08:00",
+      "title_zh": "员工在招聘过程中对薪资很诚实，朋友虚张声势并得到了更好的待遇：“诚实有代价吗？”",
+      "title_en": "Employee Was Honest About Salary During Hiring, Friend Bluffed And Got A Better Package: ‘Did Honesty Cost",
+      "summary_zh": "一名员工质疑，在他的朋友报出更高的工资并收到更多工资后，诚实地透露自己目前的工资是否会让他获得更好的工作机会。",
+      "summary_en": "An employee has questioned whether being honest about his current salary cost him a better job offer after his friend reportedly quoted a higher figure and received more.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-21T192018.718-2026-10-b49aa873a6df73355a91580156b654ad-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/employee-was-honest-about-salary-during-hiring-friend-bluffed-and-got-a-better-package-did-honesty-cost-me-ws-l-10391765.html",
+      "translation_status": "fallback",
+      "cluster_id": "22d3fba7464ef5f3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
@@ -725,6 +791,28 @@
       "url": "https://indianexpress.com/article/trending/trending-globally/us-high-school-graduate-makes-808000-a-year-from-3d-printing-side-hustle-10924092/",
       "translation_status": "fallback",
       "cluster_id": "c60fb5f200e61e72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "17020a337ab87a6e",
+      "date": "2026-10-16",
+      "published_at": "2026-10-16T18:04:34+08:00",
+      "title_zh": "苏拉夫·乔希因要求妻子阿凡蒂卡喝宠物狗碗里的水而受到批评，互联网称“极其恶心”",
+      "title_en": "Sourav Joshi Criticised For Asking Wife Avantika To Drink From Pet Dog’s Bowl, Internet Says ‘Utterly Disgusting’",
+      "summary_zh": "苏拉夫·乔希 (Sourav Joshi) 在一场真心话大冒险游戏中要求妻子阿凡蒂卡·巴特 (Avantika Bhatt) 喝宠物狗奥利奥碗里的水后遭到强烈反对，这促使观众对这一挑战提出质疑。",
+      "summary_en": "Sourav Joshi faces backlash after asking wife Avantika Bhatt to drink from their pet dog Oreo’s bowl during a truth-and-dare game, prompting viewers to question the challenge.",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-16T151032.126-2026-10-c371f7dd4fe96626396e0179c9597109-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "动物"
+      ],
+      "url": "https://www.news18.com/viral/sourav-joshi-criticised-for-asking-wife-avantika-to-drink-from-pet-dogs-bowl-internet-says-utterly-disgusting-ws-l-10385041.html",
+      "translation_status": "fallback",
+      "cluster_id": "17020a337ab87a6e",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

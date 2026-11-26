@@ -1,0 +1,32 @@
+{
+  "date": "2025-07-05",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a8b8c6c2832d470f",
+      "url": "https://www.news18.com/viral/competition-everywhere-lucknow-vendor-imitates-dolly-chaiwala-in-viral-video-ws-l-aa-aa-9422578.html",
+      "title_en": "Lucknow Tea Seller Imitates Dolly Chaiwala In Viral Video: 'He's Interning...Idhar Bhi Competition'",
+      "title_zh": "勒克瑙茶商在病毒视频中模仿多莉·柴瓦拉：“他正在实习......Idhar Bhi 比赛”",
+      "summary_en": "The viral video shows a tea vendor dressed as Dolly Chaiwala and copying his style of making tea in Lucknow.",
+      "summary_zh": "这段广为流传的视频显示，一名茶商打扮成多莉·柴瓦拉 (Dolly Chaiwala)，模仿他在勒克瑙泡茶的风格。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-05T132038.538-2025-07-e566d3720a8be8517e913037e218c8c1-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-05T16:01:07+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a8b8c6c2832d470f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

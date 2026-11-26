@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-16",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "2ce2b4826db7fd37",
+      "url": "https://www.news18.com/viral/lionel-messi-hyderabad-event-vendor-sells-france-fry-for-rs-200-photo-aa-ws-l-9773258.html",
+      "title_en": "Hyderabad Vendor Sells ‘France Fry’ For Rs 200 To Lionel Messi Fans: ‘2022 FIFA World Cup Final Yaad Aa Gay",
+      "title_zh": "海得拉巴供应商以 200 卢比的价格向莱昂内尔·梅西球迷出售“France Fry”：“2022 年 FIFA 世界杯决赛 Yaad Aa Gay”",
+      "summary_en": "Lionel Messi's GOAT India Tour 2025 saw a viral 'France Fry' snack in Hyderabad, sparking online jokes about Argentina's 2022 FIFA World Cup win over France.",
+      "summary_zh": "莱昂内尔·梅西 (Lionel Messi) 的 2025 年 GOAT 印度之旅在海得拉巴看到了一款“France Fry”小吃走红，引发了网上关于阿根廷 2022 年 FIFA 世界杯战胜法国队的笑话。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/Untitled-design-2025-12-16T143836.869-2025-12-066ae7ac00d63e5cefddafc1cafe19ec-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-12-16T17:10:45+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2ce2b4826db7fd37",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

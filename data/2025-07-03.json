@@ -1,7 +1,7 @@
 {
   "date": "2025-07-03",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "5bdf2caa4895db78",
@@ -25,6 +25,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "5bdf2caa4895db78",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "f6950ab95da234ba",
+      "url": "https://www.news18.com/viral/shefali-jariwala-pics-with-ex-husband-go-viral-internet-asks-for-privacy-9418513.html",
+      "title_en": "Shefali Jariwala Pics With Ex-Husband Go Viral; Internet Asks For Privacy",
+      "title_zh": "谢法利·贾里瓦拉 (Shefali Jariwala) 与前夫的照片疯传；互联网要求隐私",
+      "summary_en": "Dressed in a purple-hued kurta paired with jeans, the Bigg Boss 13 contestant covered her head with a dupatta and even wore a maroon chooda like a new bride.",
+      "summary_zh": "这位 Bigg Boss 13 选手身穿紫色库尔塔衫搭配牛仔裤，用杜帕塔布遮住头部，甚至还穿着栗色的 chooda，就像新新娘一样。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/news18-15-2025-07-5673f606ec5f2125ddfb135264f7ae29-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-07-03T16:35:35+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f6950ab95da234ba",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

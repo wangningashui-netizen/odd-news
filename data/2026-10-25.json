@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "ca70b74ecb79342b",
@@ -24,6 +24,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ca70b74ecb79342b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "128e7fafe1384bae",
+      "url": "https://www.news18.com/viral/job-seeker-gives-unexpected-answer-to-why-do-you-want-to-work-here-hiring-managers-reaction-goes-viral-ws-l-10396274.html",
+      "title_en": "Job Seeker Gives Unexpected Answer To ‘Why Do You Want To Work Here?’, Hiring Manager’s Reaction Goes Viral",
+      "title_zh": "求职者对“你为什么想在这里工作？”给出了意想不到的答案，招聘经理的反应迅速蔓延",
+      "summary_en": "A job seeker tired of giving rehearsed interview answers decided to be honest when asked why they wanted the role, telling the hiring manager that the salary was a major reason.",
+      "summary_zh": "一位求职者厌倦了在面试时重复排练答案，当被问及为什么想要这个职位时，他决定诚实地告诉招聘经理，薪水是一个主要原因。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-24T193019.571-2026-10-ef4f380ca45257cd38bd98ea9398bf9a-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-25T11:32:07+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "128e7fafe1384bae",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

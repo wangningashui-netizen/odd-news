@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-10",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "a97f0110b773f819",
+      "url": "https://www.news18.com/viral/the-real-mvps-are-fan-wins-praise-online-for-handing-out-chocolates-to-ipl-cheerleaders-10025355.html",
+      "title_en": "'The Real MVPs Are…': Fan Wins Praise Online For Handing Out Chocolates To IPL Cheerleaders",
+      "title_zh": "“真正的 MVP 是……”：粉丝向 IPL 啦啦队分发巧克力而赢得网上赞誉",
+      "summary_en": "The small off-field moment gets noticed, with many saying it shows appreciation for people often overlooked",
+      "summary_zh": "场外的小时刻受到关注，许多人表示这表达了对经常被忽视的人的感激之情",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/04/Ranveer-Singh-1-2026-04-4cf4770a54c36918aa6b166bca604597-1200x675.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-04-10T13:09:36+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a97f0110b773f819",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

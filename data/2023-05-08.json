@@ -1,0 +1,32 @@
+{
+  "date": "2023-05-08",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "141966a32f01bef2",
+      "url": "https://www.news18.com/viral/ms-dhoni-wears-black-kurta-pajama-during-csk-team-dinner-and-fans-cant-stop-gushing-about-it-7752469.html",
+      "title_en": "MS Dhoni Wears Black Kurta Pajama During CSK Team Dinner and Fans Can't Stop Gushing About it",
+      "title_zh": "MS Dhoni 在 CSK 团队晚宴上穿着黑色 Kurta 睡衣，粉丝们对此赞不绝口",
+      "summary_en": "MS Dhoni was recently spotted in a black kurta pajama during CSK's team dinner and fans can't get enough of his Desi avatar.",
+      "summary_zh": "MS Dhoni 最近在 CSK 的团队晚宴上被发现穿着黑色库尔塔睡衣，粉丝们对他的 Desi 头像爱不释手。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/05/untitled-2023-05-08t154552.508-168354099116x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-05-08T18:19:34+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "141966a32f01bef2",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

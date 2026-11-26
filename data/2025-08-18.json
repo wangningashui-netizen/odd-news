@@ -1,0 +1,33 @@
+{
+  "date": "2025-08-18",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "4ecae793a5234431",
+      "url": "https://www.news18.com/viral/indian-man-american-wife-go-viral-over-love-vs-arranged-marriage-banter-ws-l-9512234.html",
+      "title_en": "Indian Man, American Wife Go Viral Over Love Vs Arranged Marriage Banter",
+      "title_zh": "印度男人和美国妻子因爱情与包办婚姻的玩笑而走红",
+      "summary_en": "A viral video by Deepak and Hannah humorously contrasts Indian and American views on marriage. Deepak jokes about arranged marriage, while Hannah shares quirky questions.",
+      "summary_zh": "迪帕克和汉娜的一段病毒视频幽默地对比了印度和美国人的婚姻观。迪帕克拿包办婚姻开玩笑，汉娜则提出一些奇怪的问题。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/08/Untitled-design-38-2025-08-a63a7183454d0f550d2362413fbca4ad-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-08-18T18:49:11+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4ecae793a5234431",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

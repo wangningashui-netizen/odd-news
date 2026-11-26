@@ -1,0 +1,34 @@
+{
+  "date": "2026-03-08",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "db4e5b568ceb5d8e",
+      "url": "https://www.news18.com/viral/mumbai-local-train-woman-jugaad-seat-hack-gets-internets-approval-video-aa-ws-l-9947853.html",
+      "title_en": "Hard To Find Seat In Mumbai Local? This Woman's 'Jugaad' Get 'Pure Genius' Tag From Internet | Video",
+      "title_zh": "在孟买当地很难找到座位吗？这位女士的“Jugaad”从互联网上获得“纯粹天才”标签视频",
+      "summary_en": "A woman's creative seat hack on a crowded Mumbai train went viral. She used a portable stool from her backpack, impressing netizens with her ingenuity.",
+      "summary_zh": "一位女士在孟买拥挤的火车上的创意座椅黑客行为迅速走红。她用背包里的便携式凳子，巧妙地让网友赞叹不已。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-52-2026-03-4fee467326df2fa9fd37d293bf991bda-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-03-08T12:33:25+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车",
+        "商业套路",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "db4e5b568ceb5d8e",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

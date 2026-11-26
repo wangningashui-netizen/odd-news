@@ -1,8 +1,33 @@
 {
   "date": "2023-04-28",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "1cde4a777ca79372",
+      "url": "https://www.news18.com/buzz/anand-mahindra-gives-full-marks-to-danish-cafes-husband-day-care-business-idea-7668265.html",
+      "title_en": "Anand Mahindra Gives Full Marks To Danish Cafe's Husband Day Care Business Idea",
+      "title_zh": "Anand Mahindra 对丹麦咖啡馆的丈夫日托业务理念给予满分",
+      "summary_en": "Anand Mahindra suggested that The Husband Day Care Centre is an excellent example of how businesses can think outside the box to offer unique services.",
+      "summary_zh": "阿南德·马辛德拉 (Anand Mahindra) 表示，丈夫日托中心是企业如何跳出框框思考提供独特服务的一个很好的例子。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/04/news18-1-44-168268591716x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-04-28T20:49:39+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1cde4a777ca79372",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "cdff87cd0ed32956",
       "url": "https://www.news18.com/viral/youtube-stars-mrbeast-pewdiepie-finally-met-and-fans-are-awaiting-collab-of-the-century-7662517.html",

@@ -1,0 +1,32 @@
+{
+  "date": "2023-06-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "f3cda17862b5e37b",
+      "url": "https://www.news18.com/viral/153-prisoners-die-in-el-salvador-jail-the-cruelest-in-the-world-7972315.html",
+      "title_en": "153 Prisoners Die In El Salvador Jail, The Cruelest In The World",
+      "title_zh": "153名囚犯死于世界上最残酷的萨尔瓦多监狱",
+      "summary_en": "Known as the cruelest jail to ever exist, the prisoners were reportedly herded like cattle, their head bowed, with bare torsos, and their hands and feet all shackled.",
+      "summary_zh": "据报道，这所监狱被称为有史以来最残酷的监狱，囚犯们像牛一样被赶着，低着头，赤裸上身，手脚都戴着镣铐。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/06/untitled-design-2023-06-01t120527.119-168560133516x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-06-01T14:38:34+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "f3cda17862b5e37b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

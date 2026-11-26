@@ -1,0 +1,32 @@
+{
+  "date": "2024-04-03",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "0fe11e628fa1c204",
+      "url": "https://www.news18.com/viral/video-of-dolly-chaiwala-meeting-delhis-popular-vada-pav-girl-is-trending-obviously-8838404.html",
+      "title_en": "Video Of Dolly Chaiwala Meeting Delhi’s Popular Vada Pav Girl Is Trending, Obviously",
+      "title_zh": "多莉·柴瓦拉 (Dolly Chaiwala) 与德里受欢迎的瓦达·帕夫女孩 (Vada Pav Girl) 会面的视频显然正在流行",
+      "summary_en": "Chandrika Gera Dixit, popularly known as Delhi’s Vada Pav girl met social media star Dolly Chaiwala in the national capital.",
+      "summary_zh": "钱德里卡·格拉·迪克西特 (Chandrika Gera Dixit)，俗称德里的瓦达·帕夫 (Vada Pav) 女孩，在首都遇见了社交媒体明星多莉·柴瓦拉 (Dolly Chaiwala)。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-40-2024-04-2605c6c6d51cbac614f8a28d306761d8-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-04-03T18:46:04+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0fe11e628fa1c204",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

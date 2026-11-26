@@ -1,0 +1,32 @@
+{
+  "date": "2023-03-31",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "b449d17ca86fe160",
+      "url": "https://www.news18.com/buzz/parrot-beak-roosters-from-andhra-pradesh-shine-at-beauty-contest-for-chickens-7428097.html",
+      "title_en": "Parrot Beak Roosters From Andhra Pradesh Shine at Beauty Contest for Chickens",
+      "title_zh": "来自安得拉邦的鹦鹉嘴公鸡在鸡选美比赛中大放异彩",
+      "summary_en": "Sayyad Basha said that it is a herculean task in growing parrot beak roosters to make them participate in a beauty pageant. He said they will have a special diet for the hens with nutritional values.",
+      "summary_zh": "赛亚德·巴沙表示，饲养鹦鹉嘴公鸡，让它们参加选美比赛，是一项艰巨的任务。他说，他们将为母鸡提供具有营养价值的特殊饮食。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/03/chicken-168023238316x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-03-31T17:24:06+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b449d17ca86fe160",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

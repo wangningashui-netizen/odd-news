@@ -1,7 +1,29 @@
 {
   "month": "2025-10",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "00f19c3c872b09e4",
+      "date": "2025-10-26",
+      "published_at": "2025-10-26T11:32:42+08:00",
+      "title_zh": "过了30岁，包办婚姻有多难？了解 2025 年的期望：“……父母决定”",
+      "title_en": "How Difficult Is Arranged Marriage Once You Cross 30? Finding Out Expectations In 2025: ‘...Parents Decidin",
+      "summary_zh": "一位女士分享了她 33 岁朋友的挣扎，尽管她有稳定的工作和背景，但很难找到合适的对象。",
+      "summary_en": "A woman shared the struggles of her 33-year-old friend, who is having a hard time finding a suitable match despite having a stable job and background.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/10/Untitled-design-2025-10-25T180815.603-2025-10-8deead7945dbfa4017b42ed7d77349fd-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "婚俗宗教"
+      ],
+      "url": "https://www.news18.com/viral/how-difficult-is-arranged-marriage-once-you-cross-30-finding-out-expectations-in-2025-aa-ws-l-9658658.html",
+      "translation_status": "fallback",
+      "cluster_id": "00f19c3c872b09e4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "a25044395f258cde",
       "date": "2025-10-14",

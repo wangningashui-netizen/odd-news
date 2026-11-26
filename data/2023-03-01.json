@@ -1,0 +1,32 @@
+{
+  "date": "2023-03-01",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "5fb0b77017b5c308",
+      "url": "https://www.news18.com/buzz/meet-the-lesser-known-but-gorgeous-wives-of-team-india-cricketers-3831416.html",
+      "title_en": "Meet The Lesser-Known, But Gorgeous Wives of Indian Cricketers",
+      "title_zh": "认识一下鲜为人知但美丽的印度板球运动员妻子",
+      "summary_en": "From Mayanti Langer to Deepika Pallikal, checkout the pictures of some of the lesser-known wives of Indian cricketers.",
+      "summary_zh": "从 Mayanti Langer 到 Deepika Pallikal，看看一些不太知名的印度板球运动员妻子的照片。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1600x900.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-03-01T14:42:41+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5fb0b77017b5c308",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "Asia/Shanghai",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "598c2027b6b8b03d",
@@ -48,6 +48,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c60fb5f200e61e72",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "17020a337ab87a6e",
+      "url": "https://www.news18.com/viral/sourav-joshi-criticised-for-asking-wife-avantika-to-drink-from-pet-dogs-bowl-internet-says-utterly-disgusting-ws-l-10385041.html",
+      "title_en": "Sourav Joshi Criticised For Asking Wife Avantika To Drink From Pet Dog’s Bowl, Internet Says ‘Utterly Disgusting’",
+      "title_zh": "苏拉夫·乔希因要求妻子阿凡蒂卡喝宠物狗碗里的水而受到批评，互联网称“极其恶心”",
+      "summary_en": "Sourav Joshi faces backlash after asking wife Avantika Bhatt to drink from their pet dog Oreo’s bowl during a truth-and-dare game, prompting viewers to question the challenge.",
+      "summary_zh": "苏拉夫·乔希 (Sourav Joshi) 在一场真心话大冒险游戏中要求妻子阿凡蒂卡·巴特 (Avantika Bhatt) 喝宠物狗奥利奥碗里的水后遭到强烈反对，这促使观众对这一挑战提出质疑。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-Design-2026-10-16T151032.126-2026-10-c371f7dd4fe96626396e0179c9597109-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-10-16T18:04:34+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "17020a337ab87a6e",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },

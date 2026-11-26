@@ -1,6 +1,6 @@
 {
   "month": "2024-04",
-  "count": 2,
+  "count": 4,
   "items": [
     {
       "id": "0b0248de94c68b08",
@@ -41,6 +41,50 @@
       "url": "https://www.news18.com/viral/lost-my-rs-5-bengaluru-man-complains-about-bmtc-conductors-giving-no-change-in-viral-post-8852228.html",
       "translation_status": "fallback",
       "cluster_id": "498087d6684eed51",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "93b5e614007d7a3c",
+      "date": "2024-04-11",
+      "published_at": "2024-04-11T11:30:49+08:00",
+      "title_zh": "“真是个球”：当 IPL 球迷厌倦了他在 GT 与 RR 比赛中的评论时，Harsha Bhogle 用表情包进行恶搞",
+      "title_en": "'What a Ball': Harsha Bhogle Trolled With Memes As IPL Fans Get Bored Of His Commentary in GT vs RR",
+      "summary_zh": "Harsha Bhogle 对 Kuldeep Sen 在 GT 与 RR 比赛中的投球发表了“真是个球”的评论，这让 IPL 球迷感到无聊。",
+      "summary_en": "Harsha Bhogle's 'What a ball' comment on Kuldeep Sen's delivery during GT vs RR leaves IPL fans bored.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-2024-04-11t085919.655-2024-04-b8d6bce487b6d31366d30e903abafb35-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/what-a-ball-harsha-bhogle-trolled-with-memes-as-ipl-fans-get-bored-of-his-commentary-in-gt-vs-rr-8847672.html",
+      "translation_status": "fallback",
+      "cluster_id": "93b5e614007d7a3c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "0fe11e628fa1c204",
+      "date": "2024-04-03",
+      "published_at": "2024-04-03T18:46:04+08:00",
+      "title_zh": "多莉·柴瓦拉 (Dolly Chaiwala) 与德里受欢迎的瓦达·帕夫女孩 (Vada Pav Girl) 会面的视频显然正在流行",
+      "title_en": "Video Of Dolly Chaiwala Meeting Delhi’s Popular Vada Pav Girl Is Trending, Obviously",
+      "summary_zh": "钱德里卡·格拉·迪克西特 (Chandrika Gera Dixit)，俗称德里的瓦达·帕夫 (Vada Pav) 女孩，在首都遇见了社交媒体明星多莉·柴瓦拉 (Dolly Chaiwala)。",
+      "summary_en": "Chandrika Gera Dixit, popularly known as Delhi’s Vada Pav girl met social media star Dolly Chaiwala in the national capital.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-40-2024-04-2605c6c6d51cbac614f8a28d306761d8-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "街头食物"
+      ],
+      "url": "https://www.news18.com/viral/video-of-dolly-chaiwala-meeting-delhis-popular-vada-pav-girl-is-trending-obviously-8838404.html",
+      "translation_status": "fallback",
+      "cluster_id": "0fe11e628fa1c204",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

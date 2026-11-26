@@ -1,0 +1,33 @@
+{
+  "date": "2023-01-08",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "6fa7bb2df8ee4f2f",
+      "url": "https://www.news18.com/buzz/gay-couple-who-went-viral-for-traditional-hindu-wedding-now-expecting-their-first-child-6784885.html",
+      "title_en": "Gay Couple Who Went Viral For Traditional Hindu Wedding Now Expecting Their First Child",
+      "title_zh": "因传统印度教婚礼而走红的同性夫妇现在即将迎来他们的第一个孩子",
+      "summary_en": "Amit Shah and Aditya Madiraju took the internet by storm in 2019 with pictures of their grand Hindu wedding held in New Jersey, US",
+      "summary_zh": "2019 年，阿米特·沙阿 (Amit Shah) 和阿迪亚·马迪拉朱 (Aditya Madiraju) 在美国新泽西州举行的盛大印度教婚礼的照片在互联网上掀起风暴",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/01/couple-167316758316x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-01-08T16:48:24+08:00",
+      "fetched_at": "2026-11-26T12:50:54+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6fa7bb2df8ee4f2f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
