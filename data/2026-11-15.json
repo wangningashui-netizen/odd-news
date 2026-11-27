@@ -2639,7 +2639,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-15T02:45:16+08:00",
-      "fetched_at": "2026-11-26T06:38:51+08:00",
+      "fetched_at": "2026-11-27T14:35:16+08:00",
       "tags": [
         "军事政治",
         "犯罪法律"
@@ -3087,7 +3087,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-15T00:38:36+08:00",
-      "fetched_at": "2026-11-26T06:38:50+08:00",
+      "fetched_at": "2026-11-27T14:35:15+08:00",
       "tags": [
         "军事政治"
       ],
@@ -3117,7 +3117,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2121643972946985286/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2121643682927693824/vid/avc1/720x900/LutG5VAOP0i-TxsG.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-26T06:38:50+08:00",
+        "video_url_resolved_at": "2026-11-27T14:35:15+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2121643972946985286",

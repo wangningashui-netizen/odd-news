@@ -1,8 +1,137 @@
 {
   "date": "2026-11-27",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 25,
   "items": [
+    {
+      "id": "f7465b02e13e61a5",
+      "url": "https://x.com/INCIndia/status/2126184240589250969",
+      "title_en": "ECONOMY IN CRISIS: 12 Reasons Why👇 https://t.co/ukDksbpFw8",
+      "title_zh": "国大党发图列举“经济陷入危机”的12个理由",
+      "summary_en": "ECONOMY IN CRISIS: 12 Reasons Why👇 https://t.co/ukDksbpFw8",
+      "summary_zh": "国大党官方号发图，标题写着“ECONOMY IN CRISIS: 12 Reasons Why”，从反对党角度批评当前经济。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T13:20:00+08:00",
+      "fetched_at": "2026-11-27T14:37:07+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126184240589250969",
+        "lang": "en",
+        "text": "ECONOMY IN CRISIS: 12 Reasons Why👇 https://t.co/ukDksbpFw8",
+        "author": {
+          "name": "Congress",
+          "username": "INCIndia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1710964597489029120/2akrQaAj_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/avatar.jpg"
+        },
+        "created_at": "2026-11-27T05:20:00.000Z",
+        "public_metrics": {
+          "reply_count": 8,
+          "repost_count": 66,
+          "like_count": 141,
+          "quote_count": 3,
+          "bookmark_count": 1,
+          "impression_count": 11685
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/INCIndia/status/2126184240589250969",
+        "ytdlp_command": "yt-dlp https://x.com/INCIndia/status/2126184240589250969",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126191596291154386",
+            "author": {
+              "name": "CA Hemant R",
+              "username": "CAHemantR_25",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1770747696338395136/3HDGWrMZ_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/avatars/CAHemantR_25.jpg"
+            },
+            "text": "@INCIndia Those who pushed India's economy into the 'Fragile Five' category between 2004-14 &amp; are responsible for further decimating the economic health of the states they're governing, are trying to depict Modi govt in the bad light.\n\nRemember, India's economy has stood strong despite the https://t.co/5m2lV5lxuH",
+            "created_at": "2026-11-27T05:49:13.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 23
+            },
+            "in_reply_to_id": "2126184240589250969"
+          },
+          {
+            "id": "2126197166880575920",
+            "author": {
+              "name": "Anika",
+              "username": "maxi_ank",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1570649569293398016/CebAuclu_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/avatars/maxi_ank.jpg"
+            },
+            "text": "@INCIndia ECONOMY IN CRISIS: 12 Years ago under the Congress-led UPA regime\n\nECONOMY IN FULL SWING: Since 2014 under the Modi Govt\n\nCongressi dolts never learn. \n\nThey come up with fake narratives every now &amp; then, only to end up with eggs on their faces. Liars! https://t.co/p3e6OPeCmW",
+            "created_at": "2026-11-27T06:11:22.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 9
+            },
+            "in_reply_to_id": "2126184240589250969"
+          },
+          {
+            "id": "2126193585200701624",
+            "author": {
+              "name": "Facts",
+              "username": "FactxNation",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2108264909473775616/q_FmWOms_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126184240589250969/avatars/FactxNation.jpg"
+            },
+            "text": "@INCIndia Who is this Admin. Please change him because people knowing facts through many resources. He is indirectly pointing out congress. A black sheep in Congress Page. Atleast research a topic before posting 🤡 https://t.co/zzvAYTZTC4",
+            "created_at": "2026-11-27T05:57:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 11
+            },
+            "in_reply_to_id": "2126184240589250969"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "b2cee0c5191088afe1fe400e16c242359113ce95",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "f7465b02e13e61a5",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "ca10eaf9f22c1753",
       "url": "https://www.ndtv.com/offbeat/watch-man-loses-4-carat-diamond-ring-moments-after-proposing-girlfriend-at-beach-12383145",
@@ -25,6 +154,154 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "ca10eaf9f22c1753",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "7649f8f224b56514",
+      "url": "https://x.com/yadavakhilesh/status/2126169361820098698",
+      "title_en": "‘परिसीमन’ भाजपा की राजनीति की सबसे बड़ी भूल साबित होगा।",
+      "title_zh": "阿克列什·亚达夫：选区重划会成为印人党政治上最大的错误",
+      "summary_en": "‘परिसीमन’ भाजपा की राजनीति की सबसे बड़ी भूल साबित होगा।",
+      "summary_zh": "社会党主席阿克列什发帖称，选区重划（Delimitation）会成为印度人民党政治上最大的错误。这条只有一句话的帖子互动很高。",
+      "translation_status": "ai",
+      "image": null,
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T12:20:52+08:00",
+      "fetched_at": "2026-11-27T14:36:54+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126169361820098698",
+        "lang": "hi",
+        "text": "‘परिसीमन’ भाजपा की राजनीति की सबसे बड़ी भूल साबित होगा।",
+        "author": {
+          "name": "Akhilesh Yadav",
+          "username": "yadavakhilesh",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1364807128683143168/Q2hcCtVT_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126169361820098698/avatar.jpg"
+        },
+        "created_at": "2026-11-27T04:20:52.000Z",
+        "public_metrics": {
+          "reply_count": 360,
+          "repost_count": 1119,
+          "like_count": 6813,
+          "quote_count": 142,
+          "bookmark_count": 59,
+          "impression_count": 224179
+        },
+        "photos": [],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/yadavakhilesh/status/2126169361820098698",
+        "ytdlp_command": "yt-dlp https://x.com/yadavakhilesh/status/2126169361820098698",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126169361820098698/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126201860319310027",
+            "author": {
+              "name": "Shafiq Ahmad INC✋ (भारत जोड़ो यात्री)",
+              "username": "ShafiqA80730195",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1653288702263840768/iPig_nUR_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126169361820098698/avatars/ShafiqA80730195.jpg"
+            },
+            "text": "@yadavakhilesh न EVM, न वोटर लिस्ट... अगला खेल है परिसीमन का! यानी आपके निर्वाचन क्षेत्र की सीमाएं कौन तय करेगा?",
+            "created_at": "2026-11-27T06:30:01.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2126169361820098698"
+          },
+          {
+            "id": "2126200481295094132",
+            "author": {
+              "name": "Rohit Vishwakarma",
+              "username": "RohitVishw73079",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120208358464765952/usR4jHrN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126169361820098698/avatars/RohitVishw73079.jpg"
+            },
+            "text": "@yadavakhilesh ये तो आप लोग के लिए अच्छी बात है तब सपोर्ट कर दो",
+            "created_at": "2026-11-27T06:24:32.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2126169361820098698"
+          },
+          {
+            "id": "2126201890933277067",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126169361820098698/avatars/grok.jpg"
+            },
+            "text": "Akhilesh Yadav is referring to the proposed delimitation of Lok Sabha seats. Parliament is set for a special session from 30 Nov to take up an amended Constitution Amendment/Delimitation Bill. This would raise the total seats (reports suggest up to 850 or a uniform 50% increase) so the already-passed women’s reservation law can take effect. A similar bill failed in April 2026 for lack of two-thirds majority. He calls the BJP’s push on it their biggest political mistake.",
+            "created_at": "2026-11-27T06:30:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2126201742748709228"
+          },
+          {
+            "id": "2126201742748709228",
+            "author": {
+              "name": "~Vivek",
+              "username": "prince_vivek01",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1984604956926881792/PjGfBQ_k_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126169361820098698/avatars/prince_vivek01.jpg"
+            },
+            "text": "@yadavakhilesh Hey @grok , what is @yadavakhilesh sir talking about?",
+            "created_at": "2026-11-27T06:29:33.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2126169361820098698"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "a78b239d1623d8d9c1493f0d30519230517572d1",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "7649f8f224b56514",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -154,6 +431,365 @@
       "cluster_source_count": 1
     },
     {
+      "id": "60b7f7905bc6a380",
+      "url": "https://x.com/Jairam_Ramesh/status/2126161406441791795",
+      "title_en": "Yet again, the mischievous PM-HM jodi is lying. The Nari Shakti Vandan Adhiniyam to give one-third reservation to women was passed unanimously in Parliament in Sept 2023. The Congress President had demanded its immediate implementation. But that was rejected and the law did not get notified till 10:",
+      "title_zh": "贾拉姆·拉梅什批莫迪与沙阿说谎：女性保留席位已是法律，特别会议其实是为了选区重划",
+      "summary_en": "Yet again, the mischievous PM-HM jodi is lying.\n\nThe Nari Shakti Vandan Adhiniyam to give one-third reservation to women was passed unanimously in Parliament in Sept 2023. The Congress President had demanded its immediate implementation. But that was rejected and the law did not get notified till 10:40 pm on the night of April 16, 2026–something that happened suddenly.\n\nThe Special Session is thus NOT for women’s reservation. That is already a law which the PM-HM jodi have put into cold storage for over three years.\n\nThe Special Session is for Delimitation. And who will be in charge of deciding the geography of constituencies? It will be a thoroughly compromised and brutally exposed CEC, Gyanesh Kumar, who has made a complete mockery of preparation of electoral rolls and destroyed the integrity of the electoral process. The executors of Vote Chori on such a gigantic scale are to be given the powers to carry out delimitation and manipulate the nature of constituencies. This is as atrocious as you can get.\n\nThis is a desperate move by a nervous and rattled PM who is under siege. It will be countered with firm resolve.\n\nपीएम-एचएम की षड्यंत्रकारी जोड़ी हमेशा की तरह झूठ फैला रही है।\n\nमहिलाओं को एक-तिहाई आरक्षण देने वाला नारी शक्ति वंदन अधिनियम सितंबर 2023 में संसद में सर्वसम्मति से पारित हुआ था। कांग्रेस अध्यक्ष ने इसे तुरंत लागू करने की मांग की थी। लेकिन उनकी मांग को ठुकरा दिया गया और 16 अप्रैल 2026 की रात 10:40 बजे तक कानून की अधिसूचना जारी नहीं हुई थी, जिसे बाद में अचानक कर दिया गया।\n\nइसलिए यह पूरी तरह से स्पष्ट है कि संसद का विशेष सत्र महिला आरक्षण के लिए नहीं है। महिला आरक्षण तो पहले से ही कानून बन चुका है, लेकिन पीएम-एचएम की जोड़ी ने इसे तीन साल से ज्यादा समय से ठंडे बस्ते में डाल रखा है।\n\nविशेष सत्र का असली मक़सद निर्वाचन क्षेत्रों का मनमाने ढंग से परिसीमन करना है ताकि लोगों की आवाज़ दबाई जा सके। और निर्वाचन क्षेत्रों की सीमाएं तय करने की जिम्मेदारी किसे दी जाएगी? क्या यह पूरी तरह सवालों के घेरे में आ चुके और बुरी तरह बेनकाब हो चुके मुख्य चुनाव आयुक्त ज्ञानेश कुमार को दी जा सकती है, जिन्होंने मतदाता सूचियां तैयार करने की पूरी प्रक्रिया का मजाक बनाकर रख दिया है और चुनावी प्रक्रिया की विश्वसनीयता को तार-तार कर दिया है। इतने बड़े पैमाने पर वोट चोरी को अंजाम देने वालों को ही अब परिसीमन करने और निर्वाचन क्षेत्रों का स्वरूप बदलने की ताकत कैसे दी जा सकती है? इससे ज्यादा शर्मनाक और क्या हो सकता है!\n\nयह चारों तरफ से घिरे, घबराए और बौखलाए प्रधानमंत्री द्वारा हताशा में उठाया गया कदम है। लेकिन इसका पूरी ताकत और दृढ़ संकल्प के साथ मुकाबला किया जाएगा।",
+      "summary_zh": "国大党的贾拉姆·拉梅什发长文说，女性三分之一保留席位法案2023年9月已在议会通过，特别会议的真正议题是选区重划，并批评选举委员会主席被委以划界权力。",
+      "translation_status": "ai",
+      "image": null,
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T11:49:16+08:00",
+      "fetched_at": "2026-11-27T14:37:11+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126161406441791795",
+        "lang": "en",
+        "text": "Yet again, the mischievous PM-HM jodi is lying.\n\nThe Nari Shakti Vandan Adhiniyam to give one-third reservation to women was passed unanimously in Parliament in Sept 2023. The Congress President had demanded its immediate implementation. But that was rejected and the law did not get notified till 10:40 pm on the night of April 16, 2026–something that happened suddenly.\n\nThe Special Session is thus NOT for women’s reservation. That is already a law which the PM-HM jodi have put into cold storage for over three years.\n\nThe Special Session is for Delimitation. And who will be in charge of deciding the geography of constituencies? It will be a thoroughly compromised and brutally exposed CEC, Gyanesh Kumar, who has made a complete mockery of preparation of electoral rolls and destroyed the integrity of the electoral process. The executors of Vote Chori on such a gigantic scale are to be given the powers to carry out delimitation and manipulate the nature of constituencies. This is as atrocious as you can get.\n\nThis is a desperate move by a nervous and rattled PM who is under siege. It will be countered with firm resolve.\n\nपीएम-एचएम की षड्यंत्रकारी जोड़ी हमेशा की तरह झूठ फैला रही है।\n\nमहिलाओं को एक-तिहाई आरक्षण देने वाला नारी शक्ति वंदन अधिनियम सितंबर 2023 में संसद में सर्वसम्मति से पारित हुआ था। कांग्रेस अध्यक्ष ने इसे तुरंत लागू करने की मांग की थी। लेकिन उनकी मांग को ठुकरा दिया गया और 16 अप्रैल 2026 की रात 10:40 बजे तक कानून की अधिसूचना जारी नहीं हुई थी, जिसे बाद में अचानक कर दिया गया।\n\nइसलिए यह पूरी तरह से स्पष्ट है कि संसद का विशेष सत्र महिला आरक्षण के लिए नहीं है। महिला आरक्षण तो पहले से ही कानून बन चुका है, लेकिन पीएम-एचएम की जोड़ी ने इसे तीन साल से ज्यादा समय से ठंडे बस्ते में डाल रखा है।\n\nविशेष सत्र का असली मक़सद निर्वाचन क्षेत्रों का मनमाने ढंग से परिसीमन करना है ताकि लोगों की आवाज़ दबाई जा सके। और निर्वाचन क्षेत्रों की सीमाएं तय करने की जिम्मेदारी किसे दी जाएगी? क्या यह पूरी तरह सवालों के घेरे में आ चुके और बुरी तरह बेनकाब हो चुके मुख्य चुनाव आयुक्त ज्ञानेश कुमार को दी जा सकती है, जिन्होंने मतदाता सूचियां तैयार करने की पूरी प्रक्रिया का मजाक बनाकर रख दिया है और चुनावी प्रक्रिया की विश्वसनीयता को तार-तार कर दिया है। इतने बड़े पैमाने पर वोट चोरी को अंजाम देने वालों को ही अब परिसीमन करने और निर्वाचन क्षेत्रों का स्वरूप बदलने की ताकत कैसे दी जा सकती है? इससे ज्यादा शर्मनाक और क्या हो सकता है!\n\nयह चारों तरफ से घिरे, घबराए और बौखलाए प्रधानमंत्री द्वारा हताशा में उठाया गया कदम है। लेकिन इसका पूरी ताकत और दृढ़ संकल्प के साथ मुकाबला किया जाएगा।",
+        "author": {
+          "name": "Jairam Ramesh",
+          "username": "Jairam_Ramesh",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1956305043126472704/XdmhEw9X_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatar.jpg"
+        },
+        "created_at": "2026-11-27T03:49:16.000Z",
+        "public_metrics": {
+          "reply_count": 31,
+          "repost_count": 142,
+          "like_count": 336,
+          "quote_count": 8,
+          "bookmark_count": 11,
+          "impression_count": 11997
+        },
+        "photos": [],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/Jairam_Ramesh/status/2126161406441791795",
+        "ytdlp_command": "yt-dlp https://x.com/Jairam_Ramesh/status/2126161406441791795",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126167415147102655",
+            "author": {
+              "name": "Wakeup Bharat 🇮🇳Proud Brahmin",
+              "username": "sriniUS77",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1741497035663323136/Lk7urOmN_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatars/sriniUS77.jpg"
+            },
+            "text": "@Jairam_Ramesh What’s your fear in increasing the LS seats by flat 50%? Losing so badly because credit goes to the BJP? if you gonna cry like a baby, you will never win LieRam Ramesh.",
+            "created_at": "2026-11-27T04:13:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 139
+            },
+            "in_reply_to_id": "2126161406441791795"
+          },
+          {
+            "id": "2126170819923767452",
+            "author": {
+              "name": "Universe",
+              "username": "Universe1839131",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1840788085082071040/EhxGdtIG_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatars/Universe1839131.jpg"
+            },
+            "text": "@Jairam_Ramesh This is happening because of weak Congress who doesn't have presence (no seats) in Bengal, Tripura, Orissa, Gujarat, Andhra Pradesh and very few in MP and Bihar. If grand old party has no interest in these states then dont cry.",
+            "created_at": "2026-11-27T04:26:40.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 34
+            },
+            "in_reply_to_id": "2126161406441791795"
+          },
+          {
+            "id": "2126188961257468247",
+            "author": {
+              "name": "Civic Lens",
+              "username": "amit4u25",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2061859641072795648/KtOC9_Oz_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatars/amit4u25.jpg"
+            },
+            "text": "@Jairam_Ramesh Baukhlahat to aapke tweet me najar aa rha sir jee. Direct checkmate jo mila hai🤣🤣🤣",
+            "created_at": "2026-11-27T05:38:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 44
+            },
+            "in_reply_to_id": "2126161406441791795"
+          },
+          {
+            "id": "2126167357542498642",
+            "author": {
+              "name": "India First",
+              "username": "VasukiTweets",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1934192162037780480/Mrev_4Iv_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatars/VasukiTweets.jpg"
+            },
+            "text": "@Jairam_Ramesh try harder...this time you are bound to fail.",
+            "created_at": "2026-11-27T04:12:54.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 41
+            },
+            "in_reply_to_id": "2126161406441791795"
+          },
+          {
+            "id": "2126188815790588179",
+            "author": {
+              "name": "Kaushik Shah",
+              "username": "kaushikshah63",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1554168947334733824/QCwP_Vk5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatars/kaushikshah63.jpg"
+            },
+            "text": "@Jairam_Ramesh Indian citizens are not fools anymore. \n\nBlaming every one but yourself, for your election losses will not solve your predicament. \n\nFor 50 yrs, your party hasn't answered simple question. \n\nWhy Indian voters lost confidence in CONgress ?\n\n@NitinNabin @BJP4India",
+            "created_at": "2026-11-27T05:38:11.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 21
+            },
+            "in_reply_to_id": "2126161406441791795"
+          },
+          {
+            "id": "2126188367394341083",
+            "author": {
+              "name": "Ashok Gupta",
+              "username": "AshokGu95068305",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1780901327788441600/LSuDRrmw_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126161406441791795/avatars/AshokGu95068305.jpg"
+            },
+            "text": "@Jairam_Ramesh 1. You have made very long post : long &amp; overcomplicated explanations signal dishonesty :  lies require many words.\n\n2. What is preventing you defeat the Bill in Parliament?\n\n3.  \"It does not require many words to speak the truth.\" Chief Joseph",
+            "created_at": "2026-11-27T05:36:24.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 33
+            },
+            "in_reply_to_id": "2126161406441791795"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "4f1b1a785fb0d7309999ff49c951a33a27a04d30",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "60b7f7905bc6a380",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "04906952200fa0c4",
+      "url": "https://x.com/Mayawati/status/2126159649141559360",
+      "title_en": "1. यूपी में समाजवादी पार्टी द्वारा ’जन-मन का मेनिफेस्टो’ के नाम से कल जारी किया गया इनका यह ’प्रण-पत्र’ इनके कथित पीडीए की तरह ही कोरा हवाहवाई तथा ’थोथा चना बाजे घना’ की कहावत को ही चरितार्थ करने वाला ज़्यादा है। 2. वैसे भी इस पार्टी का स्वभाव जग जा़हिर तौर पर ग़रीबों, दलितों, पिछड़ों व मुस्लिमों आद",
+      "title_zh": "玛雅瓦蒂批社会党新宣言是空话，说它更像“为富人服务”",
+      "summary_en": "1. यूपी में समाजवादी पार्टी द्वारा ’जन-मन का मेनिफेस्टो’ के नाम से कल जारी किया गया इनका यह ’प्रण-पत्र’ इनके कथित पीडीए की तरह ही कोरा हवाहवाई तथा ’थोथा चना बाजे घना’ की कहावत को ही चरितार्थ करने वाला ज़्यादा है।\n2. वैसे भी इस पार्टी का स्वभाव जग जा़हिर तौर पर ग़रीबों, दलितों, पिछड़ों व मुस्लिमों आदि के वास्तविक हित, कल्याण, उनका मान-सम्मान व सुरक्षा आदि के विरुद्ध अधिकतर संकीर्ण व जातिवादी तथा धन्नासेठ-समर्थक भी रहा है, जिसका एक ताज़ा उदाहरण यूपी से राज्यसभा हेतु हाल ही में हुये द्विवार्षिक चुनाव में पीडीए को प्रश्रय देने के बजाय बड़े धन्नासेठ को प्राथमिकता देना है। ऐसी नीतियों एवं कार्यकलापों से प्रदेश की अपार ग़रीबी, बेरोजगारी, पिछड़ापन व पलायन आदि की गंभीर समस्या क्या कभी दूर हो पायेगी। कभी नहीं।\n3. इन बातों से से यह भी साबित है कि इनका ’जन-मन घोषणापत्र’ वास्तव में ’धन-मन वादी’ अधिक है तथा समाज के अच्छे लोगों के बजाय ऐसे ही धनी एवं बाहुबलियों आदि को चुनाव मैदान में भी उतारेगी जो देश, समाज व जनहित की चिन्ता कम व अपने खुद के लाभ व स्वार्थ में ही लगातार डूबे रहते हैं।   \n4. वैसे भी ’हर हाथ को काम’ तथा ’क़ानून द्वारा क़ानून का राज’ आदि विशुद्ध रूप से बी.एस.पी. की नीति व सिद्धान्त हैं तथा जिस सर्वसमाज व सर्वजन-हितैषी एजेण्डा पर बी.एस.पी. की यूपी में अब तक रही चारों सरकारों में पूरी ईमानदारी व निष्ठा से अमल करके भी दिखाया गया है, जो कि विरोधी पार्टियों में भी खा़सकर सपा, कांग्रेस व भाजपा आदि के बलबूते की बात नहीं है, यह सभी जानते/मानते हैं।\n5. इसके साथ ही, सपा के दामन पर भी ख़ासकर एससी, एसटी व ओबीसी आरक्षण विरोधी रवैया तथा यूपी को जातिवादी द्वेष व दंगा-युक्त प्रदेश बनाने सहित जनहित व जनकल्याण के अहम् मुद्दों पर लगे धब्बों को जनता भला कैसे भुला पायेगी? कुल मिलाकर, सपा की बातें, वादे, दावे व घोषणायें आदि चुनावी छल व छलावा हैं, लोग ज़रूर सावधान रहें।",
+      "summary_zh": "巴斯党主席玛雅瓦蒂发长文，称社会党刚发布的“人民心声宣言”多是空话，批评该党更偏向富人和地方强人，并提醒选民不要被竞选承诺骗到。",
+      "translation_status": "ai",
+      "image": null,
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T11:42:17+08:00",
+      "fetched_at": "2026-11-27T14:37:09+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126159649141559360",
+        "lang": "hi",
+        "text": "1. यूपी में समाजवादी पार्टी द्वारा ’जन-मन का मेनिफेस्टो’ के नाम से कल जारी किया गया इनका यह ’प्रण-पत्र’ इनके कथित पीडीए की तरह ही कोरा हवाहवाई तथा ’थोथा चना बाजे घना’ की कहावत को ही चरितार्थ करने वाला ज़्यादा है।\n2. वैसे भी इस पार्टी का स्वभाव जग जा़हिर तौर पर ग़रीबों, दलितों, पिछड़ों व मुस्लिमों आदि के वास्तविक हित, कल्याण, उनका मान-सम्मान व सुरक्षा आदि के विरुद्ध अधिकतर संकीर्ण व जातिवादी तथा धन्नासेठ-समर्थक भी रहा है, जिसका एक ताज़ा उदाहरण यूपी से राज्यसभा हेतु हाल ही में हुये द्विवार्षिक चुनाव में पीडीए को प्रश्रय देने के बजाय बड़े धन्नासेठ को प्राथमिकता देना है। ऐसी नीतियों एवं कार्यकलापों से प्रदेश की अपार ग़रीबी, बेरोजगारी, पिछड़ापन व पलायन आदि की गंभीर समस्या क्या कभी दूर हो पायेगी। कभी नहीं।\n3. इन बातों से से यह भी साबित है कि इनका ’जन-मन घोषणापत्र’ वास्तव में ’धन-मन वादी’ अधिक है तथा समाज के अच्छे लोगों के बजाय ऐसे ही धनी एवं बाहुबलियों आदि को चुनाव मैदान में भी उतारेगी जो देश, समाज व जनहित की चिन्ता कम व अपने खुद के लाभ व स्वार्थ में ही लगातार डूबे रहते हैं।   \n4. वैसे भी ’हर हाथ को काम’ तथा ’क़ानून द्वारा क़ानून का राज’ आदि विशुद्ध रूप से बी.एस.पी. की नीति व सिद्धान्त हैं तथा जिस सर्वसमाज व सर्वजन-हितैषी एजेण्डा पर बी.एस.पी. की यूपी में अब तक रही चारों सरकारों में पूरी ईमानदारी व निष्ठा से अमल करके भी दिखाया गया है, जो कि विरोधी पार्टियों में भी खा़सकर सपा, कांग्रेस व भाजपा आदि के बलबूते की बात नहीं है, यह सभी जानते/मानते हैं।\n5. इसके साथ ही, सपा के दामन पर भी ख़ासकर एससी, एसटी व ओबीसी आरक्षण विरोधी रवैया तथा यूपी को जातिवादी द्वेष व दंगा-युक्त प्रदेश बनाने सहित जनहित व जनकल्याण के अहम् मुद्दों पर लगे धब्बों को जनता भला कैसे भुला पायेगी? कुल मिलाकर, सपा की बातें, वादे, दावे व घोषणायें आदि चुनावी छल व छलावा हैं, लोग ज़रूर सावधान रहें।",
+        "author": {
+          "name": "Mayawati",
+          "username": "Mayawati",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2048732097817575424/1l1xd8kT_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/avatar.jpg"
+        },
+        "created_at": "2026-11-27T03:42:17.000Z",
+        "public_metrics": {
+          "reply_count": 139,
+          "repost_count": 468,
+          "like_count": 1145,
+          "quote_count": 34,
+          "bookmark_count": 11,
+          "impression_count": 43660
+        },
+        "photos": [],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/Mayawati/status/2126159649141559360",
+        "ytdlp_command": "yt-dlp https://x.com/Mayawati/status/2126159649141559360",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126195638597763503",
+            "author": {
+              "name": "Munna bhaiya",
+              "username": "munna66783",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2099364493671518208/4QW3vKYL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/avatars/munna66783.jpg"
+            },
+            "text": "@Mayawati 💙\nमान्यवर कांशीराम साहब ने बिल्कुल सही कहा था— जो समाज में तुम्हें बराबरी का दर्जा नहीं दे सकता और तुम्हारे हाथ का छुआ हुआ पानी नहीं पी सकता, वह तुम्हारे हक और सम्मान की आवाज़ भला क्या उठाएगा\n\nइसलिए अपने बहुजन नेता को ही वोट दें और ऐसे बहरूपियों से दूर रहें।\n\nJai bhim 💪💙💙💙💙 https://t.co/muoq2I7MnX",
+            "created_at": "2026-11-27T06:05:17.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 40
+            },
+            "in_reply_to_id": "2126159649141559360"
+          },
+          {
+            "id": "2126199612927295995",
+            "author": {
+              "name": "Govind Sagar अंबेडकरवादी विचारधारा",
+              "username": "Govind7soe",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2117648884172558336/UfaF7lOc_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/avatars/Govind7soe.jpg"
+            },
+            "text": "@Mayawati हमारी एक ही पार्टी है वह है बहुजन समाज पार्टी और हमारी एक ही नेता है वह है बहन जी",
+            "created_at": "2026-11-27T06:21:05.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2126159649141559360"
+          },
+          {
+            "id": "2126198510592942586",
+            "author": {
+              "name": "प्रशान्त सिंह जादौन (एडवोकेट)",
+              "username": "PSinghjadoun",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119862625110777856/SgaOHoqb_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/avatars/PSinghjadoun.jpg"
+            },
+            "text": "@Mayawati #जय_भीम_जय_भारत  🐘\n#जय_संविधान 🇮🇳 https://t.co/vN9vVtX8ZI",
+            "created_at": "2026-11-27T06:16:42.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2126159649141559360"
+          },
+          {
+            "id": "2126195840029163686",
+            "author": {
+              "name": "ASHOK KUMAR KALIYA",
+              "username": "KaliyajiAk",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2015291706715807744/4ekGHjnI_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/avatars/KaliyajiAk.jpg"
+            },
+            "text": "@Mayawati भारत की मजबूरी है बीएसपी और बहन जी जरूरी हैं।",
+            "created_at": "2026-11-27T06:06:05.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2126159649141559360"
+          },
+          {
+            "id": "2126199492944998471",
+            "author": {
+              "name": "Ram Narayan",
+              "username": "ram_narayan123",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1923032173302644736/npJ6cbCV_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126159649141559360/avatars/ram_narayan123.jpg"
+            },
+            "text": "@Mayawati https://t.co/XaQk2mthgR",
+            "created_at": "2026-11-27T06:20:36.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2126159649141559360"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "6b8b163b5ddfcec4e572a4eda1e91845190ebfe9",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "04906952200fa0c4",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "43d48bc4474685ba",
       "url": "https://www.timesnownews.com/india/no-yogi-no-up-sanjay-rauts-praise-adds-fuel-to-bjps-2027-cm-face-debate-article-156573011",
       "title_en": "'No Yogi, No UP': Sanjay Raut's Praise Adds Fuel To BJP's 2027 CM Face Debate",
@@ -200,6 +836,92 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "cd4c2033a14ce636",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "71f6cd105f281838",
+      "url": "https://x.com/IndiaToday/status/2126155375267459228",
+      "title_en": "BRS leaders staged an unusual biryani protest at Hyderabad's Bavarchi restaurant on Thursday, November 26, targeting Rahul Gandhi over the alleged failure to fulfil the Congress party's promise of providing two lakh jobs to unemployed youth in Telangana. BRS leaders Manne Krishank, Putta Vishnuvardh",
+      "title_zh": "海德拉巴餐厅里，BRS用一顿比尔亚尼向拉胡尔·甘地“示威”，双方还吵了起来",
+      "summary_en": "BRS leaders staged an unusual biryani protest at Hyderabad's Bavarchi restaurant on Thursday, November 26, targeting Rahul Gandhi over the alleged failure to fulfil the Congress party's promise of providing two lakh jobs to unemployed youth in Telangana.\n\nBRS leaders Manne Krishank, Putta Vishnuvardhan Reddy and Mutha Jai Simha, along with other party members, sat inside the restaurant with Rahul Gandhi's portrait and ate biryani as a symbolic protest.\n\nThe demonstration escalated after Congress leaders arrived at the venue, triggering heated arguments between the two groups. Plates were allegedly thrown at each other before police intervened and brought the situation under control.\n\nMeanwhile, Rajya Sabha MP Anil Kumar Yadav criticised the BRS leaders over their choice of protest.\n\n#BRS #Congress #RahulGandhi #Hyderabad #TelanganaPolitics #BiryaniProtest | @Journo_Abdul",
+      "summary_zh": "今日印度报道，特伦甘纳BRS领导人11月26日在海德拉巴Bavarchi餐厅对着拉胡尔·甘地的肖像吃比尔亚尼，抗议国大党未兑现20万个工作岗位的承诺；国大党人到场后双方发生争吵，据称还扔了盘子，警方随后到场控制局面。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126155375267459228/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T11:25:18+08:00",
+      "fetched_at": "2026-11-27T14:37:22+08:00",
+      "tags": [
+        "军事政治",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126155375267459228",
+        "lang": "en",
+        "text": "BRS leaders staged an unusual biryani protest at Hyderabad's Bavarchi restaurant on Thursday, November 26, targeting Rahul Gandhi over the alleged failure to fulfil the Congress party's promise of providing two lakh jobs to unemployed youth in Telangana.\n\nBRS leaders Manne Krishank, Putta Vishnuvardhan Reddy and Mutha Jai Simha, along with other party members, sat inside the restaurant with Rahul Gandhi's portrait and ate biryani as a symbolic protest.\n\nThe demonstration escalated after Congress leaders arrived at the venue, triggering heated arguments between the two groups. Plates were allegedly thrown at each other before police intervened and brought the situation under control.\n\nMeanwhile, Rajya Sabha MP Anil Kumar Yadav criticised the BRS leaders over their choice of protest.\n\n#BRS #Congress #RahulGandhi #Hyderabad #TelanganaPolitics #BiryaniProtest | @Journo_Abdul",
+        "author": {
+          "name": "IndiaToday",
+          "username": "IndiaToday",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2018221822471495680/N4dSGrXM_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126155375267459228/avatar.jpg"
+        },
+        "created_at": "2026-11-27T03:25:18.000Z",
+        "public_metrics": {
+          "reply_count": 2,
+          "repost_count": 45,
+          "like_count": 140,
+          "quote_count": 4,
+          "bookmark_count": 1,
+          "impression_count": 6348
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126155375267459228/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2126155281583452160/vid/avc1/720x1280/VKfaDXSKyqdEYZ9O.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-27T14:37:22+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/IndiaToday/status/2126155375267459228",
+        "ytdlp_command": "yt-dlp https://x.com/IndiaToday/status/2126155375267459228",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126155375267459228/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126177789292482620",
+            "author": {
+              "name": "Raju Hindu 🇮🇳🚩",
+              "username": "raju_ndc",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1554076268567482368/gmiKAU_O_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126155375267459228/avatars/raju_ndc.jpg"
+            },
+            "text": "@IndiaToday During their tenure of about 10 year's... BRS never fulfilled or implemented promises they've mentioned in their election manifesto....what they did is looted public money and grabbed 1000's of acres of lands...why this drama now???",
+            "created_at": "2026-11-27T04:54:22.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 69
+            },
+            "in_reply_to_id": "2126155375267459228"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "3dfaca3396a3159884743cd145720c0c95c4a7e8",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "71f6cd105f281838",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -448,6 +1170,304 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "f52a1cba3a228e6d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "9081446301e0fe29",
+      "url": "https://x.com/BJP4India/status/2126000148266561659",
+      "title_en": "India’s NSE Makes Its Mark on the Global Stage! With a market capitalisation of $64.1 billion, the National Stock Exchange (NSE) has emerged as the world’s third-largest listed stock exchange, surpassing Germany’s Deutsche Börse and the London Stock Exchange Group. This milestone reflects India’s gr",
+      "title_zh": "印人党：印度国家证券交易所市值641亿美元，升至全球上市交易所第三",
+      "summary_en": "India’s NSE Makes Its Mark on the Global Stage!\n\nWith a market capitalisation of $64.1 billion, the National Stock Exchange (NSE) has emerged as the world’s third-largest listed stock exchange, surpassing Germany’s Deutsche Börse and the London Stock Exchange Group.\n\nThis milestone reflects India’s growing prominence in the global financial ecosystem.",
+      "summary_zh": "印度人民党官方号发图称，印度国家证券交易所（NSE）市值641亿美元，已超过德国证券交易所和伦敦证券交易所集团，成为全球第三大上市交易所。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T01:08:29+08:00",
+      "fetched_at": "2026-11-27T14:37:00+08:00",
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126000148266561659",
+        "lang": "en",
+        "text": "India’s NSE Makes Its Mark on the Global Stage!\n\nWith a market capitalisation of $64.1 billion, the National Stock Exchange (NSE) has emerged as the world’s third-largest listed stock exchange, surpassing Germany’s Deutsche Börse and the London Stock Exchange Group.\n\nThis milestone reflects India’s growing prominence in the global financial ecosystem.",
+        "author": {
+          "name": "BJP",
+          "username": "BJP4India",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2053703215859077120/IH9nn6qD_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/avatar.jpg"
+        },
+        "created_at": "2026-11-26T17:08:29.000Z",
+        "public_metrics": {
+          "reply_count": 13,
+          "repost_count": 280,
+          "like_count": 1449,
+          "quote_count": 3,
+          "bookmark_count": 42,
+          "impression_count": 40504
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/photo-1.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/BJP4India/status/2126000148266561659",
+        "ytdlp_command": "yt-dlp https://x.com/BJP4India/status/2126000148266561659",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126132331001836000",
+            "author": {
+              "name": "Grok",
+              "username": "grok",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/avatars/grok.jpg"
+            },
+            "text": "@sriram_02_ @BJP4India NSE hitting $64.1B market cap (its own valuation as a listed company) makes it the world’s 3rd-largest exchange operator, behind only CME and ICE. \n\nListed just two months ago, this reflects strong investor confidence in India’s booming markets, record retail participation, and",
+            "created_at": "2026-11-27T01:53:43.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 64
+            },
+            "in_reply_to_id": "2126132237641162996"
+          },
+          {
+            "id": "2126147766032458107",
+            "author": {
+              "name": "Srinivas",
+              "username": "AmritaVarn32968",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1677206297748570112/7gxveMjb_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/avatars/AmritaVarn32968.jpg"
+            },
+            "text": "@BJP4India What is your achievement here? Stock market index is not a indicator of good economy. Even Pakistan senex id doing very well, if you by that data. Sensex is manipulated by the unscrupulous brokers to maximise their profit.",
+            "created_at": "2026-11-27T02:55:03.000Z",
+            "public_metrics": {
+              "reply_count": 2,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 251
+            },
+            "in_reply_to_id": "2126000148266561659"
+          },
+          {
+            "id": "2126156921048871036",
+            "author": {
+              "name": "ITZ_RBD🇮🇳",
+              "username": "rahuldongre1996",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1988401357901139968/bsQXk4Bl_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/avatars/rahuldongre1996.jpg"
+            },
+            "text": "@BJP4India 4-5% correct hogya stock to return 4th or 5th pe",
+            "created_at": "2026-11-27T03:31:26.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 123
+            },
+            "in_reply_to_id": "2126000148266561659"
+          },
+          {
+            "id": "2126132237641162996",
+            "author": {
+              "name": "sriram",
+              "username": "sriram_02_",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126000148266561659/avatars/sriram_02_.jpg"
+            },
+            "text": "@BJP4India @grok?? Explain significance",
+            "created_at": "2026-11-27T01:53:21.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 303
+            },
+            "in_reply_to_id": "2126000148266561659"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "3b9f0c6b986b5f4aeeff22d2c707b93f7fe2128f",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "9081446301e0fe29",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "9b9a30e5057c137c",
+      "url": "https://x.com/AmitShah/status/2125992388686692458",
+      "title_en": "महिलाओं को 33% आरक्षण मिलेगा ही मिलेगा, यह हमारा संकल्प है। #SamvidhanGauravDiwas https://t.co/bggiqPgIWp",
+      "title_zh": "阿米特·沙阿宪法日承诺：女性33%保留席位一定能落实",
+      "summary_en": "महिलाओं को 33% आरक्षण मिलेगा ही मिलेगा, यह हमारा संकल्प है।\n#SamvidhanGauravDiwas https://t.co/bggiqPgIWp",
+      "summary_zh": "内政部长阿米特·沙阿在宪法日发视频说，给女性33%保留席位“一定能落实”，称之为政府的决心。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-27T00:37:39+08:00",
+      "fetched_at": "2026-11-27T14:36:58+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125992388686692458",
+        "lang": "hi",
+        "text": "महिलाओं को 33% आरक्षण मिलेगा ही मिलेगा, यह हमारा संकल्प है।\n#SamvidhanGauravDiwas https://t.co/bggiqPgIWp",
+        "author": {
+          "name": "Amit Shah",
+          "username": "AmitShah",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054423554737983489/dhxe-t8m_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/avatar.jpg"
+        },
+        "created_at": "2026-11-26T16:37:39.000Z",
+        "public_metrics": {
+          "reply_count": 235,
+          "repost_count": 656,
+          "like_count": 3408,
+          "quote_count": 43,
+          "bookmark_count": 39,
+          "impression_count": 112968
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2125991278387118081/vid/avc1/1920x1080/A637oOnuU_IQ0fFK.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-27T14:36:58+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/AmitShah/status/2125992388686692458",
+        "ytdlp_command": "yt-dlp https://x.com/AmitShah/status/2125992388686692458",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126199238216585473",
+            "author": {
+              "name": "AD",
+              "username": "aj_dhyani",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/701243295125536769/0Wsz9h9S_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/avatars/aj_dhyani.jpg"
+            },
+            "text": "@AmitShah @BJP4Delhi ये तो BJP कल भी दे सकती थी आज भी दे सकती है-2023 में पास हुआ था महिला आरक्षण बिल \nतो अब ये तमाशा क्यों?\n\nक्योंकी महिला आरक्षण के आड़ में Delimitation बिल लाना है- 543 से बढ़ाकर 850 MPs \nपहले से ही ज्यादातर MPs कोई काम के नहीं है और उपर से टैक्स पेयर्स के पैसों पे जीवन भर पेंशन 😟 https://t.co/RXWYi2qSGK",
+            "created_at": "2026-11-27T06:19:35.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 7
+            },
+            "in_reply_to_id": "2125992388686692458"
+          },
+          {
+            "id": "2126201213792510206",
+            "author": {
+              "name": "Dinesh Minocha",
+              "username": "DineshMinocha1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1089792569012375552/3iQuqcw5_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/avatars/DineshMinocha1.jpg"
+            },
+            "text": "@AmitShah राजस्थान में जिस प्रकार जिला परिषदों के चुनाव में स्थानीय नेताओं ने अपने पूरे के पूरे परिवार को खड़ा कर दिया,  क्या बेटी और क्या बहु सभी को इससे साफ़ जाहिर है कि @BJP4India महिला reservation लागू होने के बाद क्या करने वाली है. सभी बड़े नेता अपने परिवार की महिलाओं को ही आगे लाएँगे",
+            "created_at": "2026-11-27T06:27:26.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2125992388686692458"
+          },
+          {
+            "id": "2126188181062332591",
+            "author": {
+              "name": "Raja Kinwar",
+              "username": "KinwarRaja66248",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2103399889476661248/iFXXuVQ-_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/avatars/KinwarRaja66248.jpg"
+            },
+            "text": "@AmitShah महिला आरक्षण से कौन सा विकाश होगा इससे अंततः देश पीछे ही जाएगा, आगे का रूप इस महिला आरक्षण में भी अलग अलग जाति के लिए आरक्षण चाहिए, आगे ऐसा बिल पारित होगा, मतलब आज भी देश उसी बीमारी की तरफ है और आगे का रास्ता भी खोल रहा है,,, बाटो और राज्य करो,, सभी पार्टियां का हथियार है",
+            "created_at": "2026-11-27T05:35:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2125992388686692458"
+          },
+          {
+            "id": "2126184293617868984",
+            "author": {
+              "name": "Rahul Singh",
+              "username": "real_rahulsingh",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2015232519206264833/wiRvF18Z_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125992388686692458/avatars/real_rahulsingh.jpg"
+            },
+            "text": "@AmitShah सबको आरक्षण की बैसाखी पकड़ा दो बस.\nये बुजुर्ग नेताओं ने देश का बेड़ा गर्क कर रखा है....\nअब देश को युवा चेहरों को चुनना चाहिए..\n20-50 उम्र के युवा और प्रतिभाशाली लोगों को मौका मिलेगा तो वो देश में बढ़ती आज की चुनौती को handle कर सकते हैं.",
+            "created_at": "2026-11-27T05:20:12.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2125992388686692458"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "0806b65dec8e75b960f262053a0770736688b71f",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "9b9a30e5057c137c",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

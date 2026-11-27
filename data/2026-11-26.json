@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "Asia/Shanghai",
-  "count": 122,
+  "count": 125,
   "items": [
     {
       "id": "d75911d6e2cd2786",
@@ -76,6 +76,155 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "cbe3507a41e14977",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5006dc104e1f1744",
+      "url": "https://x.com/nitin_gadkari/status/2125972826700321238",
+      "title_en": "कोलकाता के विकास को मिलेगी नई रफ्तार! दिल्ली, मुंबई और पुणे की तरह अब कोलकाता के इंफ्रास्ट्रक्चर को भी आधुनिक स्वरूप देने की दिशा में महत्वपूर्ण कदम उठाया है। आज कोलकाता के लिए लगभग 250 किलोमीटर लंबे रिंग रोड प्रोजेक्ट को ₹14,000 करोड़ की लागत से विकसित करने की घोषणा की है। इस परियोजना का उद्देश्य क",
+      "title_zh": "加德卡里宣布加尔各答约250公里环城路，投资约1400亿卢比",
+      "summary_en": "कोलकाता के विकास को मिलेगी नई रफ्तार!\n\nदिल्ली, मुंबई और पुणे की तरह अब कोलकाता के इंफ्रास्ट्रक्चर को भी आधुनिक स्वरूप देने की दिशा में महत्वपूर्ण कदम उठाया है।\n\nआज कोलकाता के लिए लगभग 250 किलोमीटर लंबे रिंग रोड प्रोजेक्ट को ₹14,000 करोड़ की लागत से विकसित करने की घोषणा की है।\n\nइस परियोजना का उद्देश्य कोलकाता में ट्रैफिक जाम की समस्या को कम करना, आवागमन को सुगम बनाना और शहर की कनेक्टिविटी को बेहतर करना है।\n\nहमारा प्रयास है कि आधुनिक सड़कें, फ्लाईओवर और बेहतर परिवहन व्यवस्था के माध्यम से कोलकाता को विश्वस्तरीय शहरी इंफ्रास्ट्रक्चर उपलब्ध कराया जाए।\n\nमुंबई और दिल्ली के बाद अब कोलकाता के विकास को नई गति देने का समय है। हमारा लक्ष्य है – आधुनिक कोलकाता, बेहतर कनेक्टिविटी और विकसित पश्चिम बंगाल!\n\n#Kolkata #WestBengal #RingRoad #InfrastructureDevelopment #NationalHighways #NitinGadkari #UrbanDevelopment\n\n@SuvenduWB",
+      "summary_zh": "公路运输部长加德卡里发视频宣布，将以约1400亿卢比建设加尔各答约250公里环城路，希望缓解拥堵、提升连通，并提到对标德里、孟买和浦那的基建。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-26T23:19:55+08:00",
+      "fetched_at": "2026-11-27T14:37:04+08:00",
+      "tags": [
+        "交通火车",
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125972826700321238",
+        "lang": "hi",
+        "text": "कोलकाता के विकास को मिलेगी नई रफ्तार!\n\nदिल्ली, मुंबई और पुणे की तरह अब कोलकाता के इंफ्रास्ट्रक्चर को भी आधुनिक स्वरूप देने की दिशा में महत्वपूर्ण कदम उठाया है।\n\nआज कोलकाता के लिए लगभग 250 किलोमीटर लंबे रिंग रोड प्रोजेक्ट को ₹14,000 करोड़ की लागत से विकसित करने की घोषणा की है।\n\nइस परियोजना का उद्देश्य कोलकाता में ट्रैफिक जाम की समस्या को कम करना, आवागमन को सुगम बनाना और शहर की कनेक्टिविटी को बेहतर करना है।\n\nहमारा प्रयास है कि आधुनिक सड़कें, फ्लाईओवर और बेहतर परिवहन व्यवस्था के माध्यम से कोलकाता को विश्वस्तरीय शहरी इंफ्रास्ट्रक्चर उपलब्ध कराया जाए।\n\nमुंबई और दिल्ली के बाद अब कोलकाता के विकास को नई गति देने का समय है। हमारा लक्ष्य है – आधुनिक कोलकाता, बेहतर कनेक्टिविटी और विकसित पश्चिम बंगाल!\n\n#Kolkata #WestBengal #RingRoad #InfrastructureDevelopment #NationalHighways #NitinGadkari #UrbanDevelopment\n\n@SuvenduWB",
+        "author": {
+          "name": "Nitin Gadkari",
+          "username": "nitin_gadkari",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2054493895262896128/MLEsE30w_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/avatar.jpg"
+        },
+        "created_at": "2026-11-26T15:19:55.000Z",
+        "public_metrics": {
+          "reply_count": 33,
+          "repost_count": 182,
+          "like_count": 745,
+          "quote_count": 5,
+          "bookmark_count": 5,
+          "impression_count": 27811
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2125965932564742144/vid/avc1/2160x3840/IkNjcOWDdq1JbkZ0.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-27T14:37:04+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/nitin_gadkari/status/2125972826700321238",
+        "ytdlp_command": "yt-dlp https://x.com/nitin_gadkari/status/2125972826700321238",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126013247358955892",
+            "author": {
+              "name": "विद्याधर पाण्डेय",
+              "username": "VidyaPa88686254",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1674827995306160130/YRr9j_3Q_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/avatars/VidyaPa88686254.jpg"
+            },
+            "text": "@nitin_gadkari म0! दिल्ली, मुम्बई, पुणे  जैसी कोलकाता की भी सड़कों के आधुनिकीकरण तथा ₹14,000करोड मे मुद्रिका सड़क निर्माण की घोषणा की है। एतदर्थ धन्पवादश्। जन प्रश्न है कि अभी तक पूणे को प्राथमिता,कोलकाता की उपेक्षा क्यों?@narendramod i @AmitShah\n@nsitharaman @MamataOfficial\n@myogiadityanath",
+            "created_at": "2026-11-26T18:00:32.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 43
+            },
+            "in_reply_to_id": "2125972826700321238"
+          },
+          {
+            "id": "2125989490653315238",
+            "author": {
+              "name": "Sanjay Sharma",
+              "username": "karant440",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2071077861998645248/Ft7laKJm_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/avatars/karant440.jpg"
+            },
+            "text": "@nitin_gadkari पश्चिम बंगाल, बिहार दोनों को ही आपने वरदान दे दिया है रोड नेटवर्क का । प्रोजेक्ट का काम शुरू होने से पहले पेड़ लगाने का काम भी शुरू कर देना होगा, क्योंकि रोड रेल नेटवर्क के लिए उन्हें हटाया जाता है जो पर्यावरण के लिए नुकसानदेह है। @SuvenduWB @DrAjoyPoddar @ArjunsinghWB",
+            "created_at": "2026-11-26T16:26:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 50
+            },
+            "in_reply_to_id": "2125972826700321238"
+          },
+          {
+            "id": "2125992512653541846",
+            "author": {
+              "name": "Badalta Bharat 🇮🇳",
+              "username": "badalta_bharat0",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2119583072400150529/X7wANY6S_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/avatars/badalta_bharat0.jpg"
+            },
+            "text": "@nitin_gadkari Big one for Kolkata 🚀 Swarajya reported last year that the Centre had picked Kolkata for one of 34 new ring roads (with Nashik, Ajmer, Udaipur and more), on top of 36 already underway. Good to see it go from a list to a ₹14,000 crore announcement.",
+            "created_at": "2026-11-26T16:38:08.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 2
+            },
+            "in_reply_to_id": "2125972826700321238"
+          },
+          {
+            "id": "2126003920648691904",
+            "author": {
+              "name": "India Unfiltered",
+              "username": "08unfiltered",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2125937432965308416/ZSlO9QJt_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125972826700321238/avatars/08unfiltered.jpg"
+            },
+            "text": "@nitin_gadkari विकास का असली मतलब सिर्फ बड़ी-बड़ी घोषणाएं नहीं, बल्कि आम जनता को जाम से राहत, बेहतर सड़कें और सुगम आवागमन मिलना है।\n\nकोलकाता का इंफ्रास्ट्रक्चर आधुनिक बने, यही उम्मीद है। अब जरूरत है इस परियोजना को समय पर धरातल पर उतारने की। 🇮🇳",
+            "created_at": "2026-11-26T17:23:28.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 38
+            },
+            "in_reply_to_id": "2125972826700321238"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "dede03d677ef4b40ad3e7a98e01ebffbd5995ee4",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "5006dc104e1f1744",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -229,6 +378,118 @@
       "cluster_id": "85d9e7b4bd823d7e",
       "cluster_item_count": 2,
       "cluster_source_count": 2
+    },
+    {
+      "id": "9527be9d42610e48",
+      "url": "https://x.com/timesofindia/status/2125960267494469703",
+      "title_en": "#InPics | A Chennai-based philanthropic couple, has donated 121 kg of gold jewellery worth Rs 207.6 crore to Lord Sri Venkateswara at Tirumala temple. The donation, comprising 46 ornaments, was presented on Thursday in the presence of Andhra Pradesh Chief Minister N Chandrababu Naidu. The jewellery ",
+      "title_zh": "金奈夫妇向蒂鲁马拉神庙捐赠121公斤金饰，估值约207.6亿卢比",
+      "summary_en": "#InPics | A Chennai-based philanthropic couple, has donated 121 kg of gold jewellery worth Rs 207.6 crore to Lord Sri Venkateswara at Tirumala temple. The donation, comprising 46 ornaments, was presented on Thursday in the presence of Andhra Pradesh Chief Minister N Chandrababu Naidu. The jewellery includes gold ornaments embellished with diamonds, precious stones, sapphires, rubies and emeralds.\n\nCatch every update on the TOI App 👉 https://t.co/ogFaRsVinV\n\n#Tirumala #Tirupati #LordVenkateswara #AndhraPradesh",
+      "summary_zh": "《印度时报》发图称，金奈一对慈善夫妇向蒂鲁马拉的文卡泰斯瓦拉神庙捐赠121公斤金饰，共46件，估值约207.6亿卢比，捐赠时安得拉邦首席部长奈杜在场。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/photo-1.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-26T22:30:00+08:00",
+      "fetched_at": "2026-11-27T14:37:17+08:00",
+      "tags": [
+        "奇人奇事",
+        "婚俗宗教"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125960267494469703",
+        "lang": "en",
+        "text": "#InPics | A Chennai-based philanthropic couple, has donated 121 kg of gold jewellery worth Rs 207.6 crore to Lord Sri Venkateswara at Tirumala temple. The donation, comprising 46 ornaments, was presented on Thursday in the presence of Andhra Pradesh Chief Minister N Chandrababu Naidu. The jewellery includes gold ornaments embellished with diamonds, precious stones, sapphires, rubies and emeralds.\n\nCatch every update on the TOI App 👉 https://t.co/ogFaRsVinV\n\n#Tirumala #Tirupati #LordVenkateswara #AndhraPradesh",
+        "author": {
+          "name": "The Times Of India",
+          "username": "timesofindia",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1619701646027792385/atwP27sC_normal.png",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/avatar.jpg"
+        },
+        "created_at": "2026-11-26T14:30:00.000Z",
+        "public_metrics": {
+          "reply_count": 4,
+          "repost_count": 7,
+          "like_count": 53,
+          "quote_count": 0,
+          "bookmark_count": 3,
+          "impression_count": 9618
+        },
+        "photos": [
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/photo-1.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/photo-2.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/photo-3.jpg",
+          "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/photo-4.jpg"
+        ],
+        "video_thumbnail": null,
+        "has_video": false,
+        "video_url": null,
+        "video_url_resolved_at": null,
+        "video_url_source": null,
+        "video_url_note": null,
+        "post_url": "https://x.com/timesofindia/status/2125960267494469703",
+        "ytdlp_command": "yt-dlp https://x.com/timesofindia/status/2125960267494469703",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126045807023685651",
+            "author": {
+              "name": "deepak",
+              "username": "deepak08124775",
+              "verified": false,
+              "avatar_source_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/avatars/deepak08124775.jpg"
+            },
+            "text": "@timesofindia philanthropy is when act is selfless for people.... by what parameter you are calling this selfish act philanthropic.... any idea",
+            "created_at": "2026-11-26T20:09:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 17
+            },
+            "in_reply_to_id": "2125960267494469703"
+          },
+          {
+            "id": "2125998347337261471",
+            "author": {
+              "name": "yash kanungo",
+              "username": "yashkbmi159",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1662683861170417665/qFpA5ZHU_normal.png",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125960267494469703/avatars/yashkbmi159.jpg"
+            },
+            "text": "@timesofindia houner salute to all multi milinier ji CM ji modi ji trust ji req to all pl develop hug school college University hospital hostel gaushala old age home free home medical education for lower income groups.instal rope car from tirupati to tirumala.devotees ji increase from world",
+            "created_at": "2026-11-26T17:01:19.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 1
+            },
+            "in_reply_to_id": "2125960267494469703"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "a4d263532cb72a71f78c9c169be1bbfde2d84b4d",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "9527be9d42610e48",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "79406dab8d9836a9",
@@ -1052,6 +1313,155 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "47c243d0fa9c6090",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "639847dab6ec715e",
+      "url": "https://x.com/ndtv/status/2125904751468650556",
+      "title_en": "📍Agra: Viral visuals from the Taj Mahal show troops of monkeys roaming the iconic monument, with tourists reportedly facing attacks #TajMahal #monkey https://t.co/lrLFFiDAkF",
+      "title_zh": "阿格拉泰姬陵出现成群猴子，游客称遭到袭击",
+      "summary_en": "📍Agra: Viral visuals from the Taj Mahal show troops of monkeys roaming the iconic monument, with tourists reportedly facing attacks\n\n#TajMahal #monkey https://t.co/lrLFFiDAkF",
+      "summary_zh": "NDTV发布视频称，阿格拉泰姬陵出现成群猴子在古迹周围活动，游客反映遭到袭击。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-26T18:49:24+08:00",
+      "fetched_at": "2026-11-27T14:37:14+08:00",
+      "tags": [
+        "动物",
+        "奇人奇事"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2125904751468650556",
+        "lang": "en",
+        "text": "📍Agra: Viral visuals from the Taj Mahal show troops of monkeys roaming the iconic monument, with tourists reportedly facing attacks\n\n#TajMahal #monkey https://t.co/lrLFFiDAkF",
+        "author": {
+          "name": "NDTV",
+          "username": "ndtv",
+          "verified": true,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2088619391072313344/klvKZ14z_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/avatar.jpg"
+        },
+        "created_at": "2026-11-26T10:49:24.000Z",
+        "public_metrics": {
+          "reply_count": 99,
+          "repost_count": 200,
+          "like_count": 2013,
+          "quote_count": 113,
+          "bookmark_count": 254,
+          "impression_count": 246659
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2125904582165544960/vid/avc1/1920x1080/8K2z3IPmhkrY8aEj.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-27T14:37:14+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/ndtv/status/2125904751468650556",
+        "ytdlp_command": "yt-dlp https://x.com/ndtv/status/2125904751468650556",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126007785037128159",
+            "author": {
+              "name": "Priyanshi",
+              "username": "pricatttt",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2125295660916494336/DxvDXVgA_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/avatars/pricatttt.jpg"
+            },
+            "text": "@ShawnMe82022891 @ndtv @rajeshparikh999 @keeperofdgreen @VV47613396 Ndtv's father Adani is busy razing forests to the ground and @ndtv is busy blaming monkeys for \"troubling\" humans. Scums!",
+            "created_at": "2026-11-26T17:38:49.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 19
+            },
+            "in_reply_to_id": "2125997391992242656"
+          },
+          {
+            "id": "2125997391992242656",
+            "author": {
+              "name": "Shawn Mendoza",
+              "username": "ShawnMe82022891",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2054625284696203264/Q47JRoe0_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/avatars/ShawnMe82022891.jpg"
+            },
+            "text": "@ndtv If you see it closely, the human population around there is more than the monkeys 🙈🐵🐒@rajeshparikh999 @keeperofdgreen @pricatttt @VV47613396 So NDTV is spreading fake news",
+            "created_at": "2026-11-26T16:57:32.000Z",
+            "public_metrics": {
+              "reply_count": 1,
+              "repost_count": 0,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 21
+            },
+            "in_reply_to_id": "2125904751468650556"
+          },
+          {
+            "id": "2126007992881697068",
+            "author": {
+              "name": "Priyanshi",
+              "username": "pricatttt",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2125295660916494336/DxvDXVgA_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/avatars/pricatttt.jpg"
+            },
+            "text": "@ShawnMe82022891 @ndtv @rajeshparikh999 @VV47613396 @keeperofdgreen They can't leave the forests and animals alone that's why we have human animal conflict",
+            "created_at": "2026-11-26T17:39:39.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 12
+            },
+            "in_reply_to_id": "2125996525344174151"
+          },
+          {
+            "id": "2125996989288743269",
+            "author": {
+              "name": "Keeper of the Green",
+              "username": "keeperofdgreen",
+              "verified": true,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2095921272094076929/LgrVL8ND_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125904751468650556/avatars/keeperofdgreen.jpg"
+            },
+            "text": "@ShawnMe82022891 @ndtv @rajeshparikh999 @VV47613396 @pricatttt Happens when humans eat up their forests.",
+            "created_at": "2026-11-26T16:55:56.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 18
+            },
+            "in_reply_to_id": "2125996525344174151"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "6f15f3f713282c3835512abb0784af5f59c216da",
+        "angle": "离谱",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "639847dab6ec715e",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2922,7 +3332,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-26T02:07:05+08:00",
-      "fetched_at": "2026-11-26T06:40:28+08:00",
+      "fetched_at": "2026-11-27T14:36:22+08:00",
       "tags": [
         "犯罪法律",
         "奇人奇事"
@@ -2953,7 +3363,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125652506885914624/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125652352107528193/vid/avc1/1280x720/lhkafk4BKLwj5_gi.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-26T06:40:28+08:00",
+        "video_url_resolved_at": "2026-11-27T14:36:22+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ABPNews/status/2125652506885914624",
@@ -2986,7 +3396,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-26T01:27:54+08:00",
-      "fetched_at": "2026-11-26T06:40:16+08:00",
+      "fetched_at": "2026-11-27T14:36:18+08:00",
       "tags": [
         "军事政治",
         "历史考古"
@@ -3017,7 +3427,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125642647159312519/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125642156945887232/vid/avc1/1222x1080/vUu_QPlTHyt5D3re.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-26T06:40:16+08:00",
+        "video_url_resolved_at": "2026-11-27T14:36:18+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/KirenRijiju/status/2125642647159312519",
@@ -3114,7 +3524,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-26T01:07:17+08:00",
-      "fetched_at": "2026-11-26T06:40:26+08:00",
+      "fetched_at": "2026-11-27T14:36:21+08:00",
       "tags": [
         "健康医疗",
         "奇人奇事"
@@ -3145,7 +3555,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125637458268426476/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125637123487465472/vid/avc1/1920x1080/T24voakJ2MKEaVUO.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-26T06:40:26+08:00",
+        "video_url_resolved_at": "2026-11-27T14:36:21+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/IndiaToday/status/2125637458268426476",
@@ -3178,7 +3588,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-26T01:02:53+08:00",
-      "fetched_at": "2026-11-26T06:40:04+08:00",
+      "fetched_at": "2026-11-27T14:36:17+08:00",
       "tags": [
         "交通火车",
         "科技发明",
@@ -3210,7 +3620,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125636354277347340/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125635409711644672/vid/avc1/2160x3840/n92soka1kGOPRg1_.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-26T06:40:04+08:00",
+        "video_url_resolved_at": "2026-11-27T14:36:17+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/nitin_gadkari/status/2125636354277347340",
@@ -3374,7 +3784,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-26T00:30:39+08:00",
-      "fetched_at": "2026-11-26T06:39:56+08:00",
+      "fetched_at": "2026-11-27T14:36:16+08:00",
       "tags": [
         "军事政治",
         "奇人奇事"
@@ -3405,7 +3815,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125628242111734214/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125628168501608449/vid/avc1/1080x1920/cOh8raAkmGbSXwmu.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-26T06:39:56+08:00",
+        "video_url_resolved_at": "2026-11-27T14:36:16+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/BJP4India/status/2125628242111734214",

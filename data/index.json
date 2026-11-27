@@ -1,16 +1,16 @@
 {
   "site": "奇闻日报",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-27T13:08:53+08:00",
+  "updated_at": "2026-11-27T14:44:46+08:00",
   "dates": [
     {
       "date": "2026-11-27",
-      "count": 18,
+      "count": 25,
       "file": "data/2026-11-27.json"
     },
     {
       "date": "2026-11-26",
-      "count": 122,
+      "count": 125,
       "file": "data/2026-11-26.json"
     },
     {
