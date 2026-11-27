@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "timezone": "Asia/Shanghai",
-  "count": 101,
+  "count": 116,
   "items": [
     {
       "id": "c079d08fef4cdae1",
@@ -277,6 +277,56 @@
       "cluster_source_count": 1
     },
     {
+      "id": "5b4e82b8f5a23448",
+      "url": "https://www.timesnownews.com/technology-science/after-code-red-govt-issues-high-security-warning-for-microsoft-users-in-india-office-windows-and-more-at-risk-article-156565697",
+      "title_en": "After Code Red, Govt Issues High Security Warning For Microsoft Users In India: Office, Windows And More At Ri",
+      "title_zh": "红色代码之后，印度政府向微软用户发出高度安全警告：Ri的Office、Windows等",
+      "summary_en": "Following a significant global outage, Microsoft's services face heightened scrutiny due to a security alert issued by India's CERT-In. T, Technology & Science, Times Now",
+      "summary_zh": "在全球范围内发生严重中断之后，由于印度 CERT-In 发布的安全警报，微软的服务面临着更严格的审查。 T，技术与科学，时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156565694,thumbsize-1013360,width-1280,height-720,resizemode-75/156565694.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T22:41:00+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "5b4e82b8f5a23448",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "616ae88d59a3175c",
+      "url": "https://www.republicworld.com/global-news/sheikh-hasina-s-voluntary-return-to-bangladesh-separate-from-extradition-request-says-mea-2026-11-25-141844",
+      "title_en": "Sheikh Hasina's Voluntary Return To Bangladesh Separate From Extradition Request, Says MEA",
+      "title_zh": "MEA 表示，谢赫·哈西娜自愿返回孟加拉国，与引渡请求无关",
+      "summary_en": "India says Sheikh Hasina&#39;s possible voluntary return to Bangladesh on a travel document is separate from Dhaka&#39;s extradition request, which is still under examination.",
+      "summary_zh": "印度表示，谢赫·哈西娜可能持旅行证件自愿返回孟加拉国，这与达卡的引渡请求无关，目前仍在审查中。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/sheikh-hasina-1769262536358-16_9.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T22:38:24+08:00",
+      "fetched_at": "2026-11-27T12:54:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4fe4a4173d3126df",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
+    },
+    {
       "id": "8ceb5c1759b3b3a7",
       "url": "https://www.republicworld.com/global-news/us-proposes-fresh-tariffs-of-up-to-25-on-indian-goods-china-faces-40-rate-2026-11-25-141843",
       "title_en": "US Proposes Fresh Tariffs Of Up To 25% On Indian Goods, China Faces 40% Rate",
@@ -348,6 +398,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "8a94fb14e166d6cb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "9b44e2291320b8e9",
+      "url": "https://www.timesnownews.com/viral/he-came-to-fix-tiles-but-ended-up-fixing-the-internets-problems-meet-the-grout-bhar-denge-man-article-156565772",
+      "title_en": "He Came To Fix Tiles, But Ended Up Fixing The Internet's Problems - Meet The 'Grout Bhar Denge' Man",
+      "title_zh": "他来修理瓷砖，但最终解决了互联网的问题 - 来认识一下“Grout Bhar Denge”人",
+      "summary_en": "A simple tile-repair demonstration by tiles worker Naseem Alvi has turned into an internet sensation, with his catchphrase 'Grout bhar denge' becoming the go-to response for everything from broken relationships to cracked heels. Here's how a routine repair video sparked a hilarious social media trend., Viral, Times Now",
+      "summary_zh": "瓷砖工人纳西姆·阿尔维（Naseem Alvi）的一个简单的瓷砖修复演示已经在网络上引起轰动，他的口号“Grout bhar denge”成为从破裂的关系到破裂的脚后跟等各种问题的首选回应。以下是一段例行维修视频如何在社交媒体上掀起一阵搞笑热潮。, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156565816,thumbsize-75616,width-1280,height-720,resizemode-75/156565816.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T22:25:34+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "9b44e2291320b8e9",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -438,6 +513,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "cc7ab6671c5db808",
+      "url": "https://www.republicworld.com/india/mea-explains-why-saurav-das-was-issued-passport-show-cause-notice-says-7-days-given-to-clarify-place-of-birth-2026-11-25-141841",
+      "title_en": "MEA Explains Why Saurav Das Was Issued Passport Show-Cause Notice, Says 7 Days Given To Clarify Place Of Birth",
+      "title_zh": "MEA 解释为什么向 Saurav Das 发出护照出示原因通知，称需要 7 天时间澄清出生地",
+      "summary_en": "The MEA said Saurav Das was issued a show-cause notice by the Chennai Regional Passport Office on November 23 over discrepancies concerning his place of birth. He has been given seven days to respond and advised not to use his passport until then.",
+      "summary_zh": "MEA 表示，金奈地区护照办公室于 11 月 23 日向 Saurav Das 发出了一份说明理由通知，原因是他的出生地存在差异。他有 7 天的时间做出回应，并建议在此之前不要使用他的护照。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/mea-explains-why-saurav-das-was-issued-passport-show-cause-notice-says-7-days-given-to-clarify-place-of-birth-1795615750773-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T22:09:29+08:00",
+      "fetched_at": "2026-11-27T12:54:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cc7ab6671c5db808",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
+    },
+    {
       "id": "caa0b52c3ffb75a4",
       "url": "https://www.republicworld.com/world-news/proud-moment-for-indias-art-cultural-world-india-pavilion-wins-best-national-pavilion-visitors-lion-at-venice-art-biennale-2026-11-25-141840",
       "title_en": "'Proud Moment for India’s Art & Cultural World': India Pavilion Wins Best National Pavilion – Visitors’ Lion at Venice Art Biennale",
@@ -484,7 +584,32 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "7af6752893f44238",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
+      "id": "2182e3fdeb12e2b1",
+      "url": "https://www.timesnownews.com/entertainment-news/web-series/yash-maheshwari-chhath-puja-joke-row-ncw-directs-bihar-dgp-for-investigation-calls-for-appropriate-action-article-156565690",
+      "title_en": "Yash Maheshwari Chhath Puja Joke Row: NCW Directs Bihar DGP For Investigation, Calls For Appropriate Action",
+      "title_zh": "Yash Maheshwari Chhath Puja 笑话行：NCW 指示比哈尔邦 DGP 进行调查，呼吁采取适当行动",
+      "summary_en": "Stand-up comedian Yash Maheshwari's recent joke about Chhath Puja's rituals sparked a massive controversy., OTT, Times Now",
+      "summary_zh": "单口喜剧演员 Yash Maheshwari 最近关于 Chhath Puja 仪式的笑话引发了巨大争议。, OTT, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156565699,thumbsize-267121,width-1280,height-720,resizemode-75/156565699.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T21:49:50+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b1a34fb6f3da9e33",
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -558,6 +683,33 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "0493658c5aec0e91",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "703384a41c8a1fe2",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/who-is-yash-maheshwari-all-about-his-comedy-career-youtube-channel-and-viral-chhath-puja-act-article-156565409",
+      "title_en": "Who Is Yash Maheshwari? All About His Comedy Career, YouTube Channel And Viral Chhath Puja Act",
+      "title_zh": "亚什·马赫什瓦里是谁？关于他的喜剧生涯、YouTube 频道和病毒式 Chhath Puja Act 的一切",
+      "summary_en": "Stand-up comedian Yash Maheshwari has landed in controversy over his remarks about Bihari women and the sindoor tradition observed during Chhath Puja. After a clip from his comedy performance went viral, several social media users criticised the comedian for allegedly disrespecting the cultural and religious significance of the festival., Bollywood, Times Now",
+      "summary_zh": "单口喜剧演员亚什·马赫什瓦里 (Yash Maheshwari) 因其有关比哈里妇女和 Chhath Puja 期间遵守的辛多传统的言论而陷入争议。在他的喜剧表演片段疯传后，一些社交媒体用户批评这位喜剧演员据称不尊重节日的文化和宗教意义。，宝莱坞，时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156565467,thumbsize-174173,width-1280,height-720,resizemode-75/156565467.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T21:01:34+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "影视神剧",
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "703384a41c8a1fe2",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -995,6 +1147,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "ad299f40288c28e7",
+      "url": "https://www.timesnownews.com/business-economy/economy/after-being-panned-for-selective-targeting-fssai-broaden-drinking-water-test-article-156565288",
+      "title_en": "After Being Panned For Selective Targeting, FSSAI Broaden Drinking Water Test",
+      "title_zh": "在因选择性目标而受到严厉批评后，FSSAI 扩大了饮用水测试范围",
+      "summary_en": "CEO ​​Punhani highlighted that FSSAI has taken action against misleading advertisements as well as claims on the labelling of food products., Economy, Times Now",
+      "summary_zh": "首席执行官 ​​Punhani 强调，FSSAI 已针对误导性广告以及食品标签声明采取行动。, 经济, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156565297,thumbsize-1883052,width-1280,height-720,resizemode-75/156565297.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T20:19:57+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "ad299f40288c28e7",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "8b503f638f643529",
       "url": "https://www.hindustantimes.com/trending/us/over-1-000-employees-became-millionaires-after-ai-firm-cerebras-ipo-ceo-says-101795606970368.html",
       "title_en": "Over 1,000 employees became millionaires after AI firm Cerebras' IPO, CEO says",
@@ -1139,8 +1316,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "16cc23911b13d14a",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "9ec2adef7a0891f4",
@@ -1192,6 +1369,32 @@
       "cluster_source_count": 1
     },
     {
+      "id": "1129b51ea434fbbb",
+      "url": "https://www.timesnownews.com/viral/greater-noida-traffic-cop-fines-inspectors-son-for-driving-car-with-hidden-number-plate-transferred-article-156564784",
+      "title_en": "Greater Noida Traffic Cop Fines Inspector's Son For Driving Car With Hidden Number Plate, Transferred",
+      "title_zh": "大诺伊达交通警察因检查员的儿子驾驶隐藏车牌并转让的汽车而被罚款",
+      "summary_en": "A Greater Noida traffic head constable has been sent to the Police Lines following a dispute over a Rs 30,000 challan issued to a Hyundai Creta with covered number plates. The car reportedly belonged to the son of a police station SHO, while an inquiry has been ordered into the altercation., Viral, Times Now",
+      "summary_zh": "一名大诺伊达交通主管警员因向一辆带有遮盖车牌的现代 Creta 发放的 3 万卢比的罚单发生争议，已被派往警戒线。据报道，这辆车属于 SHO 警察局的儿子，目前已下令对这场争吵进行调查。, 病毒式传播, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156564661,thumbsize-73722,width-1280,height-720,resizemode-75/156564661.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T18:23:31+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "1129b51ea434fbbb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "83768bab76c6c150",
       "url": "https://www.indiatoday.in/trending-news/story/digha-beach-viral-video-mother-clings-to-daughter-as-powerful-waves-sweep-them-away-3046581-2026-11-25",
       "title_en": "Mother clings to daughter as massive waves repeatedly drag them into sea in Digha",
@@ -1214,6 +1417,32 @@
       "source_region": "印度",
       "cluster_id": "83768bab76c6c150",
       "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "b1a34fb6f3da9e33",
+      "url": "https://www.timesnownews.com/entertainment-news/web-series/yash-maheshwari-faces-fir-over-chhath-puja-joke-patna-police-warn-strict-action-article-156564536",
+      "title_en": "Yash Maheshwari Faces FIR Over Chhath Puja Joke; Patna Police Warn Strict Action",
+      "title_zh": "亚什·马赫什瓦里 (Yash Maheshwari) 因 Chhath Puja 笑话而面临 FIR；巴特那警方警告采取严厉行动",
+      "summary_en": "Stand-up comedian Yash Maheshwari landed in legal trouble after mocking the auspicious festival of Chhath Puja., OTT, Times Now",
+      "summary_zh": "单口喜剧演员亚什·马赫什瓦里 (Yash Maheshwari) 在嘲笑吉祥的 Chhath Puja 节日后陷入法律麻烦。, OTT, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156564548,thumbsize-290687,width-1280,height-720,resizemode-75/156564548.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T18:04:01+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "婚俗宗教",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "b1a34fb6f3da9e33",
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -1362,8 +1591,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "8c9bbdd312130d9d",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "e5ef77a6c86bf797",
@@ -1412,6 +1641,56 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "f51ebd0c38b37a05",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "d6fb67062572ac52",
+      "url": "https://www.timesnownews.com/business-economy/companies/fssai-action-against-bisleri-puts-reliances-campa-sure-in-spotlight-article-156564208",
+      "title_en": "FSSAI Action Against Bisleri Puts Reliance's Campa Sure In Spotlight",
+      "title_zh": "FSSAI 针对 Bisleri 的行动让 Reliance 的 Campa Sure 成为人们关注的焦点",
+      "summary_en": "The incident coincides with the imminent launch of Reliance Consumer Products' Campa Sure, following a recent tax reduction on packaged water, raising questions about the timing of the FSSAI's inspection., Companies, Times Now",
+      "summary_zh": "这一事件恰逢 Reliance Consumer Products 的 Campa Sure 即将推出，最近对包装水进行了减税，引发了人们对 FSSAI 检查时间的质疑。, Companies, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156564201,thumbsize-2558061,width-1280,height-720,resizemode-75/156564201.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T17:04:52+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "街头食物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d6fb67062572ac52",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "7b75c1d78807f413",
+      "url": "https://www.timesnownews.com/business-economy/industry/air-travel-costs-surge-securities-transaction-service-prices-decline-in-q2-fy27-article-156564052/amp",
+      "title_en": "Air Travel Costs Surge, Securities Transaction Service Prices Decline In Q2 FY27",
+      "title_zh": "2027 财年第二季度航空旅行成本飙升，证券交易服务价格下降",
+      "summary_en": "Air passenger service inflation accelerated to 35.52 per cent in Q2 FY27, while securities transaction prices fell sharply, government data reveals., Industry, Times Now",
+      "summary_zh": "政府数据显示，2027 财年第二季度航空客运服务通胀加速至 35.52%，而证券交易价格大幅下跌。, 行业, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156564131,thumbsize-36992,width-1280,height-720,resizemode-75/156564131.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T17:00:09+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "7b75c1d78807f413",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -1539,6 +1818,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "0d5133345390cb6a",
+      "url": "https://www.republicworld.com/entertainment/television/gaurav-khanna-on-changing-tv-narratives-says-male-actors-have-more-room-to-experiment-2026-11-25-141824",
+      "title_en": "Gaurav Khanna On Changing TV Narratives, Says 'Male Actors Have More Room To Experiment'",
+      "title_zh": "高拉夫·卡纳 (Gaurav Khanna) 谈改变电视叙事时表示“男演员有更多实验空间”",
+      "summary_en": "Gaurav said today&#39;s television audiences are more informed and exposed to international content, making it important for the industry to rethink conventional storytelling patterns.",
+      "summary_zh": "高拉夫表示，当今的电视观众更加了解并接触到国际内容，这使得该行业重新思考传统的讲故事模式非常重要。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/gaurav-khanna-on-changing-tv-narratives-1795593943370-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T16:05:48+08:00",
+      "fetched_at": "2026-11-27T12:54:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "科学发现"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "0d5133345390cb6a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "be7e3994774a7875",
       "url": "https://www.news18.com/viral/iit-graduate-earning-rs-1-27-crore-struggles-to-find-a-bride-heres-what-he-wants-in-a-wife-ws-l-10440199.html",
       "title_en": "IIT Graduate Earning Rs 1.27 Crore Struggles To Find A Bride; Here’s What He Wants In A Wife",
@@ -1584,8 +1888,83 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "16cc23911b13d14a",
-      "cluster_item_count": 2,
-      "cluster_source_count": 2
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
+    },
+    {
+      "id": "634c65fa31333e6a",
+      "url": "https://www.timesnownews.com/entertainment-news/hollywood/ramayana-oscars-visual-effects-top-20-race-joins-avengers-doomsday-odyssey-dune-3-article-156563523",
+      "title_en": "Ramayana Enters Oscars Race: Indian Epic Up Against Avengers Doomsday, Dune 3, The Odyssey In Visual Effects",
+      "title_zh": "《罗摩衍那》入围奥斯卡角逐：印度史诗片与《复仇者联盟》《世界末日》、《沙丘 3》、《奥德赛》视觉效果的较量",
+      "summary_en": "Ranbir Kapoor's Ramayana enters the Oscars Visual Effects top 20 alongside The Odyssey, Dune 3 and Avengers: Doomsday. The full Hindi version is available for Oscar voters., Hollywood, Times Now",
+      "summary_zh": "兰比尔·卡普尔的《罗摩衍那》与《奥德赛》、《沙丘 3》和《复仇者联盟：世界末日》一起进入奥斯卡视觉效果前 20 名。完整的印地语版本可供奥斯卡投票者使用。, 好莱坞, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156563882,thumbsize-925656,width-1280,height-720,resizemode-75/156563882.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T15:53:08+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "634c65fa31333e6a",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "17cb21734b338796",
+      "url": "https://www.timesnownews.com/india/big-relief-to-rahul-gandhi-sc-sets-aside-allahabad-hc-order-in-disproportionate-assets-case-article-156563873",
+      "title_en": "BIG Relief For Rahul Gandhi! SC Sets Aside Allahabad HC Order In Disproportionate Assets Case",
+      "title_zh": "拉胡尔·甘地如释重负！ SC 撤销阿拉哈巴德 HC 在资产不成比例案件中的命令",
+      "summary_en": "The Supreme Court set aside Allahabad High Court orders in the disproportionate assets case against Rahul Gandhi, directing that the Congress leader be impleaded first., India News, Times Now",
+      "summary_zh": "最高法院撤销阿拉哈巴德高等法院在针对拉胡尔·甘地的资产不成比例案中的命令，指示首先对国大党领袖提出指控。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156563870,thumbsize-27736,width-1280,height-720,resizemode-75/156563870.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T15:51:18+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "17cb21734b338796",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "af5a5ff98ecd1d45",
+      "url": "https://www.timesnownews.com/india/biggest-contempt-for-constitution-bjps-scathing-attack-on-vijay-govt-rahul-gandhi-over-deepathoon-row-article-156563737",
+      "title_en": "'Biggest Contempt For The Constitution': BJP Slams Vijay Govt, Rahul Gandhi Over Deepathoon Row",
+      "title_zh": "“对宪法最大的蔑视”：印度人民党猛烈抨击维贾伊政府和拉胡尔·甘地深风行",
+      "summary_en": "BJP MP Sudhanshu Trivedi accused the Vijay-led Tamil Nadu government and INDIA bloc of contempt for the Constitution over alleged non-compliance with the Supreme Court's Deepathoon order., India News, Times Now",
+      "summary_zh": "印度人民党议员苏丹舒·特里维迪 (Sudhanshu Trivedi) 指责维贾伊领导的泰米尔纳德邦政府和印度集团因涉嫌不遵守最高法院的 Deepathoon 命令而蔑视宪法。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156563728,thumbsize-24720,width-1280,height-720,resizemode-75/156563728.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T15:32:52+08:00",
+      "fetched_at": "2026-11-27T12:53:56+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "af5a5ff98ecd1d45",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "488cc6225249c05a",
@@ -1684,7 +2063,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "c3bc179ceb26ef81",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {
@@ -1807,8 +2186,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a65bf725bccd0226",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "7c5ea7c83f839e3a",
@@ -2359,8 +2738,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "704b31e9b6f2614b",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "47af1220b98fbcbb",
@@ -2632,8 +3011,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 13,
-      "cluster_source_count": 4
+      "cluster_item_count": 15,
+      "cluster_source_count": 5
     },
     {
       "id": "56be2e32e38efad1",

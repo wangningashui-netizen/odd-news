@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "count": 101,
+  "count": 102,
   "items": [
     {
       "id": "443b27a8eddc7635",
@@ -1190,6 +1190,28 @@
       "url": "https://indianexpress.com/article/trending/trending-globally/19-year-old-man-escapes-death-as-speeding-car-rams-parked-two-wheeler-10918019/",
       "translation_status": "fallback",
       "cluster_id": "1201e614dd98bf81",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "1a03dabcf656d5a3",
+      "date": "2026-10-12",
+      "published_at": "2026-10-12T16:32:56+08:00",
+      "title_zh": "乘客转账 21,100 卢比帮助滞留新孟买机场的男子支付机票费用，但遭到封锁",
+      "title_en": "Passenger Transfers Rs 21,100 To Help Stranded Man With Flight Fare At Navi Mumbai Airport, Gets Blocked La",
+      "summary_zh": "该乘客声称，该男子告诉他，他的航班已取消，他需要预订另一个航班，但由于与母亲的联名账户而无法付款",
+      "summary_en": "The passenger claimed that the man told him that his flight had been cancelled and he needed to book another, but wasn’t able to make payment because of a joint account with mother",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/News18-2-2026-10-5e0172355e522b1f885471eed1ab6a17-1200x675.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "航空出行"
+      ],
+      "url": "https://www.news18.com/viral/passenger-transfers-rs-21100-to-help-stranded-man-with-flight-fare-at-navi-mumbai-airport-gets-blocked-later-ws-l-10377905.html",
+      "translation_status": "fallback",
+      "cluster_id": "1a03dabcf656d5a3",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

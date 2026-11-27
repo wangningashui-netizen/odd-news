@@ -1,6 +1,6 @@
 {
   "month": "2025-09",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "7a7bff7912bff74f",
@@ -19,6 +19,30 @@
       "url": "https://www.news18.com/viral/dink-is-now-a-celebrated-lifestyle-couples-opt-for-dual-income-no-kids-aa-ws-l-9599969.html",
       "translation_status": "fallback",
       "cluster_id": "7a7bff7912bff74f",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "d30572847b634f71",
+      "date": "2025-09-18",
+      "published_at": "2025-09-18T13:47:10+08:00",
+      "title_zh": "“Dogesh Bhai”在大胆的 Vande Bharat 火车特技中险些丧命：“Khatron Ke Khiladi” |视频",
+      "title_en": "‘Dogesh Bhai’ Narrowly Escapes Death In Daring Vande Bharat Train Stunt: ‘Khatron Ke Khiladi’ | Video",
+      "summary_zh": "视频在一个火车站台上开始，可以看到这只狗悠闲地漫步，仿佛这个地方是他的。",
+      "summary_en": "The video opens on a railway platform where the dog is seen casually strolling around as if he owns the place.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/09/news18-11-2025-09-56051da135bccc30965214bb2a4686e8-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "交通火车",
+        "影视神剧",
+        "动物"
+      ],
+      "url": "https://www.news18.com/viral/dogesh-bhai-narrowly-escapes-death-in-daring-vande-bharat-train-stunt-khatron-ke-khiladi-video-9580260.html",
+      "translation_status": "fallback",
+      "cluster_id": "d30572847b634f71",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

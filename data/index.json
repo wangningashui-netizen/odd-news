@@ -1,21 +1,26 @@
 {
   "site": "奇闻日报",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-27T07:39:54+08:00",
+  "updated_at": "2026-11-27T13:08:53+08:00",
   "dates": [
     {
+      "date": "2026-11-27",
+      "count": 18,
+      "file": "data/2026-11-27.json"
+    },
+    {
       "date": "2026-11-26",
-      "count": 12,
+      "count": 122,
       "file": "data/2026-11-26.json"
     },
     {
       "date": "2026-11-25",
-      "count": 101,
+      "count": 116,
       "file": "data/2026-11-25.json"
     },
     {
       "date": "2026-11-24",
-      "count": 121,
+      "count": 123,
       "file": "data/2026-11-24.json"
     },
     {
@@ -225,7 +230,7 @@
     },
     {
       "date": "2026-10-12",
-      "count": 3,
+      "count": 4,
       "file": "data/2026-10-12.json"
     },
     {
@@ -559,6 +564,11 @@
       "file": "data/2026-01-03.json"
     },
     {
+      "date": "2025-12-23",
+      "count": 1,
+      "file": "data/2025-12-23.json"
+    },
+    {
       "date": "2025-12-19",
       "count": 2,
       "file": "data/2025-12-19.json"
@@ -614,9 +624,19 @@
       "file": "data/2025-10-14.json"
     },
     {
+      "date": "2025-10-11",
+      "count": 1,
+      "file": "data/2025-10-11.json"
+    },
+    {
       "date": "2025-09-27",
       "count": 1,
       "file": "data/2025-09-27.json"
+    },
+    {
+      "date": "2025-09-18",
+      "count": 1,
+      "file": "data/2025-09-18.json"
     },
     {
       "date": "2025-09-16",
@@ -704,6 +724,11 @@
       "file": "data/2025-03-31.json"
     },
     {
+      "date": "2025-03-18",
+      "count": 1,
+      "file": "data/2025-03-18.json"
+    },
+    {
       "date": "2025-02-08",
       "count": 1,
       "file": "data/2025-02-08.json"
@@ -759,6 +784,11 @@
       "file": "data/2024-06-15.json"
     },
     {
+      "date": "2024-06-01",
+      "count": 1,
+      "file": "data/2024-06-01.json"
+    },
+    {
       "date": "2024-05-29",
       "count": 1,
       "file": "data/2024-05-29.json"
@@ -767,6 +797,11 @@
       "date": "2024-05-28",
       "count": 1,
       "file": "data/2024-05-28.json"
+    },
+    {
+      "date": "2024-05-04",
+      "count": 1,
+      "file": "data/2024-05-04.json"
     },
     {
       "date": "2024-04-18",
@@ -992,6 +1027,11 @@
       "date": "2023-03-31",
       "count": 1,
       "file": "data/2023-03-31.json"
+    },
+    {
+      "date": "2023-03-29",
+      "count": 1,
+      "file": "data/2023-03-29.json"
     },
     {
       "date": "2023-03-28",

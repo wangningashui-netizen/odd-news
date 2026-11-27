@@ -1,6 +1,6 @@
 {
   "month": "2023-03",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "id": "b449d17ca86fe160",
@@ -19,6 +19,28 @@
       "url": "https://www.news18.com/buzz/parrot-beak-roosters-from-andhra-pradesh-shine-at-beauty-contest-for-chickens-7428097.html",
       "translation_status": "fallback",
       "cluster_id": "b449d17ca86fe160",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "bcf39612433600d8",
+      "date": "2023-03-29",
+      "published_at": "2023-03-29T18:42:41+08:00",
+      "title_zh": "“Pingu 的爸爸在熨什么？”：卡通片中的病毒场景让每个人都问同样的问题",
+      "title_en": "'What Was Pingu's Dad Ironing?': Viral Scene from Cartoon Has Everyone Asking Same Question",
+      "summary_zh": "这条推文是由一个名为“No Context Brits”的页面发布的。",
+      "summary_en": "The tweet has been put up by a page called 'No Context Brits'.",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/03/pingu-168008643116x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/buzz/what-was-pingus-dad-ironing-viral-scene-from-cartoon-has-everyone-asking-same-question-7413835.html",
+      "translation_status": "fallback",
+      "cluster_id": "bcf39612433600d8",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

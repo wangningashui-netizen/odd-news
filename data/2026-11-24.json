@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "timezone": "Asia/Shanghai",
-  "count": 121,
+  "count": 123,
   "items": [
     {
       "id": "aa155ae7498cd5fb",
@@ -1092,6 +1092,31 @@
       "cluster_id": "9399d5043bbe95df",
       "cluster_item_count": 3,
       "cluster_source_count": 3
+    },
+    {
+      "id": "e6f2398aeda5cc58",
+      "url": "https://www.republicworld.com/india/no-terror-angle-established-yet-delhi-police-on-jama-masjid-s-knife-attack-accused-to-face-joint-interrogation-by-ib-2026-11-24-141761",
+      "title_en": "'No Terror Angle Established Yet': Delhi Police on Jama Masjid's Knife Attack; Accused to Face Joint Interrogation by IB",
+      "title_zh": "“尚未确定恐怖角度”：德里警方对贾玛清真寺持刀袭击事件的调查；被指控面临IB联合审讯",
+      "summary_en": "On Monday, the accused, Nabeel, attacked five Delhi Police personnel with a knife. They were injured in a knife attack at Jama Masjid Police Station in Central Delhi, police said. He was summoned to the police station in connection with a family dispute.",
+      "summary_zh": "周一，被告纳比尔用刀袭击了五名德里警察。警方称，他们在德里中部贾玛清真寺警察局发生持刀袭击事件中受伤。他因家庭纠纷被传唤到警察局。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/11/no-terror-angle-established-yet-delhi-police-on-jama-masjid-s-knife-attack-accused-to-face-joint-interrogation-by-ib-1795521635519-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-24T20:00:43+08:00",
+      "fetched_at": "2026-11-27T12:54:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "e6f2398aeda5cc58",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
     },
     {
       "id": "1a592926abbab98b",
@@ -2304,6 +2329,32 @@
       "cluster_source_count": 1
     },
     {
+      "id": "f79e186e1bba0576",
+      "url": "https://www.republicworld.com/entertainment/celebrities/anupam-kher-recalls-unsettling-landing-experience-after-mumbai-bound-flight-diverted-to-surat-2026-11-24-141748",
+      "title_en": "Anupam Kher Recalls Unsettling Landing Experience After Mumbai-Bound Flight Diverted To Surat",
+      "title_zh": "阿努潘·凯尔 (Anupam Kher) 回忆起飞往孟买的航班改道至苏拉特后令人不安的着陆经历",
+      "summary_en": "Calling it the fourth such unsettling experience while attempting to land in Mumbai, Anupam Kher questioned air traffic and ground congestion management.",
+      "summary_zh": "阿努帕姆·凯尔称这是尝试降落孟买时的第四次此类令人不安的经历，他对空中交通和地面拥堵管理提出了质疑。",
+      "translation_status": "fallback",
+      "image": "https://img.republicworld.com/all_images/2026/07/anupam-kher-1784007048449-1280x720.webp",
+      "image_checked": true,
+      "source": "Republic World Viral",
+      "source_id": "republic-viral",
+      "region": "印度",
+      "published_at": "2026-11-24T16:08:30+08:00",
+      "fetched_at": "2026-11-27T12:54:04+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车",
+        "航空出行"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "a52af98eaf2d03d1",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
       "id": "a52af98eaf2d03d1",
       "url": "https://www.news18.com/viral/anupam-kher-shares-harrowing-flight-experience-says-plane-had-to-divert-from-mumbai-to-surat-i-am-a-nervous-flyer-ws-l-10438643.html",
       "title_en": "Anupam Kher Shares Harrowing Flight Experience, Says Plane Had To Divert From Mumbai To Surat: 'I Am A Nerv",
@@ -2325,8 +2376,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "a52af98eaf2d03d1",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "5cf88c28534022de",
@@ -3500,7 +3551,7 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4fe4a4173d3126df",
-      "cluster_item_count": 1,
+      "cluster_item_count": 2,
       "cluster_source_count": 1
     },
     {

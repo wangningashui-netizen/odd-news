@@ -1,6 +1,6 @@
 {
   "month": "2024-06",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "acb6b2a72bbf70e8",
@@ -19,6 +19,29 @@
       "url": "https://www.news18.com/viral/watch-bihar-hospital-uses-cardboard-to-plaster-fractured-leg-of-a-man-8933187.html",
       "translation_status": "fallback",
       "cluster_id": "acb6b2a72bbf70e8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "bf640e8f7db15ba9",
+      "date": "2024-06-01",
+      "published_at": "2024-06-01T17:20:07+08:00",
+      "title_zh": "喀拉拉邦友好的野象 Chillikomban 因其对芒果的热爱而走红",
+      "title_en": "Chillikomban, Kerala's Friendly Wild Elephant, Goes Viral For His Love For Mangoes",
+      "summary_zh": "居住在喀拉拉邦帕拉卡德 (Palakkad) 内利亚姆帕蒂 (Nelliyampathy) 森林中的奇利孔班 (Chillikomban) 更喜欢踏上森林边界，品尝芒果和菠萝蜜。",
+      "summary_en": "Living in the forests of Nelliyampathy in Palakkad, Kerala, Chillikomban prefers to tread the forest borders to enjoy mangoes and jackfruits.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/06/news18-bl-zb-2024-06-9da05843a744ca7f9e897f91ce671f51-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "动物",
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/chillikomban-keralas-friendly-wild-elephant-goes-viral-for-his-love-for-mangoes-8913494.html",
+      "translation_status": "fallback",
+      "cluster_id": "bf640e8f7db15ba9",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

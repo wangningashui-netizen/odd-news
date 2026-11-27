@@ -1,4 +1,185 @@
 {
-  "date": "2026-11-26",
-  "items": []
+  "date": "2026-11-27",
+  "items": [
+    {
+      "id": "6e42ef0650fec5e2",
+      "title_en": "US coffee shop sees ‘3 busiest days’ after refusing service to TikTok influencer over bad reviews",
+      "summary_en": "A small coffee shop in Louisiana has drawn public attention after refusing service to a TikTok influencer who posted two negative reviews.",
+      "title_zh": "美国咖啡店因差评拒绝向 TikTok 影响者提供服务后迎来“最繁忙的 3 天”",
+      "summary_zh": "路易斯安那州的一家小咖啡店因拒绝为发布两条负面评论的 TikTok 网红提供服务而引起公众关注。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/us-coffee-shop-sees-3-busiest-days-after-refusing-service-to-tiktok-influencer-over-bad-reviews-101795748759653.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "ddd887258c861635",
+      "title_en": "Americans celebrate Thanksgiving with The National Dog Show as Macy’s parade is postponed: ‘TV event of the year’",
+      "summary_en": "With Macy's Thanksgiving Day parade moved to Saturday due to bad weather, many Americans are turning to the National Dog Show on TV.",
+      "title_zh": "梅西百货游行推迟，美国人通过全国狗展庆祝感恩节：“年度电视盛事”",
+      "summary_zh": "由于恶劣天气，梅西百货的感恩节游行移至周六，许多美国人开始观看电视上的全国狗展。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/us/americans-celebrate-thanksgiving-with-the-national-dog-show-as-macy-s-parade-is-postponed-tv-event-of-the-year-101795714037383.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "f52a1cba3a228e6d",
+      "title_en": "Woman evicted from North Carolina home after apartment's AI assistant approves rent extension",
+      "summary_en": "The woman believed she had secured an extension until November 30, but that turned out to not be the case.",
+      "title_zh": "公寓人工智能助理批准延长租金后，一名妇女被赶出了北卡罗来纳州的家",
+      "summary_zh": "该女士认为自己已经获得延期至 11 月 30 日的期限，但事实并非如此。",
+      "translation_status": "fallback",
+      "url": "https://www.hindustantimes.com/trending/woman-evicted-from-north-carolina-home-after-apartments-ai-assistant-approves-rent-extension-101795711715829.html",
+      "source": "Hindustan Times Trending"
+    },
+    {
+      "id": "8d5b93fa989721a5",
+      "title_en": "SpiceJet delay leaves grieving son pleading to reach home for father's last rites",
+      "summary_en": "A grieving passenger pleaded with SpiceJet staff after a delay threatened his journey to his father's last rites. The incident came amid wider financial and operational troubles at the airline.",
+      "title_zh": "香料航空的延误让悲伤的儿子恳求回家参加父亲的最后仪式",
+      "summary_zh": "一名悲痛的乘客向香料航空的工作人员恳求，因为航班延误威胁到了他前往父亲最后仪式的旅程。此次事件发生之际，该航空公司正面临更广泛的财务和运营问题。",
+      "translation_status": "fallback",
+      "url": "https://www.indiatoday.in/trending-news/story/spicejet-delay-leaves-grieving-son-pleading-to-reach-home-for-father-last-rites-3047978-2026-11-27",
+      "source": "India Today Trending"
+    },
+    {
+      "id": "554a7b023b8efbaf",
+      "title_en": "Anant Singh Kicks Driver While Greeting Guests From Car Sunroof, Video Goes Viral",
+      "summary_en": "A viral video from Bihar MLA Anant Singh's daughter's wedding celebrations shows him appearing to kick his driver while greeting guests from his SUV's sunroof. The incident has sparked discussion on social media.",
+      "title_zh": "阿南特·辛格在汽车天窗迎接客人时踢了司机，视频疯传",
+      "summary_zh": "比哈尔邦 MLA Anant Singh 女儿的婚礼庆典视频在网上疯传，视频显示，他在 SUV 的天窗迎接客人时似乎踢了司机。该事件在社交媒体上引发讨论。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/anant-singh-kicks-driver-while-greeting-guests-from-car-sunroof-video-goes-viral-12382824",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "72d0829177d01da0",
+      "title_en": "PETA Says Jensen Huang Stuck In 'Stone Age', Tells Him To Ditch His Signature Leather Jackets",
+      "summary_en": "PETA sends Nvidia CEO Jensen Huang an olive-based vegan leather jacket to promote cruelty-free fashion.",
+      "title_zh": "PETA 称黄仁勋深陷“石器时代”，要求他放弃标志性皮夹克",
+      "summary_zh": "PETA 向 Nvidia 首席执行官黄仁勋赠送了一件橄榄色纯素皮夹克，以推广零残忍时尚。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/peta-says-jensen-huang-stuck-in-stone-age-tells-him-to-ditch-his-signature-leather-jackets-12382760",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "ca10eaf9f22c1753",
+      "title_en": "Watch: Man Loses 4-Carat Diamond Ring Moments After Proposing Girlfriend At Beach",
+      "summary_en": "During a beach proposal at Calafia State Beach, a wave swept away the couple's engagement ring into the ocean.",
+      "title_zh": "观看：男子在海滩向女友求婚后失去了 4 克拉钻石戒指",
+      "summary_zh": "在卡拉菲亚州立海滩求婚期间，海浪将这对夫妇的订婚戒指卷入大海。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/watch-man-loses-4-carat-diamond-ring-moments-after-proposing-girlfriend-at-beach-12383145",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "cd4c2033a14ce636",
+      "title_en": "Delivery Driver Saves Elderly Woman After Hearing Her Faint \"Please Help\" Cries",
+      "summary_en": "Brandon McSorley saved an elderly woman who fell at home by calling 911 after hearing her faint cries.",
+      "title_zh": "送货司机听到老妇微弱的“请帮忙”哭声后救了她",
+      "summary_zh": "布兰登·麦克索利 (Brandon McSorley) 听到一名倒在家里的老妇人微弱的哭声后拨打了 911，救了她。",
+      "translation_status": "fallback",
+      "url": "https://www.ndtv.com/offbeat/delivery-driver-saves-elderly-woman-after-hearing-her-faint-please-help-cries-12382960",
+      "source": "NDTV Offbeat"
+    },
+    {
+      "id": "4e2134bd00cd95e5",
+      "title_en": "From Marketing to Manufacturing: Republic AI Summit 2026 to Examine AI’s Growing Influence Across Industries",
+      "summary_en": "Republic AI Summit 2026, presented by ZOHO on November 27, will bring industry leaders together to discuss AI&#39;s real-world impact across business, healthcare, deep-tech, manufacturing and more.",
+      "title_zh": "从营销到制造：2026 年共和人工智能峰会探讨人工智能在各行业日益增长的影响力",
+      "summary_zh": "ZOHO 于 11 月 27 日举办的 2026 年共和人工智能峰会将汇聚行业领袖，讨论人工智能对商业、医疗保健、深度技术、制造等领域的现实影响。",
+      "translation_status": "fallback",
+      "url": "https://www.republicworld.com/republic-summit/from-marketing-to-manufacturing-republic-ai-summit-2026-to-examine-ais-growing-influence-across-industries-2026-11-27-141949",
+      "source": "Republic World Viral"
+    },
+    {
+      "id": "3a1df81bf0df4a8a",
+      "title_en": "'Is He Crying?' Mohammed Siraj's Video After Being Dropped Goes Viral, Ex-India Cricketer Reacts",
+      "summary_en": "Murali Karthik felt that Mohammed Siraj was hiding tears after he was snubbed from the India playing XI from the second Test., Cricket, Times Now",
+      "title_zh": "“他在哭吗？”穆罕默德·西拉吉被摔倒后的视频疯传，前印度板球运动员做出反应",
+      "summary_zh": "穆拉利·卡蒂克 (Murali Karthik) 认为，穆罕默德·西拉吉 (Mohammed Siraj) 在第二次测试赛中被印度队冷落后，觉得他在隐藏眼泪。, 板球, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/sports/cricket/is-he-crying-mohammed-sirajs-video-after-being-dropped-goes-viral-ex-india-cricketer-reacts-article-156573046",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "41858e180445ef52",
+      "title_en": "Akhilesh Yadav's 2027 Poll Promise Blueprint: OPS, Jobs, Power, Weavers — Who Will Pay?",
+      "summary_en": "Akhilesh Yadav claims SP has a funding roadmap for its 2027 UP poll promises, including OPS, jobs, power projects and weaver welfare, while targeting BJP's spending., India News, Times Now",
+      "title_zh": "Akhilesh Yadav 的 2027 年民意调查承诺蓝图：OPS、就业、电力、织工 — 谁来付钱？",
+      "summary_zh": "Akhilesh Yadav 声称 SP 为其 2027 年 UP 民意调查承诺制定了融资路线图，包括 OPS、就业、电力项目和织工福利，同时针对 BJP 的支出。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/akhilesh-yadavs-2027-poll-promise-blueprint-ops-jobs-power-weavers-who-will-pay-article-156573056",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "43d48bc4474685ba",
+      "title_en": "'No Yogi, No UP': Sanjay Raut's Praise Adds Fuel To BJP's 2027 CM Face Debate",
+      "summary_en": "Sanjay Raut's 'No Yogi, No UP' praise has stirred the 2027 CM debate, with Keshav Maurya's remarks and Yogi's own hints adding intrigue to BJP's leadership question., India News, Times Now",
+      "title_zh": "“没有瑜伽士，就没有 UP”：桑杰·劳特 (Sanjay Raut) 的赞扬为印度人民党 2027 年 CM Face 辩论火上浇油",
+      "summary_zh": "Sanjay Raut 的“没有 Yogi，就没有 UP”的赞扬激起了 2027 年 CM 辩论，Keshav Maurya 的言论和 Yogi 自己的暗示为印度人民党的领导力问题增添了阴谋。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/no-yogi-no-up-sanjay-rauts-praise-adds-fuel-to-bjps-2027-cm-face-debate-article-156573011",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "52328650c5963e2d",
+      "title_en": "Why Pakistani Series?: Gajendra Chauhan Asks Film Bodies To Unite Against Netflix Show; More Indian Actors Bac",
+      "summary_en": "Gajendra Chauhan, Vindu Dara Singh and Manoj Joshi oppose the proposed Indian release of Fawad Khan's Jo Bachay Hain Sang Samait Lo amid the Netflix advisory row., OTT, Times Now",
+      "title_zh": "为什么选择巴基斯坦剧集？：Gajendra Chauhan 要求电影机构联合起来反对 Netflix 剧集；更多印度演员 Bac",
+      "summary_zh": "Gajendra Chauhan、Vindu Dara Singh 和 Manoj Joshi 在 Netflix 顾问争论中反对在印度发行 Fawad Khan 的 Jo Bachay Hain Sang Samait Lo。",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/entertainment-news/web-series/jo-bachay-hain-sang-samait-lo-india-ban-demand-row-gajendra-chauhan-pakistani-netflix-show-vindu-dara-singh-manoj-joshi-article-156572529",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "5dbd3fd9e198794e",
+      "title_en": "'Wherever There Are BJP-Ruled Governments...': Amit Shah's BIG Remarks On UCC",
+      "summary_en": "Amit Shah has reaffirmed the BJP's commitment to implementing the Uniform Civil Code in all party-ruled states while criticising Rahul Gandhi over his alleged remarks on constitutional institutions., India News, Times Now",
+      "title_zh": "“无论哪里有印度人民党统治的政府……”：阿米特·沙阿 (Amit Shah) 对 UCC 的重要评论",
+      "summary_zh": "阿米特·沙阿重申印度人民党致力于在所有党治邦实施统一民法典，同时批评拉胡尔·甘地关于宪法机构的所谓言论。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/wherever-there-are-bjp-ruled-governments-amit-shahs-big-remarks-on-ucc-article-156572679",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "6aa505c67d10de2d",
+      "title_en": "Stock Market Today (November 27): Sensex, Nifty Open Lower; Investors Eye Geopolitical Tensions, Brent Crude A",
+      "summary_en": "Stock Market Today (November 27): Sensex, Nifty Open Lower; Investors Eye Geopolitical Tensions, Brent Crude At $96, Markets, Times Now",
+      "title_zh": "今日股市（11 月 27 日）：Sensex、Nifty 低开；投资者关注地缘政治紧张局势和布伦特原油A",
+      "summary_zh": "今日股市（11 月 27 日）：Sensex、Nifty 低开；投资者关注地缘政治紧张局势，布伦特原油价格为 96 美元，市场，时代现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/business-economy/markets/stock-market-today-november-27-sensex-nifty-open-lower-investors-eye-geopolitical-tensions-brent-crude-at-96-article-156572999",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "814de038cf935906",
+      "title_en": "'Phone Being Tapped, Constantly Under Surveillance': Keralam CM References Orwell's '1984'",
+      "summary_en": "Keralam Chief Minister V D Satheesan expressed concerns about being under surveillance, claiming his phone is tapped, and he occasionally provides misleading information to confuse those monitoring him., India News, Times Now",
+      "title_zh": "“电话被窃听，持续受到监视”：喀拉拉邦首席部长引用奥威尔的《1984》",
+      "summary_zh": "喀拉拉邦首席部长 V D Satheesan 表达了对受到监视的担忧，声称他的电话被窃听，他偶尔会提供误导性信息来迷惑监视他的人。, 印度新闻, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/india/phone-being-tapped-constantly-under-surveillance-keralam-cm-references-orwells-1984-article-156573043",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "a7c4d39ee1099750",
+      "title_en": "Govt Warns WhatsApp Users: How Your Personal Data Could Be At Risk And Here's What To Do",
+      "summary_en": "CERT-In has issued a high-severity warning for WhatsApp and WhatsApp Business users across Android, iOS, Windows and Mac. Here's what the security flaws could mean for your data and how to stay safe., Technology & Science, Times Now",
+      "title_zh": "政府警告 WhatsApp 用户：您的个人数据可能面临风险，该怎么做",
+      "summary_zh": "CERT-In 已向 Android、iOS、Windows 和 Mac 上的 WhatsApp 和 WhatsApp Business 用户发出高度严重警告。以下是安全缺陷可能对您的数据意味着什么以及如何保持安全。, 技术与科学, Times Now",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/technology-science/govt-warns-whatsapp-users-how-your-personal-data-could-be-at-risk-and-heres-what-to-do-article-156572988",
+      "source": "Times Now Viral"
+    },
+    {
+      "id": "c98e0d4a0f382bfc",
+      "title_en": "Will AI Firms Have To Pay Authors & Artists? US Congress Prepares To Take Up Copyright Battle",
+      "summary_en": "The upcoming US Congress session is expected to address copyright issues related to artificial intelligence, focusing on protecting creators while fostering innovation. , US News, Times Now",
+      "title_zh": "人工智能公司必须向作者和艺术家付费吗？美国国会准备展开版权之战",
+      "summary_zh": "即将举行的美国国会会议预计将解决与人工智能相关的版权问题，重点是保护创作者，同时促进创新。 ，美国新闻，时报现在",
+      "translation_status": "fallback",
+      "url": "https://www.timesnownews.com/world/us/us-news/will-ai-firms-have-to-pay-authors-artists-us-congress-prepares-to-take-up-copyright-battle-article-156572355",
+      "source": "Times Now Viral"
+    }
+  ]
 }

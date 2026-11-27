@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-11",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "c35a9f1d2f518d55",
+      "url": "https://www.news18.com/viral/matrimonial-app-lets-only-men-earning-rs-50-lakh-join-woman-reacts-9628478.html",
+      "title_en": "Woman Calls Out Matrimonial App With Rs 50 Lakh Income Filter For Men: ‘This Is Gold Digger Central’",
+      "title_zh": "女人呼唤婚姻应用程序为男人提供 500 万卢比的收入过滤器：“这是淘金者中心”",
+      "summary_en": "In her video, the woman claimed that the application requires men to earn at least Rs 50 lakh a year to join and find matches.",
+      "summary_zh": "在她的视频中，该女子声称该申请要求男性每年至少赚取 500 万卢比才能加入并寻找伴侣。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/09/Untitled-design-2025-09-24T171119.931-2025-09-d5001c8d76655e7948d22ac07cd49943-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-10-11T11:05:30+08:00",
+      "fetched_at": "2026-11-27T12:53:51+08:00",
+      "page_fetched": true,
+      "tags": [
+        "科技发明"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "c35a9f1d2f518d55",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

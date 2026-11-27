@@ -1,6 +1,6 @@
 {
   "month": "2024-05",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "347b8aacac05ed28",
@@ -41,6 +41,28 @@
       "url": "https://www.news18.com/viral/bihar-teacher-makes-instagram-reels-while-checking-ppu-exam-answer-sheets-videos-go-viral-8906963.html",
       "translation_status": "fallback",
       "cluster_id": "9094575c36c415fa",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "631105a47368f970",
+      "date": "2024-05-04",
+      "published_at": "2024-05-04T18:24:18+08:00",
+      "title_zh": "阿格拉学校校长因老师迟到而殴打老师，视频疯传",
+      "title_en": "Agra School Principal Beats Teacher For Being Late, Video Goes Viral",
+      "summary_zh": "阿格拉学校校长和老师迟到后互相攻击，视频疯传。",
+      "summary_en": "Agra school principal and teacher attack each other after the latter got late, video goes viral.",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/05/untitled-2024-05-04t155139.642-2024-05-44abe41e327ee3bc9c3e7bae61d616a3-16x9.jpg",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "奇人奇事"
+      ],
+      "url": "https://www.news18.com/viral/agra-school-principal-beats-teacher-for-being-late-video-goes-viral-8877724.html",
+      "translation_status": "fallback",
+      "cluster_id": "631105a47368f970",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,

@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-23",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "6ae4fb7e5bfae5c6",
+      "url": "https://www.news18.com/viral/supermodel-anok-yai-is-fighting-silent-battle-affecting-heart-lungs-aa-ws-l-9787129.html",
+      "title_en": "Who Is 28-Year-Old Anok Yai And What ‘Silent Battle’ Is She Facing?",
+      "title_zh": "28 岁的 Anok Yai 是谁？她面临着怎样的“无声战斗”？",
+      "summary_en": "Models Naomi Campbell, Winnie Harlow and Amelia Gray send their best wishes to Anok Yai after her surgery.",
+      "summary_zh": "模特娜奥米·坎贝尔 (Naomi Campbell)、温妮·哈洛 (Winnie Harlow) 和阿米莉亚·格雷 (Amelia Gray) 向手术后的 Anok Yai 致以最良好的祝愿。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/Untitled-design-2025-12-23T114636.858-2025-12-fcce3b0d5a3b5e8b79f53a0255196c67-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-12-23T14:18:49+08:00",
+      "fetched_at": "2026-11-27T12:53:51+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6ae4fb7e5bfae5c6",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2023-03-29",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "bcf39612433600d8",
+      "url": "https://www.news18.com/buzz/what-was-pingus-dad-ironing-viral-scene-from-cartoon-has-everyone-asking-same-question-7413835.html",
+      "title_en": "'What Was Pingu's Dad Ironing?': Viral Scene from Cartoon Has Everyone Asking Same Question",
+      "title_zh": "“Pingu 的爸爸在熨什么？”：卡通片中的病毒场景让每个人都问同样的问题",
+      "summary_en": "The tweet has been put up by a page called 'No Context Brits'.",
+      "summary_zh": "这条推文是由一个名为“No Context Brits”的页面发布的。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/03/pingu-168008643116x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-03-29T18:42:41+08:00",
+      "fetched_at": "2026-11-27T12:53:51+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bcf39612433600d8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

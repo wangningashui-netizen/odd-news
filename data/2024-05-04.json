@@ -1,0 +1,32 @@
+{
+  "date": "2024-05-04",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "631105a47368f970",
+      "url": "https://www.news18.com/viral/agra-school-principal-beats-teacher-for-being-late-video-goes-viral-8877724.html",
+      "title_en": "Agra School Principal Beats Teacher For Being Late, Video Goes Viral",
+      "title_zh": "阿格拉学校校长因老师迟到而殴打老师，视频疯传",
+      "summary_en": "Agra school principal and teacher attack each other after the latter got late, video goes viral.",
+      "summary_zh": "阿格拉学校校长和老师迟到后互相攻击，视频疯传。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/05/untitled-2024-05-04t155139.642-2024-05-44abe41e327ee3bc9c3e7bae61d616a3-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-05-04T18:24:18+08:00",
+      "fetched_at": "2026-11-27T12:53:51+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "631105a47368f970",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

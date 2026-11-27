@@ -1,6 +1,6 @@
 {
   "month": "2025-03",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "edcebe345a9ed607",
@@ -20,6 +20,28 @@
       "url": "https://www.news18.com/viral/never-search-these-4-things-on-google-you-could-get-into-trouble-even-end-up-in-jail-ws-abde-9281360.html",
       "translation_status": "fallback",
       "cluster_id": "edcebe345a9ed607",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
+    {
+      "id": "e39233c5c11c6ff5",
+      "date": "2025-03-18",
+      "published_at": "2025-03-18T18:04:09+08:00",
+      "title_zh": "你能在 10 秒内解决这个数学难题吗？提示：先加，后乘",
+      "title_en": "Can You Solve This Math Puzzle In 10 Seconds? Hint: First Add, Then Multiply",
+      "summary_zh": "Brainy Quiz 在 X 上分享的一个病毒式脑筋急转弯游戏用非传统的数学方程向用户发起挑战。你能解开最后的谜题9+7=吗？发现令人惊讶的逻辑！",
+      "summary_en": "A viral brain teaser shared by Brainy Quiz on X challenges users with unconventional math equations. Can you solve the final puzzle 9+7=?? Discover the surprising logic!",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/03/maths-2025-03-4c2845e227d8fd1483ba0ed4b996faf6-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/can-you-solve-this-math-puzzle-in-10-seconds-hint-first-add-then-multiply-ws-d-9265730.html",
+      "translation_status": "fallback",
+      "cluster_id": "e39233c5c11c6ff5",
       "cluster_item_count": 1,
       "cluster_source_count": 1,
       "reddit_score": null,
