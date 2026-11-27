@@ -19,7 +19,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T23:58:15+08:00",
-      "fetched_at": "2026-11-27T14:36:17+08:00",
+      "fetched_at": "2026-11-28T06:37:37+08:00",
       "tags": [
         "健康医疗",
         "军事政治"
@@ -50,7 +50,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125620088313417997/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125619396161003520/vid/avc1/1080x1920/fYy0V4-uwCUf--p7.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-27T14:36:17+08:00",
+        "video_url_resolved_at": "2026-11-28T06:37:37+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/INCIndia/status/2125620088313417997",
@@ -442,7 +442,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T22:13:53+08:00",
-      "fetched_at": "2026-11-27T14:36:19+08:00",
+      "fetched_at": "2026-11-28T06:37:39+08:00",
       "tags": [
         "犯罪法律",
         "军事政治"
@@ -473,7 +473,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125593822998753569/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125593545587445760/vid/avc1/720x1280/SC6E55UnWZl_u6-z.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-27T14:36:19+08:00",
+        "video_url_resolved_at": "2026-11-28T06:37:39+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/ShivSenaUBT_/status/2125593822998753569",
@@ -779,7 +779,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T20:44:23+08:00",
-      "fetched_at": "2026-11-27T14:36:20+08:00",
+      "fetched_at": "2026-11-28T06:37:40+08:00",
       "tags": [
         "婚俗宗教",
         "奇人奇事"
@@ -810,7 +810,7 @@
         "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2125571299489816639/video-thumb.jpg",
         "has_video": true,
         "video_url": "https://video.twimg.com/amplify_video/2125571238894686208/vid/avc1/720x1280/4rEGa0Q3ZZGNpu40.mp4?tag=29",
-        "video_url_resolved_at": "2026-11-27T14:36:20+08:00",
+        "video_url_resolved_at": "2026-11-28T06:37:40+08:00",
         "video_url_source": "yt-dlp",
         "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
         "post_url": "https://x.com/aajtak/status/2125571299489816639",
@@ -907,7 +907,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T20:43:01+08:00",
-      "fetched_at": "2026-11-27T14:36:17+08:00",
+      "fetched_at": "2026-11-28T06:37:37+08:00",
       "tags": [
         "军事政治"
       ],
@@ -1006,7 +1006,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T20:42:18+08:00",
-      "fetched_at": "2026-11-27T14:36:16+08:00",
+      "fetched_at": "2026-11-28T06:37:36+08:00",
       "tags": [
         "航空出行",
         "军事政治"
@@ -3011,8 +3011,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "477de78095da412d",
-      "cluster_item_count": 15,
-      "cluster_source_count": 5
+      "cluster_item_count": 16,
+      "cluster_source_count": 6
     },
     {
       "id": "56be2e32e38efad1",
@@ -3280,7 +3280,7 @@
       "region": "印度",
       "source_region": "印度",
       "published_at": "2026-11-25T00:32:10+08:00",
-      "fetched_at": "2026-11-27T14:36:08+08:00",
+      "fetched_at": "2026-11-28T06:37:29+08:00",
       "tags": [
         "婚俗宗教"
       ],

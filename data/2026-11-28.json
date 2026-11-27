@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-28",
+  "timezone": "Asia/Shanghai",
+  "count": 2,
+  "items": [
+    {
+      "id": "b4ca5443df8a292b",
+      "url": "https://x.com/BJP4India/status/2126364177589494212",
+      "title_en": "No VFX. No shortcuts. Just pure engineering magic! ➡️ 6.59 km Tunnel-14 Main Tunnel of the Rishikesh–Karnaprayag Rail Project. https://t.co/Y4pk5j5MU0",
+      "title_zh": "“没有特效”：印度山区铁路6.59公里主隧道贯通",
+      "summary_en": "No VFX. No shortcuts. Just pure engineering magic!\n➡️ 6.59 km Tunnel-14 Main Tunnel of the Rishikesh–Karnaprayag Rail Project. https://t.co/Y4pk5j5MU0",
+      "summary_zh": "印度人民党官方发视频展示瑞诗凯诗—卡纳普拉亚格铁路项目的14号主隧道，全长6.59公里，配文“没有特效，没有捷径，纯粹的工程魔法”。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-28T01:15:00+08:00",
+      "fetched_at": "2026-11-28T06:38:01+08:00",
+      "tags": [
+        "交通火车",
+        "科技发明"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126364177589494212",
+        "lang": "en",
+        "text": "No VFX. No shortcuts. Just pure engineering magic!\n➡️ 6.59 km Tunnel-14 Main Tunnel of the Rishikesh–Karnaprayag Rail Project. https://t.co/Y4pk5j5MU0",
+        "author": {
+          "name": "BJP",
+          "username": "BJP4India",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/2053703215859077120/IH9nn6qD_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/avatar.jpg"
+        },
+        "created_at": "2026-11-27T17:15:00.000Z",
+        "public_metrics": {
+          "reply_count": 7,
+          "repost_count": 67,
+          "like_count": 237,
+          "quote_count": 2,
+          "bookmark_count": 13,
+          "impression_count": 25612
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2126354221687771136/vid/avc1/720x1280/y-kF7Jl8pJNsOd9b.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-28T06:38:01+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/BJP4India/status/2126364177589494212",
+        "ytdlp_command": "yt-dlp https://x.com/BJP4India/status/2126364177589494212",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126426913325650080",
+            "author": {
+              "name": "Dhruv Agarwal",
+              "username": "TheRealDhruv101",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2120121823522377728/HGRjP6pM_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/avatars/TheRealDhruv101.jpg"
+            },
+            "text": "@BJP4India 🙏🏻",
+            "created_at": "2026-11-27T21:24:17.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 1,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 3
+            },
+            "in_reply_to_id": "2126364177589494212"
+          },
+          {
+            "id": "2126399912111944177",
+            "author": {
+              "name": "NATION FIRST🇮🇳🇯🇵🇳🇵🇷🇺🇦🇪🇱🇰🇰🇷🇧🇹",
+              "username": "nihar_cn",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1953119084285181954/OTOo8Yff_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/avatars/nihar_cn.jpg"
+            },
+            "text": "@Realchauhan1 @BJP4India YEH BRO KARNATAKA SAME ALL CORRUPTION BUT NO PROJECT",
+            "created_at": "2026-11-27T19:37:00.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 4
+            },
+            "in_reply_to_id": "2126364935789957398"
+          },
+          {
+            "id": "2126364935789957398",
+            "author": {
+              "name": "Ankit Chauhan",
+              "username": "Realchauhan1",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2106762207115816960/Si7Yl7z4_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/avatars/Realchauhan1.jpg"
+            },
+            "text": "@BJP4India Every project under corruption bcz all bjp leader criminal and chhor",
+            "created_at": "2026-11-27T17:18:01.000Z",
+            "public_metrics": {
+              "reply_count": 2,
+              "repost_count": 0,
+              "like_count": 1,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 58
+            },
+            "in_reply_to_id": "2126364177589494212"
+          },
+          {
+            "id": "2126435454547550604",
+            "author": {
+              "name": "livin Dead",
+              "username": "railfanind16",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2122121673088327680/qp-HzqVP_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126364177589494212/avatars/railfanind16.jpg"
+            },
+            "text": "@Realchauhan1 @BJP4India Project ban to rha hai",
+            "created_at": "2026-11-27T21:58:14.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 0
+            },
+            "in_reply_to_id": "2126364935789957398"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "0febcab96c16b8ba64968306ee7bc6ea44dbd396",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "b4ca5443df8a292b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "5eae8c6a05595acf",
+      "url": "https://x.com/AamAadmiParty/status/2126345307948761284",
+      "title_en": "𝐑𝐚𝐠𝐡𝐚𝐯 𝐂𝐡𝐚𝐝𝐡𝐚: 𝐓𝐡𝐞 𝐔-𝐭𝐮𝐫𝐧 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭. https://t.co/RDxXm5xhv9",
+      "title_zh": "平民党发视频嘲讽拉加夫·查达是“U型转弯专家”",
+      "summary_en": "𝐑𝐚𝐠𝐡𝐚𝐯 𝐂𝐡𝐚𝐝𝐡𝐚: 𝐓𝐡𝐞 𝐔-𝐭𝐮𝐫𝐧 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭. https://t.co/RDxXm5xhv9",
+      "summary_zh": "印度平民党（AAP）官方账号发视频，标题为“拉加夫·查达：U型转弯专家”，矛头指向这位曾经的本党明星议员，12万多次浏览。",
+      "translation_status": "ai",
+      "image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/video-thumb.jpg",
+      "image_checked": true,
+      "page_fetched": true,
+      "source": "X",
+      "source_id": "x",
+      "region": "印度",
+      "source_region": "印度",
+      "published_at": "2026-11-28T00:00:01+08:00",
+      "fetched_at": "2026-11-28T06:38:08+08:00",
+      "tags": [
+        "军事政治"
+      ],
+      "tag_source": "inbox",
+      "kind": "x",
+      "x": {
+        "post_id": "2126345307948761284",
+        "lang": "en",
+        "text": "𝐑𝐚𝐠𝐡𝐚𝐯 𝐂𝐡𝐚𝐝𝐡𝐚: 𝐓𝐡𝐞 𝐔-𝐭𝐮𝐫𝐧 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭. https://t.co/RDxXm5xhv9",
+        "author": {
+          "name": "AAP",
+          "username": "AamAadmiParty",
+          "verified": false,
+          "avatar_source_url": "https://pbs.twimg.com/profile_images/1869651115265896448/bxG_sl3k_normal.jpg",
+          "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/avatar.jpg"
+        },
+        "created_at": "2026-11-27T16:00:01.000Z",
+        "public_metrics": {
+          "reply_count": 12,
+          "repost_count": 72,
+          "like_count": 590,
+          "quote_count": 3,
+          "bookmark_count": 43,
+          "impression_count": 128560
+        },
+        "photos": [],
+        "video_thumbnail": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/video-thumb.jpg",
+        "has_video": true,
+        "video_url": "https://video.twimg.com/amplify_video/2126339862697771008/vid/avc1/1080x1920/jeDwKrHi7vd0KNAz.mp4?tag=29",
+        "video_url_resolved_at": "2026-11-28T06:38:08+08:00",
+        "video_url_source": "yt-dlp",
+        "video_url_note": "直链会过期。过期后用 ytdlp_command 重新解析，不要把视频文件放进仓库。",
+        "post_url": "https://x.com/AamAadmiParty/status/2126345307948761284",
+        "ytdlp_command": "yt-dlp https://x.com/AamAadmiParty/status/2126345307948761284",
+        "comments_image": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/comments.png",
+        "comments_image_note": "根据真实回复渲染的评论区，不是 X 的截图。",
+        "replies": [
+          {
+            "id": "2126368785355739250",
+            "author": {
+              "name": "Arun Arora",
+              "username": "Arun2981",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2059889412897689600/vk3LYnG3_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/avatars/Arun2981.jpg"
+            },
+            "text": "@AamAadmiParty @Fight_For_India राघव चड्ढा \n\nकूद गया इन गड्ढा 🕳️",
+            "created_at": "2026-11-27T17:33:19.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 411
+            },
+            "in_reply_to_id": "2126345307948761284"
+          },
+          {
+            "id": "2126357783423709192",
+            "author": {
+              "name": "Prakash",
+              "username": "PDatania24618",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2051613868154314752/GOD5vyOj_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/avatars/PDatania24618.jpg"
+            },
+            "text": "@AamAadmiParty World Best I Turn specialist one and only Arvind Kejriwal 😀 yakin nahi aa raha khud dekhlo 👇😀 https://t.co/Qrf4gJh4pL",
+            "created_at": "2026-11-27T16:49:36.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 3,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 363
+            },
+            "in_reply_to_id": "2126345307948761284"
+          },
+          {
+            "id": "2126405105352327288",
+            "author": {
+              "name": "Rohitverse ↗️",
+              "username": "Rohitverse1999",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2115708784240996352/iXNX2met_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/avatars/Rohitverse1999.jpg"
+            },
+            "text": "@AamAadmiParty Raghav ab aaram wali life ji rha h pahle hamesha aandolan krna padta tha 💔🧿",
+            "created_at": "2026-11-27T19:57:38.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 93
+            },
+            "in_reply_to_id": "2126345307948761284"
+          },
+          {
+            "id": "2126393812226547966",
+            "author": {
+              "name": "Sarthak",
+              "username": "SARTHAKJIVANI",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/1770407192388329472/cN-SCnLU_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/avatars/SARTHAKJIVANI.jpg"
+            },
+            "text": "@AamAadmiParty Biggest joy of my life would be - AAP winning Punjab again!",
+            "created_at": "2026-11-27T19:12:45.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 156
+            },
+            "in_reply_to_id": "2126345307948761284"
+          },
+          {
+            "id": "2126376234238230606",
+            "author": {
+              "name": "Chitta 🇮🇳🇮🇳",
+              "username": "stspring",
+              "verified": false,
+              "avatar_source_url": "https://pbs.twimg.com/profile_images/2123088935589179392/NXd6ASKL_normal.jpg",
+              "avatar_url": "https://wangningashui-netizen.github.io/odd-news/assets/x/2126345307948761284/avatars/stspring.jpg"
+            },
+            "text": "@AamAadmiParty How does he face himself",
+            "created_at": "2026-11-27T18:02:55.000Z",
+            "public_metrics": {
+              "reply_count": 0,
+              "repost_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "bookmark_count": 0,
+              "impression_count": 144
+            },
+            "in_reply_to_id": "2126345307948761284"
+          }
+        ],
+        "replies_omitted": 0,
+        "content_sha": "3aa0059f9e9697e3956b8db23e96c12bfaa5c91d",
+        "angle": "官方",
+        "angle_source": "inbox"
+      },
+      "cluster_id": "5eae8c6a05595acf",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}
