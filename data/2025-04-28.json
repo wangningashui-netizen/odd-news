@@ -1,0 +1,32 @@
+{
+  "date": "2025-04-28",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "d133b25275311399",
+      "url": "https://www.news18.com/viral/this-secret-pencil-shop-in-baghdad-boasts-1-million-stunning-designs-watch-ws-dl-9316558.html",
+      "title_en": "This Secret Pencil Shop In Baghdad Boasts 1 Million Stunning Designs | Watch",
+      "title_zh": "巴格达这家秘密铅笔店拥有 100 万种令人惊叹的设计 |手表",
+      "summary_en": "Ankita Kumari from India found a unique pencil shop in Baghdad with 1 million pencils, owned by Ali Al Mandlawi. The shop has been operating for the last 40 years",
+      "summary_zh": "来自印度的 Ankita Kumari 在巴格达发现了一家独特的铅笔店，拥有 100 万支铅笔，店主为 Ali Al Mandlawi。这家店已经营业了40年",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/04/pencil-shop-2025-04-d2adfa86c1efe1b6b34193c00f339e1f-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2025-04-28T22:11:52+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d133b25275311399",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

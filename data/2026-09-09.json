@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-09",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "6950d66e37ad71e9",
+      "url": "https://www.news18.com/viral/anthropic-researcher-quits-over-dangerous-ai-race-warns-ai-could-kill-us-all-by-end-of-decade-ws-l-10317780.html",
+      "title_en": "Anthropic Researcher Quits Over 'Dangerous' AI Race, Warns 'AI Could Kill Us All By End Of Decade'",
+      "title_zh": "人类研究人员退出“危险”的人工智能竞赛，警告“人工智能可能会在十年内杀死我们所有人”",
+      "summary_en": "An Anthropic researcher has resigned over AI safety concerns, warning that labs are racing toward self-improving superintelligence, sparking a heated online debate",
+      "summary_zh": "一位人类研究人员因人工智能安全问题而辞职，他警告说实验室正在竞相开发自我改进的超级智能，引发了网上的激烈争论",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Untitled-design-15-2026-09-c6ce8adaae1223830a1f897e2203e2f8-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-09-09T12:38:54+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "6950d66e37ad71e9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

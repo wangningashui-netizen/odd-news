@@ -1,8 +1,33 @@
 {
   "date": "2023-03-27",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "64e8987fefac4a3b",
+      "url": "https://www.news18.com/buzz/tamil-nadu-90s-kids-shop-serves-sweet-delights-2000-children-queue-up-7396333.html",
+      "title_en": "Tamil Nadu '90s Kids Shop' Serves Sweet Delights, 2000 Children Queue Up",
+      "title_zh": "泰米尔纳德邦“90 年代儿童商店”提供甜蜜美食，2000 名儿童排队等候",
+      "summary_en": "In a bid to reverse the current trend, a candy shop has been established for those who desire to once more experience the golden era.",
+      "summary_zh": "为了扭转当前的趋势，为那些渴望再次体验黄金时代的人们开设了一家糖果店。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/03/candy-167990987616x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2023-03-27T17:40:42+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "64e8987fefac4a3b",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
     {
       "id": "2897fa32b2dd35cb",
       "url": "https://www.news18.com/buzz/womans-take-on-19th-century-qawwali-praising-kanhaiya-is-bahut-khoob-7394293.html",

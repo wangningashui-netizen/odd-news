@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-20",
+  "timezone": "Asia/Shanghai",
+  "count": 1,
+  "items": [
+    {
+      "id": "d953ed6a81e5ec6c",
+      "url": "https://www.news18.com/viral/viral-baby-monkey-punch-who-slept-with-a-plush-toy-orangutan-finally-finds-a-real-family-see-video-9918689.html",
+      "title_en": "Viral Baby Monkey Punch, Who Slept With A Stuffed Toy After Being Rejected By His Mom, Finally Finds A Family! See Video",
+      "title_zh": "被妈妈拒绝后抱着毛绒玩具睡觉的小猴子潘趣终于找到了家人！看视频",
+      "summary_en": "After months of clinging to a stuffed toy for comfort, the internet's favourite baby macaque has finally been accepted by his troop in a heartwarming breakthrough",
+      "summary_zh": "经过几个月的坚持抱着毛绒玩具寻求安慰后，互联网上最受喜爱的小猕猴终于被他的队伍接受了，这是一个令人暖心的突破",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/02/Untitled-design-30-2026-02-be49a518a21862199b8cd4f443a4d1be-16x9.jpg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-02-20T02:55:24+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "动物"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "d953ed6a81e5ec6c",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "timezone": "Asia/Shanghai",
-  "count": 116,
+  "count": 117,
   "items": [
     {
       "id": "c079d08fef4cdae1",
@@ -1790,8 +1790,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "938c72a2d19ed7a8",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "feb6819bed851626",
@@ -2138,6 +2138,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4702a01304feb15d",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "40fec1ba4463ec09",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/did-sahiba-bali-just-soft-launch-arjun-kapoor-amid-dating-rumours-internet-thinks-sooo-article-156563305",
+      "title_en": "Did Sahiba Bali Just 'Soft Launch' Arjun Kapoor Amid Dating Rumours? Internet Thinks So",
+      "title_zh": "Sahiba Bali 刚刚在约会传闻中“软启动”Arjun Kapoor 吗？互联网也是这么想的",
+      "summary_en": "Sahiba Bali has sparked fresh dating rumours with Arjun Kapoor after sharing a Gurpurab post that caught the internet's attention. Netizens believe the actress may have subtly soft-launched their rumoured relationship., Bollywood, Times Now",
+      "summary_zh": "巴厘岛萨希巴 (Sahiba Bali) 分享了引起互联网关注的 Gurpurab 帖子后，引发了与阿琼·卡普尔 (Arjun Kapoor) 约会的新谣言。网友认为这位女演员可能巧妙地软化了他们的传闻关系。，宝莱坞，时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156563342,thumbsize-325589,width-1280,height-720,resizemode-75/156563342.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-25T14:42:56+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "40fec1ba4463ec09",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -3236,8 +3261,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "44d720dcde880d78",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "5111f3f5f0e68b5c",

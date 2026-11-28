@@ -1,7 +1,29 @@
 {
   "month": "2025-11",
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "id": "098e8dd2a8a9a399",
+      "date": "2025-11-29",
+      "published_at": "2025-11-29T20:42:28+08:00",
+      "title_zh": "梅加拉亚邦妇女请求人们不要将她与“病毒式 19 分钟彩信女孩”混淆：“是的，英语 Bolti Hai，",
+      "title_en": "Meghalaya Woman Requests People Not To Confuse Her With ‘Viral 19-Minute MMS Girl’: ‘Yeh English Bolti Hai,",
+      "summary_zh": "针对谣言，这位有影响力的人要求观众将她的脸与病毒式彩信中看到的女人进行比较。",
+      "summary_en": "Addressing the rumours, the influencer asked viewers to compare her face with the woman seen in the viral MMS.",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/11/punit-canva-2025-11-29T180935.023-2025-11-64d05e92e308d8c2c5afd13a1ca84980-16x9.png",
+      "source": "News18 Viral",
+      "region": "印度",
+      "tags": [
+        "其他"
+      ],
+      "url": "https://www.news18.com/viral/viral-19-minute-mms-meghalaya-woman-requests-people-to-leave-her-alone-video-aa-ws-l-9739519.html",
+      "translation_status": "fallback",
+      "cluster_id": "098e8dd2a8a9a399",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1,
+      "reddit_score": null,
+      "reddit_comments": null
+    },
     {
       "id": "3a97f39e645fa3b7",
       "date": "2025-11-27",

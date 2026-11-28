@@ -1,7 +1,7 @@
 {
   "date": "2024-12-24",
   "timezone": "Asia/Shanghai",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "3e238399297325b8",
@@ -25,6 +25,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "3e238399297325b8",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "4e2a4babb285a1a6",
+      "url": "https://www.news18.com/viral/influencer-anish-bhagats-visit-to-red-light-district-goes-viral-9166577.html",
+      "title_en": "Influencer Spends A Day With Sex Worker, Takes Her Out For Sushi | Viral Video",
+      "title_zh": "网红与性工作者共度一天，带她出去吃寿司病毒视频",
+      "summary_en": "In a now-viral video, Indian influencer Anish Bhagat spends a day with a sex worker who opens up about her painful journey. The day concludes with the two stepping out to enjoy sushi together.",
+      "summary_zh": "在一段现已疯传的视频中，印度网红安尼什·巴加特 (Anish Bhagat) 与一名性工作者度过了一天，后者讲述了她痛苦的经历。两人一起出去享用寿司，这一天就结束了。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/12/indian-influencer-anish-bhagat-sex-worker-viral-2024-12-2361685a74a9550689c56f4fe85118cb-16x9.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2024-12-24T15:21:33+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "奇人奇事"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "4e2a4babb285a1a6",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     }

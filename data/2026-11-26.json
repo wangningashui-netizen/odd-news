@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "Asia/Shanghai",
-  "count": 125,
+  "count": 133,
   "items": [
     {
       "id": "d75911d6e2cd2786",
@@ -25,8 +25,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "d75911d6e2cd2786",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
     },
     {
       "id": "ec21f674e10b266a",
@@ -76,6 +76,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "cbe3507a41e14977",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "3d237b5a147eeaba",
+      "url": "https://www.timesnownews.com/sports/football/lionel-messi-and-cristiano-ronaldo-made-each-other-better-guardiola-on-footballs-greatest-rivalry-article-156571370",
+      "title_en": "'Lionel Messi And Cristiano Ronaldo Made Each Other Better': Guardiola On Football's Greatest Rivalry",
+      "title_zh": "“莱昂内尔·梅西和克里斯蒂亚诺·罗纳尔多让彼此变得更好”：瓜迪奥拉谈足球上最伟大的竞争",
+      "summary_en": "Pep Guardiola praised the long-standing rivalry between Cristiano Ronaldo and Lionel Messi, attributing their exceptional careers to their mutual drive to excel. , Football, Times Now",
+      "summary_zh": "瓜迪奥拉赞扬了克里斯蒂亚诺·罗纳尔多和莱昂内尔·梅西之间长期的竞争，将他们非凡的职业生涯归功于他们共同追求卓越的动力。 , 足球, 时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156571372,thumbsize-77423,width-1280,height-720,resizemode-75/156571372.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T23:21:19+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3d237b5a147eeaba",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -942,6 +967,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "2f7239f36b3b91bb",
+      "url": "https://www.timesnownews.com/entertainment-news/south/vijay-sethupathi-reacts-to-criticism-over-bigg-boss-tamil-10-political-controversy-i-know-cm-vijay-as-actor-article-156570753",
+      "title_en": "Vijay Sethupathi Reacts To Criticism Over Bigg Boss Tamil 10 Political Controversy: I Know CM Vijay As Actor",
+      "title_zh": "Vijay Sethupathi 对 Bigg Boss Tamil 10 政治争议的批评做出反应：我知道 CM Vijay 是演员",
+      "summary_en": "The 10th edition of the reality show has been in the news for its recent controversies., South, Times Now",
+      "summary_zh": "该真人秀第 10 期因其最近的争议而成为新闻焦点。, South, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156570780,thumbsize-417930,width-1280,height-720,resizemode-75/156570780.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T20:58:17+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "影视神剧"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "2f7239f36b3b91bb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
       "id": "0b27787d86d64b7e",
       "url": "https://www.timesnownews.com/health/new-blood-protein-test-could-help-doctors-track-covid-19-flu-recovery-and-other-viral-infections-lancet-article-156570744",
       "title_en": "New Blood Protein Test Could Help Doctors Track COVID-19, Flu Recovery And Other Viral Infections: Lancet",
@@ -1587,8 +1637,8 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "498a46f23e5b771a",
-      "cluster_item_count": 1,
-      "cluster_source_count": 1
+      "cluster_item_count": 3,
+      "cluster_source_count": 3
     },
     {
       "id": "ef1518e814189573",
@@ -1762,6 +1812,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "357da31c602ad5eb",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "524c42b3cc5fd87b",
+      "url": "https://www.timesnownews.com/business-economy/economy/ai-based-early-warning-systems-reduce-indias-economic-losses-from-natural-disasters-article-156569666",
+      "title_en": "AI-Based Early-Warning Systems Reduce India's Economic Losses From Natural Disasters",
+      "title_zh": "基于人工智能的预警系统减少印度因自然灾害造成的经济损失",
+      "summary_en": "India faces increasing risks from extreme weather events like landslides and floods, impacting infrastructure and economy. , Economy, Times Now",
+      "summary_zh": "印度面临着山体滑坡和洪水等极端天气事件日益增加的风险，影响基础设施和经济。 , 经济, 时代现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156569668,thumbsize-2593203,width-1280,height-720,resizemode-75/156569668.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T17:28:26+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "524c42b3cc5fd87b",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2065,6 +2140,31 @@
       "cluster_source_count": 1
     },
     {
+      "id": "3bbb12be67a895aa",
+      "url": "https://www.timesnownews.com/business-economy/companies/tata-trusts-vs-tata-sons-what-legal-experts-say-on-chandrasekarans-reappointment-row-article-156569303",
+      "title_en": "Tata Trusts vs Tata Sons: What Legal Experts Say On Chandrasekaran's Reappointment Row",
+      "title_zh": "塔塔信托与塔塔之子：法律专家对钱德拉塞卡兰的连任之争有何看法",
+      "summary_en": "Tata Trusts vs Tata Sons: What Legal Experts Say On Chandrasekaran's Reappointment Row, Companies, Times Now",
+      "summary_zh": "塔塔信托与塔塔之子：法律专家对钱德拉塞卡兰的连任、公司、时代的看法",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156569303,thumbsize-524047,width-1280,height-720,resizemode-75/156569303.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T16:36:15+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "3bbb12be67a895aa",
+      "cluster_item_count": 2,
+      "cluster_source_count": 1
+    },
+    {
       "id": "98104a3344bc8d21",
       "url": "https://www.ndtv.com/offbeat/happy-thanksgiving-2026-wishes-quotes-messages-and-whatsapp-status-12379762",
       "title_en": "Happy Thanksgiving 2026 Wishes: Quotes, Messages & WhatsApp Status",
@@ -2185,6 +2285,32 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "4236e31c91b21d68",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "cc34d42082933bd6",
+      "url": "https://www.timesnownews.com/india/jealous-of-27-year-old-cjp-founder-abhijeet-dipke-on-saurav-das-being-stopped-from-travelling-to-uk-article-156569236",
+      "title_en": "'Jealous Of 27-Year-Old': CJP Founder Abhijeet Dipke On Saurav Das Being Stopped From Travelling To UK",
+      "title_zh": "“嫉妒 27 岁”：CJP 创始人 Abhijeet Dipke 谈 Saurav Das 被禁止前往英国",
+      "summary_en": "Abhijeet Dipke, founder of the Cockroach Janta Party, accused the government of jealousy towards co-convenor Saurav Das, who was prohibited from traveling to the UK for events at prestigious institutions. , India News, Times Now",
+      "summary_zh": "蟑螂简塔党创始人阿比吉特·迪普克 (Abhijeet Dipke) 指责政府对共同召集人绍拉夫·达斯 (Saurav Das) 的嫉妒，后者被禁止前往英国参加著名机构的活动。 ，印度新闻，时报现在",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156569221,thumbsize-23016,width-1280,height-720,resizemode-75/156569221.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T16:05:34+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "街头食物",
+        "犯罪法律"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "cc34d42082933bd6",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2364,6 +2490,31 @@
       "cluster_source_count": 2
     },
     {
+      "id": "232f76d19ad91bba",
+      "url": "https://www.timesnownews.com/opinion/india/doctors-outside-liquor-outlets-are-a-circus-article-156568797",
+      "title_en": "Doctors Outside Liquor Outlets Are A Circus",
+      "title_zh": "酒类专卖店外的医生就像马戏团",
+      "summary_en": "The proposal to station doctors outside liquor outlets has sparked concerns over patient privacy, medical ethics, safety and the practical challenges of conducting examinations on busy pavements., Opinion - India, Times Now",
+      "summary_zh": "在酒类商店外派驻医生的提议引发了人们对患者隐私、医疗道德、安全以及在繁忙的人行道上进行检查的实际挑战的担忧。, 观点 - 印度, Times Now",
+      "translation_status": "fallback",
+      "image": "https://images.timesnownews.com/thumb/msid-156568764,thumbsize-801851,width-1280,height-720,resizemode-75/156568764.jpg",
+      "image_checked": true,
+      "source": "Times Now Viral",
+      "source_id": "timesnow-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T15:09:40+08:00",
+      "fetched_at": "2026-11-28T12:39:38+08:00",
+      "page_fetched": true,
+      "tags": [
+        "健康医疗"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "938c72a2d19ed7a8",
+      "cluster_item_count": 2,
+      "cluster_source_count": 2
+    },
+    {
       "id": "33958ad45ff381dd",
       "url": "https://www.republicworld.com/global-news/asian-american-businesses-being-crushed-us-lawmaker-grace-meng-condemns-trump-s-proposed-tariffs-on-14-economies-including-india-2026-11-26-141892",
       "title_en": "'Asian American Businesses Being Crushed': US Lawmaker Grace Meng Condemns Trump's Proposed Tariffs On 14 Economies, Including India",
@@ -2461,6 +2612,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "2598a61d030497e9",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "bb0f63f3cd97493b",
+      "url": "https://www.news18.com/viral/train-passenger-finds-five-girls-occupying-his-confirmed-berth-ttes-arrival-changes-everything-ws-l-10441563.html",
+      "title_en": "Train Passenger Finds Five Girls Occupying His Confirmed Berth, TTE’s Arrival Changes Everything",
+      "title_zh": "火车乘客发现五名女孩占据了他已确认的泊位，TTE的到来改变了一切",
+      "summary_en": "A train passenger found five girls occupying his confirmed sleeper berth after his delayed train finally arrived, leading to a heated argument involving other passengers.",
+      "summary_zh": "一名火车乘客在晚点的火车终于抵达后，发现五名女孩占据了他已确定的卧铺，引发了其他乘客的激烈争吵。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-Design-2026-11-26T121129.830-2026-11-a59c768c363ea991735b1ddc059819ac-1200x675.png",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T14:48:54+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "交通火车"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "bb0f63f3cd97493b",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
@@ -2661,6 +2837,31 @@
       "tag_source": "rules",
       "source_region": "印度",
       "cluster_id": "88cb23a5e70ed754",
+      "cluster_item_count": 1,
+      "cluster_source_count": 1
+    },
+    {
+      "id": "66cb65fa92ba551c",
+      "url": "https://www.news18.com/viral/mother-refuses-to-let-go-of-daughter-as-fierce-waves-toss-them-around-at-digha-beach-video-ws-l-10441460.html",
+      "title_en": "Mother Refuses To Let Go Of Daughter As Fierce Waves Toss Them Around At Digha Beach | Video",
+      "title_zh": "母亲拒绝放开女儿，因为猛烈的海浪在迪加海滩将她们抛来抛去视频",
+      "summary_en": "A mother and her daughter faced a terrifying ordeal at West Bengal’s Digha beach after powerful waves swept them off a rock and repeatedly pulled them into the sea.",
+      "summary_zh": "一对母亲和她的女儿在西孟加拉邦的迪加海滩面临着可怕的考验，强大的海浪将她们从岩石上卷下来，并反复将她们拉入海中。",
+      "translation_status": "fallback",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/WhatsApp-Image-2026-11-26-at-11.09.43-AM-2026-11-dd2d77a3e6614495be2bf7102b950353-1200x675.jpeg",
+      "image_checked": true,
+      "source": "News18 Viral",
+      "source_id": "news18-viral",
+      "region": "印度",
+      "published_at": "2026-11-26T13:53:15+08:00",
+      "fetched_at": "2026-11-28T12:39:33+08:00",
+      "page_fetched": true,
+      "tags": [
+        "其他"
+      ],
+      "tag_source": "rules",
+      "source_region": "印度",
+      "cluster_id": "66cb65fa92ba551c",
       "cluster_item_count": 1,
       "cluster_source_count": 1
     },
